@@ -1,0 +1,48 @@
+feature dlig {
+    sub s t  by \uniFB06;
+    sub c t  by c_t;
+} dlig;
+
+lookup liga_other_f {
+    sub \f \h  by \f_h;
+    sub \f \k  by \f_k;
+    sub \f \b  by \f_b;
+    sub \f \j  by \f_j;
+} liga_other_f;
+
+lookup liga_standard {
+    sub \f \i  by \uniFB01;
+    sub \f \f \i  by \uniFB03;
+    sub \longs \longs \i  by \longs_longs_i;
+    sub \longs \i  by \longs_i;
+    sub \f \f  by \f_f;
+    sub \f \l  by \uniFB02;
+    sub \f \f \l  by \uniFB04;
+    sub \longs \t  by \uniFB05;
+    sub \longs \longs \l  by \longs_longs_l;
+    sub \longs \longs \i  by \longs_longs_i;
+    sub \longs \longs  by \longs_longs;
+    sub \longs \l  by \longs_l;
+    sub \T \h  by \T_h;
+    sub \c \h  by \c_h;
+    sub \c \k  by \c_k;
+    sub \longs \s  by \longs_s;
+    sub \s \s  by \s_s;
+    sub \t \t  by \t_t;
+    sub \f \t  by \f_t;
+    sub \longs \j  by \longs_j;
+    sub \longs \b  by \longs_b;
+    sub \longs \h  by \longs_h;
+    sub \longs \k  by \longs_k;
+} liga_standard;
+
+feature liga {
+    lookup liga_standard;
+    script latn;
+	language dflt;
+         lookup liga_other_f;
+	language CRT  include_dflt;
+	language TRK  include_dflt;
+	language AZE  include_dflt;
+	language DEU  exclude_dflt;
+} liga;

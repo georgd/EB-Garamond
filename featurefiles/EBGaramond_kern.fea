@@ -1,0 +1,27 @@
+
+lookup kern {
+    pos \m \w -16;
+    pos \s \o 20;
+    pos \s \a 12;
+    pos \s \e 48;
+    pos \v \A -50;
+    pos \w \e -8;
+    pos \w \A -50;
+    pos \A \v -70;
+    pos \A \w -70;
+    pos \A \O -50;
+    pos \A \W -150;
+    pos \A \V -150;
+    pos \T \r -88;
+    pos \T \e -104;
+    pos \V \A -150;
+    pos \W \A -150;
+    pos \W \o -100;
+    pos \W \e -100;
+    pos \W \a -100;
+    pos \O \A -95;
+} kern;
+
+feature kern {
+      lookup kern;
+} kern;

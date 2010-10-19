@@ -1,0 +1,29 @@
+
+lookup loclDEU {
+    sub \Adieresis by \Adieresis.deu ;
+    sub \Odieresis by \Odieresis.deu ;
+    sub \Udieresis by \Udieresis.deu ;
+} loclDEU;
+
+
+lookup loclTRK {
+# cf. http://typophile.com/node/17787
+    sub i by i.TRK;
+} loclTRK;
+
+#lookup loclLAT {
+#    sub u by u.LAT;
+#    sub V by V.LAT;
+#} loclLAT;
+
+feature locl {
+  script latn;
+     language DEU  exclude_dflt;
+      lookup loclDEU;
+     language TRK  exclude_dflt;
+      lookup loclTRK;
+     language AZE  exclude_dflt;
+      lookup loclTRK;
+     language CRT  exclude_dflt;
+      lookup loclTRK;
+} locl;

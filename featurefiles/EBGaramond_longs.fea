@@ -1,0 +1,14 @@
+lookup longs_replacement {
+     sub s' @letters by longs;
+} longs_replacement;
+
+feature ss01 {
+    script latn;
+	language dflt;
+	 lookup longs_replacement;
+	language CRT  include_dflt;
+	language TRK  include_dflt;
+	language AZE  include_dflt;
+	language DEU  exclude_dflt;
+} ss01;
+

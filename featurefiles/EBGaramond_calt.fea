@@ -1,0 +1,50 @@
+@NO_DESC = [A-I K-P R-Z a-f h i k-o r-x z \Agrave \Aacute \Acircumflex \Atilde \Adieresis 
+	\Aring \AE \Egrave \Eacute \Ecircumflex \Edieresis \Igrave \Iacute 
+	\Icircumflex \Idieresis \Eth \Ntilde \Ograve \Oacute \Ocircumflex 
+	\Otilde \Odieresis \Oslash \Ugrave \Uacute \Ucircumflex \Udieresis 
+	\Yacute \Thorn \germandbls \agrave \aacute \acircumflex \atilde 
+	\adieresis \aring \ae \egrave \eacute \ecircumflex \edieresis \igrave 
+	\iacute \icircumflex \idieresis \eth \ntilde \ograve \oacute 
+	\ocircumflex \otilde \odieresis \oslash \ugrave \uacute \ucircumflex 
+	\udieresis \Amacron \amacron \Abreve \abreve \Cacute \cacute 
+	\Ccircumflex \ccircumflex \Cdotaccent \cdotaccent \Ccaron \ccaron 
+	\Dcaron \dcaron \Dcroat \dcroat \Emacron \emacron \Ebreve \ebreve 
+	\Edotaccent \edotaccent \Ecaron \ecaron \Gcircumflex \Gbreve 
+	\Gdotaccent \Hcircumflex \hcircumflex \Hbar \hbar \Itilde \itilde 
+	\Imacron \imacron \Ibreve \ibreve \Idotaccent \dotlessi \kgreenlandic 
+	\Lacute \lacute \Lcaron \lcaron \Ldot \ldot \Lslash \lslash \Nacute 
+	\nacute \Ncaron \ncaron \napostrophe \Omacron \omacron \Obreve \obreve 
+	\Ohungarumlaut \ohungarumlaut \OE \oe \Racute \racute \Rcaron \rcaron 
+	\Sacute \sacute \Scircumflex \scircumflex \Scaron \scaron \Tcaron 
+	\tcaron \Tbar \tbar \Utilde \utilde \Umacron \umacron \Ubreve \ubreve 
+	\Uring \uring \Uhungarumlaut \uhungarumlaut \Wcircumflex \wcircumflex 
+	\Ycircumflex \Ydieresis \Zacute \zacute \Zdotaccent \zdotaccent 
+	\Zcaron \zcaron \longs \Ohorn \ohorn \Uhorn \uhorn \uni01C4 \uni01C5 
+	\uni01C6 \uni01CD \uni01CE \uni01CF \uni01D0 \uni01D1 \uni01D2 \uni01D3 
+	\uni01D4 \uni01D5 \uni01D6 \uni01D7 \uni01D8 \uni01D9 \uni01DA \uni01DB 
+	\uni01DC \uni01DE \uni01DF \uni01E0 \uni01E1 \uni01E2 \uni01E3 \Gcaron 
+	\uni01E8 \uni01E9 \uni01F1 \uni01F2 \uni01F3 \uni01F4 \uni01F8 \uni01F9 
+	\Aringacute \aringacute \AEacute \aeacute \Oslashacute \oslashacute 
+	\uni0202 \uni0203 \uni0206 \uni0207 \uni020A \uni020B \uni020E \uni020F 
+	\uni0212 \uni0213 \uni0216 \uni0217 \uni021E \uni021F \uni0226 \uni0227 
+	\uni022A \uni022B \uni022C \uni022D \uni022E \uni022F \uni0230 \uni0231 
+	\uni0232];
+@RIGHT_DESC = [@NO_DESC q];
+
+@LONG_F = [f f_f longs longs_longs];
+@SHORT_F = [f.short f_f.short longs.short longs_longs.short];
+@HIGH_ASC = [b f h-l adieresis edieresis idieresis odieresis udieresis dotlessi thorn eth longs bracketright braceright question exclam parenright i i.TRK];
+
+lookup Q_longtail {
+    sub Q' @NO_DESC @NO_DESC by Q.long;
+    sub Q' @NO_DESC @NO_DESC @RIGHT_DESC  by Q.long;
+} Q_longtail;
+lookup f_short {
+    sub @LONG_F' @HIGH_ASC by @SHORT_F;
+    sub @LONG_F' \uni200c @HIGH_ASC by @SHORT_F;
+} f_short;
+
+feature calt {
+    lookup Q_longtail;
+    lookup f_short;
+} calt;

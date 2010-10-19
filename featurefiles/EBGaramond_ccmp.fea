@@ -1,0 +1,7 @@
+feature ccmp {
+  lookup ccmp {
+    @cc2_match_1 = [\i \j ];
+    @cc2_match_2 = [\gravecomb \acutecomb \uni0304 \uni0308 ];
+    sub @cc2_match_1' @cc2_match_2  by [\dotlessi \dotlessj ] ;
+  } ccmp;
+} ccmp;

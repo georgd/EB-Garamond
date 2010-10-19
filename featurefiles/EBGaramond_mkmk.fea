@@ -1,0 +1,10 @@
+
+lookup mkmk {
+  markClass [\acutecomb ] <anchor -140 530> @top_stack;
+  pos mark [\tilde ] <anchor -196 644> mark @top_stack;
+  pos mark [] <anchor -140 530> mark @top_stack;
+} mkmk;
+
+feature mkmk {
+      lookup mkmk;
+} mkmk;

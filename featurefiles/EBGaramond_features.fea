@@ -1,0 +1,28 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn DEU ;
+languagesystem latn TRK ;
+languagesystem latn AZE ;
+languagesystem latn CRT ;
+#languagesystem latn ROM ; not used; see discussion at https://bugs.launchpad.net/ubuntu-font-family/+bug/615565
+#languagesystem latn MOL ;
+
+@DIGITS = [zero one two three four five six seven eight nine];
+@PUNCT = [ exclam quotedbl quotesingle parenleft parenright comma period slash colon semicolon question bracketleft backslash bracketright braceleft bar braceright exclamdown questiondown guillemotleft guillemotright figuredash endash emdash uni2015 quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase ellipsis guilsinglleft guilsinglright  ];
+@letters = [ a-z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde etilde otilde utilde ];
+
+include (EBGaramond_mark.fea)
+include (EBGaramond_mkmk.fea)
+include (EBGaramond_kern.fea)
+include (EBGaramond_locals.fea)
+include (EBGaramond_longs.fea)
+include (EBGaramond_ccmp.fea)
+include (EBGaramond_script.fea)
+include (EBGaramond_figures.fea)
+include (EBGaramond_c2sc.fea)
+include (EBGaramond_smallcaps.fea)
+include (EBGaramond_ligatures.fea)
+include (EBGaramond_case.fea)
+include (EBGaramond_calt.fea)

@@ -1,0 +1,24 @@
+@ONUM = @DIGITS;
+@LNUM = [zero.lnum one.lnum two.lnum three.lnum four.lnum five.lnum six.lnum seven.lnum eight.lnum nine.lnum ];
+@ONUM_TNUM = [zero.taboldstyle one.taboldstyle two.taboldstyle three.taboldstyle four.taboldstyle five.taboldstyle six.taboldstyle seven.taboldstyle eight.taboldstyle nine.taboldstyle ];
+@LNUM_TNUM = [zero.tablining one.tablining two.tablining three.tablining four.tablining five.tablining six.tablining seven.tablining eight.tablining nine.tablining ];
+
+feature lnum {
+    sub @ONUM by @LNUM;
+    sub @ONUM_TNUM by @LNUM_TNUM;
+} lnum;
+
+feature onum {
+    sub @LNUM by @ONUM;
+    sub @LNUM_TNUM by @ONUM_TNUM;
+} onum;
+
+feature tnum {
+    sub @ONUM by @ONUM_TNUM;
+    sub @LNUM by @LNUM_TNUM;
+} tnum;
+
+feature pnum {
+    sub @ONUM_TNUM by @ONUM;
+    sub @LNUM_TNUM by @LNUM;
+} pnum;
