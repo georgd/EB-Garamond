@@ -1,7 +1,42 @@
-@ONUM = @DIGITS;
-@LNUM = [zero.lnum one.lnum two.lnum three.lnum four.lnum five.lnum six.lnum seven.lnum eight.lnum nine.lnum ];
-@ONUM_TNUM = [zero.taboldstyle one.taboldstyle two.taboldstyle three.taboldstyle four.taboldstyle five.taboldstyle six.taboldstyle seven.taboldstyle eight.taboldstyle nine.taboldstyle ];
-@LNUM_TNUM = [zero.tablining one.tablining two.tablining three.tablining four.tablining five.tablining six.tablining seven.tablining eight.tablining nine.tablining ];
+lookup subs {
+    sub @SUBS1 by @SUBS2;
+} subs;
+
+feature subs {
+    lookup subs;
+} subs; 
+
+feature dnom {
+    lookup subs;
+} dnom;
+
+lookup ordn {
+    sub @SUBS1 by @ORDN;
+} ordn;
+
+feature ordn {
+    lookup ordn;
+} ordn;
+
+feature numr {
+    lookup ordn;
+} numr;
+
+lookup sinf {
+    sub @SUBS1 by @SINF;
+} sinf;
+
+feature sinf {
+    lookup sinf;
+} sinf;
+
+lookup sups {
+    sub @SUBS1 by @SUPS;
+} sups;
+
+feature sups {
+    lookup sups;
+} sups;
 
 feature lnum {
     sub @ONUM by @LNUM;

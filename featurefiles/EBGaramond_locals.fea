@@ -3,6 +3,7 @@ lookup loclDEU {
     sub \Adieresis by \Adieresis.deu ;
     sub \Odieresis by \Odieresis.deu ;
     sub \Udieresis by \Udieresis.deu ;
+    sub f by f.DEU;
 } loclDEU;
 
 

@@ -1,14 +1,5 @@
 lookup Smallcaps {
-    sub [a-z] by [a.sc-z.sc];
-    sub longs by s.sc;
-    sub i.TRK by idot.sc;
-    sub u.LAT by v.sc;
-    sub \dotlessi by \i.sc ;
-    sub germandbls by germandbls.sc;
-    sub adieresis by adieresis.sc;
-    sub odieresis by odieresis.sc;
-    sub udieresis by udieresis.sc;
-    sub ae by ae.sc;
+    sub @SMALLCAPS_BASIS by @SMALLCAPS;
 } Smallcaps;
 
 feature smcp {

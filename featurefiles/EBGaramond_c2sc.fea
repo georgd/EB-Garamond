@@ -1,6 +1,6 @@
 lookup c2sc_standard {
     sub [A-Z] by [a.sc-z.sc];
-    sub \Idotaccent by \idot.sc ;
+    sub \Idotaccent by \i.TRKsc ;
     sub \uni1e9e by germandbls.sc;
     sub Adieresis by adieresis.sc;
     sub Odieresis by odieresis.sc;
