@@ -38,6 +38,20 @@ feature sups {
     lookup sups;
 } sups;
 
+lookup frac_slash {
+ sub slash by fraction;
+} frac_slash;
+
+lookup frac {
+ sub [ slash fraction @DIGITS @DIGITS_SUBS ] @DIGITS' by @DIGITS_SUBS;
+ sub @DIGITS' [ slash fraction @DIGITS @DIGITS_ORDN ] by @DIGITS_ORDN;
+} frac;
+
+feature frac {
+ lookup frac_slash;
+ lookup frac;
+} frac;
+
 feature lnum {
     sub @ONUM by @LNUM;
     sub @ONUM_TNUM by @LNUM_TNUM;
