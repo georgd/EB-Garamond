@@ -2,6 +2,14 @@ lookup Smallcaps {
     sub @SMALLCAPS_BASIS by @SMALLCAPS;
 } Smallcaps;
 
+lookup c2sc {
+    sub @C2SC_BASIS by @C2SC;
+} c2sc;
+
 feature smcp {
     lookup Smallcaps;
 } smcp;
+
+feature c2sc {
+    lookup c2sc;
+} c2sc;
