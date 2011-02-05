@@ -6,7 +6,6 @@ feature dlig {
 lookup liga_standard {
     sub [ f f.DEU ] i  by uniFB01; # f_i
     sub [ f f.DEU ] [ f f.DEU ] i  by uniFB03; # f_f_i
-    sub longs longs i  by longs_longs_i;
     sub longs i  by longs_i;
     sub f f by f_f;
     sub f.DEU f.DEU by f_f;
@@ -27,11 +26,9 @@ lookup liga_standard {
     sub longs longs  by longs_longs;
     sub longs l  by longs_l;
     sub T h  by T_h;
-    sub c h  by c_h;
-    sub c k  by c_k;
+#    sub c h  by c_h;
+#    sub c k  by c_k;
     sub longs s  by longs_s;
-    sub s s  by s_s;
-    sub t t  by t_t;
     sub [ f f.DEU ] t  by f_t;
     sub [ f f.DEU ] [f f.DEU] t  by f_f_t;
     sub longs j  by longs_j;
@@ -43,6 +40,10 @@ lookup liga_standard {
     sub longs longs h  by longs_longs_h;
     sub longs longs k  by longs_longs_k;
     sub longs longs t  by longs_longs_t;
+    sub L.CAT periodcentered by Ldot;
+    sub l.CAT periodcentered by ldot;
+    sub L.CATsc periodcentered by Ldot.sc;
+    sub l.CATsc periodcentered by ldot.sc;
 } liga_standard;
 
 feature liga {

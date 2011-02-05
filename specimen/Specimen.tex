@@ -1,7 +1,4 @@
 \documentclass[pagesize,11.5pt,DIV14]{scrreprt}
-%\usepackage[landscape]{geometry}
-%\usepackage{typearea}
-\usepackage{lscape}
 \usepackage{fontspec}
 \usepackage{microtype}
 \usepackage[babelshorthands]{polyglossia}
@@ -11,19 +8,9 @@
 \defaultfontfeatures{RawFeature={+calt,+clig,
 +tlig}}%,Numbers={Proportional,OldStyle}}
 \setmainfont%
- %[ Ligatures=Historical]%,Numbers=Tabular]%,
-%  BoldFont       = fxlb.otf,
-%  ItalicFont     = fxli.otf,
-%  BoldItalicFont = fxlbi.otf,
-% ]
-%{Minion Pro}
 {EBGaramond}
-%{LFOMainzerFraktur}
-%{ZapfinoExtraLTPro}
-%{LinLibertineO}
-%{Garamond Premier Pro}
-% \usepackage{blindtext}
-%\setsansfont{Linux Biolinum O}
+\setsansfont{Linux Biolinum O}
+\usepackage{cmap}
 \usepackage{multicol}
 \usepackage{sectsty}
 \paragraphfont{\normalsize\sc}
@@ -32,32 +19,24 @@
 \begin{center}
 \pagestyle{empty}
 \vspace*{5cm}
-%\vfill\vfill
 \fontsize{48}{48}{\addfontfeature{Color=980000}
-%\hrulefill
-
 EB Garamond}\\
 \vspace*{2cm}
 {\fontsize{24}{24}\addfontfeature{Color=000000} Claude Garamont’s designs go open source
 \vfill\vfill
 \today\\\vspace*{2cm}}
-\fontsize{48}{48}{\addfontfeature{Color=980000}\XeTeXglyph 1127 \XeTeXglyph 1128}%\vfill
+\fontsize{48}{48}{\addfontfeature{Color=980000}\XeTeXglyph 1127 \XeTeXglyph 1128}
 \end{center}\clearpage
-%\begin{landscape}
 \begin{multicols}{2}
 \paragraph*{Claude Garamond} (ca. 1480 – 1561) was a Parisian publisher. He was one of the leading type designers  of his time, and is credited with the introduction of the apostrophe, the accent and the cedilla to the French language. Several contemporary typefaces, including those currently known as Garamond, Granjon, and Sabon, reflect his influence. Garamond was an apprentice of Simon de Colines; later, he was an assistant to Geoffroy Tory [sic!], whose interests in humanist typography and the ancient Greek capital letterforms, or majuscules, may have informed Garamond’s later work.
 
 Garamond came to prominence in 1541, when three of his Greek typefaces (e.g. the Grecs du roi (1541)) were requested for a royally-ordered book series by Robert Estienne. Garamond based these types on the handwriting of Angelo Vergecio, the King’s Librarian at Fontainebleau, as well as that of his ten-year-old pupil, Henri Estienne. According to Arthur Tilley, the resulting books are “among the most finished specimens of typography that exist.” Shortly thereafter, Garamond created the Roman types for which […]\\
 {\scriptsize From Wikipedia, the free encyclopedia}
 \begin{catalan}
-\paragraph*{Claude Garamond} (París, 1490 - 1561) va ser un tipògraf, impressor i gravador de matrius francès. La seva obra tipogràfica es considera clàssica dins de l’estil antic i d'inspiració per a composicions modernes.
-
-%{\fontsize{16}{16}\addfontfeature{RawFeature={+smcp,+c2sc}}Trajectòria}
-
+\paragraph*{Claude Garamond}\addfontfeature{Language=Catalan} (París, 1490 - 1561) va ser un tipògraf, impressor i gravador de matrius francès. La seva obra tipogràfica es considera clàssica dins de l’estil antic i d'inspiració per a composicions modernes.
 El 1510 va començar el seu aprenentatge amb el tipògraf i impressor Antoine Augereau. Durant la primera meitat del segle XVI els impressors compartien totes les instàncies en l’elaboració d’un llibre des del disseny tipogràfic fins a l’enquadernació. Claude Garamond va ser el primer que es va especialitzar en el disseny, gravat i foneria de tipus com a servei a altres impressors ajudat pel seu aprenent Jacques Sabon. Les referències tipogràfiques de Garamond inclouen els treballs de Conrad Sweynheym, Arnold Pannartz, Erhard Ratdolt, Nicholas Jenson, Aldo Manuzio, Francesco Griffo, Henri, Robert, Ludovicio degli Arrighi de Venècia, Giovani Antonio Tagliente i Giovanbattista Palatino, una llista eclèctica d’experts coneguts per la seva excel·lència tipogràfica. A finals del 1520 Garamond va ser comissionat per a subministrar els seus tipus al famós impressor escolar Robert Estienne.\\
 {\scriptsize De Viquipèdia}
 \end{catalan}
-%\columnbreak
 \begin{german}
 \addfontfeature{Language=German}
 \paragraph*{Claude Garamond,} auch Garamont, (*1499 (oder 1490) in Paris; †\,1561 in Paris) war ein französischer Schriftgießer, Typograf, Stempelschneider und Verleger. Er schuf die noch heute verwendete Schriftart Garamond.
@@ -70,17 +49,17 @@ Nimmt man als Referenz die Arbeiten für seinen wichtigsten Kunden, den Drucker 
 {\scriptsize Aus Wikipedia, der freien Enzyklopädie}
 \end{german}
 
-%\columnbreak
 \begin{french}
 \paragraph*{Claude Garamont,} souvent orthographié Garamond (à cause de son pseudonyme Garamondus), né en 1499 à Paris où il est mort en 1561, est un tailleur et fondeur de caractères et un imprimeur français.
 
-Avec Guillaume~I Le Bé et Robert Granjon, il est un des plus fameux créateurs de caractères français du {\addfontfeature{RawFeature=+c2sc}XVI\textsuperscript{e}} siècle. Il est notamment le créateur des « Grecs du Roi », une série de polices grecques imitée de modèles manuscrits, ainsi que d’un fameux type romain qui porte son nom et qui sera abondamment copié tout au long de l’histoire.
+Avec Guillaume~I Le Bé et Robert Granjon, il est un des plus fameux créateurs de caractères français du {\addfontfeature{RawFeature=+c2sc}XVI{\addfontfeature{RawFeature=+ordn}e}} siècle. Il est notamment le créateur des « Grecs du Roi », une série de polices grecques imitée de modèles manuscrits, ainsi que d’un fameux type romain qui porte son nom et qui sera abondamment copié tout au long de l’histoire.
 
 Il a appris son métier en étant l’élève d’Antoine Augereau, un tailleur de caractères parisien qui s’était reconverti au métier de libraire et d’imprimeur.
 
-En 1540, Pierre Duchâtel, conseiller et aumônier de François Ier commanda à Garamond les poinçons de trois sortes de caractères d’un alphabet grec aux frais de Robert Estienne (qui en fit usage pour ses éditions grecques, à partir de 1543). Pour dessiner ces caractères, dit plus tard Grecs du Roi, […]\\
+En 1540, Pierre Duchâtel, conseiller et aumônier de François I{\addfontfeature{RawFeature=+ordn}er} commanda à Garamond les poinçons de trois sortes de caractères d’un alphabet grec aux frais de Robert Estienne (qui en fit usage pour ses éditions grecques, à partir de 1543). Pour dessiner ces caractères, dit plus tard Grecs du Roi, […]\\
 {\scriptsize De Wikipédia, l'encyclopédie libre.}
 \end{french}
+
 \begin{portuges}
 \paragraph*{Claude Garamond} (1480-1561) foi um editor francês.
 
@@ -126,8 +105,8 @@ Czynność, w wyniku której powstawał tekst uformowany w taki sposób, nazywan
 Podstawowymi cechami złożonego tekstu były: ustalony krój pisma w określonej odmianie i stopniu, oraz szerokość wierszy.\\
 {\scriptsize Z Wikipedii, wolnej encyklopedii.}
 \end{polish}
-\begin{latin}
-\paragraph*{Claudius Garamond} (etiam Garamont natus Lutetiae anno 1499 (aut anno 1490) - ibidem mortuus est anno 1561) fuit typographus et editor Francicus, qui clarus est praecipue quia scripturam quae eius nomen Garamond fert creavit.
+\begin{latin} \addfontfeature{Language=Latin}
+\paragraph*{\addfontfeature{Language=Latin}Claudius Garamond} (etiam Garamont natus Lutetiae anno 1499 (aut anno 1490) - ibidem mortuus est anno 1561) fuit typographus et editor Francicus, qui clarus est praecipue quia scripturam quae eius nomen Garamond fert creavit.
 {\scriptsize E Vicipaedia}
 \end{latin}
 \end{multicols}

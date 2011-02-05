@@ -142,29 +142,8 @@ lookup \mark {
 	<anchor 335 700> mark @top_accent;
   pos base [\z \uni0292 ] <anchor 202 -100> mark @below_accent
 	<anchor 207 550> mark @top_accent;
-  pos base [] <anchor -182 531> mark @top_accent;
   pos base [\dotlessi ] <anchor 115 550> mark @top_accent;
-  pos base [] <anchor -167 550> mark @top_accent;
-  pos base [] <anchor 169 550> mark @top_accent;
-  pos base [] <anchor 169 533> mark @top_accent;
-  pos base [] <anchor 164 533> mark @top_accent;
-  pos base [] <anchor 174 8> mark @cedilla;
-  pos base [] <anchor 169 533> mark @top_accent;
-  pos base [] <anchor 111 550> mark @top_accent;
-  pos base [] <anchor 111 550> mark @top_accent;
-  pos base [] <anchor 129 550> mark @top_accent;
-  pos base [] <anchor 92 550> mark @top_accent;
-  pos base [] <anchor 284 18> mark @ogonek;
-  pos base [] <anchor 86 -100> mark @below_accent;
   pos base [\dotlessj ] <anchor 100 550> mark @top_accent;
-  pos base [] <anchor -167 531> mark @top_accent;
-  pos base [] <anchor -127 550> mark @top_accent;
-  pos base [] <anchor -127 531> mark @top_accent;
-  pos base [] <anchor -106 18> mark @ogonek;
-  pos base [] <anchor -196 533> mark @top_accent;
-  pos base [] <anchor -253 550> mark @top_accent;
-  pos base [] <anchor -140 550> mark @top_accent;
-  pos base [] <anchor 150 550> mark @top_accent;
   pos base [\Alpha ] <anchor 340 -100> mark @below_accent
 	<anchor 174 630> mark @top_accent;
   pos base [\Epsilon ] <anchor -36 661> mark @top_accent;
@@ -173,41 +152,17 @@ lookup \mark {
   pos base [\Iota ] <anchor -19 646> mark @top_accent;
   pos base [\Upsilon ] <anchor -65 653> mark @top_accent;
   pos base [\uniFB02 \uniFB04 \longs_longs_l \longs_l ] <anchor 655 -100> mark @below_accent;
-  pos base [] <anchor 180 540> mark @top_accent;
-  pos base [] <anchor -134 550> mark @top_accent;
-  pos base [] <anchor -180 531> mark @top_accent;
-  pos base [] <anchor 200 550> mark @top_accent;
-  pos base [] <anchor -167 533> mark @top_accent;
-  pos base [] <anchor 103 550> mark @top_accent;
-  pos base [] <anchor 169 533> mark @top_accent;
-  pos base [] <anchor -189 680> mark @top_accent;
-  pos base [] <anchor -189 680> mark @top_accent;
-  pos base [] <anchor -154 678> mark @top_accent;
-  pos base [] <anchor -154 678> mark @top_accent;
-  pos base [] <anchor -182 700> mark @top_accent;
-  pos base [] <anchor -182 700> mark @top_accent;
-  pos base [] <anchor -200 693> mark @top_accent;
-  pos base [] <anchor -200 700> mark @top_accent;
-  pos base [] <anchor -200 700> mark @top_accent;
-  pos base [] <anchor -220 700> mark @top_accent;
-  pos base [] <anchor -200 700> mark @top_accent;
   pos base [\AE ] <anchor 540 700> mark @top_accent;
-  pos base [] <anchor -200 700> mark @top_accent;
   pos base [\lslash ] <anchor 115 -100> mark @below_accent
 	<anchor 122 782> mark @top_accent;
-  pos base [] <anchor -149 700> mark @top_accent;
   pos base [\a.sc ] <anchor 276 550> mark @top_accent;
   pos base [\e.sc ] <anchor 206 550> mark @top_accent;
   pos base [\i.sc ] <anchor 166 550> mark @top_accent;
   pos base [\o.sc ] <anchor 302 550> mark @top_accent;
-  pos base [] <anchor 105 700> mark @top_accent;
   pos base [\ae ] <anchor 299 550> mark @top_accent;
   pos base [\g.sc ] <anchor 268 -99> mark @below_accent;
   pos base [\u.sc ] <anchor 293 532> mark @top_accent;
-  pos base [] <anchor 174 8> mark @cedilla;
-  pos base [] <anchor 284 18> mark @ogonek;
   pos base [\Gamma ] <anchor 272 700> mark @top_accent;
-  pos base [] <anchor 164 -100> mark @below_accent;
   pos base [\f_t ] <anchor 465 8> mark @cedilla
 	<anchor 134 -100> mark @below_accent
 	<anchor 281 768> mark @top_accent;
@@ -215,110 +170,6 @@ lookup \mark {
 	<anchor 19 650> mark @top_accent;
   pos base [\afii10026 ] <anchor 402 700> mark @top_accent;
   pos base [\afii10037 ] <anchor 326 700> mark @top_accent;
-  pos base [\NameMe.1260 ] <anchor 81 5> mark @cedilla
-	<anchor 233 -60> mark @below_accent
-	<anchor 330 11> mark @ogonek
-	<anchor 236 420> mark @top_accent;
-  pos base [\NameMe.1261 ] <anchor 177 -60> mark @below_accent
-	<anchor 167 420> mark @top_accent;
-  pos base [\NameMe.1262 ] <anchor 263 -60> mark @below_accent
-	<anchor 277 5> mark @cedilla
-	<anchor 248 420> mark @top_accent;
-  pos base [\NameMe.1263 \NameMe.1274 ] <anchor 268 5> mark @cedilla
-	<anchor 240 -60> mark @below_accent
-	<anchor 222 420> mark @top_accent;
-  pos base [\NameMe.1264 ] <anchor 182 -60> mark @below_accent
-	<anchor 209 5> mark @cedilla
-	<anchor 292 11> mark @ogonek
-	<anchor 177 420> mark @top_accent;
-  pos base [\NameMe.1265 ] <anchor 181 420> mark @top_accent;
-  pos base [\NameMe.1266 ] <anchor 260 420> mark @top_accent
-	<anchor 248 -60> mark @below_accent;
-  pos base [\NameMe.1267 ] <anchor 275 -60> mark @below_accent
-	<anchor 275 420> mark @top_accent;
-  pos base [\NameMe.1268 ] <anchor 118 -60> mark @below_accent
-	<anchor 134 11> mark @ogonek
-	<anchor 118 420> mark @top_accent;
-  pos base [\NameMe.1269 ] <anchor 113 420> mark @top_accent;
-  pos base [\NameMe.1270 \NameMe.1283 ] <anchor 212 -60> mark @below_accent
-	<anchor 223 420> mark @top_accent;
-  pos base [\NameMe.1271 ] <anchor 119 5> mark @cedilla
-	<anchor 198 -60> mark @below_accent
-	<anchor 121 420> mark @top_accent;
-  pos base [\NameMe.1272 ] <anchor 264 -60> mark @below_accent
-	<anchor 292 420> mark @top_accent;
-  pos base [\NameMe.1273 ] <anchor 254 -60> mark @below_accent
-	<anchor 254 420> mark @top_accent;
-  pos base [\NameMe.1275 ] <anchor 110 -60> mark @below_accent
-	<anchor 186 420> mark @top_accent;
-  pos base [\NameMe.1276 ] <anchor 263 420> mark @top_accent;
-  pos base [\NameMe.1277 ] <anchor 222 -60> mark @below_accent
-	<anchor 184 420> mark @top_accent;
-  pos base [\NameMe.1278 ] <anchor 146 -60> mark @below_accent
-	<anchor 172 5> mark @cedilla
-	<anchor 156 420> mark @top_accent;
-  pos base [\NameMe.1279 ] <anchor 217 -60> mark @below_accent
-	<anchor 232 11> mark @cedilla
-	<anchor 222 420> mark @top_accent;
-  pos base [\NameMe.1280 ] <anchor 247 -60> mark @below_accent
-	<anchor 301 11> mark @ogonek
-	<anchor 249 420> mark @top_accent;
-  pos base [\NameMe.1281 ] <anchor 193 -60> mark @below_accent
-	<anchor 210 420> mark @top_accent;
-  pos base [\NameMe.1282 ] <anchor 295 -60> mark @below_accent
-	<anchor 312 420> mark @top_accent;
-  pos base [\NameMe.1284 ] <anchor 196 -60> mark @below_accent
-	<anchor 205 420> mark @top_accent;
-  pos base [\NameMe.1285 ] <anchor 199 -60> mark @below_accent
-	<anchor 218 420> mark @top_accent;
-  pos base [\NameMe.1292 ] <anchor 116 -60> mark @below_accent
-	<anchor 222 11> mark @ogonek
-	<anchor 123 330> mark @top_accent;
-  pos base [\NameMe.1293 ] <anchor 164 -60> mark @below_accent;
-  pos base [\NameMe.1294 ] <anchor 156 5> mark @cedilla
-	<anchor 129 -60> mark @below_accent
-	<anchor 135 330> mark @top_accent;
-  pos base [\NameMe.1295 \NameMe.1305 ] <anchor 157 -60> mark @below_accent;
-  pos base [\NameMe.1296 ] <anchor 164 5> mark @cedilla
-	<anchor 126 -60> mark @below_accent
-	<anchor 198 11> mark @ogonek
-	<anchor 141 330> mark @top_accent;
-  pos base [\NameMe.1297 ] <anchor 183 461> mark @top_accent
-	<anchor 87 -60> mark @below_accent;
-  pos base [\NameMe.1298 ] <anchor 144 330> mark @top_accent;
-  pos base [\NameMe.1299 ] <anchor 157 454> mark @top_accent
-	<anchor 150 -60> mark @below_accent;
-  pos base [\NameMe.1300 ] <anchor 75 -60> mark @below_accent
-	<anchor 89 11> mark @ogonek;
-  pos base [\NameMe.1302 ] <anchor 182 425> mark @top_accent
-	<anchor 149 -60> mark @below_accent;
-  pos base [\NameMe.1303 ] <anchor 70 469> mark @top_accent
-	<anchor 65 -60> mark @below_accent;
-  pos base [\NameMe.1304 ] <anchor 232 -60> mark @below_accent
-	<anchor 242 330> mark @top_accent;
-  pos base [\NameMe.1306 ] <anchor 152 -60> mark @below_accent
-	<anchor 219 11> mark @ogonek
-	<anchor 147 330> mark @top_accent;
-  pos base [\NameMe.1307 ] <anchor 170 330> mark @top_accent;
-  pos base [\NameMe.1308 ] <anchor 177 330> mark @top_accent;
-  pos base [\NameMe.1309 ] <anchor 77 -60> mark @below_accent
-	<anchor 124 330> mark @top_accent;
-  pos base [\NameMe.1310 ] <anchor 135 5> mark @cedilla
-	<anchor 109 -60> mark @below_accent
-	<anchor 118 330> mark @top_accent;
-  pos base [\NameMe.1311 ] <anchor 133 5> mark @cedilla
-	<anchor 102 -60> mark @below_accent;
-  pos base [\NameMe.1312 ] <anchor 153 -60> mark @below_accent
-	<anchor 281 11> mark @ogonek
-	<anchor 153 330> mark @top_accent;
-  pos base [\NameMe.1313 ] <anchor 133 -60> mark @below_accent
-	<anchor 142 330> mark @top_accent;
-  pos base [\NameMe.1314 ] <anchor 220 -60> mark @below_accent
-	<anchor 222 330> mark @top_accent;
-  pos base [\NameMe.1315 ] <anchor 127 330> mark @top_accent;
-  pos base [\NameMe.1316 ] <anchor 145 330> mark @top_accent;
-  pos base [\NameMe.1317 ] <anchor 131 -60> mark @below_accent
-	<anchor 134 330> mark @top_accent;
 } \mark;
 
 feature \mark {

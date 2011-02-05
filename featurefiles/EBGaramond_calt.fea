@@ -6,8 +6,13 @@ lookup f_short {
     sub @LONG_F' [ @HIGH_ASC space @PUNCT ] by @SHORT_F;
     sub @LONG_F' \uni200c @HIGH_ASC by @SHORT_F;
 } f_short;
+lookup caltLAT {
+    sub [ space @PUNCT ] u.LAT' by u.LATinit;
+    sub @Letters v.LAT' by v.LATmedi;
+} caltLAT;
 
 feature calt {
     lookup Q_longtail;
     lookup f_short;
+    lookup caltLAT;
 } calt;
