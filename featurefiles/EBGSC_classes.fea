@@ -1,0 +1,19 @@
+@letters = [ a-z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde etilde otilde utilde ];
+
+@Letters = [ A-Z a-z ];
+
+@DIGITS = [zero one two three four five six seven eight nine];
+
+@ONUM = @DIGITS;
+@LNUM = [zero.lnum one.lnum two.lnum three.lnum four.lnum five.lnum six.lnum seven.lnum eight.lnum nine.lnum ];
+@ONUM_TNUM = [zero.taboldstyle one.taboldstyle two.taboldstyle three.taboldstyle four.taboldstyle five.taboldstyle six.taboldstyle seven.taboldstyle eight.taboldstyle nine.taboldstyle ];
+@LNUM_TNUM = [zero.tablining one.tablining two.tablining three.tablining four.tablining five.tablining six.tablining seven.tablining eight.tablining nine.tablining ];
+
+
+
+@PUNCT = [ exclam quotedbl quotesingle parenleft parenright comma period slash colon semicolon question bracketleft backslash bracketright braceleft bar braceright exclamdown questiondown guillemotleft guillemotright figuredash endash emdash uni2015 quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase ellipsis guilsinglleft guilsinglright  ];
+
+
+@NO_DESC = [A-I K-P R-Z a-i k-p r-z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis Amacron amacron Abreve abreve Cacute cacute Ccircumflex ccircumflex Cdotaccent cdotaccent Ccaron ccaron Dcaron dcaron Dcroat dcroat Emacron emacron Ebreve ebreve Edotaccent edotaccent Ecaron ecaron Gcircumflex Gbreve Gdotaccent Hcircumflex hcircumflex Hbar hbar Itilde itilde Imacron imacron Ibreve ibreve Idotaccent dotlessi kgreenlandic Lacute lacute Lcaron lcaron Ldot ldot Lslash lslash Nacute nacute Ncaron ncaron napostrophe Omacron omacron Obreve obreve Ohungarumlaut ohungarumlaut OE oe Racute racute Rcaron rcaron Sacute sacute Scircumflex scircumflex Scaron scaron Tcaron tcaron Tbar tbar Utilde utilde Umacron umacron Ubreve ubreve Uring uring Uhungarumlaut uhungarumlaut Wcircumflex wcircumflex Ycircumflex Ydieresis Zacute zacute Zdotaccent zdotaccent Zcaron zcaron longs Ohorn ohorn Uhorn uhorn uni01C4 uni01C5 uni01C6 uni01CD uni01CE uni01CF uni01D0 uni01D1 uni01D2 uni01D3 uni01D4 uni01D5 uni01D6 uni01D7 uni01D8 uni01D9 uni01DA uni01DB uni01DC uni01DE uni01DF uni01E0 uni01E1 uni01E2 uni01E3 Gcaron uni01E8 uni01E9 uni01F1 uni01F2 uni01F3 uni01F4 uni01F8 uni01F9 Aringacute aringacute AEacute aeacute Oslashacute oslashacute uni0202 uni0203 uni0206 uni0207 uni020A uni020B uni020E uni020F uni0212 uni0213 uni0216 uni0217 uni021E uni021F uni0226 uni0227 uni022A uni022B uni022C uni022D uni022E uni022F uni0230 uni0231 uni0232];
+
+

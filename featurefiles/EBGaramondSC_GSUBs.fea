@@ -1,0 +1,76 @@
+
+lookup loclDEU {
+    sub \Adieresis by \Adieresis.deu ;
+    sub \Odieresis by \Odieresis.deu ;
+    sub \Udieresis by \Udieresis.deu ;
+} loclDEU;
+
+
+lookup loclTRK {
+    sub i by i.TRK;
+} loclTRK;
+
+lookup loclCAT {
+    sub L by L.CAT;
+    sub l by l.CAT;
+} loclCAT;
+
+lookup loclLAT {
+    sub u by u.LAT;
+    sub U by U.LAT;
+} loclLAT;
+lookup LATliga {
+    sub a e by ae;
+    sub o e by oe;
+} LATliga;
+
+feature locl {
+  script latn;
+     language DEU  exclude_dflt;
+      lookup loclDEU;
+     language TRK  exclude_dflt;
+      lookup loclTRK;
+     language AZE  exclude_dflt;
+      lookup loclTRK;
+     language CRT  exclude_dflt;
+      lookup loclTRK;
+     language CAT  exclude_dflt;
+      lookup loclCAT;
+     language LAT  exclude_dflt;
+      lookup loclLAT;
+      lookup LATliga;
+} locl;
+
+feature lnum {
+    sub @ONUM by @LNUM;
+    sub @ONUM_TNUM by @LNUM_TNUM;
+} lnum;
+
+feature onum {
+    sub @LNUM by @ONUM;
+    sub @LNUM_TNUM by @ONUM_TNUM;
+} onum;
+
+feature tnum {
+    sub @ONUM by @ONUM_TNUM;
+    sub @LNUM by @LNUM_TNUM;
+} tnum;
+
+feature pnum {
+    sub @ONUM_TNUM by @ONUM;
+    sub @LNUM_TNUM by @LNUM;
+} pnum;
+
+feature liga {
+    sub L.CAT periodcentered by Ldot;
+    sub l.CAT periodcentered by ldot;
+} liga;
+
+lookup Q_longtail {
+    sub Q' @NO_DESC @NO_DESC by Q.long;
+#    sub q' @NO_DESC @NO_DESC by q.long;
+} Q_longtail;
+
+feature calt {
+    lookup Q_longtail;
+} calt;

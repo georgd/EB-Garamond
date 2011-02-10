@@ -1,0 +1,38 @@
+@LeftKern_A = [ A ];
+@LeftKern_a = [ A.sc a.sc ];
+@LeftKern_O = [ O Ohorn Q ];
+@LeftKern_V = [ V W Y ];
+@LeftKern_v = [ V.sc v.sc W.sc w.sc ];
+
+@RightKern_A = [ A ];
+@RightKern_a = [ A.sc a.sc ];
+@RightKern_L = [ L ];
+@RightKern_O = [ O ];
+@RightKern_T = [ T ];
+@RightKern_V = [ V W Y ];
+@RightKern_v = [ V.sc v.sc W.sc w.sc ];
+
+
+lookup kern {
+    pos @RightKern_v @LeftKern_A -50;
+#    pos @RightKern_v @LeftKern_o -10;
+    pos @RightKern_A @LeftKern_v -70;
+    pos @RightKern_A @LeftKern_O -50;
+    pos @RightKern_A @LeftKern_V -150;
+    pos @RightKern_a @LeftKern_v -75;
+    pos @RightKern_L @LeftKern_v -50;
+#    pos @RightKern_T @LeftKern_m -120;
+#    pos @RightKern_T @LeftKern_o -135;
+    pos @RightKern_T @LeftKern_v -100;
+#    pos @RightKern_T @LeftKern_t -100;
+    pos @RightKern_V @LeftKern_A -150;
+    pos @RightKern_v @LeftKern_a -75;
+#    pos @RightKern_V @LeftKern_o -100;
+#    pos @RightKern_V @LeftKern_t -80;
+    pos @RightKern_O @LeftKern_A -95;
+#    pos @RightKern_o @LeftKern_v -8;
+} kern;
+
+feature kern {
+      lookup kern;
+} kern;
