@@ -1,0 +1,7 @@
+lookup ss01 {
+    sub [ uni0409 uni0414 uni041B uni0434 uni043B uni0459 ] by [ uni0409.alt uni0414.alt uni041B.alt uni0434.alt uni043B.alt uni0459.alt ];
+} ss01;
+
+feature ss01{
+    lookup ss01;
+} ss01;

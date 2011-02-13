@@ -1,3 +1,5 @@
+## Latin ##
+
 @LeftKern_A = [ A ];
 @LeftKern_asc = [ A.sc a.sc ];
 @LeftKern_O = [ O Ohorn Q ];
@@ -20,6 +22,22 @@
 @RightKern_o = [ ae b c e o oe p thorn ];
 @RightKern_v = [ v w y ];
 @RightKern_vsc = [ V.sc v.sc W.sc w.sc ];
+
+## Cyrillic ##
+
+@LeftKern_ie = [ uni0430 uni0435 uni0437 uni043E uni0441 uni044D uni044F uni0454 uni0455 uni04E9 ];
+@LeftKern_en = [ uni0432 uni0433 uni0438 uni043A uni043C uni043D uni043F uni0446 uni0448 uni0449 uni044B uni044C uni044E uni045A uni045F uni0434.alt uni043B.alt uni0459.alt ];
+@LeftKern_de = [ uni0434 uni043B uni0459 ];
+@LeftKern_te = [ uni0442 uni044A ];
+@LeftKern_cyr_u = [ uni0443 ];
+@LeftKern_zhe = [ uni0436 uni0445 ];
+@LeftKern_ef = [ uni0444 ];
+@LeftKern_che = [ uni0447 ];
+
+@RightKern_Ghe = [ uni0413 ];
+@RightKern_Te = [uni0422 ];
+@RightKern_de = [ uni0434 uni043B ];
+@RightKern_en = [ uni0438 uni043C uni043D uni043F uni0446 uni0447 uni0448 uni0449 uni044B uni044F uni045F uni0434.alt uni043B.alt ];
 
 
 lookup kern {
@@ -44,6 +62,26 @@ lookup kern {
     pos @RightKern_V @LeftKern_t -80;
     pos @RightKern_O @LeftKern_A -95;
 #    pos @RightKern_o @LeftKern_v -8;
+
+## Cyrillic
+    pos @RightKern_Ghe @LeftKern_ie -130;
+    pos @RightKern_Ghe @LeftKern_de -140;
+    pos @RightKern_Ghe @LeftKern_en -100;
+    pos @RightKern_Ghe @LeftKern_te -130;
+    pos @RightKern_Ghe @LeftKern_cyr_u -115;
+    pos @RightKern_Ghe @LeftKern_zhe -105;
+    pos @RightKern_Ghe @LeftKern_ef -70;
+    pos @RightKern_Ghe @LeftKern_che -115;
+
+    pos @RightKern_Te @LeftKern_ie -125;
+    pos @RightKern_Te @LeftKern_de -135;
+    pos @RightKern_Te @LeftKern_en -95;
+    pos @RightKern_Te @LeftKern_te -130;
+    pos @RightKern_Te @LeftKern_cyr_u -110;
+    pos @RightKern_Te @LeftKern_zhe -100;
+    pos @RightKern_Te @LeftKern_ef -65;
+    pos @RightKern_Te @LeftKern_che -110;
+
 } kern;
 
 feature kern {

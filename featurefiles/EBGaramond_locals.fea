@@ -17,6 +17,11 @@ lookup loclCAT {
     sub l by l.CAT;
 } loclCAT;
 
+lookup loclSRB {
+    sub uni0431 by uni0431.SRB;
+    sub breve by breve.CYR;
+} loclSRB;
+
 lookup loclLAT {
     sub u by u.LAT;
     sub v by v.LAT;
@@ -43,4 +48,11 @@ feature locl {
      language LAT  exclude_dflt;
       lookup loclLAT;
       lookup LATliga;
+  script cyrl;
+     language dflt;
+      sub breve by breve.CYR;
+     language SRB  exclude_dflt;
+      lookup loclSRB;
+     language BGR  exclude_dflt;
+      lookup loclSRB;     
 } locl;

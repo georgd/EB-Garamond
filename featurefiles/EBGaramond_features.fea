@@ -1,5 +1,7 @@
 languagesystem DFLT dflt;
 languagesystem cyrl dflt;
+languagesystem cyrl SRB ;
+languagesystem cyrl BGR ;
 languagesystem grek dflt;
 languagesystem latn dflt;
 languagesystem latn DEU ;
@@ -20,6 +22,7 @@ include (EBGaramond_locals.fea)
 include (EBGaramond_case.fea)
 include (EBGaramond_ccmp.fea)
 include (EBGaramond_longs.fea)
+include (EBGaramond_styles.fea)
 include (EBGaramond_figures.fea)
 include (EBGaramond_smallcaps.fea)
 include (EBGaramond_ligatures.fea)
