@@ -3,19 +3,25 @@
 \usepackage{microtype}
 \usepackage[babelshorthands]{polyglossia}
 \setdefaultlanguage{english}
-\setotherlanguages{french,czech,polish,latin,italian,catalan,german,romanian,portuges,swedish,finnish,dutch}
-
+\setotherlanguages{%
+french,czech,polish,latin,italian,catalan,german,romanian,%
+portuges,swedish,finnish,dutch,russian,serbian,ukrainian,%
+bulgarian%
+}
+\usepackage{csquotes}
 \defaultfontfeatures{RawFeature={+calt,+clig,
 +tlig}}%,Numbers={Proportional,OldStyle}}
 \setmainfont%
-{EBGaramond}
+{EB Garamond}
 \setsansfont{Linux Biolinum O}
 \usepackage{cmap}
 \usepackage{multicol}
 \usepackage{sectsty}
+\allsectionsfont{\rmfamily}
+\subsectionfont{\sc}
 \paragraphfont{\normalsize\sc}
 \begin{document}
-\pagestyle{empty}
+{\pagestyle{empty}
 \begin{center}
 \pagestyle{empty}
 \vspace*{5cm}
@@ -25,8 +31,10 @@ EB Garamond}\\
 {\fontsize{24}{24}\addfontfeature{Color=000000} Claude Garamont’s designs go open source
 \vfill\vfill
 \today\\\vspace*{2cm}}
-\fontsize{48}{48}{\addfontfeature{Color=980000}\XeTeXglyph 1127 \XeTeXglyph 1128}
-\end{center}\clearpage
+\fontsize{48}{48}{\addfontfeature{Color=980000}
+\char"E001 \char"E002
+}
+\end{center}\clearpage}
 \begin{multicols}{2}
 \paragraph*{Claude Garamond} (ca. 1480 – 1561) was a Parisian publisher. He was one of the leading type designers  of his time, and is credited with the introduction of the apostrophe, the accent and the cedilla to the French language. Several contemporary typefaces, including those currently known as Garamond, Granjon, and Sabon, reflect his influence. Garamond was an apprentice of Simon de Colines; later, he was an assistant to Geoffroy Tory [sic!], whose interests in humanist typography and the ancient Greek capital letterforms, or majuscules, may have informed Garamond’s later work.
 
@@ -109,11 +117,35 @@ Podstawowymi cechami złożonego tekstu były: ustalony krój pisma w określone
 \paragraph*{\addfontfeature{Language=Latin}Claudius Garamond} (etiam Garamont natus Lutetiae anno 1499 (aut anno 1490) - ibidem mortuus est anno 1561) fuit typographus et editor Francicus, qui clarus est praecipue quia scripturam quae eius nomen Garamond fert creavit.
 {\scriptsize E Vicipaedia}
 \end{latin}
+\begin{serbian}
+\paragraph*{\addfontfeature{Language=Serbian}Јохан Гутенберг} (нем. Johannes Gensfleisch zur Laden zum Gutenberg) (око 1400, Мајнц – 3.~фебруар 1468), је био немачки металски радник и сматра се проналазачем технике штампања металним помичним словима. Идеја те технике је била већ дуже позната али до тада није била усавршена у тој мери. Познати су и наводи да је та техника већ раније била реализована у Кини, Кореји и Јапану. Најстарија још учувана штампана књига датира из 868. године. Године 1041. се у Кини појављују и први примерци штампаних књига техником металних покретних слова и као проналазач се наводи извесни Би Шенг. Гутенбергова заслуга, као оца модерног штампарства, се састоји у усавршавању појединачних покретних слова, легура олова, антимона и калаја у техници високе штампе, али и тадашњи проналазак штампарске пресе.\par
+О његовом животу је веома мало познато и велики дио информација су само претпоставке. Његов брат Фриле Генсфлајш (нем. Friele Gensfleisch) је рођен у Елтвилу где је вероватно, са Гутенбергом основао малу штампарију и где је провео цели свој животни век (1434.-1447.).\\
+{\scriptsize Из Википедије, слободне енциклопедије}
+\end{serbian}
+\begin{russian}
+\addfontfeature{RawFeature=+ss01}
+\paragraph*{\addfontfeature{RawFeature=+ss01}Клод Гарамо́н} (ок. 1500—1561) — парижский пуансонист, печатник, одна из важнейших фигур французского ренессанса. Он был учеником печатников Антуана Ожеро и Симона де Колина. Позже основал небольшую книгопечатню неподалеку от Сорбонны.\par
+Впервые известность к Гарамону пришла в 1540-х гг., когда он вырезал grecs du roi — три греческих курсива для издания классиков, поддержанного королём. Позже Гарамон вырезал и другие шрифты, в том числе прямой. Его шрифты, основаны в первую очередь на альдовых, но достаточно оригинальны. В курсивах Гарамона впервые появляются наклонные прописные, а также т. н. росчерки (swash).\par
+Спустя 60 лет после смерти Гарамона, пуансонист Жан Жаннон повторил прямой шрифт Гарамона, однако в формах более близких к барокко, чем к ренессансу. Именно этот шрифт, утерянный и забытый, был вновь найден в первой половине XIX в., и ошибочно приписан Клоду Гарамону. Ошибка обнаружилась в 1927 г., однако за 5 лет до этого фирма Monotype уже выпустила новую версию шрифта Жаннона под названием Garamond Roman. Именно это стало причиной того, что в XX в. под одним названием было выпущено несколько шрифтов, восходящих не только к двум разным авторам, но и к двум разным эпохам.
+\\
+{\scriptsize из Википедии — свободной энциклопедии}
+\end{russian}
+\begin{bulgarian}
+\paragraph*{Йоханес Генсфлайш цур Ладен цум Гутенберг} (на немски: Johannes Gensfleisch zur Laden zum Gutenberg) е германски златар и печатар, основоположник на съвременното книгопечатане. Изобретеният от него машинен печат с подвижен набор поставя началото на революция в печатането и често е определяно като едно от най-важните събития на Новото време.[1][2] Изобретението му оказва силно влияние върху развитието на Ренесанса, Реформацията и Научната революция и поставя материалните основи на съвременната икономика на знанието и демократизация на образованието.\\
+{\scriptsize от Уикипедия, свободната енциклопедия}
+\end{bulgarian}
+
+\begin{ukrainian}
+\paragraph*{Складання} — технічний принцип типографіки, сутністю якого є монтаж готових друкарських або фотографічних форм.
+
+Незалежно від того, чи є складання цифровим (комп'ютерне), металевим чи фотографічним, в основі лежить єдиний принцип. У вузькому значенні під складанням розуміють ту стадію роботи, в ході якої формується слово, рядок, абзац, відрізок суцільного тексту.
+
+Деякою мірою складання перегукується з версткою.\\
+{\scriptsize з Вікіпедії — вільної енциклопедії.}
+\end{ukrainian}
 \end{multicols}
 %\end{landscape}
 \clearpage
-
-
 \fontsize{16}{16}
 \begin{center}\addfontfeature{LetterSpace=10.0}
 ¿ABCDEFGHIJKLMNOPQQRSẞTUVWXYZÞÐ?\\
@@ -126,15 +158,22 @@ fffiffiflfbfhfjfkft\\
 ffbffhffjffkfflfft\\
 ſſſiſſiſlſbſhſjſkſt\\
 ſſbſſhſſjſſkſſlſſt\\
-\XeTeXglyph 1121 \addfontfeature{RawFeature=+dlig}ÆæstctœŒ\XeTeXglyph 1120\\
+\char"261E \addfontfeature{RawFeature=+dlig}ÆæstctœŒ\char"261C\\
 {\addfontfeature{LetterSpace=0}
 Text{\addfontfeature{RawFeature=+sups}abcdefghijklmnopqrstuvwxyz0123456789}x\\
 Text{\addfontfeature{RawFeature=+ordn}abcdefghijklmnopqrstuvwxyz0123456789}x\\
 Text{\addfontfeature{RawFeature=+subs}abcdefghijklmnopqrstuvwxyz0123456789}x\\
 Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
-ÁÀÃĄÄ{\addfontfeature{Language=German}Ä}ǍÂĂÅÉÈẼĘËĚÊĔÍÌĨĮÏǏÎĬİ\\
+ÁÀÃĄÄ{\addfontfeature{Language=German}Ä}%Ǎ
+ÂĂÅÉÈ%Ẽ
+ĘËĚÊĔÍÌĨĮÏ%Ǐ
+ÎĬİ\\
 ÓÒÕǪÖ{\addfontfeature{Language=German}Ö}ǑÔŎŐØÚÙŨŲÜ{\addfontfeature{Language=German}Ü}ǓÛŬŮŰ\\
-áàãąäǎâăåéèẽęëěêĕíìĩįïǐîĭıóòõǫöǒôǒőøúùũųüǔûŭůű\\
+áàãąä%ǎ
+âăåéè%ẽ
+ęëěêĕíìĩįï%ǐ
+îĭıóòõǫöǒôǒőøúùũųü%ǔ
+ûŭůű\\
 ĆćÇçĎďĢģĜĝǦǧĞğĤĥḨḩĴĵĸŁłĽľÑñŇňŃńŊŋ\\
 ŘřŔŕŚśŠšŞşŤťŢţŴŵÝýŶŷŸÿŹźŻżŽž\\
 \addfontfeature{RawFeature={+smcp,+c2sc}}ÁÀÃĄÄǍÂĂÅÉÈẼĘËĚÊĔÍÌĨĮÏǏÎĬİ\\
@@ -142,7 +181,7 @@ Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
 áàãąäǎâăåéèẽęëěêĕíìĩįïǐîĭıóòõǫöǒôǒőøúùũųüǔûŭůű\\
 ĆćÇçĎďĢģĜĝĞğĤĥĴĵĸŁłĽľÑñŇňŃńŊŋ\\
 ŘřŔŕŚśŠšŞşŤťŢţŴŵÝýŶŷŸÿŹźŻżŽž\\
-\Huge \XeTeXglyph 1127 \XeTeXglyph 1128
+\Huge \char"E001 \char"B6 \char"E002
 
 \end{center}
 \end{document}
