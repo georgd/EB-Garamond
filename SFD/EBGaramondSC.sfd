@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
 FontName: EBGaramondSC
-FullName: Egenolff-Berners Garamond Regular Small Caps
-FamilyName: EBGaramond
+FullName: EB Garamond Regular SmallCaps
+FamilyName: EB Garamond
 Weight: Regular
 Copyright: Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2010-5-17: Created." 
@@ -15,12 +15,12 @@ LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Zeichenebene"  0
 XUID: [1021 114 2024522534 13590131]
-FSType: 8
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1297248549
+ModificationTime: 1299269956
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -87,7 +87,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1192 8 2
+WinInfo: 1168 8 2
 BeginPrivate: 9
 BlueValues 55 [-14 0 268 287 400 414 450 464 616 630 650 664 700 705]
 OtherBlues 21 [-290 -285 -181 -167]
@@ -103,7 +103,7 @@ Grid
 -280 -790 m 0
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 66366 1211
+BeginChars: 66366 1205
 
 StartChar: a
 Encoding: 97 97 0
@@ -25907,7 +25907,7 @@ SplineSet
  735.231 27.4834 752 29 776 19 c 0
  786 15 785 -3 776 -3 c 0xb8
  716 -3 697.32 0 647 0 c 0
- 589.99 0 475 0 475 0 c 2
+ 475 0 l 2
  435 4.89843e-15 441 -214 406 -214 c 0
  371 -214 375 0 335 0 c 2x78
 EndSplineSet
@@ -25975,7 +25975,7 @@ LayerCount: 2
 Fore
 SplineSet
 612 41 m 4x7c
- 637 41 755 41 755 41 c 4x7c
+ 755 41 l 4x7c
  790 41 813 77 813 106 c 4
  813 164 813 465.94 813 540 c 4
  813 561.59 805.11 575.77 790 592 c 28
@@ -26064,7 +26064,7 @@ SplineSet
  563.003 576.467 559 562.02 559 540 c 4
  559 370 559 270.03 559 92 c 4
  559 73.9697 565 41 621 41 c 4
- 646 41 771 41 771 41 c 0
+ 771 41 l 0
  806 41 825 77 825 106 c 0
  825 164 825 465.94 825 540 c 0
  825 561.59 817.11 575.77 802 592 c 24
@@ -26602,7 +26602,7 @@ SplineSet
  182 380 289 337 366 337 c 0
  405 337 449 350 461 358 c 0
  468 363 469 371 469 382 c 0
- 469 391 469 557 469 557 c 0
+ 469 557 l 0
  469 575 460.181 584.545 447 596 c 24
  426.185 614.09 409 620 385 630 c 0
  375 634 376 652 385 652 c 0
@@ -28661,54 +28661,6 @@ SplineSet
  -3 16 9 20 20 24 c 0
  40 30 50.05078125 33.400390625 66 45 c 0
 EndSplineSet
-EndChar
-
-StartChar: A.sc
-Encoding: 66360 -1 1205
-Width: 1000
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: a.sc
-Encoding: 66361 -1 1206
-Width: 1000
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: V.sc
-Encoding: 66362 -1 1207
-Width: 1000
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: v.sc
-Encoding: 66363 -1 1208
-Width: 1000
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: W.sc
-Encoding: 66364 -1 1209
-Width: 1000
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: w.sc
-Encoding: 66365 -1 1210
-Width: 1000
-VWidth: 0
-Flags: W
-LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
