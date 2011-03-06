@@ -6,6 +6,10 @@ lookup loclDEU {
     sub f by f.DEU;
 } loclDEU;
 
+lookup loclPLK {
+    sub [ Cacute Nacute Oacute Sacute Zacute acute.cap ] by [ Cacute.PLK Nacute.PLK Oacute.PLK Sacute.PLK Zacute.PLK acute.PLKcap ];
+}loclPLK;
+
 
 lookup loclTRK {
 # cf. http://typophile.com/node/17787
@@ -37,6 +41,8 @@ feature locl {
   script latn;
      language DEU  exclude_dflt;
       lookup loclDEU;
+     language PLK  exclude_dflt;
+      lookup loclPLK;
      language TRK  exclude_dflt;
       lookup loclTRK;
      language AZE  exclude_dflt;

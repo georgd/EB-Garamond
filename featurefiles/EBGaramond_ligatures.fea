@@ -11,7 +11,6 @@ lookup liga_standard {
     sub f.DEU f.DEU by f_f;
     sub [f f.DEU] l  by uniFB02; #f_l
     sub f f l  by uniFB04; #f_f_l
-    sub f.DEU f.DEU l  by uniFB04; #f_f_l    
     sub f h  by f_h;
     sub f k  by f_k;
     sub f b  by f_b;

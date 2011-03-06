@@ -5,3 +5,13 @@ lookup ss01 {
 feature ss01{
     lookup ss01;
 } ss01;
+
+lookup ss02 {
+    ignore sub @Letters u';
+    sub u' by u.LAT;
+    sub @Letters v' by v.LATmedi;
+} ss02;
+
+feature ss02 {
+    lookup ss02;
+} ss02;
