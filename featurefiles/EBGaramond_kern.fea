@@ -14,7 +14,10 @@
 
 @RightKern_A = [ A ];
 @RightKern_asc = [ A.sc a.sc ];
+@RightKern_E = [ E Eacute Egrave Edieresis Etilde Eogonek Ecircumflex Emacron Ebreve Edotaccent Ecaron ];
+@RightKern_F = [ F ];
 @RightKern_L = [ L ];
+@RightKern_M = [ M ];
 @RightKern_O = [ O ];
 @RightKern_T = [ T ];
 @RightKern_V = [ V W Y ];
@@ -34,7 +37,7 @@
 @LeftKern_ef = [ uni0444 ];
 @LeftKern_che = [ uni0447 ];
 
-@RightKern_Ghe = [ uni0413 ];
+@RightKern_Ghe = [ uni0413 uni0490 ];
 @RightKern_Te = [uni0422 ];
 @RightKern_de = [ uni0434 uni043B ];
 @RightKern_en = [ uni0438 uni043C uni043D uni043F uni0446 uni0447 uni0448 uni0449 uni044B uni044F uni045F uni0434.alt uni043B.alt ];
@@ -51,7 +54,19 @@ lookup kern {
     pos @RightKern_A @LeftKern_O -50;
     pos @RightKern_A @LeftKern_V -150;
     pos @RightKern_asc @LeftKern_vsc -75;
+    pos @RightKern_E @LeftKern_m -10;
+    pos @RightKern_E @LeftKern_o -25;
+    pos @RightKern_E @LeftKern_v -30;
+    pos @RightKern_E @LeftKern_t -20;
+    pos @RightKern_F @LeftKern_m -40;
+    pos @RightKern_F @LeftKern_o -30;
+    pos @RightKern_F @LeftKern_v -30;
+    pos @RightKern_F @LeftKern_t -20;
     pos @RightKern_L @LeftKern_v -50;
+    pos @RightKern_M @LeftKern_m -10;
+    pos @RightKern_M @LeftKern_t -40;
+    pos @RightKern_M @LeftKern_v -40;
+    pos @RightKern_M @LeftKern_o -20;
     pos @RightKern_T @LeftKern_m -120;
     pos @RightKern_T @LeftKern_o -135;
     pos @RightKern_T @LeftKern_v -100;
@@ -61,6 +76,7 @@ lookup kern {
     pos @RightKern_V @LeftKern_o -100;
     pos @RightKern_V @LeftKern_t -80;
     pos @RightKern_O @LeftKern_A -95;
+    pos @RightKern_O @LeftKern_o -10;
 #    pos @RightKern_o @LeftKern_v -8;
 
 ## Cyrillic
