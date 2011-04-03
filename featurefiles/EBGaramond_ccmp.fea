@@ -1,5 +1,23 @@
+lookup CCMP_contextual {
+    sub [ i j ]' @abovediacritics by [ dotlessi dotlessj ];
+    sub [ l d t ] \uni030C' by uni030C.alt;
+} CCMP_contextual;
+
+lookup CCMP_stacking {
+    sub [ uni0302 ] [ acutecomb gravecomb]' by [acutecomb.stack gravecomb.stack];
+  subtable;
+    sub [ uni0302 ]' [acutecomb.stack gravecomb.stack] by uni0302.stack;
+} CCMP_stacking;
+
+lookup CCMP_Precomp {
+    sub \uni1EA5 by \a \uni0302.stack \acutecomb.stack;
+    sub \uni1EA7 by \a \uni0302.stack \gravecomb.stack;
+    sub \uni1EAB by \a \uni0302.stack \tildecomb.stack;
+} CCMP_Precomp;
+
+
 feature ccmp {
-  lookup ccmp {
-    sub @cc2_match_1' @cc2_match_2  by [\dotlessi \dotlessj ] ;
-  } ccmp;
+  lookup CCMP_contextual;
+  lookup CCMP_stacking;
+  lookup CCMP_Precomp;
 } ccmp;

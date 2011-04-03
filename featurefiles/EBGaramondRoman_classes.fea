@@ -33,9 +33,6 @@
 
 @HIGH_ASC = [b f h-l adieresis edieresis idieresis odieresis udieresis dotlessi thorn eth longs bracketright braceright question exclam parenright i i.TRK f.DEU f_f uniFB01 uniFB02 uniFB03 uniFB04 uniFB05 uniFB06 f_f.short f.short f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.short longs_longs.short f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t ];
 
-@cc2_match_1 = [i j ];
-@cc2_match_2 = [gravecomb acutecomb uni0304 uni0308 ];
-
 @SMALLCAPS_BASIS = [ a-z 
 	 agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis multiply oslash ugrave uacute ucircumflex udieresis yacute thorn germandbls divide amacron abreve aogonek cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent eogonek ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK dotlessi ij jcircumflex kcommaaccent kgreenlandic lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron eng omacron obreve ohungarumlaut oe racute rcommaaccent rcaron sacute scircumflex scedilla scaron uni0163 tcaron tbar utilde umacron ubreve uring uhungarumlaut uogonek wcircumflex ycircumflex ydieresis zacute zdotaccent zcaron longs 
 	f.DEU l.CAT u.LAT ];
@@ -48,3 +45,9 @@
 @C2SC = [ A.sc-Z.sc
 	Agrave.sc Aacute.sc Acircumflex.sc Atilde.sc Adieresis.sc Aring.sc AE.sc Ccedilla.sc Egrave.sc Eacute.sc Ecircumflex.sc Edieresis.sc Igrave.sc Iacute.sc Icircumflex.sc Idieresis.sc Eth.sc Ntilde.sc Ograve.sc Oacute.sc Ocircumflex.sc Otilde.sc Odieresis.sc Oslash.sc Ugrave.sc Uacute.sc Ucircumflex.sc Udieresis.sc Yacute.sc Thorn.sc 
 	Amacron.sc Abreve.sc Aogonek.sc Cacute.sc Ccircumflex.sc Cdotaccent.sc Ccaron.sc Dcaron.sc Dcroat.sc Emacron.sc Ebreve.sc Edotaccent.sc Eogonek.sc Ecaron.sc Gcircumflex.sc Gbreve.sc Gdotaccent.sc Gcommaaccent.sc Hcircumflex.sc Hbar.sc Itilde.sc Imacron.sc Ibreve.sc Iogonek.sc Idotaccent.sc IJ.sc Jcircumflex.sc Kcommaaccent.sc Lacute.sc Lcommaaccent.sc Lcaron.sc Ldot.sc Lslash.sc Nacute.sc Ncommaaccent.sc Ncaron.sc Eng.sc Omacron.sc Obreve.sc Ohungarumlaut.sc OE.sc Racute.sc Rcommaaccent.sc Rcaron.sc Sacute.sc Scircumflex.sc Scedilla.sc Scaron.sc uni0162.sc Tcaron.sc Tbar.sc Utilde.sc Umacron.sc Ubreve.sc Uring.sc Uhungarumlaut.sc Uogonek.sc Wcircumflex.sc Ycircumflex.sc Ydieresis.sc Zacute.sc Zdotaccent.sc Zcaron.sc L.CATsc V.sc ];
+	
+@capdiacritics0 = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0311 uni0316 uni0317 uni0323 uni0324 uni0325 uni0327 uni0328 uni032C uni032D uni032E uni032F uni0330 uni0331 breve.CYR ];
+
+@capdiacritics1 = [ gravecomb.cap acutecomb.cap uni0302.cap tildecomb.cap uni0304.cap uni0306.cap uni0307.cap uni0308.cap uni030A.cap uni030B.cap uni030C.cap uni030F.cap uni0311.cap uni0316.cap uni0317.cap uni0323.cap uni0324.cap uni0325.cap uni0327.cap uni0328.cap uni032C.cap uni032D.cap uni032E.cap uni032F.cap uni0330.cap uni0331.cap breve.CYRcap ];
+
+@abovediacritics = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni0309 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 ];
