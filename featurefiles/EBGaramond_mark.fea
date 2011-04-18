@@ -1,6 +1,6 @@
+
 lookup \mark {
   lookupflag 0;
-  markClass [\uni0315 ] <anchor 79 550> @above_right;
   markClass [\uni0302 ] <anchor 138 550> @top_accent;
   markClass [\uni030C ] <anchor 139 533> @top_accent;
   markClass [\tildecomb \uni0342 ] <anchor 152 533> @top_accent;
@@ -24,7 +24,6 @@ lookup \mark {
   markClass [\uni0306.cap \uni0308.cap \uni0304.cap \uni0311.cap ] <anchor 155 700> @top_accent;
   markClass [\uni030B.cap ] <anchor 123 700> @top_accent;
   markClass [\uni030A.cap ] <anchor 94 700> @top_accent;
-  markClass [\uni030F.cap ] <anchor 197 700> @top_accent;
   markClass [\uni0307.cap ] <anchor 60 700> @top_accent;
   markClass [\hookabovecomb \hookabovecomb.stack ] <anchor 136 550> @top_accent;
   markClass [\uni030F ] <anchor 205 550> @top_accent;
@@ -37,9 +36,8 @@ lookup \mark {
   markClass [\uni0310 ] <anchor 165 533> @top_accent;
   markClass [\uni0357 ] <anchor 99 531> @top_accent;
   markClass [\uni031A ] <anchor 100 550> @top_accent;
- 
+  markClass [\uni030F.cap ] <anchor 197 700> @top_accent;
   pos base [\a \uni1EA1 ] <anchor 191 550> mark @top_accent;
-  pos base [\z ] <anchor 201 550> mark @top_accent;
   pos base [\t \t_t ] <anchor 133 550> mark @top_accent;
   pos base [\l ] <anchor 107 782> mark @top_accent;
   pos base [\o \ohorn \uni043E \uni04E9 ] <anchor 246 550> mark @top_accent;
@@ -52,7 +50,7 @@ lookup \mark {
   pos base [\e \uni0435 ] <anchor 219 550> mark @top_accent;
   pos base [\c \ccedilla \uni0441 ] <anchor 230 550> mark @top_accent;
   pos base [\u \uhorn ] <anchor 251 550> mark @top_accent;
-  pos base [\s ] <anchor 182 550> mark @top_accent;
+  pos base [\s ] <anchor 176 550> mark @top_accent;
   pos base [\f \longs \f.short \f_t \longs.short ] <anchor 281 768> mark @top_accent;
   pos base [\v ] <anchor 218 550> mark @top_accent;
   pos base [\w ] <anchor 342 550> mark @top_accent;
@@ -63,7 +61,7 @@ lookup \mark {
   pos base [\N ] <anchor 411 700> mark @top_accent;
   pos base [\R ] <anchor 283 700> mark @top_accent;
   pos base [\B ] <anchor 257 700> mark @top_accent;
-  pos base [\A \Aogonek \uni0410 ] <anchor 363 700> mark @top_accent;
+  pos base [\A \Aogonek \uni0410 \uni041A ] <anchor 363 700> mark @top_accent;
   pos base [\C \X \Ccedilla ] <anchor 381 700> mark @top_accent;
   pos base [\I ] <anchor 181 700> mark @top_accent;
   pos base [\T \Tbar ] <anchor 341 700> mark @top_accent;
@@ -75,18 +73,18 @@ lookup \mark {
   pos base [\F \uni0191 ] <anchor 279 700> mark @top_accent;
   pos base [\J ] <anchor 173 700> mark @top_accent;
   pos base [\D ] <anchor 342 700> mark @top_accent;
-  pos base [ \O \Ohorn \uni041E \Oslash \uni04E8 \uni01EA ] <anchor 383 700> mark @top_accent;
   pos base [\Q ] <anchor 405 700> mark @top_accent;
   pos base [\S ] <anchor 240 700> mark @top_accent;
+  pos base [\O \Ohorn \uni01EA \uni041E \Oslash \uni04E8 ] <anchor 383 700> mark @top_accent;
   pos base [\H \Hbar \uniA726 ] <anchor 406 700> mark @top_accent;
+  pos base [\U \Uhorn ] <anchor 390 700> mark @top_accent;
   pos base [\Y ] <anchor 320 700> mark @top_accent;
   pos base [\x ] <anchor 235 550> mark @top_accent;
-  pos base [\uni0292 ] <anchor 199 550> mark @top_accent;
-  pos base [\K \uni041A ] <anchor 343 700> mark @top_accent;
+  pos base [\K ] <anchor 343 700> mark @top_accent;
   pos base [\k ] <anchor 280 708> mark @top_accent;
   pos base [\Z ] <anchor 315 700> mark @top_accent;
+  pos base [\z ] <anchor 201 550> mark @top_accent;
   pos base [\dotlessi ] <anchor 115 550> mark @top_accent;
-  pos base [\U \Uhorn ] <anchor 390 700> mark @top_accent;
   pos base [\dotlessj ] <anchor 100 550> mark @top_accent;
   pos base [\Alpha ] <anchor 174 630> mark @top_accent;
   pos base [\Epsilon ] <anchor -36 661> mark @top_accent;
@@ -98,6 +96,7 @@ lookup \mark {
   pos base [\oslash ] <anchor 245 550> mark @top_accent;
   pos base [\ae \uni1D02 ] <anchor 299 550> mark @top_accent;
   pos base [\kgreenlandic ] <anchor 231 550> mark @top_accent;
+  pos base [\uni0292 ] <anchor 199 550> mark @top_accent;
   pos base [\uni043A ] <anchor 220 550> mark @top_accent;
   pos base [\Gamma ] <anchor 272 700> mark @top_accent;
   pos base [\Omega ] <anchor 19 650> mark @top_accent;
@@ -137,9 +136,7 @@ lookup \mark {
   pos base [\uni04D8 ] <anchor 310 700> mark @top_accent;
   pos base [\uni01B7 ] <anchor 250 700> mark @top_accent;
   pos base [\uniA727 ] <anchor 253 550> mark @top_accent;
-  
-subtable;
-  
+  subtable;
   markClass [\uni0326 ] <anchor 106 -100> @below_accent;
   markClass [\dotbelowcomb ] <anchor 50 -100> @below_accent;
   markClass [\uni0331 \uni0330 ] <anchor 180 -100> @below_accent;
@@ -157,7 +154,6 @@ subtable;
   markClass [\uni0332 \uni0333 ] <anchor 200 -100> @below_accent;
   markClass [\uni033B ] <anchor 85 -100> @below_accent;
   markClass [\uni033C \uni032B ] <anchor 145 -100> @below_accent;
-  
   pos base [\a \z \uni1EA1 ] <anchor 178 -100> mark @below_accent;
   pos base [\t \t_t ] <anchor 186 -100> mark @below_accent;
   pos base [\l ] <anchor 120 -100> mark @below_accent;
@@ -169,8 +165,6 @@ subtable;
   pos base [\b ] <anchor 252 -100> mark @below_accent;
   pos base [\d ] <anchor 241 -100> mark @below_accent;
   pos base [\r \uni0430 ] <anchor 131 -100> mark @below_accent;
-  
-  
   pos base [\e \uni0435 ] <anchor 214 -100> mark @below_accent;
   pos base [\c \ccedilla \uni0441 ] <anchor 199 -100> mark @below_accent;
   pos base [\u \uhorn ] <anchor 259 -100> mark @below_accent;
@@ -182,7 +176,7 @@ subtable;
   pos base [\M ] <anchor 406 -100> mark @below_accent;
   pos base [\N ] <anchor 405 -100> mark @below_accent;
   pos base [\R ] <anchor 374 -100> mark @below_accent;
-  pos base [\B ] <anchor 272 -100> mark @below_accent;
+  pos base [\B \uniA727 ] <anchor 272 -100> mark @below_accent;
   pos base [\A \Aogonek \uni0410 ] <anchor 358 -100> mark @below_accent;
   pos base [\C \X ] <anchor 404 -100> mark @below_accent;
   pos base [\I ] <anchor 181 -100> mark @below_accent;
@@ -200,6 +194,7 @@ subtable;
   pos base [\K \uni041A ] <anchor 355 -100> mark @below_accent;
   pos base [\k ] <anchor 233 -100> mark @below_accent;
   pos base [\Z ] <anchor 306 -100> mark @below_accent;
+  pos base [] <anchor 106 -100> mark @below_accent;
   pos base [\Uhorn ] <anchor 393 -100> mark @below_accent;
   pos base [\Alpha ] <anchor 340 -100> mark @below_accent;
   pos base [\Eta ] <anchor 418 -100> mark @below_accent;
@@ -214,13 +209,10 @@ subtable;
   pos base [\uni0437 ] <anchor 174 -100> mark @below_accent;
   pos base [\uni044B ] <anchor 305 -100> mark @below_accent;
   pos base [\uni044D \uni0276 ] <anchor 175 -100> mark @below_accent;
-  pos base [\uniA727 ] <anchor 272 -100> mark @below_accent;
 
-subtable;
-
+  subtable;
   markClass [\uni0328 ] <anchor 156 18> @ogonek;
   markClass [\uni0328.cap ] <anchor 188 18> @ogonek;
-  
   pos base [\a \uni1EA1 ] <anchor 341 18> mark @ogonek;
   pos base [\o \ohorn \uni043E \uni04E9 ] <anchor 337 18> mark @ogonek;
   pos base [\e \uni0435 ] <anchor 292 18> mark @ogonek;
@@ -230,25 +222,22 @@ subtable;
   pos base [\E \uni0415 \uni0413 ] <anchor 450 18> mark @ogonek;
   pos base [\O \Ohorn ] <anchor 520 18> mark @ogonek;
   pos base [\U \Uhorn ] <anchor 490 18> mark @ogonek;
-
-subtable;
-
+  subtable;
   markClass [\uni0327 ] <anchor 114 8> @cedilla;
   markClass [\uni0327.cap ] <anchor 127 8> @cedilla;
-
-  pos base [\t \t_t ] <anchor 205 8> mark @cedilla;  
+  pos base [\t \t_t ] <anchor 205 8> mark @cedilla;
   pos base [\e \uni0435 ] <anchor 253 8> mark @cedilla;
   pos base [\c \uni0441 ] <anchor 240 8> mark @cedilla;
-  pos base [\s ] <anchor 207 8> mark @cedilla;
+  pos base [\s ] <anchor 199 8> mark @cedilla;
   pos base [\A \Aogonek \uni0410 ] <anchor 124 8> mark @cedilla;
   pos base [\C \X ] <anchor 426 8> mark @cedilla;
   pos base [\T \Tbar ] <anchor 356 18> mark @cedilla;
   pos base [\E \uni0415 \uni0413 ] <anchor 322 8> mark @cedilla;
   pos base [\L \Lslash ] <anchor 183 8> mark @cedilla;
   pos base [\D \O \U \Ohorn \uni041E \Oslash \uni04E8 ] <anchor 412 8> mark @cedilla;
-  pos base [\S ] <anchor 265 8> mark @cedilla;  
+  pos base [\S ] <anchor 265 8> mark @cedilla;
 } \mark;
 
 feature \mark {
-      lookup \mark;
+   lookup \mark;
 } \mark;
