@@ -59,6 +59,4 @@ feature locl {
       sub breve by breve.CYR;
      language SRB  exclude_dflt;
       lookup loclSRB;
-     language BGR  exclude_dflt;
-      lookup loclSRB;     
 } locl;
