@@ -8,7 +8,7 @@ lookup f_short {
 } f_short;
 lookup caltLAT {
     #sub [ space @PUNCT ] u.LAT' by u.LATinit;
-    sub [ @Letters U.LAT u.LATinit u.LATmedi v.LATmedi ] [ u.LAT v.LAT]' by [ u.LATmedi v.LATmedi];
+    sub [ @Letters U.LAT u.LAT u.LATmedi v.LATmedi ] [ u.LAT v.LAT]' by [ u.LATmedi v.LATmedi];
 } caltLAT;
 
 feature calt {
