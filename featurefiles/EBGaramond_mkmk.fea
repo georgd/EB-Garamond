@@ -7,7 +7,9 @@ lookup mkmk {
   markClass [\uni0304.stack ] <anchor 180 490> @top_stack;
   markClass [\uni0306.stack ] <anchor 167 465> @top_stack;
   markClass [\uni030C.stack ] <anchor 117 452> @top_stack;
-  markClass [\acutecomb.flatstack ] <anchor 39 517> @top_stack;
+  markClass [\acutecomb.flat ] <anchor 93 515> @top_stack;
+  markClass [\gravecomb.flat ] <anchor 114 515> @top_stack;
+  
   pos mark [\tildecomb \uni0342 ] <anchor 148 644> mark @top_stack;
   pos mark [\uni0302.stack ] <anchor 116 640> mark @top_stack
 	<anchor 9 558> mark @gravestack

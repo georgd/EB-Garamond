@@ -9,11 +9,13 @@ lookup \mark {
   markClass [\uni030B ] <anchor 109 550> @top_accent;
   markClass [\uni0312 \uni0314 ] <anchor 107 550> @top_accent;
   markClass [\uni0313 ] <anchor 66 550> @top_accent;
-  markClass [\acutecomb \acutecomb.flatstack ] <anchor 46 550> @top_accent;
+  markClass [\acutecomb ] <anchor 46 550> @top_accent;
+  markClass [\acutecomb.flat ] <anchor 89 550> @top_accent;
   markClass [\uni0308 ] <anchor 148 531> @top_accent;
   markClass [\uni030E ] <anchor 90 550> @top_accent;
   markClass [\uni0304 \uni0304.stack ] <anchor 180 540> @top_accent;
-  markClass [\gravecomb \gravecomb.flatstack ] <anchor 133 550> @top_accent;
+  markClass [\gravecomb ] <anchor 133 550> @top_accent;
+  markClass [\gravecomb.flat ] <anchor 127 550> @top_accent;
   markClass [\uni0305 ] <anchor 200 550> @top_accent;
   markClass [\uni030D ] <anchor 50 550> @top_accent;
   markClass [\uni030C.cap \uni0302.cap ] <anchor 151 680> @top_accent;
@@ -21,7 +23,8 @@ lookup \mark {
   markClass [\acutecomb.cap ] <anchor 44 700> @top_accent;
   markClass [\gravecomb.cap ] <anchor 135 700> @top_accent;
   markClass [\tildecomb.cap ] <anchor 143 693> @top_accent;
-  markClass [\uni0306.cap \uni0308.cap \uni0304.cap \uni0311.cap ] <anchor 155 700> @top_accent;
+  markClass [\uni0306.cap \uni0304.cap \uni0311.cap ] <anchor 155 700> @top_accent;
+  markClass [\uni0308.cap ] <anchor 153 700> @top_accent;
   markClass [\uni030B.cap ] <anchor 103 700> @top_accent;
   markClass [\uni030A.cap ] <anchor 94 700> @top_accent;
   markClass [\uni0307.cap ] <anchor 60 700> @top_accent;
@@ -37,10 +40,11 @@ lookup \mark {
   markClass [\uni0357 ] <anchor 99 531> @top_accent;
   markClass [\uni031A ] <anchor 100 550> @top_accent;
   markClass [\uni030F.cap ] <anchor 197 700> @top_accent;
+  
   pos base [\a \uni1EA1 ] <anchor 191 550> mark @top_accent;
   pos base [\t \t_t ] <anchor 133 550> mark @top_accent;
   pos base [\l ] <anchor 107 782> mark @top_accent;
-  pos base [\o \ohorn \uni043E \uni04E9 ] <anchor 246 550> mark @top_accent;
+  pos base [\o \ohorn \uni028A \uni043E \uni04E9 ] <anchor 246 550> mark @top_accent;
   pos base [\h \hbar ] <anchor 242 757> mark @top_accent;
   pos base [\n \eng ] <anchor 258 550> mark @top_accent;
   pos base [\m ] <anchor 390 550> mark @top_accent;
@@ -171,7 +175,7 @@ lookup \mark {
   pos base [\a \z \uni1EA1 ] <anchor 178 -100> mark @below_accent;
   pos base [\t \t_t ] <anchor 186 -100> mark @below_accent;
   pos base [\l ] <anchor 120 -100> mark @below_accent;
-  pos base [\o \ohorn \uni043E \uni04E9 ] <anchor 246 -100> mark @below_accent;
+  pos base [\o \ohorn \uni028A \uni043E \uni04E9 ] <anchor 246 -100> mark @below_accent;
   pos base [\h \hbar ] <anchor 231 -100> mark @below_accent;
   pos base [\i \lslash ] <anchor 115 -100> mark @below_accent;
   pos base [\n \eng ] <anchor 265 -100> mark @below_accent;
