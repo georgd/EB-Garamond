@@ -16,10 +16,18 @@ feature ss02 {
     lookup ss02;
 } ss02;
 
+lookup longs_replacement {
+     sub s' @letters by longs;
+} longs_replacement;
+
+feature cv01 {
+ lookup longs_replacement;
+} cv01;
+
 lookup at_alternates {
     sub at by at.01;
 } at_alternates;
 
-feature cv01 {
+feature cv02 {
     lookup at_alternates;
-} cv01;
+} cv02;

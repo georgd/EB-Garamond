@@ -10,7 +10,7 @@ languagesystem latn AZE ;
 languagesystem latn CRT ;
 languagesystem latn CAT ;
 languagesystem latn LAT ;
-languagesystem latn PLK ;
+#languagesystem latn PLK ;
 #languagesystem latn ROM ; not used; see discussion at https://bugs.launchpad.net/ubuntu-font-family/+bug/615565
 #languagesystem latn MOL ;
 
@@ -22,7 +22,6 @@ include (EBGaramond_kern.fea)
 include (EBGaramond_locals.fea)
 include (EBGaramond_case.fea)
 include (EBGaramond_ccmp.fea)
-include (EBGaramond_longs.fea)
 include (EBGaramond_styles.fea)
 include (EBGaramond_figures.fea)
 include (EBGaramond_smallcaps.fea)
