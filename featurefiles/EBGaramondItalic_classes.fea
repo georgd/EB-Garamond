@@ -1,0 +1,58 @@
+@letters = [ a-z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde etilde otilde utilde ];
+
+@LETTERS = [ A-Z
+	Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn 
+	Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron L.CAT U.LAT ];
+
+@Letters = [ @LETTERS @letters ];
+
+@DIGITS = [zero one two three four five six seven eight nine];
+@DIGITS_SUBS = [ zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs ];
+@DIGITS_SUPS = [ zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups ];
+@DIGITS_SINF = [ zero.sinf one.sinf two.sinf three.sinf four.sinf five.sinf six.sinf seven.sinf eight.sinf nine.sinf ];
+@DIGITS_ORDN = [ zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn ];
+
+@ONUM = @DIGITS;
+@LNUM = [zero.lnum one.lnum two.lnum three.lnum four.lnum five.lnum six.lnum seven.lnum eight.lnum nine.lnum ];
+@ONUM_TNUM = [zero.taboldstyle one.taboldstyle two.taboldstyle three.taboldstyle four.taboldstyle five.taboldstyle six.taboldstyle seven.taboldstyle eight.taboldstyle nine.taboldstyle ];
+@LNUM_TNUM = [zero.tablining one.tablining two.tablining three.tablining four.tablining five.tablining six.tablining seven.tablining eight.tablining nine.tablining ];
+
+@SUBS1 = [ exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen period slash @DIGITS colon semicolon less equal greater question at A-Z bracketleft backslash bracketright asciicircum underscore grave a-z braceleft bar braceright asciitilde brokenbar section paragraph Egrave egrave uni2016 dagger daggerdbl f.DEU i.TRK ];
+@SUBS2 = [ exclam.subs quotedbl.subs numbersign.subs dollar.subs percent.subs ampersand.subs quotesingle.subs parenleft.subs parenright.subs asterisk.subs plus.subs comma.subs hyphen.subs period.subs slash.subs @DIGITS_SUBS colon.subs semicolon.subs less.subs equal.subs greater.subs question.subs at.subs A.subs-Z.subs bracketleft.subs backslash.subs bracketright.subs asciicircum.subs underscore.subs grave.subs a.subs-z.subs braceleft.subs bar.subs braceright.subs asciitilde.subs brokenbar.subs section.subs paragraph.subs Egrave.subs egrave.subs uni2016.subs dagger.subs daggerdbl.subs f.subs i.subs ];
+@ORDN = [ exclam.ordn quotedbl.ordn numbersign.ordn dollar.ordn percent.ordn ampersand.ordn quotesingle.ordn parenleft.ordn parenright.ordn asterisk.ordn plus.ordn comma.ordn hyphen.ordn period.ordn slash.ordn @DIGITS_ORDN colon.ordn semicolon.ordn less.ordn equal.ordn greater.ordn question.ordn at.ordn A.ordn-Z.ordn bracketleft.ordn backslash.ordn bracketright.ordn asciicircum.ordn underscore.ordn grave.ordn a.ordn-z.ordn braceleft.ordn bar.ordn braceright.ordn asciitilde.ordn brokenbar.ordn section.ordn paragraph.ordn Egrave.ordn egrave.ordn uni2016.ordn dagger.ordn daggerdbl.ordn f.ordn i.ordn ];
+@SINF = [ exclam.sinf quotedbl.sinf numbersign.sinf dollar.sinf percent.sinf ampersand.sinf quotesingle.sinf parenleft.sinf parenright.sinf asterisk.sinf plus.sinf comma.sinf hyphen.sinf period.sinf slash.sinf @DIGITS_SINF colon.sinf semicolon.sinf less.sinf equal.sinf greater.sinf question.sinf at.sinf A.sinf-Z.sinf bracketleft.sinf backslash.sinf bracketright.sinf asciicircum.sinf underscore.sinf grave.sinf a.sinf-z.sinf braceleft.sinf bar.sinf braceright.sinf asciitilde.sinf brokenbar.sinf section.sinf paragraph.sinf Egrave.sinf egrave.sinf uni2016.sinf dagger.sinf daggerdbl.sinf f.sinf i.sinf ];
+@SUPS = [ exclam.sups quotedbl.sups numbersign.sups dollar.sups percent.sups ampersand.sups quotesingle.sups parenleft.sups parenright.sups asterisk.sups plus.sups comma.sups hyphen.sups period.sups slash.sups @DIGITS_SUPS colon.sups semicolon.sups less.sups equal.sups greater.sups question.sups at.sups A.sups-Z.sups bracketleft.sups backslash.sups bracketright.sups asciicircum.sups underscore.sups grave.sups a.sups-z.sups braceleft.sups bar.sups braceright.sups asciitilde.sups brokenbar.sups section.sups paragraph.sups Egrave.sups egrave.sups uni2016.sups dagger.sups daggerdbl.sups f.sups i.sups ];
+
+
+@PUNCT = [ exclam quotedbl quotesingle parenleft parenright comma period slash colon semicolon question bracketleft backslash bracketright braceleft bar braceright exclamdown questiondown guillemotleft guillemotright figuredash endash emdash uni2015 quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase ellipsis guilsinglleft guilsinglright  ];
+
+
+@NO_DESC = [A-I K-P R-Z a-e h i k-o r-x z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn agrave aacute acircumflex atilde adieresis aring ae egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis Amacron amacron Abreve abreve Cacute cacute Ccircumflex ccircumflex Cdotaccent cdotaccent Ccaron ccaron Dcaron dcaron Dcroat dcroat Emacron emacron Ebreve ebreve Edotaccent edotaccent Ecaron ecaron Gcircumflex Gbreve Gdotaccent Hcircumflex hcircumflex Hbar hbar Itilde itilde Imacron imacron Ibreve ibreve Idotaccent dotlessi kgreenlandic Lacute lacute Lcaron lcaron Ldot ldot Lslash lslash Nacute nacute Ncaron ncaron napostrophe Omacron omacron Obreve obreve Ohungarumlaut ohungarumlaut OE oe Racute racute Rcaron rcaron Sacute sacute Scircumflex scircumflex Scaron scaron Tcaron tcaron Tbar tbar Utilde utilde Umacron umacron Ubreve ubreve Uring uring Uhungarumlaut uhungarumlaut Wcircumflex wcircumflex Ycircumflex Ydieresis Zacute zacute Zdotaccent zdotaccent Zcaron zcaron Ohorn ohorn Uhorn uhorn uni01C4 uni01C5 uni01C6 uni01CD uni01CE uni01CF uni01D0 uni01D1 uni01D2 uni01D3 uni01D4 uni01D5 uni01D6 uni01D7 uni01D8 uni01D9 uni01DA uni01DB uni01DC uni01DE uni01DF uni01E0 uni01E1 uni01E2 uni01E3 Gcaron uni01E8 uni01E9 uni01F1 uni01F2 uni01F3 uni01F4 uni01F8 uni01F9 Aringacute aringacute AEacute aeacute Oslashacute oslashacute uni0202 uni0203 uni0206 uni0207 uni020A uni020B uni020E uni020F uni0212 uni0213 uni0216 uni0217 uni021E uni021F uni0226 uni0227 uni022A uni022B uni022C uni022D uni022E uni022F uni0230 uni0231 uni0232 ];
+
+@RIGHT_DESC = [@NO_DESC q];
+
+@LONG_F = [f f_f f.DEU longs longs_longs];
+
+@SHORT_F = [f.short f_f.short f.short longs.short longs_longs.short];
+
+@HIGH_ASC = [b f h-l adieresis edieresis idieresis odieresis udieresis dotlessi thorn eth longs bracketright braceright question exclam parenright i i.TRK f.DEU f_f uniFB01 uniFB02 uniFB03 uniFB04 uniFB05 uniFB06 f_f.short f.short f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.short longs_longs.short f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t ];
+
+@SMALLCAPS_BASIS = [ a-z 
+	 agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis multiply oslash ugrave uacute ucircumflex udieresis yacute thorn germandbls divide amacron abreve aogonek cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent eogonek ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK dotlessi ij jcircumflex kcommaaccent kgreenlandic lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron eng omacron obreve ohungarumlaut oe racute rcommaaccent rcaron sacute scircumflex scedilla scaron uni0163 tcaron tbar utilde umacron ubreve uring uhungarumlaut uogonek wcircumflex ycircumflex ydieresis zacute zdotaccent zcaron longs 
+	f.DEU l.CAT u.LAT ];
+@SMALLCAPS = [ a.sc-z.sc 
+	 agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc ae.sc ccedilla.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc eth.sc ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc multiply.sc oslash.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc yacute.sc thorn.sc germandbls.sc divide.sc amacron.sc abreve.sc aogonek.sc cacute.sc ccircumflex.sc cdotaccent.sc ccaron.sc dcaron.sc dcroat.sc emacron.sc ebreve.sc edotaccent.sc eogonek.sc ecaron.sc gcircumflex.sc gbreve.sc gdotaccent.sc gcommaaccent.sc hcircumflex.sc hbar.sc itilde.sc imacron.sc ibreve.sc iogonek.sc i.TRKsc dotlessi.sc ij.sc jcircumflex.sc kcommaaccent.sc kgreenlandic.sc lacute.sc lcommaaccent.sc lcaron.sc ldot.sc lslash.sc nacute.sc ncommaaccent.sc ncaron.sc eng.sc omacron.sc obreve.sc ohungarumlaut.sc oe.sc racute.sc rcommaaccent.sc rcaron.sc sacute.sc scircumflex.sc scedilla.sc scaron.sc uni0163.sc tcaron.sc tbar.sc utilde.sc umacron.sc ubreve.sc uring.sc uhungarumlaut.sc uogonek.sc wcircumflex.sc ycircumflex.sc ydieresis.sc zacute.sc zdotaccent.sc zcaron.sc s.sc 
+	f.sc l.CATsc v.sc ];
+@C2SC_BASIS = [ @LETTERS ];
+@C2SC = [ A.sc-Z.sc
+	Agrave.sc Aacute.sc Acircumflex.sc Atilde.sc Adieresis.sc Aring.sc AE.sc Ccedilla.sc Egrave.sc Eacute.sc Ecircumflex.sc Edieresis.sc Igrave.sc Iacute.sc Icircumflex.sc Idieresis.sc Eth.sc Ntilde.sc Ograve.sc Oacute.sc Ocircumflex.sc Otilde.sc Odieresis.sc Oslash.sc Ugrave.sc Uacute.sc Ucircumflex.sc Udieresis.sc Yacute.sc Thorn.sc 
+	Amacron.sc Abreve.sc Aogonek.sc Cacute.sc Ccircumflex.sc Cdotaccent.sc Ccaron.sc Dcaron.sc Dcroat.sc Emacron.sc Ebreve.sc Edotaccent.sc Eogonek.sc Ecaron.sc Gcircumflex.sc Gbreve.sc Gdotaccent.sc Gcommaaccent.sc Hcircumflex.sc Hbar.sc Itilde.sc Imacron.sc Ibreve.sc Iogonek.sc Idotaccent.sc IJ.sc Jcircumflex.sc Kcommaaccent.sc Lacute.sc Lcommaaccent.sc Lcaron.sc Ldot.sc Lslash.sc Nacute.sc Ncommaaccent.sc Ncaron.sc Eng.sc Omacron.sc Obreve.sc Ohungarumlaut.sc OE.sc Racute.sc Rcommaaccent.sc Rcaron.sc Sacute.sc Scircumflex.sc Scedilla.sc Scaron.sc uni0162.sc Tcaron.sc Tbar.sc Utilde.sc Umacron.sc Ubreve.sc Uring.sc Uhungarumlaut.sc Uogonek.sc Wcircumflex.sc Ycircumflex.sc Ydieresis.sc Zacute.sc Zdotaccent.sc Zcaron.sc L.CATsc V.sc ];
+	
+@capdiacritics0 = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0311 uni0316 uni0317 uni0323 uni0324 uni0325 uni0327 uni0328 uni032C uni032D uni032E uni032F uni0330 uni0331 breve.CYR ];
+
+@capdiacritics1 = [ gravecomb.cap acutecomb.cap uni0302.cap tildecomb.cap uni0304.cap uni0306.cap uni0307.cap uni0308.cap uni030A.cap uni030B.cap uni030C.cap uni030F.cap uni0311.cap uni0316.cap uni0317.cap uni0323.cap uni0324.cap uni0325.cap uni0327.cap uni0328.cap uni032C.cap uni032D.cap uni032E.cap uni032F.cap uni0330.cap uni0331.cap breve.CYRcap ];
+
+@abovediacritics = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni0309 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 ];
+
+@SWASH_BASIS = [ A-Z Q.long V.01 W.01 ];
+@SWASH = [ A.sw-Z.sw Q.swlong V.sw W.sw ];

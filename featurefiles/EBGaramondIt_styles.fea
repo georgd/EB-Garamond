@@ -1,0 +1,41 @@
+lookup ss01 {
+    sub [ uni0409 uni0414 uni041B uni0434 uni043B uni0459 ] by [ uni0409.alt uni0414.alt uni041B.alt uni0434.alt uni043B.alt uni0459.alt ];
+} ss01;
+
+feature ss01{
+    lookup ss01;
+} ss01;
+
+lookup ss02 {
+    ignore sub @Letters u';
+    sub u' by u.LAT;
+    sub @Letters v' by v.LATmedi;
+} ss02;
+
+feature ss02 {
+    lookup ss02;
+} ss02;
+
+lookup ss03 {
+    sub [ v w ] by [ v.alt w.alt ];
+} ss03;
+
+feature ss03 {
+    lookup ss03;
+} ss03;
+
+lookup longs_replacement {
+     sub s' @letters by longs;
+} longs_replacement;
+
+feature cv01 {
+ lookup longs_replacement;
+} cv01;
+
+lookup at_alternates {
+    sub at by at.01;
+} at_alternates;
+
+feature cv02 {
+    lookup at_alternates;
+} cv02;

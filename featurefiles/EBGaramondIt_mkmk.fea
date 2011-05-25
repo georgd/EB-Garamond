@@ -1,0 +1,33 @@
+
+lookup mkmk {
+  markClass [\gravecomb.stack ] <anchor 92 456> @gravestack;
+  markClass [\acutecomb.stack ] <anchor 32 456> @acutestack;
+  markClass [\uni0302.stack ] <anchor 116 447> @top_stack;
+  markClass [\tildecomb.stack ] <anchor 139 453> @top_stack;
+  markClass [\uni0304.stack ] <anchor 180 490> @top_stack;
+  markClass [\uni0306.stack ] <anchor 167 465> @top_stack;
+  markClass [\uni030C.stack ] <anchor 117 452> @top_stack;
+  markClass [\acutecomb.flat ] <anchor 93 515> @top_stack;
+  markClass [\gravecomb.flat ] <anchor 114 515> @top_stack;
+  
+  pos mark [\tildecomb \uni0342 ] <anchor 148 644> mark @top_stack;
+  pos mark [\uni0302.stack ] <anchor 116 640> mark @top_stack
+	<anchor 9 558> mark @gravestack
+	<anchor 224 558> mark @acutestack;
+  pos mark [\tildecomb.stack ] <anchor 155 590> mark @acutestack
+	<anchor 150 590> mark @gravestack
+	<anchor 139 600> mark @top_stack;
+  pos mark [\uni0304.stack ] <anchor 182 570> mark @acutestack
+	<anchor 186 570> mark @gravestack
+	<anchor 180 590> mark @top_stack;
+  pos mark [\uni0306.stack ] <anchor 167 617> mark @top_stack
+	<anchor 161 566> mark @gravestack
+	<anchor 172 566> mark @acutestack;
+  pos mark [\uni030C.stack ] <anchor 114 580> mark @gravestack
+	<anchor 120 580> mark @acutestack
+	<anchor 117 635> mark @top_stack;
+} mkmk;
+
+feature mkmk {
+      lookup mkmk;
+} mkmk;
