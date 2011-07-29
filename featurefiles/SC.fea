@@ -9,10 +9,10 @@ languagesystem latn CRT ;
 languagesystem latn CAT ;
 languagesystem latn LAT ;
 
-include (EBGSC_classes.fea)
-#include (EBGaramondSC_mark.fea)
-#include (EBGaramondSC_mkmk.fea)
-include (EBGaramondSC_kern.fea)
-include (EBGaramondSC_GSUBs.fea)
-include (EBGaramond_case.fea)
+include (SC/classes.fea)
+#include (SC/mark.fea)
+#include (SC/mkmk.fea)
+include (SC/kern.fea)
+include (SC/GSUBs.fea)
+include (case.fea)
 

@@ -1,0 +1,27 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem cyrl SRB ;
+languagesystem cyrl BGR ;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn DEU ;
+languagesystem latn TRK ;
+languagesystem latn AZE ;
+languagesystem latn CRT ;
+languagesystem latn CAT ;
+languagesystem latn LAT ;
+#languagesystem latn PLK ;
+#languagesystem latn ROM ; not used; see discussion at https://bugs.launchpad.net/ubuntu-font-family/+bug/615565
+#languagesystem latn MOL ;
+
+
+include (Italic/classes.fea)
+include (Regular/locals.fea)
+include (Regular/case.fea)
+include (Regular/ccmp.fea)
+include (Italic/styles.fea)
+include (Regular/figures.fea)
+include (Regular/smallcaps.fea)
+include (Regular/ligatures.fea)
+include (Italic/calt.fea)
+include (Regular/swash.fea)
