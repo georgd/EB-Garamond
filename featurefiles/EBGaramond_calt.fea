@@ -1,6 +1,6 @@
 lookup Q_longtail {
     sub Q' @NO_DESC @NO_DESC by Q.long;
-    sub Q' @NO_DESC @NO_DESC @RIGHT_DESC  by Q.long;
+    sub Q' @NO_DESC [ @NO_DESC quoteleft quoteright ] @RIGHT_DESC  by Q.long;
 } Q_longtail;
 lookup f_short {
     sub @LONG_F' [ @LETTERS @HIGH_ASC space @PUNCT ] by @SHORT_F;
