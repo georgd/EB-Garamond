@@ -31,3 +31,11 @@ lookup at_alternates {
 feature cv02 {
     lookup at_alternates;
 } cv02;
+
+lookup j_historic {
+    sub [ J j ] by [ J.hist j.hist ];
+} j_historic;
+
+feature cv03 {
+    lookup j_historic;
+} cv03;
