@@ -1,10 +1,12 @@
 @letters = [ a-z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde etilde otilde utilde ];
 
+@letters_alt = [ v.init w.init v.alt w.alt ];
+
 @LETTERS = [ A-Z
 	Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn 
 	Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron L.CAT U.LAT ];
 
-@Letters = [ @LETTERS @letters ];
+@Letters = [ @LETTERS @letters @letters_alt ];
 
 @DIGITS = [zero one two three four five six seven eight nine];
 @DIGITS_SUBS = [ zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs ];

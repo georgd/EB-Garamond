@@ -3,11 +3,13 @@ lookup CCMP_contextual {
     sub [ l d t ] \uni030C' by uni030C.alt;
 } CCMP_contextual;
 
-lookup CCMP_stacking {
-    sub [ uni0302 ] [ acutecomb gravecomb]' by [acutecomb.stack gravecomb.stack];
-  subtable;
-    sub [ uni0302 ]' [acutecomb.stack gravecomb.stack] by uni0302.stack;
-} CCMP_stacking;
+lookup CCMP_stacking1 {
+    sub [ uni0302 ]' [ acutecomb gravecomb] by [uni0302.stack];
+} CCMP_stacking1;
+
+lookup CCMP_stacking2 {
+    sub [ uni0302.stack ] [acutecomb gravecomb]' by [acutecomb.stack gravecomb.stack];
+} CCMP_stacking2;
 
 lookup CCMP_Precomp {
     sub \uni1EA5 by \a \uni0302.stack \acutecomb.stack;
@@ -18,6 +20,7 @@ lookup CCMP_Precomp {
 
 feature ccmp {
   lookup CCMP_contextual;
-  lookup CCMP_stacking;
+  lookup CCMP_stacking1;
+  lookup CCMP_stacking2;
   lookup CCMP_Precomp;
 } ccmp;
