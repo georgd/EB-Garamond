@@ -10,6 +10,7 @@ lookup ss02 {
     ignore sub @Letters u';
     sub u' by u.LAT;
     sub @Letters v' by v.LATmedi;
+    sub U' by U.LAT;
 } ss02;
 
 feature ss02 {
