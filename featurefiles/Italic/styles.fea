@@ -10,6 +10,7 @@ lookup ss02 {
     ignore sub @Letters u';
     sub u' by u.LAT;
     sub @Letters v' by v.LATmedi;
+    sub U' by U.LAT;
 } ss02;
 
 feature ss02 {
@@ -47,3 +48,11 @@ lookup j_historic {
 feature cv03 {
     lookup j_historic;
 } cv03;
+
+lookup ampersand_alt {
+    sub ampersand by ampersand.01;
+} ampersand_alt;
+
+feature cv04 {
+    lookup ampersand_alt;
+} cv04;
