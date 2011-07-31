@@ -7,9 +7,9 @@ feature ss01{
 } ss01;
 
 lookup ss02 {
-    ignore sub @Letters u';
+    ignore sub [ @Letters quoteright ] u';
     sub u' by u.LAT;
-    sub @Letters v' by v.LATmedi;
+    sub [ @Letters quoteright ] v' by v.LATmedi;
     sub U' by U.LAT;
 } ss02;
 
@@ -42,8 +42,9 @@ feature cv03 {
 } cv03;
 
 lookup quotrightalternates {
-    sub quoteright by quoteright.01;
+    sub quoteright' @NO_ASC by quoteright.01;
 } quotrightalternates;
-feature cv05 {
+
+feature ss05 {
     lookup quotrightalternates;
-} cv05;
+} ss05;
