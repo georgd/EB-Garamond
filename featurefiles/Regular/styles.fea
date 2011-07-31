@@ -40,3 +40,10 @@ lookup j_historic {
 feature cv03 {
     lookup j_historic;
 } cv03;
+
+lookup quotrightalternates {
+    sub quoteright by quoteright.01;
+} quotrightalternates;
+feature cv05 {
+    lookup quotrightalternates;
+} cv05;
