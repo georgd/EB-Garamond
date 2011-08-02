@@ -7,10 +7,11 @@ feature ss01{
 } ss01;
 
 lookup ss02 {
-    ignore sub [ @Letters quoteright ] u';
+    ignore sub [ @Letters quoteright quoteright.01 ] u';
     sub u' by u.LAT;
-    sub [ @Letters quoteright ] v' by v.LATmedi;
+    sub [ @Letters quoteright quoteright.01 ] v' by v.LATmedi;
     sub U' by U.LAT;
+    sub [ U.sc u.sc ]' by [ U.LATsc u.LATsc ];
 } ss02;
 
 feature ss02 {
@@ -18,7 +19,7 @@ feature ss02 {
 } ss02;
 
 lookup longs_replacement {
-     sub s' @letters by longs;
+     sub s' [ @letters hyphen afii301 ] by longs;
 } longs_replacement;
 
 feature cv01 {
