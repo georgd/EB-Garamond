@@ -1,21 +1,21 @@
-lookup ss01 {
+lookup cyrillic_DLLj {
     sub [ uni0409 uni0414 uni041B uni0434 uni043B uni0459 ] by [ uni0409.alt uni0414.alt uni041B.alt uni0434.alt uni043B.alt uni0459.alt ];
-} ss01;
+} cyrillic_DLLj;
 
 feature ss01{
-    lookup ss01;
+    lookup cyrillic_DLLj;
 } ss01;
 
-lookup ss02 {
+lookup historic_u {
     ignore sub [ @Letters quoteright ] u';
     sub u' by u.LAT;
     sub [ @Letters quoteright ] v' by v.LATmedi;
     sub U' by U.LAT;
 #    sub [ U.sc u.sc ]' by [ U.LATsc u.LATsc ];
-} ss02;
+} historic_u;
 
 feature ss02 {
-    lookup ss02;
+    lookup historic_u;
 } ss02;
 
 lookup ss03 {
@@ -42,12 +42,12 @@ feature cv02 {
     lookup at_alternates;
 } cv02;
 
-lookup j_historic {
+lookup historic_j {
     sub [ J j ] by [ J.hist j.hist ];
-} j_historic;
+} historic_j;
 
 feature cv03 {
-    lookup j_historic;
+    lookup historic_j;
 } cv03;
 
 lookup ampersand_alt {
@@ -67,3 +67,12 @@ lookup v_alternates {
 feature cv05 {
     lookup v_alternates;
 } cv05;
+
+lookup cool {
+    sub L by c;
+} cool;
+
+feature cool {
+    lookup cool;
+} cool;
+
