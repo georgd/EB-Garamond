@@ -1,21 +1,21 @@
-lookup ss01 {
+lookup cyrillic_DLLj {
     sub [ uni0409 uni0414 uni041B uni0434 uni043B uni0459 ] by [ uni0409.alt uni0414.alt uni041B.alt uni0434.alt uni043B.alt uni0459.alt ];
-} ss01;
+} cyrillic_DLLj;
 
 feature ss01{
-    lookup ss01;
+    lookup cyrillic_DLLj;
 } ss01;
 
-lookup ss02 {
+lookup historic_u {
     ignore sub [ @Letters quoteright quoteright.01 ] u';
     sub u' by u.LAT;
     sub [ @Letters quoteright quoteright.01 ] v' by v.LATmedi;
     sub U' by U.LAT;
     sub [ U.sc u.sc ]' by [ U.LATsc u.LATsc ];
-} ss02;
+} historic_u;
 
 feature ss02 {
-    lookup ss02;
+    lookup historic_u;
 } ss02;
 
 lookup longs_replacement {
@@ -34,18 +34,27 @@ feature cv02 {
     lookup at_alternates;
 } cv02;
 
-lookup j_historic {
+lookup historic_j {
     sub [ J j ] by [ J.hist j.hist ];
-} j_historic;
+} historic_j;
 
 feature cv03 {
-    lookup j_historic;
+    lookup historic_j;
 } cv03;
 
-lookup quotrightalternates {
+lookup historic_apostrophe {
     sub quoteright' @NO_ASC by quoteright.01;
-} quotrightalternates;
+} historic_apostrophe;
 
 feature ss05 {
-    lookup quotrightalternates;
+    lookup historic_apostrophe;
 } ss05;
+
+lookup one_variants {
+    sub one by one.01;
+    sub one.taboldstyle by one.taboldstyle01;
+} one_variants;
+
+feature cv11 {
+    lookup one_variants;
+} cv11;

@@ -2,10 +2,9 @@ lookup Q_longtail {
     sub Q' @NO_DESC @NO_DESC by Q.long;
     sub Q' @NO_DESC [ @NO_DESC quoteleft quoteright ] @RIGHT_DESC  by Q.long;
 } Q_longtail;
-lookup f_short {
-    sub @LONG_F' [ @LETTERS @HIGH_ASC space @PUNCT ] by @SHORT_F;
-    sub @LONG_F' \uni200c @HIGH_ASC by @SHORT_F;
-} f_short;
+lookup f_long {
+    sub @SHORT_F' [ @NO_ASC ] by @LONG_F;
+} f_long;
 lookup caltLAT {
     #sub [ space @PUNCT ] u.LAT' by u.LATinit;
     sub [ @Letters U.LAT u.LAT u.LATmedi v.LATmedi ] [ u.LAT v.LAT]' by [ u.LATmedi v.LATmedi];
@@ -13,6 +12,6 @@ lookup caltLAT {
 
 feature calt {
     lookup Q_longtail;
-    lookup f_short;
+    lookup f_long;
     lookup caltLAT;
 } calt;

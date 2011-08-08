@@ -1,4 +1,4 @@
-@letters = [ a-z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde etilde otilde utilde oe f.DEU f.short i.TRK l.CAT u.LAT v.LATmedi ];
+@letters = [ a-z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde etilde otilde utilde oe f.DEU f.long i.TRK l.CAT u.LAT v.LATmedi ];
 
 @LETTERS = [ A-Z
 	Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn 
@@ -31,11 +31,11 @@
 
 @RIGHT_DESC = [@NO_DESC q];
 
-@LONG_F = [f f_f f.DEU longs longs_longs];
+@SHORT_F = [f f_f f.DEU longs longs_longs];
 
-@SHORT_F = [f.short f_f.short f.short longs.short longs_longs.short];
+@LONG_F = [f.long f_f.long f.long longs.long longs_longs.long];
 
-@HIGH_ASC = [b f h-l adieresis edieresis idieresis odieresis udieresis dotlessi thorn eth longs bracketright braceright question exclam parenright i i.TRK f.DEU f_f uniFB01 uniFB02 uniFB03 uniFB04 uniFB05 uniFB06 f_f.short f.short f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.short longs_longs.short f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t ];
+@HIGH_ASC = [b f h-l adieresis edieresis idieresis odieresis udieresis dotlessi thorn eth longs bracketright braceright question exclam parenright i i.TRK f.DEU f_f uniFB01 uniFB02 uniFB03 uniFB04 uniFB05 uniFB06 f_f.long f.long f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.long longs_longs.long f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t ];
 
 @NO_ASC = [ a c e g m-s u-z ae ccedilla aogonek eogonek dotlessi kgreenlandic eng oe rcommaaccent scedilla uogonek uni01dd uni01e5 oogonek scommaaccent uni0229 dotlessj ];
 
