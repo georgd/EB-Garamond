@@ -43,6 +43,7 @@ lookup liga_standard {
     sub l.CAT periodcentered by ldot;
     sub L.CATsc periodcentered by Ldot.sc;
     sub l.CATsc periodcentered by ldot.sc;
+    sub Q y by Q_y;
 } liga_standard;
 
 feature liga {
