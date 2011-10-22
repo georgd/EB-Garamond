@@ -58,3 +58,20 @@ lookup one_variants {
 feature cv11 {
     lookup one_variants;
 } cv11;
+
+lookup floralhearts_variants {
+    sub uni2619 by uni2619.01;
+    sub uni2767 by uni2767.01;
+} floralhearts_variants;
+
+feature cv90 {
+    lookup floralhearts_variants;
+} cv90;
+
+lookup pilcrow_variants {
+    sub paragraph by paragraph.01;
+} pilcrow_variants;
+
+feature cv91 {
+    lookup pilcrow_variants;
+} cv91;
