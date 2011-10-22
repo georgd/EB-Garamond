@@ -1,19 +1,21 @@
-\documentclass[pagesize,11.5pt,DIV14]{scrreprt}
+\documentclass[pagesize,11.5pt,DIV14]{scrartcl}
 \usepackage{fontspec}
 \usepackage{microtype}
+%\usepackage{xkeyval}
 \usepackage[babelshorthands]{polyglossia}
 \setdefaultlanguage{english}
 \setotherlanguages{%
 french,czech,polish,latin,italian,catalan,german,romanian,%
 portuges,swedish,finnish,dutch,russian,serbian,ukrainian,%
-bulgarian,slovenian,vietnamese%
+bulgarian,slovenian,vietnamese,greek%
 }
 \usepackage{csquotes}
 \defaultfontfeatures{RawFeature={+calt,+clig,
 +tlig}}%,Numbers={Proportional,OldStyle}}
+\usepackage{libertine}
 \setmainfont%
 {EB Garamond}
-\setsansfont{Linux Biolinum O}
+%\setsansfont{Linux Biolinum O}
 \usepackage{cmap}
 \usepackage{multicol}
 \usepackage{sectsty}
@@ -35,25 +37,25 @@ EB Garamond}\\
 \char"E001 \char"E002
 }
 \end{center}\clearpage}
+\section{Samples}
 \begin{multicols}{2}
-\paragraph*{Claude Garamond} (ca. 1480 – 1561) was a Parisian publisher. He was one of the leading type designers  of his time, and is credited with the introduction of the apostrophe, the accent and the cedilla to the French language. Several contemporary typefaces, including those currently known as Garamond, Granjon, and Sabon, reflect his influence. Garamond was an apprentice of Simon de Colines; later, he was an assistant to Geoffroy Tory [sic!], whose interests in humanist typography and the ancient Greek capital letterforms, or majuscules, may have informed Garamond’s later work.
+\paragraph*{Claude Garamond} (ca. 1480 – 1561) was a Parisian publisher. He was one of the leading type designers  of his time, and is credited with the introduction of the apostrophe, the accent and the cedilla to the French language. Several contemporary typefaces, including those currently known as Garamond, Granjon, and Sabon, reflect his influence. Garamond was an apprentice of Simon de Colines; later, he was an assistant to Geoffroy Tory, whose interests in humanist typography and the ancient Greek capital letterforms, or majuscules, may have informed Garamond’s later work.
 
-Garamond came to prominence in 1541, when three of his Greek typefaces (e.g. the Grecs du roi (1541)) were requested for a royally-ordered book series by Robert Estienne. Garamond based these types on the handwriting of Angelo Vergecio, the King’s Librarian at Fontainebleau, as well as that of his ten-year-old pupil, Henri Estienne. According to Arthur Tilley, the resulting books are “among the most finished specimens of typography that exist.” Shortly thereafter, Garamond created the Roman types for which […]\\
+\textit{Garamond came to prominence in 1541, when three of his Greek typefaces (e.g. the Grecs du roi (1541)) were requested for a royally-ordered book series by Robert Estienne. Garamond based these types on the handwriting of Angelo Vergecio, the King’s Librarian at Fontainebleau, as well as that of his ten-year-old pupil, Henri Estienne. According to Arthur Tilley, the resulting books are “among the most finished specimens of typography that exist.” Shortly thereafter, Garamond created the Roman types for which […]}\\
 {\scriptsize From Wikipedia, the free encyclopedia}
 \begin{catalan}
 \paragraph*{Claude Garamond}\addfontfeature{Language=Catalan} (París, 1490 - 1561) va ser un tipògraf, impressor i gravador de matrius francès. La seva obra tipogràfica es considera clàssica dins de l’estil antic i d'inspiració per a composicions modernes.
-El 1510 va començar el seu aprenentatge amb el tipògraf i impressor Antoine Augereau. Durant la primera meitat del segle XVI els impressors compartien totes les instàncies en l’elaboració d’un llibre des del disseny tipogràfic fins a l’enquadernació. Claude Garamond va ser el primer que es va especialitzar en el disseny, gravat i foneria de tipus com a servei a altres impressors ajudat pel seu aprenent Jacques Sabon. Les referències tipogràfiques de Garamond inclouen els treballs de Conrad Sweynheym, Arnold Pannartz, Erhard Ratdolt, Nicholas Jenson, Aldo Manuzio, Francesco Griffo, Henri, Robert, Ludovicio degli Arrighi de Venècia, Giovani Antonio Tagliente i Giovanbattista Palatino, una llista eclèctica d’experts coneguts per la seva excel·lència tipogràfica. A finals del 1520 Garamond va ser comissionat per a subministrar els seus tipus al famós impressor escolar Robert Estienne.\\
+El 1510 va començar el seu aprenentatge amb el tipògraf i impressor Antoine Augereau. Durant la primera meitat del segle XVI els impressors compartien totes les instàncies en l’elaboració d’un llibre des del disseny tipogràfic fins a l’enquadernació. Claude Garamond va ser el primer que es va especialitzar en el disseny, gravat i foneria de tipus com a servei a altres impressors ajudat pel seu aprenent Jacques Sabon.\par
+\textit{Les referències tipogràfiques de Garamond inclouen els treballs de Conrad Sweynheym, Arnold Pannartz, Erhard Ratdolt, Nicholas Jenson, Aldo Manuzio, Francesco Griffo, Henri, Robert, Ludovicio degli Arrighi de Venècia, Giovani Antonio Tagliente i Giovanbattista Palatino, una llista eclèctica d’experts coneguts per la seva excel·lència tipogràfica. A finals del 1520 Garamond va ser comissionat per a subministrar els seus tipus al famós impressor escolar Robert Estienne.}\\
 {\scriptsize De Viquipèdia}
 \end{catalan}
 \begin{german}
 \addfontfeature{Language=German}
 \paragraph*{Claude Garamond,} auch Garamont, (*1499 (oder 1490) in Paris; †\,1561 in Paris) war ein französischer Schriftgießer, Typograf, Stempelschneider und Verleger. Er schuf die noch heute verwendete Schriftart Garamond.
 
-Claude Garamond lernte das Handwerk des Schriftschneidens bei Geoffroy Troy, er war Schüler und Mitarbeiter des Pariser Stempelschneiders und Druckers Antoine Augereau, einige der Arbeiten Garamonds werden in verschiedenen Quellen Augereau zugeordnet – in jedem Fall ist eine Einflussnahme seines Lehrers bis zu dessen Tod auf dem Scheiterhaufen im Jahr 1534 sehr wahrscheinlich.
+Claude Garamond lernte das Handwerk des Schriftschneidens bei Geoffroy Tory, er war Schüler und Mitarbeiter des Pariser Stempelschneiders und Druckers Antoine Augereau, einige der Arbeiten Garamonds werden in verschiedenen Quellen Augereau zugeordnet – in jedem Fall ist eine Einflussnahme seines Lehrers bis zu dessen Tod auf dem Scheiterhaufen im Jahr 1534 sehr wahrscheinlich.
 
-Garamonds erste Antiqua-Schriften dürf"|ten um 1530/1531 entstanden sein, als erstmals in vier verschiedenen Pariser Druckereien Schriften eines neuen Typus auf"|tauchten, die Claude Garamond zugeschrieben werden konnten. Die Vorarbeiten hierzu sind bis ins Jahr 1525 zurückzudatieren.
-
-Nimmt man als Referenz die Arbeiten für seinen wichtigsten Kunden, den Drucker Robert Estienne, […]\\
+\textit{Garamonds erste Antiqua-Schriften dürf"|ten um 1530/1531 entstanden sein, als erstmals in vier verschiedenen Pariser Druckereien Schriften eines neuen Typus auf"|tauchten, die Claude Garamond zugeschrieben werden konnten. Die Vorarbeiten hierzu sind bis ins Jahr 1525 zurückzudatieren.}\\
 {\scriptsize Aus Wikipedia, der freien Enzyklopädie}
 \end{german}
 
@@ -64,18 +66,14 @@ Avec Guillaume~I Le Bé et Robert Granjon, il est un des plus fameux créateurs 
 
 Il a appris son métier en étant l’élève d’Antoine Augereau, un tailleur de caractères parisien qui s’était reconverti au métier de libraire et d’imprimeur.
 
-En 1540, Pierre Duchâtel, conseiller et aumônier de François I{\addfontfeature{RawFeature=+ordn}er} commanda à Garamond les poinçons de trois sortes de caractères d’un alphabet grec aux frais de Robert Estienne (qui en fit usage pour ses éditions grecques, à partir de 1543). Pour dessiner ces caractères, dit plus tard Grecs du Roi, […]\\
+\textit{En 1540, Pierre Duchâtel, conseiller et aumônier de François I{\addfontfeature{RawFeature=+ordn}er} commanda à Garamond les poinçons de trois sortes de caractères d’un alphabet grec aux frais de Robert Estienne (qui en fit usage pour ses éditions grecques, à partir de 1543). Pour dessiner ces caractères, dit plus tard Grecs du Roi, […]}\\
 {\scriptsize De Wikipédia, l'encyclopédie libre.}
 \end{french}
 
 \begin{portuges}
-\paragraph*{Claude Garamond} (1480-1561) foi um editor francês.
+\paragraph*{Claude Garamond} (1480-1561) foi um editor francês. As fontes criadas por Claude Garamond em Paris, a partir de 1530, refinadas dos tipos usados por Aldus Manutius, de 1455, são ainda hoje um referencial tipográfico forte, influenciando diversas interpretações em famílias de letras contemporâneas.
 
-As fontes criadas por Claude Garamond em Paris, a partir de 1530, refinadas dos tipos usados por Aldus Manutius, de 1455, são ainda hoje um referencial tipográfico forte, influenciando diversas interpretações em famílias de letras contemporâneas.
-
-Como ficou provado no início deste século (1925) por Beatrice Warde (sob a pseudônimo Paul Beaujon), seriam todas essas “descendentes”, em verdade, baseadas nos caracteres da "l’université in the imprimerie royale" de paris.
-
-A versão mais próxima da tipografia em estilo Garamond é a Granjon, de George William Jones, feita entre 1928 e 1931, possuindo este nome para evitar confusões com aquelas que se pretendem “originais”.\\
+\textit{Como ficou provado no início deste século (1925) por Beatrice Warde (sob a pseudônimo Paul Beaujon), seriam todas essas “descendentes”, em verdade, baseadas nos caracteres da "l’université in the imprimerie royale" de paris.}\\
 {\scriptsize Origem: Wikipédia, a enciclopédia livre.}
 \end{portuges}
 \begin{italian}
@@ -108,13 +106,12 @@ Yhä edelleen on käytössä useita antiikva-kirjasintyyppejä, jotka perustuvat
 %\clearpage
 \begin{czech}
 \paragraph*{Sazba (od „sázeti“)} je původně tisková forma pro tisk z výšky (knihtisk), tvořená jednotlivými literami, případně obrázky. V širším slova smyslu hotová předloha pro tisk, zejména textová. Řemeslník, který vytvářel „horkou“ sazbu, se nazýval sazeč; s přechodem na modernější tiskové techniky, zejména ofset, pracuje grafik se sázecím programem na počítači.\par
-Sestavování tiskové formy z pohyblivých kovových liter se objevilo už ve 12.-13. století v Číně, nejstarší dochovaný exemplář je korejská kniha Jikji z roku 1377. Ruční zhotovování liter však bylo nesmírně pracné a technika se užívala jen sporadicky. Kolem roku 1440 udělal mohučský zlatník Johannes Gutenberg několik převratných vynálezů, mezi něž patřilo i odlévání liter. Ručně vyrobený ocelový model litery se zakalil a vyrazil do ocelové matrice, do níž se pak odléval libovolný počet shodných liter. Už Gutenberg také objevil liteřinu, slitinu olova a antimonu, která spojuje nízký bod tání s větší pevností.\\
+\textit{Sestavování tiskové formy z pohyblivých kovových liter se objevilo už ve 12.-13. století v Číně, nejstarší dochovaný exemplář je korejská kniha Jikji z roku 1377. Ruční zhotovování liter však bylo nesmírně pracné a technika se užívala jen sporadicky. Kolem roku 1440 udělal mohučský zlatník Johannes Gutenberg několik převratných vynálezů, mezi něž patřilo i odlévání liter. Ručně vyrobený ocelový model litery se zakalil a vyrazil do ocelové matrice, do níž se pak odléval libovolný počet shodných liter. Už Gutenberg také objevil liteřinu, slitinu olova a antimonu, která spojuje nízký bod tání s větší pevností.}\\
 {\scriptsize Z Wikipedie, otevřené encyklopedie.}
 \end{czech}
 \begin{polish}
 \paragraph*{Skład} – termin zecerski (dziś już historyczny) oznaczający tekst, który powstał fizycznie, czyli został ułożony z czcionek lub wierszy linotypowych (a także innych elementów, jak monotypy, linie czy justunek). Skład ma postać szpalty i będzie dopiero łamany. Składem jest także tabela, już złożona, ale jeszcze nie włamana w kolumnę.\par
-Czynność, w wyniku której powstawał tekst uformowany w taki sposób, nazywano składaniem, i to niezależnie od tego, czy odbywała się ona całkowicie ręcznie, czy też pomagały w niej w pierwszej fazie maszyny odlewające linotypy i monotypy.\par
-Podstawowymi cechami złożonego tekstu były: ustalony krój pisma w określonej odmianie i stopniu, oraz szerokość wierszy.\\
+\textit{Czynność, w wyniku której powstawał tekst uformowany w taki sposób, nazywano składaniem, i to niezależnie od tego, czy odbywała się ona całkowicie ręcznie, czy też pomagały w niej w pierwszej fazie maszyny odlewające linotypy i monotypy.}\\
 {\scriptsize Z Wikipedii, wolnej encyklopedii.}
 \end{polish}
 \begin{slovenian}
@@ -128,19 +125,19 @@ Gutenberg je postal slaven zaradi svojih prispevkov k tehnologiji tiskanja na sr
 
 Gutenberg sinh ở Mainz, nước Đức. Ông là con trai của một thương gia tên là Friele Gensfleisch zur Laden. Người cha của Gutenberg đã lấy "zum Gutenberg" là nơi họ đã sống lúc đó để đặt tên cho ông.
 
-Gutenberg đã phát minh ra một loại hợp kim dùng cho việc in ấn; mực; và cách cố định chữ in (chữ kim loại) rất chính xác; và một loại máy in mới. Nhiều người cho rằng Gutenberg đã phát minh ra loại bản in mẫu trượt ở châu Âu, nhưng thực ra nó đã được phát minh ra ở Triều Tiên trước đó.
+\textit{Gutenberg đã phát minh ra một loại hợp kim dùng cho việc in ấn; mực; và cách cố định chữ in (chữ kim loại) rất chính xác; và một loại máy in mới. Nhiều người cho rằng Gutenberg đã phát minh ra loại bản in mẫu trượt ở châu Âu, nhưng thực ra nó đã được phát minh ra ở Triều Tiên trước đó.}\\
 {\scriptsize Bách khoa toàn thư mở Wikipedia}
 \end{vietnamese}
 \begin{serbian}
 \addfontfeature{RawFeature=+ss01}
 \paragraph*{\addfontfeature{RawFeature=+ss01}\addfontfeature{Language=Serbian}Јохан Гутенберг} (нем. Johannes Gensfleisch zur Laden zum Gutenberg) (око 1400, Мајнц – 3.~фебруар 1468), је био немачки металски радник и сматра се проналазачем технике штампања металним помичним словима. Идеја те технике је била већ дуже позната али до тада није била усавршена у тој мери. Познати су и наводи да је та техника већ раније била реализована у Кини, Кореји и Јапану. Најстарија још учувана штампана књига датира из 868. године. Године 1041. се у Кини појављују и први примерци штампаних књига техником металних покретних слова и као проналазач се наводи извесни Би Шенг. Гутенбергова заслуга, као оца модерног штампарства, се састоји у усавршавању појединачних покретних слова, легура олова, антимона и калаја у техници високе штампе, али и тадашњи проналазак штампарске пресе.\par
-О његовом животу је веома мало познато и велики дио информација су само претпоставке. Његов брат Фриле Генсфлајш (нем. Friele Gensfleisch) је рођен у Елтвилу где је вероватно, са Гутенбергом основао малу штампарију и где је провео цели свој животни век (1434.-1447.).\\
+\textit{О његовом животу је веома мало познато и велики дио информација су само претпоставке. Његов брат Фриле Генсфлајш (нем. Friele Gensfleisch) је рођен у Елтвилу где је вероватно, са Гутенбергом основао малу штампарију и где је провео цели свој животни век (1434.-1447.).}\\
 {\scriptsize Из Википедије, слободне енциклопедије}
 \end{serbian}
 \begin{russian}
 \paragraph*{Клод Гарамо́н} (ок. 1500—1561) — парижский пуансонист, печатник, одна из важнейших фигур французского ренессанса. Он был учеником печатников Антуана Ожеро и Симона де Колина. Позже основал небольшую книгопечатню неподалеку от Сорбонны.\par
 Впервые известность к Гарамону пришла в 1540-х гг., когда он вырезал grecs du roi — три греческих курсива для издания классиков, поддержанного королём. Позже Гарамон вырезал и другие шрифты, в том числе прямой. Его шрифты, основаны в первую очередь на альдовых, но достаточно оригинальны. В курсивах Гарамона впервые появляются наклонные прописные, а также т. н. росчерки (swash).\par
-Спустя 60 лет после смерти Гарамона, пуансонист Жан Жаннон повторил прямой шрифт Гарамона, однако в формах более близких к барокко, чем к ренессансу. Именно этот шрифт, утерянный и забытый, был вновь найден в первой половине XIX в., и ошибочно приписан Клоду Гарамону. Ошибка обнаружилась в 1927 г., однако за 5 лет до этого фирма Monotype уже выпустила новую версию шрифта Жаннона под названием Garamond Roman. Именно это стало причиной того, что в XX в. под одним названием было выпущено несколько шрифтов, восходящих не только к двум разным авторам, но и к двум разным эпохам.
+\textit{Спустя 60 лет после смерти Гарамона, пуансонист Жан Жаннон повторил прямой шрифт Гарамона, однако в формах более близких к барокко, чем к ренессансу. Именно этот шрифт, утерянный и забытый, был вновь найден в первой половине XIX в., и ошибочно приписан Клоду Гарамону. Ошибка обнаружилась в 1927 г., однако за 5 лет до этого фирма Monotype уже выпустила новую версию шрифта Жаннона под названием Garamond Roman. Именно это стало причиной того, что в XX в. под одним названием было выпущено несколько шрифтов, восходящих не только к двум разным авторам, но и к двум разным эпохам.}
 \\
 {\scriptsize из Википедии — свободной энциклопедии}
 \end{russian}
@@ -160,7 +157,7 @@ Gutenberg đã phát minh ra một loại hợp kim dùng cho việc in ấn; m�
 цей час мав справу з судом через якийсь свій винахід,
 який намагався тримати у таємниці.
 Деякою мірою складання перегукується з верс-
-ткою.
+ткою.\\
 {\scriptsize з Вікіпедії — вільної енциклопедії.}
 \end{ukrainian}
 
@@ -187,27 +184,45 @@ Johannes Gensfleisch zur Laden zum Gutenberg, 1397
 1468, Могуч) быв вынаходником технолоґії
 механічного книгтиску помочов рушаючіх ся писмен.\\
 {\scriptsize Матеріал з Вікіпедії}
+\begin{greek}
+\paragraph*{Ο Ιωάννης Γουτεμβέργιος} (πλήρες γερμ. όνομα Johannes Gensfleisch zur Laden zum Gutenberg) γεννήθηκε κατά την επικρατέστερη εκδοχή το 1397 και απεβίωσε στις 3 Φεβρουαρίου του 1468 σε ηλικία 71 ετών. Τόπος γέννησής του είναι το Μάιντς (Mainz) της Γερμανίας και θεωρείται ο «πατέρας» της τυπογραφίας. Περίπου στα 1430 εγκαταστάθηκε στο Στρασβούργο. Τον Μάρτιο του 1434, ένα γράμμα του υποδεικνύει ότι εκείνη την εποχή διέμενε εκεί, όπου είχε κάποιους συγγενείς από την πλευρά της μητέρας του. Στο Στρασβούργο άρχισε να πειραματίζεται στη μεταλλουργία και στα 1434 έκανε τα πρώτα του βήματα στην τυπογραφία.\par
+\textit{Ο Γουτεμβέργιος θεωρείται ο «πατέρας» της μηχανικής εκτύπωσης μολονότι είχαν ήδη κατασκευαστεί κινητά τυπογραφικά στοιχεία από τον Ολλανδό Λαυρέντιο Κοστέρ στο Χάρλεμ, γιατί εκείνος συνέλαβε πρώτος την ιδέα της τυπογραφικής μεθόδου στο σύνολό της.}
+\\
+{\scriptsize Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια}
+\end{greek}\\
+\begin{greek}[variant=ancient]
+    Μῆνιν ἄειδε, θεά, Πηληϊάδεω Ἀχιλῆος
+    οὐλομένην, ἣ μυρί' Ἀχαιοῖς ἄλγε' ἔθηκε,
+    πολλὰς δ' ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν
+    ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν
+    οἰωνοῖσί τε πᾶσι, Διὸς δ' ἐτελείετο βουλή,
+    ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε
+    Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς. 
+\end{greek}
+
+
 \end{multicols}
 %\end{landscape}
 \clearpage
+\section{Glyphs}
 \fontsize{16}{16}
 \begin{center}
 {\addfontfeature{LetterSpace=10.0}
 ¿ABCDEFGHIJKLMNOPQQRSẞTUVWXYZÞÐ?\\
-¡abcdefghijklmnopqrsſßtuvwxyzþðđf!\\
+¡abcdefghijklmnopqrſsſßtuvwxyzþðđf!\\
 \$0123456789€ \XeTeXglyph 99 {\addfontfeature{Numbers=Lining}9876543210}¢\\
 »«;:,.-–—›‹„“”‚‘’[…]\{\}()·×÷\\
 "'\#\%\& *+/<=>@\textbackslash \textasciicircum \textasciitilde §©ªº°µΩ\\
 \textsc{abcdefghijklmnopqrstuvwxyzß}\\ 
-fffiffiflfbfhfjfkft\\
+fffiffiflfbfhfjfkft%\\
 ffbffhffjffkfflfft\\
-ſſſiſſiſlſbſhſjſkſt\\
+ſſſiſſiſlſbſhſjſkſt%\\
 ſſbſſhſſjſſkſſlſſt\\
 \char"261E \addfontfeature{RawFeature=+dlig}ÆæstctœŒ\char"261C\\
 {\addfontfeature{LetterSpace=0}
-Text{\addfontfeature{RawFeature=+sups}abcdefghijklmnopqrstuvwxyz0123456789}x\\
+Text{\addfontfeature{RawFeature=+sups}abcdefghijklmnopqrstuvwxyz0123456789}x %\\
 Text{\addfontfeature{RawFeature=+ordn}abcdefghijklmnopqrstuvwxyz0123456789}x\\
-Text{\addfontfeature{RawFeature=+subs}abcdefghijklmnopqrstuvwxyz0123456789}x\\
+Text{\addfontfeature{RawFeature=+subs}abcdefghijklmnopqrstuvwxyz0123456789}x %\\
 Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
 ÁÀÃĄÄ{\addfontfeature{Language=German}Ä}%Ǎ
 ÂĂÅÉÈ%Ẽ
@@ -221,26 +236,40 @@ Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
 ûŭůű\\
 ĆćÇçĎďĢģĜĝǦǧĞğĤĥḨḩĴĵĸŁłĽľÑñŇňŃńŊŋ\\
 ŘřŔŕŚśŠšŞşŤťŢţŴŵÝýŶŷŸÿŹźŻżŽž\\
-{\addfontfeature{RawFeature={+smcp,+c2sc}}ÁÀÃĄÄÂĂÅÉÈĘËĚÊĔÍÌĨĮÏÎĬİ\\
-ÓÒÕÖÔŎŐØÚÙŨŲÜÛŬŮŰ\\
-áàãąäâăåéèęëěêĕíìĩįïîĭıóòõǫöǒôǒőøúùũųüǔûŭůű\\
+{\addfontfeature{RawFeature={+smcp,+c2sc}}%ÁÀÃĄÄÂĂÅÉÈĘËĚÊĔÍÌĨĮÏÎĬİ%\\
+%ÓÒÕÖÔŎŐØÚÙŨŲÜÛŬŮŰ\\
+áàãąäâăåéèęëěêĕíìĩįïîĭıóòõǫöôǒőøúùũųüǔûŭůű\\
 ĆćÇçĎďĢģĜĝĞğĤĥĴĵĸŁłĽľÑñŇňŃńŊŋ\\
 ŘřŔŕŚśŠšŞşŤťŢţŴŵÝýŶŷŸÿŹźŻżŽž}\\
-\Huge \char"E001 \char"B6 \char"E002}
+{\Huge \char"E001 \char"B6 \char"E002}\\
+АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ\\
+\begin{serbian}{\addfontfeature{Language=Serbian,LetterSpace=10.0,RawFeature=+ss01}АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ}\end{serbian}\\
+абвгдежзийклмнопрстуфхцчшщъыьэюя\\
+\begin{serbian}{\addfontfeature{Language=Serbian,LetterSpace=10.0,RawFeature=+ss01}
+абвгдђежзијклљмнњопрстћуфхцчџш}\end{serbian}\\
+\textsc{абвгд{\addfontfeature{RawFeature=+ss01}д}ђежзийјкл{\addfontfeature{RawFeature=+ss01}л}љ{\addfontfeature{RawFeature=+ss01}љ}мнњопрстћуфхцчџшщъыьэюя}\\
+{\Huge \char"2619 {\addfontfeature{RawFeature=+cv91}¶}\char"2767}\\
+ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ\\
+αβγδεζηθικλμνξοπρσςτυφχψω\\
+ϐϝϑϰϖϱϲϡϕϻ\\
+άέήίόύώϊϋΐΰ\\
+\textsc{αβγδεζηθικλμνξοπρσςτυφχψω}\\
+{\Huge \char"2766}\\
+}
 \end{center}
 \clearpage
 \fontsize{16}{16}\itshape
 \begin{center}{\addfontfeature{LetterSpace=10.0}
 ¿ABCDEFGHIJKLMNOPQQRSẞTUVWXYZÞÐ?\\
 {\addfontfeature{RawFeature=+swsh}ABCDEFGHIJKLMNOPQQRSTUVWXYZ}
-¡abcdefghijklmnopqrsſßtuvw{\addfontfeature{RawFeature=-calt}vw}{\addfontfeature{RawFeature={-calt,+ss03}}vw}xyzþðđf!\\
+¡abcdefghijklmnopqrsſßtuvw{\addfontfeature{RawFeature=+cv05:1}vw}{\addfontfeature{RawFeature={+ss03}}vw}xyzþðđf!\\
 \$0123456789€ \XeTeXglyph 99 {\addfontfeature{Numbers=Lining}9876543210}¢\\
 »«;:,.-–—›‹„“”‚‘’[…]\{\}()·×÷\\
-"'\#\%\&{\addfontfeature{RawFeature=+cv00}\&}*+/<=>@\textbackslash \textasciicircum \textasciitilde §©ªº°µΩ\\
+"'\#\%\&{\addfontfeature{RawFeature=+cv04}\&}*+/<=>@\textbackslash \textasciicircum \textasciitilde §©ªº°µΩ\\
 \textsc{abcdefghijklmnopqrstuvwxyzß}\\ 
-fffiffiflfbfhfjfkft\\
+fffiffiflfbfhfjfkft%\\
 ffbffhffjffkfflfft\\
-ſſſiſſiſlſbſhſjſkſt\\
+ſſſiſſiſlſbſhſjſkſt%\\
 ſſbſſhſſjſſkſſlſſt\\
 \char"261E \addfontfeature{RawFeature=+dlig}ÆæstctœŒ\char"261C\\
 {\addfontfeature{LetterSpace=0}
@@ -265,7 +294,11 @@ Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
 áàãąäâăåéèęëěêĕíìĩįïîĭıóòõǫöǒôǒőøúùũųüǔûŭůű\\
 ĆćÇçĎďĢģĜĝĞğĤĥĴĵĸŁłĽľÑñŇňŃńŊŋ\\
 ŘřŔŕŚśŠšŞşŤťŢţŴŵÝýŶŷŸÿŹźŻżŽž}\\
-\Huge \char"E001 \char"B6 \char"E002}
+\Huge \char"E001 \char"B6 \char"E002}\\
+АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ\\
+абвгдежзийклмнопрстуфхцчшщъыьэюя\\
+ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ\\
+αβγδεζηθικλμνξοπρστυφχψω
 \vfill
 \fontsize{12}{12}\scriptsize\textit{{\addfontfeature{RawFeature=+swsh}G}eorg Duffner | w{\addfontfeature{RawFeature=-calt}ww}.georgduffner.at/ebgaramond/ | g.duffner@gmail.com}
 \end{center}
