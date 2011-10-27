@@ -204,6 +204,87 @@ Johannes Gensfleisch zur Laden zum Gutenberg, 1397
 \end{multicols}
 %\end{landscape}
 \clearpage
+\section{Features}
+\subsection{Locals}
+\paragraph*{German} prevents f-ligatures that are usually not allowed like fb, fh, fj, ffb, ffl etc. because they would only occur at \enquote{Wortfugen}: {\addfontfeature{Language=German}Laufband, aufjagen, trefflich,  Sauerstoffflasche,…}
+\paragraph*{Turkish, Azerbaijani, Crimtatar} correct replacement of i/ı as smallcaps etc.
+\paragraph*{Latin} replaces U by V, initial u by v and non-initial v by u: universalis → {\addfontfeature{Language=Latin} universalis}
+\paragraph*{Catalan} l + · are replaced by a l· ligature: {\addfontfeature{Language=Catalan}paral·lel}
+\paragraph*{Serbian} replaces б by \begin{serbian}б\end{serbian}
+
+\subsection{Figures}
+This font is primarily intended for texts. Thus default figures are oldstyle proportional so they fit best in a text setting. For many purposes though, tabular (all figures have the same width) and/or lining figures (they are about caps height) are preferred. They can be accessed using the features \texttt{tnum} and \texttt{lnum}.
+The combinations are:
+\begin{tabbing}
+ Oldstyle (medieval)8888 \= 88888888888888  \= 88888888888888 \kill
+  \> Proportional \> Tabular \\
+ Oldstyle (medieval) \> 12345678.90 \> {\addfontfeature{RawFeature=+tnum}12345678.90} \\
+ Lining		\> {\addfontfeature{RawFeature=+lnum}12345678.90} \> {\addfontfeature{RawFeature={+tnum,+lnum}}12345678.90} \\
+\end{tabbing}
+
+
+
+\subsection{Fractions}
+The feature \texttt{frac} allows for arbitrary fractions: {\addfontfeature{RawFeature=+frac} 1234/567890}
+
+\subsection{Sub- and Superscripts}
+There are four positions for optically sized Sub- and Superscripts, accessed by the features \texttt{sinf}, \texttt{subs}, \texttt{ordn} and \texttt{sups}:
+\paragraph*{Scientific inferiors (sinf)} l{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x
+\paragraph*{Subscript (subs)} l{\addfontfeature{RawFeature=+subs}abcdefghijklmnopqrstuvwxyz0123456789}x
+\paragraph*{Ordinals (ordn)} l{\addfontfeature{RawFeature=+ordn}abcdefghijklmnopqrstuvwxyz0123456789}x
+\paragraph*{Superscript (sups)} l{\addfontfeature{RawFeature=+sups}abcdefghijklmnopqrstuvwxyz0123456789}x
+
+\subsection{Small Caps}
+The features \texttt{smcp} and \texttt{c2sc} replace lower and uppercase glyphs by their smallcap equivalents:
+\paragraph*{smcp:} \textsc{Tramway, Straßenbahn, Métro}
+\paragraph*{c2sc:} {\addfontfeature{RawFeature=+c2sc}Tramway, Straßenbahn, Métro}
+\paragraph*{c2sc+scmp:} \textsc{\addfontfeature{RawFeature=+c2sc}Tramway, Straßenbahn, Métro}
+
+\subsection{Ligatures}
+\paragraph*{Standard Ligatures} (feature \texttt{liga}, on by default): f and ſ + letter with ascender and f/ſ+i get replaced by a ligature, as well as T+h: fluffy, Théatre, ſhy;\\
+Additionally in italic: g + descending character: \textit{egg, nagy, gjuha} and final s after a, e, i and u: \textit{finalis, ligatures, humus, rosas}
+\paragraph*{Discretionary Ligatures} (feature \texttt{dlig}, off by default): historical ligatures for s+t and c+t: {\addfontfeature{RawFeature=+dlig}standard, acta}
+\paragraph*{Historical Ligatures} (feature \texttt{hlig}, off by default, italic only): historical ligatures for s+p and s+k: \textit{\addfontfeature{RawFeature=+hlig}speak, skies}
+
+\subsection{Contextual Alternates}
+The feature \texttt{calt} (should be on by default) controls the behaviour of contextually conditioned lettershapes. This allows to have a long-bowed f and ſ like in the original font wherever the bow doesn’t collide with the next letter or cover an empty space: gefährlich fahren, ſüße Weſen;\\
+The long tailed Q is managed by this feature too: Qui, Quis, Quo, \textsc{Shqipëria}, IRAQ, 
+
+\subsection{Swash}
+The italic font will have a full set of swash capitals, accessible via the \texttt{swsh}: \\\textit{\addfontfeature{RawFeature=+swsh}ABCDEFGHIJKLMNOPQRSTUVWXYZ}
+
+\subsection{Character Variants and Stylistic Sets}
+There are alternate representations for some glyphs, accessible via Character Variants (\texttt{cv01–cv99}) and as Stylistic Sets (\texttt{ss01–ss20}):
+
+\subsubsection{Historical Variants}
+
+At Claude Garamont’s times some conventions were still closer to latin orthography than to modern languages one. The following lookups imitate that usage:
+\paragraph{ss02:} v and u are visual representations of the same letter dependent on initial or non initial placement: {\addfontfeature{RawFeature=+ss02}l’universe, une œuvre}
+\paragraph*{cv01:} {\addfontfeature{RawFeature=+cv01}substitute non-final s with ſ} (cave: this feature is \textsc{not} intelligent enough for german blackletter usage and probably other post-renaissance orthographies; it might be preferable to directly input ſ instead of using this feature!)
+\paragraph*{cv03:} j as a separate letter didn’t have a fixed place  in renaissance orthographies, so one will find i where one expects a j. This feature replaces j with i: {\addfontfeature{RawFeature=+cv03}le jour}
+\paragraph*{ss05:} The Bible de Genève shows an apostrophe that sits upon the following letter if that has no ascender: {\addfontfeature{RawFeature=+ss05}l’estendue}
+
+\subsubsection{General Variants}
+
+\paragraph*{cv04:} Alternate ampersand (only italic): \textit{\&} → \textit{\addfontfeature{RawFeature=+cv04}\&}
+
+\paragraph*{cv05:} Alternate forms of v (only italic): 
+\textit{v → {\addfontfeature{RawFeature=+cv05:1}v}}, \textit{\addfontfeature{RawFeature=+cv05:2}v}, \textit{\addfontfeature{RawFeature=+cv05:3}v}
+
+
+\paragraph*{cv11:} Variants for the numeral one: some publishers prefer a numeral one that’s clearly different from small cap i: \textsc{i123} vs. {\addfontfeature{RawFeature={+cv11,+smcp}}i123}
+
+\paragraph*{cv90:} floral hearts variants: \char"2619{}  and \char"2767{}  → {\addfontfeature{RawFeature=+cv90}\char"2619{} and \char"2767}
+
+\paragraph*{cv91:} Alternate Variant for the Pilcrow in form of the old capitulum symbol: {\addfontfeature{RawFeature=+cv91}¶}
+
+\subsubsection{Cyrillic Variants}
+\paragraph*{ss01:} pointed variants of д, л and љ: {\addfontfeature{RawFeature=+ss01} д, л, љ}
+
+\subsubsection{Greek Variants}
+Planned: alternate β, ε, θ, κ, π, ρ, σ, φ; alternate circumflex (inverted breve shape);
+
+\clearpage
 \section{Glyphs}
 \fontsize{16}{16}
 \begin{center}
