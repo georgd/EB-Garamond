@@ -1,17 +1,31 @@
-lookup Q_longtail {
+lookup Q_alts {
     sub Q' @NO_DESC_1 @NO_DESC_1 by Q.long;
     sub Q' @NO_DESC_1 [ @NO_DESC quoteleft quoteright ] @RIGHT_DESC  by Q.long;
-} Q_longtail;
+    sub Q' [ g j p y ] by Q.short;
+    sub Q' [ J comma semicolon parenright bracketright braceright ] by Q.low;
+} Q_alts;
+
+# Although the following is better (shorter lists of allowed
+# characters after the long f) I have to apply a more complicated 
+# solution because XeTeX doesn’t like ignore sub rules
+#
+#lookup f_long {
+#    ignore sub @DEFAULT_F' [ @NO_ASC ];
+#    sub @DEFAULT_F' by @SHORT_F;
+#} f_long;
+
 lookup f_long {
-    sub @SHORT_F' [ @NO_ASC ] by @LONG_F;
+     sub @DEFAULT_F' [ @HIGH_ASC_F @HIGH_PUNCT @ORDN @SUPS ] by @SHORT_F;
+     sub @DEFAULT_LONGS' [ @HIGH_ASC_LONGS @HIGH_PUNCT @ORDN @SUPS ] by @SHORT_LONGS;
 } f_long;
+
 lookup caltLAT {
     #sub [ space @PUNCT ] u.LAT' by u.LATinit;
     sub [ @Letters U.LAT u.LAT u.LATmedi v.LATmedi ] [ u.LAT v.LAT]' by [ u.LATmedi v.LATmedi];
 } caltLAT;
 
 feature calt {
-    lookup Q_longtail;
+    lookup Q_alts;
     lookup f_long;
     lookup caltLAT;
 } calt;

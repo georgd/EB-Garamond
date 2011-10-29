@@ -23,7 +23,6 @@ lookup loclCAT {
 
 lookup loclSRB {
     sub uni0431 by uni0431.SRB;
-    sub breve by breve.CYR;
 } loclSRB;
 
 lookup loclLAT {
@@ -55,8 +54,6 @@ feature locl {
       lookup loclLAT;
       lookup LATliga;
   script cyrl;
-     language dflt;
-      sub breve by breve.CYR;
      language SRB  exclude_dflt;
       lookup loclSRB;
 } locl;
