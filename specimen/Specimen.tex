@@ -242,9 +242,9 @@ The features \texttt{smcp} and \texttt{c2sc} replace lower and uppercase glyphs 
 
 \subsection{Ligatures}
 \paragraph*{Standard Ligatures} (feature \texttt{liga}, on by default): f and ſ + letter with ascender and f/ſ+i get replaced by a ligature, as well as T+h: fluffy, Théatre, ſhy;\\
-Additionally in italic: g + descending character: \textit{egg, nagy, gjuha} and final s after a, e, i and u: \textit{finalis, ligatures, humus, rosas}
-\paragraph*{Discretionary Ligatures} (feature \texttt{dlig}, off by default): historical ligatures for s+t and c+t: {\addfontfeature{RawFeature=+dlig}standard, acta}
-\paragraph*{Historical Ligatures} (feature \texttt{hlig}, off by default, italic only): historical ligatures for s+p and s+k: \textit{\addfontfeature{RawFeature=+hlig}speak, skies}
+Additionally in italic: g + descending character: \textit{egg, nagy, gjuha} 
+\paragraph*{Discretionary Ligatures} (feature \texttt{dlig}, off by default): historical ligatures for s+t and c+t and for s+p and s+k (the latter two italic only): {\addfontfeature{RawFeature=+dlig}standard, acta, \textit{speak, skies, standard, select}}
+\paragraph*{Historical Ligatures} (feature \texttt{hlig}, off by default, italic only): ligatures for final s after a, e, i and u: \textit{\addfontfeature{RawFeature=+hlig}finalis, ligatures, humus, rosas}
 
 \subsection{Contextual Alternates}
 The feature \texttt{calt} (should be on by default) controls the behaviour of contextually conditioned lettershapes. This allows to have a long-bowed f and ſ like in the original font wherever the bow doesn’t collide with the next letter or cover an empty space: gefährlich fahren, ſüße Weſen;\\

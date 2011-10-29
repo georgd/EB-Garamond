@@ -1,12 +1,9 @@
 feature dlig {
     sub s t  by uniFB06;
     sub c t  by c_t;
-} dlig;
-
-feature hlig {
     sub s p by s_p;
     sub s k by s_k;
-} hlig;
+} dlig;
 
 lookup liga_standard {
     sub [ f f.DEU ] i  by uniFB01; # f_i
@@ -62,7 +59,11 @@ lookup liga_final_s {
     sub u' s' by u_s;
 } liga_final_s;
 
+feature hlig {
+    lookup liga_final_s;
+} hlig;
+
 feature liga {
     lookup liga_standard;
-    lookup liga_final_s;
 } liga;
+
