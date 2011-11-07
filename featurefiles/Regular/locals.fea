@@ -56,4 +56,6 @@ feature locl {
   script cyrl;
      language SRB  exclude_dflt;
       lookup loclSRB;
+     language MKD  exclude_dflt;
+      lookup loclSRB;
 } locl;
