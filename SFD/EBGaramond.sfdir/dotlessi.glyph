@@ -1,0 +1,33 @@
+
+StartChar: dotlessi
+Encoding: 305 305 76
+Width: 245
+VWidth: 0
+Flags: W
+HStem: -3 27<24.9975 78.9702 171.03 224.926> 352 25<35.0088 66.0645>
+VStem: 90 70<31.1488 339.165>
+AnchorPoint: "top_accent" 115 550 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+162 434 m 4
+ 166 434 169 432 169 429 c 4
+ 165 388 160 339 160 294 c 6
+ 160 62 l 2
+ 160 35 183 30 203 24 c 0
+ 214 20 226 16 226 6 c 0
+ 226 -2 215 -3 206 -3 c 0
+ 168 -3 160 2 125 2 c 0
+ 90 2 83 -3 44 -3 c 0
+ 36 -3 24 -2 24 6 c 0
+ 24 16 36 20 47 24 c 0
+ 67 30 90 35 90 62 c 2
+ 90 279 l 6
+ 90 315 77 345 43 352 c 4
+ 38 353 35 359 35 365 c 4
+ 35 370 38 376 42 377 c 4
+ 109 393 154 434 162 434 c 4
+EndSplineSet
+Validated: 1
+Substitution2: "Smallcaps subtable" dotlessi.sc
+EndChar

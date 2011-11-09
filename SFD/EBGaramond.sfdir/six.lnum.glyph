@@ -1,0 +1,37 @@
+
+StartChar: six.lnum
+Encoding: 65569 -1 1061
+Width: 464
+VWidth: 0
+Flags: W
+HStem: -14 36<192.5 306.842> 260 53<221.125 313.463>
+VStem: 21 86<105.372 311.771> 353 78<95.7648 216.742>
+LayerCount: 3
+Fore
+SplineSet
+218 -14 m 0
+ 86 -14 21 73 21 193 c 0
+ 21 342 104 439 142 477 c 0
+ 192 528 291 607 413 639 c 1
+ 418 639 l 2
+ 423 639 429 638 427 634 c 8
+ 421 622 408 617 401 614 c 0
+ 311 575 250 529 199 456 c 0
+ 166 408 107 299 107 195 c 2
+ 107 190 l 1
+ 108 141 126 101 144 79 c 0
+ 161 58 204 22 247 22 c 0
+ 276 22 297 30 313 43 c 0
+ 335 60 353 93 353 142 c 0
+ 353 203 315 260 262 260 c 0
+ 227 260 205 257 182 245 c 0
+ 170 239 168 248 175 256 c 0
+ 185 267 191 272 202 280 c 0
+ 217 291 263 313 300 313 c 0
+ 369 313 431 262 431 190 c 0
+ 431 85 358 -14 218 -14 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 25 subtable" six.tablining
+Substitution2: "'onum' Minuskelziffern lookup 24 subtable" six
+EndChar

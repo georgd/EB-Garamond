@@ -1,0 +1,51 @@
+
+StartChar: four
+Encoding: 52 52 79
+Width: 492
+VWidth: 0
+Flags: W
+HStem: -181 21G<289 296.5> 43 61<116 259.185> 53 51<117.124 277.99 351.065 459.476> 401 20G<346.5 354>
+VStem: 278 73<-162.906 49.9258 104.023 282.138>
+LayerCount: 3
+Fore
+SplineSet
+266 104 m 2xb8
+ 271 104 278 108 278 112 c 2
+ 278 281 l 2
+ 278 284 271 285 268 282 c 24
+ 206 218 174 180 116 113 c 24
+ 114 110 112 104 116 104 c 2xd8
+ 266 104 l 2xb8
+311 377 m 24
+ 326 394 343 420 350 421 c 1
+ 351 421 l 2
+ 357 421 354 414 354 409 c 8
+ 354 292 350 226 350 109 c 24
+ 350 106 352 103 355 103 c 16
+ 370 102 383 102 395 102 c 0
+ 414 102 432 103 454 104 c 0
+ 460 104 465 101 465 97 c 0
+ 465 81 451 53 444 53 c 0xb8
+ 429 53 411 54 395 54 c 0
+ 383 54 372 53 364 52 c 0
+ 359 51 351 47 351 46 c 2
+ 351 -133 l 2
+ 351 -158 300 -181 293 -181 c 0
+ 285 -181 278 -178 278 -168 c 2
+ 278 41 l 2
+ 278 47 264 50 263 50 c 0
+ 181 50 139 44 34 43 c 0
+ 29 43 21 43 21 48 c 0
+ 21 49 24 55 25 56 c 0
+ 91 134 199 252 311 377 c 24
+EndSplineSet
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 25 subtable" four.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 23 subtable" four.lnum
+Substitution2: "Single Substitution lookup 22 subtable" four.ordn
+Substitution2: "Single Substitution lookup 21 subtable" four.subs
+Substitution2: "sups subtable" four.sups
+Substitution2: "sinf subtable" four.sinf
+Substitution2: "ordn subtable" four.ordn
+Substitution2: "subs subtable" four.subs
+EndChar

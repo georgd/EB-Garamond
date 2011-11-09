@@ -1,0 +1,39 @@
+
+StartChar: plus
+Encoding: 43 43 99
+Width: 590
+VWidth: 0
+Flags: W
+HStem: -8 21G<279 286.5> 222 50<53.1042 269.999 330.001 545.949>
+VStem: 270 60<-4.10672 221.999 272.001 475.117>
+LayerCount: 3
+Fore
+SplineSet
+330 278 m 2
+ 330 273 330 272 332 272 c 0
+ 400 272 469 272 537 272 c 8
+ 544 272 550 268 550 262 c 0
+ 550 245 538 222 519 222 c 18
+ 334 222 l 2
+ 331 222 330 221 330 218 c 2
+ 330 16 l 10
+ 330 -5 291 -8 282 -8 c 0
+ 276 -8 270 -1 270 6 c 18
+ 270 217 l 2
+ 270 220 269 222 266 222 c 2
+ 64 222 l 10
+ 57 222 50 228 50 234 c 0
+ 50 243 56 272 74 272 c 18
+ 263 272 l 2
+ 269 272 270 274 270 280 c 2
+ 270 451 l 10
+ 270 473 310 482 316 482 c 0
+ 323 482 330 476 330 469 c 18
+ 330 278 l 2
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" plus.sups
+Substitution2: "sinf subtable" plus.sinf
+Substitution2: "ordn subtable" plus.ordn
+Substitution2: "subs subtable" plus.subs
+EndChar

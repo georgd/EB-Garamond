@@ -1,0 +1,23 @@
+
+StartChar: uni0331
+Encoding: 817 817 2125
+Width: 0
+VWidth: 0
+Flags: W
+HStem: -141 50<53.1042 304.526>
+VStem: 50 260<-138.172 -91.1861>
+AnchorPoint: "below_accent" 180 -100 mark 0
+LayerCount: 3
+Fore
+SplineSet
+279 -141 m 10
+ 64 -141 l 26
+ 57 -141 50 -135 50 -129 c 0
+ 50 -120 56 -91 74 -91 c 26
+ 297 -91 l 18
+ 303 -91 310 -96 310 -102 c 0
+ 310 -111 297 -141 279 -141 c 10
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0331.cap
+EndChar

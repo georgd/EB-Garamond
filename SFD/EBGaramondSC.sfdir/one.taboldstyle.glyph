@@ -1,0 +1,31 @@
+
+StartChar: one.taboldstyle
+Encoding: 65557 -1 1078
+Width: 475
+VWidth: 0
+Flags: W
+HStem: -3 25<108.716 178.972 295.406 366.756> 384 22<121.408 177.373 299.061 353.233>
+VStem: 201 74<35.1428 371.97>
+LayerCount: 2
+Fore
+SplineSet
+201 68 m 4
+ 201 153 201 266 201 333 c 4
+ 201 380 155 380 128 384 c 4
+ 118 385 119 406 128 406 c 4
+ 188 406 195.694 403 239 403 c 28
+ 280.746 403 288 406 346 406 c 4
+ 358 406 356 386 346 384 c 4
+ 318 378 276 380 275 333 c 4
+ 273 244 274 115 275 68 c 4
+ 276 29 312 28 356 22 c 4
+ 373 20 372 -3 356 -3 c 4
+ 299 -3 284.672 2 239 2 c 28
+ 191.77 2 172 -3 118 -3 c 4
+ 106 -3 101 21 118 22 c 4
+ 145 24 201 27 201 68 c 4
+EndSplineSet
+Validated: 33
+Substitution2: "'pnum' Proportionalziffern lookup 8 subtable" one
+Substitution2: "'lnum' Lining Figures lookup 5 subtable" one.tablining
+EndChar

@@ -1,0 +1,25 @@
+
+StartChar: hyphen
+Encoding: 45 45 93
+Width: 274
+VWidth: 0
+Flags: W
+HStem: 170 85
+VStem: 29 216<195.001 230.422>
+LayerCount: 3
+Fore
+SplineSet
+35 170 m 4
+ 30 170 29 172 29 176 c 0
+ 29 198 35 229 45 230 c 0
+ 109 239 173 248 237 255 c 0
+ 241 255 245 253 245 249 c 0
+ 245 224 240 197 224 195 c 0
+ 164 186 103 176 35 170 c 4
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" hyphen.sups
+Substitution2: "sinf subtable" hyphen.sinf
+Substitution2: "ordn subtable" hyphen.ordn
+Substitution2: "subs subtable" hyphen.subs
+EndChar

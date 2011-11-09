@@ -1,0 +1,24 @@
+
+StartChar: acutecomb
+Encoding: 769 769 621
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 456 193
+VStem: 14 157
+AnchorPoint: "top_accent" 46 550 mark 0
+LayerCount: 3
+Fore
+SplineSet
+53 478 m 4
+ 45 469 31 456 23 456 c 4
+ 14 456 14 460 14 469 c 4
+ 14 484 76 598 95 631 c 4
+ 101 641 112 649 122 649 c 4
+ 147 649 171 642 171 626 c 4
+ 171 612 84 511 53 478 c 4
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 13 subtable" acutecomb.stack
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" acutecomb.cap
+EndChar

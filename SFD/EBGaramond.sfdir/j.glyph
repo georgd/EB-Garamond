@@ -1,0 +1,27 @@
+
+StartChar: j
+Encoding: 106 106 16
+Width: 213
+VWidth: 0
+Flags: W
+HStem: -287 27<-34.3848 3.48842> 352 25<17.0088 48.0645> 513 101<60.1171 142.823>
+VStem: 51 101<522.117 604.823> 71 73<-125.075 340.129>
+LayerCount: 3
+Fore
+SplineSet
+51 563 m 0xf0
+ 51 592 73 614 101 614 c 0
+ 130 614 152 592 152 563 c 0
+ 152 535 130 513 101 513 c 0
+ 73 513 51 535 51 563 c 0xf0
+EndSplineSet
+Refer: 344 567 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "Smallcaps subtable" j.sc
+Substitution2: "historic_j subtable" j.hist
+Substitution2: "sups subtable" j.sups
+Substitution2: "sinf subtable" j.sinf
+Substitution2: "ordn subtable" j.ordn
+Substitution2: "subs subtable" j.subs
+Substitution2: "Single Substitution lookup 8 subtable" dotlessj
+EndChar

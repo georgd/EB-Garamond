@@ -1,0 +1,25 @@
+
+StartChar: uni030A.cap
+Encoding: 65553 -1 1011
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 700 22<67.3182 125.505> 841 23<62.7129 122.208>
+VStem: 5 38<737.768 829.107> 145 38<734.305 826.104>
+AnchorPoint: "top_accent" 94 700 mark 0
+LayerCount: 3
+Fore
+SplineSet
+98 864 m 16
+ 146 864 183 835 183 787 c 8
+ 183 737 140 700 90 700 c 8
+ 45 700 5 729 5 779 c 8
+ 5 828 49 864 98 864 c 16
+43 782 m 8
+ 43 750 67 722 99 722 c 24
+ 128 722 145 754 145 782 c 8
+ 145 813 122 841 91 841 c 24
+ 61 841 43 811 43 782 c 8
+EndSplineSet
+Validated: 1
+EndChar

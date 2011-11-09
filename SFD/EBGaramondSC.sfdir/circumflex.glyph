@@ -1,0 +1,26 @@
+
+StartChar: circumflex
+Encoding: 710 710 90
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 447 201
+VStem: -273 212
+LayerCount: 2
+Fore
+SplineSet
+-237 465 m 6
+ -242.832 457.002 -253 447 -265 447 c 4
+ -273 447 -278.902 456.417 -273 468 c 6
+ -273 468 -216.5 581.761 -195 619 c 4
+ -184.5 637.187 -174 648 -167 648 c 4
+ -160 648 -149.5 637.187 -139 619 c 4
+ -114 575.699 -61 468 -61 468 c 6
+ -55.0977 456.417 -61 447 -69 447 c 4
+ -81 447 -92.6191 457.514 -98 465 c 6
+ -98 465 -138.321 520.042 -167 561 c 5
+ -195.679 520.042 -237 465 -237 465 c 6
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 12 subtable" circumflex.cap
+EndChar

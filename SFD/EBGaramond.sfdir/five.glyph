@@ -1,0 +1,39 @@
+
+StartChar: five
+Encoding: 53 53 78
+Width: 359
+VWidth: 0
+Flags: W
+HStem: -189 29<52.529 134.003> 328 87<168.22 262.013>
+VStem: 58 33<213.5 307.352> 229 80<-70.5065 72.3775>
+LayerCount: 3
+Fore
+SplineSet
+86 -189 m 0
+ 71 -189 52 -186 52 -177 c 0
+ 52 -167 73 -162 85 -160 c 0
+ 160 -147 229 -106 229 0 c 0
+ 229 67 171 129 108 167 c 0
+ 70 190 58 205 58 222 c 0
+ 58 276 81 330 89 347 c 0
+ 98 366 115 376 125 380 c 0
+ 165 395 257 415 272 415 c 0
+ 279 415 283 408 283 401 c 0
+ 283 376 259 333 232 328 c 0
+ 181 318 147 313.600006104 110 309 c 0
+ 103.024657857 308.13279415 91 296.276640273 91 276 c 0
+ 91 268 97 260 111 252 c 0
+ 169 220 219 178 247 150 c 0
+ 274 123 309 69 309 17 c 0
+ 309 -112 186 -189 86 -189 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 25 subtable" five.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 23 subtable" five.lnum
+Substitution2: "Single Substitution lookup 22 subtable" five.ordn
+Substitution2: "Single Substitution lookup 21 subtable" five.subs
+Substitution2: "sups subtable" five.sups
+Substitution2: "sinf subtable" five.sinf
+Substitution2: "ordn subtable" five.ordn
+Substitution2: "subs subtable" five.subs
+EndChar

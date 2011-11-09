@@ -1,0 +1,37 @@
+
+StartChar: seven.taboldstyle
+Encoding: 65593 -1 1104
+Width: 475
+VWidth: 0
+Flags: W
+HStem: 281 21<34 40.5> 326 75<63.5231 347.016>
+LayerCount: 3
+Back
+SplineSet
+351 313 m 2
+ 353 318 356 322 341 323 c 0
+ 302 324 167 326 135 326 c 2
+ 122 326 l 2
+ 102 326 78 324 62 303 c 0
+ 57 297 45 281 36 281 c 0
+ 32 281 31 284 31 289 c 0
+ 31 296 34 306 35 311 c 0
+ 42 340 47 370 47 395 c 0
+ 47 405 54 406 57 406 c 0
+ 60 406 95 403 120 402 c 0
+ 149 401 187 401 227 401 c 0
+ 316 401 414 403 433 407 c 0
+ 437 407 440 398 440 393 c 0
+ 440 377 412 340 402 323 c 2
+ 122 -166 l 10
+ 116 -177 107 -193 103 -193 c 0
+ 88 -193 75 -182 75 -167 c 0
+ 75 -163 87 -142 96 -126 c 18
+ 351 313 l 2
+EndSplineSet
+Fore
+Refer: 80 55 N 1 0 0 1 7 0 2
+Validated: 1
+Substitution2: "'pnum' Proportionalziffern lookup 26 subtable" seven
+Substitution2: "'lnum' Lining Figures lookup 23 subtable" seven.tablining
+EndChar

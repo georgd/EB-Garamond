@@ -1,0 +1,25 @@
+
+StartChar: uni1FFE
+Encoding: 8190 8190 747
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 466 21<126.544 167.954> 608 78<97.4508 172.433>
+VStem: 32 52<521.956 596.595>
+AnchorPoint: "grk_uc_top" 151 578 mark 0
+AnchorPoint: "grk_top" 107 550 mark 0
+LayerCount: 3
+Fore
+SplineSet
+131 608 m 0
+ 111 608 84 580 84 558 c 0
+ 84 528 111 496 154 487 c 0
+ 163 485 168 480 168 476 c 0
+ 168 471 161 466 148 466 c 0
+ 97 466 32 519 32 589 c 0
+ 32 645 83 686 131 686 c 0
+ 160 686 178 666 178 650 c 0
+ 178 628 160 608 131 608 c 0
+EndSplineSet
+Validated: 1
+EndChar

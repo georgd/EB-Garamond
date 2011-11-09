@@ -1,0 +1,26 @@
+
+StartChar: caron
+Encoding: 711 711 979
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 447 201
+VStem: -273 212
+LayerCount: 2
+Fore
+SplineSet
+-237 630 m 2
+ -237 630 -195.679 574.958 -167 534 c 1
+ -138.321 574.958 -98 630 -98 630 c 2
+ -92.6191 637.486 -81 648 -69 648 c 0
+ -61 648 -55.0977 638.583 -61 627 c 2
+ -61 627 -114 519.301 -139 476 c 0
+ -149.5 457.813 -160 447 -167 447 c 0
+ -174 447 -184.5 457.813 -195 476 c 0
+ -216.5 513.239 -273 627 -273 627 c 2
+ -278.902 638.583 -273 648 -265 648 c 0
+ -253 648 -242.832 637.998 -237 630 c 2
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 12 subtable" caron.cap
+EndChar

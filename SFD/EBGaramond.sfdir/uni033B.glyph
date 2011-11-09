@@ -1,0 +1,29 @@
+
+StartChar: uni033B
+Encoding: 827 827 2314
+Width: 0
+VWidth: 0
+Flags: W
+HStem: -257 30<45 124> -142 30<45 124>
+VStem: 5 40<-227 -142> 124 40<-227 -142>
+AnchorPoint: "below_accent" 85 -100 mark 0
+LayerCount: 3
+Fore
+SplineSet
+45 -142 m 25
+ 45 -227 l 25
+ 124 -227 l 25
+ 124 -142 l 1
+ 45 -142 l 25
+152 -112 m 2
+ 158 -112 164 -117 164 -126 c 2
+ 164 -229 l 2
+ 164 -239 155 -257 140 -257 c 10
+ 18 -257 l 10
+ 12 -257 5 -253 5 -247 c 2
+ 5 -136 l 2
+ 5 -122 24 -112 33 -112 c 2
+ 152 -112 l 2
+EndSplineSet
+Validated: 1
+EndChar

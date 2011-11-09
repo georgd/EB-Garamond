@@ -1,0 +1,23 @@
+
+StartChar: uni032E.cap
+Encoding: 65620 -1 1319
+Width: 1000
+Flags: W
+HStem: -208 70<78.2133 231.787>
+VStem: 5 300<-142 -65>
+AnchorPoint: "below_accent" 158 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+37 -75 m 0
+ 49 -97 85 -138 155 -138 c 0
+ 225 -138 261 -97 273 -75 c 0
+ 278 -66 285 -54 295 -54 c 0
+ 305 -54 305 -65 305 -78 c 0
+ 305 -142 235 -208 155 -208 c 0
+ 75 -208 5 -153 5 -78 c 0
+ 5 -65 5 -54 15 -54 c 0
+ 25 -54 32 -66 37 -75 c 0
+EndSplineSet
+Validated: 1
+EndChar

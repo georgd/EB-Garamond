@@ -1,0 +1,24 @@
+
+StartChar: tilde
+Encoding: 732 732 350
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 498 66<-236.415 -101.738> 511 67<-264.537 -129.085>
+VStem: -316 266
+LayerCount: 2
+Fore
+SplineSet
+-316 497 m 0x60
+ -290.596 533.28 -249 578 -229 578 c 0x60
+ -209 578 -147 564 -122 564 c 0
+ -107 564 -94.9072 565.187 -68 600 c 0
+ -62.7412 606.805 -46.1514 587.496 -50 582 c 0
+ -67.4424 557.09 -114 498 -134 498 c 0xa0
+ -154 498 -221 511 -246 511 c 0
+ -261 511 -280.494 495.506 -301 475 c 0
+ -305.95 470.05 -321.736 488.808 -316 497 c 0x60
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 12 subtable" tilde.cap
+EndChar

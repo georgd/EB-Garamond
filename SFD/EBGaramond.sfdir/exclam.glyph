@@ -1,0 +1,30 @@
+
+StartChar: exclam
+Encoding: 33 33 66
+Width: 270
+VWidth: 0
+Flags: W
+HStem: -14 120<98.7454 191.255>
+VStem: 85 120<-0.254639 92.2546> 93 104<352.256 636.289>
+LayerCount: 3
+Fore
+SplineSet
+145 106 m 24xc0
+ 178 106 205 79 205 46 c 24
+ 205 13 178 -14 145 -14 c 24
+ 112 -14 85 13 85 46 c 24
+ 85 79 112 106 145 106 c 24xc0
+93 573 m 0xa0
+ 93 612 109 649 146 649 c 0
+ 180 649 197 612 197 575 c 0
+ 197 488 176 358 161 244 c 0
+ 158 222 153 205 143 205 c 0
+ 133 205 128 215 125 244 c 0
+ 113 358 93 510 93 573 c 0xa0
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" exclam.sups
+Substitution2: "sinf subtable" exclam.sinf
+Substitution2: "ordn subtable" exclam.ordn
+Substitution2: "subs subtable" exclam.subs
+EndChar

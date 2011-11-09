@@ -1,0 +1,25 @@
+
+StartChar: ring
+Encoding: 730 730 348
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 479 33<-163.022 -88.9776> 614 33<-163.022 -88.9776>
+VStem: -210 33<526.234 599.438> -75 33<526.234 599.438>
+LayerCount: 2
+Fore
+SplineSet
+-126 647 m 0
+ -82 647 -42 610 -42 566 c 0
+ -42 522 -82 479 -126 479 c 0
+ -170 479 -210 522 -210 566 c 0
+ -210 610 -170 647 -126 647 c 0
+-177 563 m 0
+ -177 535 -154 512 -126 512 c 0
+ -98 512 -75 535 -75 563 c 0
+ -75 591 -98 614 -126 614 c 0
+ -154 614 -177 591 -177 563 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 12 subtable" ring.cap
+EndChar

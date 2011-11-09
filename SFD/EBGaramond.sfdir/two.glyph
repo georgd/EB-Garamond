@@ -1,0 +1,45 @@
+
+StartChar: two
+Encoding: 50 50 77
+Width: 422
+VWidth: 0
+Flags: W
+HStem: 0 65<131.73 355.557> 345 68<102.764 207.552>
+VStem: 226 68<219.734 327.421>
+LayerCount: 3
+Fore
+SplineSet
+363 -4 m 0
+ 349 -4 259 0 192 0 c 24
+ 128 0 34 -3 29 -3 c 0
+ 26 -3 22 1 22 5 c 0
+ 22 9 25 13 29 17 c 0
+ 46 34 74 61 90 74 c 0
+ 112 92 226 186 226 267 c 0
+ 226 314 199 345 161 345 c 0
+ 116 345 79 335 45 297 c 0
+ 41 293 38 290 32 290 c 8
+ 26 290 25 298 25 304 c 0
+ 25 313 72 413 190 413 c 0
+ 254 413 294 353 294 290 c 0
+ 294 258 277 220 253 191 c 0
+ 223 155 142 80 132 73 c 0
+ 126 69 135 65 141 65 c 2
+ 296 65 l 2
+ 334 65 370 90 389 128 c 0
+ 392 133 399 138 408 138 c 0
+ 411 138 412 135 412 132 c 0
+ 412 130 412 128 411 126 c 0
+ 395 81 378 22 378 12 c 0
+ 378 2 365 -4 363 -4 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 25 subtable" two.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 23 subtable" two.lnum
+Substitution2: "Single Substitution lookup 22 subtable" two.ordn
+Substitution2: "Single Substitution lookup 21 subtable" two.subs
+Substitution2: "sups subtable" two.sups
+Substitution2: "sinf subtable" two.sinf
+Substitution2: "ordn subtable" two.ordn
+Substitution2: "subs subtable" two.subs
+EndChar

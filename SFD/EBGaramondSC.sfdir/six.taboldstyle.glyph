@@ -1,0 +1,36 @@
+
+StartChar: six.taboldstyle
+Encoding: 65562 -1 1083
+Width: 475
+VWidth: 0
+Flags: W
+HStem: -14 36<206.622 320.425> 260 53<235.267 327.904>
+VStem: 41 83<99.2326 315.217> 370 69<91.8832 215.642>
+LayerCount: 2
+Fore
+SplineSet
+232 -14 m 0
+ 101 -14 42 72 41 190 c 0
+ 40 341 121 436 156 477 c 0
+ 205 533 305 607 427 639 c 0
+ 433 640 444 639 441 634 c 24
+ 435 622 422 617 415 614 c 0
+ 325 575 264 529 213 456 c 0
+ 179 407 122 296 124 190 c 0
+ 125 141 140 101 158 79 c 0
+ 175 58 218 22 261 22 c 0
+ 290 22 311 30 327 43 c 0
+ 349 60 370 93 370 142 c 0
+ 370 203 329 260 276 260 c 0
+ 252 260 240 259 222 254 c 0
+ 210 251 210 252 196 245 c 0
+ 184 239 182 248 189 256 c 0
+ 199 267 205 272 216 280 c 0
+ 231 291 277 313 314 313 c 0
+ 383 313 439 262 439 190 c 0
+ 439 85 372 -14 232 -14 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "'pnum' Proportionalziffern lookup 8 subtable" six
+Substitution2: "'lnum' Lining Figures lookup 5 subtable" six.tablining
+EndChar

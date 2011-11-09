@@ -1,0 +1,23 @@
+
+StartChar: uni0304
+Encoding: 772 772 968
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 490 55<63.6605 296.414>
+VStem: 60 240<491.575 544.782>
+AnchorPoint: "top_accent" 180 540 mark 0
+LayerCount: 3
+Fore
+SplineSet
+84 545 m 26
+ 287 545 l 18
+ 293 545 300 539 300 533 c 0
+ 300 511 290 490 269 490 c 26
+ 74 490 l 26
+ 67 490 60 496 60 502 c 0
+ 60 511 65 545 84 545 c 26
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0304.cap
+EndChar

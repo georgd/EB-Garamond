@@ -1,0 +1,40 @@
+
+StartChar: tildecomb
+Encoding: 771 771 110
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 453 21G<35 44> 483 66<106.697 244.916> 490 67<78.2107 213.803>
+VStem: 26 268
+AnchorPoint: "top_stack" 148 644 basemark 0
+AnchorPoint: "top_accent" 152 533 mark 0
+LayerCount: 3
+Back
+SplineSet
+50 483 m 0x60
+ 71 522 92 570 137 570 c 0x60
+ 183 570 199 554 240 554 c 16
+ 266 554 280 569 297 591 c 0
+ 298 592 299 593 300 593 c 0
+ 305 593 313 578 310 573 c 0
+ 296 546 277 481 228 481 c 0xa0
+ 180 481 174 497 120 497 c 0
+ 97 497 81 483 65 465 c 4
+ 64 464 64 464 63 464 c 0
+ 57 464 47 478 50 483 c 0x60
+EndSplineSet
+Fore
+SplineSet
+40 453 m 4xb0
+ 30 453 26 463 26 473 c 4
+ 26 483 89 557 114 557 c 4xb0
+ 139 557 196 549 221 549 c 4
+ 256 549 270 583 278 583 c 4
+ 288 583 294 576 294 566 c 4
+ 294 556 234 483 209 483 c 4xd0
+ 184 483 122 490 97 490 c 4
+ 72 490 48 453 40 453 c 4xb0
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" tildecomb.cap
+EndChar

@@ -1,0 +1,35 @@
+
+StartChar: gravecomb
+Encoding: 768 768 969
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 456 193
+VStem: 8 157
+AnchorPoint: "top_accent" 133 550 mark 0
+LayerCount: 3
+Back
+SplineSet
+-85 479 m 4
+ -165 590 -223 625 -223 644 c 4
+ -223 658 -206 672 -189 672 c 22
+ -188 672 l 6
+ -166 672 -149 663 -138 645 c 4
+ -117 611 -45 485 -45 470 c 4
+ -45 461 -49 457 -58 457 c 4
+ -67 457 -80 472 -85 479 c 4
+EndSplineSet
+Fore
+SplineSet
+126 478 m 4
+ 95 511 8 612 8 626 c 4
+ 8 642 32 649 57 649 c 4
+ 67 649 78 641 84 631 c 4
+ 103 598 165 484 165 469 c 4
+ 165 460 165 456 156 456 c 4
+ 148 456 134 469 126 478 c 4
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 13 subtable" gravecomb.stack
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" gravecomb.cap
+EndChar
