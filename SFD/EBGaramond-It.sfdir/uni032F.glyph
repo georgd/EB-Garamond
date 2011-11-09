@@ -1,10 +1,15 @@
 
 StartChar: uni032F
-Encoding: 815 815 2100
-Width: 1000
+Encoding: 815 815 2084
+Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "below_accent" 169 -100 mark 0
+HStem: -132 49<96.5165 192.028>
+VStem: 32 31<-221.264 -170.192> 203 38<-219.097 -143.451>
+AnchorPoint: "below_accent" 164 -100 mark 0
 LayerCount: 2
+Fore
+Refer: 988 785 N 1 0 0 1 0 -720 2
+Validated: 1
 Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni032F.cap
 EndChar

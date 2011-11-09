@@ -1,21 +1,20 @@
 
 StartChar: uni0305
 Encoding: 773 773 984
-Width: 372
+Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 523 60<175.534 531.799>
 AnchorPoint: "top_accent" 200 550 mark 0
 LayerCount: 2
 Fore
 SplineSet
-201 583 m 26
- 538 583 l 26
- 545 583 550 576 546 569 c 24
- 534 548 523 523 503 523 c 26
- 173 523 l 26
- 166 523 162 529 164 535 c 0
- 167 544 181 583 201 583 c 26
+4 532 m 4
+ 4 543 23 583 42 583 c 30
+ 379 583 l 22
+ 384 583 388 579 388 574 c 4
+ 388 550.805341956 357.081713567 523 344 523 c 30
+ 14 523 l 22
+ 8 523 4 527 4 532 c 4
 EndSplineSet
-Validated: 1
 EndChar

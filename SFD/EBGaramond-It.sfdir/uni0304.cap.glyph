@@ -1,10 +1,11 @@
 
 StartChar: uni0304.cap
-Encoding: 66408 -1 2107
+Encoding: 66392 -1 2091
 Width: 1000
 Flags: W
 HStem: 723 54<8.62476 300.251>
 VStem: 5 300<725.522 776.788>
+AnchorPoint: "top_accent" 133 700 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16,5 +17,4 @@ SplineSet
  12 723 5 729 5 735 c 0
  5 744 10 777 29 777 c 2
 EndSplineSet
-Validated: 1
 EndChar
