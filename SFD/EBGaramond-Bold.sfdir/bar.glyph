@@ -1,0 +1,25 @@
+
+StartChar: bar
+Encoding: 124 124 105
+Width: 268
+VWidth: 0
+Flags: W
+HStem: -289 21G<107 117>
+VStem: 95 78<-283.483 697.745>
+LayerCount: 3
+Fore
+SplineSet
+95 676 m 10
+ 95 698 147 707 155 707 c 0
+ 164 707 173 701 173 694 c 18
+ 173 -265 l 10
+ 173 -286 123 -289 111 -289 c 0
+ 103 -289 95 -282 95 -275 c 18
+ 95 676 l 10
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" bar.sups
+Substitution2: "sinf subtable" bar.sinf
+Substitution2: "ordn subtable" bar.ordn
+Substitution2: "subs subtable" bar.subs
+EndChar

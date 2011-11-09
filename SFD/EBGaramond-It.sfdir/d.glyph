@@ -1,0 +1,47 @@
+
+StartChar: d
+Encoding: 100 100 11
+Width: 513
+Flags: W
+HStem: -14 32<77.22 158.669> 389 31<296.055 363.976> 685 20G<542 550.5>
+VStem: 26 70<18.6526 140.602> 319 194<36 110>
+AnchorPoint: "below_accent" 122 -100 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+385 107 m 2
+ 377 80 383 50 395 50 c 0
+ 427 50 491 108 501 118 c 0
+ 502 119 503 119 504 119 c 0
+ 508 119 513 115 513 110 c 0
+ 513 105 510 99 508 96 c 0
+ 456 33 408 -14 345 -14 c 0
+ 325 -14 319 14 319 36 c 0
+ 319 77 325 108 333 136 c 0
+ 336 147 331 151 327 146 c 0
+ 259 58 175 -14 86 -14 c 0
+ 55 -14 26 12 26 47 c 0
+ 26 131 89 250 173 331 c 0
+ 227 384 294 420 343 420 c 0
+ 356 420 376 409 384 394 c 0
+ 390 382 395 384 398 392 c 2
+ 469 611 l 2
+ 487 667 424 661 424 675 c 0
+ 424 690 443 691 458 693 c 0
+ 476 696 537 705 547 705 c 0
+ 554 705 553 688 550 677 c 2
+ 385 107 l 2
+96 61 m 0
+ 96 34 102 18 121 18 c 0
+ 174 18 268 107 320 175 c 0
+ 356 222 377 281 377 337 c 0
+ 377 363 359 389 333 389 c 0
+ 271 389 95 176 96 61 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "Smallcaps subtable" d.sc
+Substitution2: "sups subtable" d.sups
+Substitution2: "sinf subtable" d.sinf
+Substitution2: "ordn subtable" d.ordn
+Substitution2: "subs subtable" d.subs
+EndChar

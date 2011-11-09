@@ -1,0 +1,26 @@
+
+StartChar: zero
+Encoding: 48 48 83
+Width: 507
+VWidth: 0
+Flags: W
+HStem: -15 41<189.1 322.003> 372 41<190.132 321.15>
+VStem: 40 78<110.108 295.744> 389 78<109.707 293.68>
+LayerCount: 2
+Fore
+SplineSet
+259 372 m 0
+ 177.3828125 372 118 301 118 204 c 0
+ 118 119 165.393554688 26 247 26 c 0
+ 329 26 389 78 389 203 c 0
+ 389 286 343 372 259 372 c 0
+253 413 m 24
+ 369.931640625 412.7265625 467 319.932617188 467 203 c 24
+ 467 83.861328125 372.137695312 -15.279296875 253 -15 c 24
+ 133.85546875 -14.720703125 40 84.85546875 40 204 c 24
+ 40 320.380859375 136.619140625 413.2734375 253 413 c 24
+EndSplineSet
+Validated: 33
+Substitution2: "'tnum' Tabular Numbers lookup 7 subtable" zero.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 5 subtable" zero.lnum
+EndChar

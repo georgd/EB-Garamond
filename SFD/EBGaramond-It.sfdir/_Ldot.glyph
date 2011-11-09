@@ -1,0 +1,22 @@
+
+StartChar: Ldot
+Encoding: 319 319 233
+Width: 619
+VWidth: 0
+Flags: W
+HStem: -5 35<12.0182 111.625 232.884 516.445> 314 100<455.734 515.283> 622 31<231.494 295.483 409.436 504.821>
+VStem: 439 93<331.122 396.878>
+LayerCount: 2
+Fore
+SplineSet
+500 414 m 24
+ 526 414 541 392 532 364 c 24
+ 523 336 496 314 470 314 c 24
+ 444 314 430 336 439 364 c 24
+ 448 392 474 414 500 414 c 24
+EndSplineSet
+Refer: 36 76 N 1 0 0 1 0 0 3
+Validated: 33
+Ligature2: "liga_standard subtable" L.CAT periodcentered
+Substitution2: "c2sc subtable" Ldot.sc
+EndChar

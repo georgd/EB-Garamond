@@ -1,0 +1,23 @@
+
+StartChar: Dcroat
+Encoding: 272 272 1008
+Width: 754
+VWidth: 0
+Flags: W
+HStem: -7 35<192.833 439.505> -5 29<20.7629 111.218> 317 36<145.149 462.674> 618 33<187.538 282.055 395.287 554.01>
+VStem: 697 86<273.574 501.999>
+LayerCount: 2
+Fore
+SplineSet
+173 353 m 26x38
+ 459 353 l 26
+ 466 353 471 346 466 339 c 24
+ 456 326 445 317 431 317 c 26
+ 153 317 l 26
+ 145 317 143 329 145 335 c 0
+ 148 344 162 353 173 353 c 26x38
+EndSplineSet
+Refer: 43 68 N 1 0 0 1 0 0 2
+Validated: 5
+Substitution2: "c2sc subtable" Dcroat.sc
+EndChar

@@ -1,0 +1,68 @@
+
+StartChar: two
+Encoding: 50 50 77
+Width: 424
+VWidth: 0
+Flags: W
+HStem: 0 65<119.682 306.932> 358 55<182.573 278.193>
+VStem: 286 78<262.572 349.305>
+LayerCount: 2
+Back
+SplineSet
+302 65 m 2
+ 337 65 379 90 408 128 c 0
+ 412 133 419.974 138.903 429 138 c 24
+ 433.673 137.532 431 131 428 126 c 0
+ 399 81 381 52 362 12 c 0
+ 355 -3 349 -4 345 -4 c 0
+ 344 -4 344 -4 343 -4 c 0
+ 285 0 242.368 -0.203054 178 0 c 24
+ 118.709 0.1875 86 0 26 -3 c 0
+ 20 -3 22 9 32 17 c 0
+ 53 34 87 61 106 74 c 0
+ 132 92 264 185 290 264 c 4
+ 306 312 289.833 355.5 253.833 355.5 c 4
+ 211.833 355.5 175 335 132 297 c 0
+ 127 293 124.275 287.692 119 290 c 24
+ 113.884 292.238 114 298 116 304 c 0
+ 119 313 192 413 302 413 c 4
+ 362 413 381 353 362 290 c 4
+ 352 258 324 220 293 191 c 0
+ 254 155 156 80 145 73 c 0
+ 138 69 145 65 151 65 c 2
+ 302 65 l 2
+EndSplineSet
+Fore
+SplineSet
+246 65 m 2
+ 281 65 306 76 330 117 c 0
+ 341 136 343 144 353 144 c 0
+ 363 144 364 138 364 132 c 0
+ 364 112 326 41 311 12 c 0
+ 303 -3 298 -4 294 -4 c 0
+ 235 -4 203 0 145 0 c 24
+ 93 0 30 -5 12 -5 c 0
+ 10 -5 -1 0 0 14 c 0
+ 1 22 24 41 73 74 c 0
+ 102 94 286 211 286 312 c 0
+ 286 344 259 358 232 358 c 0
+ 190 358 161 335 128 300 c 0
+ 124 295 118 290 113 290 c 0
+ 107 290 103 293 103 302 c 0
+ 103 330 168 413 269 413 c 0
+ 314 413 363 370 363 326 c 0
+ 363 262 314 230 272 191 c 0
+ 233 155 131 80 120 73 c 4
+ 113 69 120 65 126 65 c 6
+ 246 65 l 2
+EndSplineSet
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 38 subtable" two.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 36 subtable" two.lnum
+Substitution2: "Single Substitution lookup 35 subtable" two.ordn
+Substitution2: "Single Substitution lookup 34 subtable" two.subs
+Substitution2: "sups subtable" two.sups
+Substitution2: "sinf subtable" two.sinf
+Substitution2: "ordn subtable" two.ordn
+Substitution2: "subs subtable" two.subs
+EndChar

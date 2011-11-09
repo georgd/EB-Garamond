@@ -1,0 +1,53 @@
+
+StartChar: k
+Encoding: 107 107 62
+Width: 469
+Flags: W
+HStem: -21 60<310.823 368.638> 178 25<172 214> 372 42<336.026 418.757>
+VStem: 400 69<315.638 387.5>
+AnchorPoint: "below_accent" 164 -100 basechar 0
+AnchorPoint: "top_accent" 335 708 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+400 346 m 0
+ 400 368 381 372 361 372 c 0
+ 305 372 202 248 202 220 c 0
+ 202 212 206 203 214 203 c 0
+ 297 203 400 296 400 346 c 0
+106 16 m 0
+ 98 -6 96 -15 80 -15 c 0
+ 70 -15 55 3 55 15 c 0
+ 55 21 57 35 68 74 c 2
+ 209 557 l 2
+ 216 580 227 618 222 631 c 0
+ 218 643 169 649 169 658 c 0
+ 169 663 171 667 175 669 c 0
+ 205 684 272 706 288 706 c 0
+ 294 706 304 706 304 696 c 0
+ 304 685 304 682 301 673 c 2
+ 180 266 l 2
+ 176 251 184 255 189 262 c 0
+ 261 357 351 414 399 414 c 0
+ 438 414 469 404 469 371 c 0
+ 469 296 334 207 266 188 c 0
+ 259 186 258 184 261 177 c 2
+ 307 68 l 2
+ 313 54 325 39 340 39 c 0
+ 365 39 394 66 412 95 c 0
+ 419 107 423 110 428 110 c 0
+ 430 110 433 105 433 100 c 0
+ 433 35 349 -21 319 -21 c 0
+ 304 -21 275 -15 256 28 c 2
+ 218 134 l 2
+ 210 156 194 178 172 178 c 0
+ 163 178 149 150 145 136 c 0
+ 139 117 113 35 106 16 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "Smallcaps subtable" k.sc
+Substitution2: "sups subtable" k.sups
+Substitution2: "sinf subtable" k.sinf
+Substitution2: "ordn subtable" k.ordn
+Substitution2: "subs subtable" k.subs
+EndChar

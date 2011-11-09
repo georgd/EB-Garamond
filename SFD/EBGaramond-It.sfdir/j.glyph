@@ -1,0 +1,20 @@
+
+StartChar: j
+Encoding: 106 106 16
+Width: 255
+Flags: W
+HStem: -283 41<-107.926 -33.6691> 513 100<213.584 277.18>
+VStem: 200 90<525.747 600.266>
+LayerCount: 2
+Fore
+Refer: 122 775 N 1 0 0 1 190 0 2
+Refer: 345 567 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "Smallcaps subtable" j.sc
+Substitution2: "sups subtable" j.sups
+Substitution2: "sinf subtable" j.sinf
+Substitution2: "ordn subtable" j.ordn
+Substitution2: "subs subtable" j.subs
+Substitution2: "historic_j subtable" j.hist
+Substitution2: "Single Substitution lookup 8 subtable" dotlessj
+EndChar

@@ -1,0 +1,25 @@
+
+StartChar: zero.taboldstyle
+Encoding: 65586 -1 1114
+Width: 440
+VWidth: 0
+Flags: W
+HStem: -14 60<165.487 309.428> 362 52<254.756 390.235>
+LayerCount: 2
+Fore
+SplineSet
+328 362 m 0
+ 243 362 165 298 135 201 c 0
+ 109 116 152 46 231 46 c 0
+ 305 46 393 105 418 186 c 24
+ 446 277 414 362 328 362 c 0
+347 414 m 24
+ 457 414 517 318 481 200 c 24
+ 445 82 327 -14 217 -14 c 24
+ 107 -14 47 82 83 200 c 24
+ 119 318 237 414 347 414 c 24
+EndSplineSet
+Validated: 33
+Substitution2: "'pnum' Proportionalziffern lookup 39 subtable" zero
+Substitution2: "'lnum' Lining Figures lookup 36 subtable" zero.tablining
+EndChar

@@ -1,0 +1,35 @@
+
+StartChar: Ohorn
+Encoding: 416 416 288
+Width: 726
+VWidth: 0
+Flags: W
+HStem: -14 39<308.088 467.934> 625 39<454.027 626.048>
+AnchorPoint: "cedilla" 412 8 basechar 0
+AnchorPoint: "ogonek" 520 18 basechar 0
+AnchorPoint: "below_accent" 370 -100 basechar 0
+AnchorPoint: "top_accent" 383 700 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+786 552 m 1
+ 792 542 l 1
+ 819 486 800 421 774 335 c 0
+ 719 155 559 -14 355 -14 c 0
+ 190 -14 85 130 143 320 c 0
+ 198 500 358 664 562 664 c 0
+ 693 664 735 608 771 598 c 0
+ 777 596 784 596 791 596 c 0
+ 814 596 841 604 845 618 c 0
+ 855 650 810 633 820 666 c 0
+ 828 691 874 724 894 724 c 0
+ 911 724 918 687 911 664 c 0
+ 887 587 786 552 786 552 c 1
+543 625 m 0
+ 405 625 286 490 243 350 c 0
+ 191 179 241 25 379 25 c 0
+ 519 25 622 134 674 305 c 0
+ 732 495 692 625 543 625 c 0
+EndSplineSet
+Validated: 33
+EndChar

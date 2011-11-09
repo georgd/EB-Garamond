@@ -1,0 +1,22 @@
+
+StartChar: i
+Encoding: 105 105 5
+Width: 274
+Flags: W
+HStem: -14 55<76 160.386> 513 100<217.584 281.18>
+VStem: 51 73<14.7369 107.25> 204 90<525.747 600.266>
+AnchorPoint: "ogonek" 161 18 basechar 0
+AnchorPoint: "below_accent" 115 -100 basechar 0
+LayerCount: 2
+Fore
+Refer: 122 775 N 1 0 0 1 194 0 2
+Refer: 76 305 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "Smallcaps subtable" i.sc
+Substitution2: "sups subtable" i.sups
+Substitution2: "sinf subtable" i.sinf
+Substitution2: "ordn subtable" i.ordn
+Substitution2: "subs subtable" i.subs
+Substitution2: "Single Substitution lookup 8 subtable" dotlessi
+Substitution2: "loclTRK subtable" i.TRK
+EndChar

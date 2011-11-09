@@ -1,0 +1,34 @@
+
+StartChar: five.lnum
+Encoding: 65568 -1 1077
+Width: 425
+VWidth: 0
+Flags: W
+HStem: -38 31<32.2816 157.644> 607 20G<471 514>
+LayerCount: 2
+Fore
+SplineSet
+345 187 m 0
+ 376 290 278 314 196 344 c 16
+ 153 360 160 385 164 395 c 0
+ 178 435 231 513 257 556 c 0
+ 270 576 286 587 307 592 c 0
+ 369 608 432 619 510 627 c 16
+ 511 627 l 0
+ 517 627 522 619 517 613 c 8
+ 493 583 474 548 445 545 c 0
+ 395 539 308 532 279 527 c 0
+ 265 525 220 464 214 448 c 0
+ 210 439 211 432 221 429 c 0
+ 272 414 344 400 379 376 c 0
+ 433 338 442 261 426 209 c 0
+ 396 112 330 47 268 14 c 0
+ 230 -6 138 -38 61 -38 c 16
+ 47 -38 27 -35 30 -26 c 0
+ 33 -16 59 -7 70 -7 c 8
+ 180 -7 309 68 345 187 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "'tnum' Tabular Numbers lookup 38 subtable" five.tablining
+Substitution2: "'onum' Minuskelziffern lookup 37 subtable" five
+EndChar

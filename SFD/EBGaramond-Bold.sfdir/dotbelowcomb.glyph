@@ -1,0 +1,21 @@
+
+StartChar: dotbelowcomb
+Encoding: 803 803 2029
+Width: 35
+VWidth: 0
+Flags: W
+HStem: -193 101<11.9638 119.256>
+VStem: 0 131<-180.146 -104.957>
+AnchorPoint: "below_accent" 50 -100 mark 0
+LayerCount: 3
+Fore
+SplineSet
+0 -143 m 0
+ 0 -114 29 -92 65 -92 c 0
+ 103 -92 131 -114 131 -143 c 0
+ 131 -171 103 -193 65 -193 c 0
+ 29 -193 0 -171 0 -143 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" uni0323.cap
+EndChar

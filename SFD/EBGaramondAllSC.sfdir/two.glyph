@@ -1,0 +1,37 @@
+
+StartChar: two
+Encoding: 50 50 77
+Width: 430
+VWidth: 0
+Flags: W
+HStem: 0 65<131.73 363.557> 345 68<102.764 207.381>
+VStem: 226 68<218.815 324.745>
+LayerCount: 2
+Fore
+SplineSet
+45 297 m 0
+ 41 293 38 288 33 290 c 24
+ 27 292 25 298 25 304 c 0
+ 25 313 72 413 190 413 c 0
+ 254 413 294 353 294 290 c 0
+ 294 258 277 220 253 191 c 0
+ 223 155 142 80 132 73 c 0
+ 126 69 135 65 141 65 c 0
+ 167 66 255 65 304 65 c 0
+ 342 65 378 90 397 128 c 0
+ 400 133 408 139 416 138 c 24
+ 421 138 421 131 419 126 c 0
+ 403 81 393 52 386 12 c 0
+ 383 -5 376 -4 371 -4 c 0
+ 307 0 262 -0 192 0 c 24
+ 128 0 93 0 29 -3 c 0
+ 23 -3 21 9 29 17 c 0
+ 46 34 74 61 90 74 c 0
+ 112 92 224 185 226 264 c 0
+ 227 312 200 345 161 345 c 0
+ 116 345 79 335 45 297 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "'tnum' Tabular Numbers lookup 7 subtable" two.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 5 subtable" two.lnum
+EndChar

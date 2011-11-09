@@ -1,0 +1,21 @@
+
+StartChar: macron.cap
+Encoding: 65550 -1 1005
+Width: 6
+VWidth: 0
+Flags: W
+HStem: 723 54<-84.3323 182.228>
+VStem: -94 288
+LayerCount: 2
+Fore
+SplineSet
+-59 777 m 26
+ 186 777 l 26
+ 193 777 198 770 194 763 c 24
+ 182 744 171 723 153 723 c 26
+ -84 723 l 26
+ -91 723 -96 729 -94 735 c 0
+ -91 744 -77 777 -59 777 c 26
+EndSplineSet
+Validated: 1
+EndChar

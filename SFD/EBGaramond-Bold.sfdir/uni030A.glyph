@@ -1,0 +1,26 @@
+
+StartChar: uni030A
+Encoding: 778 778 122
+Width: 32
+VWidth: 0
+Flags: W
+HStem: 479 27<97.7971 155.841> 619 28<89.2785 147.114>
+VStem: 27 53<515.697 612.085> 166 53<514.012 608.291>
+AnchorPoint: "top_accent" 122 550 mark 0
+LayerCount: 3
+Fore
+SplineSet
+126 647 m 0
+ 176 647 219 613 219 569 c 0
+ 219 517 169 479 119 479 c 0
+ 69 479 27 518 27 562 c 0
+ 27 606 76 647 126 647 c 0
+80 567 m 0
+ 80 534 99 506 127 506 c 0
+ 157 506 166 530 166 562 c 0
+ 166 590 145 619 117 619 c 0
+ 89 619 80 595 80 567 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" uni030A.cap
+EndChar

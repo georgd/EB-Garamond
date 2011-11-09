@@ -1,0 +1,50 @@
+
+StartChar: z
+Encoding: 122 122 65
+Width: 381
+VWidth: 0
+Flags: W
+HStem: -34 52<232.751 305.948> -20 21G<17 21.5> 52 44<97 131> 376 48<130.377 253.066>
+VStem: 5 29<-19.9905 31.5369> 46 52<278.28 347.735> 337 44<38.4196 139.449>
+AnchorPoint: "below_accent" 188 -100 basechar 0
+AnchorPoint: "top_accent" 282 550 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+422 428 m 0x7e
+ 426 428 431 422 431 416 c 0
+ 431 406 418 384 399 366 c 2
+ 135 114 l 2
+ 127 106 125 96 130 96 c 0
+ 180 96 238 18 284 18 c 0
+ 329 18 337 69 337 98 c 0
+ 337 114 335 116 335 129 c 0
+ 335 141 335 143 348 143 c 0
+ 362 143 381 124 381 92 c 0
+ 381 31 290 -34 250 -34 c 0xbe
+ 172 -34 131 52 97 52 c 0
+ 57 52 34 25 34 -6 c 0
+ 34 -19 24 -20 19 -20 c 0
+ 15 -20 6 -7 5 6 c 0
+ 4 20 10 41 29 59 c 2
+ 308 320 l 18
+ 316 328 304 335 285 342 c 0
+ 265 350 201 376 146 376 c 0
+ 122 376 97 352 98 332 c 0
+ 98 322 100 308 108 296 c 0
+ 113 288 113 284 108 278 c 0
+ 99 268 73 256 67 256 c 0
+ 60 256 46 268 46 290 c 0
+ 46 326 64 348 96 378 c 0
+ 119 400 169 424 191 424 c 0
+ 245 424 316 389 347 389 c 0
+ 367 389 377 396 392 410 c 0
+ 399 417 412 428 422 428 c 0x7e
+EndSplineSet
+Validated: 33
+Substitution2: "Smallcaps subtable" z.sc
+Substitution2: "sups subtable" z.sups
+Substitution2: "sinf subtable" z.sinf
+Substitution2: "ordn subtable" z.ordn
+Substitution2: "subs subtable" z.subs
+EndChar

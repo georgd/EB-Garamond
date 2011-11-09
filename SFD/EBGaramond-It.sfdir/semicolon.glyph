@@ -1,0 +1,32 @@
+
+StartChar: semicolon
+Encoding: 59 59 71
+Width: 210
+VWidth: 0
+Flags: W
+HStem: 29 88<75.3066 113.724> 263 110<165.26 225.74>
+VStem: 144 103<284.203 351.797>
+LayerCount: 2
+Fore
+SplineSet
+212 373 m 24
+ 240 373 256 348 247 318 c 24
+ 238 288 207 263 179 263 c 24
+ 151 263 135 288 144 318 c 24
+ 153 348 184 373 212 373 c 24
+91 29 m 0
+ 65 32 53 49 60 71 c 0
+ 68 98 99 117 126 117 c 0
+ 171 117 190 76 173 20 c 0
+ 142 -81 38 -145 -10 -147 c 0
+ -11 -147 -11 -147 -12 -147 c 0
+ -32 -147 -29 -128 -9 -124 c 0
+ 34 -115 93 -85 114 -15 c 0
+ 119 1 111 27 91 29 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "sups subtable" semicolon.sups
+Substitution2: "sinf subtable" semicolon.sinf
+Substitution2: "ordn subtable" semicolon.ordn
+Substitution2: "subs subtable" semicolon.subs
+EndChar

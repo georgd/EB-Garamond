@@ -1,0 +1,26 @@
+
+StartChar: zero.lnum
+Encoding: 65573 -1 1065
+Width: 532
+VWidth: 0
+Flags: W
+HStem: -14 26<239.099 313.028> 602 28<213.263 293.776>
+VStem: 36 108<163.007 445.64> 389 107<172.147 453.507>
+LayerCount: 3
+Fore
+SplineSet
+252 602 m 0
+ 172 602 144 470 144 320 c 0
+ 144 170 188 12 278 12 c 0
+ 358 12 389 148 389 298 c 0
+ 389 448 342 602 252 602 c 0
+272 630 m 0
+ 425 630 496 461 496 316 c 16
+ 496 166 426 -14 260 -14 c 0
+ 107 -14 36 154 36 302 c 8
+ 36 454 106 630 272 630 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" zero.tablining
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" zero
+EndChar

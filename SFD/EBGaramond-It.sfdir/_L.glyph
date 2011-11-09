@@ -1,0 +1,47 @@
+
+StartChar: L
+Encoding: 76 76 36
+Width: 619
+VWidth: 0
+Flags: W
+HStem: -5 35<12.0182 111.625 232.884 516.445> 622 31<231.494 295.483 409.436 504.821>
+AnchorPoint: "cedilla" 183 8 basechar 0
+AnchorPoint: "below_accent" 314 -100 basechar 0
+AnchorPoint: "top_accent" 186 700 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+152 99 m 2
+ 293 560 l 2
+ 308 608 300 613 256 622 c 0
+ 236 626 231 632.51 231 642 c 0
+ 231 650.25 245 653 261 653 c 0
+ 311 653 324 650 365 650 c 24
+ 411 650 433 653 483 653 c 0
+ 499 653 506 650.25 506 642 c 0
+ 506 632.51 493 626 470 622 c 0
+ 421 613 382 606 370 567 c 2
+ 235 113 l 2
+ 220 62 227 30 269 30 c 2
+ 450 30 l 2
+ 522 30 555 77 585 116 c 0
+ 591 124 593 126 601 126 c 0
+ 607 126 609 122 609 114 c 0
+ 609 96 585 39 567 11 c 0
+ 562 3 553 -5 544 -5 c 8
+ 393 -5 251 1 158 1 c 8
+ 109 1 83 -5 33 -5 c 0
+ 17 -5 9 -2 9 6 c 4
+ 9 15 22 20 45 24 c 0
+ 94 33 138 52 152 99 c 2
+EndSplineSet
+Validated: 33
+Substitution2: "Swash subtable" L.sw
+Substitution2: "c2sc subtable" L.sc
+Substitution2: "sups subtable" L.sups
+Substitution2: "sinf subtable" L.sinf
+Substitution2: "ordn subtable" L.ordn
+Substitution2: "subs subtable" L.subs
+Substitution2: "cool subtable" c
+Substitution2: "loclCAT subtable" L.CAT
+EndChar

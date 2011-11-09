@@ -1,0 +1,27 @@
+
+StartChar: uni0327
+Encoding: 807 807 626
+Width: 0
+VWidth: 0
+Flags: W
+HStem: -273 38<50.1676 121.711>
+VStem: 71 59<-118.759 -53.5599> 123 59<-227.9 -162.488>
+AnchorPoint: "cedilla" 183 8 mark 0
+LayerCount: 2
+Fore
+SplineSet
+71 -100 m 0xc0
+ 71 -67 127 -5 185 25 c 9
+ 215 25 l 17
+ 153 -24 130 -62 130 -80 c 0xc0
+ 130 -101 182 -146 182 -179 c 0
+ 182 -226 117 -273 78 -273 c 0
+ 29 -273 14 -219 14 -210 c 0
+ 14 -202 15 -190 26 -190 c 0
+ 38 -190 41 -235 103 -235 c 0
+ 118 -235 123 -217 123 -207 c 0xa0
+ 123 -165 71 -150 71 -100 c 0xc0
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0327.cap
+EndChar

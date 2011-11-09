@@ -1,0 +1,38 @@
+
+StartChar: two.taboldstyle
+Encoding: 65588 -1 1116
+Width: 440
+VWidth: 0
+Flags: W
+HStem: -4 69<158.682 378.554> 345 68<229.174 347>
+LayerCount: 2
+Fore
+SplineSet
+147 297 m 0
+ 142 293 137 288 133 290 c 24
+ 128 292 128 298 130 304 c 0
+ 133 313 207 413 317 413 c 0
+ 377 413 395 353 376 290 c 0
+ 366 258 339 220 308 191 c 0
+ 269 155 170 80 159 73 c 0
+ 152 69 159 65 165 65 c 0
+ 173 65 188 65 205 65 c 0
+ 240 65 287 65 317 65 c 0
+ 352 65 393 90 422 128 c 0
+ 426 133 436 139 443 138 c 24
+ 448 138 445 131 442 126 c 0
+ 413 81 396 52 377 12 c 0
+ 370 -3 363 -4 359 -4 c 0
+ 358 -4 l 0
+ 300 0 258 0 193 0 c 24
+ 133 0 100 0 40 -3 c 0
+ 34 -3 36 9 46 17 c 0
+ 67 34 101 61 120 74 c 0
+ 146 92 279 185 305 264 c 0
+ 321 312 305 345 269 345 c 0
+ 227 345 190 335 147 297 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "'pnum' Proportionalziffern lookup 39 subtable" two
+Substitution2: "'lnum' Lining Figures lookup 36 subtable" two.tablining
+EndChar

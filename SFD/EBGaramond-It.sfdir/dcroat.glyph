@@ -1,0 +1,23 @@
+
+StartChar: dcroat
+Encoding: 273 273 1010
+Width: 480
+VWidth: 0
+Flags: W
+HStem: -14 32<77.22 158.669> 389 31<296.055 363.976> 535 36<340.148 607.564> 685 20<542 550.5>
+VStem: 26 70<18.6526 140.602> 319 194<36 110>
+LayerCount: 2
+Fore
+SplineSet
+366 571 m 26
+ 604 571 l 26
+ 610 571 616 564 611 557 c 24
+ 601 544 591 535 578 535 c 26
+ 346 535 l 26
+ 338 535 338 547 340 553 c 0
+ 343 562 356 571 366 571 c 26
+EndSplineSet
+Refer: 11 100 N 1 0 0 1 0 0 2
+Validated: 5
+Substitution2: "Smallcaps subtable" dcroat.sc
+EndChar

@@ -1,0 +1,34 @@
+
+StartChar: one.tablining
+Encoding: 65596 -1 1124
+Width: 442
+VWidth: 0
+Flags: W
+HStem: -3 25<89.7731 143.082 320.5 361.904> 560 29<283.489 329.713>
+LayerCount: 2
+Fore
+SplineSet
+443 636 m 0
+ 445 637 446 637 448 637 c 0
+ 453 637 458 633 456 628 c 0
+ 447 608 439 585 431 557 c 2
+ 294 109 l 2
+ 287 87 286 72 296 57 c 24
+ 312 35 328 28 355 22 c 0
+ 362 20 364 14 362 8 c 0
+ 360 2 355 -3 348 -3 c 0
+ 295 -3 273 2 224 2 c 24
+ 174 2 143 -3 93 -3 c 0
+ 82 -3 84 19 101 22 c 0
+ 131 28 153 35 182 57 c 24
+ 201 72 209 87 216 109 c 2
+ 340 517 l 2
+ 346 535 337 544 330 548 c 0
+ 324 551 310 558 287 560 c 0
+ 272 562 278 586 295 589 c 1
+ 350 593 402 611 443 636 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "'pnum' Proportionalziffern lookup 39 subtable" one.lnum
+Substitution2: "'onum' Minuskelziffern lookup 37 subtable" one.taboldstyle
+EndChar
