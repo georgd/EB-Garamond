@@ -3,7 +3,7 @@ StartChar: uni1E9D.short
 Encoding: 1114997 -1 2701
 Width: 305
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -3 27<26.0556 75.4246 176.575 225.944> 352 24<27.0171 64.8123> 520 36<31.3207 302.42> 676 30<209.433 275.114>
 VStem: 91 69<33.5449 350 390.261 580.518>
 LayerCount: 3
@@ -18,4 +18,5 @@ SplineSet
  30 541 40.7626953125 556 54 556 c 26
 EndSplineSet
 Refer: 2703 -1 N 1 0 0 1 0 0 2
+Validated: 524293
 EndChar

@@ -49,11 +49,9 @@
  	i.TRK
 ];
 
-lookup longfkern {
-	pos f @LeftKern_HighAscAfter_longf 70;
-} longfkern;
-
 lookup kern {
+    pos f @LeftKern_HighAscAfter_longf 70;
+
     pos @RightKern_m @LeftKern_v -16;
 #    pos s o 20;
 #    pos s a 12;
@@ -111,6 +109,5 @@ lookup kern {
 } kern;
 
 feature kern {
-      lookup longfkern;
       lookup kern;
 } kern;

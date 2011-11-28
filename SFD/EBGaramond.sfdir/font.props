@@ -15,14 +15,13 @@ LayerCount: 3
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Zeichenebene"  0
 Layer: 2 0 "Tests"  0
-NeedsXUIDChange: 1
 XUID: [1021 114 2024522534 13590131]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1321347955
+ModificationTime: 1322476840
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -112,11 +111,10 @@ Lookup: 6 0 0 "caltLAT"  {"caltLAT subtable"  } ['calt' ('latn' <'dflt' 'DEU ' '
 Lookup: 1 0 0 "Single Substitution lookup 55"  {"Single Substitution lookup 55 subtable"  } []
 Lookup: 260 0 0 "mark"  {"greek_uc"  "greek"  "mark anchor 0"  "mark anchor 1"  "mark anchor 2"  "mark anchor 3"  } ['mark' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 262 0 0 "mkmk"  {"mkmk subtable"  } ['mkmk' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 258 0 0 "longfkern"  {"longfkern subtable" [150,0,0] } ['kern' ('DFLT' <'dflt' > ) ]
 Lookup: 258 0 0 "kern"  {"kern subtable"  } ['kern' ('DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 15 18 "kern subtable" 
+KernClass2: 16 21 "kern subtable" 
  1 A
  9 A.sc a.sc
  85 E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde
@@ -127,6 +125,7 @@ KernClass2: 15 18 "kern subtable"
  1 T
  5 V W Y
  19 V.sc W.sc v.sc w.sc
+ 1 f
  5 h m n
  15 uni0413 uni0490
  7 uni0422
@@ -136,8 +135,9 @@ KernClass2: 15 18 "kern subtable"
  9 O Ohorn Q
  5 V W Y
  19 V.sc W.sc v.sc w.sc
- 67 a ae aogonek c ccedilla d e eogonek eth g o oe oogonek q s scedilla
- 28 dotlessi m n p r u uogonek z
+ 63 a ae aogonek c ccedilla d e eogonek g o oe oogonek q s scedilla
+ 880 abreve acircumflex adieresis agrave aring b ccaron ebreve ecaron edieresis egrave gbreve gcommaaccent germandbls h hbar hcircumflex i i.TRK iacute ibreve icircumflex idieresis igrave ij imacron iogonek itilde j jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot longs lslash ncaron obreve ograve rcaron scaron scircumflex thorn ubreve ugrave uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED uni1EF3 uni1EF7 uni1EFB ydieresis zcaron
+ 19 m n p r u uogonek z
  1 t
  79 uni0430 uni0435 uni0437 uni043E uni0441 uni044D uni044F uni0454 uni0455 uni04E9
  155 uni0432 uni0433 uni0434.alt uni0438 uni043A uni043B.alt uni043C uni043D uni043F uni0446 uni0448 uni0449 uni044B uni044C uni044E uni0459.alt uni045A uni045F
@@ -148,11 +148,9 @@ KernClass2: 15 18 "kern subtable"
  7 uni0444
  7 uni0447
  7 v w x y
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} -150 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} -75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} -10 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -40 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -10 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} -95 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -135 {} -120 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -150 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -130 {} -100 {} -140 {} -105 {} -130 {} -115 {} -70 {} -115 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -125 {} -95 {} -135 {} -100 {} -130 {} -110 {} -65 {} -110 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
-KernClass2: 2 2 "longfkern subtable" 
- 1 f
- 893 abreve acircumflex adieresis agrave aring b ccaron dotlessi ebreve ecaron edieresis egrave eth gbreve gcommaaccent germandbls h hbar hcircumflex i i.TRK iacute ibreve icircumflex idieresis igrave ij imacron iogonek itilde j jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot longs lslash ncaron obreve ograve rcaron scaron scircumflex thorn ubreve ugrave uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED uni1EF3 uni1EF7 uni1EFB ydieresis zcaron
- 0 {} 0 {} 0 {} 70 {}
+ 3 eth
+ 8 dotlessi
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} -150 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} -10 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -25 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} -40 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -30 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -10 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -20 {} -10 {} 0 {} -95 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -135 {} 0 {} -120 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -135 {} -120 {} 0 {} -150 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} -75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 70 {} 70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -130 {} -100 {} -140 {} -105 {} -130 {} -115 {} -70 {} -115 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -125 {} -95 {} -135 {} -100 {} -130 {} -110 {} -65 {} -110 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {}
 ChainSub2: coverage "caltLAT subtable"  0 0 0 1
  1 1 0
   Coverage: 11 u.LAT v.LAT
