@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1322476840
+ModificationTime: 1322726148
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -111,7 +111,7 @@ Lookup: 6 0 0 "caltLAT"  {"caltLAT subtable"  } ['calt' ('latn' <'dflt' 'DEU ' '
 Lookup: 1 0 0 "Single Substitution lookup 55"  {"Single Substitution lookup 55 subtable"  } []
 Lookup: 260 0 0 "mark"  {"greek_uc"  "greek"  "mark anchor 0"  "mark anchor 1"  "mark anchor 2"  "mark anchor 3"  } ['mark' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 262 0 0 "mkmk"  {"mkmk subtable"  } ['mkmk' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 258 0 0 "kern"  {"kern subtable"  } ['kern' ('DFLT' <'dflt' > ) ]
+Lookup: 258 0 0 "kern"  {"kern subtable"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 16 21 "kern subtable" 
@@ -300,7 +300,7 @@ NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114448 8 4
+WinInfo: 1114256 8 4
 BeginPrivate: 9
 BlueValues 55 [-22 0 268 287 400 430 450 464 616 630 650 664 700 705]
 OtherBlues 21 [-290 -285 -181 -167]
