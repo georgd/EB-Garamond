@@ -1,0 +1,34 @@
+
+StartChar: uni04E8
+Encoding: 1256 1256 1985
+Width: 707
+VWidth: 0
+Flags: W
+HStem: -14 39<301.97 461.429> 301 70<246.141 663.856> 625 39<455.746 621.609>
+AnchorPoint: "cedilla" 412 8 basechar 0
+AnchorPoint: "below_accent" 370 -100 basechar 0
+AnchorPoint: "top_accent" 383 700 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+139 320 m 0
+ 194 500 352 659 557 664 c 0
+ 559 664 563 664 565 664 c 0
+ 727 664 829 532 769 335 c 0
+ 714 155 554 -14 350 -14 c 0
+ 185 -14 81 130 139 320 c 0
+687 372 m 1
+ 717 525 670 625 539 625 c 0
+ 409 625 294 504 246 373 c 1
+ 249 372 252 371 256 371 c 2
+ 678 371 l 2
+ 681 371 684 372 687 372 c 1
+664 287 m 1
+ 661 295 654 301 643 301 c 2
+ 238 301 l 2
+ 234 301 230 301 226 301 c 1
+ 197 151 250 25 374 25 c 0
+ 509 25 610 126 664 287 c 1
+EndSplineSet
+Validated: 33
+EndChar

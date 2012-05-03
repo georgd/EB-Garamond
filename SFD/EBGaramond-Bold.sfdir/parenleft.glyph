@@ -1,0 +1,29 @@
+
+StartChar: parenleft
+Encoding: 40 40 107
+Width: 328
+VWidth: 0
+Flags: W
+HStem: 685 20G<251.5 261>
+VStem: 38 78<127.769 404.284>
+LayerCount: 3
+Fore
+SplineSet
+280 -192 m 0
+ 280 -206 265 -214 251 -214 c 0
+ 245 -214 237 -212 232 -207 c 0
+ 155 -136 38 99 38 269 c 0
+ 38 439 151 623 228 694 c 0
+ 234 700 246 705 257 705 c 0
+ 265 705 281 698 281 689 c 0
+ 281 687 270 672 268 670 c 0
+ 197 599 116 451 116 281 c 0
+ 116 111 193 -102 264 -173 c 0
+ 266 -175 280 -190 280 -192 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" parenleft.sups
+Substitution2: "sinf subtable" parenleft.sinf
+Substitution2: "ordn subtable" parenleft.ordn
+Substitution2: "subs subtable" parenleft.subs
+EndChar

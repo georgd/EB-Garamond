@@ -1,0 +1,28 @@
+
+StartChar: asciicircum
+Encoding: 94 94 89
+Width: 500
+Flags: W
+HStem: 284 319
+LayerCount: 2
+Fore
+SplineSet
+250 603 m 1
+ 276 566 408 375 449 305 c 0
+ 455 295 451 284 443 284 c 0
+ 442 284 442 284 441 284 c 0
+ 429 287 410 295 404 302 c 0
+ 368 341 284 470 254 514 c 0
+ 249 520 248 520 244 514 c 0
+ 214 470 123 332 96 302 c 0
+ 89 295 71 287 59 284 c 0
+ 58 284 58 284 57 284 c 0
+ 49 284 45 295 51 305 c 0
+ 89 369 222 564 250 603 c 1
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" asciicircum.sups
+Substitution2: "sinf subtable" asciicircum.sinf
+Substitution2: "ordn subtable" asciicircum.ordn
+Substitution2: "subs subtable" asciicircum.subs
+EndChar

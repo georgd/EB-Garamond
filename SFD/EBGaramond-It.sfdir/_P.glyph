@@ -1,0 +1,45 @@
+
+StartChar: P
+Encoding: 80 80 26
+Width: 570
+VWidth: 0
+Flags: W
+HStem: -5 29<10.8438 91.063 220.132 275.641> 254 26<308.021 388.879> 622 31<187.487 263.787> 630 22<374.65 456.83>
+VStem: 546 83<394.468 555.574>
+AnchorPoint: "below_accent" 170 -100 basechar 0
+AnchorPoint: "top_accent" 443 700 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+157 2 m 24xd8
+ 109 2 84 -5 34 -5 c 0
+ 18 -5 10 -2 10 6 c 0
+ 10 15 23 20 46 24 c 0
+ 95 33 123 51 138 100 c 2
+ 267 522 l 2
+ 290 596 277 616 211 622 c 0
+ 191 624 187 633 187 642 c 0
+ 187 650 201 653 217 653 c 0xe8
+ 227 653 296 652 306 652 c 0
+ 343 652 391 657 417 657 c 8
+ 524 657 629 595 629 484 c 8
+ 629 343 491 254 350 254 c 16
+ 337 254 308 256 308 267 c 0
+ 308 275 319 279 326 280 c 0
+ 455 294 546 357 546 471 c 8
+ 546 553 491 630 409 630 c 16
+ 374 630 370 618 361 588 c 2
+ 215 111 l 2
+ 200 63 207 33 251 24 c 0
+ 271 20 276 15 276 6 c 0
+ 276 -2 262 -5 246 -5 c 0
+ 196 -5 192 2 157 2 c 24xd8
+EndSplineSet
+Validated: 33
+Substitution2: "Swash subtable" P.sw
+Substitution2: "c2sc subtable" P.sc
+Substitution2: "sups subtable" P.sups
+Substitution2: "sinf subtable" P.sinf
+Substitution2: "ordn subtable" P.ordn
+Substitution2: "subs subtable" P.subs
+EndChar

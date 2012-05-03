@@ -1,0 +1,26 @@
+
+StartChar: asciitilde
+Encoding: 126 126 110
+Width: 500
+Flags: W
+HStem: 260 73<254.041 377.762> 308 73<121.948 238.491>
+LayerCount: 2
+Fore
+SplineSet
+50 279 m 0x40
+ 71 318 130 381 175 381 c 0x40
+ 221 381 271 333 337 333 c 0
+ 364 333 420 358 437 380 c 0
+ 438 381 439 382 440 382 c 0
+ 445 382 453 367 450 362 c 0
+ 436 335 374 260 325 260 c 0x80
+ 277 260 212 308 158 308 c 0
+ 135 308 81 279 65 261 c 0
+ 60 256 47 273 50 279 c 0x40
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" asciitilde.sups
+Substitution2: "sinf subtable" asciitilde.sinf
+Substitution2: "ordn subtable" asciitilde.ordn
+Substitution2: "subs subtable" asciitilde.subs
+EndChar

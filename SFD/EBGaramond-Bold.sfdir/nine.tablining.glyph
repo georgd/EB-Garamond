@@ -1,0 +1,34 @@
+
+StartChar: nine.tablining
+Encoding: 65604 -1 1115
+Width: 525
+VWidth: 0
+Flags: W
+HStem: -31 18<33.9148 92.6917> 304 53<192.843 277.627> 593 36<188.037 291.426>
+VStem: 45 98<410.459 508.036> 381 111<280.825 485.838>
+LayerCount: 3
+Fore
+SplineSet
+277 629 m 0
+ 386 629 492 515 492 400 c 0
+ 492 275 433 186 331 87 c 24
+ 249 7 127 -31 49 -31 c 2
+ 44 -31 l 2
+ 38 -31 33 -31 33 -26 c 8
+ 33 -19 41 -13 48 -13 c 0
+ 112 -13 217 52 286 134 c 24
+ 355 217 381 292 381 389 c 0
+ 381 485 314 593 241 593 c 0
+ 176 593 143 531 143 482 c 0
+ 143 421 193 357 246 357 c 0
+ 287 357 301 371 326 383 c 0
+ 331 385 336 376 333 372 c 0
+ 325 359 309 345 297 337 c 0
+ 281 326 237 304 197 304 c 0
+ 122 304 45 358 45 430 c 0
+ 45 521 141 629 277 629 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" nine.lnum
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" nine.taboldstyle
+EndChar

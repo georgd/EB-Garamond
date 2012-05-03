@@ -1,0 +1,30 @@
+
+StartChar: less
+Encoding: 60 60 101
+Width: 590
+Flags: W
+HStem: -6 21G<525.5 529>
+LayerCount: 2
+Fore
+SplineSet
+133 229 m 2
+ 513 55 l 2
+ 532 46 537 16 537 7 c 0
+ 537 2 532 -6 526 -6 c 0
+ 525 -6 524 -5 523 -5 c 2
+ 94 195 l 2
+ 77 203 53 216 53 222 c 0
+ 53 231 66 259 86 268 c 2
+ 523 468 l 2
+ 524 468 525 469 526 469 c 0
+ 532 469 538 460 536 454 c 0
+ 530 433 525 417 505 408 c 2
+ 132 234 l 2
+ 129 233 130 230 133 229 c 2
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" less.sups
+Substitution2: "sinf subtable" less.sinf
+Substitution2: "ordn subtable" less.ordn
+Substitution2: "subs subtable" less.subs
+EndChar

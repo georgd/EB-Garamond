@@ -1,0 +1,39 @@
+
+StartChar: three.tablining
+Encoding: 65582 -1 1110
+Width: 444
+VWidth: 0
+Flags: W
+HStem: -38 38<101 238.66> 304 56<304 367> 570 60<334.719 452>
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 0
+ 57 22 73 51 93 51 c 16
+ 104 51 109 47 114 39 c 16
+ 127 18 143 0 174 0 c 16
+ 204 0 227 2 254 17 c 0
+ 319 53 345 88 363 146 c 16
+ 386 222 375 304 304 304 c 16
+ 290 304 264 302 239 289 c 0
+ 231 285 222 291 226 298 c 24
+ 236 315 251 326 264 332 c 0
+ 289 343 400 395 422 466 c 8
+ 439 521 416 570 367 570 c 8
+ 318 570 283 546 238 503 c 0
+ 234 499 217 482 204 482 c 24
+ 197 482 205 496 210 502 c 0
+ 262 575 343 630 426 630 c 16
+ 478 630 533 588 511 516 c 0
+ 496 468 453 411 367 366 c 0
+ 363 364 362 360 367 360 c 0
+ 388 359 412 351 435 336 c 16
+ 457 322 478 262 460 203 c 16
+ 429 102 310 14 246 -16 c 0
+ 204 -36 165 -38 118 -38 c 8
+ 84 -38 44 -20 50 0 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "'pnum' Proportionalziffern lookup 39 subtable" three.lnum
+Substitution2: "'onum' Minuskelziffern lookup 37 subtable" three.taboldstyle
+EndChar

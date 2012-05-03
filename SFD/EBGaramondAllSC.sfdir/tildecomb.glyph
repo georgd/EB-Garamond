@@ -1,0 +1,23 @@
+
+StartChar: tildecomb
+Encoding: 771 771 111
+Width: 360
+VWidth: 0
+Flags: W
+HStem: 481 73<130.815 271.413> 497 73<90.8845 231.938>
+VStem: 50 260
+LayerCount: 2
+Fore
+SplineSet
+50 483 m 0x60
+ 71 522 92 570 137 570 c 0x60
+ 183 570 199 554 240 554 c 16
+ 266 554 280 569 297 591 c 0
+ 302 598 313 579 310 573 c 0
+ 296 546 277 481 228 481 c 0xa0
+ 180 481 174 497 120 497 c 0
+ 97 497 81 483 65 465 c 0
+ 60 460 47 477 50 483 c 0x60
+EndSplineSet
+Validated: 1
+EndChar

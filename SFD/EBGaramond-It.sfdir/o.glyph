@@ -1,0 +1,31 @@
+
+StartChar: o
+Encoding: 111 111 3
+Width: 400
+Flags: W
+HStem: -14 30<122.149 188.736> 384 30<246.264 312.851>
+VStem: 45 64<30.5807 194.315> 326 64<205.685 369.419>
+AnchorPoint: "ogonek" 228 18 basechar 0
+AnchorPoint: "below_accent" 137 -100 basechar 0
+AnchorPoint: "top_accent" 322 550 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+326 304 m 4
+ 326 354 317 384 283 384 c 4
+ 203 384 109 189 109 96 c 4
+ 109 46 118 16 152 16 c 4
+ 232 16 326 211 326 304 c 4
+390 296 m 4
+ 390 176 290 -14 140 -14 c 4
+ 100 -14 45 28 45 104 c 4
+ 45 224 145 414 295 414 c 4
+ 335 414 390 372 390 296 c 4
+EndSplineSet
+Validated: 1
+Substitution2: "Smallcaps subtable" o.sc
+Substitution2: "sups subtable" o.sups
+Substitution2: "sinf subtable" o.sinf
+Substitution2: "ordn subtable" o.ordn
+Substitution2: "subs subtable" o.subs
+EndChar

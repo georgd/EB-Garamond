@@ -1,0 +1,25 @@
+
+StartChar: uni0306.cyr
+Encoding: 66344 -1 1973
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 461 32<76.4631 164.245>
+VStem: 5 67<495.736 551.438> 218 24<546.392 592.44>
+AnchorPoint: "top_accent" 121 533 mark 0
+LayerCount: 2
+Fore
+SplineSet
+103 493 m 0
+ 164 493 205.416015625 532.900390625 218 568 c 0
+ 225.424804688 588.709960938 229.782226562 595 235 595 c 0
+ 241 595 242 590 242 580 c 0
+ 242 530 205 461 84 461 c 0
+ 34 461 5 498 5 551 c 0
+ 5 582 32 600 58 600 c 0
+ 76 600 97 592 97 565 c 0
+ 97 540 72 537 72 526 c 0
+ 72 507 83 493 103 493 c 0
+EndSplineSet
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" breve.cyrcap
+EndChar

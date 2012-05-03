@@ -1,0 +1,28 @@
+
+StartChar: colon
+Encoding: 58 58 70
+Width: 258
+VWidth: 0
+Flags: W
+HStem: -14 115<46.8503 123.15> 268 115<127.85 204.15>
+VStem: 30 110<3.02179 83.9782> 111 110<285.022 365.978>
+LayerCount: 2
+Fore
+SplineSet
+176 383 m 16xd0
+ 202 383 221 359 221 333 c 8
+ 221 297 192 268 156 268 c 8
+ 130 268 111 292 111 318 c 8
+ 111 354 140 383 176 383 c 16xd0
+95 101 m 16
+ 121 101 140 77 140 51 c 8
+ 140 15 111 -14 75 -14 c 8
+ 49 -14 30 10 30 36 c 8xe0
+ 30 72 59 101 95 101 c 16
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" colon.sups
+Substitution2: "sinf subtable" colon.sinf
+Substitution2: "ordn subtable" colon.ordn
+Substitution2: "subs subtable" colon.subs
+EndChar

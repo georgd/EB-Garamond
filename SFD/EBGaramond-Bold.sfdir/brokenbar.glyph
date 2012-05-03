@@ -1,0 +1,32 @@
+
+StartChar: brokenbar
+Encoding: 166 166 106
+Width: 268
+VWidth: 0
+Flags: W
+HStem: -290 21G<107 117> 275 21G<107 117> 685 20G<151 159.5>
+VStem: 95 78<-284.483 168.239 283.306 695.745>
+LayerCount: 3
+Fore
+SplineSet
+111 275 m 0
+ 103 275 95 288 95 298 c 2
+ 95 674 l 10
+ 95 696 147 705 155 705 c 0
+ 164 705 173 699 173 692 c 18
+ 173 296 l 2
+ 173 286 123 275 111 275 c 0
+155 178 m 0
+ 164 178 173 166 173 156 c 2
+ 173 -266 l 10
+ 173 -287 123 -290 111 -290 c 0
+ 103 -290 95 -283 95 -276 c 18
+ 95 155 l 2
+ 95 165 147 178 155 178 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" brokenbar.sups
+Substitution2: "sinf subtable" brokenbar.sinf
+Substitution2: "ordn subtable" brokenbar.ordn
+Substitution2: "subs subtable" brokenbar.subs
+EndChar

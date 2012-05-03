@@ -1,0 +1,37 @@
+
+StartChar: breve
+Encoding: 728 728 345
+Width: 273
+VWidth: 0
+Flags: W
+HStem: 460 51<80.9941 193.006>
+VStem: 21 39<533.853 590.992> 214 39<533.853 590.992>
+LayerCount: 3
+Back
+SplineSet
+-242 580 m 4
+ -229 558 -227 516 -167 516 c 4
+ -107 516 -105 558 -92 580 c 4
+ -87 589 -85 601 -75 601 c 4
+ -65 601 -60 590 -60 577 c 4
+ -60 513 -97 461 -167 461 c 4
+ -237 461 -274 502 -274 577 c 4
+ -274 590 -269 601 -259 601 c 4
+ -249 601 -247 589 -242 580 c 4
+EndSplineSet
+Fore
+SplineSet
+60 570 m 0
+ 65 545 87 511 137 511 c 0
+ 187 511 209 545 214 570 c 0
+ 217 580 220 591 233 591 c 0
+ 246 591 253 580 253 567 c 0
+ 253 517 213 460 137 460 c 0
+ 61 460 21 517 21 567 c 0
+ 21 580 27 591 40 591 c 0
+ 53 591 57 580 60 570 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'locl' Localized Forms in Cyrillic lookup 6 subtable" breve.CYR
+Substitution2: "loclSRB subtable" breve.CYR
+EndChar

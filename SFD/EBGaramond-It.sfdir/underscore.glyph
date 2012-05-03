@@ -1,0 +1,24 @@
+
+StartChar: underscore
+Encoding: 95 95 103
+Width: 465
+VWidth: 0
+Flags: W
+HStem: -182 50<-43.6469 410.585>
+LayerCount: 2
+Fore
+SplineSet
+-18 -132 m 26
+ 413 -132 l 26
+ 420 -132 424 -139 420 -146 c 24
+ 409 -163 398 -182 381 -182 c 26
+ -43 -182 l 26
+ -50 -182 -54 -176 -52 -170 c 0
+ -49 -161 -34 -132 -18 -132 c 26
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" underscore.sups
+Substitution2: "sinf subtable" underscore.sinf
+Substitution2: "ordn subtable" underscore.ordn
+Substitution2: "subs subtable" underscore.subs
+EndChar
