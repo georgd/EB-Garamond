@@ -6,9 +6,9 @@ VWidth: 0
 Flags: W
 HStem: -14 30<122.149 188.736> 384 30<246.264 312.851>
 VStem: 45 64<30.5807 194.315> 326 64<205.685 369.419>
-AnchorPoint: "ogonek" 337 18 basechar 0
-AnchorPoint: "below_accent" 246 -100 basechar 0
-AnchorPoint: "top_accent" 246 550 basechar 0
+AnchorPoint: "top_accent" 322 550 basechar 0
+AnchorPoint: "below_accent" 137 -100 basechar 0
+AnchorPoint: "ogonek" 228 18 basechar 0
 LayerCount: 2
 Fore
 Refer: 3 111 N 1 0 0 1 0 0 3

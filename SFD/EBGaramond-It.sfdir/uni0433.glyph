@@ -3,10 +3,10 @@ StartChar: uni0433
 Encoding: 1075 1075 1945
 Width: 330
 VWidth: 0
-Flags: HW
-HStem: -12 54<88.4833 192.974> 375 43<129.973 230.573>
-VStem: 5 75<52.607 124.942> 240 65<264.363 366.104>
-AnchorPoint: "below_accent" 180 -100 basechar 0
+Flags: W
+HStem: -12 54<88.4012 192.916> 375 43<132.758 230.647>
+VStem: 5 75<52.2051 124.119> 240 65<264.614 366.349>
+AnchorPoint: "below_accent" 88 -100 basechar 0
 AnchorPoint: "top_accent" 252 550 basechar 0
 LayerCount: 2
 Fore
@@ -32,4 +32,6 @@ SplineSet
  104 337 102 337 97 337 c 0
  86 337 86 350 86 358 c 0
 EndSplineSet
+Validated: 1
+Substitution2: "loclSRB subtable" uni0433.SRB
 EndChar

@@ -1,9 +1,11 @@
 
 StartChar: guilsinglright.alt
-Encoding: 2732 -1 2726
+Encoding: 1115004 -1 2726
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 380 20G<109.5 118.5>
+VStem: 102 228
 LayerCount: 3
 Fore
 SplineSet
@@ -22,4 +24,5 @@ SplineSet
  100 32 103 38 106 43 c 0
  162 128 189 162 226 202 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -14,14 +14,13 @@ Descent: 290
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Zeichenebene"  0
-NeedsXUIDChange: 1
 XUID: [1021 114 2024522534 13590131]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1320836841
+ModificationTime: 1336423239
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -46,61 +45,61 @@ OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "loclDEU"  {"loclDEU subtable"  } ['locl' ('latn' <'DEU ' > ) ]
 Lookup: 1 0 0 "loclTRK"  {"loclTRK subtable"  } ['locl' ('latn' <'TRK ' 'AZE ' 'CRT ' > ) ]
 Lookup: 1 0 0 "loclCAT"  {"loclCAT subtable"  } ['locl' ('latn' <'CAT ' > ) ]
-Lookup: 1 0 0 "loclSRB"  {"loclSRB subtable"  } ['locl' ('cyrl' <'SRB ' > ) ]
+Lookup: 1 0 0 "loclSRB"  {"loclSRB subtable"  } ['locl' ('cyrl' <'SRB ' 'MKD ' > ) ]
 Lookup: 1 0 0 "loclLAT"  {"loclLAT subtable"  } ['locl' ('latn' <'LAT ' > ) ]
 Lookup: 4 0 0 "LATliga"  {"LATliga subtable"  } ['locl' ('latn' <'LAT ' > ) ]
-Lookup: 1 0 0 "'case' Case-Sensitive Forms lookup 6"  {"'case' Case-Sensitive Forms lookup 6 subtable"  } ['case' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "CCMP_contextual"  {"CCMP_contextual contextual 0"  "CCMP_contextual contextual 1"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'case' Case-Sensitive Forms lookup 6"  {"'case' Case-Sensitive Forms lookup 6 subtable"  } ['case' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "CCMP_contextual"  {"CCMP_contextual contextual 0"  "CCMP_contextual contextual 1"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 8"  {"Single Substitution lookup 8 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 9"  {"Single Substitution lookup 9 subtable"  } []
-Lookup: 6 0 0 "CCMP_stacking1"  {"CCMP_stacking1 subtable"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "CCMP_stacking1"  {"CCMP_stacking1 subtable"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 11"  {"Single Substitution lookup 11 subtable"  } []
-Lookup: 6 0 0 "CCMP_stacking2"  {"CCMP_stacking2 subtable"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "CCMP_stacking2"  {"CCMP_stacking2 subtable"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 13"  {"Single Substitution lookup 13 subtable"  } []
-Lookup: 2 0 0 "CCMP_Precomp"  {"CCMP_Precomp subtable"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "cyrillic_DLLj"  {"cyrillic_DLLj subtable"  } ['ss01' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "historic_u"  {"historic_u contextual 0"  "historic_u contextual 1"  "historic_u contextual 2"  "historic_u contextual 3"  } ['ss02' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 2 0 0 "CCMP_Precomp"  {"CCMP_Precomp subtable"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "cyrillic_DLLj"  {"cyrillic_DLLj subtable"  } ['ss01' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "historic_u"  {"historic_u contextual 0"  "historic_u contextual 1"  "historic_u contextual 2"  "historic_u contextual 3"  } ['ss02' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 17"  {"Single Substitution lookup 17 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 18"  {"Single Substitution lookup 18 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 19"  {"Single Substitution lookup 19 subtable"  } []
-Lookup: 1 0 0 "ss03"  {"ss03 subtable"  } ['ss03' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "longs_replacement"  {"longs_replacement subtable"  } ['cv01' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "ss03"  {"ss03 subtable"  } ['ss03' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "longs_replacement"  {"longs_replacement subtable"  } ['cv01' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 22"  {"Single Substitution lookup 22 subtable"  } []
-Lookup: 1 0 0 "at_alternates"  {"at_alternates subtable"  } ['cv02' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "historic_j"  {"historic_j subtable"  } ['cv03' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "ampersand_alt"  {"ampersand_alt subtable"  } ['cv04' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 3 0 0 "v_alternates"  {"v_alternates subtable"  } ['cv05' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "cool"  {"cool subtable"  } ['cool' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "subs"  {"subs subtable" ("inferior" ) } ['dnom' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) 'subs' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "ordn"  {"ordn subtable"  } ['numr' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) 'ordn' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "sinf"  {"sinf subtable"  } ['sinf' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "sups"  {"sups subtable" ("superior" ) } ['sups' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "frac_slash"  {"frac_slash subtable"  } ['frac' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "frac"  {"frac contextual 0"  "frac contextual 1"  } ['frac' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "at_alternates"  {"at_alternates subtable"  } ['cv02' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "historic_j"  {"historic_j subtable"  } ['cv03' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "ampersand_alt"  {"ampersand_alt subtable"  } ['cv04' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 3 0 0 "v_alternates"  {"v_alternates subtable"  } ['cv05' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "cool"  {"cool subtable"  } ['cool' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "subs"  {"subs subtable" ("inferior" ) } ['dnom' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) 'subs' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "ordn"  {"ordn subtable"  } ['numr' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) 'ordn' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "sinf"  {"sinf subtable"  } ['sinf' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "sups"  {"sups subtable" ("superior" ) } ['sups' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "frac_slash"  {"frac_slash subtable"  } ['frac' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "frac"  {"frac contextual 0"  "frac contextual 1"  } ['frac' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 34"  {"Single Substitution lookup 34 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 35"  {"Single Substitution lookup 35 subtable"  } []
-Lookup: 1 0 0 "'lnum' Lining Figures lookup 36"  {"'lnum' Lining Figures lookup 36 subtable"  } ['lnum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'onum' Minuskelziffern lookup 37"  {"'onum' Minuskelziffern lookup 37 subtable" ("oldstyle" ) } ['onum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 38"  {"'tnum' Tabular Numbers lookup 38 subtable"  } ['tnum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'pnum' Proportionalziffern lookup 39"  {"'pnum' Proportionalziffern lookup 39 subtable"  } ['pnum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "Smallcaps"  {"Smallcaps subtable"  } ['smcp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "c2sc"  {"c2sc subtable"  } ['c2sc' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' optionale Ligaturen lookup 42"  {"'dlig' optionale Ligaturen lookup 42 subtable"  } ['dlig' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 1 "liga_standard"  {"liga_standard subtable"  } ['liga' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "liga_final_s"  {"liga_final_s contextual 0"  "liga_final_s contextual 1"  "liga_final_s contextual 2"  "liga_final_s contextual 3"  "liga_final_s contextual 4"  } ['hlig' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'lnum' Lining Figures lookup 36"  {"'lnum' Lining Figures lookup 36 subtable"  } ['lnum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'onum' Minuskelziffern lookup 37"  {"'onum' Minuskelziffern lookup 37 subtable" ("oldstyle" ) } ['onum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 38"  {"'tnum' Tabular Numbers lookup 38 subtable"  } ['tnum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'pnum' Proportionalziffern lookup 39"  {"'pnum' Proportionalziffern lookup 39 subtable"  } ['pnum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Smallcaps"  {"Smallcaps subtable"  } ['smcp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "c2sc"  {"c2sc subtable"  } ['c2sc' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "'dlig' optionale Ligaturen lookup 42"  {"'dlig' optionale Ligaturen lookup 42 subtable"  } ['dlig' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 1 "liga_standard"  {"liga_standard subtable"  } ['liga' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "liga_final_s"  {"liga_final_s contextual 0"  "liga_final_s contextual 1"  "liga_final_s contextual 2"  "liga_final_s contextual 3"  "liga_final_s contextual 4"  } ['hlig' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 45"  {"Ligature Substitution lookup 45 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 46"  {"Ligature Substitution lookup 46 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 47"  {"Ligature Substitution lookup 47 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 48"  {"Ligature Substitution lookup 48 subtable"  } []
-Lookup: 6 0 0 "Q_longtail"  {"Q_longtail contextual 0"  "Q_longtail contextual 1"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "Q_longtail"  {"Q_longtail contextual 0"  "Q_longtail contextual 1"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 50"  {"Single Substitution lookup 50 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 51"  {"Single Substitution lookup 51 subtable"  } []
-Lookup: 6 0 0 "f_short"  {"f_short contextual 0"  "f_short contextual 1"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "f_short"  {"f_short contextual 0"  "f_short contextual 1"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 53"  {"Single Substitution lookup 53 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 54"  {"Single Substitution lookup 54 subtable"  } []
-Lookup: 6 0 0 "caltLAT"  {"caltLAT subtable"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "caltLAT"  {"caltLAT subtable"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 56"  {"Single Substitution lookup 56 subtable"  } []
-Lookup: 1 0 0 "Swash"  {"Swash subtable" ("swash" ) } ['swsh' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Swash"  {"Swash subtable" ("swash" ) } ['swsh' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 260 0 0 "mark"  {"mark anchor 0"  "mark anchor 1"  "mark anchor 2"  "mark anchor 3"  } ['mark' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 262 0 0 "mkmk"  {"mkmk subtable"  } ['mkmk' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 258 0 0 "kern"  {"kern subtable"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
@@ -291,12 +290,13 @@ ChainSub2: coverage "CCMP_contextual contextual 0"  0 0 0 1
 EndFPST
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2010,2011, Georg A. Duffner (<http://www.georgduffner.at/ebgaramond|g.duffner@gmail.com>),+AAoA-with Reserved Font Name EB Garamond.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or sinftituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1056 6 4
+WinInfo: 654 6 4
 BeginPrivate: 9
 BlueValues 55 [-22 0 268 287 400 430 450 464 616 630 650 664 700 705]
 OtherBlues 21 [-290 -285 -181 -167]

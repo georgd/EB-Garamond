@@ -1,5 +1,5 @@
 lookup cyrillic_DLLj {
-    sub [ uni0409 uni0414 uni041B uni0434 uni043B uni0459 ] by [ uni0409.alt uni0414.alt uni041B.alt uni0434.alt uni043B.alt uni0459.alt ];
+    sub [ uni0409 uni0414 uni041B ] by [ uni0409.alt uni0414.alt uni041B.alt ];
 } cyrillic_DLLj;
 
 feature ss01{

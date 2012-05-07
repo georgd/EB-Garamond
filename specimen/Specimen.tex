@@ -12,10 +12,11 @@ bulgarian,slovenian,vietnamese,greek%
 \usepackage{csquotes}
 \defaultfontfeatures{RawFeature={+calt,+clig,
 +tlig}}%,Numbers={Proportional,OldStyle}}
-\usepackage{libertine}
+%\usepackage{libertine}
 \setmainfont%
 {EB Garamond}
-%\setsansfont{Linux Biolinum O}
+%\setsansfont{Linux Biolinum}
+
 \usepackage{cmap}
 \usepackage{multicol}
 \usepackage{sectsty}
@@ -210,7 +211,7 @@ Johannes Gensfleisch zur Laden zum Gutenberg, 1397
 \paragraph*{Turkish, Azerbaijani, Crimtatar} correct replacement of i/ı as smallcaps etc.
 \paragraph*{Latin} replaces U by V, initial u by v and non-initial v by u: universalis → {\addfontfeature{Language=Latin} universalis}
 \paragraph*{Catalan} l + · are replaced by a l· ligature: {\addfontfeature{Language=Catalan}paral·lel}
-\paragraph*{Serbian} replaces б by \begin{serbian}б\end{serbian}
+\paragraph*{Serbian/Macedonian} replaces б by \begin{serbian}б\end{serbian} and italic \textit{б, д, г, п, т, ш, ѓ}} by \begin{serbian}\itshape б, д, г, п, т, ш, ѓ\end{serbian}}
 
 \subsection{Figures}
 This font is primarily intended for texts. Thus default figures are oldstyle proportional so they fit best in a text setting. For many purposes though, tabular (all figures have the same width) and/or lining figures (they are about caps height) are preferred. They can be accessed using the features \texttt{tnum} and \texttt{lnum}.
@@ -251,7 +252,7 @@ The feature \texttt{calt} (should be on by default) controls the behaviour of co
 The long tailed Q is managed by this feature too: Qui, Quis, Quo, \textsc{Shqipëria}, IRAQ, 
 
 \subsection{Swash}
-The italic font will have a full set of swash capitals, accessible via the \texttt{swsh}: \\\textit{\addfontfeature{RawFeature=+swsh}ABCDEFGHIJKLMNOPQRSTUVWXYZ}
+The italic font will have a full set of swash capitals, accessible via the \texttt{swsh}: \\\textit{\addfontfeature{RawFeature=+swsh}ABCDEFGHIJKLMNOPQQRSTUVWXYZ}
 
 \subsection{Character Variants and Stylistic Sets}
 There are alternate representations for some glyphs, accessible via Character Variants (\texttt{cv01–cv99}) and as Stylistic Sets (\texttt{ss01–ss20}):
@@ -279,7 +280,9 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 \paragraph*{cv91:} Alternate Variant for the Pilcrow in form of the old capitulum symbol: {\addfontfeature{RawFeature=+cv91}¶}
 
 \subsubsection{Cyrillic Variants}
-\paragraph*{ss01:} pointed variants of д, л and љ: {\addfontfeature{RawFeature=+ss01} д, л, љ}
+\paragraph*{ss01:} pointed variants of Д, Л, Љ, д, л and љ%(in italic uppercase only
+: {\addfontfeature{RawFeature=+ss01} Д, Л, Љ, д, л, љ%\textit{Д, Л, Љ}
+}
 
 \subsubsection{Greek Variants}
 Planned: alternate β, ε, θ, κ, π, ρ, σ, φ; alternate circumflex (inverted breve shape);
@@ -378,9 +381,11 @@ Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
 \Huge \char"E001 \char"B6 \char"E002}\\
 АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ\\
 абвгдежзийклмнопрстуфхцчшщъыьэюя\\
+\begin{serbian}{\addfontfeature{Language=Serbian,LetterSpace=10.0,RawFeature=+ss01}
+абвгдђежзијклљмнњопрстћуфхцчџш}\end{serbian}\\
 ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ\\
 αβγδεζηθικλμνξοπρστυφχψω
 \vfill
-\fontsize{12}{12}\scriptsize\textit{{\addfontfeature{RawFeature=+swsh}G}eorg Duffner | w{\addfontfeature{RawFeature=-calt}ww}.georgduffner.at/ebgaramond/ | g.duffner@gmail.com}
+\fontsize{12}{12}\scriptsize\textit{{\addfontfeature{RawFeature=+swsh}G}eorg Duffner | w{\addfontfeature{RawFeature=-calt}ww}.georgduffner.at/ebgaramond | g.duffner@gmail.com}
 \end{center}
 \end{document}

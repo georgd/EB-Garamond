@@ -1,13 +1,13 @@
 
 StartChar: uni27EB
-Encoding: 1784 10219 2731
+Encoding: 10219 10219 2731
 Width: 454
 VWidth: 0
 Flags: W
-HStem: 685 20G<77.5 87 216.5 226>
+HStem: 685 20<77.5 87 216.5 226>
 VStem: 58 41<-213.328 -152.189 629.498 704.422> 197 41<-213.328 -152.189 629.498 704.422>
 LayerCount: 3
-Fore
+Back
 SplineSet
 206 664 m 4
  205 667 202 681 202 683 c 4
@@ -38,4 +38,8 @@ SplineSet
  222 219 221 221 219 227 c 0
  175 336 127 460 67 664 c 0
 EndSplineSet
+Fore
+Refer: 2730 10217 N 1 0 0 1 139 0 2
+Refer: 2730 10217 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar

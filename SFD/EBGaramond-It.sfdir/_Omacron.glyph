@@ -3,12 +3,13 @@ StartChar: Omacron
 Encoding: 332 332 241
 Width: 712
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 35<264.006 414.248> 628 36<391.576 555.605> 724 54<364.529 656.155>
 VStem: 89 82<128.393 340.569> 360.904 300<726.522 777.788> 642 82<325.945 533.828>
 LayerCount: 2
 Fore
-Refer: 2091 -1 N 1 0 0 1 355.904 1 2
+Refer: 2090 -1 N 1 0 0 1 355.904 1 2
 Refer: 46 79 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "c2sc subtable" Omacron.sc
 EndChar

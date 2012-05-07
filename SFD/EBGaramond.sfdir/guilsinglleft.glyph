@@ -1,10 +1,10 @@
 
 StartChar: guilsinglleft
-Encoding: 1563 8249 118
+Encoding: 8249 8249 118
 Width: 464
 VWidth: 0
-Flags: HW
-HStem: 380 20G<351 360>
+Flags: W
+HStem: 380 20G<352.106 360>
 VStem: 100 262
 LayerCount: 3
 Fore
@@ -24,4 +24,5 @@ SplineSet
  364 386 362 381 359 376 c 0
  303 291 251 251 207 217 c 4
 EndSplineSet
+Validated: 524289
 EndChar
