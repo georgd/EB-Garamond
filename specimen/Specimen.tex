@@ -1,6 +1,6 @@
-\documentclass[pagesize,11.5pt,DIV14]{scrartcl}
+\documentclass[pagesize,DIV14]{scrartcl}
 \usepackage{fontspec}
-\usepackage{microtype}
+%\usepackage{microtype}
 \usepackage{xltxtra}
 \usepackage[babelshorthands]{polyglossia}
 \setdefaultlanguage{english}
@@ -12,12 +12,9 @@ bulgarian,slovenian,vietnamese,greek%
 \usepackage{csquotes}
 \defaultfontfeatures{RawFeature={+calt,+clig,
 +tlig}}%,Numbers={Proportional,OldStyle}}
-%\usepackage{libertine}
-\setmainfont%
-{EB Garamond}
-%\setsansfont{Linux Biolinum}
 
-\usepackage{cmap}
+\setmainfont{EB Garamond}
+
 \usepackage{multicol}
 \usepackage{sectsty}
 \allsectionsfont{\rmfamily}
@@ -211,7 +208,7 @@ Johannes Gensfleisch zur Laden zum Gutenberg, 1397
 \paragraph*{Turkish, Azerbaijani, Crimtatar} correct replacement of i/ı as smallcaps etc.
 \paragraph*{Latin} replaces U by V, initial u by v and non-initial v by u: universalis → {\addfontfeature{Language=Latin} universalis}
 \paragraph*{Catalan} l + · are replaced by a l· ligature: {\addfontfeature{Language=Catalan}paral·lel}
-\paragraph*{Serbian/Macedonian} replaces б by \begin{serbian}б\end{serbian} and italic \textit{б, д, г, п, т, ш, ѓ}} by \begin{serbian}\itshape б, д, г, п, т, ш, ѓ\end{serbian}}
+\paragraph*{Serbian/Macedonian} replaces б by \begin{serbian}б\end{serbian} and italic \textit{б, д, г, п, т, ш, ѓ} by \begin{serbian}\itshape б, д, г, п, т, ш, ѓ\end{serbian}
 
 \subsection{Figures}
 This font is primarily intended for texts. Thus default figures are oldstyle proportional so they fit best in a text setting. For many purposes though, tabular (all figures have the same width) and/or lining figures (they are about caps height) are preferred. They can be accessed using the features \texttt{tnum} and \texttt{lnum}.
@@ -272,6 +269,7 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 \paragraph*{cv05:} Alternate forms of v (only italic): 
 \textit{v → {\addfontfeature{RawFeature=+cv05:1}v}}, \textit{\addfontfeature{RawFeature=+cv05:2}v}, \textit{\addfontfeature{RawFeature=+cv05:3}v}
 
+\paragraph*{cv06:} Alternate forms of guillemets (narrower): « ‹ › » → {\addfontfeature{RawFeature=+cv06}« ‹ › »}
 
 \paragraph*{cv11:} Variants for the numeral one: some publishers prefer a numeral one that’s clearly different from small cap i: \textsc{i123} vs. {\addfontfeature{RawFeature={+cv11,+smcp}}i123}
 
@@ -286,6 +284,9 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 
 \subsubsection{Greek Variants}
 Planned: alternate β, ε, θ, κ, π, ρ, σ, φ; alternate circumflex (inverted breve shape);
+
+\subsubsection{IPA Variants}
+\paragraph*{ss06:} variants of greek letters that fit better to the other (latin) letters used in IPA: β → {\addfontfeature{RawFeature=+ss06}β}
 
 \clearpage
 \section{Glyphs}
