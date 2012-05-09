@@ -46,6 +46,14 @@ lookup historic_apostrophe {
     sub quoteright' @NO_ASC by quoteright.01;
 } historic_apostrophe;
 
+lookup guillemet_var {
+    sub [ guilsinglleft guilsinglright guillemotleft guillemotright ] by [ guilsinglleft.alt guilsinglright.alt guillemotleft.alt guillemotright.alt ];
+} guillemet_var;
+
+feature cv06 {
+    lookup guillemet_var;
+} cv06;
+
 feature ss05 {
     lookup historic_apostrophe;
 } ss05;
@@ -75,3 +83,11 @@ lookup pilcrow_variants {
 feature cv91 {
     lookup pilcrow_variants;
 } cv91;
+
+lookup ipa_variants {
+    sub [ beta ] by [ beta.ipa ];
+} ipa_variants;
+
+feature ss06 {
+    lookup ipa_variants;
+} ss06;
