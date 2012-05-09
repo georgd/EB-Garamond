@@ -1,0 +1,18 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn DEU ;
+languagesystem latn TRK ;
+languagesystem latn AZE ;
+languagesystem latn CRT ;
+languagesystem latn CAT ;
+languagesystem latn LAT ;
+
+include (SC/classes.fea)
+#include (SC/mark.fea)
+#include (SC/mkmk.fea)
+include (SC/kern.fea)
+include (SC/GSUBs.fea)
+#include (Regular/case.fea)
+

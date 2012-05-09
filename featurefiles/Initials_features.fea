@@ -1,0 +1,21 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem cyrl SRB ;
+languagesystem cyrl MKD ;
+languagesystem cyrl BGR ;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn DEU ;
+languagesystem latn TRK ;
+languagesystem latn AZE ;
+languagesystem latn CRT ;
+languagesystem latn CAT ;
+languagesystem latn LAT ;
+
+lookup ss01 {
+    sub G by G.threeline;
+    } ss01;
+
+feature ss01 {
+    lookup ss01;
+    } ss01;
