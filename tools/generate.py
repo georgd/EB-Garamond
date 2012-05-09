@@ -9,13 +9,16 @@
 import fontforge
 import psMat
 import os
+import sys
+import getopt
 import unicodedata as ucd
 from fontTools.ttLib import TTFont
 
 name = 'EBGaramond'
-styles = ['', '-It','SC','AllSC','-Bold','Initials']
+styles = ['Regular', 'Italic','SC','AllSC','Bold','Initials']
 source = 'SFD'
 build = 'build'
+feafiles = 'featurefiles'
 
 #def getHeights(font):
     # ymax + ymin, using the later as an overshoot
@@ -24,7 +27,20 @@ build = 'build'
 
 #    return int(xHeight), int(cHeight)
 
+def mergeGpos(font):
+    """ Clean GPOS lookups and merge them from the feature files """
+    for lookup in font.gpos_lookups:
+        font.removeLookup(lookup)
+    
+    font.mergeFeature('%s/%s_GPOS.fea' %(feafiles, style))
+
 def generate(font, extension):
+    """ Clean GSUB lookups and merge them from the feature files """
+    for lookup in font.gsub_lookups:
+        font.removeLookup(lookup)
+    
+    font.mergeFeature('%s/%s_features.fea' %(feafiles, style))
+
     font.selection.all()
     font.autoHint()
 
@@ -44,9 +60,47 @@ def generate(font, extension):
     tmp_font.close()
     os.remove(tmp_path)
     
+def usage(extramessage, code):
+    if extramessage:
+        print extramessage
 
-for style in styles:
-    f = fontforge.open('%s/%s%s.sfdir' %(source, name, style))
- 
-    generate(f, 'otf')
-    generate(f, 'ttf')
+    message = """Usage: %s OPTIONS...
+
+Options:
+  --withgpos		merge gpos featurefiles
+
+  -h, --help            print this message and exit
+""" % os.path.basename(sys.argv[0])
+
+    print message
+    sys.exit(code)
+    
+if __name__ == "__main__":
+    try:
+        opts, args = getopt.gnu_getopt(sys.argv[1:],
+                "h",
+                ["help","withgpos"])
+    except getopt.GetoptError, err:
+        usage(str(err), -1)
+
+    withgpos = False
+
+    for opt, arg in opts:
+        if opt in ("-h", "--help"):
+            usage("", 0)
+        elif opt == "--withgpos": withgpos = True
+        
+    if not withgpos:
+        for style in styles:
+    	    f = fontforge.open('%s/%s-%s.sfdir' %(source, name, style))
+
+    	    generate(f, 'otf')
+    	    generate(f, 'ttf')
+    	    
+    else:
+        for style in styles:
+    	    f = fontforge.open('%s/%s-%s.sfdir' %(source, name, style))
+
+    	    mergeGpos(f)
+    	    generate(f, 'otf')
+    	    generate(f, 'ttf')
