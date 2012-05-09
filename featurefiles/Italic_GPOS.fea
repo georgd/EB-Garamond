@@ -17,6 +17,6 @@ languagesystem latn LAT ;
 
 
 include (Italic/classes.fea)
+include (Italic/kern.fea)
 include (Italic/mark.fea)
 include (Italic/mkmk.fea)
-include (Italic/kern.fea)

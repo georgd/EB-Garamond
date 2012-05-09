@@ -17,7 +17,7 @@ languagesystem latn LAT ;
 
 
 include (Regular/classes.fea)
+include (Regular/kern.fea)
 include (Regular/mark.fea)
 include (Regular/mkmk.fea)
-include (Regular/kern.fea)
 
