@@ -3,7 +3,7 @@ StartChar: Ncaron
 Encoding: 327 327 239
 Width: 819
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 35<18.709 105.045 194.863 280.591> 620 38<148.181 250.623 687 693 855.214 950.99> 724 133
 LayerCount: 2
 Fore
@@ -22,6 +22,5 @@ SplineSet
  213.614257812 786 211.614257812 786 223.614257812 793 c 4
 EndSplineSet
 Refer: 28 78 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "c2sc subtable" Ncaron.sc
 EndChar

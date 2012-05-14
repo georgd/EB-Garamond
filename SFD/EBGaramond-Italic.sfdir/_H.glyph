@@ -6,7 +6,7 @@ VWidth: 0
 Flags: W
 HStem: -5 29<20.7629 97.2328 228.292 284.641 451.763 527.694 644.559 700.641> 302 48<288.912 631> 622 31<221.487 277.532 388.255 467.785 648.487 705.031 817.674 892.785>
 AnchorPoint: "below_accent" 400 -100 basechar 0
-AnchorPoint: "top_accent" 383 700 basechar 0
+AnchorPoint: "top_accent" 578 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -56,7 +56,6 @@ SplineSet
  808 613 799 590 787 552 c 2
  648 100 l 2
 EndSplineSet
-Validated: 33
 Substitution2: "Swash subtable" H.sw
 Substitution2: "c2sc subtable" H.sc
 Substitution2: "sups subtable" H.sups

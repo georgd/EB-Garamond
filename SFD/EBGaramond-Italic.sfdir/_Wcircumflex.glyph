@@ -3,7 +3,7 @@ StartChar: Wcircumflex
 Encoding: 372 372 277
 Width: 976
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 620 36<84.3975 158.098 268.913 343.625 454.397 527.823 649.703 730.294 860.17 912.796 1019.19 1100.29> 725 132
 LayerCount: 2
 Fore
@@ -22,6 +22,5 @@ SplineSet
  682.626953125 765 666.626953125 773 646.626953125 788 c 0
 EndSplineSet
 Refer: 38 87 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "c2sc subtable" Wcircumflex.sc
 EndChar

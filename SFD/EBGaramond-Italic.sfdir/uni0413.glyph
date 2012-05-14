@@ -3,15 +3,12 @@ StartChar: uni0413
 Encoding: 1043 1043 1087
 Width: 573
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 29<5.84375 90.7769 249.692 312.641> 618 32<218.007 283.946 386.337 609.242>
 VStem: 618 55<568.25 613.321>
-AnchorPoint: "cedilla" 322 8 basechar 0
-AnchorPoint: "ogonek" 450 18 basechar 0
-AnchorPoint: "below_accent" 280 -100 basechar 0
-AnchorPoint: "top_accent" 287 701 basechar 0
+AnchorPoint: "below_accent" 149 -101 basechar 0
+AnchorPoint: "top_accent" 483 701 basechar 0
 LayerCount: 2
 Fore
 Refer: 1081 915 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

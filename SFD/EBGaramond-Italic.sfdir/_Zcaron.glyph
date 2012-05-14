@@ -3,7 +3,7 @@ StartChar: Zcaron
 Encoding: 381 381 286
 Width: 636
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -2 38<148.553 503.874> 604 42<243.524 552.001>
 LayerCount: 2
 Fore
@@ -22,6 +22,5 @@ SplineSet
  277.44921875 786 275.44921875 786 287.44921875 793 c 4
 EndSplineSet
 Refer: 64 90 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "c2sc subtable" Zcaron.sc
 EndChar
