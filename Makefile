@@ -52,5 +52,8 @@ dist: $(OTF) $(TTF)
 	@cp Makefile README $(DIST)
 	@zip -r $(DIST).zip $(DIST)
 
+cleanpack:
+	@rm -rf $(PACK) $(PACK).zip
+
 clean:
 	@rm -rf $(OTF) $(TTF) $(PACK) $(PACK).zip $(DIST) $(DIST).zip
