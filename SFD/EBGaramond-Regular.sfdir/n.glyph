@@ -1,11 +1,12 @@
 
 StartChar: n
-Encoding: 110 110 6
+Encoding: 78 110 6
 Width: 527
 VWidth: 0
 Flags: W
 HStem: -3 27<24.9975 78.5549 171.03 225.003 304.056 357.97 450.03 504.003> 349 25<41.0133 72.6656> 365 49<236.974 340.865> 410 20G<159.5 161.5>
 VStem: 41 119<348.549 397.23> 90 70<31.1488 335.218> 369 70<31.1488 335.56>
+AnchorPoint: "top_left" 37.5 609 basechar 0
 AnchorPoint: "below_accent" 265 -100 basechar 0
 AnchorPoint: "top_accent" 258 550 basechar 0
 LayerCount: 3

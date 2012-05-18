@@ -1,11 +1,12 @@
 
 StartChar: uni0306.stack
-Encoding: 1114956 -1 2278
+Encoding: 2691 -1 2277
 Width: 0
 VWidth: 0
 Flags: W
 HStem: 461 50<105.914 229.917>
 VStem: 50 36<534.969 582.589> 250 34<536.959 582.787>
+AnchorPoint: "hookstack" 166 565 basemark 0
 AnchorPoint: "top_stack" 167 465 mark 0
 AnchorPoint: "acutestack" 172 566 basemark 0
 AnchorPoint: "gravestack" 161 566 basemark 0
@@ -19,7 +20,7 @@ SplineSet
  217 511 241 539 250 562 c 0
  253 571 259 583 269 583 c 0
  279 583 284 572 284 559 c 0
- 284 524 237 461 167 461 c 0
+ 284 524 237 461 167 461 c 4
  97 461 50 524 50 559 c 0
  50 572 55 583 65 583 c 0
  75 583 83 571 86 562 c 0

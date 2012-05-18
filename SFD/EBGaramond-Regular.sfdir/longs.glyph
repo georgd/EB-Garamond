@@ -1,6 +1,6 @@
 
 StartChar: longs
-Encoding: 383 383 19
+Encoding: 318 383 19
 Width: 261
 VWidth: 0
 Flags: W
@@ -1487,7 +1487,7 @@ SplineSet
  160 69 l 2
 EndSplineSet
 Fore
-Refer: 1128 -1 N 1 0 0 1 0 0 2
+Refer: 1127 -1 N 1 0 0 1 0 0 2
 Validated: 1
 Substitution2: "Single Substitution lookup 55 subtable" longs.short
 Substitution2: "Smallcaps subtable" s.sc

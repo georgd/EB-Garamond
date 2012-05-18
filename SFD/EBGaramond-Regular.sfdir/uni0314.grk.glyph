@@ -1,0 +1,24 @@
+
+StartChar: uni0314.grk
+Encoding: 2742 -1 2740
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 456 22<82.5918 115.869> 590 66<59.7975 123.392>
+VStem: 0 53<498.821 584.422>
+AnchorPoint: "grk_top" 136 550 mark 0
+LayerCount: 3
+Fore
+SplineSet
+90 590 m 0
+ 70 589 53 568 53 544 c 0
+ 53 513 73 488 102 478 c 0
+ 111 475 116 470 116 466 c 0
+ 116 461 110 456 98 456 c 0
+ 59 456 0 497 0 561 c 0
+ 0 617 31 656 79 656 c 0
+ 108 656 126 640 126 624 c 0
+ 126 602 109 591 90 590 c 0
+EndSplineSet
+Validated: 1
+EndChar

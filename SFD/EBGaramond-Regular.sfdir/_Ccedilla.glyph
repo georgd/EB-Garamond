@@ -1,6 +1,6 @@
 
 StartChar: Ccedilla
-Encoding: 199 199 135
+Encoding: 134 199 135
 Width: 640
 VWidth: 0
 Flags: W
@@ -50,7 +50,7 @@ SplineSet
  50 507 214 663 410 663 c 0
 EndSplineSet
 Fore
-Refer: 1077 -1 S 1 0 0 1 299 0 2
+Refer: 1076 -1 S 1 0 0 1 299 0 2
 Refer: 32 67 S 1 0 0 1 0 0 3
 Validated: 5
 Substitution2: "c2sc subtable" Ccedilla.sc

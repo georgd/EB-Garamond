@@ -1,11 +1,12 @@
 
 StartChar: l
-Encoding: 108 108 2
+Encoding: 76 108 2
 Width: 240
 VWidth: 0
 Flags: W
 HStem: -3 27<20.0556 73.9702 166.03 219.944> 685 20G<155.5 157.5>
 VStem: 85 70<31.1488 627.687>
+AnchorPoint: "top_right" 222 660 basechar 0
 AnchorPoint: "below_accent" 120 -100 basechar 0
 AnchorPoint: "top_accent" 107 782 basechar 0
 LayerCount: 3
@@ -22,7 +23,7 @@ SplineSet
  62 30 85 35 85 62 c 2
  85 566 l 2
  85 605 72 632 39 639 c 0
- 34 640 31 646 31 652 c 4
+ 34 640 31 646 31 652 c 0
  31 658 34 663 38 664 c 0
  89 676 122 692 154 704 c 0
  155 704 155 705 156 705 c 0

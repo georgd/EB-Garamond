@@ -1,13 +1,12 @@
 
 StartChar: lcaron
-Encoding: 318 318 231
-Width: 246
+Encoding: 253 318 231
+Width: 240
 VWidth: 0
-Flags: W
-HStem: -3 27<20.0556 73.9702 166.03 219.944> 685 20G<155.5 157.5 234.5 251>
-VStem: 85 70<31.1488 627.687> 194 67<574.802 694.402>
+HStem: -3 27<20.0556 73.9702 166.03 219.944> 512 193<203.878 220.467> 685 20<155.5 157.5>
+VStem: 85 70<31.1488 627.687> 194 61<564.557 694.402>
 LayerCount: 3
-Fore
+Back
 SplineSet
 192 657 m 0
  192 683 224 705 245 705 c 0
@@ -20,6 +19,9 @@ SplineSet
  197 601 192 624 192 657 c 0
 EndSplineSet
 Refer: 2 108 N 1 0 0 1 0 0 2
+Fore
+Refer: 986 -1 N 1 0 0 1 187 0 2
+Refer: 2 108 N 1 0 0 1 0 0 3
 Validated: 1
 Substitution2: "Smallcaps subtable" lcaron.sc
 EndChar

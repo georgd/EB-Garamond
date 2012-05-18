@@ -1,23 +1,23 @@
 
 StartChar: tonos
-Encoding: 900 900 2458
+Encoding: 741 900 2454
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 456 207<23 72>
-VStem: 14 102
-AnchorPoint: "grk_uc_top" 77 578 mark 0
+HStem: 456 207
+VStem: 14 104
 AnchorPoint: "grk_top" 30 510.1 mark 0
+AnchorPoint: "grk_uc_top" 77 578 mark 0
 LayerCount: 3
 Fore
 SplineSet
 47 478 m 0
- 40.98 467.573054138 31 456 23 456 c 0
+ 40.9805 467.573 31 456 23 456 c 0
  14 456 14 460 14 469 c 0
- 14 487 38 610.099609375 47 645 c 0
- 49.912109375 656.291992188 64 663 72 663 c 0
- 91 663 116 638 116 622 c 0
- 116 612 67.565 513.619624858 47 478 c 0
+ 14 487 44.8018 609.433 55 645 c 0
+ 58.3076 656.535 72 663 80 663 c 0
+ 99 663 118 638 118 622 c 0
+ 118 612 67.5654 513.62 47 478 c 0
 EndSplineSet
 Validated: 1
 EndChar

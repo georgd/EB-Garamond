@@ -1,25 +1,27 @@
 
 StartChar: uni0342
-Encoding: 834 834 2290
+Encoding: 728 834 2289
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 453 21G<35 44> 483 66<106.697 244.916> 490 67<78.2107 213.803>
+HStem: 465 58<135.064 258.001> 489 59<70.3819 191.92>
 VStem: 26 268
-AnchorPoint: "top_stack" 148 644 basemark 0
+AnchorPoint: "top_stack" 152 450 mark 0
+AnchorPoint: "grk_top" 152 507 mark 0
+AnchorPoint: "top_stack" 152 644 basemark 0
 AnchorPoint: "top_accent" 152 533 mark 0
 LayerCount: 3
 Fore
 SplineSet
-40 453 m 0xb0
- 30 453 26 463 26 473 c 0
- 26 483 89 557 114 557 c 0xb0
- 139 557 196 549 221 549 c 0
- 256 549 270 583 278 583 c 0
- 288 583 294 576 294 566 c 0
- 294 556 234 483 209 483 c 0xd0
- 184 483 122 490 97 490 c 0
- 72 490 48 453 40 453 c 0xb0
+40 448 m 4x60
+ 30 448 26 453 26 463 c 4
+ 26 473 71 548 114 548 c 4x60
+ 139 548 196 523 221 523 c 4
+ 250 523 270 549 278 549 c 4
+ 288 549 294 542 294 532 c 4
+ 294 522 251 465 209 465 c 4xa0
+ 184 465 126 489 101 489 c 4
+ 77 489 48 448 40 448 c 4x60
 EndSplineSet
 Validated: 1048577
 EndChar

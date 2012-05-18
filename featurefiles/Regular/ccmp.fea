@@ -11,12 +11,7 @@ lookup CCMP_stacking2 {
     sub [ uni0302.stack ] [acutecomb gravecomb]' by [acutecomb.stack gravecomb.stack];
 } CCMP_stacking2;
 
-lookup CCMP_Precomp {
-    sub \uni1EA5 by \a \uni0302.stack \acutecomb.stack;
-    sub \uni1EA7 by \a \uni0302.stack \gravecomb.stack;
-    sub \uni1EAB by \a \uni0302.stack \tildecomb.stack;
-} CCMP_Precomp;
-
+include (ccmpcomp.fea)
 
 feature ccmp {
   lookup CCMP_contextual;
