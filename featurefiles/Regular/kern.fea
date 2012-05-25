@@ -1,18 +1,3 @@
-languagesystem DFLT dflt;
-languagesystem cyrl dflt;
-languagesystem cyrl SRB ;
-languagesystem cyrl MKD ;
-languagesystem cyrl BGR ;
-languagesystem grek dflt;
-languagesystem latn dflt;
-languagesystem latn DEU ;
-languagesystem latn TRK ;
-languagesystem latn AZE ;
-languagesystem latn CRT ;
-languagesystem latn CAT ;
-languagesystem latn LAT ;
-
-
 ## Latin ##
 
 @LeftKern_A = [ A ];
@@ -36,6 +21,7 @@ languagesystem latn LAT ;
 @RightKern_O = [ O ];
 @RightKern_T = [ T ];
 @RightKern_V = [ V W Y ];
+@RightKern_f = [ f f_f f.long f.DEU f_f.long ];
 @RightKern_m = [ h m n ];
 @RightKern_o = [ ae b c e o oe p thorn ];
 @RightKern_v = [ v w y ];
@@ -67,6 +53,7 @@ languagesystem latn LAT ;
 lookup kern {
     pos f @LeftKern_HighAscAfter_longf 70;
 
+    pos @RightKern_f @LeftKern_o -45;
     pos @RightKern_m @LeftKern_v -16;
 #    pos s o 20;
 #    pos s a 12;

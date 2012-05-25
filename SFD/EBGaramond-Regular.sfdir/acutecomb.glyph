@@ -1,6 +1,6 @@
 
 StartChar: acutecomb
-Encoding: 769 769 2748
+Encoding: 769 769 2747
 Width: 0
 VWidth: 0
 HStem: 456 193
@@ -18,4 +18,6 @@ SplineSet
  171 612 84 511 53 478 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "Single Substitution lookup 13 subtable" acutecomb.stack
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" acutecomb.cap
 EndChar

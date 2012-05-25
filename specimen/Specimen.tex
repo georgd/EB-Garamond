@@ -11,7 +11,7 @@ bulgarian,slovenian,vietnamese,greek%
 }
 \usepackage{csquotes}
 \defaultfontfeatures{RawFeature={+calt,+clig,
-+tlig}}%,Numbers={Proportional,OldStyle}}
++tlig,-ccmp,+mkmk}}%,Numbers={Proportional,OldStyle}}
 
 \setmainfont{EB Garamond}
 
@@ -188,7 +188,7 @@ Johannes Gensfleisch zur Laden zum Gutenberg, 1397
 \\
 {\scriptsize Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια}
 \end{greek}\\
-\begin{greek}[variant=ancient]
+\begin{greek}[variant=ancient]\addfontfeature{RawFeature=+cv80}
     Μῆνιν ἄειδε, θεά, Πηληϊάδεω Ἀχιλῆος
     οὐλομένην, ἣ μυρί' Ἀχαιοῖς ἄλγε' ἔθηκε,
     πολλὰς δ' ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν

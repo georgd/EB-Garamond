@@ -1,13 +1,13 @@
 
 StartChar: f.short
-Encoding: 1114999 -1 2716
+Encoding: 1114999 -1 2715
 Width: 318
 VWidth: 0
 Flags: W
 HStem: -3 27<26.0556 76.2193 176.575 225.944> 352 48<161 291.239> 352 24<27.8243 64.8123> 665 41<191.243 259.994>
 VStem: 91 70<33.0094 350 400.148 588.309>
-AnchorPoint: "top_accent" 225 805 basechar 0
 AnchorPoint: "below_accent" 134 -100 basechar 0
+AnchorPoint: "top_accent" 225 805 basechar 0
 LayerCount: 3
 Fore
 SplineSet

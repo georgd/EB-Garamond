@@ -1,12 +1,13 @@
 
-StartChar: acutecomb.grk.cap
+StartChar: acutecomb.cap
 Encoding: 1114119 -1 984
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 697 153
+HStem: 685 153
 VStem: 6 167
-AnchorPoint: "top_accent" 44 700 mark 0
+AnchorPoint: "top_stack" 52 710 mark 0
+AnchorPoint: "top_accent" 44 710 mark 0
 LayerCount: 3
 Back
 SplineSet
@@ -33,15 +34,15 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-12 697 m 0
- 8 697 6 700 6 703 c 0
- 6 707 8 713 11 718 c 0
- 35 758 61 798 88 837 c 0
- 95 847 104 850 115 850 c 0
- 129 850 173 841 173 827 c 0
- 173 820 169 816 160 808 c 0
- 120 774 70 736 30 706 c 0
- 21 699 15 697 12 697 c 0
+12 685 m 0
+ 8 685 6 688 6 691 c 0
+ 6 695 8 701 11 706 c 0
+ 35 746 61 786 88 825 c 0
+ 95 835 104 838 115 838 c 0
+ 129 838 173 829 173 815 c 0
+ 173 808 169 804 160 796 c 0
+ 120 762 70 724 30 694 c 0
+ 21 687 15 685 12 685 c 0
 EndSplineSet
 Validated: 1
 Layer: 2

@@ -6,9 +6,10 @@ VWidth: 0
 Flags: W
 HStem: -5 40<220.001 480.636> -5 29<27.3563 94.228> 622 31<37.0745 116.488 238.822 330.926>
 VStem: 130 80<47.25 603.136> 541 34<139.048 159.894>
+AnchorPoint: "top_right" 492 624 basechar 0
 AnchorPoint: "cedilla" 183 8 basechar 0
 AnchorPoint: "below_accent" 314 -100 basechar 0
-AnchorPoint: "top_accent" 186 700 basechar 0
+AnchorPoint: "top_accent" 186 710 basechar 0
 LayerCount: 3
 Back
 Image: 183 253 2 549 0 ffffffff -106 779.335 4.36066 4.44796 0

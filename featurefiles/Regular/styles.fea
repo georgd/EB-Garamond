@@ -67,6 +67,14 @@ feature cv11 {
     lookup one_variants;
 } cv11;
 
+lookup perispomeni_alt {
+    sub uni0342 by uni0342.alt;
+} perispomeni_alt;
+
+feature cv80 {
+    lookup perispomeni_alt;
+} cv80;
+
 lookup floralhearts_variants {
     sub uni2619 by uni2619.01;
     sub uni2767 by uni2767.01;

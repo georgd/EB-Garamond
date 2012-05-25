@@ -1,25 +1,26 @@
 
 StartChar: uni0314.grkstack
-Encoding: 1115012 -1 2745
+Encoding: 1115012 -1 2744
 Width: 0
 VWidth: 0
 Flags: W
 HStem: 456 22<72.9489 109.869> 560 60<49.7094 117.831>
 VStem: 0 47<491.558 556.595>
-AnchorPoint: "grk_top" 65 550 mark 0
 AnchorPoint: "top_stack" 65 630 basemark 0
+AnchorPoint: "grk_uc_top_left" 135 665 mark 0
+AnchorPoint: "grk_top" 65 550 mark 0
 LayerCount: 3
 Fore
 SplineSet
-84 560 m 4
- 64 559 47 546 47 526 c 4
- 47 503 67 488 96 478 c 4
- 105 475 110 470 110 466 c 4
- 110 461 104 456 92 456 c 4
- 53 456 0 492 0 547 c 4
- 0 588 33 620 73 620 c 4
- 102 620 120 610 120 594 c 4
- 120 572 103 561 84 560 c 4
+84 560 m 0
+ 64 559 47 546 47 526 c 0
+ 47 503 67 488 96 478 c 0
+ 105 475 110 470 110 466 c 0
+ 110 461 104 456 92 456 c 0
+ 53 456 0 492 0 547 c 0
+ 0 588 33 620 73 620 c 0
+ 102 620 120 610 120 594 c 0
+ 120 572 103 561 84 560 c 0
 EndSplineSet
 Validated: 1048577
 EndChar

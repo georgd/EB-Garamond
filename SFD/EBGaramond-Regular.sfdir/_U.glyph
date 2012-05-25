@@ -9,7 +9,7 @@ VStem: 103 80<153.613 606.064> 588 57<323.395 604.72> 592 43<161.769 455.301>
 AnchorPoint: "cedilla" 412 8 basechar 0
 AnchorPoint: "ogonek" 490 18 basechar 0
 AnchorPoint: "below_accent" 370 -100 basechar 0
-AnchorPoint: "top_accent" 390 700 basechar 0
+AnchorPoint: "top_accent" 390 710 basechar 0
 LayerCount: 3
 Back
 SplineSet
@@ -65,7 +65,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "c2sc subtable" U.sc
-Substitution2: "Single Substitution lookup 31 subtable" U.LAT
+Substitution2: "Single Substitution lookup 30 subtable" U.LAT
 Substitution2: "sups subtable" U.sups
 Substitution2: "sinf subtable" U.sinf
 Substitution2: "ordn subtable" U.ordn

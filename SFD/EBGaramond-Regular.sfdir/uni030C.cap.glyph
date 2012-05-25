@@ -4,9 +4,11 @@ Encoding: 1114115 -1 980
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 680 132
-VStem: 5 291<798 808>
-AnchorPoint: "top_accent" 151 680 mark 0
+HStem: 700 122
+VStem: 5 291<808 818>
+AnchorPoint: "top_stack" 151 850 basemark 0
+AnchorPoint: "top_stack" 151 720 mark 0
+AnchorPoint: "top_accent" 151 710 mark 0
 LayerCount: 3
 Back
 SplineSet
@@ -27,18 +29,18 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-20 812 m 0
- 33 812 115 772 141 757 c 0
- 150 752 152 752 161 757 c 0
- 187 772 269 813 282 813 c 0
- 291 813 296 808 296 802 c 0
- 296 798 295 794 290 790 c 2
- 192 702 l 2
- 173 685 166 680 151 680 c 0
- 136 680 129 685 110 702 c 2
- 12 790 l 2
- 7 794 5 798 5 802 c 0
- 5 808 11 812 20 812 c 0
+20 822 m 0
+ 33 822 115 782 141 767 c 0
+ 150 762 152 762 161 767 c 0
+ 187 782 269 823 282 823 c 0
+ 291 823 296 818 296 812 c 0
+ 296 808 294.935 804.079 290 800 c 2
+ 192 722 l 2
+ 172.052 706.123 166 700 151 700 c 0
+ 136 700 129.948 706.123 110 722 c 2
+ 12 800 l 2
+ 7.06543 804.079 5 808 5 812 c 0
+ 5 818 11 822 20 822 c 0
 EndSplineSet
-Validated: 1
+Validated: 1572865
 EndChar

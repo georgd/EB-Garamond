@@ -6,9 +6,12 @@ VWidth: 0
 Flags: W
 HStem: 474 100<24.7018 103.298 201.702 280.298>
 VStem: 14 100<484.702 563.298> 191 100<484.702 563.298>
-AnchorPoint: "top_stack" 148 596 basemark 0
-AnchorPoint: "grk_top" 147 520 mark 0
+AnchorPoint: "top_stack" 148 474 mark 0
+AnchorPoint: "top_stack" 148 636 basemark 0
+AnchorPoint: "acutestack" 152 570 basemark 0
+AnchorPoint: "gravestack" 143 570 basemark 0
 AnchorPoint: "top_accent" 148 531 mark 0
+AnchorPoint: "grk_top" 147 520 mark 0
 LayerCount: 3
 Fore
 SplineSet

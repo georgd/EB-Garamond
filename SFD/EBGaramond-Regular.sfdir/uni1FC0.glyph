@@ -6,11 +6,11 @@ VWidth: 0
 Flags: W
 HStem: 465 58<135.064 258.001> 489 59<70.3819 191.92>
 VStem: 26 268
-AnchorPoint: "top_accent" 152 533 mark 0
-AnchorPoint: "top_stack" 152 644 basemark 0
-AnchorPoint: "grk_top" 152 507 mark 0
 AnchorPoint: "top_stack" 152 450 mark 0
-AnchorPoint: "grk_uc_top" 215 578 mark 0
+AnchorPoint: "top_stack" 152 644 basemark 0
+AnchorPoint: "top_accent" 152 533 mark 0
+AnchorPoint: "grk_top" 152 507 mark 0
+AnchorPoint: "grk_uc_top_left" 215 514 mark 0
 LayerCount: 3
 Fore
 Refer: 2289 834 N 1 0 0 1 0 0 2

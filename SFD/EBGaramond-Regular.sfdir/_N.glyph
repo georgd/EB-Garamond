@@ -7,7 +7,7 @@ Flags: W
 HStem: -17 21G<635 646> -5 30<23.9331 84.1632 196 265.099> 620 38<2.28223 77.8053 542 559 674.647 759.991>
 VStem: 132 37<306.893 499.991> 621 43<136.004 599.75>
 AnchorPoint: "below_accent" 405 -100 basechar 0
-AnchorPoint: "top_accent" 411 700 basechar 0
+AnchorPoint: "top_accent" 411 710 basechar 0
 LayerCount: 3
 Back
 Image: 181 223 2 543 0 ffffffff -156 874 5.31517 5.30045 0
@@ -2069,7 +2069,7 @@ SplineSet
  530 647 542 650 559 650 c 2
  616 650 l 2x78
 EndSplineSet
-Validated: 1
+Validated: 524289
 Substitution2: "c2sc subtable" N.sc
 Substitution2: "sups subtable" N.sups
 Substitution2: "sinf subtable" N.sinf

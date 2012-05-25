@@ -8,7 +8,7 @@ HStem: -5 29<185.692 261.52 411.207 487.308> 604 38<106.512 292.507 378.395 603.
 VStem: 296 80<48.375 600.624> 619 35<517.175 586.637>
 AnchorPoint: "cedilla" 356 18 basechar 0
 AnchorPoint: "below_accent" 334 -100 basechar 0
-AnchorPoint: "top_accent" 341 700 basechar 0
+AnchorPoint: "top_accent" 341 710 basechar 0
 LayerCount: 3
 Back
 Image: 323 284 2 969 0 ffffffff -665 760 4.30747 4.30282 0
@@ -4669,7 +4669,7 @@ SplineSet
  381 604 376 599 376 558 c 6
  376 102 l 2
 EndSplineSet
-Validated: 1
+Validated: 524289
 Substitution2: "c2sc subtable" T.sc
 Substitution2: "sups subtable" T.sups
 Substitution2: "sinf subtable" T.sinf

@@ -6,11 +6,11 @@ VWidth: 0
 Flags: W
 HStem: 447 161
 VStem: 5 223<451 475>
-AnchorPoint: "hookstack" 222 576 basemark 0
 AnchorPoint: "top_stack" 116 447 mark 0
-AnchorPoint: "acutestack" 224 558 basemark 0
-AnchorPoint: "gravestack" 9 558 basemark 0
 AnchorPoint: "top_stack" 116 640 basemark 0
+AnchorPoint: "gravestack" 9 558 basemark 0
+AnchorPoint: "acutestack" 224 558 basemark 0
+AnchorPoint: "hookstack" 224 564 basemark 0
 AnchorPoint: "top_accent" 116 550 mark 0
 LayerCount: 3
 Fore
@@ -28,5 +28,5 @@ SplineSet
  124 526 l 2
  119 531 114 531 109 526 c 2
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar
