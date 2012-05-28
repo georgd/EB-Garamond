@@ -24,7 +24,7 @@ lookup liga_standard {
     sub longs longs i  by longs_longs_i;
     sub longs longs  by longs_longs;
     sub longs l  by longs_l;
-    sub T h  by T_h;
+#    sub T h  by T_h;
 #    sub c h  by c_h;
 #    sub c k  by c_k;
     sub longs s  by longs_s;
@@ -49,3 +49,11 @@ lookup liga_standard {
 feature liga {
     lookup liga_standard;
 } liga;
+
+lookup Th_lig {
+    sub T h  by T_h;
+} Th_lig;
+
+feature ss07 {
+    lookup Th_lig;
+} ss07;
