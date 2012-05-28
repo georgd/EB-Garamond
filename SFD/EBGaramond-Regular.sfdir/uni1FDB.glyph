@@ -1,13 +1,12 @@
 
 StartChar: uni1FDB
 Encoding: 8155 8155 960
-Width: 340
+Width: 419
 VWidth: 0
-HStem: -5 29<19.6924 97.1038 243.602 321.308> 491 207 622 31<31.0745 107.441 235.205 312.926>
-VStem: -99 104 130 80<46.75 604.158>
+Flags: H
 LayerCount: 3
 Fore
-Refer: 2746 -1 N 1 0 0 1 -113 35 2
-Refer: 634 921 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 2746 -1 N 1 0 0 1 -34 35 2
+Refer: 634 921 N 1 0 0 1 79 0 2
+MultipleSubs2: "CCMP_Precomp subtable" Iota acutecomb.grk
 EndChar

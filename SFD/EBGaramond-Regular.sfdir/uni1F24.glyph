@@ -3,12 +3,11 @@ StartChar: uni1F24
 Encoding: 7972 7972 2513
 Width: 460
 VWidth: 0
-HStem: -285 21<350.865 376> -14 21<114.19 126> 328 86<52.6485 111.948 285.903 347.103> 436 22<106.138 139.408> 436 207 570 66<98.6099 162.202>
-VStem: 122 35<194.539 316.607> 169 53<479.375 564.487> 241 104 300 92<-271.187 -131.76> 354 38<56.129 325.405>
+Flags: H
 LayerCount: 3
 Fore
-Refer: 2746 -1 N 1 0 0 1 227 -20 2
-Refer: 2738 -1 N 1 0 0 1 96 -20 2
+Refer: 2754 -1 N 1 0 0 1 227 -20 2
+Refer: 2738 -1 N 1 0 0 1 102 -20 2
 Refer: 2434 951 N 1 0 0 1 0 0 3
-Validated: 1
+MultipleSubs2: "CCMP_Precomp subtable" eta uni0313.grk acutecomb.grkstack
 EndChar

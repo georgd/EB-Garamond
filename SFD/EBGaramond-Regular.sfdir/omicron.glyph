@@ -4,9 +4,9 @@ Encoding: 959 959 2441
 Width: 400
 Flags: W
 HStem: -14 78<108.361 237.029> 334 80<161.471 283.517>
-VStem: 35 40<97.9084 241.074> 325 40<158.352 295.909>
+VStem: 35 40<97.9085 241.074> 325 40<158.352 295.909>
 AnchorPoint: "grk_bottom" 130 -147 basechar 0
-AnchorPoint: "grk_top" 202 530 basechar 0
+AnchorPoint: "grk_top" 198 530 basechar 0
 LayerCount: 3
 Back
 SplineSet
@@ -34,5 +34,4 @@ SplineSet
  75 111.264 106.264 64 155 64 c 0
  249.038 64 325 140.962 325 235 c 0
 EndSplineSet
-Validated: 1
 EndChar

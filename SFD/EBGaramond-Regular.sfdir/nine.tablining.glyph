@@ -4,7 +4,7 @@ Encoding: 1114180 -1 1114
 Width: 480
 VWidth: 0
 Flags: W
-HStem: -31 18<35.2724 91.9577> 304 53<172.63 260.77> 593 36<172.541 270.348>
+HStem: -31 18<35.2724 91.9576> 304 53<172.63 260.77> 593 36<172.541 270.348>
 VStem: 47 75<410.459 512.556> 360 85<272.016 485.838>
 LayerCount: 3
 Fore
@@ -28,6 +28,6 @@ SplineSet
  47 521 132 629 253 629 c 0
 EndSplineSet
 Validated: 1
-Substitution2: "'pnum' Proportionalziffern lookup 25 subtable" nine.lnum
-Substitution2: "'onum' Minuskelziffern lookup 23 subtable" nine.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" nine.lnum
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" nine.taboldstyle
 EndChar

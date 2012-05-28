@@ -3,12 +3,11 @@ StartChar: uni0231
 Encoding: 561 561 341
 Width: 495
 VWidth: 0
-HStem: -14 30<203.025 317.686> 383 31<177.889 291.342> 493 101<206.117 288.823> 639 50<119.104 373.469>
-VStem: 35 82<109.934 279.37> 116 260<640.429 688.814> 197 101<502.117 584.823> 378 82<111.572 289.08>
+Flags: H
 LayerCount: 3
 Fore
 Refer: 2276 -1 N 1 0 0 1 66 149 2
 Refer: 2278 -1 N 1 0 0 1 135 0 2
 Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
+MultipleSubs2: "CCMP_Precomp subtable" o uni0307.stack uni0304.stack
 EndChar

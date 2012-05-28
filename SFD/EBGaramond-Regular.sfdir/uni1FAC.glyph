@@ -1,15 +1,14 @@
 
 StartChar: uni1FAC
 Encoding: 8108 8108 2639
-Width: 830
+Width: 952
 VWidth: 0
-HStem: -226 62<423 490.666> 0 70<96.4899 277.223 548.08 733.384> 491 22<-137.862 -104.592> 491 207 625 66<-145.39 -81.7975> 631 33<338.707 479.931>
-VStem: -75 53<534.375 619.487> -3 104 100 100<238.683 455.811> 381 66<-163.987 -67.3407> 630 100<255.249 454.984>
+Flags: H
 LayerCount: 3
 Fore
-Refer: 2746 -1 N 1 0 0 1 -17 35 2
-Refer: 2738 -1 N 1 0 0 1 -148 35 2
-Refer: 2745 837 N 1 0 0 1 341 -4 2
-Refer: 1134 937 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 2754 -1 N 1 0 0 1 105 35 2
+Refer: 2738 -1 N 1 0 0 1 -20 35 2
+Refer: 2745 837 N 1 0 0 1 463 -4 2
+Refer: 1134 937 N 1 0 0 1 122 0 2
+MultipleSubs2: "CCMP_Precomp subtable" Omega uni0345 uni0313.grk acutecomb.grkstack
 EndChar

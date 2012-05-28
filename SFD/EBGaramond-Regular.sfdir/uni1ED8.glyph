@@ -3,12 +3,11 @@ StartChar: uni1ED8
 Encoding: 7896 7896 546
 Width: 763
 VWidth: 0
-HStem: -205 110<326.847 413.153> -14 39<309.694 487.027> 625 39<289.881 469.419> 681 127
-VStem: 45 97<219.261 444.186> 237 291<685 695> 315 110<-193.153 -106.847> 621 97<206.698 451.883>
+Flags: H
 LayerCount: 3
 Fore
 Refer: 981 -1 N 1 0 0 1 232 0 2
 Refer: 2324 -1 N 1 0 0 1 310 0 2
 Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
+MultipleSubs2: "CCMP_Precomp subtable" O uni0323.cap uni0302.cap
 EndChar

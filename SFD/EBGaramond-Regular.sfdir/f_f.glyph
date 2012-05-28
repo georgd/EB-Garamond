@@ -4,8 +4,8 @@ Encoding: 64256 64256 946
 Width: 579
 VWidth: 0
 Flags: W
-HStem: -3 27<19.0556 70.649 168.669 218.944 268.056 315.389 417.216 467.944> 352 24<20.3029 58.7006> 353 42<152.357 331.421 400.346 547.239> 624 39<205.845 316.089> 663 43<440.222 522.46>
-VStem: 87 65<34.0949 349.58 400.734 529.378> 332 68<34.0949 350.893 400.264 607.969>
+HStem: -3 27<19.0556 68.4246 169.575 218.944 277.056 326.425 427.575 476.944> 352 24<25.5614 57.7942> 352 48<154 341.419 412.078 557.239> 624 39<227.869 343.767> 665 41<478.821 595.573>
+VStem: 84 70<32.963 350 400.313 515.063> 342 70<32.963 350.864 400.264 542.928>
 LayerCount: 3
 Back
 Image: 268 332 2 804 0 ffffffff -126 763 3.44027 3.45181 0
@@ -4462,7 +4462,7 @@ EndImage
 Fore
 Refer: 1078 -1 N 1 0 0 1 0 0 2
 Validated: 1
-Substitution2: "Single Substitution lookup 54 subtable" f_f.short
+Substitution2: "Single Substitution lookup 63 subtable" f_f.short
 Ligature2: "liga_standard subtable" f.DEU f.DEU
 Ligature2: "liga_standard subtable" f f
 LCarets2: 1 249 

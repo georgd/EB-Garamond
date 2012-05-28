@@ -8,8 +8,8 @@ HStem: 456 207
 VStem: 14 104
 AnchorPoint: "grk_hstack" 5 640 mark 0
 AnchorPoint: "top_stack" 86 523 mark 0
-AnchorPoint: "grk_uc_top_left" 77 630 mark 0
 AnchorPoint: "grk_top" 76 510 mark 0
+AnchorPoint: "grk_uc_top_left" 77 630 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -22,4 +22,5 @@ SplineSet
  101 456 91 468 85 478 c 0
 EndSplineSet
 Validated: 1
+Position2: "Single Positioning lookup 3 subtable" dx=-20 dy=0 dh=0 dv=0
 EndChar

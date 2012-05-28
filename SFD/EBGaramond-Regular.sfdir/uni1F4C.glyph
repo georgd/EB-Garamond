@@ -1,14 +1,13 @@
 
 StartChar: uni1F4C
 Encoding: 8012 8012 2551
-Width: 763
+Width: 920
 VWidth: 0
-HStem: -14 39<309.694 487.027> 491 22<-177.862 -144.592> 491 207 625 39<289.881 469.419> 625 66<-185.39 -121.798>
-VStem: -115 53<534.375 619.487> -43 104 45 97<219.261 444.186> 621 97<206.698 451.883>
+Flags: H
 LayerCount: 3
 Fore
-Refer: 2746 -1 N 1 0 0 1 -57 35 2
-Refer: 2738 -1 N 1 0 0 1 -188 35 2
-Refer: 638 927 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 2754 -1 N 1 0 0 1 105 35 2
+Refer: 2738 -1 N 1 0 0 1 -20 35 2
+Refer: 638 927 N 1 0 0 1 157 0 2
+MultipleSubs2: "CCMP_Precomp subtable" Omicron uni0313.grk acutecomb.grkstack
 EndChar

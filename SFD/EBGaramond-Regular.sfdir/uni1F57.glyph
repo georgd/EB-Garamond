@@ -3,12 +3,11 @@ StartChar: uni1F57
 Encoding: 8023 8023 2560
 Width: 424
 VWidth: 0
-HStem: -14 76<142.409 251.947> 328 86<50.6485 110.163> 404 20<298 323.5> 436 22<209.949 246.869> 540 60<186.709 254.831> 625 58<185.064 308.001> 649 59<120.382 241.92>
-VStem: 76 268 120 11<140 256> 137 47<471.558 536.595> 334 55<158.548 337.765>
+Flags: H
 LayerCount: 3
 Fore
-Refer: 2289 834 N 1 0 0 1 50 160 2
-Refer: 2744 -1 N 1 0 0 1 137 -20 2
+Refer: 2289 834 N 1 0 0 1 46 156 2
+Refer: 2744 -1 N 1 0 0 1 133 -20 2
 Refer: 2447 965 N 1 0 0 1 0 0 3
-Validated: 1
+MultipleSubs2: "CCMP_Precomp subtable" upsilon uni0314.grkstack uni0342
 EndChar

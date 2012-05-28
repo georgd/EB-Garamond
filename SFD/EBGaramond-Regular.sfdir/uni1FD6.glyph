@@ -3,11 +3,10 @@ StartChar: uni1FD6
 Encoding: 8150 8150 2657
 Width: 221
 VWidth: 0
-HStem: -14 77.7002<104.091 174.846> 398 20<91.9819 125.5> 488 58<94.064 217.001> 512 59<29.3819 150.92>
-VStem: -15 268 65 85<145.405 409.491> 67 58<65.156 304.9>
+Flags: H
 LayerCount: 3
 Fore
-Refer: 564 8128 N 1 0 0 1 -41 23 2
+Refer: 2289 834 N 1 0 0 1 -39 23 2
 Refer: 2436 953 N 1 0 0 1 0 0 3
-Validated: 1
+MultipleSubs2: "CCMP_Precomp subtable" iota uni0342
 EndChar

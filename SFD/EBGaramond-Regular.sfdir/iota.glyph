@@ -6,7 +6,7 @@ Flags: W
 HStem: -14 77.7002<104.091 174.846> 398 20G<91.9819 125.5>
 VStem: 65 85<145.405 409.491> 67 58<65.156 304.9>
 AnchorPoint: "grk_bottom" 130 -147 basechar 0
-AnchorPoint: "grk_top" 111 530 basechar 0
+AnchorPoint: "grk_top" 113 530 basechar 0
 LayerCount: 3
 Back
 SplineSet
@@ -35,5 +35,4 @@ SplineSet
  63.124 373.958 72.9639 418 111 418 c 16
  140 418 150 391 150 343 c 0xe0
 EndSplineSet
-Validated: 33
 EndChar

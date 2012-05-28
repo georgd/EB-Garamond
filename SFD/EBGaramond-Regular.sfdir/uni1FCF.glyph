@@ -1,16 +1,13 @@
 
 StartChar: uni1FCF
 Encoding: 8143 8143 735
-Width: 0
+Width: 328
 VWidth: 0
-Flags: W
-HStem: 387 21<97.0396 138.456> 529 78<92.5667 171.873> 626 58<109.064 232.001> 650 59<44.3819 165.92>
-VStem: 0 268 181 52<445.849 520.689>
-AnchorPoint: "grk_top" 156 550 mark 0
-AnchorPoint: "grk_uc_top_left" 164 578 mark 0
+Flags: HW
 LayerCount: 3
 Fore
-Refer: 564 8128 S 1 0 0 1 -26 161 2
-Refer: 730 8127 S 1 0 0 1 87 -74 3
-Validated: 1
+Refer: 2289 834 N 1 0 0 1 4 156 2
+Refer: 2743 -1 N 1 0 0 1 101 -20 2
+Refer: 2755 -1 N 1 0 0 1 -9 0 2
+MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0313.grkstack uni0342
 EndChar

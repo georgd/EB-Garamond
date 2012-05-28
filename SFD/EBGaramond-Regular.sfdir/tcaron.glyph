@@ -3,8 +3,7 @@ StartChar: tcaron
 Encoding: 357 357 263
 Width: 314
 VWidth: 0
-HStem: -14 55<175.024 262.227> 352 27<36.6315 66.3251> 352 48<155.176 303.943> 452 193<230.878 247.467>
-VStem: 85 70<60.25 351.513> 221 61<504.557 634.402>
+Flags: H
 LayerCount: 3
 Back
 SplineSet
@@ -22,6 +21,6 @@ Refer: 1 116 N 1 0 0 1 0 0 2
 Fore
 Refer: 986 -1 N 1 0 0 1 214 -60 2
 Refer: 1 116 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "Smallcaps subtable" tcaron.sc
+MultipleSubs2: "CCMP_Precomp subtable" t uni030C.alt
 EndChar

@@ -1,14 +1,13 @@
 
 StartChar: uni1FA9
 Encoding: 8105 8105 2636
-Width: 830
+Width: 834
 VWidth: 0
-HStem: -226 62<423 490.666> 0 70<96.4899 277.223 548.08 733.384> 466 21<8.544 49.954> 608 78<-20.5492 54.433> 631 33<338.707 479.931>
-VStem: -86 52<521.956 596.595> 100 100<238.683 455.811> 381 66<-163.987 -67.3407> 630 100<255.249 454.984>
+Flags: H
 LayerCount: 3
 Fore
-Refer: 126 788 N 1 0 0 1 -86 0 2
-Refer: 2745 837 N 1 0 0 1 341 -4 2
-Refer: 1134 937 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 126 788 N 1 0 0 1 -20 0 2
+Refer: 2745 837 N 1 0 0 1 345 -4 2
+Refer: 1134 937 N 1 0 0 1 4 0 2
+MultipleSubs2: "CCMP_Precomp subtable" Omega uni0345 uni0314
 EndChar

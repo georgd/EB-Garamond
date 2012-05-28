@@ -1,13 +1,14 @@
 
 StartChar: Upsilontonos
 Encoding: 910 910 2462
-Width: 739
+Width: 823
 VWidth: 0
-HStem: -5 29<214.692 287.247 443.521 516.308> 491 207 600 50<99.3302 216.443 527.05 669.264>
-VStem: -99 104 325 80<52.5 431.207>
+Flags: H
 LayerCount: 3
 Fore
-Refer: 2746 -1 N 1 0 0 1 -113 35 2
-Refer: 641 933 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 2746 -1 N 1 0 0 1 -34 35 2
+Refer: 641 933 N 1 0 0 1 84 0 2
+MultipleSubs2: "CCMP_Precomp subtable" Upsilon acutecomb.grk
+Position2: "Single Positioning lookup 15 subtable" dx=0 dy=0 dh=-70 dv=0
+Position2: "Single Positioning lookup 14 subtable" dx=0 dy=0 dh=-70 dv=0
 EndChar

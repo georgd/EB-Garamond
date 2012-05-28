@@ -3,11 +3,10 @@ StartChar: uni1F41
 Encoding: 8001 8001 2542
 Width: 400
 VWidth: 0
-HStem: -14 78<108.361 237.029> 334 80<161.471 283.517> 436 21<221.544 262.954> 578 78<192.451 267.433>
-VStem: 35 40<97.9084 241.074> 127 52<491.956 566.595> 325 40<158.352 295.909>
+Flags: H
 LayerCount: 3
 Fore
-Refer: 126 788 N 1 0 0 1 127 -30 2
+Refer: 126 788 N 1 0 0 1 139 -30 2
 Refer: 2441 959 N 1 0 0 1 0 0 3
-Validated: 1
+MultipleSubs2: "CCMP_Precomp subtable" omicron uni0314
 EndChar

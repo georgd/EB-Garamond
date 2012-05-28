@@ -1,14 +1,13 @@
 
 StartChar: dieresistonos
 Encoding: 901 901 2467
-Width: 317
+Width: 353
 VWidth: 0
-HStem: 474 100<30.7018 109.298 207.702 286.298> 474 207
-VStem: 20 100<484.702 563.298> 129.5 104 197 100<484.702 563.298>
-AnchorPoint: "grk_top" 152 525 mark 0
+Flags: HW
 LayerCount: 3
 Fore
-Refer: 2454 900 S 1 0 0 1 115.5 18 2
-Refer: 72 168 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 2746 -1 N 1 0 0 1 136 47 2
+Refer: 2742 -1 N 1 0 0 1 24 19 2
+Refer: 2755 -1 N 1 0 0 1 7 0 2
+MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0308.grkstack acutecomb.grk
 EndChar

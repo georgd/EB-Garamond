@@ -3,8 +3,7 @@ StartChar: lcaron
 Encoding: 318 318 231
 Width: 240
 VWidth: 0
-HStem: -3 27<20.0556 73.9702 166.03 219.944> 512 193<203.878 220.467> 685 20<155.5 157.5>
-VStem: 85 70<31.1488 627.687> 194 61<564.557 694.402>
+Flags: H
 LayerCount: 3
 Back
 SplineSet
@@ -22,6 +21,6 @@ Refer: 2 108 N 1 0 0 1 0 0 2
 Fore
 Refer: 986 -1 N 1 0 0 1 187 0 2
 Refer: 2 108 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "Smallcaps subtable" lcaron.sc
+MultipleSubs2: "CCMP_Precomp subtable" l uni030C.alt
 EndChar

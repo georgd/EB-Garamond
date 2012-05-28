@@ -6,8 +6,8 @@ VWidth: 0
 Flags: W
 HStem: 0 70<96.4899 277.223 548.08 733.384> 631 33<338.707 479.931>
 VStem: 100 100<238.683 455.811> 630 100<255.249 454.984>
-AnchorPoint: "grk_uc_top" 422 720 basechar 0
 AnchorPoint: "below_accent" 415 -100 basechar 0
+AnchorPoint: "grk_uc_top" 422 720 basechar 0
 AnchorPoint: "grk_uc_top_left" 60 665 basechar 0
 LayerCount: 3
 Fore
@@ -42,8 +42,8 @@ SplineSet
  234 1 212 0 175 0 c 0
  147 0 125 -5 95 -5 c 0
  85 -5 83 3 81 12 c 0
- 76 37 58 79 40 130 c 0
- 40 131 39 133 39 134 c 0
+ 76 37 58 79 40 130 c 4
+ 40 131 39 133 39 134 c 4
  39 139 43 143 48 143 c 0
  61 143 70 129 79 113 c 0
  100 76 138 70 187 70 c 2
@@ -51,5 +51,6 @@ SplineSet
  226 70 247 70 266 72 c 0
  272 72 282 79 277 81 c 0
 EndSplineSet
-Validated: 1
+Position2: "Single Positioning lookup 12 subtable" dx=121 dy=0 dh=121 dv=0
+Position2: "Single Positioning lookup 11 subtable" dx=121 dy=0 dh=121 dv=0
 EndChar

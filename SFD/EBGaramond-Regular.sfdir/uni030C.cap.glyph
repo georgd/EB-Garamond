@@ -6,8 +6,8 @@ VWidth: 0
 Flags: W
 HStem: 700 122
 VStem: 5 291<808 818>
-AnchorPoint: "top_stack" 151 850 basemark 0
 AnchorPoint: "top_stack" 151 720 mark 0
+AnchorPoint: "top_stack" 151 850 basemark 0
 AnchorPoint: "top_accent" 151 710 mark 0
 LayerCount: 3
 Back
@@ -42,5 +42,5 @@ SplineSet
  7.06543 804.079 5 808 5 812 c 0
  5 818 11 822 20 822 c 0
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar

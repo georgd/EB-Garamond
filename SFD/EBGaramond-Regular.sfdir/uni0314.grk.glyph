@@ -4,13 +4,13 @@ Encoding: 1115007 -1 2739
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 456 22<82.5918 115.869> 590 66<59.7975 123.392>
-VStem: 0 53<498.821 584.422>
-AnchorPoint: "grk_hstack" 136 640 basemark 0
-AnchorPoint: "grk_uc_top_left" 208 630 mark 0
-AnchorPoint: "grk_top" 136 550 mark 0
+HStem: 462 194<43 97>
+VStem: 0 52<502.698 576.806>
+AnchorPoint: "grk_hstack" 130 640 basemark 0
+AnchorPoint: "grk_top" 130 550 mark 0
+AnchorPoint: "grk_uc_top_left" 202 630 mark 0
 LayerCount: 3
-Fore
+Back
 SplineSet
 90 590 m 0
  70 589 53 568 53 544 c 0
@@ -22,5 +22,16 @@ SplineSet
  108 656 126 640 126 624 c 0
  126 602 109 591 90 590 c 0
 EndSplineSet
-Validated: 1048577
+Fore
+SplineSet
+78 578 m 0
+ 62.2432 575.222 52 562 52 546 c 0
+ 52 517 72.0361 499.151 99 486 c 0
+ 107.089 482.055 116 479 116 472 c 0
+ 116 467 109 462 96 462 c 0
+ 43 462 0 506 0 559 c 0
+ 0 606 26 656 73 656 c 0
+ 97 656 120 641 120 618 c 0
+ 120 595 100.65 581.994 78 578 c 0
+EndSplineSet
 EndChar

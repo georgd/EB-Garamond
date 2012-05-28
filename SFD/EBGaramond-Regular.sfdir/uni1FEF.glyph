@@ -1,24 +1,12 @@
 
 StartChar: uni1FEF
 Encoding: 8175 8175 743
-Width: 0
+Width: 164
 VWidth: 0
-Flags: W
-HStem: 456 193
-VStem: 8 157
-AnchorPoint: "grk_hstack" 5 640 mark 0
-AnchorPoint: "grk_top" 76 510 mark 0
-AnchorPoint: "grk_uc_top_left" 77 630 mark 0
+Flags: HW
 LayerCount: 3
 Fore
-SplineSet
-85 478 m 4
- 64 514 14 612 14 622 c 4
- 14 638 33 663 52 663 c 4
- 60 663 74 657 77 645 c 4
- 87 609 118 487 118 469 c 4
- 118 460 118 456 109 456 c 4
- 101 456 91 468 85 478 c 4
-EndSplineSet
-Validated: 1
+Refer: 2737 -1 N 1 0 0 1 16 20 2
+Refer: 2755 -1 N 1 0 0 1 -73 0 2
+MultipleSubs2: "CCMP_Precomp subtable" space.stack gravecomb.grk
 EndChar

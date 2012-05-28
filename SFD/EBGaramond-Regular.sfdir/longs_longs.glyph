@@ -4,13 +4,13 @@ Encoding: 1114193 -1 1128
 Width: 516
 VWidth: 0
 Flags: W
-HStem: -3 27<19.0556 70.649 170.391 218.944 268.056 315.389 417.687 467.944> 352 24<23.5137 58.3504 270.561 303.701> 624 39<206.085 316.089> 663 43<440.189 522.46>
-VStem: 87 65<34.9308 350 391.098 529.378> 332 69<34.0022 350 391.098 607.969>
+HStem: -3 27<19.0556 69.2193 169.575 218.944 277.056 327.219 427.575 476.944> 352 24<25.5614 56.6406 282.561 313.641> 624 39<227.756 343.607> 665 41<478.188 582.407>
+VStem: 84 70<32.963 350 390.684 519.014> 342 70<32.963 350 391.513 547.573>
 LayerCount: 3
 Fore
 Refer: 1050 -1 N 1 0 0 1 0 0 2
 Validated: 1
-Substitution2: "Single Substitution lookup 55 subtable" longs_longs.short
+Substitution2: "Single Substitution lookup 64 subtable" longs_longs.short
 Ligature2: "liga_standard subtable" longs longs
 LCarets2: 1 0 
 EndChar

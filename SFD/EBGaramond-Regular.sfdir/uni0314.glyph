@@ -4,23 +4,25 @@ Encoding: 788 788 126
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 466 21<94.544 135.954> 608 78<65.4508 140.433>
-VStem: 0 52<521.956 596.595>
-AnchorPoint: "grk_uc_top_left" 146 665 mark 0
-AnchorPoint: "top_accent" 75 550 mark 0
-AnchorPoint: "grk_top" 75 560 mark 0
+HStem: 472 194<43 97>
+VStem: 0 52<513.097 586.662>
+AnchorPoint: "top_accent" 59 550 mark 0
+AnchorPoint: "grk_top" 59 560 mark 0
+AnchorPoint: "grk_uc_top_left" 84 665 mark 0
 LayerCount: 3
 Fore
 SplineSet
-99 608 m 0
- 79 608 52 580 52 558 c 0
- 52 528 79 496 122 487 c 0
- 131 485 136 480 136 476 c 0
- 136 471 129 466 116 466 c 0
- 65 466 0 519 0 589 c 0
- 0 645 51 686 99 686 c 0
- 128 686 146 666 146 650 c 0
- 146 628 128 608 99 608 c 0
+78 588 m 0
+ 62.2431 585.222 52 572 52 556 c 0
+ 52 527 72.0362 509.151 99 496 c 0
+ 107.089 492.055 116 489 116 482 c 0
+ 116 477 109 472 96 472 c 0
+ 43 472 -3.24521e-15 516 0 569 c 0
+ 2.87782e-15 616 26 666 73 666 c 0
+ 97 666 120 651 120 628 c 0
+ 120 605 100.651 591.994 78 588 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "Single Substitution lookup 17 subtable" uni0314.grkstack
+Substitution2: "Single Substitution lookup 16 subtable" uni0314.grk
+Position2: "Single Positioning lookup 3 subtable" dx=-20 dy=0 dh=0 dv=0
 EndChar

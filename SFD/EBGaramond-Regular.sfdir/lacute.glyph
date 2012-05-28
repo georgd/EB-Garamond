@@ -3,12 +3,11 @@ StartChar: lacute
 Encoding: 314 314 227
 Width: 240
 VWidth: 0
-HStem: -3 27<20.0556 73.9702 166.03 219.944> 685 20<155.5 157.5> 731 121
-VStem: 18 220 85 70<31.1488 627.687>
+Flags: H
 LayerCount: 3
 Fore
 Refer: 2321 -1 N 1 0 0 1 18 232 2
 Refer: 2 108 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "Smallcaps subtable" lacute.sc
+MultipleSubs2: "CCMP_Precomp subtable" l acutecomb.flat
 EndChar

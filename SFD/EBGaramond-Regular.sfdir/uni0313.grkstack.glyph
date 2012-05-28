@@ -6,9 +6,9 @@ VWidth: 0
 Flags: W
 HStem: 456 22<10.1378 47.0511> 560 60<2.16936 70.2906>
 VStem: 73 47<491.578 556.66>
-AnchorPoint: "top_stack" 55 630 basemark 0
-AnchorPoint: "grk_uc_top_left" 135 665 mark 0
+AnchorPoint: "top_stack" 55 650 basemark 0
 AnchorPoint: "grk_top" 55 550 mark 0
+AnchorPoint: "grk_uc_top_left" 135 665 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -22,5 +22,4 @@ SplineSet
  53.3115 488.093 73 503 73 526 c 0
  73 546 55.9883 559.302 36 560 c 0
 EndSplineSet
-Validated: 1572865
 EndChar

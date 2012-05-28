@@ -11,8 +11,8 @@ AnchorPoint: "gravestack" 189 807 basemark 0
 AnchorPoint: "hookstack" 85 822 basemark 0
 AnchorPoint: "acutestack" 89 811 basemark 0
 AnchorPoint: "top_stack" 142 851 basemark 0
-AnchorPoint: "grk_uc_top" 152 720 mark 0
 AnchorPoint: "top_accent" 142 710 mark 0
+AnchorPoint: "grk_uc_top" 152 720 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -26,5 +26,5 @@ SplineSet
  5 809 9 820 15 820 c 0
  25 820 32.5721 806.66 39 799 c 0
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar

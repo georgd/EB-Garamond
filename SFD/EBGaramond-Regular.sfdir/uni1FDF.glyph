@@ -1,14 +1,13 @@
 
 StartChar: uni1FDF
 Encoding: 8159 8159 963
-Width: 0
+Width: 328
 VWidth: 0
-Flags: W
-HStem: 466 21<126.544 167.954> 569 58<106.064 229.001> 593 59<41.3819 162.92> 608 78<97.4508 172.433>
-VStem: -3 268 32 52<521.956 596.595>
+Flags: HW
 LayerCount: 3
 Fore
-Refer: 564 8128 N 1 0 0 1 -29 104 2
-Refer: 746 8190 N 1 0 0 1 0 0 3
-Validated: 5
+Refer: 2289 834 N 1 0 0 1 4 156 2
+Refer: 2744 -1 N 1 0 0 1 91 -20 2
+Refer: 2755 -1 N 1 0 0 1 -9 0 2
+MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0314.grkstack uni0342
 EndChar
