@@ -11,11 +11,27 @@ lookup CCMP_stacking2 {
     sub [ uni0302.stack ] [acutecomb gravecomb]' by [acutecomb.stack gravecomb.stack];
 } CCMP_stacking2;
 
-#include (ccmpcomp.fea)
+lookup CCMP_stackgrk1 {
+    sub [ @VocalsGRK ] uni0308' [ gravecomb acutecomb ] by uni0308.grkstack;
+    sub [ @VocalsGRK ] [ uni0313 uni0314 ]' [ gravecomb acutecomb ] by [ uni0313.grk uni0314.grk ];
+    sub [ @VocalsGRK ] [ uni0313 uni0314 ]' [ uni0342 uni0342.alt ] by [ uni0313.grkstack uni0314.grkstack ];
+    sub [ @VocalsGRK ] [ gravecomb acutecomb ]' by [ gravecomb.grk acutecomb.grk ];
+} CCMP_stackgrk1;
+
+lookup CCMP_stackgrk2 {
+    sub [ uni0313.grk uni0314.grk ] [ gravecomb acutecomb ]' by [ gravecomb.grkstack acutecomb.grkstack ];
+} CCMP_stackgrk2;
+
+include (ccmpcomp.fea)
 
 feature ccmp {
   lookup CCMP_contextual;
   lookup CCMP_stacking1;
   lookup CCMP_stacking2;
-#  lookup CCMP_Precomp;
+  lookup CCMP_stackgrk1;
+  lookup CCMP_stackgrk2;
 } ccmp;
+
+feature ss20 {
+  lookup CCMP_Precomp;
+} ss20;
