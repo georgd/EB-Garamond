@@ -1,13 +1,12 @@
 
 StartChar: uni1FC9
-Encoding: 8137 8137 972
-Width: 541
+Encoding: 8137 8137 971
+Width: 667
 VWidth: 0
-Flags: HW
-HStem: -5 35<8.01822 107.75 228.884 496.445> 322 27<307.177 478.603> 388 20<556.5 561.5> 449 215 618 32<218.007 283.946 386.483 609.242>
-VStem: 443 79<613.278 654.976> 492 28<252.052 308.246> 618 55<568.25 613.321>
+Flags: H
 LayerCount: 2
 Fore
-Refer: 758 8189 N 1 0 0 1 32 0 2
-Refer: 634 917 N 1 0 0 1 0 0 2
+Refer: 2380 -1 N 1 0 0 1 -30 111 2
+Refer: 633 917 N 1 0 0 1 46 0 2
+MultipleSubs2: "CCMP_Precomp subtable" Epsilon acutecomb.grk
 EndChar

@@ -1,14 +1,12 @@
 
 StartChar: uni1FEC
-Encoding: 8172 8172 755
-Width: 557
+Encoding: 8172 8172 754
+Width: 570
 VWidth: 0
-Flags: W
-HStem: -5 29<10.8438 91.063 220.132 275.641> 254 26<308.021 388.879> 546 21<166.636 196.468> 622 31<187.487 263.787> 630 22<374.65 456.83> 688 78<166.181 249.393>
-VStem: 546 83<394.468 555.574>
+Flags: H
 LayerCount: 2
 Fore
-Refer: 759 8190 N 1 0 0 1 -25 -11 2
-Refer: 642 929 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 127 788 N 1 0 0 1 -2.56046 18 2
+Refer: 641 929 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" Rho uni0314
 EndChar

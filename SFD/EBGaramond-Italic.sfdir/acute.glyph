@@ -1,9 +1,9 @@
 
 StartChar: acute
 Encoding: 180 180 88
-Width: 351
+Width: 250
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 449 215
 VStem: 411 79<613.278 654.976>
 LayerCount: 2
@@ -2064,14 +2064,5 @@ a2c6;_SX@6a2l?CdF$@gd*UFtf[eX)cd0q^c-=JVbg4V]f\"j9io8qUiRZT2f\"j2gY:6-eC2mq
 
 EndImage
 Fore
-SplineSet
-466 664 m 0
- 482 664 494 650 490 636 c 0
- 484 617 419 582 311 471 c 0
- 304 464 287 449 279 449 c 0
- 270 449 268 453 271 462 c 0
- 276 477 381 603 411 637 c 0
- 427 655 445 664 466 664 c 0
-EndSplineSet
-Validated: 33
+Refer: 623 769 N 1 0 0 1 5.87249 -403 2
 EndChar

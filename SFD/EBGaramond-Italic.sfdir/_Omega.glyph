@@ -1,13 +1,14 @@
 
 StartChar: Omega
-Encoding: 937 937 1136
+Encoding: 937 937 1135
 Width: 770
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 70<116.729 282.177 531 702.752> 631 33<500.924 630.864>
 VStem: 76 31<86.6316 142.494>
-AnchorPoint: "below_accent" 415 -100 basechar 0
-AnchorPoint: "top_accent" 19 650 basechar 0
+AnchorPoint: "grk_uc_top" 611 710 basechar 0
+AnchorPoint: "grk_uc_top_left" 126 665 basechar 0
+AnchorPoint: "grk_bottom" 359 -100 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -47,5 +48,4 @@ SplineSet
  231 70 251 70 269 72 c 0
  275 72 286 79 282 81 c 0
 EndSplineSet
-Validated: 33
 EndChar

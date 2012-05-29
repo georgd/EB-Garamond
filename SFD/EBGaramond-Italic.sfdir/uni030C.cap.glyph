@@ -1,9 +1,23 @@
 
 StartChar: uni030C.cap
-Encoding: 66394 -1 2093
+Encoding: 1114970 -1 2092
 Width: 1000
-VWidth: 0
-Flags: W
-AnchorPoint: "top_accent" 151 680 mark 0
+Flags: HW
+AnchorPoint: "top_accent" 114 679.7 mark 0
 LayerCount: 2
+Fore
+SplineSet
+281 806 m 0
+ 290 806 296 802 296 796 c 0
+ 296 792 294 788 289 784 c 2
+ 165 702 l 2
+ 144 688 130 680 120 680 c 0
+ 110 680 93 691 83 702 c 2
+ 11 784 l 2
+ 7 789 5 792 5 796 c 0
+ 5 802 10 807 19 807 c 0
+ 32 807 88 769 110 751 c 0
+ 118 744 128 747 138 751 c 0
+ 165 762 268 806 281 806 c 0
+EndSplineSet
 EndChar

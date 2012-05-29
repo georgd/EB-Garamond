@@ -1,20 +1,13 @@
 
 StartChar: uni1EE2
 Encoding: 7906 7906 556
-Width: 726
+Width: 712
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -184 110<304.26 364.74> -14 39<308.088 467.934> 625 39<454.027 626.048>
 VStem: 283 103<-162.797 -95.203>
 LayerCount: 2
 Fore
-SplineSet
-351 -74 m 24
- 379 -74 395 -99 386 -129 c 24
- 377 -159 346 -184 318 -184 c 24
- 290 -184 274 -159 283 -129 c 24
- 292 -99 323 -74 351 -74 c 24
-EndSplineSet
+Refer: 2095 -1 N 1 0 0 1 310 0 2
 Refer: 288 416 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

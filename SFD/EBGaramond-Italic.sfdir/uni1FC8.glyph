@@ -1,13 +1,12 @@
 
 StartChar: uni1FC8
-Encoding: 8136 8136 742
-Width: 541
+Encoding: 8136 8136 741
+Width: 717
 VWidth: 0
-Flags: HW
-HStem: -5 35<8.01822 107.75 228.884 496.445> 322 27<307.177 478.603> 388 20<556.5 561.5> 449 215<406 461> 618 32<218.007 283.946 386.483 609.242>
-VStem: 443 34<449.106 511.757> 492 28<252.052 308.246> 618 55<568.25 613.321>
+Flags: H
 LayerCount: 2
 Fore
-Refer: 756 8175 N 1 0 0 1 134 0 2
-Refer: 634 917 N 1 0 0 1 0 0 2
+Refer: 2379 -1 N 1 0 0 1 -30 111 2
+Refer: 633 917 N 1 0 0 1 96 0 2
+MultipleSubs2: "CCMP_Precomp subtable" Epsilon gravecomb.grk
 EndChar

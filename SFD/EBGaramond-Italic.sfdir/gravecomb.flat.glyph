@@ -1,10 +1,21 @@
 
 StartChar: gravecomb.flat
-Encoding: 66412 -1 2113
-Width: 1000
+Encoding: 1114988 -1 2112
+Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "top_stack" 114 515 mark 0
-AnchorPoint: "top_accent" 127 550 mark 0
+HStem: 470 197<54.7829 70.5805>
+VStem: 10 74<556.697 656.931>
+AnchorPoint: "top_accent" 90 550 mark 0
 LayerCount: 2
+Fore
+SplineSet
+56 487 m 0
+ 43.6668 520.885 10 616 10 621 c 0
+ 10 645 39 667 55 667 c 0
+ 67 667 71.108 650.012 73 627 c 0
+ 76.3841 585.839 84 493 84 483 c 0
+ 84 475 81 470 76 470 c 0
+ 67 470 61.1303 472.905 56 487 c 0
+EndSplineSet
 EndChar

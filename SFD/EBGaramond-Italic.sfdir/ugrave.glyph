@@ -3,13 +3,12 @@ StartChar: ugrave
 Encoding: 249 249 174
 Width: 498
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 61<132.975 134 321.759 384.925> 398 20<235.5 260 467.5 477> 470 197<351.783 367.581>
 VStem: 307 74<556.697 656.931>
 LayerCount: 2
 Fore
-Refer: 982 768 N 1 0 0 1 297 0 2
+Refer: 981 768 N 1 0 0 1 297 0 2
 Refer: 15 117 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "Smallcaps subtable" ugrave.sc
 EndChar

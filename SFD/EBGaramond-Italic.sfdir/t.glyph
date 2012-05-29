@@ -2,12 +2,13 @@
 StartChar: t
 Encoding: 116 116 1
 Width: 285
-Flags: W
+Flags: HW
 HStem: -14 73<66.3456 163.5> 360 38<87.8539 153.133 238.865 330.495>
 VStem: 49 301
+AnchorPoint: "top_right" 397 634 basechar 0
 AnchorPoint: "cedilla" 139 8 basechar 0
-AnchorPoint: "below_accent" 79 -100 basechar 0
-AnchorPoint: "top_accent" 247 594 basechar 0
+AnchorPoint: "below_accent" 52 -100 basechar 0
+AnchorPoint: "top_accent" 277 594 basechar 0
 LayerCount: 2
 Back
 Image: 348 296 2 1044 0 ffffffff -171.014 1326 6.14418 6.26013 0
@@ -5192,7 +5193,6 @@ SplineSet
  234 105 246 106 246 98 c 0
  246 89 241 79 229 68 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" t.sc
 Substitution2: "sups subtable" t.sups
 Substitution2: "sinf subtable" t.sinf

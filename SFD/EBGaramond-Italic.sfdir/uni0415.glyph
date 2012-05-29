@@ -1,10 +1,10 @@
 
 StartChar: uni0415
-Encoding: 1045 1045 660
+Encoding: 1045 1045 659
 Width: 621
 VWidth: 0
-Flags: HW
-HStem: -5 35<8.01822 107.75 228.884 496.445> 322 27<307.177 478.603> 388 20<556.5 561.5> 618 32<218.007 283.946 386.483 609.242>
+Flags: W
+HStem: -5 35<8.01822 107.75 228.884 496.445> 322 27<307.177 478.603> 388 20<556.5 561.5> 618 32<218.007 283.946 384.656 609.242>
 VStem: 492 28<252.052 308.246> 618 55<568.25 613.321>
 AnchorPoint: "top_accent" 496 701 basechar 0
 AnchorPoint: "below_accent" 280 -100 basechar 0
@@ -13,4 +13,5 @@ AnchorPoint: "cedilla" 322 8 basechar 0
 LayerCount: 2
 Fore
 Refer: 35 69 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar

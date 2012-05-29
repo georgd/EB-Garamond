@@ -1,24 +1,13 @@
 
 StartChar: dcaron
 Encoding: 271 271 194
-Width: 483
+Width: 513
 VWidth: 0
-Flags: W
-HStem: -14 32<77.22 158.669> 389 31<296.055 363.976> 685 20<542 550.5>
-VStem: 26 70<18.6526 140.602> 319 194<36 110>
+Flags: H
 LayerCount: 2
 Fore
-SplineSet
-556 535 m 0
- 572 576 577 590 590 654 c 0
- 593 668 608 683 618 690 c 0
- 636 702 639 705 653 705 c 0
- 666 705 662 682 653 661 c 0
- 623 592 604 567 581 537 c 0
- 572 525 558 512 554 512 c 0
- 550 512 552 526 556 535 c 0
-EndSplineSet
-Refer: 11 100 N 1 0 0 1 0 0 2
-Validated: 33
+Refer: 2153 -1 N 1 0 0 1 467 64 2
+Refer: 11 100 N 1 0 0 1 0 0 3
 Substitution2: "Smallcaps subtable" dcaron.sc
+MultipleSubs2: "CCMP_Precomp subtable" d uni030C.alt
 EndChar

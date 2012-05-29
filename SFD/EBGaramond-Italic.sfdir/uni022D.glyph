@@ -3,12 +3,11 @@ StartChar: uni022D
 Encoding: 557 557 338
 Width: 400
 VWidth: 0
-Flags: W
-HStem: -14 30<122.149 188.736> 384 30<246.264 312.851> 518 60<263.697 403.946> 525 61<233.201 370.803> 672 44<341.155 578.936>
-VStem: 45 64<30.5807 194.315> 183 268 326 64<205.685 369.419> 337.723 245<676.507 714.395>
+Flags: H
 LayerCount: 2
 Fore
-Refer: 981 772 N 1 0 0 1 332.723 138 2
-Refer: 173 245 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 2111 -1 N 1 0 0 1 150 127 2
+Refer: 2121 -1 N 1 0 0 1 191 17 2
+Refer: 3 111 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" o tildecomb.stack uni0304.stack
 EndChar

@@ -1,6 +1,6 @@
 
 StartChar: uni030F
-Encoding: 783 783 2026
+Encoding: 783 783 2025
 Width: 0
 VWidth: 0
 Flags: W
@@ -32,8 +32,7 @@ SplineSet
  438 445 433 454 431 462 c 4x88
 EndSplineSet
 Fore
-Refer: 982 768 S 1 0 0 1 106 0 2
-Refer: 982 768 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 981 768 S 1 0 0 1 106 0 2
+Refer: 981 768 N 1 0 0 1 0 0 2
 Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni030F.cap
 EndChar

@@ -1,7 +1,7 @@
 
 StartChar: acutecomb
 Encoding: 769 769 623
-Width: 161
+Width: 0
 VWidth: 0
 Flags: W
 HStem: 463 189
@@ -10,16 +10,17 @@ AnchorPoint: "top_accent" 40 550 mark 0
 LayerCount: 2
 Fore
 SplineSet
-41 478 m 4
- 34.3916 470.629 26 463 18 463 c 4
- 13 463 10 467 10 471 c 4
- 10 475 10.0599 478.971 12 483 c 4
- 25 510 70 596 87 627 c 4
- 94.2125 640.152 102 652 112 652 c 4
- 122 652 151 630 151 615 c 4
- 151 610 67 507 41 478 c 4
+41 478 m 0
+ 34.3916 470.629 26 463 18 463 c 0
+ 13 463 10 467 10 471 c 0
+ 10 475 10.0599 478.971 12 483 c 0
+ 25 510 70 596 87 627 c 0
+ 94.2125 640.152 102 652 112 652 c 0
+ 122 652 151 630 151 615 c 0
+ 151 610 67 507 41 478 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "Single Substitution lookup 20 subtable" acutecomb.grkstack
+Substitution2: "Single Substitution lookup 18 subtable" acutecomb.grk
 Substitution2: "Single Substitution lookup 13 subtable" acutecomb.stack
 Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" acutecomb.cap
 EndChar

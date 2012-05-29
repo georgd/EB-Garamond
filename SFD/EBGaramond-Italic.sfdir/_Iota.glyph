@@ -1,13 +1,13 @@
 
 StartChar: Iota
-Encoding: 921 921 637
+Encoding: 921 921 636
 Width: 371
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 29<5.7629 87.4897 224.031 286.641> 622 31<210.487 270.933 389.79 472.785>
-AnchorPoint: "top_accent" -19 646 basechar 0
+AnchorPoint: "grk_uc_top" 348 710 basechar 0
+AnchorPoint: "grk_uc_top_left" 51 665 basechar 0
 LayerCount: 2
 Fore
 Refer: 33 73 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

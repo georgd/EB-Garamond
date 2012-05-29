@@ -1,24 +1,13 @@
 
 StartChar: lcaron
 Encoding: 318 318 232
-Width: 230
+Width: 252
 VWidth: 0
-Flags: W
-HStem: -14 55<78 158.697>
-VStem: 50 76<5.25383 105.281>
+Flags: H
 LayerCount: 2
 Fore
-SplineSet
-325 535 m 0
- 341 576 347 590 360 654 c 0
- 363 668 378 683 388 690 c 0
- 406 702 408 705 422 705 c 0
- 435 705 431 682 422 661 c 0
- 392 592 374 567 351 537 c 0
- 342 525 327 512 323 512 c 0
- 319 512 321 526 325 535 c 0
-EndSplineSet
-Refer: 2 108 N 1 0 0 1 0 0 2
-Validated: 33
+Refer: 2153 -1 N 1 0 0 1 209 64 2
+Refer: 2 108 N 1 0 0 1 0 0 3
 Substitution2: "Smallcaps subtable" lcaron.sc
+MultipleSubs2: "CCMP_Precomp subtable" l uni030C.alt
 EndChar

@@ -3,13 +3,11 @@ StartChar: Lcaron
 Encoding: 317 317 231
 Width: 619
 VWidth: 0
-Flags: W
-HStem: -5 35<12.0182 111.625 232.884 516.445> 444 21<584.088 610.088> 586 78<622.997 673.273> 622 31<231.494 295.483 409.436 504.821>
-VStem: 614.088 117<587.189 650.522>
+Flags: H
 LayerCount: 2
 Fore
-Refer: 989 789 S 1 0 0 1 404.088 18 2
-Refer: 36 76 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 2153 -1 N 1 0 0 1 476 35 2
+Refer: 36 76 N 1 0 0 1 0 0 3
 Substitution2: "c2sc subtable" Lcaron.sc
+MultipleSubs2: "CCMP_Precomp subtable" L uni030C.alt
 EndChar

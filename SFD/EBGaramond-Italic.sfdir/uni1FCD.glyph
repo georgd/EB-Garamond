@@ -1,14 +1,13 @@
 
 StartChar: uni1FCD
-Encoding: 8141 8141 744
-Width: 250
+Encoding: 8141 8141 743
+Width: 225
 VWidth: 0
-Flags: W
-HStem: 557 232 574 215<378.745 433.745>
-VStem: 415.745 34<574.106 636.757>
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 756 8175 N 1 0 0 1 106.745 125 2
-Refer: 741 8127 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 2381 -1 N 1 0 0 1 71.6359 -130 2
+Refer: 2374 -1 N 1 0 0 1 -136.014 -366 2
+Refer: 2389 -1 N 1 0 0 1 66.9072 0 2
+MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0313.grk gravecomb.grkstack
 EndChar

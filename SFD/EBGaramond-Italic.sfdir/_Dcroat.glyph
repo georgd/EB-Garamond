@@ -1,9 +1,9 @@
 
 StartChar: Dcroat
-Encoding: 272 272 995
+Encoding: 272 272 994
 Width: 754
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 35<192.833 439.505> -5 29<20.7629 111.218> 317 36<145.149 462.674> 618 33<187.538 282.055 395.287 554.01>
 VStem: 697 86<273.574 501.999>
 LayerCount: 2
@@ -18,6 +18,5 @@ SplineSet
  148 344 162 353 173 353 c 26x38
 EndSplineSet
 Refer: 43 68 N 1 0 0 1 0 0 2
-Validated: 5
 Substitution2: "c2sc subtable" Dcroat.sc
 EndChar

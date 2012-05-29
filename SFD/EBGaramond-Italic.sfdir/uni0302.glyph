@@ -1,7 +1,7 @@
 
 StartChar: uni0302
 Encoding: 770 770 91
-Width: 215
+Width: 0
 VWidth: 0
 Flags: W
 HStem: 462 195
@@ -41,7 +41,6 @@ SplineSet
  172 499 156 539 144 570 c 0
  142 575 138 574 135 570 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "Single Substitution lookup 11 subtable" uni0302.stack
 Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0302.cap
 EndChar

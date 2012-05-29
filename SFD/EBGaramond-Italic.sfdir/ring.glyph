@@ -1,23 +1,11 @@
 
 StartChar: ring
 Encoding: 730 730 348
-Width: 3
+Width: 250
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 479 26<22.0012 74.3949> 622 25<44.7943 98.3954>
 LayerCount: 2
 Fore
-SplineSet
-87 647 m 0
- 128 647 152 612 139 568 c 0
- 123 516 73 479 32 479 c 0
- -9 479 -33 517 -20 561 c 0
- -4 614 46 647 87 647 c 0
-18 569 m 0
- 9 541 17 505 43 505 c 0
- 69 505 91 529 100 557 c 0
- 112 596 101 622 75 622 c 0
- 54 622 28 602 18 569 c 0
-EndSplineSet
-Validated: 33
+Refer: 123 778 N 1 0 0 1 -71.3633 -433 2
 EndChar

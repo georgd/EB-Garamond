@@ -3,12 +3,11 @@ StartChar: uni01DC
 Encoding: 476 476 307
 Width: 498
 VWidth: 0
-Flags: W
-HStem: -14 61<132.975 134 321.759 384.925> 398 20<235.5 260 467.5 477> 524 100<283.584 347.18 434.584 498.181> 684 197<398.933 414.731>
-VStem: 270 90<536.747 611.266> 354.15 74<770.697 870.931> 421 90<536.747 611.266>
+Flags: H
 LayerCount: 2
 Fore
-Refer: 982 768 N 1 0 0 1 344.15 214 2
-Refer: 75 252 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 2117 -1 N 1 0 0 1 297 0 2
+Refer: 624 776 N 1 0 0 1 260 0 2
+Refer: 15 117 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" u uni0308 gravecomb.stack
 EndChar

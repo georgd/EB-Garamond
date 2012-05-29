@@ -2,9 +2,10 @@
 StartChar: d
 Encoding: 100 100 11
 Width: 513
-Flags: W
+Flags: HW
 HStem: -14 32<77.22 158.669> 389 31<296.055 363.976> 685 20G<542 550.5>
 VStem: 26 70<18.6526 140.602> 319 194<36 110>
+AnchorPoint: "top_right" 641 634 basechar 0
 AnchorPoint: "below_accent" 122 -100 basechar 0
 LayerCount: 2
 Fore
@@ -38,7 +39,6 @@ SplineSet
  377 363 359 389 333 389 c 0
  271 389 95 176 96 61 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" d.sc
 Substitution2: "sups subtable" d.sups
 Substitution2: "sinf subtable" d.sinf

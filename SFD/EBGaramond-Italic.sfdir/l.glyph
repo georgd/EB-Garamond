@@ -5,7 +5,8 @@ Width: 252
 Flags: W
 HStem: -14 55<78 158.697>
 VStem: 50 76<5.25383 105.281>
-AnchorPoint: "below_accent" 160 -100 basechar 0
+AnchorPoint: "top_right" 383 634 basechar 0
+AnchorPoint: "below_accent" 56 -100 basechar 0
 AnchorPoint: "top_accent" 293 812 basechar 0
 LayerCount: 2
 Fore
@@ -28,7 +29,6 @@ SplineSet
  126 47 129 41 136 41 c 0
  168 41 223 89 233 99 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "Smallcaps subtable" l.sc
 Substitution2: "sups subtable" l.sups
 Substitution2: "sinf subtable" l.sinf

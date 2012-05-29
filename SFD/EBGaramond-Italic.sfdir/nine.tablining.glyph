@@ -1,6 +1,6 @@
 
 StartChar: nine.tablining
-Encoding: 65588 -1 1116
+Encoding: 1114164 -1 1115
 Width: 444
 VWidth: 0
 Flags: W
@@ -28,6 +28,6 @@ SplineSet
  202 521 314 629 427 629 c 0
 EndSplineSet
 Validated: 33
-Substitution2: "'pnum' Proportionalziffern lookup 39 subtable" nine.lnum
-Substitution2: "'onum' Minuskelziffern lookup 37 subtable" nine.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 46 subtable" nine.lnum
+Substitution2: "'onum' Minuskelziffern lookup 44 subtable" nine.taboldstyle
 EndChar

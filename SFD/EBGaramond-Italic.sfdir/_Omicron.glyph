@@ -1,13 +1,14 @@
 
 StartChar: Omicron
-Encoding: 927 927 641
+Encoding: 927 927 640
 Width: 712
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 35<264.006 414.248> 628 36<391.576 555.605>
 VStem: 89 82<128.393 340.569> 642 82<325.945 533.828>
+AnchorPoint: "grk_uc_top" 508 710 basechar 0
+AnchorPoint: "grk_uc_top_left" 47 665 basechar 0
 LayerCount: 2
 Fore
 Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

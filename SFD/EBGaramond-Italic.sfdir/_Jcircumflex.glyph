@@ -4,10 +4,11 @@ Encoding: 308 308 223
 Width: 335
 VWidth: 0
 Flags: HW
-HStem: -200 42<-80 27.4867> 622 31<204.52 265.535 375.47 452.821> 725 132
+HStem: -200 42<-80 27.4867> 622 31<204.52 265.535 375.47 452.821> 701.3 132
+VStem: 202 291<705.3 715.3>
 LayerCount: 2
 Fore
-Refer: 2085 -1 N 1 0 0 1 197 20.3 2
+Refer: 2084 -1 N 1 0 0 1 178 20.3 2
 Refer: 42 74 N 1 0 0 1 0 0 3
 Substitution2: "c2sc subtable" Jcircumflex.sc
 EndChar

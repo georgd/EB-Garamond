@@ -3,14 +3,13 @@ StartChar: Ccedilla
 Encoding: 199 199 136
 Width: 622
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -287.567 53<127.855 212.868> -14 37<315.982 450.038> 628 35<422.993 591.501>
 VStem: 96 84<142.219 360.884> 113.837 205 622 33<467.178 536.318>
 AnchorPoint: "top_accent" 381 700 basechar 0
 LayerCount: 2
 Fore
-Refer: 1078 -1 N 1 0 0 1 139.837 -12.5667 2
+Refer: 1077 -1 N 1 0 0 1 139.837 -12.5667 2
 Refer: 32 67 N 1 0 0 1 0 0 3
-Validated: 5
 Substitution2: "c2sc subtable" Ccedilla.sc
 EndChar
