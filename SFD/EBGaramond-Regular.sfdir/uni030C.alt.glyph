@@ -4,8 +4,8 @@ Encoding: 1114121 -1 986
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 512 193<16.8777 33.4673>
-VStem: 7 61<564.557 694.402>
+HStem: 512 193<16.8777 33.5117>
+VStem: 7 61<564.592 694.402>
 AnchorPoint: "top_right" 35 660 mark 0
 AnchorPoint: "top_left" 22 643 mark 0
 LayerCount: 3
@@ -36,11 +36,10 @@ SplineSet
 5 657 m 0
  5 678 34 705 55 705 c 0
  67 705 68 691 68 675 c 0
- 68 638 52.8447 573.913 35 537 c 0
- 26.7305 519.894 20 512 14 512 c 0
+ 68 638 53 574 35 537 c 0
+ 27 520 20 512 14 512 c 0
  10 512 7 522 7 535 c 0
  7 540 10 569 10 584 c 0
  10 621 5 641 5 657 c 0
 EndSplineSet
-Validated: 1
 EndChar

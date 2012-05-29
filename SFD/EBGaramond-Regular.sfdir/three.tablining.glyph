@@ -4,8 +4,8 @@ Encoding: 1114174 -1 1108
 Width: 480
 VWidth: 0
 Flags: W
-HStem: -38 38<134.238 252.147> 570 60<161.163 265.051>
-VStem: 302 79<442.858 531.731> 344 85<109.059 250.292>
+HStem: -38 38<134.238 251.97> 570 60<161.163 265.051>
+VStem: 302 79<442.858 531.731> 344 85<111.879 250.383>
 LayerCount: 3
 Fore
 SplineSet
@@ -13,7 +13,7 @@ SplineSet
  55 22 62 51 84 51 c 16
  96 51 103 47 111 39 c 16
  132 18 154 0 188 0 c 16
- 289.441 0 344 67.779 344 146 c 16xd0
+ 289 0 344 68 344 146 c 16xd0
  344 222 321 304 228 304 c 0
  213 304 186 302 163 289 c 0
  156 285 144 291 146 298 c 24
@@ -27,11 +27,10 @@ SplineSet
  308 630 381 588 381 516 c 0xe0
  381 468 354 411 276 366 c 0
  272 364 272 360 277 360 c 0
- 355.281 356.596 429 301.565 429 203 c 16
- 429 53.3282 284.398 -38 141 -38 c 8
+ 355 357 429 302 429 203 c 16
+ 429 53 284 -38 141 -38 c 8
  104 -38 55 -20 55 0 c 0xd0
 EndSplineSet
-Validated: 1
 Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" three.lnum
 Substitution2: "'onum' Minuskelziffern lookup 31 subtable" three.taboldstyle
 EndChar

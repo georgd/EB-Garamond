@@ -5,7 +5,7 @@ Width: 475
 VWidth: 0
 Flags: W
 HStem: -189 29<105.529 187.003> 328 87<221.22 315.013>
-VStem: 111 33<213.5 307.352> 282 80<-70.5065 72.3775>
+VStem: 111 33<213.5 307.328> 282 80<-70.5065 72.3775>
 LayerCount: 3
 Back
 SplineSet
@@ -30,8 +30,7 @@ SplineSet
  219 396 260 407 318 415 c 17
 EndSplineSet
 Fore
-Refer: 78 53 S 1 0 0 1 53 0 2
-Validated: 1
+Refer: 78 53 N 1 0 0 1 53 0 2
 Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" five
 Substitution2: "'lnum' Lining Figures lookup 30 subtable" five.tablining
 EndChar

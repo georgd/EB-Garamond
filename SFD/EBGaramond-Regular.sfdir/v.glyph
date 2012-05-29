@@ -1125,10 +1125,10 @@ SplineSet
  243 23 221 -22 216 -22 c 0
  211 -22 199 8 196 17 c 2
  74 329 l 10
- 64 353 48 372 28 378 c 4
- 17 382 5 386 5 396 c 4
- 5 404 18 405 25 405 c 4
- 64 405 63 400 98 400 c 4
+ 64 353 48 372 28 378 c 0
+ 17 382 5 386 5 396 c 0
+ 5 404 18 405 25 405 c 0
+ 64 405 63 400 98 400 c 0
  133 400 134 405 173 405 c 0
  180 405 193 404 193 396 c 0
  193 386 181 382 170 378 c 0
@@ -1140,7 +1140,6 @@ SplineSet
  317 308 319 320 319 331 c 0
  319 356 308 374 294 378 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "Smallcaps subtable" v.sc
 Substitution2: "Single Substitution lookup 37 subtable" v.LATmedi
 Substitution2: "sups subtable" v.sups

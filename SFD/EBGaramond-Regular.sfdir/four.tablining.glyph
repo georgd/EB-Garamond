@@ -38,16 +38,15 @@ SplineSet
  277 173 l 2
  277 179 263 182 262 182 c 0
  180 182 124 176 19 175 c 0xd8
- 14 175 6.7812 181.672 9 185 c 0
- 12 189.5 9.05595 186.947 10 188 c 0
- 23 202.5 36 217 49 235 c 2
+ 14 175 7 182 9 185 c 0
+ 12 189 9 187 10 188 c 0
+ 23 202 36 217 49 235 c 2
  315 614 l 2
  323 626 335 642 345 642 c 2
  364 642 l 2
  370 642 365 633 362 628 c 18
  92 240 l 2xb8
 EndSplineSet
-Validated: 1
 Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" four.lnum
 Substitution2: "'onum' Minuskelziffern lookup 31 subtable" four.taboldstyle
 EndChar

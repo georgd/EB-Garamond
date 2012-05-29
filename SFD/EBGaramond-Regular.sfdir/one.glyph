@@ -14,8 +14,8 @@ SplineSet
  109 380 73 380 46 384 c 0
  41 384 39 390 39 395 c 0
  39 401 41 406 46 406 c 0
- 106 406 106.372 403 145 403 c 24
- 182.848 403 184 406 242 406 c 0
+ 106 406 106 403 145 403 c 24
+ 183 403 184 406 242 406 c 0
  248 406 250 401 250 396 c 0
  250 391 247 385 242 384 c 0
  214 378 181 379 181 333 c 2
@@ -23,13 +23,12 @@ SplineSet
  181 29 208 28 252 22 c 0
  260 21 264 15 264 9 c 0
  264 3 260 -3 252 -3 c 0
- 195 -3 186.775 2 145 2 c 24
- 102.445 2 90 -3 36 -3 c 0
+ 195 -3 187 2 145 2 c 24
+ 102 2 90 -3 36 -3 c 0
  29 -3 25 4 25 11 c 0
  25 17 28 22 36 22 c 0
  63 24 109 27 109 68 c 2
 EndSplineSet
-Validated: 1
 Substitution2: "one_variants subtable" one.01
 Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" one.taboldstyle
 Substitution2: "'lnum' Lining Figures lookup 30 subtable" one.lnum

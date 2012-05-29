@@ -1911,7 +1911,7 @@ SplineSet
  106 33 130 51 130 99 c 2
  130 549 l 2
  130 597 113 613 63 622 c 0
- 40 626 30 633 30 642 c 4
+ 40 626 30 633 30 642 c 0
  30 650 42 653 59 653 c 0
  134 653 166 650 236 650 c 0
  327 650 448 653 458 653 c 0
@@ -1938,7 +1938,6 @@ SplineSet
  221 320 210 317 210 294 c 2
  210 102 l 2x7f
 EndSplineSet
-Validated: 1
 Substitution2: "c2sc subtable" E.sc
 Substitution2: "sups subtable" E.sups
 Substitution2: "sinf subtable" E.sinf
