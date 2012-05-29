@@ -39,7 +39,7 @@ lookup \mark {
   markClass [\uni0342.alt ] <anchor 112 533> @grk_top;
   markClass [\uni0313.grkstack ] <anchor 55 550> @grk_top;
   markClass [\uni0314.grkstack ] <anchor 65 550> @grk_top;
-  pos base [\epsilon \uni03F2 ] <anchor 168 530> mark @grk_top
+  pos base [\epsilon \uni03F2 ] <anchor 173 530> mark @grk_top
 	<anchor 130 -147> mark @grk_bottom;
   pos base [\alpha ] <anchor 268 -147> mark @grk_bottom
 	<anchor 242 530> mark @grk_top;
@@ -47,8 +47,9 @@ lookup \mark {
 	<anchor 104 -147> mark @grk_bottom;
   pos base [\iota ] <anchor 113 530> mark @grk_top
 	<anchor 130 -147> mark @grk_bottom;
-  pos base [\omicron \upsilon ] <anchor 198 530> mark @grk_top
-	<anchor 130 -147> mark @grk_bottom;
+  pos base [\omicron \upsilon ] <anchor 130 -147> mark @grk_bottom;
+  pos base [\omicron ] <anchor 198 530> mark @grk_top
+  pos base [\upsilon ] <anchor 208 530> mark @grk_top
   pos base [\omega ] <anchor 285 530> mark @grk_top
 	<anchor 275 -147> mark @grk_bottom;
   pos base [\space.stack ] <anchor 165 530> mark @grk_top;
