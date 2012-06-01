@@ -1,12 +1,12 @@
 
 StartChar: upsilondieresis
 Encoding: 971 971 2453
-Width: 424
+Width: 221
 VWidth: 0
-HStem: -14 76<142.392 251.947> 328 86<50.9908 110.021> 404 20<298 323.5> 484 100<79.7018 158.298 256.702 335.298>
-VStem: 69 100<494.702 573.298> 120 11<140 256> 246 100<494.702 573.298> 334 55<158.548 337.75>
+Flags: H
 LayerCount: 3
 Fore
-Refer: 621 776 N 1 0 0 1 55 10 2
-Refer: 2447 965 N 1 0 0 1 0 0 3
+Refer: 621 776 N 1 0 0 1 -34 10 2
+Refer: 2436 953 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" iota uni0308
 EndChar

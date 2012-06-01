@@ -3,14 +3,13 @@ StartChar: uni1F5F
 Encoding: 8031 8031 2564
 Width: 956
 VWidth: 0
-HStem: -5 29<431.692 504.247 660.521 733.308> 456 22<113.949 150.869> 560 60<90.7094 158.831> 600 50<316.33 433.443 744.05 886.264> 641 58<89.0644 212.001> 665 59<24.3819 145.92>
-VStem: -20 268 41 47<491.558 556.595> 542 80<52.5 431.428>
+Flags: H
 LayerCount: 3
 Fore
 Refer: 2289 834 N 1 0 0 1 -46 176 2
 Refer: 2744 -1 N 1 0 0 1 41 0 2
 Refer: 641 933 N 1 0 0 1 217 0 2
 MultipleSubs2: "CCMP_Precomp subtable" Upsilon uni0314.grkstack uni0342
-Position2: "Single Positioning lookup 15 subtable" dx=0 dy=0 dh=-70 dv=0
-Position2: "Single Positioning lookup 14 subtable" dx=0 dy=0 dh=-70 dv=0
+Position2: "Single Positioning lookup 26 subtable" dx=0 dy=0 dh=-70 dv=0
+Position2: "Single Positioning lookup 25 subtable" dx=0 dy=0 dh=-70 dv=0
 EndChar

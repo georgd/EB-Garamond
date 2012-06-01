@@ -6,7 +6,7 @@ Flags: W
 HStem: -14 78<108.326 250.593> 334 80<161.295 287.339>
 VStem: 35 40<97.88 241.241>
 AnchorPoint: "grk_bottom" 130 -147 basechar 0
-AnchorPoint: "grk_top" 168 530 basechar 0
+AnchorPoint: "grk_top" 173 530 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -25,4 +25,5 @@ SplineSet
  332 316 331 300 316 300 c 8
  305 300 299 309 292 316 c 0
 EndSplineSet
+Validated: 1
 EndChar

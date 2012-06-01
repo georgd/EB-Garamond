@@ -3,11 +3,10 @@ StartChar: uni03D4
 Encoding: 980 980 646
 Width: 739
 VWidth: 0
-Flags: W
-HStem: -5 29<214.692 287.247 443.521 516.308> 600 50<99.3302 216.443 527.05 669.264> 719 100<241.438 324.562 436.438 519.562>
-VStem: 233 100<727.438 810.562> 325 80<52.5 431.428> 428 100<727.438 810.562>
+Flags: H
 LayerCount: 3
 Fore
-Refer: 989 -1 N 1 0 0 1 228 24 2
-Refer: 645 978 N 1 0 0 1 0 0 3
+Refer: 989 -1 N 1 0 0 1 223 0 2
+Refer: 641 933 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" Upsilon uni0308.cap
 EndChar

@@ -10,6 +10,7 @@ AnchorPoint: "top_stack" 152 474 mark 0
 AnchorPoint: "top_stack" 152 632 basemark 0
 AnchorPoint: "top_accent" 152 533 mark 0
 AnchorPoint: "grk_top" 152 507 mark 0
+AnchorPoint: "grk_uc_top_left" 213 517 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -23,5 +24,6 @@ SplineSet
  184 465 126 489 101 489 c 0
  77 489 48 448 40 448 c 0x60
 EndSplineSet
+Validated: 1
 Substitution2: "perispomeni_alt subtable" uni0342.alt
 EndChar

@@ -2,6 +2,7 @@
 StartChar: uni0345
 Encoding: 837 837 2745
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -222 62<82 149.666>
 VStem: 40 66<-159.987 -63.3407>
@@ -19,4 +20,6 @@ SplineSet
  97 -61 110 -68 110 -87 c 0
  110 -99 106 -111 106 -127 c 0
 EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0345.cap
 EndChar

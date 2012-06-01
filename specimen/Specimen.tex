@@ -11,7 +11,7 @@ bulgarian,slovenian,vietnamese,greek%
 }
 \usepackage{csquotes}
 \defaultfontfeatures{RawFeature={+calt,+clig,
-+tlig,+ccmp}}%,Numbers={Proportional,OldStyle}}
++tlig,+ccmp,+cv06}}%,Numbers={Proportional,OldStyle}}
 
 \setmainfont{EB Garamond}
 
@@ -224,6 +224,10 @@ Johannes Gensfleisch zur Laden zum Gutenberg, 1397
 \paragraph*{Catalan} l + · are replaced by a l· ligature: {\addfontfeature{Language=Catalan}paral·lel}
 \paragraph*{Serbian/Macedonian} replaces б by \begin{serbian}б\end{serbian} and italic \textit{б, д, г, п, т, ш, ѓ} by \begin{serbian}\itshape б, д, г, п, т, ш, ѓ\end{serbian}
 
+\subsection{Character Composition and Decomposition}
+\paragraph*{ccmp} contains rules for composing characters with combining diacritics.
+\paragraph*{ss20} decomposes precomposed characters into combinations of base characters and combining diacritics (or special variants thereof) conforming to the Unicode Normalization Charts.
+
 \subsection{Figures}
 This font is primarily intended for texts. Thus default figures are oldstyle proportional so they fit best in a text setting. For many purposes though, tabular (all figures have the same width) and/or lining figures (they are about caps height) are preferred. They can be accessed using the features \texttt{tnum} and \texttt{lnum}.
 The combinations are:
@@ -282,7 +286,7 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 \paragraph*{cv04:} Alternate ampersand (only italic): \textit{\&} → \textit{\addfontfeature{RawFeature=+cv04}\&}
 
 \paragraph*{cv05:} Alternate forms of v (only italic): 
-\textit{v → {\addfontfeature{RawFeature=+cv05:1}v}}, \textit{\addfontfeature{RawFeature=+cv05:2}v}, \textit{\addfontfeature{RawFeature=+cv05:3}v}
+\textit{v → {\addfontfeature{CharacterVariant=5:1}v}}, \textit{\addfontfeature{CharacterVariant=5:2}v}, \textit{\addfontfeature{CharacterVariant=5:3}v}
 
 \paragraph*{cv06:} Alternate forms of guillemets (narrower): « ‹ › » → {\addfontfeature{RawFeature=+cv06}« ‹ › »}
 
@@ -297,7 +301,8 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 }
 
 \subsubsection{Greek Variants}
-\paragraph*{cv80:} \addfontfeature{RawFeature=+ss20}alternate circumflex: ῆ ἧ → {\addfontfeature{RawFeature=+cv80}ῆ ἧ} (only works together with \ŧextsc{ss20} which decomposes precomposed glyphs)\\
+\paragraph*{cv80:} \addfontfeature{RawFeature=+ss20}alternate circumflex: ῆ ἧ → {\addfontfeature{RawFeature=+cv80}ῆ ἧ} (only works together with \textsc{ss20} which decomposes precomposed glyphs)\\
+\paragraph*{cv81:} prosgegrammeni instead of ipogegrammeni: ᾞ → {\addfontfeature{CharacterVariant=81:1} ᾞ} → {\addfontfeature{CharacterVariant=81:2} ᾞ}
 Planned: alternate β, ε, θ, κ, π, ρ, σ, φ;\\
 
 \subsubsection{IPA Variants}
