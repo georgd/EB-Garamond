@@ -27,32 +27,6 @@
 @RightKern_v = [ v w y ];
 @RightKern_vsc = [ V.sc v.sc W.sc w.sc ];
 
-## Cyrillic ##
-
-@LeftKern_ie = [ uni0430 uni0435 uni0437 uni043E uni0441 uni044D uni044F uni0454 uni0455 uni04E9 ];
-@LeftKern_en = [ uni0432 uni0433 uni0438 uni043A uni043C uni043D uni043F uni0446 uni0448 uni0449 uni044B uni044C uni044E uni045A uni045F uni0434.alt uni043B.alt uni0459.alt ];
-@LeftKern_de = [ uni0434 uni043B uni0459 ];
-@LeftKern_te = [ uni0442 uni044A ];
-@LeftKern_cyr_u = [ uni0443 ];
-@LeftKern_zhe = [ uni0436 uni0445 ];
-@LeftKern_ef = [ uni0444 ];
-@LeftKern_che = [ uni0447 ];
-
-@RightKern_Ghe = [ uni0413 uni0490 ];
-@RightKern_Te = [uni0422 ];
-@RightKern_de = [ uni0434 uni043B ];
-@RightKern_en = [ uni0438 uni043C uni043D uni043F uni0446 uni0447 uni0448 uni0449 uni044B uni044F uni045F uni0434.alt uni043B.alt ];
-
-## Greek ##
-@grk_topAcc = [ uni0308 uni0313 uni0314 uni0342 uni0342.alt gravecomb.grk acutecomb.grk uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308.grkstack uni0313.grkstack uni0314.grkstack ];
-@grk_tlAcc1 = [ uni0313 uni0314 gravecomb.grk acutecomb.grk ];
-@grk_tlAcc2 = [ uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt ];
-@RightKern_Tau = [ Tau ];
-@RightKern_Upsilon = [ Upsilon Upsilontonos Upsilondieresis uni1F59 uni1F5B uni1F5D uni1F5F ];
-@RightKern_Gamma = [ Gamma ];
-
-@LeftKern_GrNoAsc = [ alpha uni1FB3 gamma epsilon eta uni1FC3 iota kappa mu nu omicron pi rho sigma sigma1 tau upsilon chi omega uni1FF3 ];
-
 @LeftKern_HighAscAfter_longf = [b h-l
 	agrave acircumflex adieresis aring egrave edieresis igrave iacute icircumflex idieresis eth ograve ugrave thorn germandbls abreve ccaron ebreve ecaron gbreve gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex kcommaaccent lacute lcommaaccent lcaron ldot lslash ncaron obreve rcaron scircumflex scaron ubreve ydieresis zcaron longs
 	uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F
@@ -99,7 +73,23 @@ lookup kern {
     pos @RightKern_O @LeftKern_o -10;
 #    pos @RightKern_o @LeftKern_v -8;
 
+subtable;
+
 ## Cyrillic
+@LeftKern_ie = [ uni0430 uni0435 uni0437 uni043E uni0441 uni044D uni044F uni0454 uni0455 uni04E9 ];
+@LeftKern_en = [ uni0432 uni0433 uni0438 uni043A uni043C uni043D uni043F uni0446 uni0448 uni0449 uni044B uni044C uni044E uni045A uni045F uni0434.alt uni043B.alt uni0459.alt ];
+@LeftKern_de = [ uni0434 uni043B uni0459 ];
+@LeftKern_te = [ uni0442 uni044A ];
+@LeftKern_cyr_u = [ uni0443 ];
+@LeftKern_zhe = [ uni0436 uni0445 ];
+@LeftKern_ef = [ uni0444 ];
+@LeftKern_che = [ uni0447 ];
+
+@RightKern_Ghe = [ uni0413 uni0490 ];
+@RightKern_Te = [uni0422 ];
+@RightKern_de = [ uni0434 uni043B ];
+@RightKern_en = [ uni0438 uni043C uni043D uni043F uni0446 uni0447 uni0448 uni0449 uni044B uni044F uni045F uni0434.alt uni043B.alt ];
+
     pos @RightKern_Ghe @LeftKern_ie -130;
     pos @RightKern_Ghe @LeftKern_de -140;
     pos @RightKern_Ghe @LeftKern_en -100;
@@ -118,23 +108,46 @@ lookup kern {
     pos @RightKern_Te @LeftKern_ef -65;
     pos @RightKern_Te @LeftKern_che -110;
     
+subtable;
+
 ## Greek
+@grk_topAcc = [ uni0308 uni0313 uni0314 uni0342 uni0342.alt gravecomb.grk acutecomb.grk uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308.grkstack uni0313.grkstack uni0314.grkstack ];
+@grk_tlAcc1 = [ uni0313 uni0314 gravecomb.grk acutecomb.grk ];
+@grk_tlAcc2 = [ uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt ];
+@RightKern_Tau = [ Tau ];
+@RightKern_Upsilon = [ Upsilon Upsilontonos Upsilondieresis uni1F59 uni1F5B uni1F5D uni1F5F ];
+@RightKern_Gamma = [ Gamma ];
+
+@LeftKern_GrNoAsc = [ alpha uni1FB3 gamma epsilon eta uni1FC3 iota kappa mu nu omicron pi rho sigma sigma1 tau upsilon chi omega uni1FF3 ];
+
     pos @RightKern_Tau @LeftKern_GrNoAsc -90;
     pos @RightKern_Gamma @LeftKern_GrNoAsc -100;
     pos @RightKern_Upsilon @LeftKern_GrNoAsc -50;
 } kern;
 
 lookup ckern1 {
+    pos Alpha' <0 0 200 0> uni0345.cap1;
+    pos Alpha' <0 0 340 0> uni0345.cap2;
     pos [ Epsilon Eta Iota Rho ]' <79 0 79 0> @grk_tlAcc1;
     pos [ Epsilon Eta Iota ]' <218 0 218 0> @grk_tlAcc2;
-    pos Eta' <79 0 79 0> uni0345 @grk_tlAcc1;
-    pos Eta' <218 0 218 0> uni0345 @grk_tlAcc2;
+    pos Eta' <79 0 79 0> uni0345.cap @grk_tlAcc1;
+    pos Eta' <218 0 218 0> uni0345.cap @grk_tlAcc2;
+    pos Eta' <79 0 279 0> uni0345.cap1 @grk_tlAcc1;
+    pos Eta' <218 0 418 0> uni0345.cap1 @grk_tlAcc2;
+    pos Eta' <79 0 419 0> uni0345.cap2 @grk_tlAcc1;
+    pos Eta' <218 0 558 0> uni0345.cap2 @grk_tlAcc2;
+    pos Eta' <0 0 200 0> uni0345.cap1;
+    pos Eta' <0 0 340 0> uni0345.cap2;
     pos Omicron' <21 0 21 0> @grk_tlAcc1;
     pos Omicron' <157 0 157 0> @grk_tlAcc2;
     pos Upsilon' <84 0 84 0> @grk_tlAcc1;
     pos Upsilon' <223 0 223 0> @grk_tlAcc2;
     pos Omega' <121 0 121 0> @grk_tlAcc2;
-    pos Omega' <121 0 121 0> uni0345 @grk_tlAcc2;
+    pos Omega' <121 0 121 0> uni0345.cap @grk_tlAcc2;
+    pos Omega' <121 0 321 0> uni0345.cap1 @grk_tlAcc2;
+    pos Omega' <121 0 461 0> uni0345.cap2 @grk_tlAcc2;
+    pos Omega' <0 0 200 0> uni0345.cap1;
+    pos Omega' <0 0 340 0> uni0345.cap2;
 } ckern1;
 
 lookup ckern2 {
