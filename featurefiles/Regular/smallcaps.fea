@@ -1,9 +1,12 @@
 lookup Smallcaps {
     sub @SMALLCAPS_BASIS by @SMALLCAPS;
+    sub uni0345.cap1 by uni0345.sc1;
 } Smallcaps;
 
 lookup c2sc {
     sub @C2SC_BASIS by @C2SC;
+    sub uni0345.cap1 by uni0345.sc1;
+    sub uni0345.cap2 by uni0345.sc1;
 } c2sc;
 
 feature smcp {
