@@ -68,11 +68,3 @@ feature cv05 {
     lookup v_alternates;
 } cv05;
 
-lookup cool {
-    sub L by c;
-} cool;
-
-feature cool {
-    lookup cool;
-} cool;
-
