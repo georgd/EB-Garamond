@@ -46,6 +46,10 @@ lookup historic_apostrophe {
     sub quoteright' @NO_ASC by quoteright.01;
 } historic_apostrophe;
 
+feature ss05 {
+    lookup historic_apostrophe;
+} ss05;
+
 lookup guillemet_var {
     sub [ guilsinglleft guilsinglright guillemotleft guillemotright ] by [ guilsinglleft.alt guilsinglright.alt guillemotleft.alt guillemotright.alt ];
 } guillemet_var;
@@ -53,10 +57,6 @@ lookup guillemet_var {
 feature cv06 {
     lookup guillemet_var;
 } cv06;
-
-feature ss05 {
-    lookup historic_apostrophe;
-} ss05;
 
 lookup one_variants {
     sub one by one.01;
@@ -67,35 +67,3 @@ feature cv11 {
     lookup one_variants;
 } cv11;
 
-lookup perispomeni_alt {
-    sub uni0342 by uni0342.alt;
-} perispomeni_alt;
-
-feature cv80 {
-    lookup perispomeni_alt;
-} cv80;
-
-lookup floralhearts_variants {
-    sub uni2619 by uni2619.01;
-    sub uni2767 by uni2767.01;
-} floralhearts_variants;
-
-feature cv90 {
-    lookup floralhearts_variants;
-} cv90;
-
-lookup pilcrow_variants {
-    sub paragraph by paragraph.01;
-} pilcrow_variants;
-
-feature cv91 {
-    lookup pilcrow_variants;
-} cv91;
-
-lookup ipa_variants {
-    sub [ beta ] by [ beta.ipa ];
-} ipa_variants;
-
-feature ss06 {
-    lookup ipa_variants;
-} ss06;
