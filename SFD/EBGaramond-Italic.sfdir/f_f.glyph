@@ -1,8 +1,8 @@
 
 StartChar: f_f
 Encoding: 64256 64256 958
-Width: 536
-Flags: W
+Width: 477
+Flags: HWO
 HStem: -288 40<-112.864 -43.4509> -249 40<58.7807 159.805> 356 38<37.2083 127.978> 362 38<209.017 352.978> 370 38<434.706 551.671> 628 41<321.904 429.361>
 VStem: 663 54<600.853 653.084>
 LayerCount: 2
@@ -60,7 +60,6 @@ SplineSet
  436 669 467 664 482 645 c 0
  486 640 488 639 493 644 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "Single Substitution lookup 61 subtable" f_f.short
 Substitution2: "Single Substitution lookup 60 subtable" f_f.short
 Ligature2: "liga_standard subtable" f.DEU f.DEU
