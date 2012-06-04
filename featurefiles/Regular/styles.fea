@@ -67,3 +67,11 @@ feature cv11 {
     lookup one_variants;
 } cv11;
 
+lookup germandbls_variants {
+    sub germandbls from [ germandbls germandbls.alt ];
+    sub germandbls.sc from [ germandbls.sc1 germandbls.sc ];
+} germandbls_variants;
+
+feature cv21 {
+    lookup germandbls_variants;
+} cv21;
