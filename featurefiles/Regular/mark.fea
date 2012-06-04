@@ -1,46 +1,43 @@
 
-lookup \mark {
+lookup mark {
   lookupflag 0;
   markClass [\uni030C.alt ] <anchor 22 643> @top_left;
   pos base [\n ] <anchor 38 609> mark @top_left;
-
   subtable;
-  markClass [\uni0345.cap1 ] <anchor -35 290> @grk_uc_right;
-  markClass [\uni0345.cap2 ] <anchor -5 290> @grk_uc_right;
-  markClass [\uni0345.sc1 ] <anchor -10 290> @grk_uc_right;
-  markClass [\uni0306.cap ] <anchor 152 720> @grk_uc_top;
-  markClass [\uni0304.cap ] <anchor 165 720> @grk_uc_top;
+  markClass [\uni0345.cap1 ] <anchor 25 290> @grk_uc_right;
+  markClass [\uni0345.cap2 ] <anchor 15 290> @grk_uc_right;
+  markClass [\uni0345.sc1 ] <anchor 0 290> @grk_uc_right;
   markClass [\uni0313 ] <anchor 82 665> @grk_uc_top_left;
   markClass [\uni0314 ] <anchor 84 665> @grk_uc_top_left;
   markClass [\uni0342 ] <anchor 213 517> @grk_uc_top_left;
   markClass [\tonos \gravecomb.grk \acutecomb.grk ] <anchor 77 630> @grk_uc_top_left;
   markClass [\uni0313.grk \uni0314.grk ] <anchor 202 630> @grk_uc_top_left;
   markClass [\uni0313.grkstack \uni0314.grkstack ] <anchor 135 665> @grk_uc_top_left;
-  pos base [\Alpha ] <anchor 684 290> mark @grk_uc_right
-  	<anchor 186 665> mark @grk_uc_top_left
-	<anchor 373 720> mark @grk_uc_top;
-  pos base [\Epsilon \Rho ] <anchor 535 290> mark @grk_uc_right
+  markClass [\uni0306.cap \uni0308.cap ] <anchor 152 720> @grk_uc_top;
+  markClass [\uni0304.cap ] <anchor 165 720> @grk_uc_top;
+  pos base [\Alpha ] <anchor 373 720> mark @grk_uc_top
+	<anchor 186 665> mark @grk_uc_top_left
+	<anchor 684 290> mark @grk_uc_right;
+  pos base [\Epsilon \Eta \Iota \Rho ] <anchor -36 665> mark @grk_uc_top_left
 	<anchor 297 720> mark @grk_uc_top
-	<anchor -36 665> mark @grk_uc_top_left;
-  pos base [\Eta ] <anchor 810 290> mark @grk_uc_right
-	<anchor 297 720> mark @grk_uc_top
-	<anchor -36 665> mark @grk_uc_top_left;
-  pos base [\Iota ] <anchor 340 290> mark @grk_uc_right
-	<anchor 297 720> mark @grk_uc_top
-	<anchor -36 665> mark @grk_uc_top_left;
-  pos base [\Omicron ] <anchor 763 290> mark @grk_uc_right
+	<anchor 535 290> mark @grk_uc_right;
+  pos base [\Omicron ] <anchor 25 665> mark @grk_uc_top_left
 	<anchor 393 720> mark @grk_uc_top
-	<anchor 25 665> mark @grk_uc_top_left;
-  pos base [\Upsilon \Upsilon1 ] <anchor 613 290> mark @grk_uc_right
+	<anchor 763 290> mark @grk_uc_right;
+  pos base [\Upsilon \Upsilon1 ] <anchor -41 665> mark @grk_uc_top_left
 	<anchor 375 720> mark @grk_uc_top
-	<anchor -41 665> mark @grk_uc_top_left;
-  pos base [\Omega ] <anchor 830 290> mark @grk_uc_right
+	<anchor 613 290> mark @grk_uc_right;
+  pos base [\Omega ] <anchor 60 665> mark @grk_uc_top_left
 	<anchor 422 720> mark @grk_uc_top
-	<anchor 60 665> mark @grk_uc_top_left;
-
+	<anchor 830 290> mark @grk_uc_right;
+  pos base [\alpha.sc Alpha.sc ] <anchor 549 190> mark @grk_uc_right;
+  pos base [\epsilon.sc Epsilon.sc ] <anchor 468 190> mark @grk_uc_right;
+  pos base [\eta.sc Eta.sc ] <anchor 634 190> mark @grk_uc_right;
+  pos base [\iota.sc Iota.sc ] <anchor 301 190> mark @grk_uc_right;
+  pos base [\omicron.sc Omicron.sc ] <anchor 616 190> mark @grk_uc_right;
+  pos base [\upsilon.sc Upsilon.sc ] <anchor 449 181> mark @grk_uc_right;
+  pos base [\omega.sc Omega.sc ] <anchor 646 190> mark @grk_uc_right;
   subtable;
-
-  markClass [\uni0345 \uni0345.cap ] <anchor 76 -151> @grk_bottom;
   markClass [\uni0306 ] <anchor 169 520> @grk_top;
   markClass [\uni0313 \uni0314 ] <anchor 59 560> @grk_top;
   markClass [\uni0343 ] <anchor 66 560> @grk_top;
@@ -53,30 +50,43 @@ lookup \mark {
   markClass [\uni0342.alt ] <anchor 112 533> @grk_top;
   markClass [\uni0313.grkstack ] <anchor 55 550> @grk_top;
   markClass [\uni0314.grkstack ] <anchor 65 550> @grk_top;
-  pos base [\epsilon \uni03F2 ] <anchor 173 530> mark @grk_top
-	<anchor 130 -147> mark @grk_bottom;
-  pos base [\alpha ] <anchor 268 -147> mark @grk_bottom
-	<anchor 242 530> mark @grk_top;
-  pos base [\eta \rho \uni03F1 ] <anchor 232 530> mark @grk_top
-	<anchor 104 -147> mark @grk_bottom;
-  pos base [\iota ] <anchor 113 530> mark @grk_top
-	<anchor 130 -147> mark @grk_bottom;
-  pos base [\omicron \upsilon ] <anchor 130 -147> mark @grk_bottom;
-  pos base [\omicron ] <anchor 198 530> mark @grk_top;
-  pos base [\upsilon ] <anchor 208 530> mark @grk_top;
-  pos base [\omega ] <anchor 285 530> mark @grk_top
-	<anchor 275 -147> mark @grk_bottom;
-  pos base [\space.stack ] <anchor 165 530> mark @grk_top;
+  markClass [\uni0345 \uni0345.cap ] <anchor 76 -151> @grk_bottom;
   pos base [\Alpha ] <anchor 340 -100> mark @grk_bottom;
   pos base [\Epsilon ] <anchor 280 -100> mark @grk_bottom;
   pos base [\Eta ] <anchor 418 -100> mark @grk_bottom;
   pos base [\Iota ] <anchor 170 -100> mark @grk_bottom;
-  pos base [\Omicron ] <anchor 370 -100> mark @grk_bottom;
-  pos base [\Upsilon \Upsilon1 ] <anchor 370 -100> mark @grk_bottom;
+  pos base [\Omicron \Upsilon \Upsilon1 ] <anchor 370 -100> mark @grk_bottom;
   pos base [\Omega ] <anchor 415 -100> mark @grk_bottom;
-
+  pos base [\epsilon \uni03F2 ] <anchor 130 -147> mark @grk_bottom
+	<anchor 173 530> mark @grk_top;
+  pos base [\iota ] <anchor 110 -147> mark @grk_bottom
+	<anchor 110 530> mark @grk_top;
+  pos base [\alpha ] <anchor 242 530> mark @grk_top
+	<anchor 268 -147> mark @grk_bottom;
+  pos base [\eta \rho \uni03F1 ] <anchor 104 -147> mark @grk_bottom
+	<anchor 232 530> mark @grk_top;
+  pos base [\omicron ] <anchor 198 530> mark @grk_top
+	<anchor 130 -147> mark @grk_bottom;
+  pos base [\upsilon ] <anchor 208 530> mark @grk_top
+	<anchor 130 -147> mark @grk_bottom;
+  pos base [\omega ] <anchor 275 -147> mark @grk_bottom
+	<anchor 285 530> mark @grk_top;
+  pos base [\space.stack ] <anchor 165 530> mark @grk_top;
+  pos base [\alpha.sc Alpha.sc ] <anchor 267 -147> mark @grk_bottom
+	<anchor 276 560> mark @grk_top;
+  pos base [\epsilon.sc Epsilon.sc ] <anchor 228 560> mark @grk_top
+	<anchor 244 -147> mark @grk_bottom;
+  pos base [\eta.sc Eta.sc ] <anchor 318 560> mark @grk_top
+	<anchor 318 -147> mark @grk_bottom;
+  pos base [\iota.sc Iota.sc ] <anchor 157 560> mark @grk_top
+	<anchor 160 -147> mark @grk_bottom;
+  pos base [\omicron.sc Omicron.sc ] <anchor 300 560> mark @grk_top
+	<anchor 300 -147> mark @grk_bottom;
+  pos base [\upsilon.sc Upsilon.sc ] <anchor 287 -147> mark @grk_bottom
+	<anchor 292 560> mark @grk_top;
+  pos base [\omega.sc Omega.sc ] <anchor 330 -147> mark @grk_bottom
+	<anchor 330 560> mark @grk_top;
   subtable;
-
   markClass [\uni0302 ] <anchor 138 550> @top_accent;
   markClass [\uni030C ] <anchor 139 533> @top_accent;
   markClass [\tildecomb \uni0342 \uni033E ] <anchor 152 533> @top_accent;
@@ -308,7 +318,6 @@ lookup \mark {
   pos base [\uni044B ] <anchor 305 -100> mark @below_accent;
   pos base [\uni044D \uni0276 ] <anchor 175 -100> mark @below_accent;
   pos base [\longs.short ] <anchor 127 -100> mark @below_accent;
-
   subtable;
   markClass [\uni0328 ] <anchor 156 18> @ogonek;
   markClass [\uni0328.cap ] <anchor 188 18> @ogonek;
@@ -321,7 +330,6 @@ lookup \mark {
   pos base [\E \uni0415 \uni0413 ] <anchor 450 18> mark @ogonek;
   pos base [\O \Ohorn ] <anchor 520 18> mark @ogonek;
   pos base [\U \Uhorn ] <anchor 490 18> mark @ogonek;
-
   subtable;
   markClass [\uni0327 ] <anchor 114 8> @cedilla;
   markClass [\uni0327.cap ] <anchor 127 8> @cedilla;
@@ -342,8 +350,8 @@ lookup \mark {
   pos base [\l ] <anchor 222 660> mark @top_right;
   pos base [\d ] <anchor 489 660> mark @top_right;
   pos base [\L ] <anchor 492 624> mark @top_right;
-} \mark;
+} mark;
 
 feature mark {
-  lookup \mark;
+      lookup mark;
 } mark;
