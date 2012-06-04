@@ -6,12 +6,13 @@ VWidth: 0
 Flags: W
 HStem: -5 29<24.6924 100.631 239.305 309.308> 254 25<261.331 369.017> 622 31<37.0745 105.304> 630 28<221.934 346.854>
 VStem: 130 80<45.1651 603.448> 441 90<377.799 555.339>
-AnchorPoint: "grk_uc_top_left" -36 665 basechar 0
-AnchorPoint: "grk_uc_top" 297 720 basechar 0
 AnchorPoint: "grk_uc_right" 535 290 basechar 0
+AnchorPoint: "grk_uc_top" 297 720 basechar 0
+AnchorPoint: "grk_uc_top_left" -36 665 basechar 0
 LayerCount: 3
 Fore
 Refer: 26 80 N 1 0 0 1 0 0 3
 Validated: 1
 Position2: "Single Positioning lookup 4 subtable" dx=79 dy=0 dh=79 dv=0
+Substitution2: "c2sc subtable" Rho.sc
 EndChar

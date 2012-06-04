@@ -5,8 +5,8 @@ Width: 424
 Flags: W
 HStem: -14 76<142.392 251.947> 328 86<50.9908 110.021> 404 20G<298 323.5>
 VStem: 120 11<140 256> 334 55<158.548 337.75>
-AnchorPoint: "grk_top" 208 530 basechar 0
 AnchorPoint: "grk_bottom" 130 -147 basechar 0
+AnchorPoint: "grk_top" 208 530 basechar 0
 LayerCount: 3
 Back
 SplineSet
@@ -45,4 +45,5 @@ SplineSet
  82 132 120 204 120 256 c 0xb8
 EndSplineSet
 Validated: 1
+Substitution2: "Smallcaps subtable" upsilon.sc
 EndChar

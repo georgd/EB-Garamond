@@ -5,8 +5,8 @@ Width: 460
 Flags: W
 HStem: -285 21G<351 376> -14 21G<114 126> 328 86<52.9908 111.806 285.725 347.033>
 VStem: 122 35<194.538 316.014> 300 92<-271.125 -131.76> 354 38<56.129 322.876>
-AnchorPoint: "grk_bottom" 104 -147 basechar 0
 AnchorPoint: "grk_top" 232 530 basechar 0
+AnchorPoint: "grk_bottom" 104 -147 basechar 0
 LayerCount: 3
 Back
 SplineSet
@@ -58,4 +58,5 @@ SplineSet
  114 156 122 204 122 256 c 0xf4
 EndSplineSet
 Validated: 33
+Substitution2: "Smallcaps subtable" eta.sc
 EndChar

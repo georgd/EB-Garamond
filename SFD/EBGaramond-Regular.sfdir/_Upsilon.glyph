@@ -7,9 +7,9 @@ Flags: W
 HStem: -5 29<214.692 287.247 443.521 516.308> 600 50<99.3302 216.443 527.05 669.264>
 VStem: 325 80<52.5 431.428>
 AnchorPoint: "grk_bottom" 370 -100 basechar 0
-AnchorPoint: "grk_uc_top_left" -41 665 basechar 0
-AnchorPoint: "grk_uc_top" 375 720 basechar 0
 AnchorPoint: "grk_uc_right" 613 290 basechar 0
+AnchorPoint: "grk_uc_top" 375 720 basechar 0
+AnchorPoint: "grk_uc_top_left" -41 665 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -42,4 +42,5 @@ Position2: "Single Positioning lookup 26 subtable" dx=0 dy=0 dh=-70 dv=0
 Position2: "Single Positioning lookup 25 subtable" dx=0 dy=0 dh=-70 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=223 dy=0 dh=223 dv=0
 Position2: "Single Positioning lookup 16 subtable" dx=84 dy=0 dh=84 dv=0
+Substitution2: "c2sc subtable" Upsilon.sc
 EndChar

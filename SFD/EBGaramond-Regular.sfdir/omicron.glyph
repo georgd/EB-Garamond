@@ -5,8 +5,8 @@ Width: 400
 Flags: W
 HStem: -14 78<108.326 236.99> 334 80<161.295 285.406>
 VStem: 35 40<97.88 241.241> 325 40<158.381 296.046>
-AnchorPoint: "grk_top" 198 530 basechar 0
 AnchorPoint: "grk_bottom" 130 -147 basechar 0
+AnchorPoint: "grk_top" 198 530 basechar 0
 LayerCount: 3
 Back
 SplineSet
@@ -35,4 +35,5 @@ SplineSet
  249 64 325 141 325 235 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "Smallcaps subtable" omicron.sc
 EndChar
