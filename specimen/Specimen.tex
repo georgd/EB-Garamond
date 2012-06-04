@@ -292,6 +292,9 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 
 \paragraph*{cv11:} Variants for the numeral one: some publishers prefer a numeral one that’s clearly different from small cap i: \textsc{i123} vs. {\addfontfeature{RawFeature={+cv11,+smcp}}i123}
 
+\paragraph*{cv21} Variants for ß: first Variant sets all ß to the ß-shape, second to ss: \textsc{{\fontspec[CharacterVariant=21:1]{EBGaramond}ß} {\fontspec[CharacterVariant=21:2]{EBGaramond}ß}}
+
+\subsubsection{Symbol Variants}
 \paragraph*{cv90:} floral hearts variants: \char"2619{}  and \char"2767{}  → {\addfontfeature{RawFeature=+cv90}\char"2619{} and \char"2767}
 
 \paragraph*{cv91:} Alternate Variant for the Pilcrow in form of the old capitulum symbol: {\addfontfeature{RawFeature=+cv91}¶}
@@ -302,7 +305,7 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 
 \subsubsection{Greek Variants}
 \paragraph*{cv80:} \addfontfeature{RawFeature=+ss20}alternate circumflex: ῆ ἧ → {\addfontfeature{RawFeature=+cv80}ῆ ἧ} (only works together with \textsc{ss20} which decomposes precomposed glyphs)
-\paragraph*{cv81:} prosgegrammeni instead of ipogegrammeni: ᾞ → {\addfontfeature{CharacterVariant=81:1} ᾞ} → {\addfontfeature{CharacterVariant=81:2} ᾞ} (this too only works together with \textsc{ss20} which decomposes precomposed glyphs)\\
+\paragraph*{cv81:} prosgegrammeni instead of ipogegrammeni: ᾞ → {\addfontfeature{StylisticSet=20,CharacterVariant=81:1} ᾞ} → {\addfontfeature{StylisticSet=20,CharacterVariant=81:2} ᾞ} (this too only works together with \textsc{ss20} which decomposes precomposed glyphs)\\
 Planned: alternate β, ε, θ, κ, π, ρ, σ, φ;\\
 
 \subsubsection{IPA Variants}
