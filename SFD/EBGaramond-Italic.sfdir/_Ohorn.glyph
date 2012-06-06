@@ -3,14 +3,15 @@ StartChar: Ohorn
 Encoding: 416 416 288
 Width: 712
 VWidth: 0
-Flags: HW
-HStem: -14 39<308.088 467.934> 625 39<454.027 626.048>
+Flags: W
+HStem: -14 35<264.006 414.248> 415 25<444.344 487.1> 628 36<391.576 555.605>
+VStem: 89 82<128.393 340.569> 563 60<512.112 595.491> 642 82<325.945 533.828>
 AnchorPoint: "cedilla" 412 8 basechar 0
 AnchorPoint: "ogonek" 520 18 basechar 0
 AnchorPoint: "below_accent" 370 -100 basechar 0
 AnchorPoint: "top_accent" 383 700 basechar 0
 LayerCount: 2
 Fore
-Refer: 54 44 N 1 0 0 1 457.076 544 2
+Refer: 54 44 N 1 0 0 1 457 544 2
 Refer: 46 79 N 1 0 0 1 0 0 2
 EndChar

@@ -3,7 +3,7 @@ StartChar: A
 Encoding: 65 65 31
 Width: 772
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -5 36<17.8519 96.2793 218.75 264.899 429.027 521.115 647.592 701.899>
 AnchorPoint: "cedilla" 124 8 basechar 0
 AnchorPoint: "ogonek" 508 18 basechar 0
@@ -5234,7 +5234,7 @@ SplineSet
  652 564 l 2
  681 592 698 622 706 622 c 0
  719 622 730 626 752 636 c 0
- 769 644 796 676 801 676 c 4
+ 769 644 796 676 801 676 c 0
  806 676 808 662 803 644 c 2
  648 128 l 2
  630 67 643 35 678 28 c 0

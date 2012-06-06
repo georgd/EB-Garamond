@@ -3,11 +3,12 @@ StartChar: upsilondieresistonos
 Encoding: 944 944 2202
 Width: 486
 VWidth: 0
-Flags: H
+HStem: -14 79<165.962 276.979> 328 86<126.064 185.519> 404 20<378.5 388> 484 100<307.771 371.298 458.771 522.298> 644 189
+VStem: 104 42<85.6311 207.014> 157 62<286.5 385.5> 294 90<496.614 570.468> 381 39<217.536 398.205> 441 141 445 90<496.614 570.468>
 LayerCount: 2
 Fore
-Refer: 2380 -1 N 1 0 0 1 431.197 181 2
-Refer: 2373 -1 N 1 0 0 1 283.825 -40 2
+Refer: 2380 -1 N 1 0 0 1 431 181 2
+Refer: 2373 -1 N 1 0 0 1 284 -40 2
 Refer: 2188 965 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" upsilon uni0308.grkstack acutecomb.grk
 EndChar

@@ -3,12 +3,12 @@ StartChar: Dcaron
 Encoding: 270 270 193
 Width: 773
 VWidth: 0
-Flags: HW
-HStem: -7 35<192.833 439.505> -5 29<20.7629 111.218> 618 33<187.538 282.055 395.287 554.01>
-VStem: 697 86<273.574 501.999>
+Flags: W
+HStem: -7 35<192.833 439.529> -5 29<20.7629 111.218> 618 33<187.538 282.055 395.293 554.01> 700 126
+VStem: 393 291<812 822> 697 86<273.574 501.999>
 LayerCount: 2
 Fore
-Refer: 2092 -1 N 1 0 0 1 388 20.3 2
+Refer: 2092 -1 N 1 0 0 1 388 20 2
 Refer: 43 68 N 1 0 0 1 0 0 3
 Substitution2: "c2sc subtable" Dcaron.sc
 EndChar

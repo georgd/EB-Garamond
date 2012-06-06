@@ -3,18 +3,18 @@ StartChar: backslash
 Encoding: 92 92 97
 Width: 300
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 65 202
 LayerCount: 2
 Fore
 SplineSet
-267 -47 m 30
- 269 -57 257 -62 247 -62 c 28
- 234 -62 221 -59 218 -47 c 30
- 65 648 l 30
- 63 657 73 665 82 665 c 28
- 96 665 110 661 113 648 c 30
- 267 -47 l 30
+267 -47 m 26
+ 269 -57 257 -62 247 -62 c 24
+ 234 -62 221 -59 218 -47 c 26
+ 65 648 l 26
+ 63 657 73 665 82 665 c 24
+ 96 665 110 661 113 648 c 26
+ 267 -47 l 26
 EndSplineSet
 Substitution2: "sups subtable" backslash.sups
 Substitution2: "sinf subtable" backslash.sinf

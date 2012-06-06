@@ -3,14 +3,14 @@ StartChar: slash
 Encoding: 47 47 96
 Width: 370
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
 13 -47 m 26
- 415 648 l 30
- 424 663 439 665 456 665 c 28
- 463 665 467 654 463 648 c 30
+ 415 648 l 26
+ 424 663 439 665 456 665 c 24
+ 463 665 467 654 463 648 c 26
  61 -47 l 26
  53 -61 39 -62 23 -62 c 24
  16 -62 9 -53 13 -47 c 26

@@ -3,11 +3,12 @@ StartChar: iotadieresistonos
 Encoding: 912 912 2237
 Width: 189
 VWidth: 0
-Flags: H
+HStem: -14 21<48 81> 389 20<144 168.5> 474 100<83.7711 147.298 234.771 298.298> 634 189
+VStem: 70 90<486.614 560.468> 116 75<322.648 399.656> 218 141 221 90<486.614 560.468>
 LayerCount: 2
 Fore
-Refer: 2380 -1 N 1 0 0 1 207.726 171 2
-Refer: 2373 -1 N 1 0 0 1 60.3533 -50 2
+Refer: 2380 -1 N 1 0 0 1 208 171 2
+Refer: 2373 -1 N 1 0 0 1 60 -50 2
 Refer: 2180 953 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" iota uni0308.grkstack acutecomb.grk
 EndChar

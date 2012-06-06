@@ -3,18 +3,18 @@ StartChar: uni0323
 Encoding: 803 803 2026
 Width: 218
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -192 101<29.3016 90.5954>
 VStem: 10 100<-172.518 -110.482>
 AnchorPoint: "below_accent" 71 -100 mark 0
 LayerCount: 2
 Fore
 SplineSet
-10 -158 m 4
- 10 -120 46 -91 75 -91 c 4
- 96 -91 110 -105 110 -125 c 4
- 110 -163 74 -192 44 -192 c 4
- 23 -192 10 -178 10 -158 c 4
+10 -158 m 0
+ 10 -120 46 -91 75 -91 c 0
+ 96 -91 110 -105 110 -125 c 0
+ 110 -163 74 -192 44 -192 c 0
+ 23 -192 10 -178 10 -158 c 0
 EndSplineSet
 Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0323.cap
 EndChar

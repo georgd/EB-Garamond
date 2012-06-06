@@ -3,10 +3,11 @@ StartChar: uni1F76
 Encoding: 8054 8054 2347
 Width: 189
 VWidth: 0
-Flags: H
+HStem: -14 21<48 81> 389 20<144 168.5> 474 197<154.812 170.533>
+VStem: 110 74<560.744 660.927> 116 75<322.648 399.656>
 LayerCount: 2
 Fore
-Refer: 2379 -1 N 1 0 0 1 100.178 4 2
+Refer: 2379 -1 N 1 0 0 1 100 4 2
 Refer: 2180 953 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" iota gravecomb.grk
 EndChar

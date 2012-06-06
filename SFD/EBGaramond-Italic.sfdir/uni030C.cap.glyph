@@ -2,8 +2,10 @@
 StartChar: uni030C.cap
 Encoding: 1114970 -1 2092
 Width: 1000
-Flags: HW
-AnchorPoint: "top_accent" 114 679.7 mark 0
+Flags: W
+HStem: 680 126
+VStem: 5 291<792 802>
+AnchorPoint: "top_accent" 114 680 mark 0
 LayerCount: 2
 Fore
 SplineSet

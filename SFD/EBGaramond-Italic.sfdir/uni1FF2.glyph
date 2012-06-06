@@ -3,11 +3,12 @@ StartChar: uni1FF2
 Encoding: 8178 8178 2438
 Width: 557
 VWidth: 0
-Flags: H
+HStem: -14 63<75.9879 190.182 335.571 423.243> 74 199<275 366.5> 394 20<209.5 262 493 523.5> 474 197<376.812 392.533>
+VStem: 34 32<64.9728 153.108> 265 116<159.903 226.882> 266 56<110.745 141.715> 332 74<560.744 660.927> 517 38<197.418 359.002>
 LayerCount: 2
 Fore
-Refer: 2379 -1 N 1 0 0 1 321.65 4 2
-Refer: 2384 837 N 1 0 0 1 238.656 -74 2
+Refer: 2379 -1 N 1 0 0 1 322 4 2
+Refer: 2384 837 N 1 0 0 1 239 -74 2
 Refer: 2191 969 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" omega uni0345 gravecomb.grk
 EndChar

@@ -3,14 +3,14 @@ StartChar: Uhorn
 Encoding: 431 431 290
 Width: 737
 VWidth: 0
-Flags: HW
-HStem: -14 50<308.237 448.172> 620 32<230.399 260.032 375.047 421.459 681.117 711.549>
-VStem: 862 83<673.689 755.877>
+Flags: W
+HStem: -14 40<287.749 457.017> 415 25<797.344 840.1> 620 33<194.808 245.418 355.526 416.649 658.732 696.984 785.167 855.757>
+VStem: 916 60<512.112 595.491>
 AnchorPoint: "ogonek" 490 18 basechar 0
 AnchorPoint: "below_accent" 393 -100 basechar 0
 AnchorPoint: "top_accent" 390 700 basechar 0
 LayerCount: 2
 Fore
-Refer: 54 44 N 1 0 0 1 810.44 544 2
+Refer: 54 44 N 1 0 0 1 810 544 2
 Refer: 48 85 N 1 0 0 1 0 0 2
 EndChar

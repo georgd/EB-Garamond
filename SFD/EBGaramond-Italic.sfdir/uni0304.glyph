@@ -3,20 +3,20 @@ StartChar: uni0304
 Encoding: 772 772 980
 Width: 0
 VWidth: 0
-Flags: HW
-HStem: 534 44<8.43221 246.213>
-VStem: 5 245<538.507 576.395>
+Flags: W
+HStem: 534 44<8.8457 246.203>
+VStem: 5 245<538.507 576.383>
 AnchorPoint: "top_accent" 137 550 mark 0
 LayerCount: 2
 Fore
 SplineSet
-34 578 m 30
- 241 578 l 22
- 246 578 250 573 250 568 c 4
- 250 550.948 227.07 534 214 534 c 30
- 14 534 l 22
- 9 534 5 538 5 543 c 4
- 5 554.183 17.6465 578 34 578 c 30
+34 578 m 26
+ 241 578 l 18
+ 246 578 250 573 250 568 c 0
+ 250 551 227 534 214 534 c 26
+ 14 534 l 18
+ 9 534 5 538 5 543 c 0
+ 5 554 18 578 34 578 c 26
 EndSplineSet
 Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0304.cap
 EndChar

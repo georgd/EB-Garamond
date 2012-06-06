@@ -3,11 +3,12 @@ StartChar: Zcaron
 Encoding: 381 381 286
 Width: 636
 VWidth: 0
-Flags: HW
-HStem: -2 38<148.553 503.874> 604 42<243.524 552.001>
+Flags: W
+HStem: -2 38<148.215 503.926> 604 42<243.75 552.002> 700 126
+VStem: 341 291<812 822>
 LayerCount: 2
 Fore
-Refer: 2092 -1 N 1 0 0 1 336 20.3 2
+Refer: 2092 -1 N 1 0 0 1 336 20 2
 Refer: 64 90 N 1 0 0 1 0 0 3
 Substitution2: "c2sc subtable" Zcaron.sc
 EndChar

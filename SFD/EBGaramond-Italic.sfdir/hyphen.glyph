@@ -3,18 +3,18 @@ StartChar: hyphen
 Encoding: 45 45 94
 Width: 274
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 170 85
-VStem: 50 224
+VStem: 50 224<203.837 220.768>
 LayerCount: 2
 Fore
 SplineSet
 62 170 m 2
- 54.0798 168.873 50 169 50 173 c 0
- 50 195 74.0833 228.779 83 230 c 6
+ 54 169 50 169 50 173 c 0
+ 50 195 74 229 83 230 c 2
  266 255 l 2
- 271.946 255.804 274 254 274 247 c 0
- 274 222 247.9 196.409 238 195 c 2
+ 272 256 274 254 274 247 c 0
+ 274 222 248 196 238 195 c 2
  62 170 l 2
 EndSplineSet
 Substitution2: "sups subtable" hyphen.sups

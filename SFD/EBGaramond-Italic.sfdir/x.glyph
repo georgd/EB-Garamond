@@ -2,7 +2,7 @@
 StartChar: x
 Encoding: 120 120 53
 Width: 438
-Flags: HW
+Flags: W
 HStem: -14 60<8.74617 79.1599 279 349.656> 345 69<115.942 180.5> 356 58<358.514 403.347>
 VStem: 378 26<88.4023 129.488>
 AnchorPoint: "below_accent" 222 -100 basechar 0
@@ -10,11 +10,11 @@ AnchorPoint: "top_accent" 307 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-24 -14 m 4xb0
- 4 -14 -10 2 -10 28 c 4
- -10 51 9 85 26 85 c 4
- 35 85 37 79 42 65 c 4
- 46 53 60 46 63 46 c 4
+24 -14 m 0xb0
+ 4 -14 -10 2 -10 28 c 0
+ -10 51 9 85 26 85 c 0
+ 35 85 37 79 42 65 c 0
+ 46 53 60 46 63 46 c 0
  70 46 81 48 91 60 c 2
  91 60 150 120 196 188 c 0
  198 190 197 193 196 198 c 2
@@ -44,8 +44,8 @@ SplineSet
  264 -14 244 13 233 53 c 0
  228 70 212 137 212 137 c 2
  208 153 204 153 196 143 c 0
- 154 93 98 27 98 27 c 6
- 70 -6 48 -14 24 -14 c 4xb0
+ 154 93 98 27 98 27 c 2
+ 70 -6 48 -14 24 -14 c 0xb0
 EndSplineSet
 Substitution2: "Smallcaps subtable" x.sc
 Substitution2: "sups subtable" x.sups

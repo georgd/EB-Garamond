@@ -3,12 +3,12 @@ StartChar: Ccircumflex
 Encoding: 264 264 187
 Width: 622
 VWidth: 0
-Flags: HW
-HStem: -14 37<315.982 450.038> 628 35<422.993 591.501> 701 132
-VStem: 96 84<142.219 360.884> 418 291<705.3 715.3> 622 33<467.178 536.318>
+Flags: W
+HStem: -14 37<315.982 450.038> 628 35<422.993 591.501> 701 126
+VStem: 96 84<142.219 360.884> 399 291<705 715> 622 33<467.178 536.318>
 LayerCount: 2
 Fore
-Refer: 2084 -1 N 1 0 0 1 394 20.3 2
+Refer: 2084 -1 N 1 0 0 1 394 20 2
 Refer: 32 67 N 1 0 0 1 0 0 3
 Substitution2: "c2sc subtable" Ccircumflex.sc
 EndChar

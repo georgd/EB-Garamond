@@ -3,12 +3,12 @@ StartChar: Omacron.sc
 Encoding: 1114851 -1 1867
 Width: 605
 VWidth: 0
-Flags: HW
-HStem: -15 37<222.358 346.078> 424 32<328.476 442.358> 529 50<373.353 605.392>
-VStem: 365 250
+Flags: W
+HStem: -15 37<222.358 346.078> 424 32<328.476 442.358> 724 54<345.625 637.251>
+VStem: 342 300<726.522 777.788>
 LayerCount: 2
 Fore
-Refer: 2086 -1 N 1 0 0 1 337.496 1 2
+Refer: 2086 -1 N 1 0 0 1 337 1 2
 Refer: 1655 -1 N 1 0 0 1 0 0 3
 Comment: "." 
 EndChar

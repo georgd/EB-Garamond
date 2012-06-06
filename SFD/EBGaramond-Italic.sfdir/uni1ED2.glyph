@@ -3,11 +3,12 @@ StartChar: uni1ED2
 Encoding: 7890 7890 544
 Width: 712
 VWidth: 0
-Flags: H
+HStem: -14 35<264.006 414.248> 620 197<464.812 480.533> 628 36<391.576 555.605> 701 126
+VStem: 89 82<128.393 340.569> 367 291<705 715> 420 74<706.744 806.927> 642 82<325.945 533.828>
 LayerCount: 2
 Fore
 Refer: 2385 -1 N 1 0 0 1 410 150 2
-Refer: 2084 -1 N 1 0 0 1 362 20.3 2
+Refer: 2084 -1 N 1 0 0 1 362 20 2
 Refer: 46 79 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" O uni0302.cap gravecomb.capstack
 EndChar

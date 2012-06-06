@@ -2,7 +2,7 @@
 StartChar: u
 Encoding: 117 117 15
 Width: 498
-Flags: HW
+Flags: W
 HStem: -14 61<132.975 134 321.759 384.925> 398 20G<235.5 260 467.5 477>
 AnchorPoint: "ogonek" 384 18 basechar 0
 AnchorPoint: "below_accent" 181 -100 basechar 0
@@ -1848,7 +1848,7 @@ SplineSet
  314 96 350 175 360 203 c 0
  366 219 355 219 348 211 c 0
  209 59 134 -14 78 -14 c 0
- 51 -14 55.4531 29.8047 66 55 c 26
+ 51 -14 55 30 66 55 c 26
  156 270 l 2
  165 292 184 339 174 339 c 0
  163 339 125 306 96 280 c 0

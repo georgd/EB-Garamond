@@ -3,9 +3,9 @@ StartChar: comma
 Encoding: 44 44 54
 Width: 250
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -129 25<-12.6562 30.1003>
-VStem: 106 60<-31.8883 51.4153>
+VStem: 106 60<-31.8883 51.4908>
 LayerCount: 2
 Back
 Image: 688 592 2 2064 0 ffffffff -952 756 1.81135 1.83784 0
@@ -20377,14 +20377,14 @@ f\"j,e^`7%f%/F'f%/F-gt^]?gsFEp^V@P*aiW)`e_T';h;-oAgY:<1f$`!p
 EndImage
 Fore
 SplineSet
-45 80 m 4
- 45 103 73 120 108 120 c 4
- 142 120 166 84 166 50 c 4
- 166 -50 70 -129 9 -129 c 12
- -1 -129 -15 -128 -15 -121 c 4
- -15 -115 -5 -112 10 -104 c 4
- 68 -73 106 -25 106 25 c 4
- 106 63.6533 45 47 45 80 c 4
+45 80 m 0
+ 45 103 73 120 108 120 c 0
+ 142 120 166 84 166 50 c 0
+ 166 -50 70 -129 9 -129 c 8
+ -1 -129 -15 -128 -15 -121 c 0
+ -15 -115 -5 -112 10 -104 c 0
+ 68 -73 106 -25 106 25 c 0
+ 106 64 45 47 45 80 c 0
 EndSplineSet
 Substitution2: "sups subtable" comma.sups
 Substitution2: "sinf subtable" comma.sinf

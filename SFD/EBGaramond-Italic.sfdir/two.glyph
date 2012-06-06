@@ -3,7 +3,7 @@ StartChar: two
 Encoding: 50 50 77
 Width: 424
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 65<119.682 306.932> 358 55<182.573 278.193>
 VStem: 286 78<262.572 349.305>
 LayerCount: 2
@@ -52,8 +52,8 @@ SplineSet
  103 330 168 413 269 413 c 0
  314 413 363 370 363 326 c 0
  363 262 314 230 272 191 c 0
- 233 155 131 80 120 73 c 4
- 113 69 120 65 126 65 c 6
+ 233 155 131 80 120 73 c 0
+ 113 69 120 65 126 65 c 2
  246 65 l 2
 EndSplineSet
 Substitution2: "'tnum' Tabular Numbers lookup 45 subtable" two.taboldstyle

@@ -3,12 +3,12 @@ StartChar: Jcircumflex.sc
 Encoding: 1114827 -1 1843
 Width: 270
 VWidth: 0
-Flags: HW
-HStem: -175 43<-41.9992 28.7529> 432 20<169.913 194.5 327 338.913> 512 201<349.906 357.197>
-VStem: 351 35<512.486 530>
+Flags: W
+HStem: -175 43<-41.9992 28.7529> 432 20<169.913 194.5 327 338.913> 725 126
+VStem: 202 291<729 739>
 LayerCount: 2
 Fore
-Refer: 2084 -1 N 1 0 0 1 196.828 44 2
+Refer: 2084 -1 N 1 0 0 1 197 44 2
 Refer: 1650 -1 N 1 0 0 1 0 0 3
 Comment: "." 
 EndChar
