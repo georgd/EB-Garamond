@@ -111,9 +111,13 @@ subtable;
 subtable;
 
 ## Greek
-@grk_topAcc = [ uni0308 uni0313 uni0314 uni0342 uni0342.alt gravecomb.grk acutecomb.grk uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308.grkstack uni0313.grkstack uni0314.grkstack ];
-@grk_tlAcc1 = [ uni0313 uni0314 gravecomb.grk acutecomb.grk ];
-@grk_tlAcc2 = [ uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt ];
+@grk_topAcc = [ uni0308 uni0313 uni0314 uni0342 uni0342.alt gravecomb.grk acutecomb.grk uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308.grkstack uni0313.grkstack uni0314.grkstack
+uni0308.sc uni0313.sc uni0314.sc uni0342.sc gravecomb.grksc acutecomb.grksc uni0313.grksc uni0314.grksc 
+gravecomb.grkstacksc acutecomb.grkstacksc uni0308.grkstacksc uni0313.grkstacksc uni0314.grkstacksc uni0342.altsc ];
+@grk_tlAcc1 = [ uni0313 uni0314 gravecomb.grk acutecomb.grk
+	uni0313.sc uni0314.sc gravecomb.grksc acutecomb.grksc ];
+@grk_tlAcc2 = [ uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt
+uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308.sc uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc ];
 @RightKern_Tau = [ Tau ];
 @RightKern_Upsilon = [ Upsilon Upsilontonos Upsilondieresis uni1F59 uni1F5B uni1F5D uni1F5F ];
 @RightKern_Gamma = [ Gamma ];

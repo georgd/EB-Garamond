@@ -7,14 +7,14 @@ Flags: W
 HStem: -5 29<23.6924 99.9253> -5 40<221.438 455.39> 320 32<211.086 367.094> 388 20<400.5 405.5> 618 35<32.1729 114.247 215.59 433.859>
 VStem: 130 80<44.9696 319.486 352 605.889> 383 32<253.771 304.565> 466 25<526.084 573.315>
 AnchorPoint: "grk_bottom" 280 -100 basechar 0
-AnchorPoint: "grk_uc_right" 535 290 basechar 0
-AnchorPoint: "grk_uc_top" 297 720 basechar 0
 AnchorPoint: "grk_uc_top_left" -36 665 basechar 0
+AnchorPoint: "grk_uc_top" 297 720 basechar 0
+AnchorPoint: "grk_uc_right" 535 290 basechar 0
 LayerCount: 3
 Fore
 Refer: 35 69 N 1 0 0 1 0 0 3
 Validated: 1
-Substitution2: "c2sc subtable" Epsilon.sc
 Position2: "Single Positioning lookup 6 subtable" dx=218 dy=0 dh=218 dv=0
 Position2: "Single Positioning lookup 5 subtable" dx=79 dy=0 dh=79 dv=0
+Substitution2: "c2sc subtable" Epsilon.sc
 EndChar

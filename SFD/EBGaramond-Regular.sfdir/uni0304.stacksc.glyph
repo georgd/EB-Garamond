@@ -7,9 +7,9 @@ Flags: W
 HStem: 490 50<53.1042 307.469>
 VStem: 50 260<491.429 539.814>
 AnchorPoint: "top_stack" 180 491 mark 0
-AnchorPoint: "acutestack" 182 570 basemark 0
-AnchorPoint: "gravestack" 186 570 basemark 0
 AnchorPoint: "top_stack" 180 590 basemark 0
+AnchorPoint: "gravestack" 186 570 basemark 0
+AnchorPoint: "acutestack" 182 570 basemark 0
 AnchorPoint: "top_accent" 180 540 mark 0
 LayerCount: 3
 Fore

@@ -7,15 +7,15 @@ Flags: W
 HStem: -5 36<-0.573315 70.1888 195.015 266.525 395.098 475.898 612.158 694.277> 244 43<241.006 430.907>
 VStem: -2 178<4 93.5> 489 208<1 90.5>
 AnchorPoint: "grk_bottom" 340 -100 basechar 0
-AnchorPoint: "grk_uc_right" 684 290 basechar 0
-AnchorPoint: "grk_uc_top_left" 186 665 basechar 0
 AnchorPoint: "grk_uc_top" 373 720 basechar 0
+AnchorPoint: "grk_uc_top_left" 186 665 basechar 0
+AnchorPoint: "grk_uc_right" 684 290 basechar 0
 LayerCount: 3
 Fore
 Refer: 31 65 N 1 0 0 1 0 0 3
 Validated: 1
-Substitution2: "c2sc subtable" Alpha.sc
 Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=315 dv=0
 Position2: "Single Positioning lookup 3 subtable" dx=0 dy=0 dh=340 dv=0
 Position2: "Single Positioning lookup 2 subtable" dx=0 dy=0 dh=200 dv=0
+Substitution2: "c2sc subtable" Alpha.sc
 EndChar
