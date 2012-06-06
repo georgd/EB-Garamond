@@ -1,0 +1,50 @@
+\documentclass[10pt,DIV14]{scrartcl}
+\usepackage{fontspec}
+%\usepackage[greek]{babel}
+%\defaultfontfeatures{RawFeature={+ss20}}
+\setmainfont{EBGaramond}
+\usepackage{multicol}
+%{\addfontfeature{Script=Greek,RawFeature=+cv80}
+%    Μῆνιν ἄειδε, θεά, Πηληϊάδεω Ἀχιλῆος
+%    οὐλομένην, ἣ μυρί' Ἀχαιοῖς ἄλγε' ἔθηκε,
+%    πολλὰς δ' ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν
+%    ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν
+%    οἰωνοῖσί τε πᾶσι, Διὸς δ' ἐτελείετο βουλή,
+%    ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε
+%    Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς. 
+%
+%\textsc{μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος οὐλομένην, ἣ μυρί' Ἀχαιοῖς ἄλγε' ἔθηκε, πολλὰς δ' ἰφθίμους ψυχὰς Ἄϊδι προί̈αψεν ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν οἰωνοῖσί τε πᾶσι, Διὸς δ' ἐτελείετο βουλή, ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε Ἀτρεί̈δης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς.}\\
+%%\addfontfeature{CharacterVariant=81:0}
+\newcommand{\greekextended}{
+\noindent	ἀ 	ἁ 	ἂ 	ἃ 	ἄ 	ἅ 	ἆ 	ἇ 	Ἀ 	Ἁ 	Ἂ 	Ἃ 	Ἄ 	Ἅ 	Ἆ 	Ἇ
+\\ 	ἐ 	ἑ 	ἒ 	ἓ 	ἔ 	ἕ 			Ἐ 	Ἑ 	Ἒ 	Ἓ 	Ἔ 	Ἕ 		
+\\ 	ἠ 	ἡ 	ἢ 	ἣ 	ἤ 	ἥ 	ἦ 	ἧ 	Ἠ 	Ἡ 	Ἢ 	Ἣ 	Ἤ 	Ἥ 	Ἦ 	Ἧ
+\\ 	ἰ 	ἱ 	ἲ 	ἳ 	ἴ 	ἵ 	ἶ 	ἷ 	Ἰ 	Ἱ 	Ἲ 	Ἳ 	Ἴ 	Ἵ 	Ἶ 	Ἷ
+\\ 	ὀ 	ὁ 	ὂ 	ὃ 	ὄ 	ὅ 			Ὀ 	Ὁ 	Ὂ 	Ὃ 	Ὄ 	Ὅ 		
+\\ 	ὐ 	ὑ 	ὒ 	ὓ 	ὔ 	ὕ 	ὖ 	ὗ 		Ὑ 		Ὓ 		Ὕ 		Ὗ
+\\ 	ὠ 	ὡ 	ὢ 	ὣ 	ὤ 	ὥ 	ὦ 	ὧ 	Ὠ 	Ὡ 	Ὢ 	Ὣ 	Ὤ 	Ὥ 	Ὦ 	Ὧ
+\\ 	ὰ 	ά 	ὲ 	έ 	ὴ 	ή 	ὶ 	ί 	ὸ 	ό 	ὺ 	ύ 	ὼ 	ώ 		
+\\ 	ᾀ 	ᾁ 	ᾂ 	ᾃ 	ᾄ 	ᾅ 	ᾆ 	ᾇ 	ᾈ 	ᾉ 	ᾊ 	ᾋ 	ᾌ 	ᾍ 	ᾎ 	ᾏ
+\\ 	ᾐ 	ᾑ 	ᾒ 	ᾓ 	ᾔ 	ᾕ 	ᾖ 	ᾗ 	ᾘ 	ᾙ 	ᾚ 	ᾛ 	ᾜ 	ᾝ 	ᾞ 	ᾟ
+\\ 	ᾠ 	ᾡ 	ᾢ 	ᾣ 	ᾤ 	ᾥ 	ᾦ 	ᾧ 	ᾨ 	ᾩ 	ᾪ 	ᾫ 	ᾬ 	ᾭ 	ᾮ 	ᾯ
+\\ 	ᾰ 	ᾱ 	ᾲ 	ᾳ 	ᾴ 		ᾶ 	ᾷ 	Ᾰ 	Ᾱ 	Ὰ 	Ά 	ᾼ 	᾽ 	ι 	᾿
+\\ 	῀ 	῁ 	ῂ 	ῃ 	ῄ 		ῆ 	ῇ 	Ὲ 	Έ 	Ὴ 	Ή 	ῌ 	῍ 	῎ 	῏
+\\ 	ῐ 	ῑ 	ῒ 	ΐ 			ῖ 	ῗ 	Ῐ 	Ῑ 	Ὶ 	Ί 		῝ 	῞ 	῟
+\\ 	ῠ 	ῡ 	ῢ 	ΰ 	ῤ 	ῥ 	ῦ 	ῧ 	Ῠ 	Ῡ 	Ὺ 	Ύ 	Ῥ 	῭ 	΅ 	`
+\\ 			ῲ 	ῳ 	ῴ 		ῶ 	ῷ 	Ὸ 	Ό 	Ὼ 	Ώ 	ῼ 	´ 	῾ 	
+}
+\begin{document}
+\pagestyle{empty}
+\begin{multicols}{2}
+{Normal \\\greekextended\\}
+{\fontspec[StylisticSet=20]{EBGaramond}Decomposed \\\greekextended}
+\end{multicols}
+\begin{multicols}{2}
+{\fontspec[StylisticSet=20,CharacterVariant=81:0]{EBGaramond}Iota adscriptum 1 \\\greekextended\\}
+{\fontspec[StylisticSet=20,CharacterVariant=81:1]{EBGaramond}Iota adscriptum 2 \\\greekextended}
+\end{multicols}
+\begin{multicols}{2}
+{\fontspec[StylisticSet=20,CharacterVariant=80]{EBGaramond}Alternate circumflex \\\greekextended\\}
+\textsc{\fontspec[StylisticSet=20]{EBGaramond}Smallcaps \\\greekextended}
+\end{multicols}
+\end{document}

@@ -1,0 +1,142 @@
+%%
+%% This is file `test-microtype.tex',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% microtype.dtx  (with options: `test')
+%% 
+%% ------------------------------------------------------------------------
+%% 
+%%                       The `microtype' package
+%%         Subliminal refinements towards typographical perfection
+%%           Copyright (c) 2004--2011 R Schlicht <w.m.l@gmx.net>
+%% 
+%% This work may be distributed and/or modified under the conditions of the
+%% LaTeX Project Public License, either version 1.3c of this license or (at
+%% your option) any later version. The latest version of this license is in:
+%% http://www.latex-project.org/lppl.txt, and version 1.3c or later is part
+%% of all distributions of LaTeX version 2005/12/01 or later.
+%% 
+%% This work has the LPPL maintenance status `author-maintained'.
+%% 
+%% This work consists of the files microtype.dtx and microtype.ins and the
+%% derived files microtype.sty, microtype-pdftex.def, microtype-xetex.def,
+%% microtype-luatex.def, microtype.lua and letterspace.sty.
+%% 
+%% ------------------------------------------------------------------------
+%%   This file might be useful to test protrusion settings for a font.
+%%   You can do whatever you want with it.
+%% ------------------------------------------------------------------------ 
+%%
+\documentclass{article}
+
+%% Here you can specify the font you want to test, using
+%% the commands \fontfamily, \fontseries and \fontshape.
+%% Make sure to end all lines with a comment character!
+\usepackage{fontspec}
+
+\newcommand*\TestFont{%
+  \fontspec{EBGaramond}%
+%%  \fontseries{b}%
+%%  \fontshape{it}% sc, sl
+}
+\usepackage{lua-visual-debug}
+
+\usepackage{ifthen}
+
+\usepackage[verbose,expansion=alltext,stretch=50]{microtype}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\newcommand*\crulefill{\cleaders\hbox{$\mkern-2mu\smash-\mkern-2mu$}\hfill}
+\newcommand*\testprotrusion[2][]{%
+  \ifthenelse{\equal{#1}{r}}{}{#2}%
+  lorem ipsum dolor sit amet,
+    \ifthenelse{\equal{#1}{r}}{\crulefill}{\leftarrowfill} #2
+    \ifthenelse{\equal{#1}{l}}{\crulefill}{\rightarrowfill}
+  you know the rest%
+  \ifthenelse{\equal{#1}{l}}{}{#2}%
+  \linebreak
+  {\fontencoding{\encodingdefault}%
+  \fontseries{\seriesdefault}%
+  \fontshape{\shapedefault}%
+  \selectfont
+  Here is the beginning of a line, \dotfill and here is its end}\linebreak
+}
+\newcommand*\showTestFont{\expandafter\stripprefix\meaning\TestFont}
+\def\stripprefix#1>{}
+\newcount\charcount
+\begin{document}
+
+\microtypesetup{expansion=false}
+
+{\centering The font in this document is called by:\\
+ \texttt{\showTestFont}\par}\bigskip
+
+\TestFont\selectfont
+ This line intentionally left empty\linebreak
+%% A -- Z
+\charcount=65
+\loop
+  \testprotrusion{\char\charcount}
+  \advance\charcount 1
+  \ifnum\charcount < 91 \repeat
+%% a -- z
+\charcount=97
+\loop
+  \testprotrusion{\char\charcount}
+  \advance\charcount 1
+  \ifnum\charcount < 123 \repeat
+%% 0 -- 9
+\charcount=48
+\loop
+  \testprotrusion{\char\charcount}
+  \advance\charcount 1
+  \ifnum\charcount < 58 \repeat
+%%
+ \testprotrusion[r]{,}
+ \testprotrusion[r]{.}
+ \testprotrusion[r]{;}
+ \testprotrusion[r]{:}
+ \testprotrusion[r]{?}
+ \testprotrusion[r]{!}
+ \testprotrusion[l]{\textexclamdown}
+ \testprotrusion[l]{\textquestiondown}
+ \testprotrusion[r]{)}
+ \testprotrusion[l]{(}
+ \testprotrusion{/}
+ \testprotrusion{\char`\\}
+ \testprotrusion{-}
+ \testprotrusion{\textendash}
+ \testprotrusion{\textemdash}
+ \testprotrusion{\textquoteleft}
+ \testprotrusion{\textquoteright}
+ \testprotrusion{\textquotedblleft}
+ \testprotrusion{\textquotedblright}
+ \testprotrusion{\quotesinglbase}
+ \testprotrusion{\quotedblbase}
+ \testprotrusion{\guilsinglleft}
+ \testprotrusion{\guilsinglright}
+ \testprotrusion{\guillemotleft}
+ \testprotrusion{\guillemotright}
+
+\newpage
+The following displays the current font stretched by 5\%,
+normal, and shrunk by 5\%:
+
+\bigskip
+\newlength{\MTln}
+\newcommand*\teststring
+  {ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789}
+\settowidth{\MTln}{\teststring}
+\microtypesetup{expansion=true}
+
+\parbox{1.05\MTln}{\teststring\linebreak\\
+                   \teststring}\par\bigskip
+\parbox{0.95\MTln}{\teststring}
+
+\end{document}
+\endinput
+%%
+%% End of file `test-microtype.tex'.
