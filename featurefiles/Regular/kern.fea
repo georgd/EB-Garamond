@@ -128,6 +128,7 @@ subtable;
 lookup ckern1 {
     pos Alpha' <0 0 200 0> uni0345.cap1;
     pos Alpha' <0 0 340 0> uni0345.cap2;
+    pos Alpha' <0 0 315 0> uni0345.sc1;
     pos [ Epsilon Eta Iota Rho ]' <79 0 79 0> @grk_tlAcc1;
     pos [ Epsilon Eta Iota ]' <218 0 218 0> @grk_tlAcc2;
     pos Eta' <79 0 79 0> uni0345.cap @grk_tlAcc1;
@@ -136,8 +137,11 @@ lookup ckern1 {
     pos Eta' <218 0 418 0> uni0345.cap1 @grk_tlAcc2;
     pos Eta' <79 0 419 0> uni0345.cap2 @grk_tlAcc1;
     pos Eta' <218 0 558 0> uni0345.cap2 @grk_tlAcc2;
+    pos Eta' <79 0 394 0> uni0345.sc1 @grk_tlAcc1;
+    pos Eta' <218 0 533 0> uni0345.sc1 @grk_tlAcc2;
     pos Eta' <0 0 200 0> uni0345.cap1;
     pos Eta' <0 0 340 0> uni0345.cap2;
+    pos Eta' <0 0 315 0> uni0345.sc1;    
     pos Omicron' <21 0 21 0> @grk_tlAcc1;
     pos Omicron' <157 0 157 0> @grk_tlAcc2;
     pos Upsilon' <84 0 84 0> @grk_tlAcc1;
@@ -145,9 +149,12 @@ lookup ckern1 {
     pos Omega' <121 0 121 0> @grk_tlAcc2;
     pos Omega' <121 0 121 0> uni0345.cap @grk_tlAcc2;
     pos Omega' <121 0 321 0> uni0345.cap1 @grk_tlAcc2;
-    pos Omega' <121 0 461 0> uni0345.cap2 @grk_tlAcc2;
+    pos Omega' <121 0 436 0> uni0345.cap2 @grk_tlAcc2;
+    pos Omega' <121 0 461 0> uni0345.sc1 @grk_tlAcc2;
     pos Omega' <0 0 200 0> uni0345.cap1;
     pos Omega' <0 0 340 0> uni0345.cap2;
+    pos Omega' <0 0 315 0> uni0345.sc1;
+    pos [ Alpha.sc Eta.sc Omega.sc alpha.sc eta.sc omega.sc ]' <0 0 315 0> uni0345.sc1;
 } ckern1;
 
 lookup ckern2 {

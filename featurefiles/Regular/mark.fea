@@ -18,9 +18,13 @@ lookup mark {
   pos base [\Alpha ] <anchor 373 720> mark @grk_uc_top
 	<anchor 186 665> mark @grk_uc_top_left
 	<anchor 684 290> mark @grk_uc_right;
-  pos base [\Epsilon \Eta \Iota \Rho ] <anchor -36 665> mark @grk_uc_top_left
-	<anchor 297 720> mark @grk_uc_top
+  pos base [\Epsilon \Eta \Iota \Rho ] <anchor -36 665> mark @grk_uc_top_left;
+  pos base [\Epsilon \Rho ]	<anchor 297 720> mark @grk_uc_top
 	<anchor 535 290> mark @grk_uc_right;
+  pos base [ \Eta ]	<anchor 418 720> mark @grk_uc_top
+	<anchor 810 290> mark @grk_uc_right;
+  pos base [ \Iota ]	<anchor 170 720> mark @grk_uc_top
+	<anchor 340 290> mark @grk_uc_right;
   pos base [\Omicron ] <anchor 25 665> mark @grk_uc_top_left
 	<anchor 393 720> mark @grk_uc_top
 	<anchor 763 290> mark @grk_uc_right;

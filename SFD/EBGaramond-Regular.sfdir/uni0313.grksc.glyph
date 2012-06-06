@@ -1,0 +1,25 @@
+
+StartChar: uni0313.grksc
+Encoding: 1115111 -1 2848
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 462 24<4.32617 40.7283> 636 20G<35 70.5>
+VStem: 68 52<502.664 576.924>
+AnchorPoint: "grk_hstack" 130 640 basemark 0
+AnchorPoint: "grk_top" 130 550 mark 0
+AnchorPoint: "grk_uc_top_left" 202 630 mark 0
+LayerCount: 3
+Fore
+SplineSet
+42 578 m 0
+ 19 582 0 595 0 618 c 0
+ 0 641 23 656 47 656 c 0
+ 94 656 120 607 120 559 c 0
+ 120 506 76 462 24 462 c 0
+ 11 462 4 467 4 472 c 0
+ 4 479 13 482 21 486 c 0
+ 48 499 68 517 68 546 c 0
+ 68 562 58 575 42 578 c 0
+EndSplineSet
+EndChar
