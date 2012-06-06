@@ -3,7 +3,7 @@ StartChar: guilsinglright
 Encoding: 8250 8250 118
 Width: 427
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
@@ -23,5 +23,4 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 119 8249 N -1 0 0 -1 572 400 2
-Validated: 1
 EndChar

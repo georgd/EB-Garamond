@@ -2,7 +2,7 @@
 StartChar: asciicircum
 Encoding: 94 94 89
 Width: 500
-Flags: W
+Flags: HW
 HStem: 284 319
 LayerCount: 2
 Fore
@@ -20,7 +20,6 @@ SplineSet
  49 284 45 295 51 305 c 0
  89 369 222 564 250 603 c 1
 EndSplineSet
-Validated: 1
 Substitution2: "sups subtable" asciicircum.sups
 Substitution2: "sinf subtable" asciicircum.sinf
 Substitution2: "ordn subtable" asciicircum.ordn

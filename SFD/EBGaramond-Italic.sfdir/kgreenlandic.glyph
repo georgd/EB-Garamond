@@ -2,7 +2,7 @@
 StartChar: kgreenlandic
 Encoding: 312 312 1027
 Width: 414
-Flags: W
+Flags: HW
 HStem: -21 60<255.429 313.638> 356 58<52.457 140.214 309.518 399.414>
 VStem: 0 51<-14.3854 70.163>
 AnchorPoint: "below_accent" 229 -100 basechar 0
@@ -80,6 +80,5 @@ SplineSet
  46 392 72 413 117 414 c 0
  144 414 176.853 398.064 165 363 c 2
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" kgreenlandic.sc
 EndChar

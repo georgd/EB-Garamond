@@ -3,7 +3,7 @@ StartChar: Theta
 Encoding: 920 920 1130
 Width: 716
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 39<308.088 467.934> 301 70<388.929 536.539> 396 19G<380.5 385.5 630.5 636.5> 625 39<460.668 625.249>
 VStem: 537 27<248.353 295.143>
 LayerCount: 2
@@ -38,5 +38,4 @@ SplineSet
  719 155 559 -14 355 -14 c 0
  190 -14 85 130 143 320 c 0
 EndSplineSet
-Validated: 33
 EndChar

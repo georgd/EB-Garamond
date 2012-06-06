@@ -2,7 +2,7 @@
 StartChar: uni0434
 Encoding: 1076 1076 1956
 Width: 400
-Flags: W
+Flags: HW
 HStem: -14 30<102.149 168.321> 384 30<226.264 293.195> 655 41<143.315 258.61>
 VStem: 25 64<30.5807 194.315> 336 59<398.086 567.932>
 LayerCount: 2
@@ -27,6 +27,5 @@ SplineSet
  301 414 321.5 398.598 323 396 c 0
  326 390.804 331.304 395.049 332 400 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "loclSRB subtable" uni0434.SRB
 EndChar

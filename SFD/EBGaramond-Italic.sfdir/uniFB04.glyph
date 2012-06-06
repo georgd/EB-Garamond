@@ -2,7 +2,7 @@
 StartChar: uniFB04
 Encoding: 64260 64260 962
 Width: 718
-Flags: W
+Flags: HW
 HStem: -288 40<-112.864 -43.4509> -249 40<58.7807 159.805> -14 55<528 608.697> 362 38<39.643 129.264 209.017 265.333> 370 38<434.706 586.969> 628 41<321.904 429.361> 657 49<552.525 654.165>
 VStem: 494 82<6.29792 108.25>
 AnchorPoint: "below_accent" 606 -100 basechar 0
@@ -76,7 +76,6 @@ SplineSet
  366 406 368 409 370 419 c 0
  386 486 410 538 438 580 c 0
 EndSplineSet
-Validated: 1
 Ligature2: "liga_standard subtable" f f l
 LCarets2: 2 254 510 
 EndChar

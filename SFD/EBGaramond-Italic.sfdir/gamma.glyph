@@ -3,7 +3,7 @@ StartChar: gamma
 Encoding: 947 947 2174
 Width: 509
 VWidth: 1024
-Flags: W
+Flags: HW
 HStem: 341 69<96.6267 183.432>
 VStem: 12 62<265.119 318.695> 237 38<73.4749 256.085>
 LayerCount: 2
@@ -9835,5 +9835,4 @@ SplineSet
  370.8 185.4 487 336 511 336 c 0
  517 336 532 332 532 322 c 0
 EndSplineSet
-Validated: 1
 EndChar

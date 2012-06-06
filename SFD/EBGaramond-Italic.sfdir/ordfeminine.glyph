@@ -3,7 +3,7 @@ StartChar: ordfeminine
 Encoding: 170 170 574
 Width: 236
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 161 35<77.9653 286.077> 268 40<257 311.577> 491 33<238.141 308.5>
 VStem: 75 258
 LayerCount: 2
@@ -45,5 +45,4 @@ SplineSet
  325 323 329 307 325 301 c 0
  323 298 294 268 273 268 c 0
 EndSplineSet
-Validated: 33
 EndChar

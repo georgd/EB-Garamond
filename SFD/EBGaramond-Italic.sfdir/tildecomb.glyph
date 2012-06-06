@@ -3,7 +3,7 @@ StartChar: tildecomb
 Encoding: 771 771 111
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 518 60<106.697 246.946> 525 61<76.2014 213.803>
 VStem: 26 268
 AnchorPoint: "top_accent" 165 550 mark 0
@@ -21,6 +21,5 @@ SplineSet
  184 518 122 525 97 525 c 0
  72 525 48 488 40 488 c 0x60
 EndSplineSet
-Validated: 1
 Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" tildecomb.cap
 EndChar

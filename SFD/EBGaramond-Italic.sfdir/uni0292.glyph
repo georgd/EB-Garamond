@@ -3,7 +3,7 @@ StartChar: uni0292
 Encoding: 658 658 1031
 Width: 370
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -285 40<-5.60963 101.388> 94 26<202.141 290.5> 368 34<196.572 327.75> 396 20G<176.5 179.5>
 AnchorPoint: "top_accent" 199 550 basechar 0
 LayerCount: 2
@@ -41,5 +41,4 @@ SplineSet
  13 -241 25 -245 35 -245 c 8
  118 -245 216 -139 238 -67 c 0xe0
 EndSplineSet
-Validated: 33
 EndChar

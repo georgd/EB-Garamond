@@ -3,7 +3,7 @@ StartChar: f.sc
 Encoding: 1114662 -1 1678
 Width: 325
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -4 31<29 64.1042 168.458 191.735> 202 33<212.327 296.311> 259 20G<343.5 346.5> 413 35<260.653 387.641> 423 27<159.628 178.593>
 VStem: 298 23<160.339 198.167> 392 18<349.218 383.405>
 LayerCount: 2
@@ -46,6 +46,5 @@ SplineSet
  151 46 174 33 199 27 c 0
  199 26 190 -3 190 -3 c 0xf6
 EndSplineSet
-Validated: 33
 Comment: "." 
 EndChar

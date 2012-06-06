@@ -2,7 +2,7 @@
 StartChar: oe
 Encoding: 339 339 582
 Width: 604
-Flags: W
+Flags: HW
 HStem: -15 50<345.431 435.172> -14 30<102.149 170.582> 217 29<367.001 439.437> 384 30<226.264 292.852 464.759 533.002>
 VStem: 25 64<30.5807 194.315> 306 61<248.515 296.141> 536 61<302.528 384.145>
 AnchorPoint: "top_accent" 412 550 basechar 0
@@ -37,7 +37,6 @@ SplineSet
  25 224 125 414 275 414 c 0
  307.73 414 350.504 385.879 364.97 334.019 c 1
 EndSplineSet
-Validated: 1
 Substitution2: "Smallcaps subtable" oe.sc
 Ligature2: "LATliga subtable" o e
 LCarets2: 1 0 

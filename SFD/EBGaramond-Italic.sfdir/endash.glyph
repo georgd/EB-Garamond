@@ -3,7 +3,7 @@ StartChar: endash
 Encoding: 8211 8211 104
 Width: 509
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 185 54<115.668 521.889>
 LayerCount: 2
 Fore
@@ -16,5 +16,4 @@ SplineSet
  108 185 104 191 106 197 c 4
  109 206 123 239 141 239 c 30
 EndSplineSet
-Validated: 1
 EndChar

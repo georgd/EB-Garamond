@@ -3,7 +3,7 @@ StartChar: four
 Encoding: 52 52 79
 Width: 482
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -181 21G<213.5 220.5> 50 46<150.027 261.125> 56 54<361.269 453.309> 405 20G<453.5 461>
 LayerCount: 2
 Fore
@@ -36,7 +36,6 @@ SplineSet
  41 35 33 39 33 45 c 0
  33 51 41 59 43 61 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'tnum' Tabular Numbers lookup 45 subtable" four.taboldstyle
 Substitution2: "'lnum' Lining Figures lookup 43 subtable" four.lnum
 Substitution2: "Single Substitution lookup 42 subtable" four.ordn

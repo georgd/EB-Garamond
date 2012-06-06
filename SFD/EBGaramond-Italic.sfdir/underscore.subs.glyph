@@ -3,7 +3,7 @@ StartChar: underscore.subs
 Encoding: 1114247 -1 1263
 Width: 302
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -109 30<-26.7299 270.701>
 VStem: -31 306
 LayerCount: 2
@@ -17,5 +17,4 @@ SplineSet
  -30 -109 -32 -106 -31 -102 c 0
  -29 -97 -19 -79 -9 -79 c 26
 EndSplineSet
-Validated: 1
 EndChar

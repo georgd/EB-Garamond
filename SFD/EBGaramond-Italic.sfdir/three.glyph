@@ -3,7 +3,7 @@ StartChar: three
 Encoding: 51 51 84
 Width: 344
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -194 39<-7.5328 107.19> 112 49<138 189> 360 53<156.255 241.514>
 VStem: 199 80<-27.7533 89.905> 254 70<254.696 349.111>
 LayerCount: 2
@@ -31,7 +31,6 @@ SplineSet
  90 301 85 310 85 314 c 0
  85 333 145 413 234 413 c 0xe8
 EndSplineSet
-Validated: 1
 Substitution2: "'tnum' Tabular Numbers lookup 45 subtable" three.taboldstyle
 Substitution2: "'lnum' Lining Figures lookup 43 subtable" three.lnum
 Substitution2: "Single Substitution lookup 42 subtable" three.ordn

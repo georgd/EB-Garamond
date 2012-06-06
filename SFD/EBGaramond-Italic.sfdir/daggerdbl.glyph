@@ -3,7 +3,7 @@ StartChar: daggerdbl
 Encoding: 8225 8225 1196
 Width: 407
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 29 70<62.1821 193.175 254.145 384.77> 49 30<133.048 202.089 246.909 318.347> 415 70<179.906 310.855 371.827 504.038> 435 30<247.89 317.092 362.911 434.559> 610 20G<388 404>
 VStem: 144 65<-112.809 -37.9563> 355 65<551.251 625.203>
 LayerCount: 2
@@ -53,7 +53,6 @@ SplineSet
  292 232 l 2
  283 202 298 170 296 163 c 0x1e
 EndSplineSet
-Validated: 33
 Substitution2: "sups subtable" daggerdbl.sups
 Substitution2: "sinf subtable" daggerdbl.sinf
 Substitution2: "ordn subtable" daggerdbl.ordn

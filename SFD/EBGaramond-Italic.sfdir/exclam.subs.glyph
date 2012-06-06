@@ -3,7 +3,7 @@ StartChar: exclam.subs
 Encoding: 1114185 -1 1201
 Width: 160
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -8 72<66.2959 123.704>
 VStem: 59 72<0.182617 55.8174> 119 22<127.161 168.658>
 LayerCount: 2
@@ -23,5 +23,4 @@ SplineSet
  132 214 148 306 160 344 c 0
  167 367 183 388 205 389 c 16
 EndSplineSet
-Validated: 33
 EndChar

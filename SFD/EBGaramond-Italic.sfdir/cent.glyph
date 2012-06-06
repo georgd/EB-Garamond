@@ -3,7 +3,7 @@ StartChar: cent
 Encoding: 162 162 1019
 Width: 381
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 59<232 297.436> 319 94<400.26 443.586>
 LayerCount: 2
 Fore
@@ -36,5 +36,4 @@ SplineSet
  259 384 185 297 162 222 c 0
  135 135 155 75 202 53 c 1
 EndSplineSet
-Validated: 33
 EndChar

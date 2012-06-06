@@ -3,7 +3,7 @@ StartChar: i_s
 Encoding: 1115009 -1 2164
 Width: 508
 LigCaretCntFixed: 1
-Flags: W
+Flags: HW
 HStem: -14 55<49 116.605> -14 48<257 364.021> 368 46<404.452 472.5> 513 100<190.584 254.181>
 VStem: 24 73<14.7369 107.25> 177 90<525.747 600.266> 336 57<241.404 343.47> 392 64<62.1637 185.055> 446 57<323.789 367.987>
 AnchorPoint: "cedilla" 331 8 basechar 0
@@ -47,7 +47,6 @@ SplineSet
  191.563 513 177 531.56 177 552 c 8
  177 584.295 200.705 613 233 613 c 16
 EndSplineSet
-Validated: 37
 Ligature2: "Ligature Substitution lookup 54 subtable" i s
 LCarets2: 1 172 
 EndChar

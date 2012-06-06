@@ -3,7 +3,7 @@ StartChar: quotesinglbase
 Encoding: 8218 8218 56
 Width: 210
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -129 25<-27.6562 15.1003>
 VStem: 91 60<-31.8883 52.001>
 LayerCount: 2
@@ -31,5 +31,4 @@ SplineSet
  53 -73 91 -25 91 25 c 4
  91 48 63 56 45 60 c 4
 EndSplineSet
-Validated: 1
 EndChar

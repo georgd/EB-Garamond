@@ -3,7 +3,7 @@ StartChar: V.sw
 Encoding: 1114951 -1 2063
 Width: 693
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 620 31<112.241 163.793 306.476 396.014 534.101 585.229 731.616 807.868>
 LayerCount: 2
 Fore
@@ -35,6 +35,5 @@ SplineSet
  134 112 148 120 173 145 c 2
  573 549 l 2
 EndSplineSet
-Validated: 33
 Substitution2: "c2sc subtable" V.sc
 EndChar

@@ -3,7 +3,7 @@ StartChar: Oslash
 Encoding: 216 216 1009
 Width: 716
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 39<303.677 467.934> 625 39<456.715 628.576>
 AnchorPoint: "cedilla" 412 8 basechar 0
 AnchorPoint: "below_accent" 370 -100 basechar 0
@@ -38,6 +38,5 @@ SplineSet
  519 25 622 134 674 305 c 0
  696 377 705 441 697 492 c 1
 EndSplineSet
-Validated: 33
 Substitution2: "c2sc subtable" Oslash.sc
 EndChar

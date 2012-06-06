@@ -3,7 +3,7 @@ StartChar: brokenbar.subs
 Encoding: 1114279 -1 1295
 Width: 237
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -180 21G<44 51>
 VStem: 40 306
 LayerCount: 2
@@ -24,5 +24,4 @@ SplineSet
  151 196 l 2
  154 206 195 219 201 219 c 0
 EndSplineSet
-Validated: 1
 EndChar

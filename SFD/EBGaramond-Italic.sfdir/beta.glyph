@@ -3,7 +3,7 @@ StartChar: beta
 Encoding: 946 946 2173
 Width: 510
 VWidth: 1024
-Flags: W
+Flags: HW
 HStem: -286 21G<60.5 84.5> -14 62<232.381 377.417> 627 78<308.169 405.615>
 VStem: 21 56<-252.5 -7.03457> 436 46<101.916 218.25> 443 43<448.655 585.742>
 LayerCount: 2
@@ -1639,5 +1639,4 @@ SplineSet
  131 110 250 47 315 48 c 0
  366.448 48.7915 436 96 436 161 c 0xf8
 EndSplineSet
-Validated: 33
 EndChar

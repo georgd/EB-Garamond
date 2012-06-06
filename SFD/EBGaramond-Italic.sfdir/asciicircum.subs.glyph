@@ -3,7 +3,7 @@ StartChar: asciicircum.subs
 Encoding: 1114246 -1 1262
 Width: 301
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 170 192
 LayerCount: 2
 Fore
@@ -21,5 +21,4 @@ SplineSet
  81 170 80 176 86 183 c 0
  121 221 237 339 261 362 c 1
 EndSplineSet
-Validated: 1
 EndChar

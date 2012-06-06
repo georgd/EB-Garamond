@@ -3,7 +3,7 @@ StartChar: M
 Encoding: 77 77 27
 Width: 1004
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 21G<402.5 407> -3 29<-27.3379 57.0534 162.354 215.807 637.461 721.206 885.948 946.749> 622 36<288.205 395.855 1032.98 1136.79>
 AnchorPoint: "below_accent" 403 -100 basechar 0
 AnchorPoint: "top_accent" 446 700 basechar 0
@@ -4322,7 +4322,6 @@ SplineSet
  1138 634 1124 625 1103 623 c 0
  1045 617 1024 605 1017 583 c 2x60
 EndSplineSet
-Validated: 33
 Substitution2: "Swash subtable" M.sw
 Substitution2: "c2sc subtable" M.sc
 Substitution2: "sups subtable" M.sups

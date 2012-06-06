@@ -3,6 +3,7 @@ StartChar: uni24AA
 Encoding: 9386 9386 941
 Width: 983
 VWidth: 0
+Flags: H
 HStem: -14 30<413.149 479.736> 384 30<537.264 603.851> 684 20<961.5 972.5> 685 20<436.5 444.5>
 VStem: 336 64<30.5807 194.315> 617 64<205.685 369.419>
 LayerCount: 2
@@ -10,5 +11,4 @@ Fore
 Refer: 109 41 N 1 0 0 1 691 0 2
 Refer: 3 111 N 1 0 0 1 291 0 2
 Refer: 108 40 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

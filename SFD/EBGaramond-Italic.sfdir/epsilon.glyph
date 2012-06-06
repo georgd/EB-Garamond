@@ -3,7 +3,7 @@ StartChar: epsilon
 Encoding: 949 949 2176
 Width: 291
 VWidth: 2048
-Flags: W
+Flags: HW
 HStem: -14 53<108.05 218.652> 148 113<186.098 234.346> 356 56<166.93 267.091>
 VStem: 53 48<198.581 298.712> 67 37<43.7035 110.941>
 LayerCount: 2
@@ -7625,5 +7625,4 @@ SplineSet
  261.274 82.4736 283 116 291 116 c 0
  303 116 303 104 303 86 c 0xe8
 EndSplineSet
-Validated: 1
 EndChar

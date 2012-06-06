@@ -3,7 +3,7 @@ StartChar: tau
 Encoding: 964 964 2187
 Width: 569
 VWidth: 2048
-Flags: W
+Flags: HW
 HStem: -14 21G<214 247> 350 50<147.581 308.453 359.002 568.167>
 VStem: 57 43<215.848 304.123>
 LayerCount: 2
@@ -5530,5 +5530,4 @@ SplineSet
  375 350 364.351 342.013 359 328 c 0
  342.633 285.139 281 157 281 136 c 0
 EndSplineSet
-Validated: 33
 EndChar

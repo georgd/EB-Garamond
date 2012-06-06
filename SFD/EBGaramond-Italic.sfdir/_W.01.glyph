@@ -3,7 +3,7 @@ StartChar: W.01
 Encoding: 1114957 -1 2069
 Width: 1037
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 621 35<111.101 164.619 304.561 398.288 495.101 553.035 692.069 777.722 902.101 954.066 1097.3 1178.44>
 LayerCount: 2
 Fore
@@ -53,6 +53,5 @@ SplineSet
  518 112 533 119 557 145 c 2
  941 549 l 2
 EndSplineSet
-Validated: 33
 Substitution2: "Swash subtable" W.sw
 EndChar

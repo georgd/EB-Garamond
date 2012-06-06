@@ -3,7 +3,7 @@ StartChar: u.sc
 Encoding: 1114677 -1 1693
 Width: 483
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -13 35<217.296 325.582> 425 25<165.09 185.25 270.675 299.925 464.211 485.31 556.718 598>
 AnchorPoint: "top_accent" 292 563 basechar 0
 LayerCount: 2
@@ -31,6 +31,5 @@ SplineSet
  442 103 375 -13 250 -13 c 0
  129 -13 95 85 131 204 c 18
 EndSplineSet
-Validated: 33
 Comment: "." 
 EndChar

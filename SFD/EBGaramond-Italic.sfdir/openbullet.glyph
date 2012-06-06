@@ -3,7 +3,7 @@ StartChar: openbullet
 Encoding: 9702 9702 1935
 Width: 286
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 250 35<191.26 278.511> 435 35<226.934 314.354>
 LayerCount: 2
 Fore
@@ -19,5 +19,4 @@ SplineSet
  164 250 132 299 151 360 c 24
  170 421 231 470 287 470 c 24
 EndSplineSet
-Validated: 33
 EndChar

@@ -3,7 +3,7 @@ StartChar: z.subs
 Encoding: 1114274 -1 1290
 Width: 205
 VWidth: -273
-Flags: W
+Flags: HW
 HStem: 0 24<80.819 169.277> 215 29<112.19 188>
 VStem: 12 254
 LayerCount: 2
@@ -35,5 +35,4 @@ SplineSet
  102 248 104 254 112 254 c 0
  116 254 124 246 134 245 c 16
 EndSplineSet
-Validated: 1
 EndChar

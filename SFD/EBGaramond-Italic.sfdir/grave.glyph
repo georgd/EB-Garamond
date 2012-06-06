@@ -3,7 +3,7 @@ StartChar: grave
 Encoding: 96 96 87
 Width: 257
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 449 215<272 327>
 VStem: 309 34<449.106 511.757>
 LayerCount: 2
@@ -17,7 +17,6 @@ SplineSet
  319 449 312 464 309 471 c 0
  269 582 225 617 231 636 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "sups subtable" grave.sups
 Substitution2: "sinf subtable" grave.sinf
 Substitution2: "ordn subtable" grave.ordn

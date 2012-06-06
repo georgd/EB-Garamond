@@ -3,7 +3,7 @@ StartChar: Delta
 Encoding: 916 916 1082
 Width: 738
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1 55<115.106 439.52>
 AnchorPoint: "top_accent" 685 700 basechar 0
 LayerCount: 2
@@ -31,5 +31,4 @@ SplineSet
  88.708 55.2451 122.847 56 136 56 c 4
  158 56 341.561 57 360 57 c 4
 EndSplineSet
-Validated: 33
 EndChar

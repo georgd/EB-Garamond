@@ -3,7 +3,7 @@ StartChar: X.sw
 Encoding: 1114953 -1 2065
 Width: 746
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 33<0.425468 77.0044 203.216 251.899 371.33 435.953 596.097 651.899> 622 33<214.101 264.362 429.706 490.723 608.101 645.292 768.781 840.481>
 LayerCount: 2
 Fore
@@ -55,6 +55,5 @@ SplineSet
  610 648 622 651 638 651 c 0
  660 651 685 650 713 650 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "c2sc subtable" X.sc
 EndChar

@@ -3,7 +3,7 @@ StartChar: acutecomb.cap
 Encoding: 1114961 -1 2083
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 697 153
 VStem: 6 167
 AnchorPoint: "top_accent" 44 700 mark 0
@@ -20,5 +20,4 @@ SplineSet
  120 774 70 736 30 706 c 4
  21 699 15 697 12 697 c 4
 EndSplineSet
-Validated: 1
 EndChar

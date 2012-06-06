@@ -2,7 +2,7 @@
 StartChar: f_t
 Encoding: 1114170 -1 1122
 Width: 526
-Flags: W
+Flags: HW
 HStem: -288 40<-112.864 -43.5056> -14 73<277.346 374.5> 356 38<37.2083 127.978> 362 38<209.711 261.797 311.603 365.133 449.865 560.532> 365 27<449.865 560.951> 665 41<330.175 423.479>
 VStem: 438 54<600.853 650.586>
 AnchorPoint: "cedilla" 350 8 basechar 0
@@ -59,7 +59,6 @@ SplineSet
  209 419 209 416 209 414 c 0
  209 403 216.007 399.647 225 400 c 0xd6
 EndSplineSet
-Validated: 33
 Ligature2: "liga_standard subtable" f.DEU t
 Ligature2: "liga_standard subtable" f t
 LCarets2: 1 242 

@@ -3,7 +3,7 @@ StartChar: lambda
 Encoding: 955 955 2181
 Width: 548
 VWidth: 2048
-Flags: W
+Flags: HW
 HStem: -11 88<492.198 564.551> 572 88<154.016 249.295>
 LayerCount: 2
 Back
@@ -6132,5 +6132,4 @@ SplineSet
  468.524 122.896 502 77 518 77 c 0
  560 77 571 56 571 35 c 0
 EndSplineSet
-Validated: 33
 EndChar

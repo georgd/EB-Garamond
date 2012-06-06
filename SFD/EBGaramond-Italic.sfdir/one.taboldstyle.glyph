@@ -3,7 +3,7 @@ StartChar: one.taboldstyle
 Encoding: 1114147 -1 1098
 Width: 437
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -3 25<102.737 174.844 283.044 340.717> 384 22<232.896 276.942 389.712 445.913>
 LayerCount: 2
 Fore
@@ -24,7 +24,6 @@ SplineSet
  96 -3 98 21 114 22 c 0
  140 24 193 27 206 68 c 2
 EndSplineSet
-Validated: 33
 Substitution2: "'pnum' Proportionalziffern lookup 46 subtable" one
 Substitution2: "'lnum' Lining Figures lookup 43 subtable" one.tablining
 EndChar

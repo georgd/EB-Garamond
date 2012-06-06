@@ -3,7 +3,7 @@ StartChar: Odieresis.deu
 Encoding: 1114113 -1 991
 Width: 712
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 35<264.006 414.248> 610 100<203.631 255.369 719.358 770.642> 628 36<391.576 555.605>
 VStem: 89 82<128.393 340.569> 185 89<628.342 691.658> 642 82<325.945 533.828> 701 88<628.342 691.658>
 LayerCount: 2
@@ -21,5 +21,4 @@ SplineSet
  193 685 223 710 245 710 c 0
 EndSplineSet
 Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 33
 EndChar

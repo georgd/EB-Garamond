@@ -3,7 +3,7 @@ StartChar: dollar.subs
 Encoding: 1114188 -1 1204
 Width: 275
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -11 21<152.891 188.857>
 VStem: 332 22<294.007 354.525>
 LayerCount: 2
@@ -57,5 +57,4 @@ SplineSet
  274 371 l 2
  275 374 274 376 271 376 c 0
 EndSplineSet
-Validated: 33
 EndChar

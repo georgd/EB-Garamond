@@ -3,7 +3,7 @@ StartChar: U
 Encoding: 85 85 48
 Width: 737
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 40<287.692 457.017> 620 33<194.681 245.501 355.376 416.649 658.732 696.984 785.167 856.043>
 AnchorPoint: "cedilla" 397 8 basechar 0
 AnchorPoint: "ogonek" 475 18 basechar 0
@@ -38,7 +38,6 @@ SplineSet
  858 632.51 844 627 821 622 c 0
  786 615 766 587 752 547 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Swash subtable" U.sw
 Substitution2: "c2sc subtable" U.sc
 Substitution2: "sups subtable" U.sups

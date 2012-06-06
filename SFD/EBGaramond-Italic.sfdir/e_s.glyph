@@ -2,7 +2,7 @@
 StartChar: e_s
 Encoding: 1115008 -1 2163
 Width: 587
-Flags: W
+Flags: HW
 HStem: -14 49<108.328 180.634 336 443.021> 217 29<132.001 203.665> 368 46<483.452 551.5> 385 29<228.983 292.393>
 VStem: 25 72<45.1191 206.35> 297 61<302.528 384.145> 415 57<242.774 343.47> 471 64<62.1637 185.055> 525 57<323.685 367.987>
 AnchorPoint: "ogonek" 308 18 basechar 0
@@ -41,7 +41,6 @@ SplineSet
  97 62 113 35 147 35 c 0
  217 35 526 265 525 345 c 0xde80
 EndSplineSet
-Validated: 37
 Ligature2: "Ligature Substitution lookup 53 subtable" e s
 LCarets2: 1 335 
 LCarets2: 1 280 

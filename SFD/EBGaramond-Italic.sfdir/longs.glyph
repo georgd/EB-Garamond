@@ -2,7 +2,7 @@
 StartChar: longs
 Encoding: 383 383 19
 Width: 249
-Flags: W
+Flags: HW
 HStem: -288 48<-108.314 -31.198> 665 41<367.953 464.767>
 VStem: 474 62<600.853 655.117>
 AnchorPoint: "below_accent" 164 -100 basechar 0
@@ -5111,7 +5111,6 @@ SplineSet
  474 640 459 665 409 665 c 0
  356 664 315 596 287 532 c 24
 EndSplineSet
-Validated: 1
 Substitution2: "Single Substitution lookup 61 subtable" longs.short
 Substitution2: "Single Substitution lookup 60 subtable" longs.short
 Substitution2: "Smallcaps subtable" s.sc

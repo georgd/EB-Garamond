@@ -3,7 +3,7 @@ StartChar: uni04E9
 Encoding: 1257 1257 1996
 Width: 432
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 30<185.787 279.923> 191 37<175 385> 383 31<276.002 364.975>
 AnchorPoint: "ogonek" 337 18 basechar 0
 AnchorPoint: "below_accent" 246 -100 basechar 0
@@ -30,5 +30,4 @@ SplineSet
  354 102 372 150 384 189 c 4
  384 190 385 191 385 191 c 6
 EndSplineSet
-Validated: 33
 EndChar

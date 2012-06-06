@@ -2,7 +2,7 @@
 StartChar: v.initalt
 Encoding: 1115004 -1 2159
 Width: 522
-Flags: W
+Flags: HW
 HStem: -20 21G<268.5 276> 353 66<452.904 486.114> 451 21G<25 32> 498 52<94.4916 226.658>
 VStem: 314 64<143.036 391.822> 488 47<264.049 379>
 LayerCount: 2
@@ -1811,5 +1811,4 @@ SplineSet
  303 550 378 453 378 300 c 0
  378 208 364 164 351 127 c 0
 EndSplineSet
-Validated: 33
 EndChar

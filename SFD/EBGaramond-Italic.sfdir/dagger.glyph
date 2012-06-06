@@ -3,7 +3,7 @@ StartChar: dagger
 Encoding: 8224 8224 1195
 Width: 407
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 381 70<165.562 299.855 361.826 496.655> 401 30<235.782 307.091 352.911 423.255>
 VStem: 163 38<-108.81 -20.1185> 355 65<546.302 627.817>
 LayerCount: 2
@@ -33,7 +33,6 @@ SplineSet
  345 506 335 536 355 601 c 8
  361 620 382 635 398 635 c 0x70
 EndSplineSet
-Validated: 33
 Substitution2: "sups subtable" dagger.sups
 Substitution2: "sinf subtable" dagger.sinf
 Substitution2: "ordn subtable" dagger.ordn

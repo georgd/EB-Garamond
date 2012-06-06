@@ -3,7 +3,7 @@ StartChar: H.sw
 Encoding: 1114937 -1 2049
 Width: 780
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 29<44.6976 120.233 251.292 307.899 475.698 550.694 667.559 723.899> 302 48<311.912 654> 622 31<244.101 300.532 411.255 489.442 671.101 728.031 840.674 914.442>
 LayerCount: 2
 Fore
@@ -54,6 +54,5 @@ SplineSet
  831 613 822 590 810 552 c 2
  671 100 l 2
 EndSplineSet
-Validated: 33
 Substitution2: "c2sc subtable" H.sc
 EndChar

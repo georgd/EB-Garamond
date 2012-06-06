@@ -3,7 +3,7 @@ StartChar: figuredash
 Encoding: 8210 8210 777
 Width: 490
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 181 60<81.5336 530.799>
 LayerCount: 2
 Fore
@@ -16,5 +16,4 @@ SplineSet
  72 181 68 187 70 193 c 0
  73 202 87 241 107 241 c 26
 EndSplineSet
-Validated: 1
 EndChar

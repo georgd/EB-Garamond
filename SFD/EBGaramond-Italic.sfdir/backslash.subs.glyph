@@ -3,7 +3,7 @@ StartChar: backslash.subs
 Encoding: 1114244 -1 1260
 Width: 240
 VWidth: 0
-Flags: W
+Flags: HW
 VStem: 136 84
 LayerCount: 2
 Fore
@@ -16,5 +16,4 @@ SplineSet
  157 399 166 398 168 389 c 26
  220 -28 l 26
 EndSplineSet
-Validated: 1
 EndChar

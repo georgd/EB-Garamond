@@ -3,7 +3,7 @@ StartChar: Adieresis.deu
 Encoding: 1114112 -1 990
 Width: 772
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 36<17.8519 96.2793 218.75 264.899 429.027 521.115 647.592 701.899> 610 100<603.631 655.369 861.631 913.642>
 VStem: 585 89<628.342 691.658> 843 89<628.342 691.658>
 LayerCount: 2
@@ -21,5 +21,4 @@ SplineSet
  593 685 623 710 645 710 c 4
 EndSplineSet
 Refer: 31 65 N 1 0 0 1 0 0 3
-Validated: 33
 EndChar

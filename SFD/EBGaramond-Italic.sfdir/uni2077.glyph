@@ -3,7 +3,7 @@ StartChar: uni2077
 Encoding: 8311 8311 801
 Width: 278
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 425 21G<210 219> 719 50<260.538 418>
 VStem: 203 290
 LayerCount: 2
@@ -25,5 +25,4 @@ SplineSet
  204 451 217 467 227 479 c 18
  425 710 l 2
 EndSplineSet
-Validated: 33
 EndChar

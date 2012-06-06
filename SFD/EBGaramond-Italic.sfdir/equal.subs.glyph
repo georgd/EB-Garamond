@@ -3,7 +3,7 @@ StartChar: equal.subs
 Encoding: 1114213 -1 1229
 Width: 361
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 80 36<60.7285 359.45> 188 36<93.4345 391.705>
 LayerCount: 2
 Fore
@@ -23,5 +23,4 @@ SplineSet
  91 188 88 192 89 196 c 0
  91 201 99 224 112 224 c 26
 EndSplineSet
-Validated: 1
 EndChar

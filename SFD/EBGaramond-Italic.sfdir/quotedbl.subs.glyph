@@ -3,7 +3,7 @@ StartChar: quotedbl.subs
 Encoding: 1114186 -1 1202
 Width: 184
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 266 140<200 206>
 LayerCount: 2
 Fore
@@ -23,5 +23,4 @@ SplineSet
  214 274 206 266 203 266 c 0
  200 266 201 275 203 280 c 0
 EndSplineSet
-Validated: 33
 EndChar

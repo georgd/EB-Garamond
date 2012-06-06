@@ -3,7 +3,7 @@ StartChar: chi
 Encoding: 967 967 649
 Width: 636
 VWidth: 2048
-Flags: W
+Flags: HW
 HStem: -206 49<373.67 486.665> 342 69<156.843 251.239> 401 20G<597.5 609.5>
 VStem: 72 62<266.119 319.695> 286 35<-88.4851 48.9987 178.564 290.536> 560 50<-80.6254 15.2952>
 LayerCount: 2
@@ -4462,5 +4462,4 @@ SplineSet
  276 119 286 138 286 160 c 0
  286 259.324 271 342 205 342 c 0xdc
 EndSplineSet
-Validated: 33
 EndChar

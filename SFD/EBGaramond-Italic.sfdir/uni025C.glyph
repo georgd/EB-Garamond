@@ -3,7 +3,7 @@ StartChar: uni025C
 Encoding: 604 604 2002
 Width: 330
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 32<110.874 202.582> 190 47<173.241 266.438> 271 21G<134.5 144.5> 381 30<230.216 309.174>
 VStem: 61 26<48.3618 121.281>
 LayerCount: 2
@@ -38,5 +38,4 @@ SplineSet
  164 361 172 376 181 380 c 0
  205 391 261 411 297 411 c 0
 EndSplineSet
-Validated: 33
 EndChar

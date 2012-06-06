@@ -3,7 +3,7 @@ StartChar: psi
 Encoding: 968 968 2190
 Width: 830
 VWidth: 2048
-Flags: W
+Flags: HW
 HStem: -24 48<481.156 576.886> 274 58<104.731 191.356>
 VStem: 396 71<-279.911 -137.931> 454 102<553.89 744.597>
 LayerCount: 2
@@ -5528,5 +5528,4 @@ SplineSet
  794.318 326.042 809 341 815 341 c 0
  819 341 823.4 330 823.4 323 c 0xd0
 EndSplineSet
-Validated: 33
 EndChar

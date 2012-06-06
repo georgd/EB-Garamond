@@ -3,7 +3,7 @@ StartChar: Z
 Encoding: 90 90 64
 Width: 636
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -2 38<148.553 503.874> 604 42<243.524 552.001>
 AnchorPoint: "below_accent" 281 -100 basechar 0
 AnchorPoint: "top_accent" 450 700 basechar 0
@@ -40,7 +40,6 @@ SplineSet
  549 4 542 -5 533 -5 c 0
  427 -5 272 -2 189 -2 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "Swash subtable" Z.sw
 Substitution2: "c2sc subtable" Z.sc
 Substitution2: "sups subtable" Z.sups

@@ -3,7 +3,7 @@ StartChar: fraction
 Encoding: 8260 8260 1167
 Width: 55
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -15,5 +15,4 @@ SplineSet
  -177 -60 -190 -62 -204 -62 c 24
  -212 -62 -221 -54 -215 -47 c 26
 EndSplineSet
-Validated: 1
 EndChar

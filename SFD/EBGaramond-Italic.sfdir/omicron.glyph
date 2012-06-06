@@ -3,7 +3,7 @@ StartChar: omicron
 Encoding: 959 959 647
 Width: 348
 VWidth: 2048
-Flags: W
+Flags: HW
 HStem: -14 78<84.7443 178.166> 327 87<175.023 264.328>
 VStem: 35 38<77.743 196.725> 275 38<190.074 316.589>
 LayerCount: 2
@@ -4443,5 +4443,4 @@ SplineSet
  73 85 96.1396 64 128 64 c 0
  193 64 275 193 275 256 c 0
 EndSplineSet
-Validated: 1
 EndChar

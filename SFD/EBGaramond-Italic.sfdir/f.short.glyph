@@ -2,7 +2,7 @@
 StartChar: f.short
 Encoding: 1114145 -1 1096
 Width: 268
-Flags: W
+Flags: HW
 HStem: -288 40<-112.864 -43.5056> 356 38<37.2083 127.978> 362 38<209.706 326.671> 652 54<312.497 405.659>
 AnchorPoint: "below_accent" 134 -100 basechar 0
 AnchorPoint: "top_accent" 372 768 basechar 0
@@ -36,5 +36,4 @@ SplineSet
  383 621 378 652 335 652 c 0
  273 652 229 527 210 429 c 0xd0
 EndSplineSet
-Validated: 1
 EndChar

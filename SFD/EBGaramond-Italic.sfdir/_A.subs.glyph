@@ -3,7 +3,7 @@ StartChar: A.subs
 Encoding: 1114217 -1 1233
 Width: 379
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -3 22<2.94595 49.1944 116.426 150.902 225.595 272.928 352.457 388.854> 146 26<187.957 293.999> 386 20G<337.5 340.5>
 VStem: 294 48<29.7634 146 172 335.997>
 LayerCount: 2
@@ -49,5 +49,4 @@ SplineSet
  294 332 293 336 292 336 c 0
  291 336 288 332 284 325 c 0
 EndSplineSet
-Validated: 33
 EndChar

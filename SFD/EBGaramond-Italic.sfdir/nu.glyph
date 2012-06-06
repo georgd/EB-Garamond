@@ -3,9 +3,9 @@ StartChar: nu
 Encoding: 957 957 2182
 Width: 293
 VWidth: 2048
-Flags: W
+Flags: HW
 HStem: -16 21G<72.5 94> 328 86<67.064 100.051>
-VStem: 100.2 59.7998<168.289 376.5> 258 50<292.148 417.333>
+VStem: 100 60<168.289 376.5> 258 50<292.148 417.333>
 LayerCount: 2
 Back
 Image: 488 250 2 1464 0 ffffffff -2161 954 5.16271 5.112 0
@@ -6128,5 +6128,4 @@ SplineSet
  68 -16 55 -2 55 10 c 0
  55 33 99.2002 139.6 100.2 307.6 c 0
 EndSplineSet
-Validated: 1
 EndChar

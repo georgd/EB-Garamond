@@ -3,7 +3,7 @@ StartChar: uniFB01
 Encoding: 64257 64257 959
 Width: 494
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -288 40<-112.864 -43.5056> -14 55<309 393.386> 356 38<37.2083 127.978> 365 36<212.209 395.254> 668 36<351.831 454.226>
 VStem: 283 74<4.89844 103.438> 470 76<587.606 654.687>
 LayerCount: 2
@@ -3431,7 +3431,6 @@ SplineSet
  391 324 l 2
  407 364 379 365 372 365 c 2xde
 EndSplineSet
-Validated: 33
 Ligature2: "liga_standard subtable" f.DEU i
 Ligature2: "liga_standard subtable" f i
 LCarets2: 1 274 

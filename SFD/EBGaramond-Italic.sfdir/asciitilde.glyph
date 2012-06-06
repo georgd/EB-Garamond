@@ -2,7 +2,7 @@
 StartChar: asciitilde
 Encoding: 126 126 110
 Width: 500
-Flags: W
+Flags: HW
 HStem: 260 73<254.041 377.762> 308 73<121.948 238.491>
 LayerCount: 2
 Fore
@@ -18,7 +18,6 @@ SplineSet
  135 308 81 279 65 261 c 0
  60 256 47 273 50 279 c 0x40
 EndSplineSet
-Validated: 1
 Substitution2: "sups subtable" asciitilde.sups
 Substitution2: "sinf subtable" asciitilde.sinf
 Substitution2: "ordn subtable" asciitilde.ordn

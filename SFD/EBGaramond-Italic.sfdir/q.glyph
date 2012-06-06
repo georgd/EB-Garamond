@@ -2,7 +2,7 @@
 StartChar: q
 Encoding: 113 113 10
 Width: 465
-Flags: W
+Flags: HW
 HStem: -286 29<115.027 180.212> -272 26<283.637 337.699> -14 36<68.5 164.461> 383 37<296.295 368.911> 408 20G<469 476.5>
 VStem: 24 70<22.7031 139.96> 375 108<309 409.5>
 AnchorPoint: "top_accent" 385 550 basechar 0
@@ -3757,7 +3757,6 @@ SplineSet
  375 363 364 383 338 383 c 4x36
  276 383 93 176 94 61 c 4
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" q.sc
 Substitution2: "sups subtable" q.sups
 Substitution2: "sinf subtable" q.sinf

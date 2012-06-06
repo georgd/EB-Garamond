@@ -2,7 +2,7 @@
 StartChar: v.init
 Encoding: 1114925 -1 2037
 Width: 516
-Flags: W
+Flags: HW
 HStem: -14 65<203.462 297.631> 356 55<59.6492 237.596> 400 20G<461.5 482>
 VStem: -12 45<259.968 329.999> 132 50<72.4121 186.642> 457 47<241.062 383.402>
 LayerCount: 2
@@ -33,6 +33,5 @@ SplineSet
  78 404 90 411 112 411 c 4
  174 411 238 396 266 396 c 4xdc
 EndSplineSet
-Validated: 33
 AlternateSubs2: "v_alternates subtable" v.init v.initalt v.initalt
 EndChar

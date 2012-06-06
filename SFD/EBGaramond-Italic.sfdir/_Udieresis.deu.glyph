@@ -3,7 +3,7 @@ StartChar: Udieresis.deu
 Encoding: 1114114 -1 992
 Width: 737
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 40<287.692 457.017> 610 100<472.358 523.642 588.631 640.369> 620 33<194.681 245.501 355.376 416.649 658.732 696.984 785.167 856.043>
 VStem: 454 88<628.342 691.658> 570 89<628.342 691.658>
 LayerCount: 2
@@ -21,5 +21,4 @@ SplineSet
  462 685 491 710 513 710 c 4
 EndSplineSet
 Refer: 48 85 N 1 0 0 1 0 0 3
-Validated: 33
 EndChar

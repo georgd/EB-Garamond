@@ -2,7 +2,7 @@
 StartChar: o
 Encoding: 111 111 3
 Width: 400
-Flags: W
+Flags: HW
 HStem: -14 30<122.149 188.736> 384 30<246.264 312.851>
 VStem: 45 64<30.5807 194.315> 326 64<205.685 369.419>
 AnchorPoint: "ogonek" 228 18 basechar 0
@@ -22,7 +22,6 @@ SplineSet
  45 224 145 414 295 414 c 0
  335 414 390 372 390 296 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "Smallcaps subtable" o.sc
 Substitution2: "sups subtable" o.sups
 Substitution2: "sinf subtable" o.sinf

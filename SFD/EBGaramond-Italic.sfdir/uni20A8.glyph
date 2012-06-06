@@ -3,6 +3,7 @@ StartChar: uni20A8
 Encoding: 8360 8360 827
 Width: 887
 VWidth: 0
+Flags: H
 HStem: -26 39<586.042 680.861> -5 29<29.6976 109.063 239.575 293.899> 388 26<724.963 796.369> 627 30<234.101 280.953 401.707 513.656>
 VStem: 810 32<311.78 377.505>
 LayerCount: 2
@@ -57,5 +58,4 @@ SplineSet
  757 212 805 172 785 106 c 0
  764 37 692 -26 589 -26 c 0xb8
 EndSplineSet
-Validated: 33
 EndChar

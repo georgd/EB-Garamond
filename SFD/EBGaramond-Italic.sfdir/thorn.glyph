@@ -3,7 +3,7 @@ StartChar: thorn
 Encoding: 254 254 1004
 Width: 438
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -285 27<-68.6375 -14.124 67.1792 104.854> -14 31<177.922 285.806> 369 45<319.062 447> 685 20G<346.5 348.5>
 AnchorPoint: "top_accent" 261 550 basechar 0
 LayerCount: 2
@@ -42,6 +42,5 @@ SplineSet
  141 18 124 -27 122 -33 c 0
  100 -106 82 -168 66 -219 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" thorn.sc
 EndChar

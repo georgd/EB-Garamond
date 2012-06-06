@@ -3,7 +3,7 @@ StartChar: uni00B9
 Encoding: 185 185 577
 Width: 276
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 439 25<193.04 247.658 321.554 364.903>
 LayerCount: 2
 Fore
@@ -26,5 +26,4 @@ SplineSet
  265 716 278 736 287 737 c 0
  336 742 384 776 397 782 c 0
 EndSplineSet
-Validated: 33
 EndChar

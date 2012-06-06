@@ -3,7 +3,7 @@ StartChar: delta
 Encoding: 948 948 2175
 Width: 418
 VWidth: 2048
-Flags: W
+Flags: HW
 HStem: -14 66<106.018 202.851> 300 62<217.994 289.477> 642 59<224.5 302.502>
 VStem: 58 38<65.9775 171.187> 201 42<586.84 641.993> 298 45<169.545 368.001>
 LayerCount: 2
@@ -5521,5 +5521,4 @@ SplineSet
  298 276 290 300 270 300 c 0
  218 300 96 190 96 114 c 0
 EndSplineSet
-Validated: 33
 EndChar

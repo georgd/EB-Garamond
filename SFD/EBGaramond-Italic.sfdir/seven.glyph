@@ -3,7 +3,7 @@ StartChar: seven
 Encoding: 55 55 80
 Width: 430
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 272 21G<66.5 74> 336 70<118.53 353.891>
 LayerCount: 2
 Fore
@@ -28,7 +28,6 @@ SplineSet
  0 -168 14 -151 32 -126 c 2
  359 326 l 2
 EndSplineSet
-Validated: 1
 Substitution2: "'tnum' Tabular Numbers lookup 45 subtable" seven.taboldstyle
 Substitution2: "'lnum' Lining Figures lookup 43 subtable" seven.lnum
 Substitution2: "Single Substitution lookup 42 subtable" seven.ordn

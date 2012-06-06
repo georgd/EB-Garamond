@@ -3,7 +3,7 @@ StartChar: percent.subs
 Encoding: 1114189 -1 1205
 Width: 442
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -16 21G<84 91.5> -8 14<298.149 351.868> 161 14<128.096 181.835> 193 16<373.01 428.098> 362 16<203.712 257.598>
 LayerCount: 2
 Fore
@@ -36,5 +36,4 @@ SplineSet
  104 -15 96 -16 87 -16 c 24xb8
  81 -16 75 -11 79 -7 c 26
 EndSplineSet
-Validated: 33
 EndChar

@@ -3,7 +3,7 @@ StartChar: uni0414.alt
 Encoding: 1114922 -1 2022
 Width: 771
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 40<106.631 123.899 212.609 542.017>
 VStem: 7 32<-202.717 -121.088> 608 95<-178 29> 608 32<-202.717 -114.717>
 LayerCount: 2
@@ -38,5 +38,4 @@ SplineSet
  26 41 41 42 53 42 c 0
  98 42 120 48 182 108 c 2
 EndSplineSet
-Validated: 33
 EndChar

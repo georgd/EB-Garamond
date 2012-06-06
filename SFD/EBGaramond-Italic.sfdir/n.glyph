@@ -2,7 +2,7 @@
 StartChar: n
 Encoding: 110 110 6
 Width: 508
-Flags: W
+Flags: HW
 HStem: -14 64<303.82 385.58> 372 42<346.936 406.22>
 AnchorPoint: "below_accent" 157 -100 basechar 0
 AnchorPoint: "top_accent" 376 550 basechar 0
@@ -5191,7 +5191,6 @@ SplineSet
  437 33 380 -14 317 -14 c 4
  297 -14 282 12 291 36 c 6
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" n.sc
 Substitution2: "sups subtable" n.sups
 Substitution2: "sinf subtable" n.sinf

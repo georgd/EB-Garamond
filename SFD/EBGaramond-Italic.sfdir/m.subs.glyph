@@ -3,7 +3,7 @@ StartChar: m.subs
 Encoding: 1114261 -1 1277
 Width: 419
 VWidth: -273
-Flags: W
+Flags: HW
 HStem: -1 25<96.9988 117.9 245.999 267.9 394.999 417.9> 200 39<176.712 256.5 324.536 411>
 LayerCount: 2
 Fore
@@ -54,5 +54,4 @@ SplineSet
  429 239 447 214 433 170 c 2
  395 45 l 2
 EndSplineSet
-Validated: 33
 EndChar

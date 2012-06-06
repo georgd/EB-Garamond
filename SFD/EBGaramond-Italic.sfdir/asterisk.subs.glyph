@@ -3,7 +3,7 @@ StartChar: asterisk.subs
 Encoding: 1114194 -1 1210
 Width: 594
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 267 132
 VStem: 109 132
 LayerCount: 2
@@ -32,5 +32,4 @@ SplineSet
  107 299 111 302 115 305 c 2
  156 331 l 1
 EndSplineSet
-Validated: 33
 EndChar

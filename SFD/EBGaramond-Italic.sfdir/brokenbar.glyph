@@ -2,7 +2,7 @@
 StartChar: brokenbar
 Encoding: 166 166 107
 Width: 260
-Flags: W
+Flags: HW
 HStem: -290 21G<109 116.5> 276 21G<109 116.5> 685 20G<143 149.5>
 VStem: 100 60<-286.107 171.668 282.519 698.117>
 LayerCount: 2
@@ -23,7 +23,6 @@ SplineSet
  100 156 l 2
  100 166 140 179 146 179 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "sups subtable" brokenbar.sups
 Substitution2: "sinf subtable" brokenbar.sinf
 Substitution2: "ordn subtable" brokenbar.ordn

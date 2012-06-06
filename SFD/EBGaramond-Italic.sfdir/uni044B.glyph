@@ -2,7 +2,7 @@
 StartChar: uni044B
 Encoding: 1099 1099 1962
 Width: 617
-Flags: W
+Flags: HW
 HStem: -14 24<121.085 194.382> -14 55<419 503.386> 237 30<230.219 316> 394 20G<557 567> 398 20<205.5 230>
 VStem: 45 63<15.0895 117.486> 298 64<113.83 235.614> 392 73<5.07154 105.844>
 AnchorPoint: "top_accent" 391 550 basechar 0
@@ -25,5 +25,4 @@ SplineSet
  504 386 l 2x77
 EndSplineSet
 Refer: 1961 1100 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

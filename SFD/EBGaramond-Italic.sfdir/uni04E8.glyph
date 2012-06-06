@@ -3,7 +3,7 @@ StartChar: uni04E8
 Encoding: 1256 1256 1984
 Width: 707
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 39<301.97 461.429> 301 70<246.141 663.856> 625 39<455.746 621.609>
 AnchorPoint: "cedilla" 412 8 basechar 0
 AnchorPoint: "below_accent" 370 -100 basechar 0
@@ -30,5 +30,4 @@ SplineSet
  197 151 250 25 374 25 c 0
  509 25 610 126 664 287 c 1
 EndSplineSet
-Validated: 33
 EndChar

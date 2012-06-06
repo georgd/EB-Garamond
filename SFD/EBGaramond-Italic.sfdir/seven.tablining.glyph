@@ -3,7 +3,7 @@ StartChar: seven.tablining
 Encoding: 1114162 -1 1113
 Width: 445
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 551 70<225.356 524>
 LayerCount: 2
 Fore
@@ -28,7 +28,6 @@ SplineSet
  69 -2 87 19 100 35 c 18
  530 541 l 2
 EndSplineSet
-Validated: 33
 Substitution2: "'pnum' Proportionalziffern lookup 46 subtable" seven.lnum
 Substitution2: "'onum' Minuskelziffern lookup 44 subtable" seven.taboldstyle
 EndChar

@@ -3,7 +3,7 @@ StartChar: paragraph
 Encoding: 182 182 1022
 Width: 543
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -287 27<188.187 264.138> -206 66<179.236 248.911> 119 37<365.979 394.967> 607 38<546.65 695.862>
 VStem: 144 179<236.226 418.622> 148 31<-251.741 -206.123>
 LayerCount: 2
@@ -18687,7 +18687,6 @@ SplineSet
  209 -227 200 -206 192 -206 c 0
  186 -206 179 -216 179 -225 c 8xf4
 EndSplineSet
-Validated: 1
 Substitution2: "sups subtable" paragraph.sups
 Substitution2: "sinf subtable" paragraph.sinf
 Substitution2: "ordn subtable" paragraph.ordn

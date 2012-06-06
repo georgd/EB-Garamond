@@ -3,7 +3,7 @@ StartChar: three.taboldstyle
 Encoding: 1114149 -1 1100
 Width: 438
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -191 40<53.9381 136.354> 115 46<230 281> 358 55<273.529 343.882>
 LayerCount: 2
 Fore
@@ -34,7 +34,6 @@ SplineSet
  215 158 240 173 276 196 c 0
  296 209 330 239 346 292 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'pnum' Proportionalziffern lookup 46 subtable" three
 Substitution2: "'lnum' Lining Figures lookup 43 subtable" three.tablining
 EndChar

@@ -3,7 +3,7 @@ StartChar: bracketright.subs
 Encoding: 1114245 -1 1261
 Width: 221
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -120 20<-8.58249 97.6001> 404 17<150.052 242.001>
 LayerCount: 2
 Fore
@@ -29,5 +29,4 @@ SplineSet
  150 417 158 421 164 421 c 26
  263 421 l 18
 EndSplineSet
-Validated: 33
 EndChar

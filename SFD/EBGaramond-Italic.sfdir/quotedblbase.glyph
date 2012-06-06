@@ -3,7 +3,7 @@ StartChar: quotedblbase
 Encoding: 8222 8222 55
 Width: 377
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -129 25<-72.6562 -29.8997 93.3438 136.1>
 VStem: 46 60<-31.8883 52.001> 212 60<-31.8883 52.001>
 LayerCount: 2
@@ -31,5 +31,4 @@ EndSplineSet
 Fore
 Refer: 56 8218 N 1 0 0 1 121 0 2
 Refer: 56 8218 N 1 0 0 1 -45 0 2
-Validated: 1
 EndChar

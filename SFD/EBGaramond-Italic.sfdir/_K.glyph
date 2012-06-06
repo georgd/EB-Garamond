@@ -3,7 +3,7 @@ StartChar: K
 Encoding: 75 75 61
 Width: 685
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 29<16.8438 95.2952 226.541 285.641 406.032 466.279 606.352 678.641> 323 22<293.891 311.574> 622 31<210.593 271.933 378.594 457.556 576.097 620.534 723.464 823.13>
 AnchorPoint: "below_accent" 341 -100 basechar 0
 AnchorPoint: "top_accent" 545 700 basechar 0
@@ -56,7 +56,6 @@ SplineSet
  674.582 22.8223 679 15 679 6 c 0
  679 -2 665 -5 649 -5 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Swash subtable" K.sw
 Substitution2: "c2sc subtable" K.sc
 Substitution2: "sups subtable" K.sups

@@ -2,7 +2,7 @@
 StartChar: longs_longs_i
 Encoding: 1114117 -1 1049
 Width: 752
-Flags: W
+Flags: HW
 HStem: -288 48<-137.954 -54.0454> -249 40<59.1955 153.476> -14 55<520 604.386> 628 41<322.814 434.867>
 VStem: 495 73<14.7369 107.25> 682 76<587.606 656.716>
 LayerCount: 2
@@ -57,7 +57,6 @@ SplineSet
  250 69 317.101 317.966 353 411 c 0
  384.32 492.167 410 538 438 580 c 0
 EndSplineSet
-Validated: 33
 Ligature2: "liga_standard subtable" longs longs i
 LCarets2: 2 255 489 
 EndChar

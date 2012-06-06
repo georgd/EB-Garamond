@@ -3,7 +3,7 @@ StartChar: quotedbl
 Encoding: 34 34 68
 Width: 285
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 444 232
 LayerCount: 2
 Fore
@@ -25,7 +25,6 @@ SplineSet
  341 457 328 444 323 444 c 0
  318 444 321 458 324 467 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "sups subtable" quotedbl.sups
 Substitution2: "sinf subtable" quotedbl.sinf
 Substitution2: "ordn subtable" quotedbl.ordn

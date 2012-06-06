@@ -3,7 +3,7 @@ StartChar: Tbar
 Encoding: 358 358 998
 Width: 632
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -3 25<181.985 235.605 409.977 449.717> 362 36<262.149 386 471 598.628> 604 35<303.538 450.972 532.292 740.063>
 AnchorPoint: "cedilla" 356 18 basechar 0
 AnchorPoint: "below_accent" 334 -100 basechar 0
@@ -55,6 +55,5 @@ SplineSet
  744 529 748 549 747 558 c 0
  744 577 750 604 690 604 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "c2sc subtable" Tbar.sc
 EndChar

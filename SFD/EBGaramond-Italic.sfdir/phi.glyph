@@ -3,7 +3,7 @@ StartChar: phi
 Encoding: 966 966 2189
 Width: 598
 VWidth: 2048
-Flags: W
+Flags: HW
 HStem: -286 21G<218.659 244.8> -22 57<156.09 380.189> 339 75<214.778 430.839>
 VStem: 33 38<105.182 232.346> 515 38<144.735 267>
 LayerCount: 2
@@ -81,5 +81,4 @@ SplineSet
  145.475 -22 33 29.4502 33 150 c 8
  33 306.145 177.855 414 334 414 c 16
 EndSplineSet
-Validated: 5
 EndChar

@@ -3,7 +3,7 @@ StartChar: quotedblleft
 Encoding: 8220 8220 57
 Width: 399
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 665 25<297.9 340.656 458.9 501.656>
 VStem: 162 60<508.999 592.888> 323 60<508.999 592.888>
 LayerCount: 2
@@ -31,5 +31,4 @@ EndSplineSet
 Fore
 Refer: 59 8216 N 1 0 0 1 161 0 2
 Refer: 59 8216 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

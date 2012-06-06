@@ -3,7 +3,7 @@ StartChar: q.sc
 Encoding: 1114673 -1 1689
 Width: 493
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -218 38<531.752 750.934> 430 30<320.341 435.362>
 AnchorPoint: "top_accent" 294 580 basechar 0
 LayerCount: 2
@@ -30,6 +30,5 @@ SplineSet
  620 -218 615 -218 612 -218 c 1
  574 -217 431 -217 198 -31 c 0
 EndSplineSet
-Validated: 33
 Comment: "." 
 EndChar

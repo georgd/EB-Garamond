@@ -3,7 +3,7 @@ StartChar: uni0414
 Encoding: 1044 1044 1149
 Width: 691
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 40<178.88 440.77> 610 40<447.15 605.811> 622 31<279.487 370.704 712.79 795.556>
 VStem: 0 32<-202.717 -121.088> 521 95<-178 29> 521 32<-202.717 -114.717>
 LayerCount: 2
@@ -77,6 +77,5 @@ SplineSet
  376 352 240 128 181 64 c 0
  164.592 46.2012 177 40 189 40 c 2
 EndSplineSet
-Validated: 33
 Substitution2: "cyrillic_DLLj subtable" uni0414.alt
 EndChar

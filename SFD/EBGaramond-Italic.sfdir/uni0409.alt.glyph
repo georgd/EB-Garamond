@@ -3,7 +3,7 @@ StartChar: uni0409.alt
 Encoding: 1114924 -1 2024
 Width: 1008
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -6 31<15.6597 78.6719 223.536 264.783 428.15 501.744 661.06 792.599> 323 28<720.919 818.309>
 VStem: 890 87<118.049 265.173>
 AnchorPoint: "top_accent" 790 700 basechar 0
@@ -79,5 +79,4 @@ SplineSet
  822 25 890 98 890 188 c 0
  890 259 842 323 762 323 c 0
 EndSplineSet
-Validated: 33
 EndChar

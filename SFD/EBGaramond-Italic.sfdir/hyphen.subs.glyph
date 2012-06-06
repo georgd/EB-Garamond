@@ -3,7 +3,7 @@ StartChar: hyphen.subs
 Encoding: 1114197 -1 1213
 Width: 164
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 102 51
 VStem: 52 138
 LayerCount: 2
@@ -18,5 +18,4 @@ SplineSet
  187 134 181 118 171 117 c 0
  133 112 94 106 54 102 c 0
 EndSplineSet
-Validated: 1
 EndChar

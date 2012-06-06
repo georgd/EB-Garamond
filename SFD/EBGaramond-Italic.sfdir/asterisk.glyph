@@ -3,7 +3,7 @@ StartChar: asterisk
 Encoding: 42 42 1015
 Width: 314
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 372 298
 VStem: 177 280
 LayerCount: 2
@@ -37,7 +37,6 @@ SplineSet
  344 560 l 1
  370 576 400 592 433 610 c 1
 EndSplineSet
-Validated: 1
 Substitution2: "sups subtable" asterisk.sups
 Substitution2: "sinf subtable" asterisk.sinf
 Substitution2: "ordn subtable" asterisk.ordn

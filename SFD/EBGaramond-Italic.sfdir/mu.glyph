@@ -3,7 +3,7 @@ StartChar: mu
 Encoding: 956 956 1163
 Width: 587
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -286 21G<36.5 60.5> -14 62<161.588 279.073> -12 74<452.626 535.88> 396 20G<161.5 197.5 475 498.5>
 VStem: -3 56<-252.5 -48.8333> 85 58<74.616 209.464> 421 96<301.986 375.41>
 LayerCount: 2
@@ -95,5 +95,4 @@ SplineSet
  563 30 529 -12 477 -12 c 4
  424 -12 407 42 397 90 c 4xbe
 EndSplineSet
-Validated: 33
 EndChar

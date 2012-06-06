@@ -3,7 +3,7 @@ StartChar: Euro.tablining
 Encoding: 1114166 -1 1118
 Width: 445
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -15 35<241.328 353.724> 244 34<84.6763 400.151> 354 36<135.224 451.17> 598 32<416.362 527.602>
 VStem: 552 32<478.619 561.899>
 LayerCount: 2
@@ -41,5 +41,4 @@ SplineSet
  421 24 405 15 398 12 c 0
  374 0 313 -15 263 -15 c 0
 EndSplineSet
-Validated: 37
 EndChar

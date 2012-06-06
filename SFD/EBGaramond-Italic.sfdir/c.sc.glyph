@@ -3,7 +3,7 @@ StartChar: c.sc
 Encoding: 1114659 -1 1675
 Width: 370
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 35<184.043 295.004> 427 31<288.322 409.767>
 VStem: 426 28<324.168 394.514>
 AnchorPoint: "top_accent" 254 580 basechar 0
@@ -30,6 +30,5 @@ SplineSet
  97 -14 39 94 78 222 c 16
  119 357 251 458 367 458 c 16
 EndSplineSet
-Validated: 33
 Comment: "." 
 EndChar

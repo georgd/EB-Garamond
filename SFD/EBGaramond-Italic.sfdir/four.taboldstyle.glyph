@@ -3,7 +3,7 @@ StartChar: four.taboldstyle
 Encoding: 1114150 -1 1101
 Width: 440
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -181 21G<237.5 244.5> 13 61<125 270.442> 23 51<125 286.083 372.915 431.033> 393 20G<472.5 477>
 LayerCount: 2
 Fore
@@ -38,7 +38,6 @@ SplineSet
  198 20 129 14 31 13 c 0
  25 13 22 22 26 26 c 2
 EndSplineSet
-Validated: 1
 Substitution2: "'pnum' Proportionalziffern lookup 46 subtable" four
 Substitution2: "'lnum' Lining Figures lookup 43 subtable" four.tablining
 EndChar

@@ -2,7 +2,7 @@
 StartChar: m
 Encoding: 109 109 7
 Width: 755
-Flags: W
+Flags: HW
 HStem: -14 64<575.251 632.58> 372 42<346.936 406.22 593.936 653.22>
 AnchorPoint: "below_accent" 425 -100 basechar 0
 AnchorPoint: "top_accent" 491 550 basechar 0
@@ -48,7 +48,6 @@ SplineSet
  289 23 297 46 311 84 c 6
  396 309 l 6
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" m.sc
 Substitution2: "sups subtable" m.sups
 Substitution2: "sinf subtable" m.sinf

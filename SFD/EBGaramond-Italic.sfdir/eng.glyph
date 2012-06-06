@@ -2,7 +2,7 @@
 StartChar: eng
 Encoding: 331 331 1029
 Width: 490
-Flags: W
+Flags: HW
 HStem: -288 41<92.6839 182.836> -17 21G<32 45> 372 42<323.201 410.396>
 VStem: 389 66<204.558 371.727>
 AnchorPoint: "top_accent" 375 550 basechar 0
@@ -35,6 +35,5 @@ SplineSet
  134 202 143 201 147 208 c 0
  228 348 329 414 395 414 c 4
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" eng.sc
 EndChar

@@ -3,7 +3,7 @@ StartChar: Lambda
 Encoding: 923 923 1081
 Width: 772
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 36<17.8519 96.2793 218.7 264.899 429.027 521.434 647.592 701.899>
 AnchorPoint: "top_accent" 790 700 basechar 0
 AnchorPoint: "below_accent" 334 -100 basechar 0
@@ -40,5 +40,4 @@ SplineSet
  679 539 664.875 531.124 640 506 c 6
  240 102 l 6
 EndSplineSet
-Validated: 33
 EndChar

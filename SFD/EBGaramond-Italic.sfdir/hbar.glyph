@@ -3,7 +3,7 @@ StartChar: hbar
 Encoding: 295 295 995
 Width: 428
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -6 22<342.5 410.214> 362 52<317.711 425> 538 33<182.742 236 308 432.655> 685 20G<350.5 352.5>
 AnchorPoint: "below_accent" 231 -100 basechar 0
 AnchorPoint: "top_accent" 242 757 basechar 0
@@ -46,6 +46,5 @@ SplineSet
  453 414 484 372 460 294 c 6
  389 62 l 6
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" hbar.sc
 EndChar

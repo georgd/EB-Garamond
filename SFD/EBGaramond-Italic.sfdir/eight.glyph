@@ -3,7 +3,7 @@ StartChar: eight
 Encoding: 56 56 85
 Width: 420
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -13 37<122.863 207.378> 555 34<277.897 364.937>
 VStem: 30 70<42.9575 155.133> 160 60<370.969 491.245> 260 70<85.1733 218.307> 385 60<434.79 540.078>
 LayerCount: 2
@@ -33,7 +33,6 @@ SplineSet
  445 439 398 394 278 310 c 0
  274 307 273 304 275 300 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'tnum' Tabular Numbers lookup 45 subtable" eight.taboldstyle
 Substitution2: "'lnum' Lining Figures lookup 43 subtable" eight.lnum
 Substitution2: "Single Substitution lookup 42 subtable" eight.ordn

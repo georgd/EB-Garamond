@@ -3,7 +3,7 @@ StartChar: three.subs
 Encoding: 1114203 -1 1219
 Width: 277
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -6 34<91.9571 164.327> 148 11<124.638 133.652> 290 47<187.861 249.779>
 LayerCount: 2
 Fore
@@ -31,5 +31,4 @@ SplineSet
  262 187 282 158 271 121 c 16
  246 40 150 -6 101 -6 c 0
 EndSplineSet
-Validated: 33
 EndChar

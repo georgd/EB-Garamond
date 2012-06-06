@@ -2,7 +2,7 @@
 StartChar: f_f.short
 Encoding: 1114139 -1 1079
 Width: 606
-Flags: W
+Flags: HW
 HStem: -288 40<-63.864 5.54912> -249 40<107.781 208.805> 356 38<86.2083 176.978> 362 38<258.017 274> 370 38<483.706 600.671> 628 41<364.262 481.525> 653 54<570.981 674.059>
 LayerCount: 2
 Fore
@@ -58,6 +58,5 @@ SplineSet
  406 360 403 365 389 365 c 2
  277 362 l 2x50
 EndSplineSet
-Validated: 1
 LCarets2: 1 255 
 EndChar

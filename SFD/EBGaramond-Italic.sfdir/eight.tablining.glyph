@@ -3,7 +3,7 @@ StartChar: eight.tablining
 Encoding: 1114163 -1 1114
 Width: 444
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 29<190.358 282.066> 606 24<366.303 447.304>
 LayerCount: 2
 Fore
@@ -34,7 +34,6 @@ SplineSet
  293 286 290 290 284 290 c 0
  280 290 277 288 271 284 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'pnum' Proportionalziffern lookup 46 subtable" eight.lnum
 Substitution2: "'onum' Minuskelziffern lookup 44 subtable" eight.taboldstyle
 EndChar

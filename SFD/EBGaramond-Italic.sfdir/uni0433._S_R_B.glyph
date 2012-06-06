@@ -3,7 +3,7 @@ StartChar: uni0433.SRB
 Encoding: 1115019 -1 2210
 Width: 274
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 55<76 160.386> 515 44<123.263 348.672>
 VStem: 51 71<14.7369 107.25>
 LayerCount: 2
@@ -35,5 +35,4 @@ SplineSet
  60 -14 50 2 50 21 c 0
  50 44 52 53 61 76 c 2
 EndSplineSet
-Validated: 33
 EndChar

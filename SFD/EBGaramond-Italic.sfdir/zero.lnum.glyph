@@ -3,7 +3,7 @@ StartChar: zero.lnum
 Encoding: 1114133 -1 1065
 Width: 450
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 26<208.669 278.205> 602 28<357.366 429.823>
 LayerCount: 2
 Fore
@@ -19,7 +19,6 @@ SplineSet
  90 -14 82 154 127 302 c 8
  173 454 284 630 422 630 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'tnum' Tabular Numbers lookup 45 subtable" zero.tablining
 Substitution2: "'onum' Minuskelziffern lookup 44 subtable" zero
 EndChar

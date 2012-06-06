@@ -3,7 +3,7 @@ StartChar: uni0326
 Encoding: 806 806 129
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -274 21<-48.4733 -2.21077> -147 78<26.3116 66.9956>
 VStem: 67 59<-195.206 -111>
 AnchorPoint: "below_accent" 54 -100 mark 0
@@ -36,5 +36,4 @@ SplineSet
  16 -92 41 -69 72 -69 c 0
  106 -69 126 -93 126 -129 c 0
 EndSplineSet
-Validated: 1
 EndChar

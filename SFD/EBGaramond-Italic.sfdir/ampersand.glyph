@@ -3,7 +3,7 @@ StartChar: ampersand
 Encoding: 38 38 1014
 Width: 876
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -144 79<299.217 514.412> 182 49<529.507 618> 304 86<243.803 316.767> 312 73<210.142 276.967> 462 21G<393 421.5> 538 52<235.96 350.089> 634 52<766.182 834.739>
 VStem: 28 66<105.621 245.93> 137 60<396.244 499.359> 466 48<244.948 363.916> 591 78<232.502 297.532> 757 44<121.468 326.652> 846 60<548.009 623.751>
 LayerCount: 2
@@ -6466,7 +6466,6 @@ SplineSet
  153.816 365.082 137 388.966 137 416 c 16
  137 529 232.906 590 336 590 c 16xeff8
 EndSplineSet
-Validated: 33
 Substitution2: "sups subtable" ampersand.sups
 Substitution2: "sinf subtable" ampersand.sinf
 Substitution2: "ordn subtable" ampersand.ordn

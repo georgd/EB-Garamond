@@ -2,7 +2,7 @@
 StartChar: equal
 Encoding: 61 61 99
 Width: 590
-Flags: W
+Flags: HW
 HStem: 143 50<53.1042 534.648> 314 50<53.1042 534.648>
 LayerCount: 2
 Fore
@@ -22,7 +22,6 @@ SplineSet
  57 314 50 320 50 326 c 0
  50 335 56 364 74 364 c 2
 EndSplineSet
-Validated: 1
 Substitution2: "sups subtable" equal.sups
 Substitution2: "sinf subtable" equal.sinf
 Substitution2: "ordn subtable" equal.ordn

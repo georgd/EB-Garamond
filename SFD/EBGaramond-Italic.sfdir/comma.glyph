@@ -3,7 +3,7 @@ StartChar: comma
 Encoding: 44 44 54
 Width: 250
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -129 25<-12.6562 30.1003>
 VStem: 106 60<-31.8883 51.4153>
 LayerCount: 2
@@ -20386,7 +20386,6 @@ SplineSet
  68 -73 106 -25 106 25 c 4
  106 63.6533 45 47 45 80 c 4
 EndSplineSet
-Validated: 1
 Substitution2: "sups subtable" comma.sups
 Substitution2: "sinf subtable" comma.sinf
 Substitution2: "ordn subtable" comma.ordn

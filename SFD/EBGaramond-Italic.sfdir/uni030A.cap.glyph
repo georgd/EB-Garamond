@@ -2,7 +2,7 @@
 StartChar: uni030A.cap
 Encoding: 1114968 -1 2090
 Width: 1000
-Flags: W
+Flags: HW
 HStem: 700 22<67.3182 125.505> 841 23<62.7129 122.208>
 VStem: 5 38<737.768 829.107> 145 38<734.305 826.104>
 AnchorPoint: "top_accent" 122 700 mark 0
@@ -20,5 +20,4 @@ SplineSet
  145 813 122 841 91 841 c 0
  61 841 43 811 43 782 c 0
 EndSplineSet
-Validated: 1
 EndChar

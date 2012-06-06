@@ -3,7 +3,7 @@ StartChar: period.subs
 Encoding: 1114198 -1 1214
 Width: 137
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -8 66<48.9329 103.378>
 VStem: 43 66
 LayerCount: 2
@@ -15,5 +15,4 @@ SplineSet
  48 -8 37 7 43 25 c 24
  49 43 68 58 87 58 c 24
 EndSplineSet
-Validated: 33
 EndChar

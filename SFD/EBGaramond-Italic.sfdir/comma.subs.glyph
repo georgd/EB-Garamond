@@ -3,7 +3,7 @@ StartChar: comma.subs
 Encoding: 1114196 -1 1212
 Width: 136
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -88 158
 LayerCount: 2
 Fore
@@ -18,5 +18,4 @@ SplineSet
  25 -69 61 -51 74 -9 c 0
  77 1 72 16 59 17 c 0
 EndSplineSet
-Validated: 33
 EndChar

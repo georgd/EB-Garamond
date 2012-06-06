@@ -3,6 +3,7 @@ StartChar: ellipsis
 Encoding: 8230 8230 782
 Width: 684
 VWidth: 0
+Flags: H
 HStem: -14 115<41.8503 118.15 269.85 346.15 497.85 574.15>
 VStem: 25 110<3.02179 83.9782> 253 110<3.02179 83.9782> 481 110<3.02179 83.9782>
 CounterMasks: 1 70
@@ -11,5 +12,4 @@ Fore
 Refer: 39 46 N 1 0 0 1 456 0 2
 Refer: 39 46 N 1 0 0 1 228 0 2
 Refer: 39 46 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

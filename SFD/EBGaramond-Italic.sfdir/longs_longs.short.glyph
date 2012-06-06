@@ -3,7 +3,7 @@ StartChar: longs_longs.short
 Encoding: 1114177 -1 1129
 Width: 547
 LigCaretCntFixed: 1
-Flags: W
+Flags: HW
 HStem: -288 48<-137.954 -54.0454> -249 40<59.1955 153.476> 628 41<333.222 424.405>
 LayerCount: 2
 Fore
@@ -38,7 +38,6 @@ SplineSet
  250 69 308.102 317.966 344 411 c 0
  375.319 492.167 401 538 429 580 c 0
 EndSplineSet
-Validated: 1
 LCarets2: 1 0 
 LCarets2: 1 377 
 EndChar

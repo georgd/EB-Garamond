@@ -3,7 +3,7 @@ StartChar: circumflex
 Encoding: 710 710 90
 Width: 4
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 447 201<55.9062 63.1966>
 VStem: 57 35<447.486 465>
 LayerCount: 2
@@ -21,5 +21,4 @@ SplineSet
  22 561 l 1
  -73 465 l 2
 EndSplineSet
-Validated: 1
 EndChar

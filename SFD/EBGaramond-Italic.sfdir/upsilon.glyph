@@ -3,8 +3,8 @@ StartChar: upsilon
 Encoding: 965 965 2188
 Width: 486
 VWidth: 2048
-Flags: W
-HStem: -14 79<165.962 276.98> 328.5 85.5<127.361 185.519> 404 20G<378.409 388>
+Flags: HW
+HStem: -14 79<165.962 276.98> 328 86<127.361 185.519> 404 20G<378.409 388>
 VStem: 104 42<85.6311 207.014> 157 62<286.5 385.5> 381 39<217.536 398.205>
 LayerCount: 2
 Back
@@ -7621,5 +7621,4 @@ SplineSet
  139 -14 104 34 104 125 c 0
  104 176 157 279 157 294 c 4xbc
 EndSplineSet
-Validated: 1
 EndChar

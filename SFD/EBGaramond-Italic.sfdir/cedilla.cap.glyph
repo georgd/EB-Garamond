@@ -3,7 +3,7 @@ StartChar: cedilla.cap
 Encoding: 1114137 -1 1077
 Width: 255
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -275 53<-11.9815 73.0315>
 VStem: -26 205
 LayerCount: 2
@@ -26,5 +26,4 @@ SplineSet
  115 -61 122 -68 126 -70 c 0
  148 -82 175 -112 161 -159 c 0
 EndSplineSet
-Validated: 33
 EndChar

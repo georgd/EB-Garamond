@@ -2,7 +2,7 @@
 StartChar: longs_longs
 Encoding: 1114119 -1 1051
 Width: 443
-Flags: W
+Flags: HW
 HStem: -288 48<-137.954 -54.0454> -249 40<59.1955 153.476> 628 41<322.814 434.867>
 VStem: 655 62<600.853 655.117>
 LayerCount: 2
@@ -39,7 +39,6 @@ SplineSet
  250 69 317.101 317.966 353 411 c 0
  384.32 492.167 410 538 438 580 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Single Substitution lookup 61 subtable" longs_longs.short
 Substitution2: "Single Substitution lookup 60 subtable" longs_longs.short
 Ligature2: "liga_standard subtable" longs longs

@@ -3,7 +3,7 @@ StartChar: hyphen
 Encoding: 45 45 94
 Width: 274
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 170 85
 VStem: 50 224
 LayerCount: 2
@@ -17,7 +17,6 @@ SplineSet
  274 222 247.9 196.409 238 195 c 2
  62 170 l 2
 EndSplineSet
-Validated: 1
 Substitution2: "sups subtable" hyphen.sups
 Substitution2: "sinf subtable" hyphen.sinf
 Substitution2: "ordn subtable" hyphen.ordn

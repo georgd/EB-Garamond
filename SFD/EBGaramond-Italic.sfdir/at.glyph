@@ -3,7 +3,7 @@ StartChar: at
 Encoding: 64 64 1018
 Width: 880
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -163 46<267.674 517.41> 25 53<300.095 383.186> 28 43<513.5 650.276> 304 47<452.402 542.713> 468 42<415.826 633.272>
 VStem: 79 65<-1.36803 208.457> 247 71<50.5 152.955> 492 64<61 149.22> 601 57<332.246 369.721> 762 48<171.101 342.284>
 LayerCount: 2
@@ -42,7 +42,6 @@ SplineSet
  557 109 556 104 556 99 c 0
  556 82 571 71 587 71 c 0xbfc0
 EndSplineSet
-Validated: 1
 Substitution2: "sups subtable" at.sups
 Substitution2: "sinf subtable" at.sinf
 Substitution2: "ordn subtable" at.ordn

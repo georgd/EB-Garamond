@@ -3,7 +3,7 @@ StartChar: tbar
 Encoding: 359 359 999
 Width: 275
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 45<127 228.729> 198 36<88.1479 123 196 273.564> 347 48<252.821 366.228> 347 25<137.216 162.594> 442 20G<265.5 270.5>
 LayerCount: 2
 Fore
@@ -39,6 +39,5 @@ SplineSet
  164 331 l 2
  170 351 158 345 141 347 c 0xd8
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" tbar.sc
 EndChar

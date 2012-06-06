@@ -3,7 +3,7 @@ StartChar: uni0314
 Encoding: 788 788 127
 Width: 199
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 426 21<256.636 286.468> 568 78<256.181 339.393>
 AnchorPoint: "top_accent" 107 550 mark 0
 LayerCount: 2
@@ -18,7 +18,6 @@ SplineSet
  346 646 356 626 351 610 c 0
  344 588 322 568 295 568 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" uni0314.grkstack
 Substitution2: "Single Substitution lookup 16 subtable" uni0314.grk
 EndChar

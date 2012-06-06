@@ -3,7 +3,7 @@ StartChar: five.taboldstyle
 Encoding: 1114151 -1 1102
 Width: 437
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -189 29<52.4117 138.737> 325 90<318.528 390.217>
 LayerCount: 2
 Fore
@@ -28,7 +28,6 @@ SplineSet
  239 364 253 373 274 380 c 0
  323 396 365 407 421 415 c 16
 EndSplineSet
-Validated: 33
 Substitution2: "'pnum' Proportionalziffern lookup 46 subtable" five
 Substitution2: "'lnum' Lining Figures lookup 43 subtable" five.tablining
 EndChar

@@ -3,7 +3,7 @@ StartChar: six.lnum
 Encoding: 1114129 -1 1061
 Width: 430
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 36<190.792 290.024> 260 53<293.956 406>
 LayerCount: 2
 Fore
@@ -29,7 +29,6 @@ SplineSet
  438 313 480 262 458 190 c 0
  426 85 328 -14 198 -14 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'tnum' Tabular Numbers lookup 45 subtable" six.tablining
 Substitution2: "'onum' Minuskelziffern lookup 44 subtable" six
 EndChar

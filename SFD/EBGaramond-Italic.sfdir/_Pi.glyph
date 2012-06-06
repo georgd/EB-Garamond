@@ -3,7 +3,7 @@ StartChar: Pi
 Encoding: 928 928 1083
 Width: 821
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 29<6.7629 88.4897 225.031 287.641 462.763 544.49 681.031 743.641> 610 40<371.938 736.764> 622 31<211.487 271.933 846.79 929.785>
 LayerCount: 2
 Fore
@@ -42,5 +42,4 @@ SplineSet
  746 597 736 610 691 610 c 6
  438 610 l 6xc0
 EndSplineSet
-Validated: 33
 EndChar

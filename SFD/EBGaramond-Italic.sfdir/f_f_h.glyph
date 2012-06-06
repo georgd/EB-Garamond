@@ -2,7 +2,7 @@
 StartChar: f_f_h
 Encoding: 1114904 -1 1920
 Width: 1002
-Flags: W
+Flags: HW
 HStem: -288 40<-112.864 -43.4509> -249 40<58.7807 159.805> -14 41<714.684 801.768> 362 38<39.643 129.264 209.017 265.333> 373 35<434.705 592.344> 379 42<839.578 929.42> 628 41<321.904 429.361> 657 49<553.968 662.581>
 VStem: 668 89<611.465 702> 907 66<220.903 378.727>
 AnchorPoint: "below_accent" 606 -100 basechar 0
@@ -82,7 +82,6 @@ SplineSet
  366 406 368 409 370 419 c 0
  386 486 410 538 438 580 c 0
 EndSplineSet
-Validated: 1
 Ligature2: "liga_standard subtable" f f h
 LCarets2: 2 223 469 
 EndChar

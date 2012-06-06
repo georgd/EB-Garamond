@@ -3,7 +3,7 @@ StartChar: J
 Encoding: 74 74 42
 Width: 335
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -200 42<-80 27.4867> 622 31<204.52 265.535 375.47 452.821>
 AnchorPoint: "top_accent" 335 700 basechar 0
 LayerCount: 2
@@ -28,7 +28,6 @@ SplineSet
  -59 -103 -51 -111 -45 -129 c 0
  -38 -152 -26 -158 -10 -158 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Swash subtable" J.sw
 Substitution2: "c2sc subtable" J.sc
 Substitution2: "sups subtable" J.sups

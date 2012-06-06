@@ -3,7 +3,7 @@ StartChar: uni0306.cyrcap
 Encoding: 1114921 -1 1995
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 692 43<83.3294 202.406>
 VStem: 5 76<742.428 814.833> 254 20<800.159 823.031>
 AnchorPoint: "top_accent" 131 700 mark 0
@@ -21,5 +21,4 @@ SplineSet
  257 733 192 692 111 692 c 0
  57 692 5 728 5 782 c 0
 EndSplineSet
-Validated: 1
 EndChar

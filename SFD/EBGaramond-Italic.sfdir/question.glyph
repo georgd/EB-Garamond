@@ -3,7 +3,7 @@ StartChar: question
 Encoding: 63 63 86
 Width: 290
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 111<60.2941 130.706> 591 70<168.756 280.284>
 VStem: 44 103<2.17511 81.2768> 84 39<199.417 283.938> 307 35<461.254 560.461>
 LayerCount: 2
@@ -29,7 +29,6 @@ SplineSet
  158 577 149 592 149 610 c 0
  149 640 192 661 215 661 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "sups subtable" question.sups
 Substitution2: "sinf subtable" question.sinf
 Substitution2: "ordn subtable" question.ordn

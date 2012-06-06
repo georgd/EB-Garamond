@@ -3,7 +3,7 @@ StartChar: zero.tablining
 Encoding: 1114165 -1 1116
 Width: 444
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 26<203.343 275.705> 602 28<355.287 427.784>
 LayerCount: 2
 Fore
@@ -19,7 +19,6 @@ SplineSet
  88 -14 79 154 124 302 c 8
  170 454 282 630 420 630 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'pnum' Proportionalziffern lookup 46 subtable" zero.lnum
 Substitution2: "'onum' Minuskelziffern lookup 44 subtable" zero.taboldstyle
 EndChar

@@ -2,7 +2,7 @@
 StartChar: k
 Encoding: 107 107 62
 Width: 469
-Flags: W
+Flags: HW
 HStem: -21 60<310.823 368.638> 178 25<172 214> 372 42<336.026 418.757>
 VStem: 400 69<315.638 387.5>
 AnchorPoint: "below_accent" 164 -100 basechar 0
@@ -44,7 +44,6 @@ SplineSet
  163 178 149 150 145 136 c 0
  139 117 113 35 106 16 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" k.sc
 Substitution2: "sups subtable" k.sups
 Substitution2: "sinf subtable" k.sinf

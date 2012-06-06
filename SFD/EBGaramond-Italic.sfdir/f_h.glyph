@@ -3,7 +3,7 @@ StartChar: f_h
 Encoding: 1114167 -1 1119
 Width: 746
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -288 40<-126.864 -57.5056> -14 41<452.684 539.768> 356 38<23.2083 113.978> 365 38<195.612 346.062> 379 42<579.751 674.5> 665 41<316.175 407.186>
 VStem: 421 98<607.5 702> 645 66<220.903 378.727>
 LayerCount: 2
@@ -59,7 +59,6 @@ SplineSet
  355 403 l 2
  362 403 366 408 368 415 c 2
 EndSplineSet
-Validated: 1
 Ligature2: "liga_standard subtable" f h
 LCarets2: 1 225 
 EndChar

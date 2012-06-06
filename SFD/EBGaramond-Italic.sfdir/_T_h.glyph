@@ -3,7 +3,7 @@ StartChar: T_h
 Encoding: 1114121 -1 1053
 Width: 1044
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 41<750.684 837.768> -5 29<125.948 205.738 344.539 405.899> 379 42<877.751 972.5> 604 38<222.526 392.47 472.425 689.246>
 VStem: 943 66<220.903 378.727>
 LayerCount: 2
@@ -55,7 +55,6 @@ SplineSet
  700 558 l 2
  707 581 676 604 616 604 c 0xb8
 EndSplineSet
-Validated: 33
 Ligature2: "liga_standard subtable" T h
 LCarets2: 1 538 
 EndChar
