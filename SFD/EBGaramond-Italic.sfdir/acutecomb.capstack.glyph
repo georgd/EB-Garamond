@@ -1,22 +1,22 @@
 
 StartChar: acutecomb.capstack
-Encoding: 1115041 -1 2393
-Width: 0
-VWidth: 0
+Encoding: 1115035 -1 2388
+Width: 1000
 Flags: W
-HStem: 463 189
-VStem: 10 141
-AnchorPoint: "top_accent" 40 550 mark 0
+HStem: 755 55<92.1727 151.141>
+VStem: 5 160
+AnchorPoint: "acutestack" 0 710 mark 0
 LayerCount: 2
 Fore
 SplineSet
-41 478 m 0
- 34 471 26 463 18 463 c 0
- 13 463 10 467 10 471 c 0
- 10 475 10 479 12 483 c 0
- 25 510 70 596 87 627 c 0
- 94 640 102 652 112 652 c 0
- 122 652 151 630 151 615 c 0
- 151 610 67 507 41 478 c 0
+5 716 m 0
+ 5 721 7 725 13 731 c 0
+ 28 745 75 786 99 804 c 0
+ 105 808 110 810 115 810 c 0
+ 126 810 165 781 165 770 c 0
+ 165 765 158 760 147 755 c 0
+ 107 738 64 723 33 713 c 0
+ 27 711 18 710 15 710 c 0
+ 10 710 5 712 5 716 c 0
 EndSplineSet
 EndChar

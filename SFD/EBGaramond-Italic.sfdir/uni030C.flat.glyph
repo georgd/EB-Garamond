@@ -1,9 +1,27 @@
 
 StartChar: uni030C.flat
-Encoding: 1114990 -1 2114
-Width: 1000
+Encoding: 1114988 -1 2112
+Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "top_accent" 136 678 mark 0
+HStem: 562 130
+VStem: 10 240
+AnchorPoint: "top_accent" 136 688 mark 0
 LayerCount: 2
+Fore
+SplineSet
+101 629 m 2
+ 212 680 l 2
+ 221 684 239 692 244 692 c 0
+ 249 692 250 689 250 683 c 0
+ 250 677 245 669 238 665 c 2
+ 132 594 l 2
+ 109 578 82 562 72 562 c 0
+ 63 562 57 569 52 582 c 2
+ 52 582 10 661 10 671 c 0
+ 10 679 9 692 15 692 c 0
+ 22 692 32 684 41 675 c 2
+ 90 629 l 2
+ 93 625 96 627 101 629 c 2
+EndSplineSet
 EndChar

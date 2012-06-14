@@ -4,13 +4,24 @@ Encoding: 260 260 183
 Width: 772
 VWidth: 0
 Flags: W
-HStem: -300 71<93.5 189.662> -5 36<17.8519 96.2793 218.75 264.899 429.027 521.115 647.592 701.899>
+HStem: -286 64<476.852 522.466> -5 36<17.8519 96.2793 218.75 264.899 429.027 521.115 647.592 701.899>
+VStem: 390 82<-217.944 -137.026>
+AnchorPoint: "top_accent" 792 710 basechar 0
 AnchorPoint: "cedilla" 124 8 basechar 0
-AnchorPoint: "below_accent" 334 -100 basechar 0
-AnchorPoint: "top_accent" 363 700 basechar 0
 LayerCount: 2
 Fore
-Refer: 1078 -1 N 1 0 0 1 13 -13 2
-Refer: 31 65 N 1 0 0 1 0 0 2
+SplineSet
+453 -286 m 0
+ 424 -287 390 -250 390 -216 c 0
+ 390 -110 498 -32 585 18 c 1
+ 612 18 l 17
+ 537 -34 472 -92 472 -179 c 0
+ 472 -197 483 -222 509 -222 c 0
+ 530 -222 561 -197 573 -183 c 0
+ 576 -179 600 -160 600 -181 c 0
+ 600 -184 593 -197 590 -201 c 0
+ 555 -248 508 -285 453 -286 c 0
+EndSplineSet
+Refer: 31 65 N 1 0 0 1 0 0 3
 Substitution2: "c2sc subtable" Aogonek.sc
 EndChar

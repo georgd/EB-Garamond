@@ -1,6 +1,6 @@
 
 StartChar: uni0275
-Encoding: 629 629 2004
+Encoding: 629 629 2002
 Width: 432
 VWidth: 0
 Flags: W
@@ -24,6 +24,6 @@ SplineSet
  140 99 160 16 224 16 c 0
  262 16 302 32 331 71 c 0
  354 102 372 150 384 189 c 0
- 384 190 384 191 384 191 c 2
+ 384 191 l 2
 EndSplineSet
 EndChar

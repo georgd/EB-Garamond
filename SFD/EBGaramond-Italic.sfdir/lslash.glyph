@@ -1,13 +1,15 @@
 
 StartChar: lslash
 Encoding: 322 322 1006
-Width: 210
-VWidth: 0
+Width: 264
 Flags: W
-HStem: -6 22<108 176.205> 404 20G<320 323.5> 685 20G<352.5 354.5>
+HStem: -14 55<78 158.697> 285 21G<66 70>
+VStem: 50 76<5.25383 105.281>
+AnchorPoint: "top_accent" 293 812 basechar 0
+AnchorPoint: "top_right" 383 634 basechar 0
 AnchorPoint: "below_accent" 115 -100 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 156 62 m 2
  153 51 146 30 145 24 c 1
@@ -36,6 +38,35 @@ SplineSet
  324 398 322 394 304 385 c 2
  245 355 l 1
  156 62 l 2
+EndSplineSet
+Fore
+SplineSet
+233 99 m 0
+ 241 107 248 120 253 120 c 0
+ 258 120 258 115 258 107 c 0
+ 258 47 129 -14 94 -14 c 0
+ 62 -14 50 2 50 21 c 0
+ 50 38 54 52 61 76 c 2
+ 206 559 l 2
+ 212 578 220 607 220 624 c 0
+ 220 646 170 648 170 660 c 0
+ 170 665 172 669 176 671 c 0
+ 206 686 274 707 290 707 c 0
+ 296 707 307 707 307 697 c 0
+ 307 686 306 683 303 674 c 2
+ 131 86 l 2
+ 128 75 126 65 126 57 c 0
+ 126 47 129 41 136 41 c 0
+ 168 41 223 89 233 99 c 0
+278 390 m 2
+ 78 288 l 2
+ 75 287 72 285 68 285 c 0
+ 64 285 62 287 62 295 c 0
+ 62 308 75 326 85 331 c 2
+ 292 437 l 2
+ 295 438 300 441 302 441 c 0
+ 305 441 308 438 308 431 c 0
+ 308 413 298 400 278 390 c 2
 EndSplineSet
 Substitution2: "Smallcaps subtable" lslash.sc
 EndChar

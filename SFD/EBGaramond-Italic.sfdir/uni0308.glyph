@@ -6,6 +6,10 @@ VWidth: 0
 Flags: W
 HStem: 524 100<23.7711 87.2976 174.771 238.298>
 VStem: 10 90<536.614 610.468> 161 90<536.614 610.468>
+AnchorPoint: "top_stack" 148 474 mark 0
+AnchorPoint: "top_stack" 148 636 basemark 0
+AnchorPoint: "gravestack" 143 570 basemark 0
+AnchorPoint: "acutestack" 152 570 basemark 0
 AnchorPoint: "top_accent" 127 550 mark 0
 LayerCount: 2
 Fore

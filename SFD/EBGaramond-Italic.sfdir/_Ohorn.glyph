@@ -4,14 +4,32 @@ Encoding: 416 416 288
 Width: 712
 VWidth: 0
 Flags: W
-HStem: -14 35<264.006 414.248> 415 25<444.344 487.1> 628 36<391.576 555.605>
-VStem: 89 82<128.393 340.569> 563 60<512.112 595.491> 642 82<325.945 533.828>
-AnchorPoint: "cedilla" 412 8 basechar 0
-AnchorPoint: "ogonek" 520 18 basechar 0
-AnchorPoint: "below_accent" 370 -100 basechar 0
-AnchorPoint: "top_accent" 383 700 basechar 0
+HStem: -14 35<264.006 414.248> 628 36<391.576 557.236>
+VStem: 89 82<128.393 340.569> 642 82<325.945 535.842> 745 55<605.93 685>
+AnchorPoint: "top_accent" 501 710 basechar 0
+AnchorPoint: "below_accent" 304 -100 basechar 0
+AnchorPoint: "ogonek" 463 18 basechar 0
+AnchorPoint: "cedilla" 341 8 basechar 0
 LayerCount: 2
 Fore
-Refer: 54 44 N 1 0 0 1 457 544 2
-Refer: 46 79 N 1 0 0 1 0 0 2
+SplineSet
+479 628 m 0
+ 279 628 171 386 171 186 c 8
+ 171 95 245 21 336 21 c 16
+ 536 21 642 284 642 484 c 0
+ 642 569 564 628 479 628 c 0
+697 546 m 0
+ 714 516 724 481 724 444 c 8
+ 724 208 565 -14 329 -14 c 8
+ 197 -14 89 94 89 226 c 16
+ 89 456 254 664 484 664 c 16
+ 543 664 602 641 633 616 c 0
+ 646 606 666 601 706 601 c 0
+ 733 601 745 611 745 629 c 0
+ 745 650 701 669 701 692 c 0
+ 701 718 740 733 768 733 c 0
+ 792 733 800 697 800 673 c 0
+ 800 617 758 567 704 560 c 0
+ 699 559 689 560 697 546 c 0
+EndSplineSet
 EndChar

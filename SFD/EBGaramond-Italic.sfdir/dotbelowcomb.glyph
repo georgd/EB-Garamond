@@ -1,7 +1,7 @@
 
-StartChar: uni0323
-Encoding: 803 803 2026
-Width: 218
+StartChar: dotbelowcomb
+Encoding: 803 803 2024
+Width: 0
 VWidth: 0
 Flags: W
 HStem: -192 101<29.3016 90.5954>
@@ -16,5 +16,5 @@ SplineSet
  110 -163 74 -192 44 -192 c 0
  23 -192 10 -178 10 -158 c 0
 EndSplineSet
-Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0323.cap
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" dotbelowcomb.cap
 EndChar

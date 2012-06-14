@@ -5,7 +5,7 @@ FamilyName: EB Garamond
 Weight: Regular
 Copyright: Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2010-5-17: Created." 
-Version: 000.001
+Version: 000.014
 ItalicAngle: -17
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1338967747
+ModificationTime: 1339667578
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -107,15 +107,15 @@ Lookup: 1 0 0 "Single Substitution lookup 61"  {"Single Substitution lookup 61 s
 Lookup: 6 0 0 "caltLAT"  {"caltLAT subtable"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 63"  {"Single Substitution lookup 63 subtable"  } []
 Lookup: 1 0 0 "Swash"  {"Swash subtable" ("swash" ) } ['swsh' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 260 0 0 "mark"  {"mark-2"  "mark-1"  "mark anchor 0"  "mark anchor 1"  "mark anchor 2"  "mark anchor 3"  "mark anchor 4"  } ['mark' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 262 0 0 "mkmk"  {"mkmk subtable"  } ['mkmk' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 258 0 0 "kern"  {"kern subtable"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 260 0 0 "mark"  {"mark-3"  "mark-2"  "mark-1"  "mark anchor 0"  "mark anchor 1"  "mark anchor 2"  "mark anchor 3"  "mark anchor 4"  } ['mark' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 262 0 0 "mkmk"  {"mkmk subtable"  } ['mkmk' ('DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 15 18 "kern subtable" 
  1 A
  9 A.sc a.sc
- 85 E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde
+ 86 E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek uni1EBC
  1 F
  1 L
  1 M
@@ -132,7 +132,7 @@ KernClass2: 15 18 "kern subtable"
  9 O Ohorn Q
  5 V W Y
  19 V.sc W.sc v.sc w.sc
- 67 a ae aogonek c ccedilla d e eogonek eth g o oe oogonek q s scedilla
+ 67 a ae aogonek c ccedilla d e eogonek eth g o oe uni01EB q s scedilla
  28 dotlessi m n p r u uogonek z
  1 t
  79 uni0430 uni0435 uni0437 uni043E uni0441 uni044D uni044F uni0454 uni0455 uni04E9
@@ -148,22 +148,22 @@ KernClass2: 15 18 "kern subtable"
 ChainSub2: coverage "caltLAT subtable"  0 0 0 1
  1 1 0
   Coverage: 11 u.LAT v.LAT
-  BCoverage: 1529 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron L.CAT U.LAT A.sw B.sw C.sw D.sw E.sw F.sw G.sw H.sw I.sw J.sw K.sw L.sw M.sw N.sw O.sw P.sw Q.sw R.sw S.sw T.sw U.sw V.sw W.sw X.sw Y.sw Z.sw a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde etilde otilde utilde oe f.DEU f.short i.TRK l.CAT u.LAT v.LATmedi longs.short v.init w.init v.alt w.alt f_f unifb01 unifb02 unifb03 unifb04 unifb05 unifb06 longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s s_s c_t f_f.short t_t t_z f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.short U.LAT u.LAT u.LATmedi v.LATmedi
+  BCoverage: 1534 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron L.CAT U.LAT A.sw B.sw C.sw D.sw E.sw F.sw G.sw H.sw I.sw J.sw K.sw L.sw M.sw N.sw O.sw P.sw Q.sw R.sw S.sw T.sw U.sw V.sw W.sw X.sw Y.sw Z.sw a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde uni1EBD otilde utilde oe f.DEU f.short i.TRK l.CAT u.LAT v.LATmedi longs.short v.init w.init v.alt w.alt uniFB00 unifb01 unifb02 unifb03 unifb04 unifb05 unifb06 longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s s_s c_t f_f.short t_t t_z f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.short U.LAT u.LAT u.LATmedi v.LATmedi
  1
   SeqLookup: 0 "Single Substitution lookup 63" 
 EndFPST
 ChainSub2: coverage "f_short contextual 1"  0 0 0 1
  1 0 2
-  Coverage: 29 f f_f f.DEU longs longs_longs
-  FCoverage: 7 uni200c
-  FCoverage: 405 b f h i j k l adieresis edieresis idieresis odieresis udieresis dotlessi thorn eth longs bracketright braceright question exclam parenright i i.TRK f.DEU f_f uniFB01 uniFB02 uniFB03 uniFB04 uniFB05 uniFB06 f_f.short f.short f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.short longs_longs.short f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t
+  Coverage: 33 f uniFB00 f.DEU longs longs_longs
+  FCoverage: 7 uni200C
+  FCoverage: 409 b f h i j k l adieresis edieresis idieresis odieresis udieresis dotlessi thorn eth longs bracketright braceright question exclam parenright i i.TRK f.DEU uniFB00 uniFB01 uniFB02 uniFB03 uniFB04 uniFB05 uniFB06 f_f.short f.short f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.short longs_longs.short f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t
  1
   SeqLookup: 0 "Single Substitution lookup 61" 
 EndFPST
 ChainSub2: coverage "f_short contextual 0"  0 0 0 1
  1 0 1
-  Coverage: 29 f f_f f.DEU longs longs_longs
-  FCoverage: 1738 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron L.CAT U.LAT A.sw B.sw C.sw D.sw E.sw F.sw G.sw H.sw I.sw J.sw K.sw L.sw M.sw N.sw O.sw P.sw Q.sw R.sw S.sw T.sw U.sw V.sw W.sw X.sw Y.sw Z.sw b f h i j k l adieresis edieresis idieresis odieresis udieresis dotlessi thorn eth longs bracketright braceright question exclam parenright i i.TRK f.DEU f_f uniFB01 uniFB02 uniFB03 uniFB04 uniFB05 uniFB06 f_f.short f.short f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.short longs_longs.short f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t space exclam quotedbl quotesingle parenleft parenright comma period slash colon semicolon question bracketleft backslash bracketright braceleft bar braceright exclamdown questiondown guillemotleft guillemotright figuredash endash emdash uni2015 quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase ellipsis guilsinglleft guilsinglright
+  Coverage: 33 f uniFB00 f.DEU longs longs_longs
+  FCoverage: 1742 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron L.CAT U.LAT A.sw B.sw C.sw D.sw E.sw F.sw G.sw H.sw I.sw J.sw K.sw L.sw M.sw N.sw O.sw P.sw Q.sw R.sw S.sw T.sw U.sw V.sw W.sw X.sw Y.sw Z.sw b f h i j k l adieresis edieresis idieresis odieresis udieresis dotlessi thorn eth longs bracketright braceright question exclam parenright i i.TRK f.DEU uniFB00 uniFB01 uniFB02 uniFB03 uniFB04 uniFB05 uniFB06 f_f.short f.short f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.short longs_longs.short f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t space exclam quotedbl quotesingle parenleft parenright comma period slash colon semicolon question bracketleft backslash bracketright braceleft bar braceright exclamdown questiondown guillemotleft guillemotright figuredash endash emdash uni2015 quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase ellipsis guilsinglleft guilsinglright
  1
   SeqLookup: 0 "Single Substitution lookup 60" 
 EndFPST
@@ -216,7 +216,7 @@ ChainSub2: coverage "liga_final_s contextual 0"  0 0 0 1
  2 0 1
   Coverage: 7 a e i u
   Coverage: 1 s
-  FCoverage: 530 a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde etilde otilde utilde oe f.DEU f.short i.TRK l.CAT u.LAT v.LATmedi longs.short v.init w.init v.alt w.alt f_f unifb01 unifb02 unifb03 unifb04 unifb05 unifb06 longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s s_s c_t f_f.short t_t t_z f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.short hyphen
+  FCoverage: 535 a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde uni1EBD otilde utilde oe f.DEU f.short i.TRK l.CAT u.LAT v.LATmedi longs.short v.init w.init v.alt w.alt uniFB00 unifb01 unifb02 unifb03 unifb04 unifb05 unifb06 longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s s_s c_t f_f.short t_t t_z f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.short hyphen
  0
 EndFPST
 ChainSub2: coverage "frac contextual 1"  0 0 0 1
@@ -236,7 +236,7 @@ EndFPST
 ChainSub2: coverage "longs_replacement subtable"  0 0 0 1
  1 0 1
   Coverage: 1 s
-  FCoverage: 288 a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde etilde otilde utilde oe f.DEU f.short i.TRK l.CAT u.LAT v.LATmedi longs.short hyphen afii301
+  FCoverage: 289 a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde uni1EBD otilde utilde oe f.DEU f.short i.TRK l.CAT u.LAT v.LATmedi longs.short hyphen uni200D
  1
   SeqLookup: 0 "Single Substitution lookup 29" 
 EndFPST
@@ -250,7 +250,7 @@ EndFPST
 ChainSub2: coverage "historic_u contextual 2"  0 0 0 1
  1 1 0
   Coverage: 1 v
-  BCoverage: 1508 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron L.CAT U.LAT A.sw B.sw C.sw D.sw E.sw F.sw G.sw H.sw I.sw J.sw K.sw L.sw M.sw N.sw O.sw P.sw Q.sw R.sw S.sw T.sw U.sw V.sw W.sw X.sw Y.sw Z.sw a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde etilde otilde utilde oe f.DEU f.short i.TRK l.CAT u.LAT v.LATmedi longs.short v.init w.init v.alt w.alt f_f unifb01 unifb02 unifb03 unifb04 unifb05 unifb06 longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s s_s c_t f_f.short t_t t_z f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.short quoteright
+  BCoverage: 1513 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron L.CAT U.LAT A.sw B.sw C.sw D.sw E.sw F.sw G.sw H.sw I.sw J.sw K.sw L.sw M.sw N.sw O.sw P.sw Q.sw R.sw S.sw T.sw U.sw V.sw W.sw X.sw Y.sw Z.sw a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde uni1EBD otilde utilde oe f.DEU f.short i.TRK l.CAT u.LAT v.LATmedi longs.short v.init w.init v.alt w.alt uniFB00 unifb01 unifb02 unifb03 unifb04 unifb05 unifb06 longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s s_s c_t f_f.short t_t t_z f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.short quoteright
  1
   SeqLookup: 0 "Single Substitution lookup 25" 
 EndFPST
@@ -264,7 +264,7 @@ EndFPST
 ChainSub2: coverage "historic_u contextual 0"  0 0 0 1
  1 1 0
   Coverage: 1 u
-  BCoverage: 1508 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron L.CAT U.LAT A.sw B.sw C.sw D.sw E.sw F.sw G.sw H.sw I.sw J.sw K.sw L.sw M.sw N.sw O.sw P.sw Q.sw R.sw S.sw T.sw U.sw V.sw W.sw X.sw Y.sw Z.sw a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde etilde otilde utilde oe f.DEU f.short i.TRK l.CAT u.LAT v.LATmedi longs.short v.init w.init v.alt w.alt f_f unifb01 unifb02 unifb03 unifb04 unifb05 unifb06 longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s s_s c_t f_f.short t_t t_z f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.short quoteright
+  BCoverage: 1513 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron L.CAT U.LAT A.sw B.sw C.sw D.sw E.sw F.sw G.sw H.sw I.sw J.sw K.sw L.sw M.sw N.sw O.sw P.sw Q.sw R.sw S.sw T.sw U.sw V.sw W.sw X.sw Y.sw Z.sw a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde uni1EBD otilde utilde oe f.DEU f.short i.TRK l.CAT u.LAT v.LATmedi longs.short v.init w.init v.alt w.alt uniFB00 unifb01 unifb02 unifb03 unifb04 unifb05 unifb06 longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s s_s c_t f_f.short t_t t_z f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.short quoteright
  0
 EndFPST
 ChainSub2: coverage "CCMP_stackgrk2 subtable"  0 0 0 1
@@ -329,7 +329,7 @@ EndFPST
 ChainSub2: coverage "CCMP_contextual contextual 0"  0 0 0 1
  1 0 1
   Coverage: 3 i j
-  FCoverage: 165 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni0309 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314
+  FCoverage: 171 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314
  1
   SeqLookup: 0 "Single Substitution lookup 8" 
 EndFPST
@@ -341,7 +341,7 @@ NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 2432 8 2
+WinInfo: 1000 8 7
 BeginPrivate: 9
 BlueValues 55 [-22 0 268 287 400 430 450 464 616 630 650 664 700 705]
 OtherBlues 21 [-290 -285 -181 -167]
@@ -358,5 +358,5 @@ Grid
  2000 924.5 l 0
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "grk_top"  "mark-2" "grk_bottom"  "mark-2" "grk_uc_top_left"  "mark-1" "grk_uc_top"  "mark-1" "top_right"  "mark anchor 4" "top_accent"  "mark anchor 0" "below_accent"  "mark anchor 1" "ogonek"  "mark anchor 2" "cedilla"  "mark anchor 3" "top_stack"  "mkmk subtable" "gravestack"  "mkmk subtable" "acutestack"  "mkmk subtable" 
+AnchorClass2: "top_stack"  "mkmk subtable" "acutestack"  "mkmk subtable" "gravestack"  "mkmk subtable" "hookstack"  "mkmk subtable" "grk_hstack"  "mkmk subtable" "topleft"  "mark-3" "grk_top"  "mark-2" "grk_bottom"  "mark-2" "grk_uc_top_left"  "mark-1" "grk_uc_top"  "mark-1" "top_right"  "mark anchor 4" "top_accent"  "mark anchor 0" "below_accent"  "mark anchor 1" "ogonek"  "mark anchor 2" "cedilla"  "mark anchor 3" 
 EndSplineFont

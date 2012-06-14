@@ -1,13 +1,47 @@
 
 StartChar: uni0302.stack
-Encoding: 1114994 -1 2119
-Width: 1000
+Encoding: 1114991 -1 2117
+Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "top_stack" 116 447 mark 0
-AnchorPoint: "acutestack" 224 558 basemark 0
-AnchorPoint: "gravestack" 9 558 basemark 0
-AnchorPoint: "top_stack" 116 640 basemark 0
-AnchorPoint: "top_accent" 116 550 mark 0
+HStem: 447 159
+VStem: 10 193<460 462>
+AnchorPoint: "top_accent" 134 550 mark 0
+AnchorPoint: "top_stack" 108 447 mark 0
+AnchorPoint: "hookstack" 216 564 basemark 0
+AnchorPoint: "acutestack" 216 558 basemark 0
+AnchorPoint: "gravestack" 51 558 basemark 0
+AnchorPoint: "top_stack" 167 640 basemark 0
 LayerCount: 2
+Back
+SplineSet
+109 526 m 6
+ 40 460 l 6
+ 32 452 22 447 14 447 c 4
+ 5 447 5 451 5 460 c 4
+ 5 475 94 590 94 590 c 6
+ 100 598 108 608 116 608 c 4
+ 124 608 132 598 138 590 c 6
+ 138 590 228 475 228 460 c 4
+ 228 451 228 447 219 447 c 4
+ 211 447 202 452 193 460 c 6
+ 124 526 l 6
+ 119 531 114 531 109 526 c 6
+EndSplineSet
+Fore
+SplineSet
+126 531 m 0
+ 92 503 69 481 46 459 c 0
+ 39 452 24 447 19 447 c 0
+ 14 447 10 450 10 456 c 0
+ 10 462 13 468 17 474 c 0
+ 34 498 86 554 114 582 c 0
+ 134 601 145 606 155 606 c 0
+ 164 606 167 598 173 576 c 0
+ 183 537 203 478 203 468 c 0
+ 203 460 200 447 195 447 c 0
+ 188 447 180 453 174 464 c 0
+ 166 479 151 501 135 531 c 0
+ 132 536 130 534 126 531 c 0
+EndSplineSet
 EndChar

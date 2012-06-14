@@ -1,9 +1,12 @@
 
 StartChar: uni032C.cap
-Encoding: 1114978 -1 2100
-Width: 1000
-VWidth: 0
+Encoding: 1114976 -1 2098
+Width: 0
 Flags: W
-AnchorPoint: "below_accent" 153 -100 mark 0
+HStem: -209 126
+VStem: 5 291<-97 -87>
+AnchorPoint: "below_accent" 128 -100 mark 0
 LayerCount: 2
+Fore
+Refer: 2090 -1 N 1 0 0 1 0 -905 2
 EndChar

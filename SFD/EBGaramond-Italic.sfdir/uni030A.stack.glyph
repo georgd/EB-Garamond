@@ -1,9 +1,25 @@
 
 StartChar: uni030A.stack
-Encoding: 1114985 -1 2109
-Width: 1000
+Encoding: 1114983 -1 2107
+Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "top_accent" 111 550 mark 0
+HStem: 469 28<56.8169 117.296> 594 28<69.675 130.897>
+VStem: 13 37<500.271 577.278> 138 37<513.26 591.079>
+AnchorPoint: "top_accent" 81 526 mark 0
+AnchorPoint: "top_stack" 111 630 basemark 0
 LayerCount: 2
+Fore
+SplineSet
+123 622 m 0
+ 156 622 175 600 175 568 c 0
+ 175 498 112 469 67 469 c 0
+ 34 469 13 494 13 527 c 0
+ 13 586 77 622 123 622 c 0
+50 536 m 0
+ 50 514 62 497 82 497 c 0
+ 109 497 138 519 138 555 c 0
+ 138 577 127 594 106 594 c 0
+ 77 594 50 574 50 536 c 0
+EndSplineSet
 EndChar

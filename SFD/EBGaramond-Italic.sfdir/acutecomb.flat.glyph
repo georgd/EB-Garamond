@@ -1,22 +1,24 @@
 
 StartChar: acutecomb.flat
-Encoding: 1114986 -1 2110
-Width: 0
-VWidth: 0
+Encoding: 1114984 -1 2108
+Width: 1000
 Flags: W
-HStem: 463 189
-VStem: 10 141
+HStem: 499 121
+VStem: 0 220
+AnchorPoint: "top_stack" 93 515 mark 0
+AnchorPoint: "top_stack" 98 649 basemark 0
 AnchorPoint: "top_accent" 40 550 mark 0
 LayerCount: 2
 Fore
 SplineSet
-41 478 m 0
- 34 471 26 463 18 463 c 0
- 13 463 10 467 10 471 c 0
- 10 475 10 479 12 483 c 0
- 25 510 70 596 87 627 c 0
- 94 640 102 652 112 652 c 0
- 122 652 151 630 151 615 c 0
- 151 610 67 507 41 478 c 0
+41 504 m 0
+ 33 502 23 499 14 499 c 0
+ 7 499 0 502 0 507 c 0
+ 0 510 1 513 4 517 c 0
+ 22 536 125 600 159 614 c 0
+ 166 617 173 620 180 620 c 0
+ 204 620 220 582 220 570 c 0
+ 220 567 219 563 216 561 c 0
+ 194 549 85 516 41 504 c 0
 EndSplineSet
 EndChar

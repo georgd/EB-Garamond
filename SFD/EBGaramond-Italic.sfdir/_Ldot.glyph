@@ -4,12 +4,13 @@ Encoding: 319 319 233
 Width: 619
 VWidth: 0
 Flags: W
-HStem: -5 35<12.0182 111.625 232.884 516.445> 274 110<360.26 419.74> 622 31<231.633 295.483 409.436 504.649>
-VStem: 339 102<295.203 362.797>
+HStem: -5 35<12.0182 111.625 232.884 516.445> 274 110<426.26 485.74> 622 31<231.633 295.483 409.436 504.649>
+VStem: 405 102<295.203 362.797>
 LayerCount: 2
 Fore
-Refer: 113 183 N 1 0 0 1 235 124 2
+Refer: 113 183 S 1 0 0 1 301 124 2
 Refer: 36 76 N 1 0 0 1 0 0 3
+LCarets2: 1 0 
 Ligature2: "liga_standard subtable" L.CAT periodcentered
 Substitution2: "c2sc subtable" Ldot.sc
 EndChar

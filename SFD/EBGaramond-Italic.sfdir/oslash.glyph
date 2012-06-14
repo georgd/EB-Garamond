@@ -1,13 +1,15 @@
 
 StartChar: oslash
 Encoding: 248 248 1008
-Width: 422
-VWidth: 0
+Width: 400
 Flags: W
-HStem: -14 30<182.919 276.156> 380 34<266.962 362.981>
-AnchorPoint: "top_accent" 245 550 basechar 0
+HStem: -14 30<109.072 188.736> 384 30<246.264 312.851>
+VStem: 45 64<58.9353 194.315> 326 64<205.685 334.474>
+AnchorPoint: "top_accent" 322 550 basechar 0
+AnchorPoint: "below_accent" 137 -100 basechar 0
+AnchorPoint: "ogonek" 228 18 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 319 380 m 0
  288 380 256 364 232 340 c 0
@@ -38,6 +40,28 @@ SplineSet
  262 16 299 33 328 72 c 0
  351 103 368 150 380 189 c 0
  390 221 394 252 393 281 c 1
+EndSplineSet
+Fore
+SplineSet
+326 304 m 0
+ 326 354 317 384 283 384 c 0
+ 203 384 109 189 109 96 c 0
+ 109 46 118 16 152 16 c 0
+ 232 16 326 211 326 304 c 0
+390 296 m 0
+ 390 176 290 -14 140 -14 c 0
+ 100 -14 45 28 45 104 c 0
+ 45 224 145 414 295 414 c 0
+ 335 414 390 372 390 296 c 0
+70 -23 m 2
+ 66 -29 62 -31 57 -31 c 0
+ 49 -31 45 -15 45 -5 c 0
+ 45 5 54 16 61 25 c 2
+ 368 420 l 2
+ 372 426 378 432 384 432 c 0
+ 390 432 390 407 390 400 c 0
+ 390 391 380 377 371 365 c 2
+ 70 -23 l 2
 EndSplineSet
 Substitution2: "Smallcaps subtable" oslash.sc
 EndChar

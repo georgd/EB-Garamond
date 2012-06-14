@@ -1,11 +1,13 @@
 
 StartChar: gravecomb.grk
-Encoding: 1115033 -1 2379
+Encoding: 1115028 -1 2375
 Width: 0
 VWidth: 0
 Flags: W
 HStem: 470 197<54.8123 70.533>
 VStem: 10 74<556.744 656.927>
+AnchorPoint: "grk_hstack" 5 640 mark 0
+AnchorPoint: "top_stack" 86 523 mark 0
 AnchorPoint: "top_accent" 90 550 mark 0
 LayerCount: 2
 Fore

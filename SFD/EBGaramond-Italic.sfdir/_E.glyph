@@ -6,10 +6,10 @@ VWidth: 0
 Flags: W
 HStem: -5 35<8.01822 107.75 228.884 496.445> 322 27<307.164 478.603> 388 20G<556.5 561.5> 618 32<218.007 284.109 384.458 609.242>
 VStem: 492 28<252.052 308.246> 618 55<568.25 613.321>
-AnchorPoint: "cedilla" 322 8 basechar 0
-AnchorPoint: "ogonek" 450 18 basechar 0
+AnchorPoint: "cedilla" 363 8 basechar 0
+AnchorPoint: "ogonek" 518 18 basechar 0
 AnchorPoint: "below_accent" 280 -100 basechar 0
-AnchorPoint: "top_accent" 496 701 basechar 0
+AnchorPoint: "top_accent" 501 710 basechar 0
 LayerCount: 2
 Back
 Image: 276 152 2 828 0 ffffffff -304 771 5.78915 5.79605 0

@@ -3,11 +3,11 @@ StartChar: hcircumflex
 Encoding: 293 293 214
 Width: 504
 VWidth: 0
-HStem: -14 41<245.684 332.768> 379 42<372.751 467.5>
-VStem: 438 66<220.903 378.727>
+HStem: -14 41<245.684 332.768> 379 42<372.751 467.5> 696 130
+VStem: 128 240 438 66<220.903 378.727>
 LayerCount: 2
 Fore
-Refer: 2113 -1 N 1 0 0 1 152 134 2
+Refer: 2111 -1 N 1 0 0 1 118 134 2
 Refer: 4 104 N 1 0 0 1 0 0 3
 Substitution2: "Smallcaps subtable" hcircumflex.sc
 MultipleSubs2: "CCMP_Precomp subtable" h uni0302.flat

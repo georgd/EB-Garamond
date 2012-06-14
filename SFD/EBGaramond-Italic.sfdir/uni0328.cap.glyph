@@ -1,9 +1,24 @@
 
 StartChar: uni0328.cap
-Encoding: 1114977 -1 2099
-Width: 1000
+Encoding: 1114975 -1 2097
+Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "ogonek" 188 18 mark 0
+HStem: -286 64<75.8516 121.466>
+VStem: -11 82<-217.944 -137.026>
+AnchorPoint: "ogonek" 197 18 mark 0
 LayerCount: 2
+Fore
+SplineSet
+52 -286 m 0
+ 23 -287 -11 -250 -11 -216 c 0
+ -11 -110 97 -32 184 18 c 1
+ 211 18 l 17
+ 136 -34 71 -92 71 -179 c 0
+ 71 -197 82 -222 108 -222 c 0
+ 129 -222 160 -197 172 -183 c 0
+ 175 -179 199 -160 199 -181 c 0
+ 199 -184 192 -197 189 -201 c 0
+ 154 -248 107 -285 52 -286 c 0
+EndSplineSet
 EndChar

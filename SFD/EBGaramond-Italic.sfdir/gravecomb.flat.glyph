@@ -1,21 +1,23 @@
 
 StartChar: gravecomb.flat
-Encoding: 1114988 -1 2112
-Width: 0
-VWidth: 0
+Encoding: 1114986 -1 2110
+Width: 1000
 Flags: W
-HStem: 470 197<54.8123 70.533>
-VStem: 10 74<556.744 656.927>
-AnchorPoint: "top_accent" 90 550 mark 0
+HStem: 499 111
+VStem: 0 220
+AnchorPoint: "top_stack" 135 532 mark 0
+AnchorPoint: "top_stack" 123 650 basemark 0
 LayerCount: 2
 Fore
 SplineSet
-56 487 m 0
- 44 521 10 616 10 621 c 0
- 10 645 39 667 55 667 c 0
- 67 667 71 650 73 627 c 0
- 76 586 84 493 84 483 c 0
- 84 475 81 470 76 470 c 0
- 67 470 61 473 56 487 c 0
+179 504 m 0
+ 135 516 26 549 4 561 c 0
+ 1 563 0 567 0 570 c 0
+ 0 582 16 610 40 610 c 0
+ 47 610 54 607 61 604 c 0
+ 95 590 198 536 216 517 c 0
+ 219 513 220 510 220 507 c 0
+ 220 502 213 499 206 499 c 0
+ 197 499 187 502 179 504 c 0
 EndSplineSet
 EndChar

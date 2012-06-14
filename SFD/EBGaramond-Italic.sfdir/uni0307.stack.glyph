@@ -1,9 +1,21 @@
 
 StartChar: uni0307.stack
-Encoding: 1114984 -1 2108
-Width: 1000
+Encoding: 1114982 -1 2106
+Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "top_accent" 111 550 mark 0
+HStem: 513 100<23.7711 87.2976>
+VStem: 10 90<525.614 599.468>
+AnchorPoint: "top_accent" 51 550 mark 0
+AnchorPoint: "top_stack" 42 500 mark 0
+AnchorPoint: "top_stack" 68 640 basemark 0
 LayerCount: 2
+Fore
+SplineSet
+66 613 m 16
+ 87 613 100 591 100 570 c 16
+ 100 540 75 513 45 513 c 8
+ 25 513 10 532 10 552 c 8
+ 10 584 34 613 66 613 c 16
+EndSplineSet
 EndChar

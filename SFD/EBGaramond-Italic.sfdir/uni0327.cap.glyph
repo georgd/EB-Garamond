@@ -1,9 +1,25 @@
 
 StartChar: uni0327.cap
-Encoding: 1114976 -1 2098
-Width: 1000
+Encoding: 1114974 -1 2096
+Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "cedilla" 127 8 mark 0
+HStem: -273 38<41.8611 120.146>
+VStem: 64 66<-115.147 -56.0781> 123 66<-223.632 -164.745>
+AnchorPoint: "cedilla" 185 16 mark 0
 LayerCount: 2
+Fore
+SplineSet
+64 -100 m 0xc0
+ 64 -67 127 -5 185 25 c 9
+ 215 25 l 17
+ 153 -24 130 -62 130 -80 c 0xc0
+ 130 -101 189 -146 189 -179 c 0
+ 189 -226 109 -273 70 -273 c 0
+ 21 -273 1 -219 1 -210 c 0
+ 1 -202 7 -190 18 -190 c 0
+ 30 -190 33 -235 95 -235 c 0
+ 110 -235 123 -217 123 -207 c 0xa0
+ 123 -165 64 -150 64 -100 c 0xc0
+EndSplineSet
 EndChar
