@@ -1,5 +1,5 @@
 NAME=EBGaramond
-VERSION=0.013
+VERSION=0.014a
 
 SRC=SFD
 BLD=build
@@ -9,7 +9,7 @@ DIST=$(NAME)-$(VERSION)-complete
 PY=python
 SCRIPT=tools/generate2.py
 
-FONTS=Regular SC AllSC Italic Bold ##BoldItalic Semibold SemiboldItalic
+FONTS=Regular SC AllSC Italic #Bold BoldItalic Semibold SemiboldItalic
 
 SFD=$(FONTS:%=$(SRC)/$(NAME)-%.sfdir)
 OTF=$(FONTS:%=$(BLD)/$(NAME)-%.otf)
