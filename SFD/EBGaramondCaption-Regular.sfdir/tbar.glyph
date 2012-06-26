@@ -1,0 +1,22 @@
+
+StartChar: tbar
+Encoding: 283 359 765
+Width: 325
+VWidth: 982
+Flags: W
+HStem: -8 68<174.072 257.049> 222 48<20.5533 277.66> 358 59<161.026 296.625>
+VStem: 78 83<70.1548 354.699>
+LayerCount: 2
+Fore
+SplineSet
+52 222 m 2
+ 38 222 16 223 16 234 c 0
+ 16 252 37 270 69 270 c 2
+ 240 270 l 2
+ 265 270 282 268 282 260 c 0
+ 282 245 269 222 239 222 c 2
+ 52 222 l 2
+EndSplineSet
+Refer: 84 116 N 1 0 0 1 0 0 2
+Validated: 32773
+EndChar

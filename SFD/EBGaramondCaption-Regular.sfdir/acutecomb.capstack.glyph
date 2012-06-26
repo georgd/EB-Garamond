@@ -1,0 +1,23 @@
+
+StartChar: acutecomb.capstack
+Encoding: 770 -1 727
+Width: 0
+Flags: W
+HStem: 710 21G<12.5 16.5> 755 59<92.1727 148.216>
+VStem: 5 160
+AnchorPoint: "acutestack" 0 710 mark 0
+LayerCount: 2
+Fore
+SplineSet
+5 716 m 0
+ 5 721 7 725 13 731 c 0
+ 28 745 75 790 99 808 c 0
+ 105 812 110 814 115 814 c 0
+ 126 814 165 781 165 770 c 0
+ 165 765 158 760 147 755 c 0
+ 107 738 64 723 33 713 c 0
+ 27 711 18 710 15 710 c 0
+ 10 710 5 712 5 716 c 0
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,59 @@
+feature dlig {
+    sub s t  by s_t;
+    sub c t  by c_t;
+} dlig;
+
+lookup liga_standard {
+    sub [ f f.DEU ] i  by f_i;
+    sub [ f f.DEU ] [ f f.DEU ] i  by f_f_i;
+    sub longs i  by longs_i;
+    sub f f by f_f;
+    sub f.DEU f.DEU by f_f;
+    sub [f f.DEU] l  by f_l;
+    sub f f l  by f_f_l;
+#    sub f h  by f_h;
+#    sub f k  by f_k;
+#    sub f b  by f_b;
+#    sub f j  by f_j;
+#    sub f f h  by f_f_h;
+#    sub f f k  by f_f_k;
+#    sub f f b  by f_f_b;
+#    sub f f j  by f_f_j;
+    sub longs t  by longs_t;
+    sub longs longs l  by longs_longs_l;
+    sub longs longs i  by longs_longs_i;
+    sub longs longs  by longs_longs;
+    sub longs l  by longs_l;
+#    sub T h  by T_h;
+#    sub c h  by c_h;
+#    sub c k  by c_k;
+    sub longs s  by longs_s;
+#    sub [ f f.DEU ] t  by f_t;
+#    sub [ f f.DEU ] [f f.DEU] t  by f_f_t;
+#    sub longs j  by longs_j;
+#    sub longs b  by longs_b;
+#    sub longs h  by longs_h;
+#    sub longs k  by longs_k;
+#    sub longs longs j  by longs_longs_j;
+#    sub longs longs b  by longs_longs_b;
+#    sub longs longs h  by longs_longs_h;
+#    sub longs longs k  by longs_longs_k;
+#    sub longs longs t  by longs_longs_t;
+    sub L.CAT periodcentered by Ldot;
+    sub l.CAT periodcentered by ldot;
+#    sub L.CATsc periodcentered by Ldot.sc;
+#    sub l.CATsc periodcentered by ldot.sc;
+#    sub Q y by Q_y;
+} liga_standard;
+
+feature liga {
+    lookup liga_standard;
+} liga;
+
+#lookup Th_lig {
+#    sub T h  by T_h;
+#} Th_lig;
+
+#feature ss07 {
+#    lookup Th_lig;
+#} ss07;

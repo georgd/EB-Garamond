@@ -1,0 +1,19 @@
+
+StartChar: dotbelowcomb.cap
+Encoding: 760 -1 717
+Width: 0
+Flags: W
+HStem: -195 118<18.6616 109.338>
+VStem: 5 118<-181.338 -90.6616>
+AnchorPoint: "below_accent" 64 -80 mark 0
+LayerCount: 2
+Fore
+SplineSet
+64 -77 m 0
+ 96 -77 123 -104 123 -136 c 0
+ 123 -168 96 -195 64 -195 c 0
+ 32 -195 5 -168 5 -136 c 0
+ 5 -104 32 -77 64 -77 c 0
+EndSplineSet
+Validated: 1
+EndChar

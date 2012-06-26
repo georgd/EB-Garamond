@@ -1,0 +1,31 @@
+
+StartChar: uni0302.cap
+Encoding: 745 -1 702
+Width: 0
+Flags: W
+HStem: 681 127
+VStem: 5 291<685 695>
+AnchorPoint: "top_accent" 151 705 mark 0
+AnchorPoint: "top_stack" 151 685 mark 0
+AnchorPoint: "hookstack" 249 775 basemark 0
+AnchorPoint: "acutestack" 241 758 basemark 0
+AnchorPoint: "gravestack" 61 758 basemark 0
+AnchorPoint: "top_stack" 151 830 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+20 681 m 0
+ 11 681 5 685 5 691 c 0
+ 5 695 7 699 12 703 c 2
+ 110 786 l 2
+ 129 803 136 808 151 808 c 0
+ 166 808 173 803 192 786 c 2
+ 290 703 l 2
+ 295 699 296 695 296 691 c 0
+ 296 685 291 680 282 680 c 0
+ 269 680 187 715 161 730 c 0
+ 152 735 150 735 141 730 c 0
+ 115 715 33 681 20 681 c 0
+EndSplineSet
+Validated: 1
+EndChar

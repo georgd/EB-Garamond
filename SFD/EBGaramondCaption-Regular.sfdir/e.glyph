@@ -1,0 +1,36 @@
+
+StartChar: e
+Encoding: 69 101 69
+Width: 389
+VWidth: 982
+Flags: W
+HStem: -8 68<168.829 299.074> 258 46<127.109 281.698> 384 46<161.139 272.609>
+VStem: 22 84<131.117 257.816> 283 87<305.087 372.712>
+AnchorPoint: "below_accent" 192 -80 basechar 0
+AnchorPoint: "ogonek" 253 5 basechar 0
+AnchorPoint: "cedilla" 236 5 basechar 0
+AnchorPoint: "top_accent" 223 596 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+370 326 m 0
+ 370 299 349 258 323 258 c 2
+ 129 258 l 2
+ 115 258 113 256 110 248 c 0
+ 106 237 106 235 106 218 c 0
+ 106 142 153 60 232 60 c 0
+ 282 60 326 83 336 83 c 0
+ 346 83 351 79 351 69 c 0
+ 351 40 293 -8 195 -8 c 0
+ 84 -8 22 100 22 213 c 0
+ 22 336 116 430 238 430 c 0
+ 306 430 370 377 370 326 c 0
+127 315 m 8
+ 127 308 128 304 140 304 c 2
+ 255 304 l 2
+ 274 304 283 321 283 335 c 0
+ 283 364 253 384 224 384 c 0
+ 164 384 127 335 127 315 c 8
+EndSplineSet
+Validated: 1
+EndChar

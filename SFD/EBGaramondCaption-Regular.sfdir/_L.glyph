@@ -1,0 +1,43 @@
+
+StartChar: L
+Encoding: 44 76 44
+Width: 591
+VWidth: 982
+Flags: W
+HStem: -2 47<24.0383 102.943 238.001 456.932> 556 35<24.0204 94.0943 246.184 315.983>
+VStem: 122 95<66.7605 535.239> 514 45<118.708 184.129>
+AnchorPoint: "top_accent" 169 670 basechar 0
+AnchorPoint: "below_accent" 308 -80 basechar 0
+AnchorPoint: "ogonek" 458 15 basechar 0
+AnchorPoint: "cedilla" 353 15 basechar 0
+AnchorPoint: "top_right" 480 546 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+217 139 m 2
+ 217 88 238 45 286 45 c 2
+ 395 45 l 2
+ 472 45 485 105 514 166 c 0
+ 519 177 532 185 541 185 c 0
+ 551 185 559 166 559 138 c 0
+ 559 111 534 30 526 17 c 0
+ 518 2 515 -2 498 -2 c 0
+ 461 -2 272 3 166 3 c 0
+ 119 3 60 -2 53 -2 c 0
+ 42 -1 20 5 20 15 c 0
+ 20 30 53 35 75 45 c 0
+ 109 60 122 92 122 129 c 2
+ 122 482 l 2
+ 122 539 97 540 40 556 c 0
+ 31 559 24 564 24 573 c 0
+ 24 585 38 591 60 591 c 0
+ 99 591 135 586 171 586 c 0
+ 206 586 247 591 281 591 c 0
+ 296 591 316 585 316 573 c 0
+ 316 564 310 559 301 556 c 0
+ 244 540 217 539 217 482 c 2
+ 217 139 l 2
+EndSplineSet
+Validated: 1
+Substitution2: "loclCAT subtable" L.CAT
+EndChar
