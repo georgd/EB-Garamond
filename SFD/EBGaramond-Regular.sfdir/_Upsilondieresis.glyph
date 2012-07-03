@@ -3,11 +3,13 @@ StartChar: Upsilondieresis
 Encoding: 939 939 644
 Width: 739
 VWidth: 0
-Flags: H
+HStem: -5 29<214.692 287.247 443.521 516.308> 600 50<99.3302 216.443 527.05 669.264> 695 100<236.438 319.562 431.438 514.562>
+VStem: 228 100<703.438 786.562> 325 80<52.5 431.428> 423 100<703.438 786.562>
 LayerCount: 3
 Fore
 Refer: 989 -1 N 1 0 0 1 223 0 2
 Refer: 641 933 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "c2sc subtable" upsilondieresis.sc
 Position2: "Single Positioning lookup 33 subtable" dx=0 dy=0 dh=-70 dv=0
 Position2: "Single Positioning lookup 32 subtable" dx=0 dy=0 dh=-70 dv=0

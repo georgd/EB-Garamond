@@ -3,11 +3,13 @@ StartChar: uni1FA8
 Encoding: 8104 8104 2635
 Width: 832
 VWidth: 0
-Flags: H
+HStem: -171 62<423 490.666> 0 70<98.4899 279.223 550.08 735.384> 472 24<-15.6738 20.7283> 631 33<340.707 481.931>
+VStem: 48 52<512.664 586.924> 102 100<238.683 455.811> 381 66<-108.987 -12.3407> 632 100<255.249 454.984>
 LayerCount: 3
 Fore
 Refer: 125 787 N 1 0 0 1 -20 0 2
 Refer: 2760 -1 N 1 0 0 1 341 51 2
 Refer: 1134 937 N 1 0 0 1 2 0 2
+Validated: 1
 MultipleSubs2: "CCMP_Precomp subtable" Omega uni0345.cap uni0313
 EndChar

@@ -3,12 +3,14 @@ StartChar: uni1F5B
 Encoding: 8027 8027 2562
 Width: 962
 VWidth: 0
-Flags: H
+HStem: -5 29<437.692 510.247 666.521 739.308> 491 207 497 24<59.2097 95.674> 600 50<322.33 439.443 750.05 892.264> 671 20<29.5 65>
+VStem: -20 52<537.664 611.78> 119 104 548 80<52.5 431.428>
 LayerCount: 3
 Fore
 Refer: 2741 -1 N 1 0 0 1 105 35 2
 Refer: 2739 -1 N 1 0 0 1 -20 35 2
 Refer: 641 933 N 1 0 0 1 223 0 2
+Validated: 1
 Position2: "Single Positioning lookup 33 subtable" dx=0 dy=0 dh=-70 dv=0
 Position2: "Single Positioning lookup 32 subtable" dx=0 dy=0 dh=-70 dv=0
 MultipleSubs2: "CCMP_Precomp subtable" Upsilon uni0314.grk gravecomb.grkstack

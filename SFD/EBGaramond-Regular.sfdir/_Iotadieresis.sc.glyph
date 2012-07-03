@@ -3,8 +3,11 @@ StartChar: Iotadieresis.sc
 Encoding: 1115138 -1 2875
 Width: 315
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -3 28<30.2309 96.6023 218.398 284.769> 422 31<38.5723 99.9129 215.087 276.428> 514 100<34.7018 113.298 211.702 290.298>
+VStem: 24 100<524.702 603.298> 120 75<40.3738 407.586> 201 100<524.702 603.298>
 LayerCount: 3
 Fore
 Refer: 2865 -1 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar

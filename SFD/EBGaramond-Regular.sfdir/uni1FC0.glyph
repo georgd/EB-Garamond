@@ -3,10 +3,13 @@ StartChar: uni1FC0
 Encoding: 8128 8128 564
 Width: 328
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 482 58<139.064 262.001> 506 59<74.3819 195.92>
+VStem: 30 268
 LayerCount: 3
 Fore
 Refer: 2289 834 N 1 0 0 1 4 17 2
 Refer: 2755 -1 N 1 0 0 1 -9 0 2
+Validated: 1
 MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0342
 EndChar

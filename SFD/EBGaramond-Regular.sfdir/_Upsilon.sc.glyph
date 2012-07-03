@@ -3,7 +3,7 @@ StartChar: Upsilon.sc
 Encoding: 1115067 -1 2804
 Width: 590
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -3 28<164.231 230.602 352.398 418.769> 425 40<55.6777 169.11 424.109 532.522>
 VStem: 254 75<40.3738 299.569>
 AnchorPoint: "grk_bottom" 287 -147 basechar 0
@@ -12,4 +12,5 @@ AnchorPoint: "grk_uc_right" 449 181 basechar 0
 LayerCount: 3
 Fore
 Refer: 2780 -1 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar

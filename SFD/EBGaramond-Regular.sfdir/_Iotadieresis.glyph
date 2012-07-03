@@ -3,11 +3,13 @@ StartChar: Iotadieresis
 Encoding: 938 938 643
 Width: 340
 VWidth: 0
-Flags: H
+HStem: -5 29<19.6924 97.1038 243.602 321.308> 622 31<31.0745 107.441 235.205 312.926> 695 100<31.4375 114.562 226.438 309.562>
+VStem: 23 100<703.438 786.562> 130 80<46.75 604.158> 218 100<703.438 786.562>
 LayerCount: 3
 Fore
 Refer: 989 -1 N 1 0 0 1 18 0 2
 Refer: 634 921 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "c2sc subtable" iotadieresis.sc
 MultipleSubs2: "CCMP_Precomp subtable" Iota uni0308.cap
 EndChar

@@ -3,12 +3,13 @@ StartChar: f_f
 Encoding: 1115072 -1 2809
 Width: 579
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -3 27<19.0556 68.4246 169.575 218.944 277.056 326.425 427.575 476.944> 352 24<25.5614 57.7942> 352 48<154 341.419 412.078 557.239> 624 39<227.869 342.947> 665 41<478.826 595.573>
 VStem: 84 70<32.963 350 400.313 515.063> 342 70<32.963 350.864 400.264 543.036>
 LayerCount: 3
 Fore
 Refer: 946 64256 N 1 0 0 1 0 0 2
+Validated: 1
 Substitution2: "Single Substitution lookup 65 subtable" f_f.short
 Ligature2: "liga_standard subtable" f.DEU f.DEU
 Ligature2: "liga_standard subtable" f f

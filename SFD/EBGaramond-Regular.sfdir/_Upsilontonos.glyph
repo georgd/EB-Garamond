@@ -3,11 +3,13 @@ StartChar: Upsilontonos
 Encoding: 910 910 2462
 Width: 823
 VWidth: 0
-Flags: H
+HStem: -5 29<298.692 371.247 527.521 600.308> 491 207 600 50<183.33 300.443 611.05 753.264>
+VStem: -20 104 409 80<52.5 431.428>
 LayerCount: 3
 Fore
 Refer: 2746 -1 N 1 0 0 1 -34 35 2
 Refer: 641 933 N 1 0 0 1 84 0 2
+Validated: 1
 Substitution2: "c2sc subtable" upsilontonos.sc
 Position2: "Single Positioning lookup 33 subtable" dx=0 dy=0 dh=-70 dv=0
 Position2: "Single Positioning lookup 32 subtable" dx=0 dy=0 dh=-70 dv=0

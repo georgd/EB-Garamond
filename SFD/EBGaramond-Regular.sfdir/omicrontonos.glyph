@@ -3,11 +3,13 @@ StartChar: omicrontonos
 Encoding: 972 972 2474
 Width: 400
 VWidth: 0
-Flags: H
+HStem: -14 78<108.326 236.99> 334 80<161.295 285.406> 476 207
+VStem: 35 40<97.88 241.241> 182 104 325 40<158.381 296.046>
 LayerCount: 3
 Fore
 Refer: 2746 -1 N 1 0 0 1 168 20 2
 Refer: 2441 959 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "Smallcaps subtable" omicrontonos.sc
 MultipleSubs2: "CCMP_Precomp subtable" omicron acutecomb.grk
 EndChar

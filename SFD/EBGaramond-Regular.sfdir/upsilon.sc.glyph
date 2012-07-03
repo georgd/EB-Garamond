@@ -3,7 +3,7 @@ StartChar: upsilon.sc
 Encoding: 1115043 -1 2780
 Width: 590
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -3 28<164.231 230.602 352.398 418.769> 425 40<55.6777 169.11 424.109 532.522>
 VStem: 254 75<40.3738 299.569>
 AnchorPoint: "grk_bottom" 287 -147 basechar 0
@@ -61,4 +61,5 @@ SplineSet
  164 19 177 23 188 25 c 0
  223 32 254 43 254 79 c 2
 EndSplineSet
+Validated: 1
 EndChar

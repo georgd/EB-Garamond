@@ -3,11 +3,13 @@ StartChar: uni1F12
 Encoding: 7954 7954 2499
 Width: 334
 VWidth: 0
-Flags: H
+HStem: -14 66<99.6343 241.348> 180 81<177.812 256.905> 348 64<133.34 266.233> 436 207 442 24<47.3262 83.7283> 616 20<78 113.5>
+VStem: 45 40<69.9404 137.658> 45 50<218.029 311.085> 111 52<482.664 556.924> 182 104
 LayerCount: 3
 Fore
 Refer: 2741 -1 N 1 0 0 1 168 -20 2
 Refer: 2738 -1 N 1 0 0 1 43 -20 2
 Refer: 2132 949 N 1 0 0 1 0 0 3
+Validated: 1
 MultipleSubs2: "CCMP_Precomp subtable" epsilon uni0313.grk gravecomb.grkstack
 EndChar

@@ -3,15 +3,16 @@ StartChar: f_f_i
 Encoding: 1115075 -1 2812
 Width: 774
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -3 27<19.0556 69.2193 168 218.944 277.056 328 426 476.944 549.056 599.219 698 748.944> 352 24<25.5614 57.341> 353 40<155.393 341.419 413.422 597.753> 624 39<227.405 344.607> 667 39<487.675 598.303>
 VStem: 84 70<32.7148 350 400.313 521.685> 342 70<32.4201 350.354 400.672 542.31> 614 70<32.9166 338.862>
 LayerCount: 3
 Fore
 Refer: 949 64259 N 1 0 0 1 0 0 2
+Validated: 1
 Ligature2: "liga_standard subtable" f.DEU f.DEU i
 Ligature2: "liga_standard subtable" f.DEU f i
 Ligature2: "liga_standard subtable" f f.DEU i
 Ligature2: "liga_standard subtable" f f i
-LCarets2: 2 532 270 
+LCarets2: 2 270 532 
 EndChar
