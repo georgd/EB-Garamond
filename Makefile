@@ -1,5 +1,5 @@
 NAME=EBGaramond
-VERSION=0.014a
+VERSION=0.014b
 
 SRC=SFD
 BLD=build
@@ -9,11 +9,13 @@ DIST=$(NAME)-$(VERSION)-complete
 PY=python
 SCRIPT=tools/generate2.py
 
-FONTS=Regular SC AllSC Italic #Bold BoldItalic Semibold SemiboldItalic
+#SIZES=08 12
+FONTS=08-Regular 08-Italic 12-Regular 12-SC 12-AllSC 12-Italic #Bold BoldItalic Semibold SemiboldItalic
 
-SFD=$(FONTS:%=$(SRC)/$(NAME)-%.sfdir)
-OTF=$(FONTS:%=$(BLD)/$(NAME)-%.otf)
-TTF=$(FONTS:%=$(BLD)/$(NAME)-%.ttf)
+
+SFD=$(FONTS:%=$(SRC)/$(NAME)%.sfdir)
+OTF=$(FONTS:%=$(BLD)/$(NAME)%.otf)
+TTF=$(FONTS:%=$(BLD)/$(NAME)%.ttf)
 
 all: otf ttf
 
@@ -28,7 +30,7 @@ $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT)
 	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION)
 	@echo "Autohinting	$@"
-	@ttfautohint $@ $@.tmp
+	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
 	@mv $@.tmp $@
 
 pack: $(OTF) $(TTF)
