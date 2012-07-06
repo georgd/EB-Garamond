@@ -14,14 +14,13 @@ Descent: 290
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Zeichenebene"  0
-NeedsXUIDChange: 1
 XUID: [1021 114 2024522534 8930191]
 FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1312907347
-ModificationTime: 1314315327
+ModificationTime: 1341585271
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -45,13 +44,12 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 8 2
+WinInfo: 96 8 2
 BeginPrivate: 0
 EndPrivate
 EndSplineFont
