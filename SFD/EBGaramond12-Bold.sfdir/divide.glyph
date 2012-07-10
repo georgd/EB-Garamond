@@ -1,0 +1,32 @@
+
+StartChar: divide
+Encoding: 247 247 1026
+Width: 516
+VWidth: 0
+Flags: HW
+CounterMasks: 1 e0
+LayerCount: 3
+Fore
+SplineSet
+258 163 m 0
+ 295 163 328 142 328 114 c 0
+ 328 86 295 66 258 66 c 0
+ 221 66 188 86 188 114 c 0
+ 188 142 221 163 258 163 c 0
+258 448 m 0
+ 295 448 326 427 326 399 c 0
+ 326 371 293 351 256 351 c 0
+ 219 351 186 371 186 399 c 0
+ 186 428 220 448 258 448 c 0
+62 227 m 2
+ 56 227 49 232 49 241 c 0
+ 49 252 54 282 70 282 c 2
+ 455 282 l 2
+ 460 282 468 279 468 269 c 0
+ 468 265 467 265 467 265 c 1
+ 467 264 l 1
+ 462 247 456 227 440 227 c 2
+ 62 227 l 2
+EndSplineSet
+Substitution2: "Smallcaps subtable" divide.sc
+EndChar

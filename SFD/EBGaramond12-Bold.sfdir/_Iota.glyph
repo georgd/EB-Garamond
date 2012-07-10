@@ -1,0 +1,19 @@
+
+StartChar: Iota
+Encoding: 921 921 634
+Width: 329
+VWidth: 0
+Flags: HW
+HStem: -5 34<18.2154 79.4214 250.579 311.785> 617 36<26.375 86.4988 245.281 305.668>
+VStem: 104 122<48.3597 601.157>
+AnchorPoint: "grk_bottom" 170 -100 basechar 0
+AnchorPoint: "grk_uc_top_left" -36 665 basechar 0
+AnchorPoint: "grk_uc_top" 170 720 basechar 0
+AnchorPoint: "grk_uc_right" 340 290 basechar 0
+LayerCount: 3
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 3
+Position2: "Single Positioning lookup 6 subtable" dx=218 dy=0 dh=218 dv=0
+Position2: "Single Positioning lookup 5 subtable" dx=79 dy=0 dh=79 dv=0
+Substitution2: "c2sc subtable" Iota.sc
+EndChar

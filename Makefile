@@ -1,5 +1,5 @@
 NAME=EBGaramond
-VERSION=0.014b
+VERSION=0.014c
 
 SRC=SFD
 BLD=build
@@ -12,7 +12,7 @@ SCRIPT=tools/generate2.py
 SFNTTOOL=sfnttool.jar
 
 #SIZES=08 12
-FONTS=08-Regular 08-Italic 12-Regular 12-SC 12-AllSC 12-Italic -Initials #Bold BoldItalic Semibold SemiboldItalic
+FONTS=08-Regular 12-Regular 12-SC 12-AllSC 12-Italic 12-Bold -Initials 08-Italic #Bold BoldItalic Semibold SemiboldItalic
 
 
 SFD=$(FONTS:%=$(SRC)/$(NAME)%.sfdir)

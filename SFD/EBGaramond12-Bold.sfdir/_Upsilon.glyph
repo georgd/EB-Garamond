@@ -1,0 +1,43 @@
+
+StartChar: Upsilon
+Encoding: 933 933 641
+Width: 590
+VWidth: 0
+Flags: HW
+AnchorPoint: "grk_bottom" 301 -98 basechar 0
+AnchorPoint: "grk_uc_top_left" -23 662 basechar 0
+AnchorPoint: "grk_uc_top" 308 718 basechar 0
+AnchorPoint: "grk_uc_right" 499 290 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+472 650 m 0
+ 520 650 550 616 571 589 c 0
+ 574 585 580 578 580 571 c 0
+ 580 563 575 560 573 562 c 0
+ 551 584 522 595 493 595 c 0
+ 399 595 354 447 354 288 c 2
+ 354 110 l 2
+ 354 68 374 38 409 29 c 0
+ 425 25 432 22 432 9 c 0
+ 432 -3 420 -5 405 -5 c 0
+ 356 -5 341 0 299 0 c 0
+ 253 0 231 -5 182 -5 c 0
+ 167 -5 155 -3 155 9 c 0
+ 155 22 162 25 178 29 c 0
+ 213 38 232 65 232 110 c 2
+ 232 287 l 2
+ 232 402 199 595 111 595 c 0
+ 77 595 44 569 27 545 c 0
+ 25 542 19 544 19 550 c 0
+ 19 554 20 561 28 575 c 0
+ 38 591 88 650 138 650 c 0
+ 253 650 288 465 293 453 c 1
+ 299 464 357 650 472 650 c 0
+EndSplineSet
+Position2: "Single Positioning lookup 33 subtable" dx=0 dy=0 dh=-70 dv=0
+Position2: "Single Positioning lookup 32 subtable" dx=0 dy=0 dh=-70 dv=0
+Position2: "Single Positioning lookup 21 subtable" dx=223 dy=0 dh=223 dv=0
+Position2: "Single Positioning lookup 20 subtable" dx=84 dy=0 dh=84 dv=0
+Substitution2: "c2sc subtable" Upsilon.sc
+EndChar

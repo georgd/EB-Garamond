@@ -1,0 +1,40 @@
+
+StartChar: l
+Encoding: 108 108 2
+Width: 235
+VWidth: 0
+Flags: HW
+HStem: -3 21G<35 57 178 200> 685 20G<169.5 171.5>
+VStem: 64 107<32.1801 630.358>
+AnchorPoint: "top_right" 217 658 basechar 0
+AnchorPoint: "below_accent" 118 -98 basechar 0
+AnchorPoint: "top_accent" 98 780 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+171 64 m 2
+ 171 41 186 35 200 29 c 0
+ 207 25 217 22 217 9 c 0
+ 217 -3 203 -3 197 -3 c 0
+ 159 -3 152 2 118 2 c 0
+ 84 2 76 -3 38 -3 c 0
+ 32 -3 18 -3 18 9 c 0
+ 18 23 28 25 35 29 c 0
+ 49 35 64 41 64 64 c 2
+ 64 565 l 2
+ 64 602 56 628 33 635 c 0
+ 29 636 26 642 26 650 c 0
+ 26 658 30 663 35 664 c 0
+ 93 676 131 692 168 704 c 1
+ 168 704 169 705 170 705 c 0
+ 173 705 176 702 176 696 c 0
+ 176 683 171 650 171 561 c 2
+ 171 64 l 2
+EndSplineSet
+Substitution2: "Smallcaps subtable" l.sc
+Substitution2: "sups subtable" l.sups
+Substitution2: "sinf subtable" l.sinf
+Substitution2: "ordn subtable" l.ordn
+Substitution2: "subs subtable" l.subs
+Substitution2: "loclCAT subtable" l.CAT
+EndChar

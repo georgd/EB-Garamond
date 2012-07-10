@@ -1,0 +1,23 @@
+
+StartChar: tildecomb.capstack
+Encoding: 1115016 -1 2750
+Width: -85
+VWidth: 0
+Flags: HW
+AnchorPoint: "gravestack" 142 818 basemark 0
+AnchorPoint: "acutestack" 66 818 basemark 0
+AnchorPoint: "top_accent" 101 710 mark 0
+LayerCount: 3
+Fore
+SplineSet
+142 717 m 0
+ 124 717 75 726 58 726 c 0
+ 34 726 26 685 18 685 c 0
+ 13 685 4 691 4 704 c 0
+ 4 740 39 796 65 796 c 0
+ 83 796 130 786 147 786 c 0
+ 171 786 179 824 188 824 c 0
+ 195 824 201 818 201 805 c 0
+ 201 772 168 717 142 717 c 0
+EndSplineSet
+EndChar

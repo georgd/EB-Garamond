@@ -1,0 +1,22 @@
+
+StartChar: grave
+Encoding: 96 96 87
+Width: 368
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+39 634 m 0
+ 39 652 67 664 93 664 c 0
+ 126 664 151 655 168 637 c 0
+ 199 603 308 478 308 460 c 0
+ 308 448 300 444 287 444 c 0
+ 273 444 254 459 246 466 c 0
+ 127 576 39 611 39 634 c 0
+EndSplineSet
+Substitution2: "sups subtable" grave.sups
+Substitution2: "sinf subtable" grave.sinf
+Substitution2: "ordn subtable" grave.ordn
+Substitution2: "subs subtable" grave.subs
+EndChar

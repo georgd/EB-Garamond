@@ -1,0 +1,22 @@
+
+StartChar: gravecomb.grksc
+Encoding: 1115110 -1 2847
+Width: 52
+VWidth: 0
+Flags: HW
+AnchorPoint: "grk_hstack" 7 637 mark 0
+AnchorPoint: "top_stack" 122 520 mark 0
+AnchorPoint: "grk_top" 107 507 mark 0
+AnchorPoint: "grk_uc_top_left" 108 627 mark 0
+LayerCount: 3
+Fore
+SplineSet
+119 473 m 0
+ 88 509 13 607 13 620 c 0
+ 13 639 43 663 71 663 c 0
+ 84 663 103 659 111 641 c 0
+ 124 610 171 485 171 466 c 0
+ 171 456 170 451 156 451 c 0
+ 144 451 128 463 119 473 c 0
+EndSplineSet
+EndChar

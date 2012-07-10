@@ -1,0 +1,34 @@
+
+StartChar: braceright
+Encoding: 125 125 1019
+Width: 337
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+267 281 m 1
+ 213 299 129 346 129 414 c 0
+ 129 473 148 520 148 587 c 0
+ 148 656 101 685 54 685 c 0
+ 46 685 34 685 34 700 c 0
+ 34 713 44 718 52 718 c 0
+ 142 718 248 680 248 582 c 0
+ 248 511 229 465 229 404 c 0
+ 229 349 260 310 304 290 c 0
+ 307 288 313 292 313 282 c 0
+ 313 272 307 273 304 271 c 0
+ 260 251 229 212 229 157 c 0
+ 229 96 248 50 248 -21 c 0
+ 248 -119 142 -157 52 -157 c 0
+ 44 -157 34 -152 34 -139 c 0
+ 34 -124 46 -124 54 -124 c 0
+ 101 -124 148 -95 148 -26 c 0
+ 148 41 129 88 129 147 c 0
+ 129 216 225 272 267 281 c 1
+EndSplineSet
+Substitution2: "sups subtable" braceright.sups
+Substitution2: "sinf subtable" braceright.sinf
+Substitution2: "ordn subtable" braceright.ordn
+Substitution2: "subs subtable" braceright.subs
+EndChar

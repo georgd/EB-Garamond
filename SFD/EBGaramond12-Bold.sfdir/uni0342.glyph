@@ -1,0 +1,27 @@
+
+StartChar: uni0342
+Encoding: 834 834 2289
+Width: 134
+VWidth: 0
+Flags: HW
+AnchorPoint: "top_stack" 215 474 mark 0
+AnchorPoint: "top_stack" 215 632 basemark 0
+AnchorPoint: "top_accent" 215 533 mark 0
+AnchorPoint: "grk_top" 215 507 mark 0
+AnchorPoint: "grk_uc_top_left" 306 517 mark 0
+LayerCount: 3
+Fore
+SplineSet
+47 445 m 0
+ 32 445 25 449 25 462 c 0
+ 25 476 94 550 158 550 c 0
+ 196 550 281 526 318 526 c 0
+ 361 526 391 551 404 551 c 0
+ 419 551 429 545 429 532 c 0
+ 429 518 363 462 300 462 c 0
+ 262 462 176 486 139 486 c 0
+ 104 486 60 445 47 445 c 0
+EndSplineSet
+Substitution2: "Smallcaps subtable" uni0342.sc
+Substitution2: "perispomeni_alt subtable" uni0342.alt
+EndChar

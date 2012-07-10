@@ -1,0 +1,41 @@
+
+StartChar: six
+Encoding: 54 54 81
+Width: 492
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+234 -14 m 0
+ 101 -14 40 73 40 195 c 0
+ 40 346 121 440 156 481 c 1
+ 206 537 307 611 430 643 c 1
+ 430 643 -304 514 430 643 c 1
+ 435 643 l 2
+ 438 643 445 643 445 636 c 0
+ 445 620 424 615 421 613 c 0
+ 342 574 290 528 245 455 c 0
+ 215 406 167 310 167 192 c 0
+ 167 144 177 105 190 83 c 0
+ 202 62 232 27 262 27 c 0
+ 282 27 297 35 308 48 c 0
+ 323 65 338 97 338 144 c 0
+ 338 202 310 259 273 259 c 0
+ 248 259 233 256 217 244 c 0
+ 212 241 209 241 208 247 c 1
+ 206 252 210 257 212 260 c 0
+ 221 271 227 276 237 284 c 0
+ 251 295 294 317 328 317 c 0
+ 392 317 444 267 444 192 c 0
+ 444 84 375 -14 234 -14 c 0
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" six.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 30 subtable" six.lnum
+Substitution2: "Single Substitution lookup 29 subtable" six.ordn
+Substitution2: "Single Substitution lookup 28 subtable" six.subs
+Substitution2: "sups subtable" six.sups
+Substitution2: "sinf subtable" six.sinf
+Substitution2: "ordn subtable" six.ordn
+Substitution2: "subs subtable" six.subs
+EndChar

@@ -1,0 +1,34 @@
+
+StartChar: three.lnum
+Encoding: 1114142 -1 1057
+Width: 435
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+44 0 m 0
+ 44 23 49 54 67 54 c 0
+ 76 54 82 50 88 42 c 0
+ 104 21 120 3 146 3 c 0
+ 210 3 265 67 265 146 c 0
+ 265 220 233 300 170 300 c 0
+ 158 300 136 299 117 286 c 0
+ 110.157 281.894 98.7906 288.372 102 298 c 1
+ 105 316 114 327 122 333 c 0
+ 137 344 202 397 202 464 c 0
+ 202 516 178 565 143 565 c 0
+ 77 565 67 476 57 476 c 0
+ 54 476 46 485 46 498 c 0
+ 46 536 95 630 211 630 c 0
+ 267 630 323 585 323 514 c 0
+ 323 464 287 407 186 362 c 1
+ 185 361 l 2
+ 186 361 187 361 188 361 c 0
+ 303 361 395 290 395 202 c 0
+ 395 49 261 -40 125 -40 c 0
+ 91 -40 44 -24 44 0 c 0
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" three.tablining
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" three
+EndChar

@@ -1,0 +1,28 @@
+
+StartChar: hookabovecomb.cap
+Encoding: 1115017 -1 2751
+Width: 32
+VWidth: 0
+Flags: HW
+AnchorPoint: "hookstack" 31 742 mark 0
+AnchorPoint: "top_accent" 82 710 mark 0
+LayerCount: 3
+Fore
+SplineSet
+116 713 m 1
+ 127 700 100 698 89 698 c 0
+ 70 698 48 719 48 736 c 0
+ 48 750 52 761 83 770 c 0
+ 103 776 116 782 116 800 c 0
+ 116 810 104 819 92 819 c 0
+ 73 819 57 804 44 778 c 0
+ 41 771 35 768 29 768 c 0
+ 11 768 4 786 4 802 c 0
+ 4 814 8 823 14 828 c 1
+ 39 840 66 851 113 851 c 0
+ 160 851 210 831 210 788 c 0
+ 210 768 172 744 134 740 c 0
+ 115 738 112 729 112 726 c 0
+ 112 724 114 719 116 713 c 1
+EndSplineSet
+EndChar

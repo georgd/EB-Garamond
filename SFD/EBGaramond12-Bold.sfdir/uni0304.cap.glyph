@@ -1,0 +1,22 @@
+
+StartChar: uni0304.cap
+Encoding: 1114126 -1 991
+Width: 150
+VWidth: 0
+Flags: HW
+AnchorPoint: "top_stack" 230 706 mark 0
+AnchorPoint: "top_stack" 230 820 basemark 0
+AnchorPoint: "top_accent" 230 710 mark 0
+AnchorPoint: "grk_uc_top" 245 720 mark 0
+LayerCount: 3
+Fore
+SplineSet
+41 780 m 2
+ 435 780 l 2
+ 444 780 456 775 456 765 c 0
+ 456 742 432 720 408 720 c 2
+ 26 720 l 2
+ 16 720 4 725 4 735 c 0
+ 4 746 12 780 41 780 c 2
+EndSplineSet
+EndChar

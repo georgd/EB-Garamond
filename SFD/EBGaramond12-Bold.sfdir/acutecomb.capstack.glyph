@@ -1,0 +1,22 @@
+
+StartChar: acutecomb.capstack
+Encoding: 1115014 -1 2748
+Width: 80
+VWidth: 0
+Flags: HW
+AnchorPoint: "acutestack" 1 710 mark 0
+AnchorPoint: "top_accent" 64 710 mark 0
+LayerCount: 3
+Fore
+SplineSet
+4 716 m 0
+ 4 723 8 728 17 734 c 0
+ 40 748 110 789 146 807 c 0
+ 155 811 162 813 170 813 c 0
+ 186 813 246 785 246 770 c 0
+ 246 761 234 757 218 752 c 0
+ 158 735 94 720 48 710 c 0
+ 39 708 25 707 20 707 c 0
+ 13 707 4 708 4 716 c 0
+EndSplineSet
+EndChar

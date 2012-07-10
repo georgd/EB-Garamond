@@ -1,0 +1,20 @@
+
+StartChar: period
+Encoding: 46 46 39
+Width: 285
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+142 101 m 0
+ 186 101 226 77 226 44 c 0
+ 226 11 186 -14 142 -14 c 0
+ 98 -14 59 11 59 44 c 0
+ 59 77 98 101 142 101 c 0
+EndSplineSet
+Substitution2: "sups subtable" period.sups
+Substitution2: "sinf subtable" period.sinf
+Substitution2: "ordn subtable" period.ordn
+Substitution2: "subs subtable" period.subs
+EndChar

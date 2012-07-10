@@ -1,0 +1,22 @@
+
+StartChar: uni0315
+Encoding: 789 789 975
+Width: -2
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+59 609 m 0
+ 39 610 25 629 25 654 c 0
+ 25 674 44 693 72 693 c 0
+ 119 693 171 653 171 593 c 0
+ 171 525 101 469 47 467 c 1
+ 45 467 l 2
+ 37 467 32 471 32 480 c 0
+ 32 487 36 491 42 493 c 0
+ 72 502 91 536 91 566 c 0
+ 91 584 80 607 59 609 c 0
+EndSplineSet
+Substitution2: "Smallcaps subtable" uni0315.sc
+EndChar

@@ -1,0 +1,26 @@
+
+StartChar: tildecomb.stack
+Encoding: 1114954 -1 2275
+Width: 134
+VWidth: 0
+Flags: HW
+AnchorPoint: "top_stack" 206 472 mark 0
+AnchorPoint: "top_stack" 206 598 basemark 0
+AnchorPoint: "gravestack" 222 588 basemark 0
+AnchorPoint: "acutestack" 230 588 basemark 0
+AnchorPoint: "top_accent" 194 533 mark 0
+LayerCount: 3
+Fore
+SplineSet
+26 454 m 0
+ 11 454 4 465 4 477 c 0
+ 4 491 100 548 137 548 c 0
+ 175 548 260 523 297 523 c 0
+ 349 523 370 554 383 554 c 0
+ 398 554 408 548 408 535 c 0
+ 408 521 316 460 279 460 c 0
+ 241 460 149 486 112 486 c 0
+ 75 486 39 454 26 454 c 0
+EndSplineSet
+Substitution2: "Smallcaps subtable" tildecomb.stacksc
+EndChar

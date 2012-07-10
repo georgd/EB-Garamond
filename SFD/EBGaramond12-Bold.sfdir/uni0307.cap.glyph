@@ -1,0 +1,19 @@
+
+StartChar: uni0307.cap
+Encoding: 1114130 -1 1011
+Width: 55
+VWidth: 0
+Flags: HW
+AnchorPoint: "top_stack" 88 725 mark 0
+AnchorPoint: "top_stack" 88 830 basemark 0
+AnchorPoint: "top_accent" 88 710 mark 0
+LayerCount: 3
+Fore
+SplineSet
+88 808 m 0
+ 132 808 171 783 171 750 c 0
+ 171 717 132 692 88 692 c 0
+ 44 692 4 717 4 750 c 0
+ 4 783 44 808 88 808 c 0
+EndSplineSet
+EndChar

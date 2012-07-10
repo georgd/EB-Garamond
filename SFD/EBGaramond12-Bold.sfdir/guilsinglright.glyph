@@ -1,0 +1,27 @@
+
+StartChar: guilsinglright
+Encoding: 8250 8250 117
+Width: 596
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+107 371 m 0
+ 101 376 99 384 99 390 c 0
+ 99 397 102 400 108 400 c 0
+ 128 400 144 387 153 382 c 0
+ 256 316 338 279 491 218 c 0
+ 494 217 497 214 497 209 c 0
+ 497 197 484 182 469 177 c 0
+ 381 150 265 99 162 32 c 0
+ 153 27 137 14 117 14 c 0
+ 110 14 102 19 102 28 c 0
+ 102 32 104 37 107 40 c 0
+ 191 125 269 169 335 203 c 0
+ 339 205 342 207 343 208 c 1
+ 342 209 339 210 335 212 c 0
+ 269 246 191 286 107 371 c 0
+EndSplineSet
+Substitution2: "guillemet_var subtable" guilsinglright.alt
+EndChar

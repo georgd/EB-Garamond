@@ -1,0 +1,42 @@
+
+StartChar: three
+Encoding: 51 51 84
+Width: 359
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+40 304 m 0
+ 38 300 32 295 29 295 c 0
+ 25 295 24 302 24 310 c 0
+ 24 335 119 413 187 413 c 0
+ 245 413 284 373 284 307 c 0
+ 284 273 262 201 162 156 c 1
+ 161 155 l 2
+ 162 155 163 155 164 155 c 0
+ 286 153 307 99 307 52 c 0
+ 307 -71 189 -132 112 -171 c 0
+ 88 -183 57 -192 45 -192 c 0
+ 35 -192 17 -190 17 -176 c 0
+ 17 -161 30 -143 39 -143 c 0
+ 46 -143 77 -142 90 -133 c 0
+ 129 -106 191 -77 191 16 c 0
+ 191 46 205 108 147 108 c 0
+ 123 108 69 88 66 88 c 0
+ 60 88 52 89 52 100 c 0
+ 52 112 64 129 72 136 c 0
+ 86 149 132 161 151 187 c 0
+ 163 203 177 239 177 290 c 0
+ 177 325 162 353 136 353 c 0
+ 107 353 58 333 40 304 c 0
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" three.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 30 subtable" three.lnum
+Substitution2: "Single Substitution lookup 29 subtable" three.ordn
+Substitution2: "Single Substitution lookup 28 subtable" three.subs
+Substitution2: "sups subtable" three.sups
+Substitution2: "sinf subtable" three.sinf
+Substitution2: "ordn subtable" three.ordn
+Substitution2: "subs subtable" three.subs
+EndChar

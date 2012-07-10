@@ -1,0 +1,23 @@
+
+StartChar: acutecomb.flat
+Encoding: 1114962 -1 2321
+Width: 110
+VWidth: 0
+Flags: HW
+AnchorPoint: "top_stack" 140 513 mark 0
+AnchorPoint: "top_stack" 147 646 basemark 0
+AnchorPoint: "top_accent" 134 548 mark 0
+LayerCount: 3
+Fore
+SplineSet
+62 499 m 0
+ 50 497 35 494 21 494 c 0
+ 11 494 -1 496 -1 505 c 0
+ -1 510 2 513 6 517 c 0
+ 33 536 187 600 238 614 c 0
+ 248 617 259 620 270 620 c 0
+ 306 620 331 583 331 568 c 0
+ 331 563 329 558 324 556 c 0
+ 291 544 128 511 62 499 c 0
+EndSplineSet
+EndChar

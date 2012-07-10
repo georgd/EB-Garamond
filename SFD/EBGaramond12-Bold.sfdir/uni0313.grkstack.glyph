@@ -1,0 +1,24 @@
+
+StartChar: uni0313.grkstack
+Encoding: 1115011 -1 2743
+Width: 2
+VWidth: 0
+Flags: HW
+AnchorPoint: "top_stack" 38 648 basemark 0
+AnchorPoint: "grk_top" 38 548 mark 0
+AnchorPoint: "grk_uc_top_left" 133 662 mark 0
+LayerCount: 3
+Fore
+SplineSet
+25 555 m 0
+ 12 556 -1 566 -1 591 c 0
+ -1 611 19 620 48 620 c 0
+ 88 620 123 589 123 546 c 0
+ 123 489 66 454 26 454 c 0
+ 14 454 6 458 6 467 c 0
+ 6 474 10 478 16 481 c 0
+ 37 491 50 506 50 525 c 0
+ 50 541 39 554 25 555 c 0
+EndSplineSet
+Substitution2: "Smallcaps subtable" uni0313.grkstacksc
+EndChar

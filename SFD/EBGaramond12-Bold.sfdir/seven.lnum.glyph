@@ -1,0 +1,36 @@
+
+StartChar: seven.lnum
+Encoding: 1114146 -1 1061
+Width: 464
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+452 623 m 1
+ 452 624 l 1
+ 453 624 l 2
+ 457 624 460 615 460 608 c 0
+ 460 589 432 552 422 536 c 2
+ 108 -7 l 2
+ 102 -18 93 -34 88 -34 c 0
+ 73 -34 59 -24 59 -6 c 0
+ 59 1 71 21 80 37 c 2
+ 376 543 l 2
+ 376 544 378 545 378 546 c 0
+ 377 547 373 549 367 549 c 2
+ 118 549 l 2
+ 97 549 60 546 41 523 c 0
+ 36 517 25 504 15 504 c 0
+ 11 504 9 507 9 514 c 0
+ 9 522 12 532 13 537 c 0
+ 20 567 29 586 29 610 c 2
+ 29 611 l 1
+ 30 622 37 624 40 624 c 0
+ 43 624 78 620 103 619 c 0
+ 133 618 176 619 223 619 c 0
+ 322 619 433 620 452 623 c 1
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" seven.tablining
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" seven
+EndChar

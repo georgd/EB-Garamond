@@ -1,0 +1,21 @@
+
+StartChar: quoteright
+Encoding: 8217 8217 60
+Width: 233
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+89 599 m 0
+ 69 602 56 619 56 644 c 0
+ 56 675 83 693 112 693 c 0
+ 160 693 196 652 196 593 c 0
+ 196 488 105 425 54 423 c 1
+ 52 423 l 2
+ 44 423 39 427 39 437 c 0
+ 39 445 43 449 49 451 c 0
+ 79 460 116 491 116 558 c 0
+ 116 571 104 597 89 599 c 0
+EndSplineSet
+Substitution2: "Single Substitution lookup 45 subtable" quoteright.01
+EndChar
