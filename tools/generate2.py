@@ -9,6 +9,7 @@ import sys
 def generate(font, path):
     extension = os.path.splitext(outfilepath)[1]
 
+    font.encoding = 'UnicodeFull'
     font.selection.all()
     font.autoHint()
 
