@@ -4,16 +4,17 @@ VERSION=0.014c
 SRC=SFD
 BLD=build
 WEB=web
+SPEC=specimen
 PACK=$(NAME)-$(VERSION)
+WPCK=$(NAME)-$(VERSION)-web
 DIST=$(NAME)-$(VERSION)-complete
 
 PY=python
 SCRIPT=tools/generate2.py
 SFNTTOOL=sfnttool.jar
 
-#SIZES=08 12
-FONTS=08-Regular 12-Regular 12-SC 12-AllSC 12-Italic 12-Bold -Initials 08-Italic #Bold BoldItalic Semibold SemiboldItalic
-
+SIZES=08 12
+FONTS=08-Regular 12-Regular 12-SC 12-AllSC 12-Italic 12-Bold -Initials 08-Italic
 
 SFD=$(FONTS:%=$(SRC)/$(NAME)%.sfdir)
 OTF=$(FONTS:%=$(BLD)/$(NAME)%.otf)
@@ -21,12 +22,15 @@ TTF=$(FONTS:%=$(BLD)/$(NAME)%.ttf)
 WTT=$(FONTS:%=$(WEB)/$(NAME)%.ttf)
 WOF=$(FONTS:%=$(WEB)/$(NAME)%.woff)
 EOT=$(FONTS:%=$(WEB)/$(NAME)%.eot)
+PDF=$(FONTS:%=$(SPEC)/$(NAME)%-Glyphs.pdf)
 
-all: otf ttf web
+all: otf ttf web pdfs
+pack: dpack wpack
 
 otf: $(OTF)
 ttf: $(TTF)
-web: $(WTT) $(WOF) $(EOT)
+web: $(WOF) $(EOT)
+pdfs: $(PDF)
 
 $(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT)
 	@echo "Generating	$@"
@@ -38,42 +42,55 @@ $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT)
 	@echo "Autohinting	$@"
 	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
 	@mv $@.tmp $@
-	
-$(WEB)/%.ttf: $(BLD)/%.ttf
-	@echo "Copying		$@"
-	@cp $< $@
 		
-$(WEB)/%.woff: $(WEB)/%.ttf
+$(WEB)/%.woff: $(BLD)/%.ttf
 	@echo "Generating	$@"
 	@$(SFNTTOOL) -w $< $@
 	
-$(WEB)/%.eot: $(WEB)/%.ttf
+$(WEB)/%.eot: $(BLD)/%.ttf
 	@echo "Generating	$@"
 	@$(SFNTTOOL) -e -x $< $@
+	
+$(SPEC)/%-Glyphs.pdf: $(BLD)/%.ttf 
+	@echo "Generating	$@"
+	@fntsample -f $< -o $@ -l > $@.outline
+	@pdfoutline $@ $@.outline $@
+	@rm $@.outline
 
-pack: $(OTF) $(TTF)
+dpack: $(OTF) $(TTF)
 	@echo "Packing fonts to zipfile"
 	@mkdir -p $(PACK)/otf
 	@mkdir -p $(PACK)/ttf
+	@mkdir -p $(PACK)/specimen
 	@cp $(OTF) $(PACK)/otf
 	@cp $(TTF) $(PACK)/ttf
-	@cp README $(PACK)
+	@cp $(PDF) $(SPEC)/Specimen.pdf  $(PACK)/specimen
+	@cp README COPYING $(PACK)
 	@zip -r $(PACK).zip $(PACK)
+
+wpack: $(WOF) $(EOT)
+	@echo "Packing webfonts to zipfile"
+	@mkdir -p $(WPCK)
+	@cp $(WOF) $(EOT) README COPYING $(WPCK)
+	@zip -r $(WPCK).zip $(WPCK)
 
 dist: $(OTF) $(TTF)
 	@echo "Making dist tarball"
 	@mkdir -p $(DIST)/$(SRC)
 	@mkdir -p $(DIST)/$(BLD)
+	@mkdir -p $(DIST)/$(WEB)
 	@mkdir -p $(DIST)/tools
+	@mkdir -p $(DIST)/$(SPEC)
 	@cp -r $(SFD) $(DIST)/$(SRC)
-	@cp $(OTF) $(DIST)/$(BLD)
-	@cp $(TTF) $(DIST)/$(BLD)
+	@cp $(OTF) $(TTF) $(DIST)/$(BLD)
+	@cp $(WOF) $(EOT) $(DIST)/$(WEB)
+	@cp $(PDF) $(SPEC)/Specimen.pdf $(DIST)/$(SPEC)
 	@cp $(SCRIPT) $(DIST)/tools
-	@cp Makefile README $(DIST)
+	@cp Makefile README COPYING $(DIST)
 	@zip -r $(DIST).zip $(DIST)
 
 cleanpack:
-	@rm -rf $(PACK) $(PACK).zip
+	@rm -rf $(PACK) $(PACK).zip  $(WPCK) $(WPCK).zip
 
 clean:
-	@rm -rf $(OTF) $(TTF) $(WTT) $(WOF) $(EOT) $(PACK) $(PACK).zip $(DIST) $(DIST).zip
+	@rm -rf $(OTF) $(TTF) $(WTT) $(WOF) $(EOT) $(PDF) $(PACK) $(PACK).zip $(WPCK) $(WPCK).zip $(DIST) $(DIST).zip
