@@ -14,7 +14,7 @@ SCRIPT=tools/generate2.py
 SFNTTOOL=sfnttool.jar
 
 SIZES=08 12
-FONTS=08-Regular 12-Regular 12-SC 12-AllSC 12-Italic 12-Bold -Initials 08-Italic
+FONTS=08-Regular 12-Regular 12-SC 12-AllSC 12-Italic 12-Bold -Initials -InitialsF1 -InitialsF2 08-Italic
 
 SFD=$(FONTS:%=$(SRC)/$(NAME)%.sfdir)
 OTF=$(FONTS:%=$(BLD)/$(NAME)%.otf)
