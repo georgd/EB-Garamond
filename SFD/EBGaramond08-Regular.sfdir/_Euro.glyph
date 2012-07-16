@@ -3,7 +3,7 @@ StartChar: Euro
 Encoding: 8364 8364 194
 Width: 692
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -16 50<348.779 531.338> 210 59<4.71983 85 214 447.294> 321 59<30.7198 88 204 473.294> 430 21G<618.5 631.5> 563 45<323.559 529.347>
 VStem: 85 112<269 321> 101 103<380 429.705> 586 58<442.059 520.756>
 LayerCount: 2
@@ -46,5 +46,4 @@ SplineSet
  101 380 l 1
  145 519 277 608 437 608 c 0xfb
 EndSplineSet
-Validated: 33
 EndChar

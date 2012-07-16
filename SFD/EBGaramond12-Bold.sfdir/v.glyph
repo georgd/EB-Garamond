@@ -1110,8 +1110,7 @@ bfn;PaN2*0^9Y&MV5:!g
 EndImage
 Fore
 SplineSet
-224 -16 m 2
- 221 -21 218 -24 216 -24 c 0
+216 -24 m 0
  210 -24 195 15 195 15 c 1
  73 327 l 2
  63 350 48 370 28 376 c 0
@@ -1139,8 +1138,7 @@ SplineSet
  281 120 280 119 279 117 c 0
  271 96 244 21 244 21 c 1
  244 21 233 -3 224 -16 c 1
- 137 -224 l 1
- 224 -16 l 2
+ 224 -16 218 -24 216 -24 c 0
 EndSplineSet
 Substitution2: "Smallcaps subtable" v.sc
 Substitution2: "Single Substitution lookup 37 subtable" v.LATmedi

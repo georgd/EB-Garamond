@@ -3,7 +3,7 @@ StartChar: dollar
 Encoding: 36 36 6
 Width: 409
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -10 41<123.57 166 216 255.052> 543 58<174.442 215> 689 20G<254.5 267.5>
 VStem: 34 59<58.6708 135.091> 54 92<406.798 504.058> 288 98<82.6427 186.987>
 LayerCount: 2
@@ -47,5 +47,8 @@ SplineSet
  146 420 168 406 197 381 c 2
  200 378 l 1
 EndSplineSet
-Validated: 33
+Substitution2: "sups subtable" dollar.sups
+Substitution2: "sinf subtable" dollar.sinf
+Substitution2: "ordn subtable" dollar.ordn
+Substitution2: "subs subtable" dollar.subs
 EndChar

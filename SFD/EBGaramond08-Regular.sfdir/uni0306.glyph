@@ -2,7 +2,7 @@
 StartChar: uni0306
 Encoding: 774 774 271
 Width: 0
-Flags: W
+Flags: HW
 HStem: 506 66<102.942 228.82>
 VStem: 62 30<590.723 635.992> 246 30<588.735 635.992>
 AnchorPoint: "top_accent" 170 596 mark 0
@@ -19,5 +19,6 @@ SplineSet
  62 625 67 636 77 636 c 0
  87 636 90 625 92 615 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "Smallcaps subtable" uni0306.sc
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0306.cap
 EndChar

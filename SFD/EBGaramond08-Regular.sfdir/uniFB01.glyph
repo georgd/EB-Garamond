@@ -3,7 +3,7 @@ StartChar: uniFB01
 Encoding: 64257 64257 196
 Width: 535
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -2 46<16.002 85.6687 185.28 240.065 290.002 350.287 450.331 519.065> 355 55<44.2508 96.8926 180.026 348.564> 636 54<247.581 373>
 VStem: 97 83<53.0419 350.759 410.306 522.062> 356 83<53.0419 347.195>
 AnchorPoint: "below_accent" 141 -80 basechar 0
@@ -51,5 +51,4 @@ SplineSet
  356 302 l 2
  356 336 340 355 295 355 c 2
 EndSplineSet
-Validated: 1
 EndChar

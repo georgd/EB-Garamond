@@ -1,9 +1,9 @@
 
 StartChar: longs_l
-Encoding: 65543 -1 221
+Encoding: 1114119 -1 221
 Width: 548
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -2 46<16.002 85.6687 187.178 246.438 301.613 361.822 463.331 532.065> 636 54<247.581 335.283> 661 20G<438.5 446>
 VStem: 97 83<53.0419 362 424.715 526.088> 369 83<53.0419 604.995>
 AnchorPoint: "top_right" 504 590 basechar 0
@@ -46,7 +46,6 @@ SplineSet
  356 690 378 687 396 682 c 0
  401 681 419 677 424 678 c 0xd8
 EndSplineSet
-Validated: 1
 Ligature2: "liga_standard subtable" longs l
 LCarets2: 1 281 
 EndChar

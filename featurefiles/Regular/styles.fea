@@ -75,3 +75,11 @@ lookup germandbls_variants {
 feature cv21 {
     lookup germandbls_variants;
 } cv21;
+
+lookup AE_alt {
+    sub AE by AE.alt;
+} AE_alt;
+
+feature cv22 {
+    lookup AE_alt;
+} cv22;

@@ -3,7 +3,7 @@ StartChar: exclam
 Encoding: 33 33 3
 Width: 207
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -2 117<56.3166 138.871> 583 20G<96 123.5>
 VStem: 42 113<14.0145 101.235> 56 100<313.349 590.845> 79 61<257.943 502.228>
 LayerCount: 2
@@ -22,5 +22,8 @@ SplineSet
  67 -2 42 21 42 50 c 0xe0
  42 83 64 115 97 115 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "sups subtable" exclam.sups
+Substitution2: "sinf subtable" exclam.sinf
+Substitution2: "ordn subtable" exclam.ordn
+Substitution2: "subs subtable" exclam.subs
 EndChar

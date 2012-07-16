@@ -3,7 +3,7 @@ StartChar: A
 Encoding: 65 65 33
 Width: 649
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -2 47<23.8269 105.783 170.629 230.516 360.953 438.407 567.486 640.967> 205 46<237.998 384.141>
 AnchorPoint: "cedilla" 130 15 basechar 0
 AnchorPoint: "ogonek" 472 15 basechar 0
@@ -47,5 +47,9 @@ SplineSet
  316 484 312 481 308 471 c 2
  238 272 l 2
 EndSplineSet
-Validated: 33
+Substitution2: "c2sc subtable" A.sc
+Substitution2: "sups subtable" A.sups
+Substitution2: "sinf subtable" A.sinf
+Substitution2: "ordn subtable" A.ordn
+Substitution2: "subs subtable" A.subs
 EndChar

@@ -3,7 +3,7 @@ StartChar: uni0327
 Encoding: 807 807 458
 Width: 0
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -269 45<48.3744 127.962>
 VStem: 47 67<-112 -53.3946> 129 66<-223.577 -163.665>
 AnchorPoint: "cedilla" 142 4 mark 0
@@ -22,5 +22,5 @@ SplineSet
  47 -69 69 -50 132 5 c 1
  172 5 l 1
 EndSplineSet
-Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0327.cap
 EndChar

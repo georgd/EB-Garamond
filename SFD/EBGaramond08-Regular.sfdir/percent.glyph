@@ -3,7 +3,7 @@ StartChar: percent
 Encoding: 37 37 7
 Width: 763
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -1 52<534.314 644.797> 219 53<533.555 649.348> 347 52<126.314 236.797> 567 53<125.555 241.348> 584 20G<583.5 604.5>
 VStem: 41 57<428.509 539.721> 268 55<431.495 540.803> 449 57<80.5088 191.721> 676 55<83.4946 192.803>
 LayerCount: 2
@@ -37,5 +37,8 @@ SplineSet
  268 538 224 567 178 567 c 0
  133 567 98 528 98 483 c 0
 EndSplineSet
-Validated: 33
+Substitution2: "sups subtable" percent.sups
+Substitution2: "sinf subtable" percent.sinf
+Substitution2: "ordn subtable" percent.ordn
+Substitution2: "subs subtable" percent.subs
 EndChar

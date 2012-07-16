@@ -1,9 +1,9 @@
 
 StartChar: AE.alt
-Encoding: 65539 -1 117
+Encoding: 1114115 -1 117
 Width: 903
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -2 47<-23.1067 59.331 126.799 187.516 360.953 438.407 571.518 786.76> 276 49<240 368 478 598.346> 545 46<389 590.907> 556 35<209.02 264.672>
 AnchorPoint: "top_accent" 336 670 basechar 0
 AnchorPoint: "below_accent" 308 -80 basechar 0
@@ -65,5 +65,4 @@ SplineSet
  285 422 263 374 240 325 c 1
  368 325 l 1
 EndSplineSet
-Validated: 33
 EndChar

@@ -3,7 +3,7 @@ StartChar: backslash
 Encoding: 92 92 60
 Width: 351
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: 681 20G<14.5 31>
 VStem: 2 58<655 696.152>
 LayerCount: 2
@@ -19,5 +19,8 @@ SplineSet
  11 650 2 676 2 677 c 0
  2 695 7 701 22 701 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "sups subtable" backslash.sups
+Substitution2: "sinf subtable" backslash.sinf
+Substitution2: "ordn subtable" backslash.ordn
+Substitution2: "subs subtable" backslash.subs
 EndChar

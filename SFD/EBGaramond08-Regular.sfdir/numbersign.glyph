@@ -3,7 +3,7 @@ StartChar: numbersign
 Encoding: 35 35 5
 Width: 728
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: 172 65<47.331 165 252 387 474 627.386> 389 65<116.331 246 334 468 556 696.386>
 LayerCount: 2
 Fore
@@ -51,5 +51,8 @@ SplineSet
  468 389 l 1
  309 389 l 1
 EndSplineSet
-Validated: 33
+Substitution2: "sups subtable" numbersign.sups
+Substitution2: "sinf subtable" numbersign.sinf
+Substitution2: "ordn subtable" numbersign.ordn
+Substitution2: "subs subtable" numbersign.subs
 EndChar

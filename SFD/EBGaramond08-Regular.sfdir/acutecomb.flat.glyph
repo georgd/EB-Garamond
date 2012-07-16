@@ -1,8 +1,8 @@
 
 StartChar: acutecomb.flat
-Encoding: 65591 -1 735
+Encoding: 1114165 -1 733
 Width: 0
-Flags: W
+Flags: HW
 HStem: 499 121
 VStem: 0 220
 AnchorPoint: "top_accent" 121 590 mark 0
@@ -21,5 +21,4 @@ SplineSet
  220 567 219 563 216 561 c 0
  194 549 85 516 41 504 c 0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,8 +1,8 @@
 
 StartChar: tildecomb.stack
-Encoding: 65595 -1 739
+Encoding: 1114169 -1 737
 Width: 0
-Flags: W
+Flags: HW
 HStem: 470 61<85.6969 225.946> 486 61<50.8355 192.803>
 VStem: 5 268
 AnchorPoint: "top_accent" 146 572 mark 0
@@ -23,5 +23,5 @@ SplineSet
  163 470 101 486 76 486 c 0
  51 486 27 458 19 458 c 0x60
 EndSplineSet
-Validated: 1
+Substitution2: "Smallcaps subtable" tildecomb.stacksc
 EndChar

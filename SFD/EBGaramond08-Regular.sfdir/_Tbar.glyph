@@ -1,9 +1,9 @@
 
 StartChar: Tbar
-Encoding: 358 358 764
+Encoding: 358 358 761
 Width: 592
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -2 47<168.038 246.943 380.057 459.136> 304 48<125.553 509.66> 536 48<92.4905 265.478 361.469 559.784>
 VStem: 35 50<463.844 531.629> 266 95<63.6768 536>
 LayerCount: 2
@@ -18,5 +18,5 @@ SplineSet
  157 304 l 2
 EndSplineSet
 Refer: 52 84 N 1 0 0 1 0 0 2
-Validated: 32773
+Substitution2: "c2sc subtable" Tbar.sc
 EndChar

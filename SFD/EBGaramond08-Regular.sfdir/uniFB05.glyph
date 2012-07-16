@@ -3,7 +3,7 @@ StartChar: uniFB05
 Encoding: 64261 64261 200
 Width: 606
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -8 68<455.072 538.049> -2 46<16.002 85.6687 191.331 260.065> 358 59<442.026 577.625> 636 54<247.302 362>
 VStem: 97 83<53.0419 362 424.715 526.088> 359 83<70.1548 354.699 417.08 601.415>
 AnchorPoint: "cedilla" 490 5 basechar 0
@@ -52,5 +52,4 @@ SplineSet
  360 525 l 2
  360 551 359 569 344 593 c 0xbc
 EndSplineSet
-Validated: 33
 EndChar

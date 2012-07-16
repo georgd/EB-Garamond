@@ -3,7 +3,7 @@ StartChar: U
 Encoding: 85 85 53
 Width: 617
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -6 50<248.099 419.105> 556 35<0.0203552 60.1516 209.234 262.983 433.023 489.859 576.362 631.977>
 VStem: 86 95<124.215 533.535> 503 57<144.609 541.992>
 AnchorPoint: "top_accent" 342 670 basechar 0
@@ -39,5 +39,11 @@ SplineSet
  632 564 624 559 615 556 c 0
  569 541 560 531 560 492 c 2
 EndSplineSet
-Validated: 1
+Substitution2: "c2sc subtable" U.sc
+Substitution2: "Single Substitution lookup 38 subtable" U.LAT
+Substitution2: "sups subtable" U.sups
+Substitution2: "sinf subtable" U.sinf
+Substitution2: "ordn subtable" U.ordn
+Substitution2: "subs subtable" U.subs
+Substitution2: "loclLAT subtable" U.LAT
 EndChar

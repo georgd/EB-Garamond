@@ -3,7 +3,7 @@ StartChar: m
 Encoding: 109 109 77
 Width: 812
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -2 46<20.7626 85.6687 185.388 240.334 304.763 360.205 454.388 509.333 573.763 629.205 729.331 791.438> 378 52<226.223 328.743 494.865 597.325>
 VStem: 97 83<53.0419 340.366> 366 83<44.6405 337.439> 635 83<53.4106 337.284>
 CounterMasks: 1 38
@@ -61,5 +61,9 @@ SplineSet
  368 430 406 403 427 369 c 0
  430 365 432 364 434 364 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "Smallcaps subtable" m.sc
+Substitution2: "sups subtable" m.sups
+Substitution2: "sinf subtable" m.sinf
+Substitution2: "ordn subtable" m.ordn
+Substitution2: "subs subtable" m.subs
 EndChar

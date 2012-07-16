@@ -1,9 +1,9 @@
 
 StartChar: longs_p
-Encoding: 65546 -1 224
+Encoding: 1114122 -1 224
 Width: 716
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -273 46<432.75 529.065> -260 46<275.002 332.641> -6 51<16.7468 85.704 190.687 259.345 436.062 550.5> 378 52<461.056 556.598> 636 54<247.581 335.513>
 VStem: 97 83<53.0419 362 424.715 526.088> 336 83<-210.6 5.99634 63.158 341.382> 604 92<146.928 322.944>
 AnchorPoint: "below_accent" 141 -80 basechar 0
@@ -61,5 +61,4 @@ SplineSet
  98 362 l 1
  50 362 l 2
 EndSplineSet
-Validated: 1
 EndChar

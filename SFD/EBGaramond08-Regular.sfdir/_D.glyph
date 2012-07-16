@@ -3,7 +3,7 @@ StartChar: D
 Encoding: 68 68 36
 Width: 716
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -7 45<270.396 451.286> -2 47<24.0383 102.499> 553 45<221.372 408.372> 556 35<24.0204 94.0943>
 VStem: 122 95<87.3454 534.853> 559 112<187.798 400.644>
 AnchorPoint: "top_accent" 346 670 basechar 0
@@ -34,5 +34,9 @@ SplineSet
  559 445 446 553 304 553 c 0
  261 553 217 543 217 521 c 2
 EndSplineSet
-Validated: 1
+Substitution2: "c2sc subtable" D.sc
+Substitution2: "sups subtable" D.sups
+Substitution2: "sinf subtable" D.sinf
+Substitution2: "ordn subtable" D.ordn
+Substitution2: "subs subtable" D.subs
 EndChar

@@ -1,8 +1,8 @@
 
 StartChar: uni030B.cap
-Encoding: 65564 -1 708
+Encoding: 1114140 -1 708
 Width: 0
-Flags: W
+Flags: HW
 HStem: 697 153
 VStem: 6 299
 AnchorPoint: "top_accent" 115 705 mark 0
@@ -28,5 +28,4 @@ SplineSet
  120 774 70 736 30 706 c 0
  21 699 15 697 12 697 c 0
 EndSplineSet
-Validated: 1
 EndChar

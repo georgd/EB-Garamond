@@ -1,8 +1,8 @@
 
 StartChar: uni0317.cap
-Encoding: 65572 -1 716
+Encoding: 1114148 -1 716
 Width: 0
-Flags: W
+Flags: HW
 HStem: -215 153
 VStem: 6 167
 AnchorPoint: "below_accent" 85 -80 mark 0
@@ -19,5 +19,4 @@ SplineSet
  120 -138 70 -176 30 -206 c 0
  21 -213 15 -215 12 -215 c 0
 EndSplineSet
-Validated: 1
 EndChar

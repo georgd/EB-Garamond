@@ -1,8 +1,8 @@
 
 StartChar: gravecomb.cap
-Encoding: 65560 -1 704
+Encoding: 1114136 -1 704
 Width: 0
-Flags: W
+Flags: HW
 HStem: 685 153
 VStem: 6 167
 AnchorPoint: "top_accent" 131 705 mark 0
@@ -20,5 +20,4 @@ SplineSet
  171 701 173 695 173 691 c 0
  173 688 171 685 167 685 c 0
 EndSplineSet
-Validated: 1
 EndChar

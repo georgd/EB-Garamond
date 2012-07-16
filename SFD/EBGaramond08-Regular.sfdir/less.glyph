@@ -3,7 +3,7 @@ StartChar: less
 Encoding: 60 60 28
 Width: 578
 VWidth: 982
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -22,5 +22,8 @@ SplineSet
  135 254 l 2
  130 252 131 247 136 245 c 2
 EndSplineSet
-Validated: 1
+Substitution2: "sups subtable" less.sups
+Substitution2: "sinf subtable" less.sinf
+Substitution2: "ordn subtable" less.ordn
+Substitution2: "subs subtable" less.subs
 EndChar

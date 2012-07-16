@@ -1,0 +1,21 @@
+
+StartChar: uni0308.grkstack
+Encoding: 1114966 -1 1675
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+251 572 m 0
+ 276 572 299 549 299 524 c 0
+ 299 499 276 476 251 476 c 0
+ 226 476 205 499 205 524 c 0
+ 205 549 226 572 251 572 c 0
+54 572 m 0
+ 79 572 100 549 100 524 c 0
+ 100 499 79 476 54 476 c 0
+ 29 476 6 499 6 524 c 0
+ 6 549 29 572 54 572 c 0
+EndSplineSet
+Substitution2: "Smallcaps subtable" uni0308.grkstacksc
+EndChar

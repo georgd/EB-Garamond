@@ -3,7 +3,7 @@ StartChar: sterling
 Encoding: 163 163 96
 Width: 600
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -12 67<356.034 472.799> 335 44<66.851 435.078> 547 21G<462 485> 649 42<353.525 468.5>
 VStem: 448 70<551.271 642.945> 490 72<69.1872 187.062>
 LayerCount: 2
@@ -42,5 +42,4 @@ SplineSet
  48 355 56 379 67 379 c 2
  404 379 l 2
 EndSplineSet
-Validated: 37
 EndChar

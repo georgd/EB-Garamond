@@ -2,7 +2,7 @@
 StartChar: uni0305
 Encoding: 773 773 270
 Width: 0
-Flags: W
+Flags: HW
 HStem: 562 56<4.25402 395.583>
 AnchorPoint: "top_accent" 201 596 mark 0
 LayerCount: 2
@@ -16,5 +16,4 @@ SplineSet
  7 562 0 568 0 574 c 0
  0 583 6 618 24 618 c 2
 EndSplineSet
-Validated: 1
 EndChar

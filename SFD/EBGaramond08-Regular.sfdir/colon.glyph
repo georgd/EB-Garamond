@@ -3,7 +3,7 @@ StartChar: colon
 Encoding: 58 58 27
 Width: 199
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -5 121<61.3128 151> 284 121<61.3128 151>
 VStem: 43 123<10.4372 98.0663 299.437 387.066>
 LayerCount: 2
@@ -20,5 +20,8 @@ SplineSet
  68 284 43 309 43 340 c 0
  43 377 75 405 112 405 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "sups subtable" colon.sups
+Substitution2: "sinf subtable" colon.sinf
+Substitution2: "ordn subtable" colon.ordn
+Substitution2: "subs subtable" colon.subs
 EndChar

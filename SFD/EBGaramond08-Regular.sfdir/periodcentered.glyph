@@ -1,9 +1,9 @@
 
 StartChar: periodcentered
-Encoding: 183 183 750
+Encoding: 183 183 747
 Width: 204
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: 310 124<55.2003 148.8>
 VStem: 40 124<325.2 418.8>
 LayerCount: 2
@@ -15,5 +15,4 @@ SplineSet
  68 310 40 338 40 372 c 0
  40 406 68 434 102 434 c 0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,9 +1,9 @@
 
 StartChar: uni01E4
-Encoding: 484 484 766
+Encoding: 484 484 763
 Width: 710
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -24 44<305.221 507.214> 107 48<401.553 705.66> 220 45<428.767 513.142> 428 21<604 612.5> 563 45<297.169 495.374>
 VStem: 46 112<187.047 382.614> 528 93<40.8568 202.998>
 LayerCount: 2
@@ -18,5 +18,4 @@ SplineSet
  433 107 l 2
 EndSplineSet
 Refer: 39 71 N 1 0 0 1 0 0 2
-Validated: 32773
 EndChar

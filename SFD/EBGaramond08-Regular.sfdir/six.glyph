@@ -3,7 +3,7 @@ StartChar: six
 Encoding: 54 54 23
 Width: 474
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -10 44<204.765 308.754> 321 37<182.499 272.7>
 VStem: 42 100<114.492 294.193> 345 96<110.853 255.808>
 LayerCount: 2
@@ -11,9 +11,9 @@ Fore
 SplineSet
 367 570 m 0
  381 570 387 564 387 552 c 0
- 387 545 369.989 527.066 344 515 c 0
+ 387 545 370 527 344 515 c 0
  288 489 202 429 177 353 c 0
- 174.188 344.45 189.257 348.419 194 350 c 0
+ 174 344 189 348 194 350 c 0
  209 355 232 358 250 358 c 0
  341 358 441 289 441 201 c 0
  441 97 354 -10 246 -10 c 0
@@ -26,5 +26,12 @@ SplineSet
  345 257 280 321 206 321 c 16
  155 321 142 251 142 198 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" six.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 30 subtable" six.lnum
+Substitution2: "Single Substitution lookup 29 subtable" six.ordn
+Substitution2: "Single Substitution lookup 28 subtable" six.subs
+Substitution2: "sups subtable" six.sups
+Substitution2: "sinf subtable" six.sinf
+Substitution2: "ordn subtable" six.ordn
+Substitution2: "subs subtable" six.subs
 EndChar

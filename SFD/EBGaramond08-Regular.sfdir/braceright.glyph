@@ -2,7 +2,7 @@
 StartChar: braceright
 Encoding: 125 125 93
 Width: 373
-Flags: W
+Flags: HW
 HStem: -154 27<35.1033 124.219> 688 27<35.1033 124.219>
 VStem: 166 76<-20.282 210.046 350.809 581.282> 179 76<-85.2919 149.197 411.803 646.292>
 LayerCount: 2
@@ -29,5 +29,8 @@ SplineSet
  179 42 166 89 166 147 c 0
  166 213 239 270 272 279 c 0xe0
 EndSplineSet
-Validated: 1
+Substitution2: "sups subtable" braceright.sups
+Substitution2: "sinf subtable" braceright.sinf
+Substitution2: "ordn subtable" braceright.ordn
+Substitution2: "subs subtable" braceright.subs
 EndChar

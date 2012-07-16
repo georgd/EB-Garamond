@@ -3,7 +3,7 @@ StartChar: Eth
 Encoding: 208 208 127
 Width: 677
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: 0 32<290.521 427.662> 523 57<56.0703 92 92.0036 114.602> 550 42<221.678 375.619>
 VStem: 119 93<98.7835 522.963> 543 114<206.026 368.602>
 LayerCount: 2
@@ -60,5 +60,5 @@ SplineSet
  297 549 286 549 280 550 c 1
  238 550 218 540 218 518 c 2
 EndSplineSet
-Validated: 1
+Substitution2: "c2sc subtable" Eth.sc
 EndChar

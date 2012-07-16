@@ -1,0 +1,21 @@
+
+StartChar: omicron
+Encoding: 959 959 857
+Width: 400
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+175 -14 m 0
+ 77 -14 35 97 35 195 c 0
+ 35 306 104 414 215 414 c 0
+ 319 414 365 299 365 195 c 0
+ 365 85 285 -14 175 -14 c 0
+325 235 m 0
+ 325 284 289 334 240 334 c 0
+ 148 334 75 252 75 160 c 0
+ 75 111 106 64 155 64 c 0
+ 249 64 325 141 325 235 c 0
+EndSplineSet
+Substitution2: "Smallcaps subtable" omicron.sc
+EndChar

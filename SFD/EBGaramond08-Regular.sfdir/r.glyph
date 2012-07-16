@@ -3,7 +3,7 @@ StartChar: r
 Encoding: 114 114 82
 Width: 346
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: -2 46<20.7626 85.6687 197.857 269.09> 350 80<220.724 305.757>
 VStem: 97 83<61.1738 337.805>
 AnchorPoint: "below_accent" 142 -80 basechar 0
@@ -36,5 +36,9 @@ SplineSet
  270 8 262 -2 236 -2 c 0
  214 -2 155 4 139 4 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "Smallcaps subtable" r.sc
+Substitution2: "sups subtable" r.sups
+Substitution2: "sinf subtable" r.sinf
+Substitution2: "ordn subtable" r.ordn
+Substitution2: "subs subtable" r.subs
 EndChar

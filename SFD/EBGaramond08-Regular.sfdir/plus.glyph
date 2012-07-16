@@ -3,7 +3,7 @@ StartChar: plus
 Encoding: 43 43 13
 Width: 459
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: 173 65<46.7198 200 265 418.069>
 VStem: 200 65<17.4503 172 238 393.173>
 LayerCount: 2
@@ -27,5 +27,8 @@ SplineSet
  208 16 200 32 200 54 c 2
  200 172 l 1
 EndSplineSet
-Validated: 1
+Substitution2: "sups subtable" plus.sups
+Substitution2: "sinf subtable" plus.sinf
+Substitution2: "ordn subtable" plus.ordn
+Substitution2: "subs subtable" plus.subs
 EndChar

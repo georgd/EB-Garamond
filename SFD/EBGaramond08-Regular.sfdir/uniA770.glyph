@@ -3,7 +3,7 @@ StartChar: uniA770
 Encoding: 42864 42864 246
 Width: 294
 VWidth: 982
-Flags: W
+Flags: HW
 HStem: 327 157<47.5 169.5> 327 55<23.091 115.685> 625 36<121.232 184.867>
 VStem: 38 71<492.781 617.135> 203 63<495.404 611.479>
 LayerCount: 2
@@ -24,5 +24,4 @@ SplineSet
  203 589 176 625 158 625 c 0
  113 625 109 586 109 531 c 0
 EndSplineSet
-Validated: 1
 EndChar

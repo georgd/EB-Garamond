@@ -1,8 +1,8 @@
 
 StartChar: uni030A.stack
-Encoding: 65600 -1 744
+Encoding: 1114173 -1 741
 Width: 1000
-Flags: W
+Flags: HW
 HStem: 464 31<84.4266 145.034> 584 31<78.9906 142.667>
 VStem: 28 45<500.742 581.109> 152 44<498.247 579.066>
 AnchorPoint: "top_accent" 111 572 mark 0
@@ -21,5 +21,5 @@ SplineSet
  152 567 134 584 109 584 c 0
  81 584 73 563 73 544 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "Smallcaps subtable" uni030A.stacksc
 EndChar
