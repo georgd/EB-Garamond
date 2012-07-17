@@ -1,8 +1,0 @@
-lookup longs_replacement {
-     sub s' @letters by longs;
-} longs_replacement;
-
-feature cv01 {
- lookup longs_replacement;
-} cv01;
-
