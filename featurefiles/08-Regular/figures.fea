@@ -1,0 +1,73 @@
+lookup subs {
+    sub @SUBS1 by @SUBS2;
+} subs;
+
+feature subs {
+    lookup subs;
+} subs; 
+
+feature dnom {
+    lookup subs;
+} dnom;
+
+lookup ordn {
+    sub @SUBS1 by @ORDN;
+} ordn;
+
+feature ordn {
+    lookup ordn;
+} ordn;
+
+feature numr {
+    lookup ordn;
+} numr;
+
+lookup sinf {
+    sub @SUBS1 by @SINF;
+} sinf;
+
+feature sinf {
+    lookup sinf;
+} sinf;
+
+lookup sups {
+    sub @SUBS1 by @SUPS;
+} sups;
+
+feature sups {
+    lookup sups;
+} sups;
+
+lookup frac_slash {
+ sub slash by fraction;
+} frac_slash;
+
+lookup frac {
+ sub [ slash fraction @DIGITS @DIGITS_SUBS ] @DIGITS' by @DIGITS_SUBS;
+ sub @DIGITS' [ slash fraction @DIGITS @DIGITS_ORDN ] by @DIGITS_ORDN;
+} frac;
+
+feature frac {
+ lookup frac_slash;
+ lookup frac;
+} frac;
+
+feature lnum {
+    sub @ONUM by @LNUM;
+    sub @ONUM_TNUM by @LNUM_TNUM;
+} lnum;
+
+feature onum {
+    sub @LNUM by @ONUM;
+    sub @LNUM_TNUM by @ONUM_TNUM;
+} onum;
+
+feature tnum {
+    sub @ONUM by @ONUM_TNUM;
+    sub @LNUM by @LNUM_TNUM;
+} tnum;
+
+feature pnum {
+    sub @ONUM_TNUM by @ONUM;
+    sub @LNUM_TNUM by @LNUM;
+} pnum;

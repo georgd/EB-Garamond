@@ -1,0 +1,15 @@
+lookup perispomeni_alt {
+    sub uni0342 by uni0342.alt;
+} perispomeni_alt;
+
+feature cv80 {
+    lookup perispomeni_alt;
+} cv80;
+
+lookup prosgegrammeni_alt {
+    sub uni0345.cap from [ uni0345.cap1 uni0345.cap2 ];
+} prosgegrammeni_alt;
+
+feature cv81 {
+    lookup prosgegrammeni_alt;
+} cv81;

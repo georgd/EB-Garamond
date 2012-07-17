@@ -1,0 +1,22 @@
+lookup Smallcaps {
+    sub @SMALLCAPS_BASIS by @SMALLCAPS;
+    sub @grkletters by @grksc;
+    sub sigma1 by sigma1.sc;
+    sub uni0345.cap1 by uni0345.sc1;
+    sub @SC_DIAC_BASIS by @SC_DIAC;
+} Smallcaps;
+
+lookup c2sc {
+    sub @C2SC_BASIS by @C2SC;
+    sub uni0345.cap1 by uni0345.sc1;
+    sub uni0345.cap2 by uni0345.sc1;
+    sub @GRKLETTERS by @GRKSC;
+} c2sc;
+
+feature smcp {
+    lookup Smallcaps;
+} smcp;
+
+feature c2sc {
+    lookup c2sc;
+} c2sc;
