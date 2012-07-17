@@ -1,0 +1,33 @@
+
+StartChar: j
+Encoding: 106 106 74
+Width: 294
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+116 13 m 2
+ 116 344 l 2
+ 116 401 107 398 50 414 c 0
+ 41 417 34 426 34 435 c 0
+ 34 447 54 453 69 453 c 0
+ 108 453 124 448 160 448 c 0
+ 195 448 216 453 250 453 c 0
+ 265 453 285 447 285 435 c 0
+ 285 426 279 417 270 414 c 0
+ 213 398 202 401 202 344 c 2
+ 202 49 l 2
+ 202 -70 145.376 -199 27 -199 c 0
+ -18.5195 -199 -82 -177 -82 -146 c 0
+ -82 -116.15 -55.8496 -87 -26 -87 c 0
+ 6 -87 10.1475 -147 47 -147 c 0
+ 115.67 -147 116 -54 116 13 c 2
+EndSplineSet
+Substitution2: "Smallcaps subtable" j.sc
+Substitution2: "historic_j subtable" j.hist
+Substitution2: "sups subtable" j.sups
+Substitution2: "sinf subtable" j.sinf
+Substitution2: "ordn subtable" j.ordn
+Substitution2: "subs subtable" j.subs
+Substitution2: "Single Substitution lookup 7 subtable" uni0237
+EndChar

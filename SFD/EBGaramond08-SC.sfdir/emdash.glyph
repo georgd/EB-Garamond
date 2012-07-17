@@ -1,0 +1,20 @@
+
+StartChar: emdash
+Encoding: 8212 8212 186
+Width: 1000
+VWidth: 982
+Flags: HW
+HStem: 167 68<51.7004 950.395>
+LayerCount: 2
+Fore
+SplineSet
+924 235 m 2
+ 954 235 960 233 960 218 c 0
+ 960 204 947 167 917 167 c 2
+ 69 167 l 2
+ 46 167 40 169 40 185 c 0
+ 40 201 59 235 89 235 c 2
+ 924 235 l 2
+EndSplineSet
+Substitution2: "'case' Case-Sensitive Forms lookup 5 subtable" emdash.cap
+EndChar

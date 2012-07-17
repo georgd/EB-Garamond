@@ -1,0 +1,49 @@
+
+StartChar: U
+Encoding: 85 85 53
+Width: 617
+VWidth: 982
+Flags: HW
+HStem: -6 50<248.099 419.105> 556 35<0.0203552 60.1516 209.234 262.983 433.023 489.859 576.362 631.977>
+VStem: 86 95<124.215 533.535> 503 57<144.609 541.992>
+AnchorPoint: "top_accent" 342 670 basechar 0
+AnchorPoint: "below_accent" 320 -80 basechar 0
+AnchorPoint: "ogonek" 402 15 basechar 0
+AnchorPoint: "cedilla" 336 15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+560 492 m 2
+ 560 250 l 2
+ 560 95 458 -6 311 -6 c 0
+ 132 -6 86 103 86 256 c 2
+ 86 482 l 2
+ 86 530 79 535 16 556 c 0
+ 7 559 0 564 0 573 c 0
+ 0 585 20 591 35 591 c 0
+ 74 591 78 586 114 586 c 0
+ 149 586 194 591 228 591 c 0
+ 243 591 263 585 263 573 c 0
+ 263 564 257 559 248 556 c 0
+ 205 542 181 524 181 484 c 2
+ 181 284 l 2
+ 181 124 210 44 332 44 c 0
+ 469 44 503 148 503 304 c 2
+ 503 490 l 2
+ 503 542 492 541 450 555 c 0
+ 441 558 433 564 433 573 c 0
+ 433 585 453 591 468 591 c 0
+ 483 591 518 586 533 586 c 0
+ 548 586 582 591 597 591 c 0
+ 612 591 632 585 632 573 c 0
+ 632 564 624 559 615 556 c 0
+ 569 541 560 531 560 492 c 2
+EndSplineSet
+Substitution2: "c2sc subtable" U.sc
+Substitution2: "Single Substitution lookup 37 subtable" U.LAT
+Substitution2: "sups subtable" U.sups
+Substitution2: "sinf subtable" U.sinf
+Substitution2: "ordn subtable" U.ordn
+Substitution2: "subs subtable" U.subs
+Substitution2: "loclLAT subtable" U.LAT
+EndChar

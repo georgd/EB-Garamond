@@ -1,0 +1,12 @@
+
+StartChar: dagger
+Encoding: 8224 8224 1009
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Substitution2: "sups subtable" dagger.sups
+Substitution2: "sinf subtable" dagger.sinf
+Substitution2: "ordn subtable" dagger.ordn
+Substitution2: "subs subtable" dagger.subs
+EndChar

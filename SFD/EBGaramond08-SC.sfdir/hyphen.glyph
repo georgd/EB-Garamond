@@ -1,0 +1,25 @@
+
+StartChar: hyphen
+Encoding: 45 45 244
+Width: 386
+VWidth: 982
+Flags: HW
+HStem: 194 77<232.833 345.786>
+VStem: 45 306<196.922 245.107>
+LayerCount: 2
+Fore
+SplineSet
+320 271 m 6
+ 334 272 351 266 351 243 c 12
+ 351 220 341 195 318 194 c 6
+ 99 176 l 6
+ 65 173 45 175 45 195 c 4
+ 45 214 56 249 82 252 c 6
+ 320 271 l 6
+EndSplineSet
+Substitution2: "sups subtable" hyphen.sups
+Substitution2: "sinf subtable" hyphen.sinf
+Substitution2: "ordn subtable" hyphen.ordn
+Substitution2: "subs subtable" hyphen.subs
+Substitution2: "'case' Case-Sensitive Forms lookup 5 subtable" hyphen.cap
+EndChar

@@ -1,0 +1,35 @@
+
+StartChar: question
+Encoding: 63 63 31
+Width: 266
+VWidth: 982
+Flags: HW
+HStem: 0 117<55.9966 147.663>
+VStem: 42 120<14.2754 102.66> 197 33<337.5 471.502>
+LayerCount: 2
+Fore
+SplineSet
+230 363 m 0
+ 230 312 218 296 200 289 c 0
+ 174 279 157 275 126 263 c 0
+ 118 260 107 203 88 203 c 0
+ 73 203 62 259 62 286 c 0
+ 62 307 66 337 79 342 c 0
+ 104 352 124 356 145 365 c 0
+ 180 380 197 401 197 435 c 0
+ 197 456 179 480 163 485 c 0
+ 141 491 118 497 89 508 c 0
+ 67 516 53 528 53 555 c 0
+ 53 598 59 627 71 627 c 0
+ 192 627 230 520 230 363 c 0
+162 65 m 0
+ 162 29 139 0 101 0 c 0
+ 69 0 42 24 42 57 c 0
+ 42 91 69 117 105 117 c 0
+ 136 117 162 97 162 65 c 0
+EndSplineSet
+Substitution2: "sups subtable" question.sups
+Substitution2: "sinf subtable" question.sinf
+Substitution2: "ordn subtable" question.ordn
+Substitution2: "subs subtable" question.subs
+EndChar

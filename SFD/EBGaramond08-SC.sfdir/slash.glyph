@@ -1,0 +1,24 @@
+
+StartChar: slash
+Encoding: 47 47 16
+Width: 237
+VWidth: 982
+Flags: HW
+HStem: 681 20G<317.5 338.5>
+LayerCount: 2
+Fore
+SplineSet
+342 667 m 2
+ 43 -18 l 2
+ 35 -36 24 -46 7 -46 c 8
+ -12 -46 -5 -17 4 3 c 2
+ 282 648 l 2
+ 299 687 305 701 330 701 c 0
+ 347 701 349 683 342 667 c 2
+EndSplineSet
+Substitution2: "frac_slash subtable" fraction
+Substitution2: "sups subtable" slash.sups
+Substitution2: "sinf subtable" slash.sinf
+Substitution2: "ordn subtable" slash.ordn
+Substitution2: "subs subtable" slash.subs
+EndChar

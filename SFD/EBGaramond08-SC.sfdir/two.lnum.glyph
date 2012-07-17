@@ -1,0 +1,36 @@
+
+StartChar: two.lnum
+Encoding: 1114300 -1 981
+Width: 486
+VWidth: 982
+Flags: HW
+HStem: -2 70<157.73 403.864> 525 70<150.997 271.88>
+VStem: 50 42<433.035 475.535> 308 100<328.734 486.916>
+LayerCount: 2
+Fore
+SplineSet
+332 249 m 0
+ 302 213 168 82 158 75 c 0
+ 152 71 161 67 167 67 c 2
+ 343 68 l 2
+ 371 65 396 79 412 98 c 0
+ 434 125 445 146 455 146 c 0
+ 464 146 469 138 469 121 c 0
+ 469 71 432 -2 418 -2 c 0
+ 381 -2 288 4 231 4 c 0
+ 166 4 66 -2 46 -2 c 0
+ 41 -2 26 9 26 15 c 0
+ 26 21 28 22 34 28 c 2
+ 214 207 l 2
+ 276 268 308 322 308 410 c 0
+ 308 467 277 525 220 525 c 0
+ 163 525 113 490 92 447 c 0
+ 88 438 82 433 72 433 c 0
+ 58 433 50 445 50 463 c 0
+ 50 498 121 595 250 595 c 0
+ 341 595 408 517 408 426 c 0
+ 408 350 379 306 332 249 c 0
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 31 subtable" two.tablining
+Substitution2: "'onum' Minuskelziffern lookup 30 subtable" two
+EndChar

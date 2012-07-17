@@ -1,0 +1,54 @@
+
+StartChar: f
+Encoding: 102 102 70
+Width: 413
+Flags: W
+HStem: -2 51<38.3252 109.177 210.482 281.675> 205 51<203.755 322.643> 406 47<203.015 340.279> 414 39<34.1293 103.475>
+VStem: 116 87<55.2266 205 256 400.417>
+AnchorPoint: "below_accent" 160 -80 basechar 0
+AnchorPoint: "top_accent" 228 630 basechar 0
+AnchorPoint: "cedilla" 173 15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+221 205 m 2xe8
+ 211 205 202 200 202 181 c 2
+ 202 129 l 2
+ 203 92 201 64 235 49 c 0
+ 257 39 290 30 290 15 c 0
+ 290 5 269 -1 258 -2 c 0
+ 251 -2 205 4 157 4 c 0
+ 110 4 71 -2 64 -2 c 0
+ 52 -1 30 5 30 15 c 0
+ 30 30 63 39 85 49 c 0
+ 119 64 116 92 116 129 c 2
+ 116 344 l 2
+ 116 401 107 398 50 414 c 0
+ 41 417 34 426 34 435 c 0
+ 34 447 54 453 69 453 c 0
+ 108 453 124 448 160 448 c 0
+ 195 448 347 453 362 453 c 0xd8
+ 378 453 377.54 452.198 383 434 c 0
+ 385.299 426.338 389 395 389 385 c 0
+ 389 374 385 354 372 354 c 0
+ 359 354 348 364 339 388 c 0
+ 336 396 323 406 308 406 c 2
+ 227 406 l 2
+ 205 406 203 401 203 382 c 2
+ 203 296 l 2
+ 203 276 204 256 219 256 c 2
+ 280 256 l 2
+ 324 256 334 296 344 296 c 0
+ 354 296 356 275 356 229 c 0
+ 356 184 356 161 342 161 c 0
+ 332 161 324 205 278 205 c 2
+ 221 205 l 2xe8
+EndSplineSet
+Substitution2: "Single Substitution lookup 61 subtable" f.short
+Substitution2: "Smallcaps subtable" f.sc
+Substitution2: "sups subtable" f.sups
+Substitution2: "sinf subtable" f.sinf
+Substitution2: "ordn subtable" f.ordn
+Substitution2: "subs subtable" f.subs
+Substitution2: "loclDEU subtable" f.DEU
+EndChar

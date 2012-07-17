@@ -1,0 +1,18 @@
+
+StartChar: acutecomb.grk
+Encoding: 1114961 -1 1670
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+47 478 m 0
+ 41 468 31 456 23 456 c 0
+ 14 456 14 460 14 469 c 0
+ 14 487 45 609 55 645 c 0
+ 58 657 72 663 80 663 c 0
+ 99 663 118 638 118 622 c 0
+ 118 612 68 514 47 478 c 0
+EndSplineSet
+Substitution2: "Smallcaps subtable" acutecomb.grksc
+EndChar

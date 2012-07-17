@@ -1,0 +1,30 @@
+
+StartChar: five.tablining
+Encoding: 1114323 -1 1004
+Width: 425
+Flags: HW
+HStem: -38 44<44.0435 174.788> 515 90<197.915 336.675>
+VStem: 280 100<117.987 253.961>
+LayerCount: 2
+Fore
+SplineSet
+280 187 m 0
+ 280 279 183 322 93 332 c 0
+ 69 335 47 349 47 373 c 0
+ 47 410 86 501 105 542 c 0
+ 111 556 115 565 136 570 c 0
+ 194 585 323 605 349 605 c 0
+ 356 605 360 596 360 591 c 0
+ 360 571 335 518 305 515 c 0
+ 253 510 174 508 144 505 c 0
+ 130 504 104 448 103 432 c 0
+ 102 423 104 414 113 413 c 0
+ 242 402 380 339 380 209 c 0
+ 380 57 226 -38 79 -38 c 0
+ 63 -38 42 -36 42 -26 c 0
+ 42 -7 61 6 78 6 c 0
+ 192 6 280 81 280 187 c 0
+EndSplineSet
+Substitution2: "'pnum' Proportionalziffern lookup 32 subtable" five.lnum
+Substitution2: "'onum' Minuskelziffern lookup 30 subtable" five.taboldstyle
+EndChar

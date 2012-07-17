@@ -1,0 +1,14 @@
+
+StartChar: Uogonek
+Encoding: 370 370 359
+Width: 617
+VWidth: 0
+Flags: H
+HStem: -274 71<343.981 417.807> -6 50<248.099 419.105> 556 35<0.0203552 60.1516 209.234 262.983 433.023 489.859 576.362 631.977>
+VStem: 86 95<124.215 533.535> 246 85<-189.916 -94.2834> 503 57<144.609 541.992>
+LayerCount: 2
+Fore
+Refer: 714 -1 N 1 0 0 1 241 0 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Uogonek.sc
+EndChar

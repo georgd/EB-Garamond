@@ -1,0 +1,53 @@
+
+StartChar: T
+Encoding: 84 84 52
+Width: 592
+VWidth: 982
+Flags: HW
+HStem: -2 47<168.038 246.943 380.057 459.136> 536 48<92.4905 265.478 361.469 559.784>
+VStem: 35 50<463.844 531.629> 266 95<63.6768 536>
+AnchorPoint: "top_accent" 315 670 basechar 0
+AnchorPoint: "below_accent" 312 -80 basechar 0
+AnchorPoint: "cedilla" 332 15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+266 505 m 2
+ 266 525 260 536 250 536 c 2
+ 128 536 l 2
+ 102 536 95 524 85 506 c 8
+ 74 486 67 458 53 458 c 0
+ 40 458 35 472 35 481 c 0
+ 35 504 40 512 40 544 c 0
+ 40 560 38 579 38 589 c 0
+ 38 602 45 614 55 614 c 0
+ 65 614 73 602 91 591 c 1
+ 123 588 142 584 150 584 c 2
+ 499 584 l 2
+ 535 584 551 591 569 601 c 0
+ 581 608 586 616 598 616 c 0
+ 610 616 616 606 616 598 c 0
+ 616 589 612 577 612 555 c 0
+ 612 531 614 497 614 486 c 0
+ 614 471 612 463 600 463 c 0
+ 590 463 575 489 564 508 c 8
+ 555 523 542 536 528 536 c 2
+ 373 536 l 2
+ 363 536 361 515 361 505 c 2
+ 361 129 l 2
+ 361 92 374 60 408 45 c 0
+ 430 35 463 30 463 15 c 0
+ 463 5 442 -1 431 -2 c 0
+ 424 -2 358 4 310 4 c 0
+ 263 4 204 -2 197 -2 c 0
+ 186 -1 164 5 164 15 c 0
+ 164 30 197 35 219 45 c 0
+ 253 60 266 92 266 129 c 2
+ 266 505 l 2
+EndSplineSet
+Substitution2: "c2sc subtable" T.sc
+Substitution2: "sups subtable" T.sups
+Substitution2: "sinf subtable" T.sinf
+Substitution2: "ordn subtable" T.ordn
+Substitution2: "subs subtable" T.subs
+EndChar

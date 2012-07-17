@@ -1,0 +1,15 @@
+
+StartChar: grave
+Encoding: 96 96 64
+Width: 233
+Flags: HW
+HStem: 490 193
+VStem: 38 157
+LayerCount: 2
+Fore
+Refer: 265 768 S 1 0 0 1 30 0 2
+Substitution2: "sups subtable" grave.sups
+Substitution2: "sinf subtable" grave.sinf
+Substitution2: "ordn subtable" grave.ordn
+Substitution2: "subs subtable" grave.subs
+EndChar

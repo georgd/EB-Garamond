@@ -1,0 +1,18 @@
+
+StartChar: Egrave
+Encoding: 200 200 119
+Width: 569
+VWidth: 982
+Flags: HW
+HStem: -2 47<24.0383 102.943 238.001 469.333> 276 49<217.587 380.343> 545 46<217 439.496> 556 35<24.0204 94.0943> 650 153
+VStem: 122 95<66.8442 275.966 325.021 535.239> 181 167 514 41<97.7344 155.746>
+LayerCount: 2
+Fore
+Refer: 704 -1 N 1 0 0 1 175 -35 2
+Refer: 37 69 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Egrave.sc
+Substitution2: "sups subtable" Egrave.sups
+Substitution2: "sinf subtable" Egrave.sinf
+Substitution2: "ordn subtable" Egrave.ordn
+Substitution2: "subs subtable" Egrave.subs
+EndChar

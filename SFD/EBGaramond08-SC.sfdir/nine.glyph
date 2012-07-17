@@ -1,0 +1,37 @@
+
+StartChar: nine
+Encoding: 57 57 26
+Width: 468
+VWidth: 982
+Flags: HW
+HStem: -143 57<52.377 119.687> 394 36<208.472 307.625>
+VStem: 41 99<151.019 315.505> 353 99<143.012 335.689>
+LayerCount: 2
+Fore
+SplineSet
+267 430 m 4
+ 375 430 452 352 452 244 c 4
+ 452 118 339 -53 182 -110 c 12
+ 140 -125 94 -143 73 -143 c 4
+ 57 -143 48 -135 48 -125 c 4
+ 48 -111 60 -90 71 -86 c 4
+ 93 -78 117 -67 158 -44 c 4
+ 212 -13 266 31 273 48 c 4
+ 276 56 243 54 204 61 c 4
+ 108 78 41 137 41 236 c 4
+ 41 351 152 430 267 430 c 4
+140 208 m 4
+ 140 140 193 90 260 90 c 4
+ 318 90 353 158 353 260 c 4
+ 353 319 324 394 264 394 c 4
+ 178 394 140 295 140 208 c 4
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 31 subtable" nine.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 29 subtable" nine.lnum
+Substitution2: "Single Substitution lookup 28 subtable" nine.ordn
+Substitution2: "Single Substitution lookup 27 subtable" nine.subs
+Substitution2: "sups subtable" nine.sups
+Substitution2: "sinf subtable" nine.sinf
+Substitution2: "ordn subtable" nine.ordn
+Substitution2: "subs subtable" nine.subs
+EndChar

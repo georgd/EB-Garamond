@@ -1,0 +1,30 @@
+
+StartChar: equal
+Encoding: 61 61 29
+Width: 459
+VWidth: 982
+Flags: HW
+HStem: 86 66<46.7198 417.294> 244 66<46.7198 417.294>
+LayerCount: 2
+Fore
+SplineSet
+95 86 m 2
+ 74 86 42 91 42 116 c 0
+ 42 134 63 152 95 152 c 2
+ 380 152 l 2
+ 405 152 422 139 422 124 c 0
+ 422 109 409 87 379 87 c 2
+ 95 86 l 2
+95 244 m 2
+ 74 244 42 249 42 274 c 0
+ 42 292 63 310 95 310 c 2
+ 380 310 l 2
+ 405 310 422 297 422 282 c 0
+ 422 267 409 245 379 245 c 2
+ 95 244 l 2
+EndSplineSet
+Substitution2: "sups subtable" equal.sups
+Substitution2: "sinf subtable" equal.sinf
+Substitution2: "ordn subtable" equal.ordn
+Substitution2: "subs subtable" equal.subs
+EndChar

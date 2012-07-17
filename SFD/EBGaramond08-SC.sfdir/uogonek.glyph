@@ -1,0 +1,14 @@
+
+StartChar: uogonek
+Encoding: 371 371 360
+Width: 620
+VWidth: 0
+Flags: HW
+HStem: -270 78<306.438 400.277> -12 21<328 339.5> -4 62<132.051 256.119> 370 44<241.382 300.927> 410 20<124 135 377 388>
+VStem: 58 83<82.5002 363.626> 256 62<-184.504 -82.5589> 311 83<86.8377 359.609>
+LayerCount: 2
+Fore
+Refer: 457 808 N 1 0 0 1 256 10 2
+Refer: 85 117 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps subtable" uogonek.sc
+EndChar

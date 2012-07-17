@@ -1,0 +1,25 @@
+
+StartChar: quotesingle
+Encoding: 39 39 9
+Width: 178
+Flags: HW
+HStem: 444 232<70.2416 79.4949>
+VStem: 55 83<553.576 658.955>
+LayerCount: 2
+Fore
+SplineSet
+52 620 m 0
+ 52 634 63 648 71 655 c 0
+ 87 668 108 676 124 676 c 0
+ 134 676 138 661 138 644 c 0
+ 138 592 97 505 81 469 c 0
+ 76 457 67 444 62 444 c 0
+ 57 444 55 458 55 467 c 0
+ 56 488 56 506 56 524 c 0
+ 56 560 52 619 52 620 c 0
+EndSplineSet
+Substitution2: "sups subtable" quotesingle.sups
+Substitution2: "sinf subtable" quotesingle.sinf
+Substitution2: "ordn subtable" quotesingle.ordn
+Substitution2: "subs subtable" quotesingle.subs
+EndChar

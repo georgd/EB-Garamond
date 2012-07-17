@@ -1,0 +1,23 @@
+
+StartChar: bar
+Encoding: 124 124 92
+Width: 157
+VWidth: 982
+Flags: HW
+VStem: 55 47<-215.115 605.902>
+LayerCount: 2
+Fore
+SplineSet
+55 574 m 2
+ 55 594 75 610 92 610 c 0
+ 101 610 102 603 102 574 c 2
+ 102 -188 l 2
+ 102 -205 83 -218 67 -218 c 0
+ 57 -218 55 -210 55 -190 c 2
+ 55 574 l 2
+EndSplineSet
+Substitution2: "sups subtable" bar.sups
+Substitution2: "sinf subtable" bar.sinf
+Substitution2: "ordn subtable" bar.ordn
+Substitution2: "subs subtable" bar.subs
+EndChar

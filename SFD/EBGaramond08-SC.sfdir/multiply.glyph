@@ -1,0 +1,35 @@
+
+StartChar: multiply
+Encoding: 215 215 134
+Width: 376
+VWidth: 982
+Flags: HW
+HStem: 61 289<59 83 291 312>
+VStem: 47 284
+LayerCount: 2
+Fore
+SplineSet
+331 93 m 0
+ 331 78 312 61 299 61 c 0
+ 289 61 280 67 271 76 c 2
+ 188 159 l 1
+ 113 85 l 2
+ 102 74 87 61 72 61 c 0
+ 57 61 47 73 47 89 c 0
+ 47 102 53 117 67 131 c 2
+ 141 206 l 1
+ 67 280 l 2
+ 52 295 45 310 45 322 c 0
+ 45 338 59 350 74 350 c 0
+ 83 350 93 346 105 334 c 2
+ 187 252 l 1
+ 268 333 l 2
+ 279 344 291 349 301 349 c 0
+ 319 349 327 335 327 318 c 0
+ 327 308 323 296 313 286 c 2
+ 233 206 l 1
+ 316 123 l 2
+ 324 115 331 104 331 93 c 0
+EndSplineSet
+Substitution2: "Smallcaps subtable" multiply.sc
+EndChar

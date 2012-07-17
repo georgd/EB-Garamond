@@ -1,0 +1,15 @@
+
+StartChar: Adieresis
+Encoding: 196 196 115
+Width: 649
+VWidth: 982
+Flags: HW
+HStem: -2 47<23.8269 105.783 170.629 230.516 360.953 438.407 567.486 640.967> 205 46<237.998 384.141> 652 108<203.08 286.92 390.08 473.92>
+VStem: 191 108<664.08 747.92> 378 108<664.08 747.92>
+LayerCount: 2
+Fore
+Refer: 707 -1 N 1 0 0 1 186 -35 2
+Refer: 33 65 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Adieresis.sc
+Substitution2: "loclDEU subtable" Adieresis.deu
+EndChar

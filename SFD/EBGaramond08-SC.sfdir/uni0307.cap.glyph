@@ -1,0 +1,20 @@
+
+StartChar: uni0307.cap
+Encoding: 1114144 -1 712
+Width: 0
+Flags: HW
+HStem: 687 118<18.6616 109.338>
+VStem: 5 118<700.662 791.338>
+AnchorPoint: "top_accent" 68 705 mark 0
+AnchorPoint: "top_stack" 60 725 mark 0
+AnchorPoint: "top_stack" 60 830 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+64 805 m 0
+ 96 805 123 778 123 746 c 0
+ 123 714 96 687 64 687 c 0
+ 32 687 5 714 5 746 c 0
+ 5 778 32 805 64 805 c 0
+EndSplineSet
+EndChar

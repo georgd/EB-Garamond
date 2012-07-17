@@ -1,0 +1,19 @@
+
+StartChar: uni2011
+Encoding: 8209 8209 816
+Width: 386
+VWidth: 982
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+320 271 m 6
+ 334 272 351 266 351 243 c 12
+ 351 220 341 195 318 194 c 6
+ 99 176 l 6
+ 65 173 45 175 45 195 c 4
+ 45 214 56 249 82 252 c 6
+ 320 271 l 6
+EndSplineSet
+Substitution2: "'case' Case-Sensitive Forms lookup 5 subtable" uni2011.cap
+EndChar

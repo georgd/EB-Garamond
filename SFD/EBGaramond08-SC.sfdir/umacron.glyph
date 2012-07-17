@@ -1,0 +1,14 @@
+
+StartChar: umacron
+Encoding: 363 363 217
+Width: 620
+VWidth: 982
+Flags: HW
+HStem: -12 21<328 339.5> -4 62<132.051 256.119> 370 44<241.382 300.927> 410 20<124 135 377 388> 535 61<103.875 333.982>
+VStem: 58 83<82.5002 363.626> 99 240<536.883 595.744> 311 83<86.8377 359.609>
+LayerCount: 2
+Fore
+Refer: 269 772 N 1 0 0 1 143 34 2
+Refer: 85 117 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps subtable" umacron.sc
+EndChar

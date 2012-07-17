@@ -1,0 +1,18 @@
+
+StartChar: ae
+Encoding: 230 230 149
+Width: 975
+VWidth: 982
+Flags: HW
+HStem: -8 67<96.5 201.445 355.018 469.825> 370 60<115.49 211.546> 384 46<356.617 451.557>
+VStem: 22 89<71.5438 153.521> 37 74<302.283 366.04> 232 84<103.609 187.275 268.821 339.946> 462 87<306.363 372.331>
+AnchorPoint: "below_accent" 260 -80 basechar 0
+AnchorPoint: "top_accent" 276 596 basechar 0
+LayerCount: 2
+Fore
+Refer: 69 101 N 1 0 0 1 532 0 2
+Refer: 65 97 N 1 0 0 1 0 0 2
+Substitution2: "Smallcaps subtable" ae.sc
+Ligature2: "LATliga subtable" a e
+LCarets2: 1 0 
+EndChar

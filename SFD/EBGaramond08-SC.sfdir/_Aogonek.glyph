@@ -1,0 +1,14 @@
+
+StartChar: Aogonek
+Encoding: 260 260 296
+Width: 649
+VWidth: 0
+Flags: H
+HStem: -274 71<413.981 487.807> -2 47<23.8269 105.783 170.629 230.516 360.953 438.407 567.486 640.967> 205 46<237.998 384.141>
+VStem: 316 85<-189.916 -94.2834>
+LayerCount: 2
+Fore
+Refer: 714 -1 N 1 0 0 1 311 0 2
+Refer: 33 65 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Aogonek.sc
+EndChar

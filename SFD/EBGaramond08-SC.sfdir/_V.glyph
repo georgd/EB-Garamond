@@ -1,0 +1,45 @@
+
+StartChar: V
+Encoding: 86 86 54
+Width: 557
+VWidth: 982
+Flags: HW
+HStem: 556 35<0.0203552 52.3352 217.966 272.983 377.023 426.521 533.254 582.977>
+AnchorPoint: "cedilla" 299 15 basechar 0
+AnchorPoint: "below_accent" 296 -80 basechar 0
+AnchorPoint: "top_accent" 308 670 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+394 555 m 4
+ 385 558 377 564 377 573 c 4
+ 377 585 397 591 412 591 c 4
+ 427 591 469 586 484 586 c 4
+ 499 586 533 591 548 591 c 4
+ 563 591 583 585 583 573 c 4
+ 583 564 575 559 566 556 c 4
+ 520 541 502 508 486 463 c 6
+ 362 121 l 6
+ 345 75 309 -15 296 -15 c 4
+ 288 -15 273 13 258 54 c 6
+ 106 458 l 6
+ 89 504 79 535 16 556 c 4
+ 7 559 0 564 0 573 c 4
+ 0 585 20 591 35 591 c 4
+ 74 591 78 586 114 586 c 4
+ 149 586 204 591 238 591 c 4
+ 253 591 273 585 273 573 c 4
+ 273 564 267 559 258 556 c 4
+ 215 542 179 524 195 480 c 6
+ 293 218 l 6
+ 309 174 316 169 323 169 c 4
+ 330 169 341 172 360 229 c 6
+ 434 453 l 6
+ 457 522 436 541 394 555 c 4
+EndSplineSet
+Substitution2: "c2sc subtable" V.sc
+Substitution2: "sups subtable" V.sups
+Substitution2: "sinf subtable" V.sinf
+Substitution2: "ordn subtable" V.ordn
+Substitution2: "subs subtable" V.subs
+EndChar

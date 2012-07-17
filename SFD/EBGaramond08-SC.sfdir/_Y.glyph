@@ -1,0 +1,56 @@
+
+StartChar: Y
+Encoding: 89 89 57
+Width: 431
+VWidth: 982
+Flags: HW
+HStem: -2 47<116.038 194.943 328.057 407.136> 556 35<0.0203552 58.4125 201.117 244.983 454.292 518.977>
+VStem: 214 95<63.7073 319.519>
+AnchorPoint: "top_accent" 262 670 basechar 0
+AnchorPoint: "below_accent" 262 -80 basechar 0
+AnchorPoint: "cedilla" 259 15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+309 130 m 2
+ 309 92 322 60 356 45 c 0
+ 378 35 411 30 411 15 c 0
+ 411 5 390 -1 379 -2 c 0
+ 372 -2 306 4 258 4 c 0
+ 211 4 152 -2 145 -2 c 0
+ 134 -1 112 5 112 15 c 0
+ 112 30 145 35 167 45 c 0
+ 201 60 214 92 214 130 c 2
+ 214 203 l 2
+ 214 276 201 297 188 330 c 2
+ 143 446 l 2
+ 115 518 53 544 16 556 c 0
+ 7 559 0 564 0 573 c 0
+ 0 585 20 591 35 591 c 0
+ 74 591 78 586 114 586 c 0
+ 149 586 176 591 210 591 c 0
+ 225 591 245 585 245 573 c 0
+ 245 564 239 559 230 556 c 0
+ 201 546 200 539 200 532 c 0
+ 200 522 249 429 249 429 c 2
+ 260 406 271 388 280 388 c 0
+ 290 388 297 406 322 450 c 2
+ 359 515 l 2
+ 366 527 348 549 330 555 c 0
+ 321 558 313 564 313 573 c 0
+ 313 585 333 591 348 591 c 0
+ 363 591 405 586 420 586 c 0
+ 435 586 469 591 484 591 c 0
+ 499 591 519 585 519 573 c 0
+ 519 564 511 559 502 556 c 0
+ 442 536 439 542 383 456 c 2
+ 326 368 l 2
+ 304 335 309 312 309 298 c 2
+ 309 130 l 2
+EndSplineSet
+Substitution2: "c2sc subtable" Y.sc
+Substitution2: "sups subtable" Y.sups
+Substitution2: "sinf subtable" Y.sinf
+Substitution2: "ordn subtable" Y.ordn
+Substitution2: "subs subtable" Y.subs
+EndChar
