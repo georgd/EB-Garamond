@@ -80,27 +80,29 @@
 
 @SMALLCAPS_BASIS = [ a-z 
 	 agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis multiply oslash ugrave uacute ucircumflex udieresis yacute thorn germandbls divide amacron abreve aogonek cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent eogonek ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK dotlessi ij jcircumflex kcommaaccent kgreenlandic lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron eng omacron obreve ohungarumlaut oe racute rcommaaccent rcaron sacute scircumflex scedilla scaron uni0163 tcaron tbar utilde umacron ubreve uring uhungarumlaut uogonek wcircumflex ycircumflex ydieresis zacute zdotaccent zcaron longs 
-	f.DEU l.CAT u.LAT ];
+	f.DEU l.CAT u.LAT
+	germandbls.alt1 germandbls.alt2 ];
 @SMALLCAPS = [ a.sc-z.sc 
 	 agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc ae.sc ccedilla.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc eth.sc ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc multiply.sc oslash.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc yacute.sc thorn.sc germandbls.sc divide.sc amacron.sc abreve.sc aogonek.sc cacute.sc ccircumflex.sc cdotaccent.sc ccaron.sc dcaron.sc dcroat.sc emacron.sc ebreve.sc edotaccent.sc eogonek.sc ecaron.sc gcircumflex.sc gbreve.sc gdotaccent.sc gcommaaccent.sc hcircumflex.sc hbar.sc itilde.sc imacron.sc ibreve.sc iogonek.sc i.TRKsc dotlessi.sc ij.sc jcircumflex.sc kcommaaccent.sc kgreenlandic.sc lacute.sc lcommaaccent.sc lcaron.sc ldot.sc lslash.sc nacute.sc ncommaaccent.sc ncaron.sc eng.sc omacron.sc obreve.sc ohungarumlaut.sc oe.sc racute.sc rcommaaccent.sc rcaron.sc sacute.sc scircumflex.sc scedilla.sc scaron.sc uni0163.sc tcaron.sc tbar.sc utilde.sc umacron.sc ubreve.sc uring.sc uhungarumlaut.sc uogonek.sc wcircumflex.sc ycircumflex.sc ydieresis.sc zacute.sc zdotaccent.sc zcaron.sc s.sc 
-	f.sc l.CATsc v.sc ];
+	f.sc l.CATsc v.sc
+	germandbls.sc1 germandbls.sc2 ];
 @C2SC_BASIS = [ @LETTERS ];
 @C2SC = [ A.sc-Z.sc
 	Agrave.sc Aacute.sc Acircumflex.sc Atilde.sc Adieresis.sc Aring.sc AE.sc Ccedilla.sc Egrave.sc Eacute.sc Ecircumflex.sc Edieresis.sc Igrave.sc Iacute.sc Icircumflex.sc Idieresis.sc Eth.sc Ntilde.sc Ograve.sc Oacute.sc Ocircumflex.sc Otilde.sc Odieresis.sc Oslash.sc Ugrave.sc Uacute.sc Ucircumflex.sc Udieresis.sc Yacute.sc Thorn.sc 
 	Amacron.sc Abreve.sc Aogonek.sc Cacute.sc Ccircumflex.sc Cdotaccent.sc Ccaron.sc Dcaron.sc Dcroat.sc Emacron.sc Ebreve.sc Edotaccent.sc Eogonek.sc Ecaron.sc Gcircumflex.sc Gbreve.sc Gdotaccent.sc Gcommaaccent.sc Hcircumflex.sc Hbar.sc Itilde.sc Imacron.sc Ibreve.sc Iogonek.sc Idotaccent.sc IJ.sc Jcircumflex.sc Kcommaaccent.sc Lacute.sc Lcommaaccent.sc Lcaron.sc Ldot.sc Lslash.sc Nacute.sc Ncommaaccent.sc Ncaron.sc Eng.sc Omacron.sc Obreve.sc Ohungarumlaut.sc OE.sc Racute.sc Rcommaaccent.sc Rcaron.sc Sacute.sc Scircumflex.sc Scedilla.sc Scaron.sc uni0162.sc Tcaron.sc Tbar.sc Utilde.sc Umacron.sc Ubreve.sc Uring.sc Uhungarumlaut.sc Uogonek.sc Wcircumflex.sc Ycircumflex.sc Ydieresis.sc Zacute.sc Zdotaccent.sc Zcaron.sc L.CATsc Q.sc V.sc ];
 	
-@SC_DIAC_BASIS = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni0309 uni030A uni030B uni030C uni0311 uni0312 uni0313 uni0314 uni0315 uni0342 uni0345
-gravecomb.stack acutecomb.stack uni0302.stack tildecomb.stack uni0304.stack  uni0306.stack uni0307.stack uni0309.stack uni030A.stack uni030C.stack 
+@SC_DIAC_BASIS = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni0311 uni0312 uni0313 uni0314 uni0315 uni0342 uni0345
+gravecomb.stack acutecomb.stack uni0302.stack tildecomb.stack uni0304.stack  uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack 
 gravecomb.grk acutecomb.grk uni0313.grk uni0314.grk 
 gravecomb.grkstack acutecomb.grkstack uni0308.grkstack uni0313.grkstack uni0314.grkstack uni0342.alt ];
 
-@SC_DIAC = [ gravecomb.sc acutecomb.sc uni0302.sc tildecomb.sc uni0304.sc uni0306.sc uni0307.sc uni0308.sc uni0309.sc uni030A.sc uni030B.sc uni030C.sc uni0311.sc uni0312.sc uni0313.sc uni0314.sc uni0315.sc uni0342.sc uni0345.sc 
-gravecomb.stacksc acutecomb.stacksc uni0302.stacksc tildecomb.stacksc uni0304.stacksc  uni0306.stacksc uni0307.stacksc uni0309.stacksc uni030A.stacksc uni030C.stacksc 
+@SC_DIAC = [ gravecomb.sc acutecomb.sc uni0302.sc tildecomb.sc uni0304.sc uni0306.sc uni0307.sc uni0308.sc hookabovecomb.sc uni030A.sc uni030B.sc uni030C.sc uni0311.sc uni0312.sc uni0313.sc uni0314.sc uni0315.sc uni0342.sc uni0345.sc 
+gravecomb.stacksc acutecomb.stacksc uni0302.stacksc tildecomb.stacksc uni0304.stacksc  uni0306.stacksc uni0307.stacksc hookabovecomb.stacksc uni030A.stacksc uni030C.stacksc 
 gravecomb.grksc acutecomb.grksc uni0313.grksc uni0314.grksc 
 gravecomb.grkstacksc acutecomb.grkstacksc uni0308.grkstacksc uni0313.grkstacksc uni0314.grkstacksc uni0342.altsc ];
 	
-@capdiacritics0 = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0311 uni0316 uni0317 uni0323 uni0324 uni0325 uni0327 uni0328 uni032C uni032D uni032E uni032F uni0330 uni0331 uni0306.cyr uni0345 ];
+@capdiacritics0 = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0311 uni0316 uni0317 dotbelowcomb uni0324 uni0325 uni0327 uni0328 uni032C uni032D uni032E uni032F uni0330 uni0331 uni0306.cyr uni0345 ];
 
-@capdiacritics1 = [ gravecomb.cap acutecomb.cap uni0302.cap tildecomb.cap uni0304.cap uni0306.cap uni0307.cap uni0308.cap uni030A.cap uni030B.cap uni030C.cap uni030F.cap uni0311.cap uni0316.cap uni0317.cap uni0323.cap uni0324.cap uni0325.cap uni0327.cap uni0328.cap uni032C.cap uni032D.cap uni032E.cap uni032F.cap uni0330.cap uni0331.cap uni0306.cyrcap uni0345.cap ];
+@capdiacritics1 = [ gravecomb.cap acutecomb.cap uni0302.cap tildecomb.cap uni0304.cap uni0306.cap uni0307.cap uni0308.cap uni030A.cap uni030B.cap uni030C.cap uni030F.cap uni0311.cap uni0316.cap uni0317.cap dotbelowcomb.cap uni0324.cap uni0325.cap uni0327.cap uni0328.cap uni032C.cap uni032D.cap uni032E.cap uni032F.cap uni0330.cap uni0331.cap uni0306.cyrcap uni0345.cap ];
 
-@abovediacritics = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni0309 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0306.cyr ];
+@abovediacritics = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0306.cyr ];

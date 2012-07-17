@@ -19,7 +19,7 @@ feature ss02 {
 } ss02;
 
 lookup longs_replacement {
-     sub s' [ @letters hyphen afii301 ] by longs;
+     sub s' [ @letters hyphen uni200D ] by longs;
 } longs_replacement;
 
 feature cv01 {
@@ -68,18 +68,17 @@ feature cv11 {
 } cv11;
 
 lookup germandbls_variants {
-    sub germandbls from [ germandbls germandbls.alt ];
-    sub germandbls.sc from [ germandbls.sc1 germandbls.sc ];
+    sub germandbls from [ germandbls.alt1 germandbls.alt2 ];
 } germandbls_variants;
 
 feature cv21 {
     lookup germandbls_variants;
 } cv21;
 
-lookup AE_alt {
-    sub AE by AE.alt;
-} AE_alt;
+#lookup AE_alt {
+#    sub AE by AE.alt;
+#} AE_alt;
 
-feature cv22 {
-    lookup AE_alt;
-} cv22;
+#feature cv22 {
+#    lookup AE_alt;
+#} cv22;
