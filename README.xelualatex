@@ -6,6 +6,14 @@ EB Garamond fonts are loaded through fontspec with
 
 This will load the appropriate fonts for the actual sizes, currently EBGaramond08* for sizes up to 10pt and EBGaramond12* from 10.1pt onwards.
 
-If you want to stay with one design size, you have to load its regular font and switch off optical sizees:
+If you want to stay with one design size, you have to load its regular font and switch off optical sizes:
 
 \setmainfont[OpticalSize=0]{EB Garamond 12 Regular}
+
+If you wish to use a specific font file, e.g. EB Garamond Italic:
+
+\setmainfont{EB Garamond 12 Italic}
+
+N.B. It is preferable to use the +c2sc and +scmp features for Small Caps, rather than the SC or ALLSC font files. 
+
+\newfontfamily{\smallcaps}[RawFeature={+c2sc,+scmp}]{EB Garamond}
