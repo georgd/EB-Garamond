@@ -1,0 +1,11 @@
+Short note about using XeLaTeX and LuaLatex with EB Garamond via fontspec.
+
+EB Garamond fonts are loaded through fontspec with
+
+\setmainfont{EB Garamond}
+
+This will load the appropriate fonts for the actual sizes, currently EBGaramond08* for sizes up to 10pt and EBGaramond12* from 10.1pt onwards.
+
+If you want to stay with one design size, you have to load its regular font and switch off optical sizees:
+
+\setmainfont[OpticalSize=0]{EB Garamond 12 Regular}
