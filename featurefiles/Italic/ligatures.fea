@@ -1,9 +1,9 @@
-feature dlig {
+feature hlig {
     sub s t  by uniFB06;
     sub c t  by c_t;
     sub s p by s_p;
     sub s k by s_k;
-} dlig;
+} hlig;
 
 lookup liga_standard {
     sub [ f f.DEU ] i  by uniFB01; # f_i
@@ -26,7 +26,6 @@ lookup liga_standard {
     sub longs longs i  by longs_longs_i;
     sub longs longs  by longs_longs;
     sub longs l  by longs_l;
-    sub T h  by T_h;
 #    sub c h  by c_h;
 #    sub c k  by c_k;
     sub longs s  by longs_s;
@@ -51,6 +50,10 @@ lookup liga_standard {
     sub Q y by Q_y;
 } liga_standard;
 
+feature dlig {
+    sub T h  by T_h;
+} dlig;
+
 lookup liga_final_s {
     ignore sub [ a e i u ]' s' [ @letters @letters_alt @ligatures hyphen ];
     sub a' s' by a_s;
@@ -59,9 +62,9 @@ lookup liga_final_s {
     sub u' s' by u_s;
 } liga_final_s;
 
-feature hlig {
+feature clig {
     lookup liga_final_s;
-} hlig;
+} clig;
 
 feature liga {
     lookup liga_standard;

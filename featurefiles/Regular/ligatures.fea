@@ -1,7 +1,7 @@
-feature dlig {
+feature hlig {
     sub s t  by s_t;
     sub c t  by c_t;
-} dlig;
+} hlig;
 
 lookup liga_standard {
     sub [ f f.DEU ] i  by f_i;
@@ -54,6 +54,6 @@ lookup Th_lig {
     sub T h  by T_h;
 } Th_lig;
 
-feature ss07 {
+feature dlig {
     lookup Th_lig;
-} ss07;
+} dlig;
