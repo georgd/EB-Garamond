@@ -1,6 +1,6 @@
 
 StartChar: T_h
-Encoding: 65545 -1 1053
+Encoding: 1114121 -1 1053
 Width: 1044
 VWidth: 0
 Flags: W
@@ -56,6 +56,6 @@ SplineSet
  707 581 676 604 616 604 c 0xb8
 EndSplineSet
 Validated: 33
-Ligature2: "liga_standard subtable" T h
+Ligature2: "'dlig' optionale Ligaturen lookup 50 subtable" T h
 LCarets2: 1 538 
 EndChar

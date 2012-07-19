@@ -1,6 +1,6 @@
 
 StartChar: phi
-Encoding: 966 966 2186
+Encoding: 966 966 2184
 Width: 598
 VWidth: 2048
 Flags: W
@@ -82,4 +82,5 @@ SplineSet
  33 306 178 414 334 414 c 16
 EndSplineSet
 Validated: 5
+Substitution2: "Smallcaps subtable" phi.sc
 EndChar

@@ -3,12 +3,10 @@ StartChar: uni1E7C
 Encoding: 7804 7804 476
 Width: 672
 VWidth: 0
-Flags: W
-HStem: -15 21<313.5 323> 620 33<1.64938 63.9711 204.045 280.926 408.06 481.202 603.579 676.313> 722 55<264.706 427.222> 732 54<222.779 383.794>
-VStem: 185 280
+Flags: H
 LayerCount: 3
 Fore
-Refer: 987 -1 N 1 0 0 1 180 7 2
+Refer: 987 -1 N 1 0 0 1 180 0 2
 Refer: 37 86 N 1 0 0 1 0 0 3
-Validated: 1
+MultipleSubs2: "CCMP_Precomp subtable" V tildecomb.cap
 EndChar

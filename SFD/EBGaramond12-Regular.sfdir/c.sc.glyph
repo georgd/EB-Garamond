@@ -3,10 +3,12 @@ StartChar: c.sc
 Encoding: 1114675 -1 1674
 Width: 560
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 35<268.172 410.316> 427 31<257.542 413.635>
 VStem: 60 90<137.876 314.032> 466 30<320.351 375.341>
-AnchorPoint: "top_accent" 302 615 basechar 0
+AnchorPoint: "cedilla" 365 8 basechar 0
+AnchorPoint: "below_accent" 330 -100 basechar 0
+AnchorPoint: "top_accent" 322 615 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -26,6 +28,5 @@ SplineSet
  188 -14 60 83 60 222 c 0
  60 364 196 458 338 458 c 0
 EndSplineSet
-Validated: 1
 Comment: "." 
 EndChar

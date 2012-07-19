@@ -3,9 +3,7 @@ StartChar: egrave
 Encoding: 232 232 151
 Width: 389
 VWidth: 982
-Flags: HW
-HStem: -8 68<168.829 299.074> 258 46<127.109 281.698> 384 46<161.139 272.609> 490 193
-VStem: 22 84<131.117 257.816> 107 157 283 87<305.087 372.712>
+Flags: H
 LayerCount: 2
 Fore
 Refer: 265 768 N 1 0 0 1 99 0 2
@@ -15,4 +13,5 @@ Substitution2: "sups subtable" egrave.sups
 Substitution2: "sinf subtable" egrave.sinf
 Substitution2: "ordn subtable" egrave.ordn
 Substitution2: "subs subtable" egrave.subs
+MultipleSubs2: "CCMP_Precomp subtable" e gravecomb
 EndChar

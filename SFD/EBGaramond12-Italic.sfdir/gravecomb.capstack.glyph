@@ -1,8 +1,8 @@
 
 StartChar: gravecomb.capstack
-Encoding: 66460 -1 2444
-Width: 1000
-Flags: W
+Encoding: 1115034 -1 2442
+Width: 0
+Flags: HW
 HStem: 755 55<18.8593 77.8273>
 VStem: 5 160
 AnchorPoint: "gravestack" 170 710 mark 0
@@ -19,5 +19,4 @@ SplineSet
  95 786 142 745 157 731 c 0
  163 725 165 721 165 716 c 0
 EndSplineSet
-Validated: 1
 EndChar

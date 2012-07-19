@@ -1,6 +1,6 @@
 
 StartChar: uni0342
-Encoding: 834 834 2104
+Encoding: 834 834 2102
 Width: 0
 VWidth: 0
 Flags: W
@@ -23,4 +23,5 @@ SplineSet
  72 525 48 488 40 488 c 0x60
 EndSplineSet
 Validated: 1
+Substitution2: "Smallcaps subtable" uni0342.sc
 EndChar

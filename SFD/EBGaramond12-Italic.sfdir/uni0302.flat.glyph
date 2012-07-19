@@ -1,9 +1,9 @@
 
 StartChar: uni0302.flat
-Encoding: 66411 -1 2110
+Encoding: 1114985 -1 2108
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 562 130
 VStem: 10 240
 AnchorPoint: "top_accent" 170 678 mark 0
@@ -24,5 +24,4 @@ SplineSet
  170 625 l 2
  167 629 164 627 159 625 c 2
 EndSplineSet
-Validated: 1
 EndChar

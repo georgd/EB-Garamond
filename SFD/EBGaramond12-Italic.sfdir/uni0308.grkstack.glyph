@@ -1,7 +1,7 @@
 
 StartChar: uni0308.grkstack
-Encoding: 66446 -1 2368
-Width: 271
+Encoding: 1115020 -1 2366
+Width: 0
 VWidth: 0
 Flags: W
 HStem: 524 100<23.7711 87.2976 174.771 238.298>
@@ -22,5 +22,5 @@ SplineSet
  25 524 10 543 10 563 c 8
  10 595 34 624 66 624 c 16
 EndSplineSet
-Validated: 1
+Substitution2: "Smallcaps subtable" uni0308.grkstacksc
 EndChar

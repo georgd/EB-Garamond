@@ -1,6 +1,6 @@
 
 StartChar: sigma1
-Encoding: 962 962 2182
+Encoding: 962 962 2180
 Width: 337
 VWidth: 2048
 Flags: W
@@ -4450,4 +4450,5 @@ SplineSet
  325 413 350 396 350 365 c 0xdc
 EndSplineSet
 Validated: 33
+Substitution2: "Smallcaps subtable" sigma1.sc
 EndChar

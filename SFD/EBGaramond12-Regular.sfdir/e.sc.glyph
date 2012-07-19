@@ -3,9 +3,11 @@ StartChar: e.sc
 Encoding: 1114677 -1 1676
 Width: 480
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -3 28<30.2309 96.6023> 3 36<196.246 378.677> 211 33<196.154 313.15> 410 41<195 360.358> 422 31<38.5723 99.9129>
 VStem: 120 75<40.3738 209.529 244 407.586> 322 28<156.894 200.255 253.5 297.886> 411 24<77.1074 111.748>
+AnchorPoint: "ogonek" 368 18 basechar 0
+AnchorPoint: "below_accent" 258 -100 basechar 0
 AnchorPoint: "top_accent" 247 615 basechar 0
 LayerCount: 3
 Back
@@ -1016,6 +1018,5 @@ SplineSet
  38 449 51 453 58 453 c 0
  97 453 116 448 151 448 c 0xaf
 EndSplineSet
-Validated: 1
 Comment: "." 
 EndChar

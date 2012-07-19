@@ -1,6 +1,6 @@
 
 StartChar: s_k
-Encoding: 66433 -1 2164
+Encoding: 1115007 -1 2162
 Width: 765
 Flags: W
 HStem: -21 60<569.823 627.638> -14 48<22 130.035> 178 25<431 473> 372 42<595.026 677.757> 609 49<315.967 483.596> 629 77<541.81 588.339> 629 49<239.815 421.679>
@@ -64,6 +64,6 @@ SplineSet
  484 615 l 1
 EndSplineSet
 Validated: 33
-Ligature2: "'dlig' optionale Ligaturen lookup 49 subtable" s k
+Ligature2: "'hlig' Historic Ligatures lookup 48 subtable" s k
 LCarets2: 1 286 
 EndChar

@@ -1,6 +1,6 @@
 
 StartChar: upsilon
-Encoding: 965 965 2185
+Encoding: 965 965 2183
 Width: 486
 VWidth: 2048
 Flags: W
@@ -7622,4 +7622,5 @@ SplineSet
  104 176 157 279 157 294 c 0xbc
 EndSplineSet
 Validated: 1
+Substitution2: "Smallcaps subtable" upsilon.sc
 EndChar

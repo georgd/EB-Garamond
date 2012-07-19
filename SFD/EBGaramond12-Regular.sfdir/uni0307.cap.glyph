@@ -6,9 +6,9 @@ VWidth: 0
 Flags: W
 HStem: 695 110<16.8467 103.153>
 VStem: 5 110<706.847 793.153>
+AnchorPoint: "top_accent" 60 710 mark 0
 AnchorPoint: "top_stack" 60 725 mark 0
 AnchorPoint: "top_stack" 60 830 basemark 0
-AnchorPoint: "top_accent" 60 710 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -19,4 +19,5 @@ SplineSet
  5 780 30 805 60 805 c 24
 EndSplineSet
 Validated: 1
+Substitution2: "c2sc subtable" uni0307.sc
 EndChar

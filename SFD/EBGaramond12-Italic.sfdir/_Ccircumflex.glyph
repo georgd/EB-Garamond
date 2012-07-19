@@ -3,13 +3,13 @@ StartChar: Ccircumflex
 Encoding: 264 264 187
 Width: 622
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 37<315.982 450.038> 628 35<422.993 591.501> 709 126
 VStem: 96 84<142.219 360.884> 399 291<713 723> 622 33<467.178 536.318>
 LayerCount: 2
 Fore
-Refer: 2081 -1 N 1 0 0 1 394 20 2
+Refer: 2079 -1 N 1 0 0 1 394 20 2
 Refer: 32 67 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "c2sc subtable" Ccircumflex.sc
+MultipleSubs2: "CCMP_Precomp subtable" C uni0302.cap
 EndChar

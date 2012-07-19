@@ -7,7 +7,7 @@ Flags: W
 HStem: -3 27<20.0556 71.3797 166.237 215.003 296.997 345.313 441.734 491.003> 362 52<228.693 321.254> 685 20G<155 159>
 VStem: 85 70<32.0327 335.273 351.291 626.703> 358 70<31.9098 325.919>
 AnchorPoint: "below_accent" 231 -100 basechar 0
-AnchorPoint: "top_accent" 242 710 basechar 0
+AnchorPoint: "top_accent" 242 761 basechar 0
 LayerCount: 3
 Back
 Image: 128 236 2 384 0 ffffffff -114 837.618 5.51562 5.54076 0
@@ -1596,7 +1596,6 @@ SplineSet
  379 414 428 356 428 278 c 2
  428 68 l 2
 EndSplineSet
-Validated: 1
 Substitution2: "Smallcaps subtable" h.sc
 Substitution2: "sups subtable" h.sups
 Substitution2: "sinf subtable" h.sinf

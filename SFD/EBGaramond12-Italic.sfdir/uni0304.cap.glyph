@@ -1,8 +1,8 @@
 
 StartChar: uni0304.cap
-Encoding: 66386 -1 2083
+Encoding: 1114960 -1 2081
 Width: 0
-Flags: W
+Flags: HW
 HStem: 723 49<7.58398 287.071>
 VStem: 5 285<724.987 771.82>
 AnchorPoint: "top_stack" 155 706 mark 0
@@ -19,5 +19,4 @@ SplineSet
  12 723 5 729 5 735 c 0
  5 744 10 772 29 772 c 2
 EndSplineSet
-Validated: 1
 EndChar

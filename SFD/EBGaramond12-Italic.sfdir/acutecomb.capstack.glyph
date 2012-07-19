@@ -1,8 +1,8 @@
 
 StartChar: acutecomb.capstack
-Encoding: 66459 -1 2387
-Width: 1000
-Flags: W
+Encoding: 1115033 -1 2385
+Width: 0
+Flags: HW
 HStem: 755 55<92.1727 151.141>
 VStem: 5 160
 AnchorPoint: "acutestack" 0 710 mark 0
@@ -19,5 +19,4 @@ SplineSet
  27 711 18 710 15 710 c 0
  10 710 5 712 5 716 c 0
 EndSplineSet
-Validated: 1
 EndChar

@@ -6,9 +6,9 @@ VWidth: 0
 Flags: W
 HStem: 715 55<84.7056 247.222> 725 54<42.7787 203.794>
 VStem: 5 280
+AnchorPoint: "top_accent" 143 710 mark 0
 AnchorPoint: "top_stack" 143 706 mark 0
 AnchorPoint: "top_stack" 143 820 basemark 0
-AnchorPoint: "top_accent" 143 710 mark 0
 LayerCount: 3
 Back
 SplineSet
@@ -38,4 +38,5 @@ SplineSet
  285 764 229 715 202 715 c 0xa0
 EndSplineSet
 Validated: 1
+Substitution2: "c2sc subtable" tildecomb.sc
 EndChar

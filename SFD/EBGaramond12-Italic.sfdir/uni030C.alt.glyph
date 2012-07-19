@@ -1,9 +1,9 @@
 
 StartChar: uni030C.alt
-Encoding: 66419 -1 2150
+Encoding: 1114993 -1 2148
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 430 185
 VStem: 134 67<522.769 596.418>
 AnchorPoint: "topleft" 169 552 mark 0
@@ -20,5 +20,4 @@ SplineSet
  99 430 98 432 98 436 c 0
  98 441 101 446 104 453 c 0
 EndSplineSet
-Validated: 1
 EndChar

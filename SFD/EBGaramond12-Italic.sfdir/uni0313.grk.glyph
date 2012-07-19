@@ -1,9 +1,9 @@
 
 StartChar: uni0313.grk
-Encoding: 66447 -1 2369
-Width: 199
+Encoding: 1115021 -1 2367
+Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 426 21G<180 206> 568 78<218.909 269.185>
 VStem: 210 117<569.189 632.522>
 AnchorPoint: "grk_hstack" 130 640 basemark 0
@@ -21,5 +21,5 @@ SplineSet
  226 456 257 488 269 518 c 0
  278 540 270 566 241 568 c 0
 EndSplineSet
-Validated: 33
+Substitution2: "Smallcaps subtable" uni0313.grksc
 EndChar

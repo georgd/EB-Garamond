@@ -2,9 +2,11 @@
 StartChar: hookabovecomb.cap
 Encoding: 1115048 -1 2113
 Width: 0
-Flags: W
+Flags: HW
 HStem: 683 21G<89.5 101> 812 37<58.0961 113.915>
 VStem: 68 48<684.437 726.169> 116 61<751.21 811.33>
+AnchorPoint: "top_accent" 99 700 mark 0
+AnchorPoint: "hookstack" 53 712 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19,7 +21,7 @@ SplineSet
  126 685 106 683 96 683 c 0
  83 683 68 704 68 718 c 0xe0
  68 730 70 741 92 750 c 0
- 106 756 116 764 116 785 c 4
+ 106 756 116 764 116 785 c 0
  116 798 103 812 91 812 c 0
  72 812 56 796 43 770 c 0
  40 764 35 771 29 771 c 0xd0

@@ -3,13 +3,13 @@ StartChar: uni0162
 Encoding: 354 354 261
 Width: 635
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -271 38<146.861 225.146> -5 27<120.496 198.158 343.086 401.807> 607 35<196.229 388.493 469.995 669.037>
 VStem: 169 66<-113.147 -54.0781> 228 66<-221.632 -162.745> 681 25<497.114 565.375>
 LayerCount: 2
 Fore
-Refer: 2095 -1 N 1 0 0 1 105 2 2
+Refer: 2093 -1 N 1 0 0 1 105 2 2
 Refer: 34 84 N 1 0 0 1 0 0 3
-Validated: 5
 Substitution2: "c2sc subtable" uni0162.sc
+MultipleSubs2: "CCMP_Precomp subtable" T uni0327.cap
 EndChar

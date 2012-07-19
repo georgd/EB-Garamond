@@ -1,6 +1,6 @@
 
 StartChar: seven.tablining
-Encoding: 65584 -1 1111
+Encoding: 1114160 -1 1111
 Width: 445
 VWidth: 0
 Flags: W
@@ -29,6 +29,6 @@ SplineSet
  530 541 l 2
 EndSplineSet
 Validated: 33
-Substitution2: "'pnum' Proportionalziffern lookup 46 subtable" seven.lnum
-Substitution2: "'onum' Minuskelziffern lookup 44 subtable" seven.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 45 subtable" seven.lnum
+Substitution2: "'onum' Minuskelziffern lookup 43 subtable" seven.taboldstyle
 EndChar

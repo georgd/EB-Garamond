@@ -6,8 +6,8 @@ VWidth: 0
 Flags: W
 HStem: 685 153
 VStem: 6 167
-AnchorPoint: "top_stack" 127 710 mark 0
 AnchorPoint: "top_accent" 135 710 mark 0
+AnchorPoint: "top_stack" 127 710 mark 0
 LayerCount: 3
 Back
 SplineSet
@@ -43,4 +43,5 @@ SplineSet
  173 688 171 685 167 685 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "c2sc subtable" gravecomb.sc
 EndChar

@@ -1,8 +1,8 @@
 
-StartChar: uni0309.cap
-Encoding: 66458 -1 2385
+StartChar: hookabovecomb.cap
+Encoding: 1115032 -1 2383
 Width: 0
-Flags: W
+Flags: HW
 HStem: 701 21G<89.5 101> 822 27<62.9029 113.665>
 VStem: 68 41<703.245 743.709> 116 61<769.018 821.619>
 AnchorPoint: "top_accent" 91 710 mark 0
@@ -26,5 +26,4 @@ SplineSet
  72 822 56 806 43 780 c 0
  40 774 35 771 29 771 c 0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,6 +1,6 @@
 
 StartChar: epsilon
-Encoding: 949 949 2173
+Encoding: 949 949 2171
 Width: 291
 VWidth: 2048
 Flags: W
@@ -7626,4 +7626,5 @@ SplineSet
  303 116 303 104 303 86 c 0xe8
 EndSplineSet
 Validated: 1
+Substitution2: "Smallcaps subtable" epsilon.sc
 EndChar

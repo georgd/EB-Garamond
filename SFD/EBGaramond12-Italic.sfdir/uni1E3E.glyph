@@ -3,12 +3,10 @@ StartChar: uni1E3E
 Encoding: 7742 7742 415
 Width: 1004
 VWidth: 0
-Flags: W
-HStem: -14 21<402.5 407> -3 29<-27.3379 57.0534 162.354 215.807 637.461 721.206 885.974 946.749> 622 36<288.205 395.775 1032.98 1136.79> 697 153
-VStem: 693 167
+Flags: H
 LayerCount: 2
 Fore
-Refer: 2080 -1 N 1 0 0 1 687 0 2
+Refer: 2572 -1 N 1 0 0 1 687 0 2
 Refer: 27 77 N 1 0 0 1 0 0 3
-Validated: 1
+MultipleSubs2: "CCMP_Precomp subtable" M acutecomb.cap
 EndChar

@@ -1,6 +1,6 @@
 
 StartChar: iota
-Encoding: 953 953 2177
+Encoding: 953 953 2175
 Width: 189
 VWidth: 2048
 Flags: W
@@ -5521,4 +5521,5 @@ SplineSet
  177 152 180 144 180 124 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "Smallcaps subtable" iota.sc
 EndChar

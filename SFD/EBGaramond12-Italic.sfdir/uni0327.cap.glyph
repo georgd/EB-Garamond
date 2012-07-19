@@ -1,9 +1,9 @@
 
 StartChar: uni0327.cap
-Encoding: 66398 -1 2095
+Encoding: 1114972 -1 2093
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -273 38<41.8611 120.146>
 VStem: 64 66<-115.147 -56.0781> 123 66<-223.632 -164.745>
 AnchorPoint: "cedilla" 185 16 mark 0
@@ -22,5 +22,4 @@ SplineSet
  110 -235 123 -217 123 -207 c 0xa0
  123 -165 64 -150 64 -100 c 0xc0
 EndSplineSet
-Validated: 1
 EndChar
