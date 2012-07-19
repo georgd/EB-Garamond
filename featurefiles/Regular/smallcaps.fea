@@ -13,6 +13,7 @@ lookup c2sc {
     sub uni0345.cap2 by uni0345.sc1;
     sub @GRKLETTERS by @GRKSC;
     sub @GRKACCENTED by @GRKACCENTEDSC;
+    sub @capdiacritics1 by @capdiacritics_sc;
 } c2sc;
 
 feature smcp {

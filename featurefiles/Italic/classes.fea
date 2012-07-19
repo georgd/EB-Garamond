@@ -10,10 +10,24 @@
 
 @Letters = [ @LETTERS @letters @letters_alt @ligatures ];
 
+@grkletters = [ alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega ];
+
+@grkaccented = [ alphatonos epsilontonos etatonos iotatonos omicrontonos upsilontonos omegatonos iotadieresistonos iotadieresis upsilondieresis upsilondieresistonos ];
+
+@GRKLETTERS = [ Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega ];
+
+@GRKACCENTED = [ Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis ];
+
+@GrkLetters = [ @GRKLETTERS @grkletters @GRKACCENTED @grkaccented ];
+
+@grksc = [ alpha.sc beta.sc gamma.sc delta.sc epsilon.sc zeta.sc eta.sc theta.sc iota.sc kappa.sc lambda.sc mu.sc nu.sc xi.sc omicron.sc pi.sc rho.sc sigma.sc tau.sc upsilon.sc phi.sc chi.sc psi.sc omega.sc ];
+@grkaccentedsc = [ alphatonos.sc epsilontonos.sc etatonos.sc iotatonos.sc omicrontonos.sc upsilontonos.sc omegatonos.sc iotadieresistonos.sc iotadieresis.sc upsilondieresis.sc upsilondieresistonos.sc ];
+@GRKSC = [ Alpha.sc Beta.sc Gamma.sc Delta.sc Epsilon.sc Zeta.sc Eta.sc Theta.sc Iota.sc Kappa.sc Lambda.sc Mu.sc Nu.sc Xi.sc Omicron.sc Pi.sc Rho.sc Sigma.sc Tau.sc Upsilon.sc Phi.sc Chi.sc Psi.sc Omega.sc ];
+@GRKACCENTEDSC = [ Alphatonos.sc Epsilontonos.sc Etatonos.sc Iotatonos.sc Omicrontonos.sc Upsilontonos.sc Omegatonos.sc Iotadieresis.sc Upsilondieresis.sc ];
+
 @vocalsGRK = [ alpha epsilon eta iota omicron upsilon omega ];
 @VOCALSGRK = [ Alpha Epsilon Eta Iota Omicron Upsilon Omega ];
 @VocalsGRK = [ @vocalsGRK @VOCALSGRK ];
-
 
 @DIGITS = [zero one two three four five six seven eight nine];
 @DIGITS_SUBS = [ zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs ];
@@ -65,3 +79,13 @@
 
 @SWASH_BASIS = [ A-Z Q.long V.01 W.01 ];
 @SWASH = [ A.sw-Z.sw Q.swlong V.sw W.sw ];
+
+@SC_DIAC_BASIS = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni0311 uni0312 uni0313 uni0314 uni0315 uni0342 uni0345
+gravecomb.stack acutecomb.stack uni0302.stack tildecomb.stack uni0304.stack  uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack 
+gravecomb.grk acutecomb.grk uni0313.grk uni0314.grk 
+gravecomb.grkstack acutecomb.grkstack uni0308.grkstack uni0313.grkstack uni0314.grkstack uni0342.alt ];
+
+@SC_DIAC = [ gravecomb.sc acutecomb.sc uni0302.sc tildecomb.sc uni0304.sc uni0306.sc uni0307.sc uni0308.sc hookabovecomb.sc uni030A.sc uni030B.sc uni030C.sc uni0311.sc uni0312.sc uni0313.sc uni0314.sc uni0315.sc uni0342.sc uni0345.sc 
+gravecomb.stacksc acutecomb.stacksc uni0302.stacksc tildecomb.stacksc uni0304.stacksc  uni0306.stacksc uni0307.stacksc hookabovecomb.stacksc uni030A.stacksc uni030C.stacksc 
+gravecomb.grksc acutecomb.grksc uni0313.grksc uni0314.grksc 
+gravecomb.grkstacksc acutecomb.grkstacksc uni0308.grkstacksc uni0313.grkstacksc uni0314.grkstacksc uni0342.altsc ];
