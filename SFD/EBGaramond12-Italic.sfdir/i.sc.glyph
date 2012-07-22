@@ -6,7 +6,7 @@ VWidth: 0
 Flags: W
 HStem: -3 24<53 88.3062 206.87 237.905> 432 20G<183.913 208.5 342 353.913>
 VStem: 45 315
-AnchorPoint: "top_accent" 166 580 basechar 0
+AnchorPoint: "top_accent" 291 580 basechar 0
 LayerCount: 2
 Back
 Image: 110 180 2 330 0 ffffffff -230 804 6.12641 6.17778 0
@@ -1025,6 +1025,5 @@ SplineSet
  336 422 322 417 306 404 c 1
  297 398 289 389 285 377 c 2
 EndSplineSet
-Validated: 33
 Comment: "." 
 EndChar
