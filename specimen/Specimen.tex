@@ -15,6 +15,8 @@ bulgarian,slovenian,vietnamese,greek%
 
 \setmainfont{EB Garamond}
 
+\usepackage{realscripts}
+
 \usepackage{multicol}
 \usepackage{sectsty}
 \allsectionsfont{\rmfamily}
@@ -249,7 +251,9 @@ There are four positions for optically sized Sub- and Superscripts, accessed by 
 \paragraph*{Subscript (subs)} l{\addfontfeature{RawFeature=+subs}abcdefghijklmnopqrstuvwxyz0123456789}x
 \paragraph*{Ordinals (ordn)} l{\addfontfeature{RawFeature=+ordn}abcdefghijklmnopqrstuvwxyz0123456789}x
 \paragraph*{Superscript (sups)} l{\addfontfeature{RawFeature=+sups}abcdefghijklmnopqrstuvwxyz0123456789}x
-
+\\
+\setlength\subsupersep{1pt}
+Combination of Sub- and Superscript: \textsubsuperscript[r]{92}{235}U
 \subsection{Small Caps}
 The features \texttt{smcp} and \texttt{c2sc} replace lower and uppercase glyphs by their smallcap equivalents:
 \paragraph*{smcp:} \textsc{Tramway, Straßenbahn, Métro}
@@ -268,8 +272,8 @@ The feature \texttt{calt} (should be on by default) controls the behaviour of co
 The long tailed Q is managed by this feature too: Qui, Quis, Quo, \textsc{Shqipëria}, IRAQ, 
 
 \subsection{Swash}
-The italic font will have a full set of swash capitals, accessible via the \texttt{swsh}: \\\textit{\addfontfeature{RawFeature=+swsh}ABCDEFGHIJKLMNOPQQRSTUVWXYZ}
-
+The italic font will have a full set of swash capitals, accessible via the \texttt{swsh}: \\\textit{\addfontfeature{RawFeature=+swsh}ABCDEFGHIJKLMNOPQQRSTUVWXYZ\\
+\scriptsize ABCDEFGHIJKLMNOPQQRSTUVWXYZ}
 \subsection{Character Variants and Stylistic Sets}
 There are alternate representations for some glyphs, accessible via Character Variants (\texttt{cv01–cv99}) and as Stylistic Sets (\texttt{ss01–ss20}):
 
