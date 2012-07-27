@@ -1,5 +1,5 @@
 NAME=EBGaramond
-VERSION=0.014c
+VERSION=0.014d
 
 SRC=SFD
 BLD=build
@@ -16,7 +16,7 @@ SFNTTOOL=sfnttool.jar
 #SIZES=08 12
 #STYLES=Regular SC Allsc Italic Bold
 #SPECIAL=Initials InitialsF1 InitialsF2
-FONTS=08-Regular 12-Regular 12-SC 12-AllSC 12-Italic 12-Bold -Initials -InitialsF1 -InitialsF2 08-Italic 08-SC
+FONTS=08-Regular 12-Regular 12-SC 12-AllSC 12-Italic  -Initials -InitialsF1 -InitialsF2  08-SC # 08-Italic 12-Bold
 
 SFD=$(FONTS:%=$(SRC)/$(NAME)%.sfdir)
 OTF=$(FONTS:%=$(BLD)/$(NAME)%.otf)
@@ -67,13 +67,13 @@ dpack: $(OTF) $(TTF)
 	@cp $(OTF) $(PACK)/otf
 	@cp $(TTF) $(PACK)/ttf
 	@cp $(PDF) $(SPEC)/Specimen.pdf  $(PACK)/specimen
-	@cp README COPYING $(PACK)
+	@cp README.markdown README.xelualatex COPYING $(PACK)
 	@zip -r $(PACK).zip $(PACK)
 
 wpack: $(WOF) $(EOT)
 	@echo "Packing webfonts to zipfile"
 	@mkdir -p $(WPCK)
-	@cp $(WOF) $(EOT) README COPYING $(WPCK)
+	@cp $(WOF) $(EOT) README.markdown COPYING $(WPCK)
 	@zip -r $(WPCK).zip $(WPCK)
 
 dist: $(OTF) $(TTF)
@@ -88,7 +88,7 @@ dist: $(OTF) $(TTF)
 	@cp $(WOF) $(EOT) $(DIST)/$(WEB)
 	@cp $(PDF) $(SPEC)/Specimen.pdf $(DIST)/$(SPEC)
 	@cp $(SCRIPT) $(DIST)/tools
-	@cp Makefile README COPYING $(DIST)
+	@cp Makefile README.markdown README.xelualatex COPYING $(DIST)
 	@zip -r $(DIST).zip $(DIST)
 
 cleanpack:
