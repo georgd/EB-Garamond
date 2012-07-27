@@ -11,14 +11,15 @@ For the use with Xe- and LuaLaTeX I’m working on a configuration for mycrotype
 
 - EBGaramond12-Regular: Regular font for design size 12pt
 - EBGaramond12-Italic: Italic font for design size 12pt
-- EBGaramond12-Bold: Bold font for design size 12pt (very rough!)
+- EBGaramond12-Bold: Bold font for design size 12pt (very rough/unusable; not included in releases)
 - EBGaramond08-Regular: Regular font for design size 8pt
 - EBGaramond12-SC: Smallcaps font for programs that ignore opentype features (12pt)
 - EBGaramond12-AllSC: All smallcaps font for programs that ignore opentype features
 - EBGaramond08-SC: Smallcaps font for programs that ignore opentype features (8pt)
 - EBGaramond-Initials: Initials
-- EBGaramond-InitialsF1: Background of initials
+- EBGaramond-InitialsF1: Background (the ornament) of initials
 - EBGaramond-InitialsF2: Foreground (the letter) of initials
+- EBGaramond-Lettrines: Workbench for Initials fonts (not included in releases)
 
 This is a work in progress, so expect bugs! The qualitiy of the fonts still varies widely! You can see every font’s current state in its *-Glyphs.pdf file in the specimen section.
 
