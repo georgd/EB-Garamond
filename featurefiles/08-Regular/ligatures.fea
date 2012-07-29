@@ -50,10 +50,7 @@ feature liga {
     lookup liga_standard;
 } liga;
 
-lookup Th_lig {
-    sub T h  by T_h;
-} Th_lig;
-
 feature dlig {
-    lookup Th_lig;
+    sub T h by T_h;
 } dlig;
+
