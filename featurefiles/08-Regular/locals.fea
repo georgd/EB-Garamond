@@ -1,4 +1,3 @@
-
 lookup loclDEU {
     sub \Adieresis by \Adieresis.deu ;
     sub \Odieresis by \Odieresis.deu ;
@@ -45,7 +44,7 @@ feature locl {
       lookup loclCAT;
      language LAT  exclude_dflt;
       lookup loclLAT;
-      lookup LATliga;
+#     lookup LATliga;
   script cyrl;
      language SRB  exclude_dflt;
       lookup loclSRB;
