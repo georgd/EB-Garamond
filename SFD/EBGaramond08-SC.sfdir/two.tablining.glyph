@@ -30,6 +30,6 @@ SplineSet
  341 595 408 517 408 426 c 0
  408 350 379 306 332 249 c 0
 EndSplineSet
-Substitution2: "'pnum' Proportionalziffern lookup 32 subtable" two.lnum
-Substitution2: "'onum' Minuskelziffern lookup 30 subtable" two.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" two.lnum
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" two.taboldstyle
 EndChar

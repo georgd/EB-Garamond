@@ -24,6 +24,6 @@ SplineSet
  353 483 309 559 232 559 c 0
  157 559 140 460 140 385 c 0
 EndSplineSet
-Substitution2: "'pnum' Proportionalziffern lookup 32 subtable" nine.lnum
-Substitution2: "'onum' Minuskelziffern lookup 30 subtable" nine.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" nine.lnum
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" nine.taboldstyle
 EndChar

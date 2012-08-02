@@ -25,6 +25,6 @@ SplineSet
  357 251 292 316 222 316 c 0
  171 316 142 279 142 235 c 0
 EndSplineSet
-Substitution2: "'pnum' Proportionalziffern lookup 32 subtable" six.lnum
-Substitution2: "'onum' Minuskelziffern lookup 30 subtable" six.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" six.lnum
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" six.taboldstyle
 EndChar

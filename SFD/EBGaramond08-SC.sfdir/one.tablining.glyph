@@ -26,6 +26,6 @@ SplineSet
  225 580 224 557 224 529 c 2
  224 129 l 2
 EndSplineSet
-Substitution2: "'pnum' Proportionalziffern lookup 32 subtable" one.lnum
-Substitution2: "'onum' Minuskelziffern lookup 30 subtable" one.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" one.lnum
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" one.taboldstyle
 EndChar

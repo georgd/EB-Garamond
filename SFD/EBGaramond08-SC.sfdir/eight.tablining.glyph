@@ -32,6 +32,6 @@ SplineSet
  213 257 207 260 201 260 c 0
  198 260 194 258 189 254 c 0
 EndSplineSet
-Substitution2: "'pnum' Proportionalziffern lookup 32 subtable" eight.lnum
-Substitution2: "'onum' Minuskelziffern lookup 30 subtable" eight.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" eight.lnum
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" eight.taboldstyle
 EndChar

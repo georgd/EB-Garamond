@@ -18,6 +18,6 @@ SplineSet
  115 -10 41 148 41 296 c 0
  41 448 113 595 261 595 c 0
 EndSplineSet
-Substitution2: "'pnum' Proportionalziffern lookup 32 subtable" zero.lnum
-Substitution2: "'onum' Minuskelziffern lookup 30 subtable" zero.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" zero.lnum
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" zero.taboldstyle
 EndChar

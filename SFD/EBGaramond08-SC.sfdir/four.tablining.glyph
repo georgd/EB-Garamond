@@ -42,6 +42,6 @@ SplineSet
  188 30 221 32 243 42 c 0
  277 57 298 65 298 100 c 2xb8
 EndSplineSet
-Substitution2: "'pnum' Proportionalziffern lookup 32 subtable" four.lnum
-Substitution2: "'onum' Minuskelziffern lookup 30 subtable" four.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" four.lnum
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" four.taboldstyle
 EndChar

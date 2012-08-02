@@ -24,6 +24,6 @@ SplineSet
  42 -7 61 6 78 6 c 0
  192 6 280 81 280 187 c 0
 EndSplineSet
-Substitution2: "'pnum' Proportionalziffern lookup 32 subtable" five.lnum
-Substitution2: "'onum' Minuskelziffern lookup 30 subtable" five.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" five.lnum
+Substitution2: "'onum' Minuskelziffern lookup 31 subtable" five.taboldstyle
 EndChar
