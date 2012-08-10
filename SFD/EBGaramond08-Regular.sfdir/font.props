@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1339019456
-ModificationTime: 1343892490
+ModificationTime: 1344599447
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -180,7 +180,7 @@ EndFPST
 ChainSub2: coverage "historic_apostrophe subtable"  0 0 0 1
  1 0 1
   Coverage: 10 quoteright
-  FCoverage: 221 a c e g m n o p q r s u v w x y z ae ccedilla aogonek eogonek dotlessi kgreenlandic eng oe rcommaaccent scedilla uogonek uni01dd uni01e5 oogonek scommaaccent uni0229 dotlessj u.LAT u.LATmedi v.LAT v.LATmedi germandbls.alt
+  FCoverage: 221 a c e g m n o p q r s u v w x y z ae ccedilla aogonek eogonek dotlessi kgreenlandic eng oe rcommaaccent scedilla uogonek uni01DD uni01E5 oogonek scommaaccent uni0229 dotlessj u.LAT u.LATmedi v.LAT v.LATmedi germandbls.alt
  1
   SeqLookup: 0 "Single Substitution lookup 45" 
 EndFPST
@@ -356,7 +356,7 @@ NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1256 8 8
+WinInfo: 248 8 8
 BeginPrivate: 10
 OtherBlues 11 [-298 -252]
 BlueValues 39 [-12 0 417 430 547 564 585 608 671 712]

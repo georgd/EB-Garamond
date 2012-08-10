@@ -71,7 +71,7 @@ glyphComponents = {
     'racute': ('r', 'acutecomb',),
     'rcommaaccent': ('r', 'uni0326',),
     'rcaron': ('r', 'uni030C',),
-    'sacute': ('r', 'acutecomb',),
+    'sacute': ('s', 'acutecomb',),
     'scircumflex': ('s', 'uni0302',),
     'scedilla': ('s', 'uni0327',),
     'scaron': ('s', 'uni030C',),
