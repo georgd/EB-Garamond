@@ -1,59 +1,19 @@
 import os
-import sys
-import getopt
+import argparse
+from glyphcomponents import glyphComponents
 
-from glyphbuilder import glyphComponents
+argparser = argparse.ArgumentParser(description=
+    'Writes the feature file (ccmpcomp.fea) for glyph composition '
+    '(the "ccmp" table in OpenType) for a given style.')
+argparser.add_argument('style', 
+                       help='The style for which to generate the ccmp feature file. '
+                            'Actually the directory names in ../featurefiles, so e.g. "Regular".')
+style = argparser.parse_args().style
 
-def printCCMPLookups(file):
-    file.write('lookup CCMP_Precomp {\n')
+with open('../featurefiles/%s/ccmpcomp.fea' % style, 'w') as f:
+    f.write('lookup CCMP_Precomp {\n')
     
-    for key in glyphComponents.keys():
-        components = glyphComponents[key]
-        file.write('    sub ' + key + ' by ')
-        for component in components:
-            file.write(component + ' ')
-        file.write(';\n')
+    for sub, by in glyphComponents.iteritems():
+        f.write('    sub ' + sub + ' by ' + " ".join(by) + ' ;\n')
     
-    file.write('} CCMP_Precomp;\n')
-
-def generateFeatureFile(style):
-    feature_file_name = 'ccmpcomp.fea'
-    dirname = '../featurefiles/%s' %(style)
-    os.chdir(dirname)
-    feature_file = open(feature_file_name, 'w')
-    printCCMPLookups(feature_file)
-    feature_file.close()
-    
-def usage(extramessage, code):
-    if extramessage:
-        print extramessage
-    
-    message = """Usage: %s OPTIONS...
-    Options:
-        --style=STYLE       style name of font
-        
-        -h, --help          print this message and exit    
-    """ % os.path.basename(sys.argv[0])
-    
-    print message
-    sys.exit(code)
-    
-if __name__ == "__main__":
-    try:
-        opts, args = getopt.gnu_getopt(sys.argv[1:],
-                "h",
-                ["help","style="])
-    except getopt.GetoptError, err:
-        usage(str(err), -1)
-    
-    style = None
-    
-    for opt, arg in opts:
-        if opt in ("-h", "--help"):
-            usage("", 0)
-        elif opt == '--style': style = arg
-        
-        if not style:
-            usage("No style name", -1)
-    
-    generateFeatureFile(style)
+    f.write('} CCMP_Precomp;\n')
