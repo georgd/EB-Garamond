@@ -55,7 +55,6 @@ def buildAccentedGlyphs(junk,object):
     font_file = os.path.normpath(fontforge.activeFont().path)
     top_level = os.path.split(os.path.split(font_file)[0])[0]
     tool_path = os.path.join(top_level, "tools")
-    print tool_path
 
     try:
         sys.path.append(tool_path)
