@@ -3,6 +3,7 @@
 # invoked by the Makefile
 
 import os
+import re
 import argparse
 import fontforge
 
@@ -18,15 +19,31 @@ argparser.add_argument(
     'version', 
     help='Version string to embed into the font file, e.g. "v1.1"')
 argparser.add_argument(
-    '--reloadlookups',
-    help='Clean lookups (GPOS and GSUB) and reimport '
+    '--reloadgpos', action="store_true",
+    help='Clean GPOS lookups and reimport '
          'them from the feature files before generating '
-         'font files. For Developement. Give the '
-         'identifier-prefix for the font from featurefiles/, '
-         'e.g. "Regular" when you want to make "EBGaramond12-Regular.sfdir". '
-         'When using this option, execute the script from '
-         'the top-level directory so it can find the feature files!')
+         'font files. For Developement.')
+argparser.add_argument(
+    '--reloadgsub', action="store_true",
+    help='Clean GSUB lookups and reimport '
+         'them from the feature files before generating '
+         'font files. For Developement.')
 args = argparser.parse_args()
+
+def reloadfeature(feature):
+    """Read and merge a certain feature file. Example: For
+EBGaramond12-Regular.sfdir, reloadfeature("GPOS") would merge
+featurefiles/12-Regular_GPOS.fea and reloadfeature("features") would merge
+featurefiles/12-Regular_features.fea (GSUB table)."""
+    # Guess prefix of feature file from input, e.g.
+    # 'EBGaramond12-Regular.sfdir' becomes inferred_style="12-Regular".
+    font_source_name = os.path.split(args.input)[1]
+    inferred_style = re.search('\d+-\w+', font_source_name).group(0)
+    featurepath = "featurefiles/" + inferred_style + "_%s.fea"
+    featurefile = featurepath % feature
+
+    if os.path.exists(featurefile):
+        font.mergeFeature(featurefile)
 
 font = fontforge.open(args.input)
 font.version = args.version
@@ -34,19 +51,15 @@ font.encoding = 'UnicodeFull'
 font.selection.all()
 font.autoHint()
 
-if args.reloadlookups:
+if args.reloadgpos:
     for lookup in font.gpos_lookups:
         font.removeLookup(lookup)
+    reloadfeature("GPOS")
+
+if args.reloadgsub:
     for lookup in font.gsub_lookups:
         font.removeLookup(lookup)
-    
-    featurepath = "featurefiles/" + args.reloadlookups + "_%s.fea"
-    featurefile = featurepath % "features"
-    if os.path.exists(featurefile):
-        font.mergeFeature(featurefile)
-    gpos_featurefile = featurepath % "GPOS"
-    if os.path.exists(gpos_featurefile):
-        font.mergeFeature(gpos_featurefile)
+    reloadfeature("features")
 
 extension = os.path.splitext(args.output)[1]
 if extension == '.ttf':
