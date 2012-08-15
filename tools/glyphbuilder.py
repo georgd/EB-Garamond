@@ -52,8 +52,10 @@ def buildAccentedGlyphs(junk,object):
 #    Call the composing function for every glyph that has an entry 
 #    in the dictionary."""
 #    componentsByFontname(font, font.fontname)
-    top_level = os.path.split(os.path.split(fontforge.activeFont().path)[0])[0]
+    font_file = os.path.normpath(fontforge.activeFont().path)
+    top_level = os.path.split(os.path.split(font_file)[0])[0]
     tool_path = os.path.join(top_level, "tools")
+    print tool_path
 
     try:
         sys.path.append(tool_path)
