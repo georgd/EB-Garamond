@@ -13,6 +13,6 @@ languagesystem latn LAT ;
 
 #include (Regular/classes.fea)
 #include (Regular/kern.fea)
-include (Caption-Regular/mark.fea)
-include (Caption-Regular/mkmk.fea)
+include (08-Regular/mark.fea)
+include (08-Regular/mkmk.fea)
 
