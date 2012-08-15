@@ -1,5 +1,7 @@
+import os
+import sys
 import fontforge
-from glyphcomponents import glyphComponents
+
 
 #def componentsByFontname(font, fontname):
 #    module_name = fontname + "_components"
@@ -50,16 +52,27 @@ def buildAccentedGlyphs(junk,object):
 #    Call the composing function for every glyph that has an entry 
 #    in the dictionary."""
 #    componentsByFontname(font, font.fontname)
-    if type(object).__name__ == "font":
-        for glyph in object.selection.byGlyphs:
-            if glyph.glyphname in glyphComponents.keys():
-                composeAccented(glyph)
+    font_file = os.path.normpath(fontforge.activeFont().path)
+    top_level = os.path.split(os.path.split(font_file)[0])[0]
+    tool_path = os.path.join(top_level, "tools")
+
+    try:
+        sys.path.append(tool_path)
+        from glyphcomponents import glyphComponents
+    
+        if type(object).__name__ == "font":
+            for glyph in object.selection.byGlyphs:
+                if glyph.glyphname in glyphComponents.keys():
+                    composeAccented(glyph)
+                else:
+                    continue
+        else: 
+            if object.glyphname in glyphComponents.keys():
+                composeAccented(object)
             else:
-                continue
-    else: 
-        if object.glyphname in glyphComponents.keys():
-            composeAccented(object)
-        else:
-            logWarning('This glyph has no entry in the dictionary')
+                logWarning('This glyph has no entry in the dictionary')
+    except ImportError:
+        fontforge.postError("Cannot import Python module glyphcomponents",
+                "This script is made to work with the SFDs residing in top_level/SFD and the module in top_level/tools.")
 
 fontforge.registerMenuItem(buildAccentedGlyphs,None,None,("Font","Glyph"),None,"Glyphbuilder");
