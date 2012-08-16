@@ -4,6 +4,7 @@
 
 import os
 import re
+import sys
 import argparse
 import fontforge
 
@@ -46,7 +47,7 @@ featurefiles/12-Regular_features.fea (GSUB table)."""
         font.mergeFeature(featurefile)
     else:
         sys.stderr.write("Could not find file " + featurefile + 
-                ", so one or more --reload*s is not doing anything.")
+                ", so one or more --reload*s is not doing anything.\n")
 
 font = fontforge.open(args.input)
 font.version = args.version
