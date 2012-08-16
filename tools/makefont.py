@@ -44,6 +44,9 @@ featurefiles/12-Regular_features.fea (GSUB table)."""
 
     if os.path.exists(featurefile):
         font.mergeFeature(featurefile)
+    else:
+        sys.stderr.write("Could not find file " + featurefile + 
+                ", so one or more --reload*s is not doing anything.")
 
 font = fontforge.open(args.input)
 font.version = args.version
