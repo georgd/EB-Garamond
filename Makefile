@@ -10,7 +10,7 @@ WPCK=$(NAME)-$(VERSION)-web
 DIST=$(NAME)-$(VERSION)-complete
 
 PY=python
-SCRIPT=tools/generate2.py
+SCRIPT=tools/makefont.py
 SFNTTOOL=sfnttool.jar
 
 #SIZES=08 12
