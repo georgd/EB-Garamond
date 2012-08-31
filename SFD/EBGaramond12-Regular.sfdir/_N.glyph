@@ -1,10 +1,8 @@
 StartChar: N
-Encoding: 78 78 28
+Encoding: 46 78 28
 Width: 770
 VWidth: 0
-Flags: W
-HStem: -17 21G<635 646> -5 30<23.9015 84.2885 196 265.099> 620 38<2.28223 77.8053 542 559 674.647 759.991>
-VStem: 132 37<306.848 499.991> 621 43<136.004 599.75>
+Flags: MW
 AnchorPoint: "below_accent" 405 -100 basechar 0
 AnchorPoint: "top_accent" 411 710 basechar 0
 LayerCount: 3
@@ -2032,13 +2030,13 @@ aiVZB_o&RWXL>RG`l?$:`5K$i['d<L`l?$GdF$%VaMG^/_o'C3`l>^*]u.b*cd0qW`l?0Db/VH@
 EndImage
 Fore
 SplineSet
-616 650 m 2x78
+616 650 m 2
  664 650 670 653 731 653 c 0
  748 653 760 650 760 642 c 0
  760 633 750 626 727 622 c 0
  677 613 665 601 664 568 c 0
  663 544 662 63 662 8 c 0
- 662 -13 651 -17 641 -17 c 0xb8
+ 662 -13 651 -17 641 -17 c 0
  629 -17 592 2 560 46 c 0
  542 71 227 456 204 484 c 0
  194 496 188 500 183 500 c 0
@@ -2066,7 +2064,7 @@ SplineSet
  620 590 585 615 563 619 c 0
  540 623 530 630 530 639 c 0
  530 647 542 650 559 650 c 2
- 616 650 l 2x78
+ 616 650 l 2
 EndSplineSet
 Validated: 1
 Substitution2: "c2sc subtable" N.sc

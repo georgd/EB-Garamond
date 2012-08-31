@@ -1,10 +1,8 @@
 StartChar: Aogonek
-Encoding: 260 260 182
+Encoding: 195 260 182
 Width: 684
 VWidth: 0
-Flags: W
-HStem: -287 71<495.439 573.053> -5 36<-0.573315 70.1888 195.015 266.525 395.098 475.898 612.158 694.277> 244 43<241.006 430.907>
-VStem: -2 178<4 93.5> 394 85<-199.668 -108.878> 489 208<1 90.5>
+Flags: MW
 AnchorPoint: "cedilla" 124 8 basechar 0
 AnchorPoint: "below_accent" 334 -100 basechar 0
 AnchorPoint: "top_accent" 363 700 basechar 0

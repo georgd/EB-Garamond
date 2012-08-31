@@ -1,10 +1,8 @@
 StartChar: U
-Encoding: 85 85 48
+Encoding: 53 85 48
 Width: 738
 VWidth: 0
-Flags: W
-HStem: -14 50<292.425 478.672> 620 33<25.4669 83.9594 202.114 256.781 515.06 566.939 662.499 726.313>
-VStem: 103 80<153.613 606.064> 588 57<323.395 604.72> 592 43<161.769 455.301>
+Flags: MW
 AnchorPoint: "cedilla" 412 8 basechar 0
 AnchorPoint: "ogonek" 490 18 basechar 0
 AnchorPoint: "below_accent" 370 -100 basechar 0
@@ -36,7 +34,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-645 547 m 0xf0
+645 547 m 0
  638 432 638 342 635 250 c 0
  630 95 519 -14 372 -14 c 0
  193 -14 103 87 103 240 c 2
@@ -51,7 +49,7 @@ SplineSet
  209 616 183 589 183 549 c 2
  183 268 l 2
  183 108 271 36 393 36 c 0
- 530 36 592 140 592 296 c 0xe8
+ 530 36 592 140 592 296 c 0
  592 340 590 434 588 511 c 0
  587 562 575 612 547 620 c 0
  533 624 514 631 514 640 c 0
@@ -60,7 +58,7 @@ SplineSet
  650 650 676 653 699 653 c 0
  716 653 728 650 728 642 c 0
  728 633 718 627 695 622 c 0
- 660 615 647 587 645 547 c 0xf0
+ 660 615 647 587 645 547 c 0
 EndSplineSet
 Validated: 1
 Substitution2: "c2sc subtable" U.sc

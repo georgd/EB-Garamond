@@ -1,10 +1,8 @@
 StartChar: e
-Encoding: 101 101 13
+Encoding: 69 101 13
 Width: 388
 VWidth: 0
-Flags: W
-HStem: -14 60<170.037 288.842> 257 31<111.332 284.014> 383 31<163.177 267.455>
-VStem: 30 62<133.034 255.743> 295 63<292.515 363.238> 337 17<81.0588 89.6221>
+Flags: MW
 AnchorPoint: "cedilla" 253 8 basechar 0
 AnchorPoint: "ogonek" 292 18 basechar 0
 AnchorPoint: "below_accent" 214 -100 basechar 0
@@ -932,8 +930,8 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-229 414 m 16xf4
- 310 414 358 376 358 323 c 0xf8
+229 414 m 16
+ 310 414 358 376 358 323 c 0
  358 290 351 275 337 268 c 0
  323 261 303 257 281 257 c 18
  117 257 l 2
@@ -944,7 +942,7 @@ SplineSet
  355 97 356 85 354 77 c 0
  344 42 290 -14 198 -14 c 0
  107 -14 30 70 30 203 c 8
- 30 316 116 414 229 414 c 16xf4
+ 30 316 116 414 229 414 c 16
 213 383 m 0
  157 383 111 329 111 303 c 0
  111 295 116 288 130 288 c 2

@@ -1,10 +1,8 @@
 StartChar: a
-Encoding: 97 97 0
+Encoding: 65 97 0
 Width: 399
 VWidth: 0
-Flags: W
-HStem: -14 46<100.5 201.116 314.769 371.14> 365 49<152.989 252.5>
-VStem: 35 80<42.662 121.94 279.95 317.037> 238 68<59.2835 168.996 199.884 352.817>
+Flags: MW
 AnchorPoint: "ogonek" 341 18 basechar 0
 AnchorPoint: "below_accent" 178 -100 basechar 0
 AnchorPoint: "top_accent" 191 550 basechar 0

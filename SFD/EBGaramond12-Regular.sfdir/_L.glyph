@@ -1,10 +1,8 @@
 StartChar: L
-Encoding: 76 76 36
+Encoding: 44 76 36
 Width: 574
 VWidth: 0
-Flags: W
-HStem: -5 40<220.001 480.636> -5 29<27.3563 94.228> 622 31<37.0745 116.488 238.822 330.926>
-VStem: 130 80<47.25 603.136> 541 34<139.048 159.894>
+Flags: MW
 AnchorPoint: "top_right" 492 624 basechar 0
 AnchorPoint: "cedilla" 183 8 basechar 0
 AnchorPoint: "below_accent" 314 -100 basechar 0
@@ -2330,10 +2328,10 @@ dF$@gd*U%^c-"2OaiVZLc-=APai)-9`Pog6_o'7(^VRb&b0%lRd*UCrf@\a.f@SX*f%/C%eGoRL
 EndImage
 Fore
 SplineSet
-210 567 m 2x78
+210 567 m 2
  210 96 l 2
  210 55 221 35 287 35 c 2
- 433 35 l 2xb8
+ 433 35 l 2
  438 35 471 45 489 61 c 24
  515 84 524 96 541 132 c 0
  544 140 554 162 563 162 c 0
@@ -2354,7 +2352,7 @@ SplineSet
  226 650 249 653 303 653 c 0
  320 653 332 650 332 642 c 0
  332 633 322 626 299 622 c 0
- 249 613 210 606 210 567 c 2x78
+ 249 613 210 606 210 567 c 2
 EndSplineSet
 Validated: 1
 Substitution2: "c2sc subtable" L.sc

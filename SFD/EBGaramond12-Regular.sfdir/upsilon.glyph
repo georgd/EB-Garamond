@@ -1,10 +1,8 @@
 StartChar: upsilon
-Encoding: 965 965 2447
+Encoding: 804 965 2447
 Width: 424
-Flags: W
-HStem: -14 76<142.392 251.947> 328 86<50.9908 110.021> 404 20G<298 323.5>
-VStem: 120 11<140 256> 334 55<158.548 337.75>
-AnchorPoint: "grk_top" 173 530 basechar 0
+Flags: MW
+AnchorPoint: "grk_top" 208 530 basechar 0
 AnchorPoint: "grk_bottom" 130 -147 basechar 0
 LayerCount: 3
 Back
@@ -27,11 +25,11 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-120 256 m 0xb8
+120 256 m 0
  120 277 118 328 72 328 c 0
  41 328 32 315 25 315 c 0
  18 315 15 317 15 327 c 0
- 15 359 58 414 93 414 c 0xd8
+ 15 359 58 414 93 414 c 0
  142 414 165 376 165 307 c 0
  165 255 131 166 131 140 c 0
  131 81 148 62 194 62 c 0
@@ -41,8 +39,7 @@ SplineSet
  347 424 389 300 389 227 c 0
  389 109 297 -14 198 -14 c 0
  129 -14 82 45 82 106 c 0
- 82 132 120 204 120 256 c 0xb8
+ 82 132 120 204 120 256 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "Smallcaps subtable" upsilon.sc
 EndChar

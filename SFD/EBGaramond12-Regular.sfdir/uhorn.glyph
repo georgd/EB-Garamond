@@ -1,22 +1,20 @@
 StartChar: uhorn
-Encoding: 432 432 290
+Encoding: 367 432 290
 Width: 561
 VWidth: 0
-Flags: W
-HStem: -19 56<186.992 285.45> 21 24<446.943 516.841> 365 32<29.0288 68.315 280.055 351.573>
-VStem: 85 70<71.1627 353.726> 368 70<78.3695 352.826> 511 50<425.034 495.5>
+Flags: MW
 AnchorPoint: "ogonek" 433 18 basechar 0
 AnchorPoint: "below_accent" 259 -100 basechar 0
 AnchorPoint: "top_accent" 251 550 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-438 326 m 2xbc
+438 326 m 2
  438 114 l 2
  438 73 440 45 456 45 c 0
  466 45 492 46 502 48 c 0
  507 49 517 47 517 35 c 0
- 517 24 508 21 503 21 c 0x7c
+ 517 24 508 21 503 21 c 0
  451 14 415 -1 386 -13 c 0
  382 -15 368 -19 362 -19 c 0
  358 -19 359 -18 359 -15 c 0
@@ -47,7 +45,7 @@ SplineSet
  546 534 561 508 561 483 c 0
  561 423 525 392 447 378 c 0
  439 377 437 363 437 351 c 0
- 437 342 438 333 438 326 c 2xbc
+ 437 342 438 333 438 326 c 2
 EndSplineSet
 Validated: 1
 EndChar

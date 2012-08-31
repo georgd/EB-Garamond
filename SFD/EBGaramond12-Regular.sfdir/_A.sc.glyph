@@ -1,10 +1,8 @@
 StartChar: A.sc
-Encoding: 1114641 -1 1640
+Encoding: 2385 -1 1640
 Width: 555
 VWidth: 0
-Flags: HW
-HStem: -3 30<10.4417 77.3764 154.478 206.558 308.442 366.235 478.171 530.558> 139 36<190.819 324.633> 443 20<295.5 299>
-VStem: 10 137<5 73> 370 161<5 64.5>
+Flags: HMW
 AnchorPoint: "ogonek" 407 18 basechar 0
 AnchorPoint: "below_accent" 258 -100 basechar 0
 AnchorPoint: "top_accent" 276 615 basechar 0

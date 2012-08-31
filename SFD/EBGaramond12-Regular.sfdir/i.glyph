@@ -1,10 +1,8 @@
 StartChar: i
-Encoding: 105 105 5
+Encoding: 73 105 5
 Width: 245
 VWidth: 0
-Flags: W
-HStem: -3 27<24.9975 78.9702 171.03 224.926> 352 25<35.0088 66.0645> 513 101<77.1171 159.823>
-VStem: 68 101<522.117 604.823> 90 70<31.1488 339.165>
+Flags: HMW
 AnchorPoint: "below_accent" 115 -100 basechar 0
 LayerCount: 3
 Back
@@ -6105,11 +6103,11 @@ Lkpk2GB]13Odqr3^V@P2dF$Orf$;Rd_83t)_SXRBc,n)Lb0%lLb0%E2]tV4pa2c6;_SX""]tD"j
 EndImage
 Fore
 SplineSet
-68 563 m 0xf0
+68 563 m 0
  68 592 90 614 118 614 c 0
  147 614 169 592 169 563 c 0
  169 535 147 513 118 513 c 0
- 90 513 68 535 68 563 c 0xf0
+ 90 513 68 535 68 563 c 0
 EndSplineSet
 Refer: 76 305 N 1 0 0 1 0 0 3
 Validated: 1

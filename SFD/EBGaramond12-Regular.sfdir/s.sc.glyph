@@ -1,18 +1,16 @@
 StartChar: s.sc
-Encoding: 1114691 -1 1690
+Encoding: 2435 -1 1690
 Width: 430
 VWidth: 0
-Flags: HW
-HStem: -11 23<159.024 250.778> 433 25<186.822 272.213>
-VStem: 60 29<83.515 132.064> 83 70<310.199 402.01> 290 80<57.7093 144.422> 324 32<332.474 387.166>
+Flags: MW
 AnchorPoint: "cedilla" 241 8 basechar 0
 AnchorPoint: "below_accent" 209 -100 basechar 0
 AnchorPoint: "top_accent" 223 615 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-200 12 m 0xe8
- 262 12 290 48 290 90 c 0xe8
+200 12 m 0
+ 262 12 290 48 290 90 c 0
  290 119 277 144 244 165 c 2
  166 215 l 2
  116 247 83 285 83 340 c 0
@@ -23,7 +21,7 @@ SplineSet
  356 346 351 332 343 332 c 0
  335 332 326 342 324 352 c 0
  306 415 257 433 232 433 c 0
- 185 433 153 402 153 364 c 0xd4
+ 185 433 153 402 153 364 c 0
  153 320 176 305 214 282 c 2
  299 230 l 2
  342 203 370 164 370 115 c 0
@@ -33,7 +31,7 @@ SplineSet
  69 31 61 85 60 110 c 0
  60 116 58 133 70 133 c 0
  82 133 85 116 89 108 c 0
- 105 79 138 12 200 12 c 0xe8
+ 105 79 138 12 200 12 c 0
 EndSplineSet
 Comment: "." 
 EndChar

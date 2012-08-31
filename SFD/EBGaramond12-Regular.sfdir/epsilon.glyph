@@ -1,9 +1,7 @@
 StartChar: epsilon
-Encoding: 949 949 2132
+Encoding: 788 949 2132
 Width: 334
-Flags: W
-HStem: -14 66<99.6343 241.348> 180 81<177.812 256.905> 348 64<133.34 266.233>
-VStem: 45 50<218.029 311.085> 45 40<69.9404 137.658>
+Flags: MW
 AnchorPoint: "grk_top" 173 530 basechar 0
 AnchorPoint: "grk_bottom" 130 -147 basechar 0
 LayerCount: 3
@@ -31,16 +29,16 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-304 99 m 0xe8
+304 99 m 0
  304 32 235 -14 156 -14 c 0
- 99 -14 45 26 45 81 c 0xe8
+ 99 -14 45 26 45 81 c 0
  45 137 83 170 93 177 c 0
  102 184 105 190 95 195 c 0
  68 208 45 220 45 268 c 0
  45 346 130 412 224 412 c 0
  251 412 268 403 268 381 c 0
  268 359 251 348 221 348 c 0
- 144 348 95 315 95 252 c 0xf0
+ 144 348 95 315 95 252 c 0
  95 230 110 216 127 216 c 0
  147 216 200 261 228 261 c 0
  253 261 270 248 270 232 c 0
@@ -48,7 +46,7 @@ SplineSet
  175 180 85 151 85 100 c 0
  85 79 115 52 161 52 c 0
  248 52 288 116 294 116 c 0
- 302 116 304 112 304 99 c 0xe8
+ 302 116 304 112 304 99 c 0
 EndSplineSet
 Validated: 1
 Substitution2: "Smallcaps subtable" epsilon.sc

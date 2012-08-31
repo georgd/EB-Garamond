@@ -1,10 +1,8 @@
 StartChar: s
-Encoding: 115 115 17
+Encoding: 83 115 17
 Width: 323
 VWidth: 0
-Flags: W
-HStem: -14 27<110.848 199.568> 388 26<136.996 212.641>
-VStem: 30 32<54.7601 91.9763> 53 60<277.962 365.426> 225 68<30.1894 129.958> 239 40<312.953 369.5>
+Flags: MW
 AnchorPoint: "cedilla" 199 8 basechar 0
 AnchorPoint: "below_accent" 167 -100 basechar 0
 AnchorPoint: "top_accent" 176 550 basechar 0
@@ -860,8 +858,8 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-176 388 m 0xd4
- 138 388 113 362 113 322 c 0xd4
+176 388 m 0
+ 138 388 113 362 113 322 c 0
  113 282 166 251 198 231 c 0
  228 212 293 172 293 106 c 0
  293 37 260 -14 149 -14 c 0
@@ -870,7 +868,7 @@ SplineSet
  30 89 39 92 47 92 c 0
  54 92 61 90 62 85 c 0
  69 51 114 13 155 13 c 0
- 203 13 225 43 225 83 c 0xe8
+ 203 13 225 43 225 83 c 0
  225 119 193 143 149 174 c 0
  101 208 53 247 53 296 c 0
  53 353 89 414 187 414 c 0
@@ -878,7 +876,7 @@ SplineSet
  274 376 279 341 279 313 c 0
  279 310 277 309 273 309 c 0
  263 309 239 321 239 330 c 0
- 238 358 209 388 176 388 c 0xd4
+ 238 358 209 388 176 388 c 0
 EndSplineSet
 Validated: 1
 Substitution2: "Smallcaps subtable" s.sc

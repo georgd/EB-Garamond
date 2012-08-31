@@ -1,10 +1,8 @@
 StartChar: P
-Encoding: 80 80 26
+Encoding: 48 80 26
 Width: 552
 VWidth: 0
-Flags: W
-HStem: -5 29<24.6924 100.631 239.305 309.308> 254 25<261.331 369.017> 622 31<37.0745 105.304> 630 28<221.934 346.854>
-VStem: 130 80<45.1651 603.448> 441 90<377.799 555.339>
+Flags: MW
 AnchorPoint: "below_accent" 170 -100 basechar 0
 AnchorPoint: "top_accent" 286 710 basechar 0
 LayerCount: 3
@@ -1354,8 +1352,8 @@ b0%lKaiVcNbf@cE`l?$=a2c$4_7dOqaiVZB_o'C0_o'C0^V@Ou^V@Fo]X"iKWMul3^V@e.`llQK
 EndImage
 Fore
 SplineSet
-441 458 m 0xdc
- 441 580 371 630 274 630 c 0xdc
+441 458 m 0
+ 441 580 371 630 274 630 c 0
  236 630 210 618 210 588 c 2
  210 111 l 2
  210 63 227 33 277 24 c 0
@@ -1369,7 +1367,7 @@ SplineSet
  130 522 l 2
  130 582 119 613 69 622 c 0
  46 626 36 633 36 642 c 0
- 36 650 48 653 65 653 c 0xec
+ 36 650 48 653 65 653 c 0
  119 653 122 652 163 652 c 0
  203 652 246 658 274 658 c 0
  423 658 531 590 531 482 c 0
@@ -1377,7 +1375,7 @@ SplineSet
  274 254 258 265 258 273 c 0
  258 278 267 284 274 284 c 0
  280 284 293 279 320 279 c 0
- 400 279 441 340 441 458 c 0xdc
+ 400 279 441 340 441 458 c 0
 EndSplineSet
 Validated: 1
 Substitution2: "c2sc subtable" P.sc

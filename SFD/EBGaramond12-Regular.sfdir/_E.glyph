@@ -1,10 +1,8 @@
 StartChar: E
-Encoding: 69 69 35
+Encoding: 37 69 35
 Width: 535
 VWidth: 0
-Flags: W
-HStem: -5 40<221.438 455.39> -5 29<23.6924 99.9253> 320 32<211.086 367.094> 388 20G<400.5 405.5> 618 35<32.1729 114.247 215.59 433.859>
-VStem: 130 80<44.9696 319.486 352 605.889> 383 32<253.771 304.565> 466 25<526.084 573.315>
+Flags: MW
 AnchorPoint: "cedilla" 322 8 basechar 0
 AnchorPoint: "ogonek" 450 18 basechar 0
 AnchorPoint: "below_accent" 280 -100 basechar 0
@@ -1894,9 +1892,9 @@ _83sfWiE)!WkZ<`bfn;Oa2c-:`5p$@cd0qde'lI^b08)RcHa_WaiVH<_op6Hf%/F(f@SR'e^N!r
 EndImage
 Fore
 SplineSet
-210 102 m 2x7f
+210 102 m 2
  210 51 231 35 276 35 c 2
- 380 35 l 2xbf
+ 380 35 l 2
  430 35 443 43 456 53 c 0
  474 67 490 99 498 116 c 0
  502 124 505 127 512 126 c 16
@@ -1935,7 +1933,7 @@ SplineSet
  373 306 354 320 337 320 c 2
  244 320 l 2
  221 320 210 317 210 294 c 2
- 210 102 l 2x7f
+ 210 102 l 2
 EndSplineSet
 Validated: 1
 Substitution2: "c2sc subtable" E.sc

@@ -1,10 +1,8 @@
 StartChar: uni043D
-Encoding: 1085 1085 1931
+Encoding: 890 1085 1931
 Width: 510
 VWidth: 0
-Flags: W
-HStem: -3 27<26.0147 79.377 171.437 225.985 286.015 338.682 432.178 485.985> 191 37<160 350> 376 27<30.0147 80.4012 169.599 219.985 292.997 341.691 430.888 483.003>
-VStem: 90 70<31.5938 191 228 370.47> 350 70<31.8574 191 228 369.352>
+Flags: MW
 AnchorPoint: "below_accent" 255 -100 basechar 0
 AnchorPoint: "top_accent" 255 550 basechar 0
 LayerCount: 3

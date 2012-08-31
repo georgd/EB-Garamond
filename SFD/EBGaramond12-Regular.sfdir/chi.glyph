@@ -1,9 +1,7 @@
 StartChar: chi
-Encoding: 967 967 2449
+Encoding: 806 967 2449
 Width: 438
-Flags: W
-HStem: -290 21G<47 60.5> -271 80<317.13 411.481> 340 74<34.6144 124.923>
-VStem: 22 86<-208.084 -161>
+Flags: MW
 LayerCount: 3
 Back
 SplineSet
@@ -37,8 +35,8 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-108 -161 m 2x70
- 63 -247 70 -290 51 -290 c 0xb0
+108 -161 m 2
+ 63 -247 70 -290 51 -290 c 0
  43 -290 22 -288 22 -225 c 0
  22 -211 29 -177 40 -157 c 2
  201 129 l 1
@@ -61,7 +59,7 @@ SplineSet
  448 -241 393 -271 350 -271 c 0
  317 -271 280 -258 265 -208 c 0
  245 -144 225 -28 216 42 c 1
- 108 -161 l 2x70
+ 108 -161 l 2
 EndSplineSet
 Validated: 1
 Substitution2: "Smallcaps subtable" chi.sc

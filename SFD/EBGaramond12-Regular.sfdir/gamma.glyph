@@ -1,9 +1,7 @@
 StartChar: gamma
-Encoding: 947 947 2431
+Encoding: 786 947 2431
 Width: 430
-Flags: W
-HStem: -285 21G<172 188.5> 328 86<37.389 109.53> 406 20G<363 378>
-VStem: 197 33<-42.1174 32.73> 352 63<334.36 413.545>
+Flags: MW
 LayerCount: 3
 Back
 SplineSet
@@ -27,9 +25,9 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-237 100 m 0xd8
+237 100 m 0
  286 192 334 341 352 406 c 0
- 354 414 359 426 367 426 c 0xb8
+ 354 414 359 426 367 426 c 0
  389 426 415 398 415 363 c 0
  415 327 310 165 237 19 c 0
  232 8 230 -7 230 -11 c 0
@@ -44,7 +42,7 @@ SplineSet
  -7 345 33 414 94 414 c 0
  154 414 223 226 223 107 c 0
  223 102 223 94 228 94 c 0
- 232 94 235 96 237 100 c 0xd8
+ 232 94 235 96 237 100 c 0
 EndSplineSet
 Validated: 33
 Substitution2: "Smallcaps subtable" gamma.sc

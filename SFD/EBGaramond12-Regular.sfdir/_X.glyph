@@ -1,10 +1,8 @@
 StartChar: X
-Encoding: 88 88 63
+Encoding: 56 88 63
 Width: 707
 VWidth: 0
-Flags: W
-HStem: -5 33<-3.35062 67.7729 203.123 267.861 395.055 453.346 626.864 697.313> 622 33<19.6494 91.1203 243.386 317.637 443.217 513.033 626.879 693.56>
-VStem: 314 86<309.609 350.5>
+Flags: MW
 AnchorPoint: "cedilla" 426 8 basechar 0
 AnchorPoint: "below_accent" 404 -100 basechar 0
 AnchorPoint: "top_accent" 381 710 basechar 0

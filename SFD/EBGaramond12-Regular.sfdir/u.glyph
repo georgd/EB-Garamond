@@ -1,10 +1,8 @@
 StartChar: u
-Encoding: 117 117 15
+Encoding: 85 117 15
 Width: 527
 VWidth: 0
-Flags: W
-HStem: -19 56<186.992 285.45> 21 24<446.943 516.841> 365 32<29.0288 68.315 280.055 349.325> 395 20G<414 438.5>
-VStem: 85 70<71.1627 353.726> 368 70<78.3695 352.26>
+Flags: MW
 AnchorPoint: "ogonek" 433 18 basechar 0
 AnchorPoint: "below_accent" 259 -100 basechar 0
 AnchorPoint: "top_accent" 251 550 basechar 0
@@ -1102,15 +1100,15 @@ bfn;Wcd1"ddEg.bcd0qeeC;mndD<Z8]Y(nuaN2`Td*9h[`l?$:`5Ka<aN_uS
 EndImage
 Fore
 SplineSet
-432 415 m 1x1c
- 434 415 l 2x1c
+432 415 m 1
+ 434 415 l 2
  443 415 451 405 446 397 c 0
  442 390 438 342 438 326 c 2
  438 114 l 2
  438 73 440 45 456 45 c 0
  466 45 492 46 502 48 c 0
  507 49 517 47 517 35 c 0
- 517 24 508 21 503 21 c 0x6c
+ 517 24 508 21 503 21 c 0
  451 14 415 -1 386 -13 c 0
  382 -15 368 -19 362 -19 c 0
  358 -19 359 -18 359 -15 c 0
@@ -1132,8 +1130,8 @@ SplineSet
  368 315 l 2
  368 356 323 364 303 365 c 0
  298 365 280 368 280 382 c 0
- 280 394 299 397 303 397 c 0xac
- 404 402 396 405 432 415 c 1x1c
+ 280 394 299 397 303 397 c 0
+ 404 402 396 405 432 415 c 1
 EndSplineSet
 Validated: 1
 Substitution2: "Smallcaps subtable" u.sc
