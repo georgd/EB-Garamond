@@ -2,9 +2,7 @@ StartChar: D
 Encoding: 68 68 43
 Width: 773
 VWidth: 0
-Flags: W
-HStem: -7 35<192.833 439.529> -5 29<20.7629 111.218> 618 33<187.538 282.055 395.293 554.01>
-VStem: 697 86<273.574 501.999>
+Flags: MW
 AnchorPoint: "cedilla" 409 8 basechar 0
 AnchorPoint: "below_accent" 297 -100 basechar 0
 AnchorPoint: "top_accent" 508 710 basechar 0
@@ -4719,11 +4717,11 @@ s8W-!s8W)trr<#us8W-!s8W-!s8W-!rr2oss8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W)trr<#u
 EndImage
 Fore
 SplineSet
-335 -7 m 0xb0
+335 -7 m 0
  316 -7 221 0 148 0 c 0
  111 0 93 -5 44 -5 c 0
  28 -5 20 -2 20 6 c 0
- 20 15 33 23 56 24 c 0x70
+ 20 15 33 23 56 24 c 0
  119 26 131 51 147 99 c 2
  297 560 l 2
  312 608 254 613 210 622 c 0
@@ -4732,12 +4730,12 @@ SplineSet
  269 653 311 651 353 651 c 0
  393 651 391 656 449 656 c 0
  628 656 783 578 783 406 c 0
- 783 149 588 -7 335 -7 c 0xb0
+ 783 149 588 -7 335 -7 c 0
 697 395 m 0
  697 548 602 618 445 618 c 0
  425 618 385 611 371 567 c 2
  229 121 l 2
- 202 36 241 28 343 28 c 8xb0
+ 202 36 241 28 343 28 c 8
  542 28 697 207 697 395 c 0
 EndSplineSet
 Validated: 33

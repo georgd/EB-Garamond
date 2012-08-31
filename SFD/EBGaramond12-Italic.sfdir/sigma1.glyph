@@ -2,9 +2,7 @@ StartChar: sigma1
 Encoding: 962 962 2180
 Width: 337
 VWidth: 2048
-Flags: W
-HStem: -141 72<86.3305 185.849> 47 67<136.265 256.5> 47 52<115.872 233.85> 341 72<213.825 311.449>
-VStem: 58 48<108.237 225.658> 237 46<-34.3435 45.0763>
+Flags: MW
 LayerCount: 2
 Back
 Image: 355 249 2 1065 0 ffffffff -1515 951 5.46594 5.59839 0
@@ -4431,11 +4429,11 @@ bfn;TbfnAXcHOMVb0%lMbKJGde^)Rfbfn;Wcd0tbd)sMRb0%lSdF$%Va8c2?
 EndImage
 Fore
 SplineSet
-350 365 m 0xdc
+350 365 m 0
  350 320 339 309 325 309 c 0
  313 309 304 341 278 341 c 0
  197 341 106 233 106 152 c 0
- 106 121 126 99 162 99 c 0xbc
+ 106 121 126 99 162 99 c 0
  184 99 213 114 242 114 c 0
  271 114 283 72 283 13 c 0
  283 -33 193 -141 128 -141 c 0
@@ -4446,7 +4444,7 @@ SplineSet
  168 47 154 29 105 29 c 0
  79 29 58 78 58 148 c 0
  58 270 168 413 283 413 c 0
- 325 413 350 396 350 365 c 0xdc
+ 325 413 350 396 350 365 c 0
 EndSplineSet
 Validated: 33
 Substitution2: "Smallcaps subtable" sigma1.sc

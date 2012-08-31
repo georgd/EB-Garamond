@@ -1,15 +1,14 @@
 StartChar: uni045B
 Encoding: 1115 1115 1962
 Width: 508
-Flags: W
-HStem: -14 64<304.82 386.58> 373 42<351.2 439> 505 37<104.755 185 255 324.5> 512 38<255 395.524>
+Flags: MW
 AnchorPoint: "top_accent" 288 812 basechar 0
 AnchorPoint: "below_accent" 201 -100 basechar 0
 AnchorPoint: "cedilla" 67 8 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-384 373 m 0xd0
+384 373 m 0
  365 373 310 330 275 292 c 0
  242 256 165 151 125 78 c 0
  90 14 79 -18 63 -18 c 0
@@ -19,7 +18,7 @@ SplineSet
  116 503 l 2
  107 503 103 508 103 515 c 0
  103 526 112 539 122 539 c 2
- 195 542 l 1xe0
+ 195 542 l 1
  200 558 l 2
  207 581 218 619 213 632 c 0
  209 644 160 650 160 659 c 0
@@ -45,7 +44,7 @@ SplineSet
  438 33 381 -14 318 -14 c 0
  298 -14 283 12 292 36 c 2
  397 309 l 2
- 419 367 399 373 384 373 c 0xd0
+ 419 367 399 373 384 373 c 0
 EndSplineSet
 Validated: 33
 EndChar

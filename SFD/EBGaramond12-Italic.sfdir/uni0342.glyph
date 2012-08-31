@@ -2,24 +2,22 @@ StartChar: uni0342
 Encoding: 834 834 2102
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 518 60<106.697 246.946> 525 61<76.2014 213.803>
-VStem: 26 268
+Flags: MW
 AnchorPoint: "top_stack" 152 474 mark 0
 AnchorPoint: "top_stack" 152 632 basemark 0
 AnchorPoint: "top_accent" 165 550 mark 0
 LayerCount: 2
 Fore
 SplineSet
-40 488 m 0x60
+40 488 m 0
  30 488 26 498 26 508 c 0
- 26 518 89 586 114 586 c 0x60
+ 26 518 89 586 114 586 c 0
  139 586 196 578 221 578 c 0
  256 578 270 612 278 612 c 0
  288 612 294 605 294 595 c 0
- 294 585 234 518 209 518 c 0xa0
+ 294 585 234 518 209 518 c 0
  184 518 122 525 97 525 c 0
- 72 525 48 488 40 488 c 0x60
+ 72 525 48 488 40 488 c 0
 EndSplineSet
 Validated: 1
 Substitution2: "Smallcaps subtable" uni0342.sc

@@ -2,9 +2,7 @@ StartChar: S
 Encoding: 83 83 45
 Width: 464
 VWidth: 0
-Flags: W
-HStem: -14 30<155.856 272.219> 0 21G<19 30> 459 21G<438 445> 630 29<269.94 382.377>
-VStem: 13 71<23 157> 138 75<443.576 566.634> 339 82<80.6474 191.758> 432 65<493 622>
+Flags: MW
 AnchorPoint: "cedilla" 265 8 basechar 0
 AnchorPoint: "below_accent" 173 -100 basechar 0
 AnchorPoint: "top_accent" 364 710 basechar 0
@@ -1781,7 +1779,7 @@ c-=MZcd0_Tai)-9aN2HKcd1+jeGfIH
 EndImage
 Fore
 SplineSet
-214 16 m 16xbf
+214 16 m 16
  277 16 339 67 339 120 c 0
  339 178 297 231 233 303 c 0
  179 364 138 421 138 479 c 0
@@ -1796,14 +1794,14 @@ SplineSet
  257 630 213 577 213 513 c 16
  213 455 270 388 303 354 c 0
  347 308 421 234 421 154 c 0
- 421 46 304 -14 194 -14 c 16xbf
+ 421 46 304 -14 194 -14 c 16
  127 -14 77 13 67 13 c 0
- 57 13 37 0 23 0 c 0x7f
+ 57 13 37 0 23 0 c 0
  15 0 13 9 13 23 c 0
  13 35 45 97 56 176 c 0
  58 190 62 196 72 196 c 0
  83 196 84 184 84 157 c 8
- 84 82 139 16 214 16 c 16xbf
+ 84 82 139 16 214 16 c 16
 EndSplineSet
 Validated: 33
 Substitution2: "Swash subtable" S.sw
