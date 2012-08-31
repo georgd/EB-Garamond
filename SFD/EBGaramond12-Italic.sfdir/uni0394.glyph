@@ -1,0 +1,34 @@
+StartChar: uni0394
+Encoding: 916 916 1080
+Width: 738
+VWidth: 0
+Flags: MW
+AnchorPoint: "top_accent" 685 700 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+104 1 m 2
+ 63 1 54 -3 23 -3 c 0
+ 7 -3 0 12 0 20 c 0
+ 0 34 40 73 75 108 c 2
+ 547 564 l 2
+ 576 592 593 622 601 622 c 0
+ 614 622 625 626 647 636 c 0
+ 664 644 691 676 696 676 c 0
+ 701 676 703 662 698 644 c 2
+ 511 20 l 2
+ 505 0 494 -3 474 -3 c 0
+ 448 -3 415 1 373 1 c 2
+ 104 1 l 2
+360 57 m 0
+ 427 57 436 56 454 112 c 2
+ 575 494 l 2
+ 584 521 585 539 579 539 c 0
+ 574 539 560 531 535 506 c 2
+ 135 102 l 2
+ 89 55 123 56 136 56 c 0
+ 158 56 342 57 360 57 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "c2sc subtable" uni0394.sc
+EndChar
