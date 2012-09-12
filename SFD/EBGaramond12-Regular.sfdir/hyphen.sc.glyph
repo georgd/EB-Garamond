@@ -2,10 +2,17 @@ StartChar: hyphen.sc
 Encoding: 1114621 -1 1620
 Width: 274
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
-Refer: 93 45 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+35 170 m 0
+ 30 170 29 172 29 176 c 0
+ 29 198 35 229 45 230 c 0
+ 109 239 173 248 237 255 c 0
+ 241 255 245 253 245 249 c 0
+ 245 224 240 197 224 195 c 0
+ 164 186 103 176 35 170 c 0
+EndSplineSet
 Comment: "." 
 EndChar

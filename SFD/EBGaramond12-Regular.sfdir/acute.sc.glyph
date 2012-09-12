@@ -2,10 +2,17 @@ StartChar: acute.sc
 Encoding: 1114720 -1 1719
 Width: 382
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
-Refer: 88 180 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+281 650 m 0
+ 299 650 316 645 316 631 c 0
+ 316 612 263 582 183 471 c 0
+ 178 464 165 449 156 449 c 0
+ 147 449 143 453 143 462 c 0
+ 143 477 210 598 231 632 c 0
+ 242 650 259 650 281 650 c 0
+EndSplineSet
 Comment: "." 
 EndChar

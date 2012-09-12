@@ -2,10 +2,20 @@ StartChar: zero.sc
 Encoding: 1114624 -1 1623
 Width: 527
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
-Refer: 83 48 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+259 372 m 0
+ 177 372 118 301 118 204 c 0
+ 118 119 165 26 247 26 c 0
+ 329 26 389 78 389 203 c 0
+ 389 286 343 372 259 372 c 0
+252 413 m 0
+ 370 413 467 320 467 203 c 16
+ 467 84 372 -15 254 -15 c 0
+ 134 -15 40 85 40 204 c 16
+ 40 320 136 413 252 413 c 0
+EndSplineSet
 Comment: "." 
 EndChar

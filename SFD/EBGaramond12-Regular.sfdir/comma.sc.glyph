@@ -2,10 +2,19 @@ StartChar: comma.sc
 Encoding: 1114620 -1 1619
 Width: 228
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
-Refer: 54 44 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+36 -147 m 0
+ 24 -147 18 -142 18 -136 c 0
+ 18 -131 23 -126 32 -124 c 0
+ 75 -115 128 -85 128 -15 c 0
+ 128 1 111 27 89 29 c 0
+ 60 32 42 49 42 71 c 0
+ 42 98 68 117 97 117 c 0
+ 145 117 180 76 180 20 c 0
+ 180 -81 87 -147 36 -147 c 0
+EndSplineSet
 Comment: "." 
 EndChar
