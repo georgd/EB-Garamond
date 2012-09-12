@@ -2,10 +2,15 @@ StartChar: period.sc
 Encoding: 1114622 -1 1621
 Width: 230
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
-Refer: 39 46 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+115 96 m 24
+ 145 96 170 71 170 41 c 24
+ 170 11 145 -14 115 -14 c 24
+ 85 -14 60 11 60 41 c 24
+ 60 71 85 96 115 96 c 24
+EndSplineSet
 Comment: "." 
 EndChar

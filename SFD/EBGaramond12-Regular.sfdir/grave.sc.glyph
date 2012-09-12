@@ -2,10 +2,17 @@ StartChar: grave.sc
 Encoding: 1114672 -1 1671
 Width: 279
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
-Refer: 87 96 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+40 636 m 0
+ 40 650 57 664 75 664 c 0
+ 97 664 114 655 125 637 c 0
+ 146 603 218 477 218 462 c 0
+ 218 453 214 449 205 449 c 0
+ 196 449 183 464 178 471 c 0
+ 98 582 40 617 40 636 c 0
+EndSplineSet
 Comment: "." 
 EndChar

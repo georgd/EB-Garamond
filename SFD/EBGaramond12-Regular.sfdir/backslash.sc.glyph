@@ -2,10 +2,19 @@ StartChar: backslash.sc
 Encoding: 1114668 -1 1667
 Width: 399
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
-Refer: 96 92 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+378 -47 m 18
+ 378 -48 379 -49 379 -50 c 0
+ 379 -57 370 -62 362 -62 c 8
+ 347 -62 332 -61 326 -47 c 26
+ 29 648 l 18
+ 29 649 28 651 28 652 c 0
+ 28 659 35 665 42 665 c 8
+ 59 665 74 663 81 648 c 26
+ 378 -47 l 18
+EndSplineSet
 Comment: "." 
 EndChar

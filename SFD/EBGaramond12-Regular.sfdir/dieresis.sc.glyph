@@ -2,10 +2,20 @@ StartChar: dieresis.sc
 Encoding: 1114710 -1 1709
 Width: 0
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
-Refer: 72 168 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+247 574 m 0
+ 272 574 297 549 297 524 c 0
+ 297 499 272 474 247 474 c 0
+ 222 474 197 499 197 524 c 0
+ 197 549 222 574 247 574 c 0
+70 574 m 0
+ 95 574 120 549 120 524 c 0
+ 120 499 95 474 70 474 c 0
+ 45 474 20 499 20 524 c 0
+ 20 549 45 574 70 574 c 0
+EndSplineSet
 Comment: "." 
 EndChar
