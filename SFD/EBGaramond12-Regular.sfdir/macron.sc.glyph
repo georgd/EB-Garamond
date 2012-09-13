@@ -2,10 +2,17 @@ StartChar: macron.sc
 Encoding: 1114717 -1 1716
 Width: 250
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
-Refer: 114 175 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+74 58 m 10
+ -141 58 l 26
+ -148 58 -155 64 -155 70 c 0
+ -155 79 -149 108 -131 108 c 26
+ 92 108 l 18
+ 98 108 105 103 105 97 c 0
+ 105 88 92 58 74 58 c 10
+EndSplineSet
 Comment: "." 
 EndChar

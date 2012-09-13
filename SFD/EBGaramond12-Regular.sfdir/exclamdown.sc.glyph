@@ -2,10 +2,22 @@ StartChar: exclamdown.sc
 Encoding: 1114703 -1 1702
 Width: 282
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
-Refer: 67 161 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+152 374 m 24
+ 119 374 92 401 92 434 c 24
+ 92 467 119 494 152 494 c 24
+ 185 494 212 467 212 434 c 24
+ 212 401 185 374 152 374 c 24
+153 -180 m 0
+ 117 -180 101 -145 101 -106 c 0
+ 101 -43 114 87 124 205 c 0
+ 126 234 137 263 152 263 c 0
+ 162 263 172 233 174 211 c 0
+ 186 95 201 -21 201 -108 c 0
+ 201 -144 186 -180 153 -180 c 0
+EndSplineSet
 Comment: "." 
 EndChar
