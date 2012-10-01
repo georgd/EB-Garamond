@@ -55,9 +55,10 @@ feature dlig {
 } dlig;
 
 lookup liga_final_s {
-    ignore sub [ a e i u ]' s' [ @letters @letters_alt @ligatures hyphen ];
+    ignore sub [ a e i u eacute ]' s' [ @letters @letters_alt @ligatures hyphen ];
     sub a' s' by a_s;
     sub e' s' by e_s;
+    sub eacute' s' by eacute_s;
     sub i' s' by i_s;
     sub u' s' by u_s;
 } liga_final_s;

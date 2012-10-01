@@ -5,7 +5,7 @@
 @LeftKern_O = [ O Ohorn Q ];
 @LeftKern_V = [ V W Y ];
 @LeftKern_b = [ b h k l thorn ];
-@LeftKern_o = [ a ae aogonek c ccedilla d e eogonek g o oogonek oe q s scedilla eth ];
+@LeftKern_o = [ a ae aogonek c ccedilla d e eogonek e_s g o oogonek oe q s scedilla eth ];
 @LeftKern_m = [ m n p r u uogonek z dotlessi ];
 @LeftKern_t = [ t ];
 @LeftKern_v = [ v w x y ];
