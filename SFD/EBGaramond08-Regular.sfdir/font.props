@@ -20,13 +20,13 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1339019456
-ModificationTime: 1344599447
+ModificationTime: 1354357775
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 2 0 5 2 0 2 0 0 0 0
+Panose: 2 2 5 2 6 2 6 2 4 4
 OS2TypoAscent: 726
 OS2TypoAOffset: 0
 OS2TypoDescent: -274
@@ -356,7 +356,7 @@ NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 248 8 8
+WinInfo: 16 8 8
 BeginPrivate: 10
 OtherBlues 11 [-298 -252]
 BlueValues 39 [-12 0 417 430 547 564 585 608 671 712]

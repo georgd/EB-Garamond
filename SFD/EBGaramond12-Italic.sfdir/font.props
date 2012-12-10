@@ -20,13 +20,13 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1349080081
+ModificationTime: 1354355662
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 2 0 5 2 0 2 0 0 0 0
+Panose: 2 2 5 2 5 2 6 9 4 3
 OS2TypoAscent: 710
 OS2TypoAOffset: 0
 OS2TypoDescent: -290
@@ -126,7 +126,7 @@ DEI: 91125
 KernClass2: 15 18 "kern subtable" 
  1 A
  9 A.sc a.sc
- 85 E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde
+ 86 E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek uni1EBC
  1 F
  1 L
  1 M
@@ -143,7 +143,7 @@ KernClass2: 15 18 "kern subtable"
  9 O Ohorn Q
  5 V W Y
  19 V.sc W.sc v.sc w.sc
- 71 a ae aogonek c ccedilla d e e_s eogonek eth g o oe oogonek q s scedilla
+ 71 a ae aogonek c ccedilla d e e_s eogonek eth g o oe uni01EB q s scedilla
  28 dotlessi m n p r u uogonek z
  1 t
  79 uni0430 uni0435 uni0437 uni043E uni0441 uni044D uni044F uni0454 uni0455 uni04E9

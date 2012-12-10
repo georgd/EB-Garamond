@@ -15,17 +15,18 @@ LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Zeichenebene"  0
 XUID: [1021 114 2024522534 8930191]
-FSType: 8
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1312907347
-ModificationTime: 1342442423
-PfmFamily: 17
+ModificationTime: 1354356630
+PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 90
 VLineGap: 0
+Panose: 4 6 5 5 7 2 3 2 2 4
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -39,6 +40,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2FamilyClass: 258
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
@@ -49,7 +51,7 @@ NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 80 8 2
+WinInfo: 72 8 2
 BeginPrivate: 0
 EndPrivate
 EndSplineFont
