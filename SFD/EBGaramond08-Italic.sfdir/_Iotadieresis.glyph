@@ -1,0 +1,9 @@
+StartChar: Iotadieresis
+Encoding: 938 938 1043
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Substitution2: "c2sc subtable" Iotadieresis.sc
+MultipleSubs2: "CCMP_Precomp subtable" Iota uni0308.cap
+EndChar

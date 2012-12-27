@@ -1,0 +1,32 @@
+StartChar: l
+Encoding: 108 108 76
+Width: 195
+Flags: W
+HStem: -14 76<40.7792 124.117> 662 20G<202 229>
+VStem: 157 85<549.539 666.709>
+LayerCount: 2
+Fore
+SplineSet
+104 79 m 2
+ 101.097 67.3565 103 62 112 62 c 0
+ 148 62 179 110 194 110 c 0
+ 200 110 201 103 201 97 c 0
+ 201 62 121 -14 61 -14 c 0
+ 28 -14 17 5 17 27 c 0
+ 17 39 21 50 23 58 c 2
+ 148 558 l 2
+ 154.371 583.485 157 593 157 604 c 0
+ 157 612 87 626 87 641 c 0
+ 87 656 186 682 218 682 c 0
+ 240 682 242 670 242 657 c 0
+ 242 635 236.198 608.869 227 572 c 2
+ 104 79 l 2
+EndSplineSet
+Validated: 1
+Substitution2: "Smallcaps subtable" l.sc
+Substitution2: "sups subtable" l.sups
+Substitution2: "sinf subtable" l.sinf
+Substitution2: "ordn subtable" l.ordn
+Substitution2: "subs subtable" l.subs
+Substitution2: "loclCAT subtable" l.CAT
+EndChar

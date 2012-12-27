@@ -1,0 +1,25 @@
+StartChar: uni032C.cap
+Encoding: 1114187 -1 459
+Width: 0
+Flags: W
+HStem: -209 126
+VStem: 5 291<-97 -87>
+LayerCount: 2
+Fore
+SplineSet
+281 -83 m 0
+ 290 -83 296 -87 296 -93 c 0
+ 296 -97 294 -101 289 -105 c 2
+ 165 -187 l 2
+ 144 -201 130 -209 120 -209 c 0
+ 110 -209 93 -198 83 -187 c 2
+ 11 -105 l 2
+ 7 -100 5 -97 5 -93 c 0
+ 5 -87 10 -82 19 -82 c 0
+ 32 -82 88 -120 110 -138 c 0
+ 118 -145 128 -142 138 -138 c 0
+ 165 -127 268 -83 281 -83 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "c2sc subtable" uni032C
+EndChar

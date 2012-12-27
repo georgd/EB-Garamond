@@ -1,0 +1,52 @@
+StartChar: Y
+Encoding: 89 89 57
+Width: 510
+Flags: W
+HStem: -2 46<8.10474 88.3235 211.581 278.884> 569 35<5.01752 62.8764 212.591 263.98 346.02 388.827 508.719 574.98>
+AnchorPoint: "top_accent" 317 650 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+108 489 m 2
+ 98 534 67 556 21 569 c 0
+ 11 572 5 577 5 586 c 0
+ 5 598 25 604 40 604 c 0
+ 79 604 103 599 139 599 c 0
+ 174 599 195 604 229 604 c 0
+ 244 604 264 598 264 586 c 0
+ 264 577 257 571 249 569 c 0
+ 220 562 190 545 198 507 c 2
+ 231 359 l 2
+ 233 348 242 348 247 355 c 10
+ 375 512 l 2
+ 391 531 405 557 362 569 c 0
+ 353 572 346 577 346 586 c 0
+ 346 598 366 604 381 604 c 0
+ 420 604 432 599 468 599 c 0
+ 503 599 506 604 540 604 c 0
+ 555 604 575 598 575 586 c 0
+ 575 577 568 571 560 569 c 0
+ 478 546 457 530 419 485 c 2
+ 267 305 l 2
+ 258 293 247 278 237 239 c 2
+ 210 129 l 2
+ 199 85 210 53 233 45 c 0
+ 260 35 281 30 281 15 c 0
+ 281 5 266 -2 250 -2 c 0
+ 238 -2 175 4 127 4 c 0
+ 80 4 53 -2 38 -2 c 0
+ 22 -2 5 5 5 15 c 0
+ 5 30 37 34 60 44 c 0
+ 93 59 105 88 115 129 c 2
+ 142 238 l 2
+ 151 276 151 291 146 313 c 2
+ 108 489 l 2
+EndSplineSet
+Validated: 33
+Substitution2: "Swash subtable" Y.sw
+Substitution2: "c2sc subtable" Y.sc
+Substitution2: "sups subtable" Y.sups
+Substitution2: "sinf subtable" Y.sinf
+Substitution2: "ordn subtable" Y.ordn
+Substitution2: "subs subtable" Y.subs
+EndChar

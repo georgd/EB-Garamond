@@ -1,0 +1,35 @@
+StartChar: J
+Encoding: 74 74 42
+Width: 346
+Flags: W
+HStem: -244 76<-131.5 -18.9225> 569 35<138.021 194.729 338.533 400.982>
+AnchorPoint: "top_accent" 281 650 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+114 129 m 2
+ 205 495 l 2
+ 215.886 538.663 205.985 554.388 154 569 c 0
+ 145.336 571.436 138 577 138 586 c 0
+ 138 598 158 604 173 604 c 0
+ 212 604 248 599 284 599 c 0
+ 319 599 332 604 366 604 c 0
+ 381 604 401 598 401 586 c 0
+ 401 577 394.664 571.436 386 569 c 0
+ 329.201 553.034 312.096 543.515 300 495 c 2
+ 209 129 l 2
+ 165.174 -47.2626 68 -244 -115 -244 c 0
+ -148 -244 -179 -219 -179 -174 c 0
+ -179 -131 -148 -105 -116 -105 c 0
+ -93 -105 -77 -168 -35 -168 c 0
+ 31 -168 77.4698 -17.5146 114 129 c 2
+EndSplineSet
+Validated: 33
+Substitution2: "Swash subtable" J.sw
+Substitution2: "c2sc subtable" J.sc
+Substitution2: "sups subtable" J.sups
+Substitution2: "sinf subtable" J.sinf
+Substitution2: "ordn subtable" J.ordn
+Substitution2: "subs subtable" J.subs
+Substitution2: "historic_j subtable" J.hist
+EndChar

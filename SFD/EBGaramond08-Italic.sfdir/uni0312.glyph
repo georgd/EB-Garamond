@@ -1,0 +1,22 @@
+StartChar: uni0312
+Encoding: 786 786 325
+Width: 0
+Flags: W
+HStem: 650 36<117.653 176.711>
+VStem: 6 77<526 607.216>
+AnchorPoint: "top_accent" 94 570 mark 0
+LayerCount: 2
+Fore
+SplineSet
+6 541 m 0
+ 6 622 101 686 154 686 c 0
+ 166 686 177 680 177 671 c 0
+ 177 662 170.768 652.249 160 650 c 0
+ 119.866 641.616 83 616 83 578 c 0
+ 83 554 120 546 120 522 c 0
+ 120 494 86 481 60 481 c 0
+ 29 481 6 511 6 541 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "Smallcaps subtable" uni0312.sc
+EndChar

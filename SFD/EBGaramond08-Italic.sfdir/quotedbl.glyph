@@ -1,0 +1,32 @@
+StartChar: quotedbl
+Encoding: 34 34 4
+Width: 309
+Flags: W
+HStem: 444 232
+VStem: 49 244
+LayerCount: 2
+Fore
+SplineSet
+208 620 m 0
+ 212.788 633.155 219 648 227 655 c 0
+ 243 668 263 676 279 676 c 0
+ 289 676 293 661 293 644 c 0
+ 293 625 227.293 502.772 207 469 c 0
+ 200.305 457.856 193 444 188 444 c 0
+ 183 444 180.576 458.01 181 467 c 0
+ 181.707 481.983 201.714 602.729 208 620 c 0
+76 620 m 0
+ 80.7883 633.156 87 648 95 655 c 0
+ 111 668 131 676 147 676 c 0
+ 157 676 161 661 161 644 c 0
+ 161 625 95.2925 502.772 75 469 c 0
+ 68.3045 457.857 61 444 56 444 c 0
+ 51 444 48.576 458.01 49 467 c 0
+ 49.7066 481.983 69.7137 602.728 76 620 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" quotedbl.sups
+Substitution2: "sinf subtable" quotedbl.sinf
+Substitution2: "ordn subtable" quotedbl.ordn
+Substitution2: "subs subtable" quotedbl.subs
+EndChar

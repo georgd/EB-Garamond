@@ -1,0 +1,9 @@
+StartChar: epsilontonos
+Encoding: 941 941 1002
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Substitution2: "Smallcaps subtable" epsilontonos.sc
+MultipleSubs2: "CCMP_Precomp subtable" epsilon acutecomb.grk
+EndChar

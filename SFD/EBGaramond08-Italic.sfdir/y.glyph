@@ -1,0 +1,36 @@
+StartChar: y
+Encoding: 121 121 89
+Width: 437
+Flags: W
+HStem: -270 62<-5.60067 99.2246> 352 78<122.944 182.951>
+VStem: 364 68<304.202 427.875>
+AnchorPoint: "top_accent" 339 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+192.001 302 m 0
+ 186.792 331.544 175 352 153 352 c 0
+ 116 352 80 279 66 279 c 0
+ 59 279 55 295 55 303 c 0
+ 55 323 108 430 177 430 c 0
+ 218 430 253.89 393.977 267 332 c 0
+ 278 280 276.765 198.324 270 121 c 0
+ 269.129 111.038 277.444 98.2695 285 115 c 0
+ 327 208 358.572 329.38 364 368 c 0
+ 369.872 409.779 383 435 401 435 c 0
+ 415 435 432 409 432 385 c 0
+ 432 365 373.839 166.186 291 5 c 0
+ 232.619 -108.596 148.293 -270 24 -270 c 0
+ -27.4053 -270 -45 -246 -45 -217 c 0
+ -45 -196 -19 -171 2 -171 c 0
+ 17 -171 39 -208 69 -208 c 0
+ 151 -208 207 -2.07 207 118 c 0
+ 207 203.3 204.493 231.153 192.001 302 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "Smallcaps subtable" y.sc
+Substitution2: "sups subtable" y.sups
+Substitution2: "sinf subtable" y.sinf
+Substitution2: "ordn subtable" y.ordn
+Substitution2: "subs subtable" y.subs
+EndChar

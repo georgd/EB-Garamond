@@ -1,0 +1,24 @@
+StartChar: acutecomb.cap
+Encoding: 1114170 -1 442
+Width: 0
+Flags: W
+HStem: 697 153
+VStem: 6 191
+AnchorPoint: "top_stack" 52 710 mark 0
+AnchorPoint: "top_accent" 75 710 mark 0
+LayerCount: 2
+Fore
+SplineSet
+12 697 m 0
+ 8 697 6 700 6 703 c 0
+ 6 707 8 713 11 718 c 0
+ 35 758 78.462 803.462 112 837 c 0
+ 120.634 845.634 128 850 139 850 c 0
+ 153 850 197 831 197 817 c 0
+ 197 810 194.427 804.02 184 798 c 0
+ 138.534 771.75 84.3013 731 41 706 c 0
+ 30.6077 700 15 697 12 697 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "c2sc subtable" acutecomb.sc
+EndChar

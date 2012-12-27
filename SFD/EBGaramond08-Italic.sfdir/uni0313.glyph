@@ -1,0 +1,24 @@
+StartChar: uni0313
+Encoding: 787 787 326
+Width: 0
+Flags: W
+HStem: 481 36<6.2818 65.3474> 666 20G<110 138.5>
+VStem: 100 77<559.751 641>
+AnchorPoint: "top_accent" 107 570 mark 0
+LayerCount: 2
+Fore
+SplineSet
+177 626 m 0
+ 177 545 82 481 29 481 c 0
+ 17 481 6 487 6 496 c 0
+ 6 505 12 515 23 517 c 0
+ 63 525 100 551 100 589 c 0
+ 100 613 63 621 63 645 c 0
+ 63 673 97 686 123 686 c 0
+ 154 686 177 656 177 626 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "Smallcaps subtable" uni0313.sc
+Substitution2: "Single Substitution lookup 17 subtable" uni0313.grkstack
+Substitution2: "Single Substitution lookup 16 subtable" uni0313.grk
+EndChar

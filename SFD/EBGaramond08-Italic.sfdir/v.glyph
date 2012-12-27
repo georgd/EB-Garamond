@@ -1,0 +1,37 @@
+StartChar: v
+Encoding: 118 118 86
+Width: 454
+Flags: W
+HStem: -14 75<95.5 201.316> 352 78<119.34 197.12>
+VStem: 357 72<241.244 346.53>
+AnchorPoint: "top_accent" 303 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+126 -14 m 0
+ 65 -14 52.0779 62.5278 78 156 c 2
+ 122 315 l 2
+ 126.472 331.158 132 352 120 352 c 0
+ 92 352 53 304 39 304 c 0
+ 32 304 28 320 28 328 c 0
+ 28 348 129 430 182 430 c 0
+ 223 430 215.647 383.226 210 363 c 2
+ 148 141 l 2
+ 138.857 108.252 144 61 180 61 c 0
+ 259 61 357 210 357 290 c 0
+ 357 330 323 355 323 374 c 0
+ 323 391 352 430 374 430 c 0
+ 404 430 429 384 429 337 c 0
+ 429 192 250 -14 126 -14 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "Smallcaps subtable" v.sc
+Substitution2: "sups subtable" v.sups
+Substitution2: "sinf subtable" v.sinf
+Substitution2: "ordn subtable" v.ordn
+Substitution2: "subs subtable" v.subs
+AlternateSubs2: "v_alternates subtable" v.init v.alt v.initalt
+Substitution2: "ss03 subtable" v.alt
+Substitution2: "Single Substitution lookup 25 subtable" v.LATmedi
+Substitution2: "loclLAT subtable" v.LAT
+EndChar

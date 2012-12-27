@@ -1,0 +1,32 @@
+StartChar: c
+Encoding: 99 99 67
+Width: 346
+Flags: W
+HStem: -14 67<102.25 211.379> 386 44<211.076 305.442>
+VStem: 36 88<63.3684 241.014>
+AnchorPoint: "cedilla" 197 8 basechar 0
+AnchorPoint: "top_accent" 305 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+288 430 m 4
+ 322 430 365 415 365 381 c 4
+ 365 366 345 332 330 332 c 4
+ 317 332 307 334.6 288 366 c 4
+ 282.306 375.411 264 386 253 386 c 4
+ 195 386 124 242 124 130 c 4
+ 124 84 140 53 176 53 c 4
+ 221 53 268 131 278 131 c 4
+ 288 131 303 124 303 106 c 4
+ 303 81 224 -14 139 -14 c 4
+ 68 -14 36 58 36 126 c 4
+ 36 187 50.9773 239.168 82 294 c 4
+ 128.288 375.813 201 430 288 430 c 4
+EndSplineSet
+Validated: 1
+Substitution2: "Smallcaps subtable" c.sc
+Substitution2: "sups subtable" c.sups
+Substitution2: "sinf subtable" c.sinf
+Substitution2: "ordn subtable" c.ordn
+Substitution2: "subs subtable" c.subs
+EndChar

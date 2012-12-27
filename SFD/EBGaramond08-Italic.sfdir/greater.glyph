@@ -1,0 +1,29 @@
+StartChar: greater
+Encoding: 62 62 30
+Width: 578
+Flags: W
+HStem: -25 21G<58 61.5>
+LayerCount: 2
+Fore
+SplineSet
+442 215 m 6
+ 76 381 l 6
+ 57 390 50 428 50 437 c 4
+ 50 442 55 450 61 450 c 4
+ 62 450 63 449 64 449 c 6
+ 493 249 l 6
+ 510 241 534 228 534 222 c 4
+ 534 213 521 185 501 176 c 6
+ 64 -24 l 6
+ 63 -24 62 -25 61 -25 c 4
+ 55 -25 51 -21 51 -15 c 4
+ 51 -3 64 35 84 44 c 6
+ 443 206 l 6
+ 448 208 447 213 442 215 c 6
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" greater.sups
+Substitution2: "sinf subtable" greater.sinf
+Substitution2: "ordn subtable" greater.ordn
+Substitution2: "subs subtable" greater.subs
+EndChar

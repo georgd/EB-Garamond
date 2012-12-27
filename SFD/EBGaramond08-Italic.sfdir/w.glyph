@@ -1,0 +1,45 @@
+StartChar: w
+Encoding: 119 119 87
+Width: 685
+Flags: W
+HStem: -14 75<95.5 189.92 353.5 447.979> 352 78<119.34 197.177>
+VStem: 313 59<69.9768 113.367> 341 98<264.779 350.763> 588 72<235.209 346.53>
+AnchorPoint: "top_accent" 439 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+307 113 m 0xe8
+ 254 39 172 -14 126 -14 c 0
+ 65 -14 52 63 78 156 c 2
+ 122 315 l 2
+ 126 331 132 352 120 352 c 0
+ 92 352 53 304 39 304 c 0
+ 32 304 28 320 28 328 c 0
+ 28 348 129 430 182 430 c 0
+ 223 430 216 383 210 363 c 2
+ 148 141 l 2
+ 139 108 144 61 180 61 c 0
+ 235 61 292 142 327 212 c 0
+ 328 214 328 262 341 305 c 0
+ 354 347 379 383 411 383 c 0
+ 422 383 439 384 439 337 c 0xd8
+ 439 311 424 273 400 233 c 0
+ 377 194 372 148 372 128 c 0
+ 372 98 386 61 416 61 c 0
+ 507 61 588 210 588 290 c 0
+ 588 330 554 355 554 374 c 0
+ 554 391 583 430 605 430 c 0
+ 635 430 660 384 660 337 c 0
+ 660 192 498 -14 374 -14 c 0
+ 333 -14 313 37 313 83 c 0
+ 313 92 314 100 315 108 c 0
+ 317 118 313 121 307 113 c 0xe8
+EndSplineSet
+Validated: 33
+Substitution2: "Smallcaps subtable" w.sc
+Substitution2: "sups subtable" w.sups
+Substitution2: "sinf subtable" w.sinf
+Substitution2: "ordn subtable" w.ordn
+Substitution2: "subs subtable" w.subs
+Substitution2: "ss03 subtable" w.alt
+EndChar

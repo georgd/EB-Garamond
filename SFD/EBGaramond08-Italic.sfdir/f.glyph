@@ -1,0 +1,46 @@
+StartChar: f
+Encoding: 102 102 70
+Width: 280
+Flags: W
+HStem: -267 59<-96.5 -13.0655> 391 39<197.828 322.665> 542 21G<401 424.5> 648 47<285.511 370.253>
+VStem: 392 73<552.506 626.056>
+LayerCount: 2
+Fore
+SplineSet
+353 695 m 4
+ 414 695 465 654 465 603 c 4
+ 465 561 438 542 411 542 c 4
+ 391 542 392 555 392 582 c 4
+ 392 608 362 648 329 648 c 4
+ 265.753 648 204.143 504.714 197 444 c 4
+ 196 437 191.271 425.358 207 426 c 6
+ 311 430 l 6
+ 321.991 430.423 324 427 324 417 c 4
+ 324 407 312.988 391.516 301 391 c 6
+ 195 385 l 6
+ 183.019 384.33 180.588 379.921 178.999 364 c 4
+ 174.008 313.998 130 34 110 -48 c 4
+ 90 -129 23 -267 -81 -267 c 4
+ -112 -267 -154 -250 -154 -219 c 4
+ -154 -189 -140 -159 -112 -159 c 4
+ -98 -159 -66 -208 -41 -208 c 4
+ -8 -208 5.6702 -164.672 19 -109 c 4
+ 36 -38 86.8882 239.495 98 364 c 4
+ 98.8889 373.96 99.9932 379.384 89 379 c 6
+ 32 376 l 6
+ 22.0156 375.475 16 377 16 387 c 4
+ 16 397 29.0229 417.29 40 418 c 6
+ 96 421 l 6
+ 105.985 421.541 106.244 423.387 109 433 c 4
+ 160.544 612.756 286 695 353 695 c 4
+EndSplineSet
+Validated: 33
+Substitution2: "Single Substitution lookup 60 subtable" f.short
+Substitution2: "Single Substitution lookup 59 subtable" f.short
+Substitution2: "Smallcaps subtable" f.sc
+Substitution2: "sups subtable" f.sups
+Substitution2: "sinf subtable" f.sinf
+Substitution2: "ordn subtable" f.ordn
+Substitution2: "subs subtable" f.subs
+Substitution2: "loclDEU subtable" f.DEU
+EndChar

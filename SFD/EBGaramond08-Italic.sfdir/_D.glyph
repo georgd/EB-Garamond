@@ -1,0 +1,40 @@
+StartChar: D
+Encoding: 68 68 36
+Width: 706
+Flags: W
+HStem: -6 53<27.7212 106.06 240.256 433.974> 564 45<340.901 503.769> 564 35<155.734 216.799 343.725 442.092>
+VStem: 627 105<231.925 440.324>
+AnchorPoint: "cedilla" 351 8 basechar 0
+AnchorPoint: "top_accent" 436 650 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+222 495 m 2xd0
+ 232.734 538.701 222.985 554.388 171 569 c 0
+ 162.336 571.436 155 577 155 586 c 0
+ 155 598 175 604 190 604 c 0
+ 209 604 245 599 264 599 c 0xb0
+ 334.697 599 382.74 609 445 609 c 0
+ 602 609 732 495 732 339 c 0
+ 732 124 506.75 -6 291 -6 c 0
+ 210.5 -6 191 4 143 4 c 0
+ 96 4 69 -2 54 -2 c 0
+ 38 -2 21 5 21 15 c 0
+ 21 30 53.2324 33.6729 76 44 c 0
+ 108.784 58.8721 120.866 88.2412 131 129 c 2
+ 222 495 l 2xd0
+314 481 m 2
+ 226 129 l 2
+ 217.775 96.0099 225 47 313 47 c 0
+ 473 47 627 155 627 322 c 0
+ 627 473 551 564 388 564 c 0xd0
+ 346 564 327.693 536.331 314 481 c 2
+EndSplineSet
+Validated: 33
+Substitution2: "Swash subtable" D.sw
+Substitution2: "c2sc subtable" D.sc
+Substitution2: "sups subtable" D.sups
+Substitution2: "sinf subtable" D.sinf
+Substitution2: "ordn subtable" D.ordn
+Substitution2: "subs subtable" D.subs
+EndChar

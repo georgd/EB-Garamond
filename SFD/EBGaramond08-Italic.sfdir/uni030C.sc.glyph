@@ -1,0 +1,27 @@
+StartChar: uni030C.sc
+Encoding: 1115057 -1 1832
+Width: 0
+Flags: W
+HStem: 688 134
+VStem: 5 291<808 818>
+AnchorPoint: "top_stack" 151 720 mark 0
+AnchorPoint: "top_stack" 151 850 basemark 0
+AnchorPoint: "top_accent" 120 710 mark 0
+LayerCount: 2
+Fore
+SplineSet
+281 822 m 0
+ 290 822 296 818 296 812 c 0
+ 296 808 294 804 289 800 c 2
+ 157 710 l 2
+ 132 694 122 688 112 688 c 0
+ 102 688 85 699 75 710 c 2
+ 11 800 l 2
+ 7 805 5 808 5 812 c 0
+ 5 818 10 823 19 823 c 0
+ 32 823 88 785 110 767 c 0
+ 118 760 128 763 138 767 c 0
+ 165 778 268 822 281 822 c 0
+EndSplineSet
+Validated: 1048577
+EndChar

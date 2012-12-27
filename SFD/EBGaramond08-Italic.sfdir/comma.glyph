@@ -1,0 +1,24 @@
+StartChar: comma
+Encoding: 44 44 14
+Width: 250
+Flags: W
+HStem: -133 270<8 113>
+VStem: 106 94<-22.6512 73.9922>
+LayerCount: 2
+Fore
+SplineSet
+50 97 m 4
+ 50 121 78 137 113 137 c 4
+ 160.98 137 200 97.9844 200 50 c 4
+ 200 -53.4443 69 -133 8 -133 c 4
+ -2 -133 -15 -131 -15 -121 c 4
+ -15 -111 -8.52466 -108.891 10 -99 c 4
+ 61.1634 -71.6813 106 -44 106 12 c 4
+ 106 50 50 61 50 97 c 4
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" comma.sups
+Substitution2: "sinf subtable" comma.sinf
+Substitution2: "ordn subtable" comma.ordn
+Substitution2: "subs subtable" comma.subs
+EndChar

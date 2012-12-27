@@ -1,0 +1,38 @@
+StartChar: C
+Encoding: 67 67 35
+Width: 595
+Flags: W
+HStem: -8 46<245.161 402.815> 576 44<331.797 500.638> 586 20G<610.5 626>
+VStem: 38 113<156.567 371.236> 555 77<486.237 524.905>
+AnchorPoint: "cedilla" 340 8 basechar 0
+AnchorPoint: "top_accent" 449 660 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+270 -8 m 0xd8
+ 131 -8 38 136 38 266 c 0
+ 38 487 254 620 442 620 c 0xd8
+ 505 620 549 589 580 587 c 0
+ 595 586 601 606 620 606 c 0xb8
+ 632 606 632 597 632 577 c 0
+ 632 562 598 414 575 414 c 0
+ 563 414 559 432 555 472 c 0
+ 549 532 492 576 422 576 c 0
+ 272 576 151 420 151 245 c 0
+ 151 144 215 38 321 38 c 0
+ 384 38 453 84 474 114 c 0
+ 486 131 499 151 519 151 c 0
+ 535 151 533 137 533 122 c 0
+ 533 107 479 -10 462 -10 c 0
+ 448 -10 450 -3 446 9 c 0
+ 444 15 437 21 427 15 c 0
+ 411 5 358 -8 270 -8 c 0xd8
+EndSplineSet
+Validated: 33
+Substitution2: "Swash subtable" C.sw
+Substitution2: "c2sc subtable" C.sc
+Substitution2: "sups subtable" C.sups
+Substitution2: "sinf subtable" C.sinf
+Substitution2: "ordn subtable" C.ordn
+Substitution2: "subs subtable" C.subs
+EndChar

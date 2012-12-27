@@ -1,0 +1,47 @@
+StartChar: eight
+Encoding: 56 56 25
+Width: 341
+Flags: W
+HStem: -20 48<129.443 218.328> 538 44<263.154 340.689>
+VStem: 30 80<46.2507 161.17> 160 72<342.042 494.486> 242 85<69.9338 215.463> 360 76<404.863 519.441>
+LayerCount: 2
+Fore
+SplineSet
+360 449 m 0
+ 360 491 342 538 301 538 c 0
+ 261 538 232 472 232 428 c 0
+ 232 399 244 363 257 335 c 2
+ 263 322 l 1
+ 273 328 l 2
+ 317 356 360 395 360 449 c 0
+110 116 m 0
+ 110 76 128 28 168 28 c 0
+ 208 28 242 51 242 113 c 0
+ 242 158 232 190 212 236 c 2
+ 207 247 l 1
+ 190 236 l 2
+ 144 207 110 171 110 116 c 0
+278 290 m 1
+ 284 276 l 2
+ 307 226 327 190 327 134 c 0
+ 327 40 202 -20 133 -20 c 0
+ 70 -20 30 34 30 94 c 0
+ 30 172 108 223 184 272 c 2
+ 194 278 l 1
+ 186 297 l 2
+ 172 331 160 375 160 414 c 0
+ 160 514 248 582 335 582 c 0
+ 393 582 436 531 436 473 c 0
+ 436 393 356 338 288 296 c 2
+ 278 290 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 44 subtable" eight.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" eight.lnum
+Substitution2: "Single Substitution lookup 41 subtable" eight.ordn
+Substitution2: "Single Substitution lookup 40 subtable" eight.subs
+Substitution2: "sups subtable" eight.sups
+Substitution2: "sinf subtable" eight.sinf
+Substitution2: "ordn subtable" eight.ordn
+Substitution2: "subs subtable" eight.subs
+EndChar

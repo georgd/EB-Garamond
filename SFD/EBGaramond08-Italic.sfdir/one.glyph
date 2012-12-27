@@ -1,0 +1,39 @@
+StartChar: one
+Encoding: 49 49 18
+Width: 346
+Flags: W
+HStem: -2 46<-8.74799 61.5556 167.546 227.459> 396 35<73.0213 128.597 252.764 316.97>
+VStem: -11 328
+LayerCount: 2
+Fore
+SplineSet
+168 129 m 2
+ 156.503 85.4932 164.447 53.209 187 45 c 0
+ 214.251 35.0811 229 30 229 15 c 0
+ 229 5 214 -2 198 -2 c 0
+ 186 -2 152 4 104 4 c 0
+ 57 4 37 -2 22 -2 c 0
+ 6 -2 -11 5 -11 15 c 0
+ -11 30 11.2324 33.6729 34 44 c 0
+ 66.7842 58.8721 76.665 88.292 87 129 c 2
+ 136 322 l 2
+ 147.073 365.616 140.985 381.388 89 396 c 0
+ 80.3359 398.436 73 404 73 413 c 0
+ 73 425 93 431 108 431 c 0
+ 147 431 167 426 203 426 c 0
+ 238 426 248 431 282 431 c 0
+ 297 431 317 425 317 413 c 0
+ 317 404 306.664 398.436 298 396 c 0
+ 241.201 380.034 231.773 370.341 219 322 c 2
+ 168 129 l 2
+EndSplineSet
+Validated: 33
+Substitution2: "'tnum' Tabular Numbers lookup 44 subtable" one.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" one.lnum
+Substitution2: "Single Substitution lookup 41 subtable" one.ordn
+Substitution2: "Single Substitution lookup 40 subtable" one.subs
+Substitution2: "sups subtable" one.sups
+Substitution2: "sinf subtable" one.sinf
+Substitution2: "ordn subtable" one.ordn
+Substitution2: "subs subtable" one.subs
+EndChar

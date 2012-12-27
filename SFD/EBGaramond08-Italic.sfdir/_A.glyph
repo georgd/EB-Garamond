@@ -1,0 +1,54 @@
+StartChar: A
+Encoding: 65 65 33
+Width: 616
+Flags: W
+HStem: -2 46<0.104736 97.1861 209.372 270.884 357.105 438.068 562.051 627.884> 216 50<373 473.453> 577 20G<593.5 608.5>
+AnchorPoint: "cedilla" 124 8 basechar 0
+AnchorPoint: "ogonek" 524 18 basechar 0
+AnchorPoint: "top_accent" 608 660 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+486 280 m 2
+ 504 406 l 2
+ 506.818 425.801 499.406 430.1 481 409 c 2
+ 373 285 l 2
+ 365.111 275.957 365 266 373 266 c 10
+ 474 266 l 18
+ 484 266 484.873 272.08 486 280 c 2
+301 203 m 2
+ 229 120 l 2
+ 204 91 202 53 225 45 c 0
+ 252 35 273 30 273 15 c 0
+ 273 5 258 -2 242 -2 c 0
+ 230 -2 167 4 119 4 c 0
+ 72 4 45 -2 30 -2 c 0
+ 14 -2 -3 5 -3 15 c 0
+ -3 30 29 34 52 44 c 0
+ 85 59 123 72 176 132 c 2
+ 496 499 l 2
+ 513 517 517 552 526 560 c 0
+ 548 579 587 597 600 597 c 0
+ 617 597 623 591 620 571 c 2
+ 559 129 l 2
+ 553 84 559 53 582 45 c 0
+ 609 35 630 30 630 15 c 0
+ 630 5 615 -2 599 -2 c 0
+ 587 -2 526 4 478 4 c 0
+ 431 4 402 -2 387 -2 c 0
+ 371 -2 354 5 354 15 c 0
+ 354 30 386 34 409 44 c 0
+ 442 59 457 88 464 129 c 2
+ 475 205 l 2
+ 476.141 212.918 474 216 464 216 c 10
+ 325 216 l 18
+ 315 216 308.856 212.07 301 203 c 2
+EndSplineSet
+Validated: 33
+Substitution2: "Swash subtable" A.sw
+Substitution2: "c2sc subtable" A.sc
+Substitution2: "sups subtable" A.sups
+Substitution2: "sinf subtable" A.sinf
+Substitution2: "ordn subtable" A.ordn
+Substitution2: "subs subtable" A.subs
+EndChar

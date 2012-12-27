@@ -1,0 +1,47 @@
+StartChar: U
+Encoding: 85 85 53
+Width: 689
+Flags: W
+HStem: -20 51<243.658 407.071> 567 37<99.0204 158.988 293.589 361.983 528.03 592.566 697.245 764.976>
+AnchorPoint: "cedilla" 338 8 basechar 0
+AnchorPoint: "ogonek" 416 18 basechar 0
+AnchorPoint: "top_accent" 452 650 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+550 567 m 0
+ 538.356 569.903 528 577 528 586 c 0
+ 528 598 548 604 563 604 c 0
+ 582 604 614 599 650 599 c 0
+ 685 599 696 604 730 604 c 0
+ 745 604 765 598 765 586 c 0
+ 765 577 756.627 569.706 747 567 c 0
+ 700.791 554.011 677.161 546.752 667 506 c 2
+ 608 270 l 2
+ 567.739 112.051 478 -20 294 -20 c 0
+ 175 -20 60 69 102 238 c 2
+ 166 495 l 2
+ 177 539 167 554 115 569 c 0
+ 106 571 99 577 99 586 c 0
+ 99 598 119 604 134 604 c 0
+ 173 604 209 599 245 599 c 0
+ 280 599 293 604 327 604 c 0
+ 342 604 362 598 362 586 c 0
+ 362 577 356 571 347 569 c 0
+ 290 553 273 544 261 495 c 2
+ 201 254 l 2
+ 163 105 224 31 322 31 c 0
+ 458 31 517.325 156.871 557 316 c 2
+ 604 505 l 2
+ 612.892 539.885 592.693 556.355 550 567 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "Swash subtable" U.sw
+Substitution2: "c2sc subtable" U.sc
+Substitution2: "sups subtable" U.sups
+Substitution2: "sinf subtable" U.sinf
+Substitution2: "ordn subtable" U.ordn
+Substitution2: "subs subtable" U.subs
+Substitution2: "Single Substitution lookup 26 subtable" U.LAT
+Substitution2: "loclLAT subtable" U.LAT
+EndChar

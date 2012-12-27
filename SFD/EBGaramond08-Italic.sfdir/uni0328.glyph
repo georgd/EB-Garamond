@@ -1,0 +1,24 @@
+StartChar: uni0328
+Encoding: 808 808 884
+Width: 0
+Flags: W
+HStem: -270 64<76.0223 135.876>
+VStem: 0 71<-203.154 -114.855>
+AnchorPoint: "ogonek" 182 18 mark 0
+LayerCount: 2
+Fore
+SplineSet
+67 -270 m 0
+ 31.0219 -271.256 0 -234 0 -200 c 0
+ 0 -94 85 -26 172 24 c 1
+ 205 24 l 1
+ 138 -22 71 -100 71 -158 c 0
+ 71 -176 79 -206 105 -206 c 0
+ 126 -206 157 -194 169 -180 c 0
+ 171 -178 179 -172 185 -172 c 0
+ 190 -172 193 -176 193 -188 c 0
+ 193 -212 127.963 -267.871 67 -270 c 0
+EndSplineSet
+Validated: 33
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0328.cap
+EndChar

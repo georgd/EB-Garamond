@@ -1,0 +1,25 @@
+StartChar: tildecomb.cap
+Encoding: 1114172 -1 444
+Width: 0
+Flags: W
+HStem: 688 21G<28 37> 720 69<44.7791 245.646>
+VStem: 5 288
+AnchorPoint: "top_stack" 143 706 mark 0
+AnchorPoint: "top_stack" 143 820 basemark 0
+AnchorPoint: "top_accent" 152 710 mark 0
+LayerCount: 2
+Fore
+SplineSet
+210 720 m 0
+ 185 720 114 723 89 723 c 0
+ 55 723 42 688 32 688 c 0
+ 24 688 5 695 5 705 c 0
+ 5 738 55 794 92 794 c 0
+ 117 794 183 789 208 789 c 0
+ 243 789 256 834 268 834 c 0
+ 278 834 293 827 293 817 c 0
+ 293 787 247 720 210 720 c 0
+EndSplineSet
+Validated: 1048577
+Substitution2: "c2sc subtable" tildecomb.sc
+EndChar

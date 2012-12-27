@@ -1,0 +1,14 @@
+StartChar: Umacron
+Encoding: 362 362 532
+Width: 689
+VWidth: 0
+HStem: -20 51<243.658 407.071> 567 37<99.0204 158.988 293.589 361.983 528.03 592.566 697.245 764.976> 663 55<309.661 585.838>
+VStem: 306 285<665.629 717.782>
+LayerCount: 2
+Fore
+Refer: 445 -1 N 1 0 0 1 301 -60 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+Validated: 32769
+Substitution2: "c2sc subtable" Umacron.sc
+MultipleSubs2: "CCMP_Precomp subtable" U uni0304.cap
+EndChar

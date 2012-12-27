@@ -1,0 +1,57 @@
+StartChar: numbersign
+Encoding: 35 35 5
+Width: 680
+Flags: W
+HStem: 138 65<25.331 143 230 332 419 572.386> 355 65<94.331 224 312 413 501 641.386>
+LayerCount: 2
+Fore
+SplineSet
+290 529 m 2
+ 301 558 321 592 348 592 c 0
+ 380 592 362 553 338 490 c 2
+ 312 420 l 1
+ 438 420 l 1
+ 479 529 l 2
+ 490 558 509 592 528 592 c 0
+ 559 592 551 553 527 490 c 2
+ 501 420 l 1
+ 577 420 l 2
+ 600 420 646 410 646 386 c 0
+ 646 372 618 355 562 355 c 2
+ 476 355 l 1
+ 419 203 l 1
+ 508 203 l 2
+ 531 203 577 193 577 169 c 0
+ 577 155 549 138 493 138 c 2
+ 394 138 l 1
+ 353 28 l 2
+ 342 -1 324 -34 293 -34 c 0
+ 275 -34 278 -4 305 67 c 2
+ 332 138 l 1
+ 205 138 l 1
+ 164 28 l 2
+ 153 -1 135 -34 113 -34 c 0
+ 95 -34 89 -4 116 67 c 2
+ 143 138 l 1
+ 90 138 l 2
+ 61 138 20 149 20 174 c 0
+ 20 188 47 203 104 203 c 2
+ 167 203 l 1
+ 224 355 l 1
+ 159 355 l 2
+ 130 355 89 366 89 391 c 0
+ 89 405 116 420 173 420 c 2
+ 249 420 l 1
+ 290 529 l 2
+287 355 m 1
+ 230 203 l 1
+ 356 203 l 1
+ 413 355 l 1
+ 287 355 l 1
+EndSplineSet
+Validated: 33
+Substitution2: "sups subtable" numbersign.sups
+Substitution2: "sinf subtable" numbersign.sinf
+Substitution2: "ordn subtable" numbersign.ordn
+Substitution2: "subs subtable" numbersign.subs
+EndChar

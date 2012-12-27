@@ -1,0 +1,23 @@
+StartChar: uni0325
+Encoding: 805 805 881
+Width: 0
+Flags: W
+HStem: -207 28<83.501 133.883> -68 28<94.1703 146.66>
+VStem: 33 42<-176.408 -80.8528> 157 42<-162.567 -72.6971>
+LayerCount: 2
+Fore
+SplineSet
+125 -40 m 0
+ 163 -40 199 -68 199 -107 c 0
+ 199 -160 151 -207 102 -207 c 0
+ 65 -207 33 -181 33 -144 c 0
+ 33 -89 77 -40 125 -40 c 0
+75 -137 m 0
+ 75 -157 87 -179 107 -179 c 0
+ 133 -179 157 -141 157 -110 c 0
+ 157 -87 141 -68 118 -68 c 0
+ 94 -68 75 -107 75 -137 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0325.cap
+EndChar

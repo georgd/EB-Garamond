@@ -1,0 +1,21 @@
+StartChar: uni0307.stack
+Encoding: 1114193 -1 465
+Width: 0
+Flags: W
+HStem: 513 100<23.7711 87.2976>
+VStem: 10 90<525.614 599.468>
+AnchorPoint: "top_stack" 111 500 mark 0
+AnchorPoint: "top_stack" 111 640 basemark 0
+AnchorPoint: "top_accent" 119 700 mark 0
+LayerCount: 2
+Fore
+SplineSet
+66 613 m 0
+ 87 613 100 591 100 570 c 0
+ 100 540 75 513 45 513 c 0
+ 25 513 10 532 10 552 c 0
+ 10 584 34 613 66 613 c 0
+EndSplineSet
+Validated: 1048577
+Substitution2: "Smallcaps subtable" uni0307.stacksc
+EndChar

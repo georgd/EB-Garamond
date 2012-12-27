@@ -1,0 +1,32 @@
+StartChar: uni0302.stack
+Encoding: 1114202 -1 474
+Width: 0
+Flags: W
+HStem: 447 159
+VStem: 10 193<460 462>
+AnchorPoint: "top_stack" 116 447 mark 0
+AnchorPoint: "hookstack" 224 564 basemark 0
+AnchorPoint: "acutestack" 224 558 basemark 0
+AnchorPoint: "gravestack" 9 558 basemark 0
+AnchorPoint: "top_stack" 116 640 basemark 0
+AnchorPoint: "top_accent" 119 700 mark 0
+LayerCount: 2
+Fore
+SplineSet
+126 531 m 0
+ 92 503 69 481 46 459 c 0
+ 39 452 24 447 19 447 c 0
+ 14 447 10 450 10 456 c 0
+ 10 462 13 468 17 474 c 0
+ 34 498 86 554 114 582 c 0
+ 134 601 145 606 155 606 c 0
+ 164 606 167 598 173 576 c 0
+ 183 537 203 478 203 468 c 0
+ 203 460 200 447 195 447 c 0
+ 188 447 180 453 174 464 c 0
+ 166 479 151 501 135 531 c 0
+ 132 536 130 534 126 531 c 0
+EndSplineSet
+Validated: 1048577
+Substitution2: "Smallcaps subtable" uni0302.stacksc
+EndChar

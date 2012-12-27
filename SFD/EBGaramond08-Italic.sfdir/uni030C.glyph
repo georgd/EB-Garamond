@@ -1,0 +1,29 @@
+StartChar: uni030C
+Encoding: 780 780 320
+Width: 215
+Flags: W
+HStem: 462 195
+VStem: 10 25<640 656.031>
+AnchorPoint: "top_accent" 79 570 mark 0
+LayerCount: 2
+Fore
+SplineSet
+82 566 m 2
+ 170 641 l 2
+ 179 649 191 657 196 657 c 0
+ 201 657 205 654 205 648 c 0
+ 205 642 202 636 198 630 c 0
+ 181 606 125 532 101 504 c 0
+ 83 483 61 462 51 462 c 0
+ 42 462 39 470 33 492 c 0
+ 23 531 10 626 10 636 c 0
+ 10 644 13 657 18 657 c 0
+ 25 657 29 652 35 640 c 2
+ 71 569 l 2
+ 74 564 78 563 82 566 c 2
+EndSplineSet
+Validated: 1
+Substitution2: "Smallcaps subtable" uni030C.sc
+Substitution2: "Single Substitution lookup 9 subtable" uni030C.alt
+Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni030C.cap
+EndChar
