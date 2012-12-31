@@ -11,12 +11,12 @@ DIST=$(NAME)-$(VERSION)-complete
 
 PY=python
 SCRIPT=tools/makefont.py
-SFNTTOOL=sfnttool.jar
+#SFNTTOOL=sfnttool.jar # We now use ttf2eot from https://github.com/greyfont/ttf2eot and sfnt2woff from http://people.mozilla.com/~jkew/woff
 
 #SIZES=08 12
 #STYLES=Regular SC Allsc Italic Bold
 #SPECIAL=Initials InitialsF1 InitialsF2
-FONTS=08-Regular 12-Regular 12-SC 12-AllSC 12-Italic  -Initials -InitialsF1 -InitialsF2  08-SC # 08-Italic 12-Bold
+FONTS=08-Regular 08-SC 08-Italic 12-Regular 12-SC 12-AllSC 12-Italic  -Initials -InitialsF1 -InitialsF2  #12-Bold
 
 SFD=$(FONTS:%=$(SRC)/$(NAME)%.sfdir)
 OTF=$(FONTS:%=$(BLD)/$(NAME)%.otf)
@@ -47,11 +47,13 @@ $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT)
 		
 $(WEB)/%.woff: $(BLD)/%.ttf
 	@echo "Generating	$@"
-	@$(SFNTTOOL) -w $< $@
+#	@$(SFNTTOOL) -w $< $@
+	@sfnt2woff $<
 	
 $(WEB)/%.eot: $(BLD)/%.ttf
 	@echo "Generating	$@"
-	@$(SFNTTOOL) -e -x $< $@
+#	@$(SFNTTOOL) -e -x $< $@
+	@ttf2eot $< > $@
 	
 $(SPEC)/%-Glyphs.pdf: $(BLD)/%.ttf 
 	@echo "Generating	$@"
