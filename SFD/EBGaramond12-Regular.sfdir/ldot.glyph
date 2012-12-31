@@ -1,16 +1,16 @@
 StartChar: ldot
 Encoding: 320 320 233
-Width: 256
+Width: 315
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-246 414 m 24
- 274 414 296 392 296 364 c 24
- 296 336 274 314 246 314 c 24
- 218 314 196 336 196 364 c 24
- 196 392 218 414 246 414 c 24
+275 414 m 28
+ 303 414 325 392 325 364 c 28
+ 325 336 303 314 275 314 c 28
+ 247 314 225 336 225 364 c 28
+ 225 392 247 414 275 414 c 28
 EndSplineSet
 Refer: 2 108 N 1 0 0 1 0 0 2
 Ligature2: "liga_standard subtable" l.CAT periodcentered
