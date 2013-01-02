@@ -54,17 +54,26 @@ feature dlig {
     sub T h  by T_h;
 } dlig;
 
-lookup liga_final_s {
+lookup liga_final_s1 {
+    sub a' s' hyphen @Letters by a_s;
+    sub e' s' hyphen @Letters by e_s;
+    sub eacute' s' hyphen @Letters by eacute_s;
+    sub i' s' hyphen @Letters by i_s;
+    sub u' s' hyphen @Letters by u_s;
+} liga_final_s1;
+
+lookup liga_final_s2 {
     ignore sub [ a e i u eacute ]' s' [ @letters @letters_alt @ligatures hyphen ];
     sub a' s' by a_s;
     sub e' s' by e_s;
     sub eacute' s' by eacute_s;
     sub i' s' by i_s;
     sub u' s' by u_s;
-} liga_final_s;
+} liga_final_s2;
 
 feature clig {
-    lookup liga_final_s;
+    lookup liga_final_s1;
+    lookup liga_final_s2;
 } clig;
 
 feature liga {
