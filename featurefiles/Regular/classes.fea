@@ -8,23 +8,23 @@
 
 @Letters = [ @LETTERS @letters 	@ligatures ];
 
-@grkletters = [ alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau upsilon phi chi psi omega ];
+@grkletters = [ alpha beta gamma delta epsilon zeta eta theta iota kappa lambda uni03BC nu xi omicron pi rho sigma tau upsilon phi chi psi omega ];
 
 @grkaccented = [ alphatonos epsilontonos etatonos iotatonos omicrontonos upsilontonos omegatonos iotadieresistonos iotadieresis upsilondieresis upsilondieresistonos ];
 
-@GRKLETTERS = [ Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega ];
+@GRKLETTERS = [ Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 ];
 
 @GRKACCENTED = [ Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis ];
 
 @GrkLetters = [ @GRKLETTERS @grkletters @GRKACCENTED @grkaccented ];
 
-@grksc = [ alpha.sc beta.sc gamma.sc delta.sc epsilon.sc zeta.sc eta.sc theta.sc iota.sc kappa.sc lambda.sc mu.sc nu.sc xi.sc omicron.sc pi.sc rho.sc sigma.sc tau.sc upsilon.sc phi.sc chi.sc psi.sc omega.sc ];
+@grksc = [ alpha.sc beta.sc gamma.sc delta.sc epsilon.sc zeta.sc eta.sc theta.sc iota.sc kappa.sc lambda.sc uni03BC.sc nu.sc xi.sc omicron.sc pi.sc rho.sc sigma.sc tau.sc upsilon.sc phi.sc chi.sc psi.sc omega.sc ];
 @grkaccentedsc = [ alphatonos.sc epsilontonos.sc etatonos.sc iotatonos.sc omicrontonos.sc upsilontonos.sc omegatonos.sc iotadieresistonos.sc iotadieresis.sc upsilondieresis.sc upsilondieresistonos.sc ];
-@GRKSC = [ Alpha.sc Beta.sc Gamma.sc Delta.sc Epsilon.sc Zeta.sc Eta.sc Theta.sc Iota.sc Kappa.sc Lambda.sc Mu.sc Nu.sc Xi.sc Omicron.sc Pi.sc Rho.sc Sigma.sc Tau.sc Upsilon.sc Phi.sc Chi.sc Psi.sc Omega.sc ];
+@GRKSC = [ Alpha.sc Beta.sc Gamma.sc uni0394.sc Epsilon.sc Zeta.sc Eta.sc Theta.sc Iota.sc Kappa.sc Lambda.sc Mu.sc Nu.sc Xi.sc Omicron.sc Pi.sc Rho.sc Sigma.sc Tau.sc Upsilon.sc Phi.sc Chi.sc Psi.sc uni03A9.sc ];
 @GRKACCENTEDSC = [ Alphatonos.sc Epsilontonos.sc Etatonos.sc Iotatonos.sc Omicrontonos.sc Upsilontonos.sc Omegatonos.sc Iotadieresis.sc Upsilondieresis.sc ];
 
 @vocalsGRK = [ alpha epsilon eta iota omicron upsilon omega ];
-@VOCALSGRK = [ Alpha Epsilon Eta Iota Omicron Upsilon Omega ];
+@VOCALSGRK = [ Alpha Epsilon Eta Iota Omicron Upsilon uni03A9 ];
 @VocalsGRK = [ @vocalsGRK @VOCALSGRK ];
 
 

@@ -5,10 +5,10 @@ VWidth: 0
 Flags: MW
 AnchorPoint: "top_accent" 151 710 mark 0
 AnchorPoint: "top_stack" 151 685 mark 0
-AnchorPoint: "top_stack" 151 830 basemark 0
+AnchorPoint: "hookstack" 249 775 basemark 0
 AnchorPoint: "gravestack" 61 758 basemark 0
 AnchorPoint: "acutestack" 241 758 basemark 0
-AnchorPoint: "hookstack" 249 775 basemark 0
+AnchorPoint: "top_stack" 151 830 basemark 0
 LayerCount: 3
 Back
 SplineSet

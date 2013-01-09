@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1356952235
+ModificationTime: 1357727347
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -74,7 +74,7 @@ Lookup: 1 0 0 "Single Substitution lookup 17"  {"Single Substitution lookup 17 s
 Lookup: 1 0 0 "Single Substitution lookup 18"  {"Single Substitution lookup 18 subtable"  } []
 Lookup: 6 0 0 "CCMP_stackgrk2"  {"CCMP_stackgrk2 subtable"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 20"  {"Single Substitution lookup 20 subtable"  } []
-Lookup: 2 0 0 "CCMP_Precomp"  {"CCMP_Precomp subtable"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 2 0 0 "CCMP_Precomp"  {"CCMP_Precomp subtable"  } ['ss20' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "subs"  {"subs subtable" ("inferior" ) } ['dnom' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) 'subs' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "ordn"  {"ordn subtable"  } ['numr' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) 'ordn' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "sinf"  {"sinf subtable"  } ['sinf' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
@@ -158,8 +158,8 @@ Lookup: 257 0 0 "Single Positioning lookup 30"  {"Single Positioning lookup 30 s
 Lookup: 264 0 0 "ckern2"  {"ckern2 contextual 0"  "ckern2 contextual 1"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 257 0 0 "Single Positioning lookup 32"  {"Single Positioning lookup 32 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 33"  {"Single Positioning lookup 33 subtable"  } []
-Lookup: 260 0 0 "mark"  {"mark Anker 0"  "mark Anker 1"  "mark Anker 2"  "mark Anker 3"  "mark Anker 4"  "mark Anker 5"  "mark Anker 6"  "mark Anker 7"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > ) ]
-Lookup: 262 0 0 "mkmk"  {"mkmk subtable"  } ['mkmk' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 260 0 0 "mark"  {"mark anchor 0"  "mark anchor 1"  "mark anchor 2"  "mark anchor 3"  "mark anchor 4"  "mark anchor 5"  "mark anchor 6"  "mark anchor 7"  "mark anchor 8"  "mark anchor 9"  } ['mark' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 262 0 0 "mkmk"  {"mkmk anchor 0"  "mkmk anchor 1"  "mkmk anchor 2"  "mkmk anchor 3"  "mkmk anchor 4"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 4 2 "kern kerning class 2" 
@@ -271,7 +271,7 @@ EndFPST
 ChainSub2: coverage "historic_apostrophe subtable"  0 0 0 1
  1 0 1
   Coverage: 10 quoteright
-  FCoverage: 221 a c e g m n o p q r s u v w x y z ae ccedilla aogonek eogonek dotlessi kgreenlandic eng oe rcommaaccent scedilla uogonek uni01DD uni01E5 oogonek scommaaccent uni0229 dotlessj u.LAT u.LATmedi v.LAT v.LATmedi germandbls.alt
+  FCoverage: 221 a c e g m n o p q r s u v w x y z ae ccedilla aogonek eogonek dotlessi kgreenlandic eng oe rcommaaccent scedilla uogonek uni01dd uni01e5 oogonek scommaaccent uni0229 dotlessj u.LAT u.LATmedi v.LAT v.LATmedi germandbls.alt
  1
   SeqLookup: 0 "Single Substitution lookup 45" 
 EndFPST
@@ -629,7 +629,7 @@ ChainPos2: glyph "ckern1 contextual 0"  0 0 0 1
 EndFPST
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright 2010-2012, Georg A. Duffner (<http://www.georgduffner.at/ebgaramond|g.duffner@gmail.com>),+AAoA-with Reserved Font Name EB Garamond.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or sinftituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "EB Garamond" "12 Regular" "EB Garamond 12 Regular" 
 DesignSize: 120 95-1200 1 1033 "Regular" 
-OtfFeatName: 'ss01' 1031 "Kyrillische alternative de, el und elj" 2057 "Cyrillic alternate de, el and elj" 
+OtfFeatName: 'ss01' 2057 "Cyrillic alternate de, el and elj" 1031 "Kyrillische alternative de, el und elj" 
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -637,7 +637,7 @@ NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 11 11 6
+WinInfo: 748 11 6
 BeginPrivate: 9
 BlueValues 55 [-22 0 268 287 400 430 450 464 616 630 650 664 700 705]
 OtherBlues 21 [-290 -285 -181 -167]
@@ -650,5 +650,5 @@ BlueScale 1 8
 ExpansionFactor 4 0.06
 EndPrivate
 TeXData: 1 12582912 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "top_left"  "mark Anker 0" "grk_uc_top"  "mark Anker 1" "grk_uc_top_left"  "mark Anker 1" "grk_uc_right"  "mark Anker 1" "grk_bottom"  "mark Anker 2" "grk_top"  "mark Anker 2" "top_accent"  "mark Anker 3" "below_accent"  "mark Anker 4" "ogonek"  "mark Anker 5" "cedilla"  "mark Anker 6" "top_right"  "mark Anker 7" "top_stack"  "mkmk subtable" "acutestack"  "mkmk subtable" "gravestack"  "mkmk subtable" "hookstack"  "mkmk subtable" "grk_hstack"  "mkmk subtable" 
+AnchorClass2: "top_left"  "mark anchor 0" "grk_uc_top_left"  "mark anchor 1" "grk_uc_top"  "mark anchor 1" "grk_uc_right"  "mark anchor 2" "grk_bottom"  "mark anchor 3" "grk_top"  "mark anchor 4" "top_accent"  "mark anchor 5" "below_accent"  "mark anchor 6" "ogonek"  "mark anchor 7" "cedilla"  "mark anchor 8" "top_right"  "mark anchor 9" "top_stack"  "mkmk anchor 0" "acutestack"  "mkmk anchor 1" "gravestack"  "mkmk anchor 2" "hookstack"  "mkmk anchor 3" "grk_hstack"  "mkmk anchor 4" 
 EndSplineFont

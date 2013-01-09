@@ -1,4 +1,4 @@
-StartChar: Omega
+StartChar: uni03A9
 Encoding: 937 937 890
 Width: 830
 Flags: HW
@@ -44,5 +44,5 @@ SplineSet
  226 70 247 70 266 72 c 0
  272 72 282 79 277 81 c 0
 EndSplineSet
-Substitution2: "c2sc subtable" Omega.sc
+Substitution2: "c2sc subtable" uni03A9.sc
 EndChar
