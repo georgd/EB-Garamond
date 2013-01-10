@@ -1,0 +1,238 @@
+@font-face {
+  font-family: 'EBG12-Re';
+  src:  url( fonts/EBGaramond12-Regular.eot );  
+  src:  url('fonts/EBGaramond12-Regular.ttf') format('truetype'),
+  	url('fonts/EBGaramond12-Regular.woff') format('woff');
+  }
+@font-face {
+  font-family: "EBG08-Re";
+  src:  url( fonts/EBGaramond08-Regular.eot );  
+  src:  url('fonts/EBGaramond08-Regular.ttf') format('truetype'),
+  	url('fonts/EBGaramond08-Regular.woff') format('woff');
+  }
+@font-face {
+  font-family: "EBG08-SC";
+  src:  url( fonts/EBGaramond08-SC.eot );  
+  src:  url('fonts/EBGaramond08-SC.ttf') format('truetype'),
+  	url('fonts/EBGaramond08-SC.woff') format('woff');
+  }
+@font-face {
+  font-family: "EBG12-SC";
+  src:  url( fonts/EBGaramond12-SC.eot );  
+  src:  url('fonts/EBGaramond12-SC.ttf') format('truetype'),
+  	url('fonts/EBGaramond12-SC.woff') format('woff');
+  }
+@font-face {
+  font-family: "EBG12-It";
+  src:  url( fonts/EBGaramond12-Italic.eot );
+  src:  url('fonts/EBGaramond12-Italic.ttf') format('truetype'),
+  	url('fonts/EBGaramond12-Italic.woff') format('woff');
+  }
+@font-face {
+	font-family: "EBGInit";
+  src:	url( fonts/EBGaramond-Initials.eot );
+  src:	url('fonts/EBGaramond-Initials.ttf') format('truetype'),
+  	url('fonts/EBGaramond-Initials.woff') format('woff');
+}
+/*@font-face {
+  font-family: "maguntiatest";
+  src: url(fonts/MaguntiaTest.ttf) format("truetype");
+  }*/
+body {
+  font-family: 'EBG12-Re'; 
+  -moz-font-feature-settings: "liga=1, calt=1";
+  -webkit-font-feature-settings: "liga", "calt";
+  -ms-font-feature-settings: "liga";
+  -o-font-feature-settings: "liga";
+  font-feature-settings: "liga";
+  text-align: center; 
+  font-size: 62.5%; 
+  line-height: 1.5;
+  background-color: #cfcfcf;
+  }
+div#main {
+  width: 70em; 
+  margin: 0em auto 2em auto;
+  /*border: 4px solid #9f0000;*/ 
+  padding: 0 0 4.8em 0; 
+  text-align: left;  
+  background-color: #fff;
+  }
+div#textbody {
+  padding-left: 2em;
+  padding-right: 2em;
+  } 
+div#foot {
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'EBG08-Re';
+  padding-bottom: 2em;
+  }
+div#kopf {
+  font-size: 4em;
+  font-family: 'EBG12-It';
+  -moz-font-feature-settings: "swsh=1";
+  -webkit-font-feature-settings: "swsh";
+  -ms-font-feature-settings: "swsh";
+  -o-font-feature-settings: "swsh";
+  font-feature-settings: "swsh";
+ /* border-top: 4px solid #9f0000;*/
+ /* border-bottom: 4px solid #9f0000;*/
+  text-align: center;
+  padding-top: 0.2em;
+/*  padding-bottom: 0.2em; */
+  margin-bottom: 0.4em;
+  color: #6f6960;
+  }
+div#kopf + p:first-letter, div#kopf + h2 + p:first-letter {
+  font-size: 5.15em; 
+  font-family: 'EBGInit';
+  padding-right: 3px; /* 16 */
+  float: left;
+  /*line-height: 0.6;*/
+  color: #990000;
+  /*display: inline;*/
+  text-indent: 0;
+  }
+div#kopf + p:first-line {
+  font-family: 'EBG12-SC';
+  /*-moz-font-feature-settings: "smcp=1";*/
+  letter-spacing: 0.05em;
+  text-indent: 0;
+  }
+h2 + p,div#kopf + p {
+  text-indent: 0;
+  }
+h1 { 
+  font-family: 'EBG12-Re', Georgia, serif; 
+  font-size: 1.5em;
+
+  font-weight: 400; 
+  color: #9f0000; 
+  padding-bottom: 0.2em; 
+ /* margin-bottom: 0.5em;*/
+  }
+#kopf span.ornament {
+  font-family: 'EBG12-Re', Georgia, serif; 
+  font-size: 1.5em;
+  color: #9f0000; 
+  }
+h2 {
+  font-size: 3em; 
+  text-align: center; 
+  font-weight: 400; 
+  color: #9f0000; 
+  padding: 1em 0em; 
+  }
+p { 
+  font-size: 2.05em;  
+  /*padding-bottom: 0.5em;  */
+  line-height: 1.3; 
+  text-align: justify;
+  text-indent: 2.5em;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  }
+
+#textbody a:link, #foot a:link {
+  color: #900000; 
+  text-decoration: none; 
+  }
+#textbody a:visited, #foot a:visited { 
+  color: #900000; 
+  text-decoration: none; 
+  }
+#textbody a:hover, #foot a:hover {
+  color: #f90000; 
+  text-decoration: none; 
+  }
+.fraktur { font-family: 'maguntiatest'; font-size: 1em;  -moz-font-feature-settings: "cv03=1,calt=1"; }
+
+.footnote { font-size: 1em; font-family: 'EBG08-Re';  }
+.ordn { -moz-font-feature-settings: "ordn=1";
+	-webkit-font-feature-settings: "ordn";
+	-ms-font-feature-settings: "ordn";
+	-o-font-feature-settings: "ordn";
+	font-feature-settings: "ordn";
+	 }
+.smcp { -moz-font-feature-settings: "smcp=1";
+	-webkit-font-feature-settings: "smcp";
+	-ms-font-feature-settings: "smcp";
+	-o-font-feature-settings: "smcp";
+	font-feature-settings: "smcp";
+	}
+.allsmcp { -moz-font-feature-settings: "smcp=1,c2sc=1";
+	-webkit-font-feature-settings: "smcp","c2sc";
+	-ms-font-feature-settings: "smcp","c2sc";
+	-o-font-feature-settings: "smcp","c2sc";
+	font-feature-settings: "smcp","c2sc";
+	}
+.longs { -moz-font-feature-settings: "ss01=1"; }
+.antiqua { font-family: 'EBG12-Re', Georgia; font-size: 1em; }
+em { font-style: normal; font-family: 'EBG12-SC'; }
+#textbody ul {
+  margin-top: 0.5em;
+  list-style-type: circle; 
+  list-style-position: outside;
+  font-family: 'EBG08-Re', 'EBG12-Re', Georgia;
+  font-size: 1.6em;
+  /*text-indent: 3em; */
+  padding-left: 3em;
+  }
+/*ul li {
+  padding-bottom: 5px; 
+  }
+*/
+.sup { -moz-font-feature-settings: "ordn=1";
+	-webkit-font-feature-settings: "ordn";
+	-ms-font-feature-settings: "ordn";
+	-o-font-feature-settings: "ordn";
+	font-feature-settings: "ordn";
+	 }
+.italic {
+	font-family: 'EBG12-It';
+	}
+/*.initial { font-size: 1.9em; color: #ff0000; background-color: #ffeaea; padding: 0 5px 5px 5px; margin-right: 5px; margin-top: 0.1px; border: 2px solid #900; vertical-align: text-top; float: left; line-height: 1; }*/
+#lang_select {
+ position: fixed;
+ right: 0px;
+ width: 4em;
+ font-size: 1.7em;
+ font-family: 'EBG08-SC';
+ background-color: #555;
+ color: red;
+	}
+#lang_select a {
+ color: #fff;
+ text-decoration: none;
+	}
+#navbar {
+	background-color: #000000;
+	color: #ffffff;
+	}
+#navbar ul {
+	text-align: center;
+	margin: 0;
+	padding: 0.5em 0;
+	}
+#navbar ul li {
+	display: inline;
+	padding: 1em 1em;
+	margin: 0;
+	font-size: 2.2em;
+	}
+#navbar a {
+	color: #ffffff;
+	text-decoration: none;
+	}
+#navbar a:hover {
+	font-family: 'EBG12-It';
+	color: #ffffff;
+	text-decoration: none;
+	}
+#navbar li.aktiv {
+	font-family: 'EBG12-It', 'EBG12';
+	}
+#textbody dl {
+	font-size: 2em;	
+	}

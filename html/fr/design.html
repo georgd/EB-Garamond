@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>EB Garamond</title>
+<meta name="author" content="Georg A. Duffner" >
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+<link rel="icon" href="favicon.png" type="image/png">
+<link href='reset_spacing.css' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+<link href='garastyle.css' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+<div id="container">
+<div id="main">
+<div id="navbar">
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li class="aktiv">Design</li>
+        <li>Features</li>
+        <li><a href="italic.html">Italic</a></li>
+        <li><a href="download.html">Development/Download</a></li>
+</div>
+<div id="textbody">
+<div id="kopf">
+<h1>Design</h1>
+<span class="ornament">&#x2766;</span>
+<!--Claude Garamont’s designs go open source<br>-->
+</div>
+<h2>The Plan</h2>
+<p>The long-term plan is to provide a font family consisting of roman, italic, bold and bold italic fonts in different optical sizes. The source is the Berner Specimen. Characters that are not present on this document have to be drawn freely, retaining the characteristics of the font and according to historical models if possible and acceptable in modern contexts. Additionally, fonts providing initials based on renaissance designs will be provided. The current source for these initials is the <a href="http://www.bvh.univ-tours.fr/Consult/index.asp?numtable=B372615206_18229&numfiche=571&mode=1&offset=15&ecran=0&url=">Bible de Genève</a> as printed in 1564 in Lyon, France. Character sets planned to be covered:</p>
+<ul>
+ <li>Latin</li>
+ <li>Greek (incl. polytonic)</li>
+ <li>Cyrillic</li>
+ <li>IPA</li>
+ <li>Ornaments</li>
+ <li>MUFI compliance</li>
+  
+</ul>
+<p>More might be added, an opentype mathfont would be cool, but I am not a mathematician, so this may not be implemented for quite some time.</p>
+<p>All fonts shall contain oldstyle and lining numbers (proportional and tabular), true smallcaps, sub- and superscripts, ligatures and all those nice things, accessible by appropriate Opentype features.</p>
+<p>Currently the roman font provides a large palette of glyphs from Latin, Greek and Cyrillic and the corresponding extended ranges. Latin and Greek are also available as small caps. The italic is much less complete. Latin and cyrillic are usable but some spacing is not satisfactory yet and diacritic placement is not always good. The greek is based on Granjon’s original which, as I read from some comments, isn’t acceptable for modern use, so I’ll have to redo them. Many special glyphs however, like sub/superscripts and smallcaps, only exist as automatically slanted romans, so they are not useable yet!</p>
+
+<p>The current state of the font can be viewed in the <a href="https://github.com/georgd/EB-Garamond/blob/master/specimen/Specimen.pdf?raw=true">Specimen</a> [<em>pdf</em>].
+</p>
+<h2>Optical Sizes</h2>
+<p>Most modern fonts for our script are vector fonts. So when you use them at different sizes, they get scaled up or down to fit the size which is a big advantage to movable type where you had to cast a set of types for every size you wanted to print. The problem with scaling is, that they appear fatter the bigger they are and lighter the smaller they are rendered. In lead types the different size sets weren’t just smaller/bigger copies of the same design, but they were separate designs to allow for an evenly black text setup throughout the different sizes. Smaller sizes have wider stems and more white space and less details in their letters, while bigger sizes are a bit lighter and more compressed in their spacing and show more details. However, this is still done for modern typefaces, which may come in different sizes for caption, text and display. Quality newspapers make heavy use of such optical sizes.</p>
+<p>EB Garamond will come in different optical sizes too. The basis is designed for use at 12pt, a second font for 8pt is currently under construction and can be seen on this website in lists and in the footer. The fonts contain the designsize in their name and size infos in their tables so software that knows how to handle them (e.g. Xe- and LuaLaTeX) uses the appropriate font automatically.</p>
+<p>Designsizes I plan to make: 8pt (under construction), 10pt, 12pt (under construction), 18pt and 40pt, and perhaps even 6pt, for all of which their exist samples from Garamont and Granjon.</p>
+</div>
+</div>
+<div id="foot"><!--#config timefmt="%d.%m.%Y, %H:%M" -->
+Last update: <!--#echo var="LAST_MODIFIED" --><br>© <a href="impressum.html">Georg Duffner</a></div>
+</div>
+</body>
+</html>

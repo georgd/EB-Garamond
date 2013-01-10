@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<title>EB Garamond – Features</title>
+<meta name="author" content="Georg A. Duffner" >
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+<link rel="icon" href="favicon.png" type="image/png">
+<link href='reset_spacing.css' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+<link href='garastyle.css' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+<div id="container">
+<div id="lang_select"><a href="de/features.html" >de</a> en</div>
+<div id="main">
+<div id="navbar">
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="design.html">Design</a></li>
+        <li class="aktiv">Features</li>
+        <li><a href="italic.html">Italic</a></li>
+        <li><a href="download.html">Development/Download</a></li>
+</div>
+<div id="textbody">
+<div id="kopf">
+<h1>Features</h1>
+Empowered by OpenType<br>
+</div>
+<p>OpenType is the magical word when it comes to modern respectively smart font technologies. It is not the only one, there are also Apple <em>aat</em> (restricted to Apple systems and probably dying out already) and <em>sil</em> Graphite (mostly available in open source products like XeTeX and LibreOffice) but it’s the most common one and quasi standard. OpenType fonts come in two flavours that differ in the way the outlines are described, the one containing cubic bezier splines (<em>cff</em> fonts, usually as otf-files), the others containing quadratic bezier splines (Truestype fonts, usually as ttf-files). Also, <em>ttf</em>-files contain much more sophisticated hinting which is necessary to make fonts look acceptable on most Windows systems. What makes an OpenType font a smart font are tables containing rules for glyph substitution and positioning that are compiled into the font files alongside the spline coordinates. Some of the features are applied automatically, others however obey the control of the user and EB Garamond fonts make heavy use of this possibility.
+</p>
+<h2>Locals</h2>
+<p>This feature accomodates some local typographic traditions:</p>
+<dl>
+<dt>German</dt>
+<dd>This locale prevents undesirable ligatures like ffl, fb, fh etc.</dd>
+<dt>Turkic languages</dt>
+<dd>In Turkish, Crimean Tartar and Azerbaijani the differentiation between i and ı makes special treatment necessary when it comes to smallcaps and ligatures.</dd>
+<dt>Catalan</dt>
+<dd>Replace l· (middot) with &#x140;</dd>
+<dt>Latin</dt>
+<dd><span class="dd1">Emulate a historical style: u and v are positional alternates of each other, ligate a+e to æ and o+e to &oelig;</span>: <span class="dd2" lang="la">universum, coelum, rosae</span></dd>
+<dt>Serbian and Makedonian</dt>
+<dd><span class="dd1">Localized forms of б and <span class="italic">б д г &#x0453; п т</span></span>: <span class="dd2" lang="sr">б <span class="italic">б д г &#x0453; п т</span> </dd>
+</dl>
+<h2>Ligatures</h2>
+<p>Several sets of ligatures are present:</p>
+<dl>
+<dt>Standard ligatures (<em>liga</em>*)</dt>
+<dd><span class="dd1">This set contains the well known f-ligatures:</span> <span class="dd2">ff → ff, fi → fi, ffi → ffi</span></dd>
+</dl>
+</div>
+</div>
+<div id="foot"><!--#config timefmt="%d.%m.%Y, %H:%M" -->
+Last update: <!--#echo var="LAST_MODIFIED" --><br>© <a href="impressum.html">Georg Duffner</a></div>
+</div>
+</body>
+</html>
