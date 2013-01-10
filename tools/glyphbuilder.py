@@ -20,7 +20,7 @@ def composeAccented(glyph):
     base = components[0]
     marks = components[1:]
     
-    greekUC = ['Alpha', 'Epsilon', 'Eta', 'Iota', 'Omicron', 'Rho', 'Upsilon', 'Omega']
+    greekUC = ['Alpha', 'Epsilon', 'Eta', 'Iota', 'Omicron', 'Rho', 'Upsilon', 'uni03A9']
 
     glif.clear()
     glif.addReference(base)
