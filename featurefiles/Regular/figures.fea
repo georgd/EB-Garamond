@@ -32,6 +32,7 @@ feature sinf {
 
 lookup sups {
     sub @SUBS1 by @SUPS;
+    sub registered by registered.sups;
 } sups;
 
 feature sups {
