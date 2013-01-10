@@ -13,6 +13,7 @@ For the use with Xe- and LuaLaTeX I’m working on a configuration for mycrotype
 - EBGaramond12-Italic: Italic font for design size 12pt
 - EBGaramond12-Bold: Bold font for design size 12pt (very rough/unusable; not included in releases)
 - EBGaramond08-Regular: Regular font for design size 8pt
+- EBGaramond08-Italic: Italic font for design size 8pt (very rough spacing!)
 - EBGaramond12-SC: Smallcaps font for programs that ignore opentype features (12pt)
 - EBGaramond12-AllSC: All smallcaps font for programs that ignore opentype features
 - EBGaramond08-SC: Smallcaps font for programs that ignore opentype features (8pt)
