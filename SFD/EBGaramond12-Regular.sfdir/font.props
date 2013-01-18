@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1358158505
+ModificationTime: 1358487913
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -124,7 +124,7 @@ Lookup: 6 0 0 "caltLAT"  {"caltLAT subtable"  } ['calt' ('latn' <'dflt' 'DEU ' '
 Lookup: 1 0 0 "Single Substitution lookup 68"  {"Single Substitution lookup 68 subtable"  } []
 Lookup: 6 0 0 "UC_hyphen"  {"UC_hyphen subtable"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 70"  {"Single Substitution lookup 70 subtable"  } []
-Lookup: 258 0 0 "kern"  {"kern kerning class 0"  "kern kerning class 1"  "kern kerning class 2"  } ['kern' ('DFLT' <'dflt' > ) ]
+Lookup: 258 0 0 "kern"  {"kern kerning class 0" [150,0,0] "kern kerning class 1"  "kern kerning class 2"  } ['kern' ('DFLT' <'dflt' > ) ]
 Lookup: 264 0 0 "ckern1"  {"ckern1 contextual 0"  "ckern1 contextual 1"  "ckern1 contextual 2"  "ckern1 contextual 3"  "ckern1 contextual 4"  "ckern1 contextual 5"  "ckern1 contextual 6"  "ckern1 contextual 7"  "ckern1 contextual 8"  "ckern1 contextual 9"  "ckern1 contextual 10"  "ckern1 contextual 11"  "ckern1 contextual 12"  "ckern1 contextual 13"  "ckern1 contextual 14"  "ckern1 contextual 15"  "ckern1 contextual 16"  "ckern1 contextual 17"  "ckern1 contextual 18"  "ckern1 contextual 19"  "ckern1 contextual 20"  "ckern1 contextual 21"  "ckern1 contextual 22"  "ckern1 contextual 23"  "ckern1 contextual 24"  "ckern1 contextual 25"  "ckern1 contextual 26"  "ckern1 contextual 27"  "ckern1 contextual 28"  } ['kern' ('DFLT' <'dflt' > ) ]
 Lookup: 257 0 0 "Single Positioning lookup 4"  {"Single Positioning lookup 4 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 5"  {"Single Positioning lookup 5 subtable"  } []
@@ -199,7 +199,7 @@ KernClass2: 14 13 "kern kerning class 0"
  9 O Ohorn Q
  21 V W Y uni0194 uni01B3
  19 V.sc W.sc v.sc w.sc
- 79 a ae aogonek c ccedilla d e eogonek g o oe oogonek q s scedilla uni01C6 uni01F3
+ 95 a ae aogonek c ccedilla d e eogonek g o oe oogonek q s scedilla uni01C6 uni01F3 uni0238 uni0239
  880 abreve acircumflex adieresis agrave aring b ccaron ebreve ecaron edieresis egrave gbreve gcommaaccent germandbls h hbar hcircumflex i i.TRK iacute ibreve icircumflex idieresis igrave ij imacron iogonek itilde j jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot longs lslash ncaron obreve ograve rcaron scaron scircumflex thorn ubreve ugrave uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED uni1EF3 uni1EF7 uni1EFB ydieresis zcaron
  51 m n p r u uni01B6 uni01BA uni01BF uni021D uogonek z
  1 t
@@ -636,7 +636,7 @@ NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 2848 8 6
+WinInfo: 473 11 6
 BeginPrivate: 9
 BlueValues 55 [-22 0 268 287 400 430 450 464 616 630 650 664 700 705]
 OtherBlues 21 [-290 -285 -181 -167]
