@@ -1,22 +1,28 @@
 StartChar: caron
 Encoding: 711 711 985
-Width: 4
+Width: 237
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
--22 630 m 2
- 13 534 l 1
- 107 630 l 2
- 114 637 128 648 139 648 c 0
- 146 648 149 639 140 627 c 2
- 140 627 58 519 22 476 c 0
- 7 458 -6 447 -13 447 c 0
- -20 447 -26 458 -30 476 c 0
- -39 513 -57 627 -57 627 c 2
- -59 639 -50 648 -43 648 c 0
- -32 648 -25 638 -22 630 c 2
+244 630 m 6
+ 279 534 l 5
+ 373 630 l 6
+ 380 637 394 648 405 648 c 4
+ 412 648 415 639 406 627 c 6
+ 406 627 324 519 288 476 c 4
+ 273 458 260 447 253 447 c 4
+ 246 447 240 458 236 476 c 4
+ 227 513 209 627 209 627 c 6
+ 207 639 216 648 223 648 c 4
+ 234 648 241 638 244 630 c 6
 EndSplineSet
-Validated: 1
 EndChar

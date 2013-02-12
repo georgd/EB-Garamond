@@ -2,21 +2,27 @@ StartChar: circumflex
 Encoding: 710 710 90
 Width: 237
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-51 465 m 2
- 43 457 31 447 20 447 c 0
- 13 447 10 456 19 468 c 2
- 19 468 106 582 137 619 c 0
- 152 637 165 648 172 648 c 0
- 179 648 185 637 189 619 c 0
- 199 576 216 468 216 468 c 2
- 218 456 209 447 202 447 c 0
- 191 447 184 458 181 465 c 2
- 146 561 l 1
- 51 465 l 2
+192 465 m 6
+ 184 457 172 447 161 447 c 4
+ 154 447 151 456 160 468 c 6
+ 160 468 247 582 278 619 c 4
+ 293 637 306 648 313 648 c 4
+ 320 648 326 637 330 619 c 4
+ 340 576 357 468 357 468 c 6
+ 359 456 350 447 343 447 c 4
+ 332 447 325 458 322 465 c 6
+ 287 561 l 5
+ 192 465 l 6
 EndSplineSet
-Validated: 1
 EndChar
