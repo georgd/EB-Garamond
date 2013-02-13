@@ -1,8 +1,15 @@
 StartChar: uni032B
 Encoding: 811 811 2146
-Width: 1000
+Width: 0
 VWidth: 0
 Flags: MW
 AnchorPoint: "below_accent" 145 -100 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar

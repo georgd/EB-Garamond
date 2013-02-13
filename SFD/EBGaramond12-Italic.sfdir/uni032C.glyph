@@ -1,12 +1,18 @@
 StartChar: uni032C
 Encoding: 812 812 2072
-Width: 215
+Width: 0
 VWidth: 0
 Flags: MW
 AnchorPoint: "below_accent" 98 -100 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 92 780 N 1 0 0 1 0 -720 2
-Validated: 1
 Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni032C.cap
 EndChar

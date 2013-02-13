@@ -1,12 +1,18 @@
 StartChar: uni0316
 Encoding: 790 790 2068
-Width: 94
+Width: 0
 VWidth: 0
 Flags: MW
 AnchorPoint: "below_accent" 61 -100 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 981 768 N 1 0 0 1 0 -720 2
-Validated: 1
 Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0316.cap
 EndChar

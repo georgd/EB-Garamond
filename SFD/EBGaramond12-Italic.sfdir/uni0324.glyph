@@ -1,10 +1,17 @@
 StartChar: uni0324
 Encoding: 804 804 2070
-Width: 271
+Width: 0
 VWidth: 0
 Flags: MW
 AnchorPoint: "below_accent" 127 -100 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 217 -96 m 16
@@ -18,6 +25,5 @@ SplineSet
  25 -196 10 -177 10 -157 c 8
  10 -125 34 -96 66 -96 c 16
 EndSplineSet
-Validated: 1
 Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0324.cap
 EndChar
