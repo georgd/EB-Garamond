@@ -29,6 +29,12 @@
   	url('fonts/EBGaramond12-Italic.woff') format('woff');
   }
 @font-face {
+  font-family: "EBG08-It";
+  src:  url( fonts/EBGaramond08-Italic.eot );
+  src:  url('fonts/EBGaramond08-Italic.ttf') format('truetype'),
+  	url('fonts/EBGaramond08-Italic.woff') format('woff');
+  }
+@font-face {
 	font-family: "EBGInit";
   src:	url( fonts/EBGaramond-Initials.eot );
   src:	url('fonts/EBGaramond-Initials.ttf') format('truetype'),
@@ -40,7 +46,7 @@
   }*/
 body {
   font-family: 'EBG12-Re'; 
-  -moz-font-feature-settings: "liga=1, calt=1";
+  -moz-font-feature-settings: "liga", "calt";
   -webkit-font-feature-settings: "liga", "calt";
   -ms-font-feature-settings: "liga";
   -o-font-feature-settings: "liga";
@@ -71,7 +77,7 @@ div#foot {
 div#kopf {
   font-size: 4em;
   font-family: 'EBG12-It';
-  -moz-font-feature-settings: "swsh=1";
+  -moz-font-feature-settings: "swsh";
   -webkit-font-feature-settings: "swsh";
   -ms-font-feature-settings: "swsh";
   -o-font-feature-settings: "swsh";
@@ -147,29 +153,34 @@ p {
   text-decoration: none; 
   }
 .fraktur { font-family: 'maguntiatest'; font-size: 1em;  -moz-font-feature-settings: "cv03=1,calt=1"; }
-
+i { font-style: normal; font-family: 'EBG12-It';
+  }
+em { font-style: normal; font-family: 'EBG12-SC'; }
 .footnote { font-size: 1em; font-family: 'EBG08-Re';  }
-.ordn { -moz-font-feature-settings: "ordn=1";
+.footnote i { font-style: normal; font-family: 'EBG08-It';
+  }
+.footnote em { font-style: normal; font-family: 'EBG08-SC'; }
+.ordn { -moz-font-feature-settings: "ordn";
 	-webkit-font-feature-settings: "ordn";
 	-ms-font-feature-settings: "ordn";
 	-o-font-feature-settings: "ordn";
 	font-feature-settings: "ordn";
 	 }
-.smcp { -moz-font-feature-settings: "smcp=1";
+.smcp { -moz-font-feature-settings: "smcp";
 	-webkit-font-feature-settings: "smcp";
 	-ms-font-feature-settings: "smcp";
 	-o-font-feature-settings: "smcp";
 	font-feature-settings: "smcp";
 	}
-.allsmcp { -moz-font-feature-settings: "smcp=1,c2sc=1";
+.allsmcp { -moz-font-feature-settings: "smcp", "c2sc";
 	-webkit-font-feature-settings: "smcp","c2sc";
 	-ms-font-feature-settings: "smcp","c2sc";
 	-o-font-feature-settings: "smcp","c2sc";
 	font-feature-settings: "smcp","c2sc";
 	}
-.longs { -moz-font-feature-settings: "ss01=1"; }
+.longs { -moz-font-feature-settings: "ss01"; }
 .antiqua { font-family: 'EBG12-Re', Georgia; font-size: 1em; }
-em { font-style: normal; font-family: 'EBG12-SC'; }
+
 #textbody ul {
   margin-top: 0.5em;
   list-style-type: circle; 
@@ -179,11 +190,12 @@ em { font-style: normal; font-family: 'EBG12-SC'; }
   /*text-indent: 3em; */
   padding-left: 3em;
   }
+
 /*ul li {
   padding-bottom: 5px; 
   }
 */
-.sup { -moz-font-feature-settings: "ordn=1";
+.sup { -moz-font-feature-settings: "ordn";
 	-webkit-font-feature-settings: "ordn";
 	-ms-font-feature-settings: "ordn";
 	-o-font-feature-settings: "ordn";
