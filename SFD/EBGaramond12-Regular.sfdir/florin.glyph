@@ -1,8 +1,8 @@
 StartChar: florin
-Encoding: 402 402 2103
+Encoding: 402 402 2099
 Width: 317
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -33,4 +33,5 @@ SplineSet
  358 606 344 665 267 665 c 0
  205 665 162 610 162 478 c 2
 EndSplineSet
+Validated: 1
 EndChar

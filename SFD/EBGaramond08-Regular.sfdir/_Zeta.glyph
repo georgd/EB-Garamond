@@ -1,7 +1,7 @@
 StartChar: Zeta
-Encoding: 918 918 872
+Encoding: 918 918 870
 Width: 603
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -39,5 +39,6 @@ SplineSet
  547 4 543 -5 533 -5 c 0
  419 -5 320 -2 231 -2 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Zeta.sc
 EndChar

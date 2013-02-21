@@ -1,10 +1,8 @@
 StartChar: Lslash
-Encoding: 321 321 755
+Encoding: 321 321 753
 Width: 591
 VWidth: 982
-Flags: HW
-HStem: -2 47<24.0383 102.943 238.001 456.932> 556 35<24.0204 94.0943 246.184 315.983>
-VStem: 122 95<66.7605 253 347 535.239> 514 45<118.708 184.129>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -42,5 +40,6 @@ SplineSet
  122 253 l 1
  43 216 l 2
 EndSplineSet
+Validated: 33
 Substitution2: "c2sc subtable" Lslash.sc
 EndChar

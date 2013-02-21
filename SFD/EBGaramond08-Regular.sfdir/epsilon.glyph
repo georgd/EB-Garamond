@@ -1,7 +1,7 @@
 StartChar: epsilon
-Encoding: 949 949 847
+Encoding: 949 949 845
 Width: 334
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -24,5 +24,6 @@ SplineSet
  248 52 288 116 294 116 c 0
  302 116 304 112 304 99 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" epsilon.sc
 EndChar

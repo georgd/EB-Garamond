@@ -2,7 +2,8 @@ StartChar: Z
 Encoding: 90 90 64
 Width: 603
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "cedilla" 312 8 basechar 0
 AnchorPoint: "below_accent" 306 -100 basechar 0
 AnchorPoint: "top_accent" 315 710 basechar 0
 LayerCount: 3

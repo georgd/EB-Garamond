@@ -1,7 +1,7 @@
 StartChar: eight.subs
-Encoding: 1114266 -1 947
+Encoding: 1114264 -1 945
 Width: 300
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30,4 +30,5 @@ SplineSet
  142 151 138 153 134 153 c 0
  132 153 130 152 127 150 c 0
 EndSplineSet
+Validated: 1
 EndChar

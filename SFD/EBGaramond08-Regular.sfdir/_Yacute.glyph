@@ -2,11 +2,12 @@ StartChar: Yacute
 Encoding: 221 221 140
 Width: 521
 VWidth: 982
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 703 -1 N 1 0 0 1 236 -35 2
 Refer: 57 89 N 1 0 0 1 0 0 3
+Validated: 32769
 Substitution2: "c2sc subtable" Yacute.sc
 MultipleSubs2: "CCMP_Precomp subtable" Y acutecomb.cap
 EndChar

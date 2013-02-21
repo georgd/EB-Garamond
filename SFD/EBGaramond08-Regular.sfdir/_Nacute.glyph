@@ -2,11 +2,12 @@ StartChar: Nacute
 Encoding: 323 323 324
 Width: 685
 VWidth: 0
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 703 -1 N 1 0 0 1 298 -35 2
 Refer: 46 78 N 1 0 0 1 0 0 3
+Validated: 32769
 Substitution2: "c2sc subtable" Nacute.sc
 MultipleSubs2: "CCMP_Precomp subtable" N acutecomb.cap
 EndChar

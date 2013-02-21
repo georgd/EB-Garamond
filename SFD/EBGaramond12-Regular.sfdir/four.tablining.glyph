@@ -1,8 +1,8 @@
 StartChar: four.tablining
-Encoding: 1114175 -1 1109
+Encoding: 65599 -1 1109
 Width: 480
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -45,6 +45,6 @@ SplineSet
  92 240 l 2
 EndSplineSet
 Validated: 1
-Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" four.lnum
-Substitution2: "'onum' Minuskelziffern lookup 31 subtable" four.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 35 subtable" four.lnum
+Substitution2: "'onum' Minuskelziffern lookup 33 subtable" four.taboldstyle
 EndChar

@@ -1,7 +1,7 @@
 StartChar: dagger.subs
-Encoding: 1114418 -1 1101
+Encoding: 1114416 -1 1099
 Width: 440
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -29,4 +29,5 @@ SplineSet
  149 311 132 326 132 375 c 0
  132 391 152 400 165 400 c 0
 EndSplineSet
+Validated: 1
 EndChar

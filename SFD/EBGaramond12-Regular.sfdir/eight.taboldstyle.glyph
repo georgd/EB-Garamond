@@ -1,8 +1,8 @@
 StartChar: eight.taboldstyle
-Encoding: 1114170 -1 1104
+Encoding: 65594 -1 1104
 Width: 475
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Back
 SplineSet
@@ -35,6 +35,6 @@ EndSplineSet
 Fore
 Refer: 85 56 N 1 0 0 1 6 0 2
 Validated: 1
-Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" eight
-Substitution2: "'lnum' Lining Figures lookup 30 subtable" eight.tablining
+Substitution2: "'pnum' Proportionalziffern lookup 35 subtable" eight
+Substitution2: "'lnum' Lining Figures lookup 32 subtable" eight.tablining
 EndChar

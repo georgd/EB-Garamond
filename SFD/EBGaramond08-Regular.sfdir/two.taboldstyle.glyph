@@ -1,10 +1,8 @@
 StartChar: two.taboldstyle
-Encoding: 1114310 -1 991
+Encoding: 1114308 -1 989
 Width: 415
 VWidth: 982
-Flags: HW
-HStem: 4 63<157.73 331.983> 361 68<135.162 241.878>
-VStem: 256 85<265.101 347.276>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30,6 +28,7 @@ SplineSet
  152 71 161 67 167 67 c 2
  272 68 l 2
 EndSplineSet
-Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" two
-Substitution2: "'lnum' Lining Figures lookup 30 subtable" two.tablining
+Validated: 33
+Substitution2: "'pnum' Proportionalziffern lookup 35 subtable" two
+Substitution2: "'lnum' Lining Figures lookup 32 subtable" two.tablining
 EndChar

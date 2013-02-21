@@ -1,8 +1,8 @@
 StartChar: uni1EFB
-Encoding: 7931 7931 2255
+Encoding: 7931 7931 2251
 Width: 463
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -16,4 +16,5 @@ SplineSet
 EndSplineSet
 Refer: 2 108 N 1 0 0 1 222 0 2
 Refer: 2 108 N 1 0 0 1 0 0 2
+Validated: 5
 EndChar

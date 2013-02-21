@@ -2,7 +2,8 @@ StartChar: I
 Encoding: 73 73 33
 Width: 340
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "cedilla" 186 8 basechar 0
 AnchorPoint: "ogonek" 206 18 basechar 0
 AnchorPoint: "below_accent" 170 -100 basechar 0
 AnchorPoint: "top_accent" 170 710 basechar 0

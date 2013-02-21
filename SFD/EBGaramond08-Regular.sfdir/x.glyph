@@ -2,8 +2,7 @@ StartChar: x
 Encoding: 120 120 88
 Width: 454
 VWidth: 982
-Flags: HW
-HStem: -2 43<12.217 85.0174 139.008 183.85 255.14 292.138 403.456 457.929> 380 43<29.1497 83.7216 186.525 222.86 271.105 311.992 370.495 432.783>
+Flags: MW
 AnchorPoint: "below_accent" 219 -80 basechar 0
 AnchorPoint: "top_accent" 242 596 basechar 0
 LayerCount: 2
@@ -53,6 +52,7 @@ SplineSet
  333 151 l 2
  392 70 409 50 437 41 c 0
 EndSplineSet
+Validated: 33
 Substitution2: "Smallcaps subtable" x.sc
 Substitution2: "sups subtable" x.sups
 Substitution2: "sinf subtable" x.sinf

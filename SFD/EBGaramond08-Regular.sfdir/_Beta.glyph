@@ -1,7 +1,7 @@
 StartChar: Beta
-Encoding: 914 914 868
+Encoding: 914 914 866
 Width: 578
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -39,5 +39,6 @@ SplineSet
  208 108 l 2
  208 52 236 37 287 37 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Beta.sc
 EndChar

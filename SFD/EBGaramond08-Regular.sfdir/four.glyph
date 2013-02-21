@@ -2,9 +2,7 @@ StartChar: four
 Encoding: 52 52 21
 Width: 529
 VWidth: 982
-Flags: HW
-HStem: 24 63<131.109 272.95 357.083 484.917>
-VStem: 273 83<-155.673 23.7968 87.1286 273>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -35,10 +33,11 @@ SplineSet
  273 290 273 302 264 290 c 2
  129 104 l 2
 EndSplineSet
-Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" four.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 30 subtable" four.lnum
-Substitution2: "Single Substitution lookup 29 subtable" four.ordn
-Substitution2: "Single Substitution lookup 28 subtable" four.subs
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" four.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 32 subtable" four.lnum
+Substitution2: "Single Substitution lookup 31 subtable" four.ordn
+Substitution2: "Single Substitution lookup 30 subtable" four.subs
 Substitution2: "sups subtable" four.sups
 Substitution2: "sinf subtable" four.sinf
 Substitution2: "ordn subtable" four.ordn

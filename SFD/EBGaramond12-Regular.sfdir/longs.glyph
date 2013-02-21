@@ -3,6 +3,7 @@ Encoding: 383 383 19
 Width: 261
 VWidth: 0
 Flags: HMW
+AnchorPoint: "cedilla" 140 8 basechar 0
 AnchorPoint: "below_accent" 134 -100 basechar 0
 AnchorPoint: "top_accent" 281 805 basechar 0
 LayerCount: 3
@@ -1486,6 +1487,7 @@ EndSplineSet
 Fore
 Refer: 1127 -1 N 1 0 0 1 0 0 2
 Validated: 1
-Substitution2: "Single Substitution lookup 66 subtable" longs.short
+Substitution2: "Single Substitution lookup 72 subtable" longs.short
+Substitution2: "Single Substitution lookup 71 subtable" longs.short
 Substitution2: "Smallcaps subtable" s.sc
 EndChar

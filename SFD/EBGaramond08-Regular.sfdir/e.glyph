@@ -2,9 +2,7 @@ StartChar: e
 Encoding: 101 101 69
 Width: 389
 VWidth: 982
-Flags: HW
-HStem: -8 68<168.829 299.074> 258 46<127.109 281.698> 384 46<161.139 272.609>
-VStem: 22 84<131.117 257.816> 283 87<305.087 372.712>
+Flags: MW
 AnchorPoint: "below_accent" 192 -80 basechar 0
 AnchorPoint: "ogonek" 253 5 basechar 0
 AnchorPoint: "cedilla" 236 5 basechar 0
@@ -31,6 +29,7 @@ SplineSet
  283 364 253 384 224 384 c 0
  164 384 127 335 127 315 c 8
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" e.sc
 Substitution2: "sups subtable" e.sups
 Substitution2: "sinf subtable" e.sinf

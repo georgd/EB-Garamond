@@ -1,11 +1,12 @@
 StartChar: Alphatonos
-Encoding: 902 902 1888
+Encoding: 902 902 1884
 Width: 684
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 1670 -1 N 1 0 0 1 292 23 2
-Refer: 867 913 N 1 0 0 1 0 0 3
+Refer: 1666 -1 N 1 0 0 1 292 23 2
+Refer: 865 913 N 1 0 0 1 0 0 3
+Validated: 32773
 Substitution2: "c2sc subtable" Alphatonos.sc
 MultipleSubs2: "CCMP_Precomp subtable" Alpha acutecomb.grk
 EndChar

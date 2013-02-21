@@ -1,7 +1,7 @@
 StartChar: bar.subs
-Encoding: 1114409 -1 1092
+Encoding: 1114407 -1 1090
 Width: 169
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13,4 +13,5 @@ SplineSet
  69 -108 61 -106 61 -100 c 2
  61 380 l 2
 EndSplineSet
+Validated: 33
 EndChar

@@ -1,8 +1,9 @@
 StartChar: o.sc
-Encoding: 1114687 -1 1686
+Encoding: 66111 -1 1686
 Width: 616
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "cedilla" 350 8 basechar 0
 AnchorPoint: "ogonek" 403 18 basechar 0
 AnchorPoint: "below_accent" 312 -100 basechar 0
 AnchorPoint: "top_accent" 308 615 basechar 0
@@ -1269,5 +1270,6 @@ SplineSet
  556 103 466 -15 302 -15 c 0
  169 -15 60 93 60 222 c 0
 EndSplineSet
+Validated: 1
 Comment: "." 
 EndChar

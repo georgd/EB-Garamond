@@ -1,7 +1,7 @@
 StartChar: Upsilon
-Encoding: 933 933 886
+Encoding: 933 933 884
 Width: 739
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -29,5 +29,6 @@ SplineSet
  320 650 361 452 365 452 c 0
  369 452 442 650 592 650 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Upsilon.sc
 EndChar

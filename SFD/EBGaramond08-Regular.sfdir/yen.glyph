@@ -1,8 +1,8 @@
 StartChar: yen
-Encoding: 165 165 2166
+Encoding: 165 165 2162
 Width: 521
 VWidth: 982
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -59,4 +59,5 @@ SplineSet
  230 148.316901408 l 1
  140 148 l 2
 EndSplineSet
+Validated: 33
 EndChar

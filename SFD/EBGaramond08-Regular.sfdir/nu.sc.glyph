@@ -1,7 +1,7 @@
 StartChar: nu.sc
-Encoding: 1114222 -1 903
+Encoding: 1114220 -1 901
 Width: 600
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -40,4 +40,5 @@ SplineSet
  575 431 563 424 551 422 c 0
  509 415 500 391 500 351 c 2
 EndSplineSet
+Validated: 1
 EndChar

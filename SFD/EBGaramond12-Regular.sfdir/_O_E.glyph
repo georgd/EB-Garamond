@@ -2,7 +2,8 @@ StartChar: OE
 Encoding: 338 338 579
 Width: 933
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "cedilla" 572 8 basechar 0
 LayerCount: 3
 Fore
 SplineSet

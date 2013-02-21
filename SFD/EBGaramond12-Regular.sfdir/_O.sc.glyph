@@ -1,13 +1,15 @@
 StartChar: O.sc
-Encoding: 1114655 -1 1654
+Encoding: 66079 -1 1654
 Width: 605
 VWidth: 0
 Flags: HMW
+AnchorPoint: "cedilla" 350 8 basechar 0
 AnchorPoint: "ogonek" 403 18 basechar 0
 AnchorPoint: "below_accent" 312 -100 basechar 0
 AnchorPoint: "top_accent" 308 615 basechar 0
 LayerCount: 3
 Fore
 Refer: 1686 -1 N 1 0 0 1 0 0 2
+Validated: 1
 Comment: "." 
 EndChar

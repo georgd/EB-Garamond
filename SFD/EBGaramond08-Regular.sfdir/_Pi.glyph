@@ -1,7 +1,7 @@
 StartChar: Pi
-Encoding: 928 928 882
+Encoding: 928 928 880
 Width: 804
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -39,5 +39,6 @@ SplineSet
  495 15 505 20 528 24 c 0
  578 33 604 57 604 99 c 2
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Pi.sc
 EndChar

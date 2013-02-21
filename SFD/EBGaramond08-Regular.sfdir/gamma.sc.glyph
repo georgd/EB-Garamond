@@ -1,7 +1,7 @@
 StartChar: gamma.sc
-Encoding: 1114212 -1 893
+Encoding: 1114210 -1 891
 Width: 430
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30,4 +30,5 @@ SplineSet
  86 453 128 448 158 448 c 2
  308 448 l 2
 EndSplineSet
+Validated: 1
 EndChar

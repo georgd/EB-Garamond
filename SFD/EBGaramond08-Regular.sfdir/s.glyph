@@ -2,9 +2,7 @@ StartChar: s
 Encoding: 115 115 83
 Width: 301
 VWidth: 982
-Flags: HW
-HStem: -8 45<88.028 200.465> 384 46<112.634 202.612>
-VStem: 35 72<300.9 373.971> 214 66<55.6462 157>
+Flags: MW
 AnchorPoint: "below_accent" 146 -80 basechar 0
 AnchorPoint: "cedilla" 171 5 basechar 0
 AnchorPoint: "top_accent" 166 596 basechar 0
@@ -35,8 +33,9 @@ SplineSet
  80 219 35 270 35 305 c 8
  35 375 93 430 163 430 c 0
 EndSplineSet
+Validated: 1048577
 Substitution2: "Smallcaps subtable" s.sc
-Substitution2: "Single Substitution lookup 41 subtable" longs
+Substitution2: "Single Substitution lookup 43 subtable" longs
 Substitution2: "sups subtable" s.sups
 Substitution2: "sinf subtable" s.sinf
 Substitution2: "ordn subtable" s.ordn

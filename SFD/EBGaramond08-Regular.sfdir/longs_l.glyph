@@ -2,17 +2,15 @@ StartChar: longs_l
 Encoding: 1114119 -1 221
 Width: 548
 VWidth: 982
-Flags: HW
-HStem: -2 46<16.002 85.6687 187.178 246.438 301.613 361.822 463.331 532.065> 636 54<247.581 335.283> 661 20G<438.5 446>
-VStem: 97 83<53.0419 362 424.715 526.088> 369 83<53.0419 604.995>
+Flags: MW
 AnchorPoint: "top_right" 504 590 basechar 0
 AnchorPoint: "below_accent" 141 -80 basechar 0
 AnchorPoint: "top_accent" 265 785 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-424 678 m 0xd8
- 432 680 437 681 440 681 c 0xb8
+424 678 m 0
+ 432 680 437 681 440 681 c 0
  452 681 452 673 452 654 c 2
  452 108 l 2
  452 83 463 52 490 44 c 0
@@ -43,8 +41,9 @@ SplineSet
  95 432 97 438 97 449 c 0
  97 508 181 690 332 690 c 0
  356 690 378 687 396 682 c 0
- 401 681 419 677 424 678 c 0xd8
+ 401 681 419 677 424 678 c 0
 EndSplineSet
+Validated: 1048577
 Ligature2: "liga_standard subtable" longs l
 LCarets2: 1 281 
 EndChar

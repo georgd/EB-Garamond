@@ -1,8 +1,8 @@
 StartChar: uni0306.cyr
-Encoding: 1114936 -1 1970
+Encoding: 66356 -1 1966
 Width: 0
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_accent" 125 533 mark 0
 LayerCount: 3
 Back
@@ -33,5 +33,5 @@ SplineSet
  72 512 101 493 127 493 c 16
 EndSplineSet
 Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0306.cyrcap
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni0306.cyrcap
 EndChar

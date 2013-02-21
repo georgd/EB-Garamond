@@ -1,15 +1,15 @@
 StartChar: uni0306.cap
-Encoding: 1114123 -1 988
+Encoding: 65547 -1 988
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 142 710 mark 0
-AnchorPoint: "grk_uc_top" 152 720 mark 0
+Flags: HMW
 AnchorPoint: "top_stack" 142 695 mark 0
 AnchorPoint: "hookstack" 85 822 basemark 0
 AnchorPoint: "gravestack" 189 807 basemark 0
 AnchorPoint: "acutestack" 89 811 basemark 0
 AnchorPoint: "top_stack" 142 851 basemark 0
+AnchorPoint: "top_accent" 142 710 mark 0
+AnchorPoint: "grk_uc_top" 152 720 mark 0
 LayerCount: 3
 Fore
 SplineSet

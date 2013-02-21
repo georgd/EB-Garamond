@@ -2,8 +2,7 @@ StartChar: y
 Encoding: 121 121 89
 Width: 419
 VWidth: 982
-Flags: HW
-HStem: -261 113<34.332 121.835> 380 43<3.20581 56.1256 147.768 187.86 278.15 322.992 372.335 429.783>
+Flags: MW
 AnchorPoint: "below_accent" 278 -122 basechar 0
 AnchorPoint: "top_accent" 225 596 basechar 0
 LayerCount: 2
@@ -40,6 +39,7 @@ SplineSet
  174 -56 192 -12 192 10 c 0
  192 19 190 28 187 35 c 2
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" y.sc
 Substitution2: "sups subtable" y.sups
 Substitution2: "sinf subtable" y.sinf

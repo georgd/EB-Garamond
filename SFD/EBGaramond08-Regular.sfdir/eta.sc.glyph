@@ -1,7 +1,7 @@
 StartChar: eta.sc
-Encoding: 1114216 -1 897
+Encoding: 1114214 -1 895
 Width: 640
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -53,4 +53,5 @@ SplineSet
  444 253 445 255 445 261 c 2
  445 352 l 2
 EndSplineSet
+Validated: 1
 EndChar

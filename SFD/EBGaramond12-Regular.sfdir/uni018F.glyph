@@ -1,8 +1,10 @@
 StartChar: uni018F
-Encoding: 399 399 2160
+Encoding: 399 399 2156
 Width: 665
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "cedilla" 314 8 basechar 0
+AnchorPoint: "ogonek" 369 18 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -32,4 +34,5 @@ SplineSet
  230 -15 168 -9 150 -3 c 0
  69 24 20 108 20 212 c 0
 EndSplineSet
+Validated: 1
 EndChar

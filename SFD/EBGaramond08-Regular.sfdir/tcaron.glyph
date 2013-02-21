@@ -2,11 +2,12 @@ StartChar: tcaron
 Encoding: 357 357 351
 Width: 325
 VWidth: 0
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 731 -1 N 1 0 0 1 240 -28 2
 Refer: 84 116 N 1 0 0 1 0 0 3
+Validated: 32769
 Substitution2: "Smallcaps subtable" tcaron.sc
 MultipleSubs2: "CCMP_Precomp subtable" t uni030C.alt
 EndChar

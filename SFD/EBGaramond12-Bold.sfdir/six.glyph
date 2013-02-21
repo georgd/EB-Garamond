@@ -2,15 +2,21 @@ StartChar: six
 Encoding: 54 54 81
 Width: 492
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 3
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 234 -14 m 0
  101 -14 40 73 40 195 c 0
- 40 346 121 440 156 481 c 1
- 206 537 307 611 430 643 c 1
- 430 643 -304 514 430 643 c 1
+ 40 346 121 440 156 481 c 5
+ 326 630.299987793 386 644.299987793 430 643 c 1
  435 643 l 2
  438 643 445 643 445 636 c 0
  445 620 424 615 421 613 c 0

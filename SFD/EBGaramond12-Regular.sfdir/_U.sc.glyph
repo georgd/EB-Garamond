@@ -1,14 +1,16 @@
 StartChar: U.sc
-Encoding: 1114661 -1 1660
+Encoding: 66085 -1 1660
 Width: 563
 VWidth: 0
 Flags: HMW
+AnchorPoint: "cedilla" 338 8 basechar 0
 AnchorPoint: "ogonek" 380 18 basechar 0
 AnchorPoint: "below_accent" 316 -100 basechar 0
 AnchorPoint: "top_accent" 313 615 basechar 0
 LayerCount: 3
 Fore
 Refer: 1692 -1 N 1 0 0 1 0 0 2
-Substitution2: "Single Substitution lookup 39 subtable" U.LATsc
+Validated: 1
+Substitution2: "Single Substitution lookup 41 subtable" U.LATsc
 Comment: "." 
 EndChar

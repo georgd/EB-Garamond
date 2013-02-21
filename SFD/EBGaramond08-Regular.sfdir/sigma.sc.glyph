@@ -1,7 +1,7 @@
 StartChar: sigma.sc
-Encoding: 1114227 -1 908
+Encoding: 1114225 -1 906
 Width: 515
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -35,4 +35,5 @@ SplineSet
  249 209 249 210 246 213 c 0
  209 257 37 435 37 443 c 0
 EndSplineSet
+Validated: 5
 EndChar

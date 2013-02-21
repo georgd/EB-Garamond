@@ -1,8 +1,8 @@
 StartChar: v.LAT
-Encoding: 1114189 -1 822
+Encoding: 1114187 -1 820
 Width: 419
 VWidth: 982
-Flags: HW
+Flags: MW
 AnchorPoint: "top_accent" 231 596 basechar 0
 AnchorPoint: "below_accent" 211 -80 basechar 0
 LayerCount: 2
@@ -35,5 +35,6 @@ SplineSet
  321 341 323 355 323 362 c 4
  323 372 312 379 306 380 c 4
 EndSplineSet
-Substitution2: "Single Substitution lookup 66 subtable" v.LATmedi
+Validated: 1
+Substitution2: "Single Substitution lookup 70 subtable" v.LATmedi
 EndChar

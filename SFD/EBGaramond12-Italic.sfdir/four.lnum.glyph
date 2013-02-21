@@ -1,5 +1,5 @@
 StartChar: four.lnum
-Encoding: 1114127 -1 1059
+Encoding: 65551 -1 1059
 Width: 446
 VWidth: 0
 Flags: MW
@@ -43,6 +43,6 @@ SplineSet
  159 240 l 2
 EndSplineSet
 Validated: 33
-Substitution2: "'tnum' Tabular Numbers lookup 44 subtable" four.tablining
-Substitution2: "'onum' Minuskelziffern lookup 43 subtable" four
+Substitution2: "'tnum' Tabular Numbers lookup 47 subtable" four.tablining
+Substitution2: "'onum' Minuskelziffern lookup 46 subtable" four
 EndChar

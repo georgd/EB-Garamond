@@ -2,10 +2,7 @@ StartChar: divide
 Encoding: 247 247 166
 Width: 469
 VWidth: 982
-Flags: HW
-HStem: -5 121<191.313 281> 167 66<46.7198 417.294> 284 121<191.313 281>
-VStem: 173 123<10.4372 98.0663 299.437 387.066>
-CounterMasks: 1 e0
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27,5 +24,6 @@ SplineSet
  198 284 173 309 173 340 c 0
  173 377 205 405 242 405 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" divide.sc
 EndChar

@@ -2,9 +2,7 @@ StartChar: dotlessi
 Encoding: 305 305 175
 Width: 276
 VWidth: 982
-Flags: W
-HStem: -2 46<16.002 85.6687 191.331 260.065>
-VStem: 97 83<53.0419 341.382>
+Flags: MW
 AnchorPoint: "top_accent" 133 596 basechar 0
 LayerCount: 2
 Fore
@@ -26,5 +24,6 @@ SplineSet
  86 52 97 83 97 108 c 2
  97 302 l 2
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" dotlessi.sc
 EndChar

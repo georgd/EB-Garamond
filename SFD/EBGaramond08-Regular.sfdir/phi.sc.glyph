@@ -1,7 +1,7 @@
 StartChar: phi.sc
-Encoding: 1114230 -1 911
+Encoding: 1114228 -1 909
 Width: 617
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -39,4 +39,5 @@ SplineSet
  199 357 144 307 144 235 c 0
  144 156 192 89 271 82 c 1
 EndSplineSet
+Validated: 1
 EndChar

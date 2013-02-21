@@ -1,5 +1,5 @@
 StartChar: three.tablining
-Encoding: 1114156 -1 1107
+Encoding: 65580 -1 1107
 Width: 444
 VWidth: 0
 Flags: MW
@@ -32,6 +32,6 @@ SplineSet
  84 -38 44 -20 50 0 c 0
 EndSplineSet
 Validated: 33
-Substitution2: "'pnum' Proportionalziffern lookup 45 subtable" three.lnum
-Substitution2: "'onum' Minuskelziffern lookup 43 subtable" three.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 48 subtable" three.lnum
+Substitution2: "'onum' Minuskelziffern lookup 46 subtable" three.taboldstyle
 EndChar

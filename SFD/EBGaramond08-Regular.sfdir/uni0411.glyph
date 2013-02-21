@@ -1,7 +1,7 @@
 StartChar: uni0411
-Encoding: 1041 1041 2036
+Encoding: 1041 1041 2032
 Width: 568
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -40,4 +40,5 @@ SplineSet
  235 343 210 335 210 307 c 2
  210 108 l 2
 EndSplineSet
+Validated: 1
 EndChar

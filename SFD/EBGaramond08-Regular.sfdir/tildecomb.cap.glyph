@@ -1,9 +1,7 @@
 StartChar: tildecomb.cap
 Encoding: 1114137 -1 705
 Width: 0
-Flags: HW
-HStem: 689 21G<17 26> 714 60<42.8323 246.041>
-VStem: 5 282
+Flags: MW
 AnchorPoint: "top_accent" 142 705 mark 0
 AnchorPoint: "top_stack" 143 706 mark 0
 AnchorPoint: "top_stack" 143 820 basemark 0
@@ -20,5 +18,6 @@ SplineSet
  280 809 287 802 287 792 c 0
  287 772 229 709 202 709 c 0
 EndSplineSet
+Validated: 1048577
 Substitution2: "c2sc subtable" tildecomb.sc
 EndChar

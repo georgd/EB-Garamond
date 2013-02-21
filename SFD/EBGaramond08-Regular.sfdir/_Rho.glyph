@@ -1,7 +1,7 @@
 StartChar: Rho
-Encoding: 929 929 883
+Encoding: 929 929 881
 Width: 552
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30,5 +30,6 @@ SplineSet
  280 284 293 279 320 279 c 0
  400 279 441 340 441 458 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Rho.sc
 EndChar

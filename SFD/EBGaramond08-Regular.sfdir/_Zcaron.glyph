@@ -2,11 +2,12 @@ StartChar: Zcaron
 Encoding: 381 381 370
 Width: 591
 VWidth: 0
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 701 -1 N 1 0 0 1 143 -35 2
 Refer: 58 90 N 1 0 0 1 0 0 3
+Validated: 32769
 Substitution2: "c2sc subtable" Zcaron.sc
 MultipleSubs2: "CCMP_Precomp subtable" Z uni030C.cap
 EndChar

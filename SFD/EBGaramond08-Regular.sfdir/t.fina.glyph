@@ -1,10 +1,8 @@
 StartChar: t.fina
-Encoding: 1114185 -1 798
+Encoding: 1114183 -1 796
 Width: 793
 VWidth: 982
-Flags: HW
-HStem: -5 79<184.998 577.046> 358 59<161.026 296.625>
-VStem: 78 83<101.194 354.699> 693 76<128.393 255.038>
+Flags: MW
 AnchorPoint: "top_accent" 155 596 basechar 0
 AnchorPoint: "cedilla" 209 5 basechar 0
 AnchorPoint: "top_right" 260 580 basechar 0
@@ -37,4 +35,5 @@ SplineSet
  769 48 586 -5 384 -5 c 0
  239 -5 246 -5 186 -5 c 0
 EndSplineSet
+Validated: 1048609
 EndChar

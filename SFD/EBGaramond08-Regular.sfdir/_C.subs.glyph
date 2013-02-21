@@ -1,7 +1,7 @@
 StartChar: C.subs
-Encoding: 1114352 -1 1035
+Encoding: 1114350 -1 1033
 Width: 432
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27,4 +27,5 @@ SplineSet
  122 -9 30 85 30 194 c 0
  30 310 140 398 266 398 c 0
 EndSplineSet
+Validated: 1
 EndChar

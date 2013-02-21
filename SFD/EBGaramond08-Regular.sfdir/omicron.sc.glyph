@@ -1,7 +1,7 @@
 StartChar: omicron.sc
-Encoding: 1114224 -1 905
+Encoding: 1114222 -1 903
 Width: 616
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16,4 +16,5 @@ SplineSet
  556 103 466 -15 302 -15 c 0
  169 -15 60 93 60 222 c 0
 EndSplineSet
+Validated: 1
 EndChar

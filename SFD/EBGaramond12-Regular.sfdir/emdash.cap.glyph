@@ -1,8 +1,8 @@
 StartChar: emdash.cap
-Encoding: 1115144 -1 2881
+Encoding: 66566 -1 2877
 Width: 950
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -14,4 +14,5 @@ SplineSet
  57 295 50 301 50 307 c 0
  50 316 55 349 74 349 c 26
 EndSplineSet
+Validated: 1
 EndChar

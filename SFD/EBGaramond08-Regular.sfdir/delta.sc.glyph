@@ -1,7 +1,7 @@
 StartChar: delta.sc
-Encoding: 1114213 -1 894
+Encoding: 1114211 -1 892
 Width: 434
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27,4 +27,5 @@ SplineSet
  294 48 l 1
  294 48 315 47 311 58 c 2
 EndSplineSet
+Validated: 1
 EndChar

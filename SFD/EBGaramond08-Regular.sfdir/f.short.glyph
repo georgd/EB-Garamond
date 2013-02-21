@@ -1,8 +1,8 @@
 StartChar: f.short
-Encoding: 1114707 -1 1395
+Encoding: 1114705 -1 1393
 Width: 310
 VWidth: 982
-Flags: HW
+Flags: MW
 AnchorPoint: "below_accent" 138 -80 basechar 0
 AnchorPoint: "top_accent" 267 785 basechar 0
 LayerCount: 2
@@ -37,4 +37,5 @@ SplineSet
  95 410 97 424 97 435 c 4
  97 573 184 690 322 690 c 4
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,7 +1,7 @@
 StartChar: uni0342.altsc
-Encoding: 1115006 -1 1715
+Encoding: 1115002 -1 1711
 Width: 1000
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15,4 +15,5 @@ SplineSet
  180 519 153 541 112 541 c 0
  71 541 45 519 37 498 c 0
 EndSplineSet
+Validated: 1
 EndChar

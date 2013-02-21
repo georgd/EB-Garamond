@@ -2,9 +2,7 @@ StartChar: bracketright
 Encoding: 93 93 61
 Width: 268
 VWidth: 982
-Flags: HW
-HStem: -199 43<0.945068 170.306> 541 43<1.37109 169.24>
-VStem: 173 48<-153.806 539.121>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -24,6 +22,7 @@ SplineSet
  221 -165 l 2
  221 -199 215 -199 183 -199 c 2
 EndSplineSet
+Validated: 1
 Substitution2: "sups subtable" bracketright.sups
 Substitution2: "sinf subtable" bracketright.sinf
 Substitution2: "ordn subtable" bracketright.ordn

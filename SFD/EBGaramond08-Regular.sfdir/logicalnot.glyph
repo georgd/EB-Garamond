@@ -1,7 +1,7 @@
 StartChar: logicalnot
-Encoding: 172 172 2169
+Encoding: 172 172 2165
 Width: 600
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17,4 +17,5 @@ SplineSet
  490 314 486 322 476 322 c 2
  64 322 l 2
 EndSplineSet
+Validated: 1
 EndChar

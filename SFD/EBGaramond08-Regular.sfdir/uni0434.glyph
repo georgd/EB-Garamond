@@ -1,7 +1,7 @@
 StartChar: uni0434
-Encoding: 1076 1076 1987
+Encoding: 1076 1076 1983
 Width: 455
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -46,5 +46,6 @@ SplineSet
  116 49 113 46 113 43 c 0
  113 40 116 37 127 37 c 2
 EndSplineSet
+Validated: 1
 Substitution2: "cyrillic_DLLj subtable" uni0434.alt
 EndChar

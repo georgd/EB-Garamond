@@ -1,7 +1,7 @@
 StartChar: underscore.subs
-Encoding: 1114380 -1 1063
+Encoding: 1114378 -1 1061
 Width: 325
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13,4 +13,5 @@ SplineSet
  3 -109 0 -100 0 -96 c 0
  0 -91 5 -73 16 -73 c 2
 EndSplineSet
+Validated: 1
 EndChar

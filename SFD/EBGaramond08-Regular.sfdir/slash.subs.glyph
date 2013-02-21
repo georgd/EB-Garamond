@@ -1,7 +1,7 @@
 StartChar: slash.subs
-Encoding: 1114342 -1 1025
+Encoding: 1114340 -1 1023
 Width: 267
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13,4 +13,5 @@ SplineSet
  56 -39 43 -37 30 -37 c 0
  25 -37 18 -33 20 -28 c 2
 EndSplineSet
+Validated: 33
 EndChar

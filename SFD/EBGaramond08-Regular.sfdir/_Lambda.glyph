@@ -1,7 +1,7 @@
 StartChar: Lambda
-Encoding: 923 923 877
+Encoding: 923 923 875
 Width: 684
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -36,5 +36,6 @@ SplineSet
  383 670 385 665 388 656 c 2
  563 128 l 2
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Lambda.sc
 EndChar

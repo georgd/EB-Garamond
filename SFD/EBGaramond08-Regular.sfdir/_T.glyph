@@ -2,9 +2,7 @@ StartChar: T
 Encoding: 84 84 52
 Width: 592
 VWidth: 982
-Flags: HW
-HStem: -2 47<168.038 246.943 380.057 459.136> 536 48<92.4905 265.478 361.469 559.784>
-VStem: 35 50<463.844 531.629> 266 95<63.6768 536>
+Flags: MW
 AnchorPoint: "top_accent" 315 670 basechar 0
 AnchorPoint: "below_accent" 312 -80 basechar 0
 AnchorPoint: "cedilla" 332 15 basechar 0
@@ -44,6 +42,7 @@ SplineSet
  253 60 266 92 266 129 c 2
  266 505 l 2
 EndSplineSet
+Validated: 1048577
 Substitution2: "c2sc subtable" T.sc
 Substitution2: "sups subtable" T.sups
 Substitution2: "sinf subtable" T.sinf

@@ -1,8 +1,7 @@
 StartChar: w.sc
-Encoding: 1114737 -1 1444
+Encoding: 1114735 -1 1442
 Width: 765
-Flags: W
-HStem: -10 21G<242.5 273.5 482.5 513.5> 414 39<5.12926 58.6309 199.601 255.871 279.129 334.018 456.601 529.871 559.129 603.628 704.324 759.942>
+Flags: MW
 AnchorPoint: "below_accent" 371 -80 basechar 0
 AnchorPoint: "top_accent" 399 630 basechar 0
 LayerCount: 2
@@ -50,4 +49,5 @@ SplineSet
  349 360 l 2
  352.668 371.426 346.183 385.575 335.003 394 c 0
 EndSplineSet
+Validated: 33
 EndChar

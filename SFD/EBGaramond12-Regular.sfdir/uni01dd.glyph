@@ -1,8 +1,10 @@
 StartChar: uni01dd
-Encoding: 477 477 2052
+Encoding: 477 477 2048
 Width: 388
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "cedilla" 220 8 basechar 0
+AnchorPoint: "ogonek" 246 18 basechar 0
 LayerCount: 3
 Back
 SplineSet

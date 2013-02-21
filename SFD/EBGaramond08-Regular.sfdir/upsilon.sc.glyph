@@ -1,7 +1,7 @@
 StartChar: upsilon.sc
-Encoding: 1114229 -1 910
+Encoding: 1114227 -1 908
 Width: 590
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -28,4 +28,5 @@ SplineSet
  164 19 177 23 188 25 c 0
  223 32 254 43 254 79 c 2
 EndSplineSet
+Validated: 1
 EndChar

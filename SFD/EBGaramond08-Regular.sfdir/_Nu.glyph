@@ -1,7 +1,7 @@
 StartChar: Nu
-Encoding: 925 925 879
+Encoding: 925 925 877
 Width: 770
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -41,5 +41,6 @@ SplineSet
  530 647 542 650 559 650 c 2
  616 650 l 2
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Nu.sc
 EndChar

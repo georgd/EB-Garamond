@@ -1,11 +1,12 @@
 StartChar: Upsilondieresis
-Encoding: 939 939 1944
+Encoding: 939 939 1940
 Width: 739
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 707 -1 N 1 0 0 1 228.5 23 2
-Refer: 886 933 N 1 0 0 1 0 0 3
+Refer: 884 933 N 1 0 0 1 0 0 3
+Validated: 32769
 Substitution2: "c2sc subtable" Upsilondieresis.sc
 MultipleSubs2: "CCMP_Precomp subtable" Upsilon uni0308.cap
 EndChar

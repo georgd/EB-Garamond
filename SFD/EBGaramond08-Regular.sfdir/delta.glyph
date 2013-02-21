@@ -1,7 +1,7 @@
 StartChar: delta
-Encoding: 948 948 846
+Encoding: 948 948 844
 Width: 418
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -29,5 +29,6 @@ SplineSet
  313 264 304 338 267 338 c 0
  169 338 85 249 85 131 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" delta.sc
 EndChar

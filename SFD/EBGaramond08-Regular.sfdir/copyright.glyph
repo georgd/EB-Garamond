@@ -2,9 +2,7 @@ StartChar: copyright
 Encoding: 169 169 100
 Width: 724
 VWidth: 982
-Flags: W
-HStem: -5 35<261.699 466.149> 104 42<319.767 452.555> 457 42<309.524 449.698> 569 35<262.81 465.903>
-VStem: 40 35<209.579 390.314> 157 90<228.734 382.044> 479 54<369.51 431.202> 657 35<212.691 390.63>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -35,4 +33,5 @@ SplineSet
  259 104 157 186 157 299 c 4
  157 419 270.948242188 499 391 499 c 4
 EndSplineSet
+Validated: 1
 EndChar

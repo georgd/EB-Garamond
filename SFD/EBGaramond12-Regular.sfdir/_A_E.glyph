@@ -2,7 +2,8 @@ StartChar: AE
 Encoding: 198 198 1000
 Width: 866
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "cedilla" 512 8 basechar 0
 AnchorPoint: "top_accent" 540 710 basechar 0
 LayerCount: 3
 Fore

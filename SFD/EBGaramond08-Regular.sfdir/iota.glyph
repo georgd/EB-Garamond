@@ -1,7 +1,7 @@
 StartChar: iota
-Encoding: 953 953 851
+Encoding: 953 953 849
 Width: 221
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16,5 +16,6 @@ SplineSet
  63 374 73 418 111 418 c 0
  140 418 150 391 150 343 c 0
 EndSplineSet
+Validated: 33
 Substitution2: "Smallcaps subtable" iota.sc
 EndChar

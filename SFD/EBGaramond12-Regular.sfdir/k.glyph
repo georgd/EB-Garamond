@@ -2,7 +2,7 @@ StartChar: k
 Encoding: 107 107 62
 Width: 469
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "below_accent" 233 -100 basechar 0
 AnchorPoint: "top_accent" 107 790 basechar 0
 LayerCount: 3
@@ -53,6 +53,7 @@ SplineSet
  407 -5 340 0 277 0 c 0
  272 0 254 -1 254 9 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" k.sc
 Substitution2: "sups subtable" k.sups
 Substitution2: "sinf subtable" k.sinf

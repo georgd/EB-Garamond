@@ -1,7 +1,7 @@
 StartChar: onequarter
-Encoding: 188 188 2172
+Encoding: 188 188 2168
 Width: 641
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -59,4 +59,5 @@ SplineSet
  41 574 46 580 51 581 c 0
  102 586 142 620 154 626 c 0
 EndSplineSet
+Validated: 1
 EndChar

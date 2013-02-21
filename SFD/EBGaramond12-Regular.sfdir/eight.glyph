@@ -2,7 +2,7 @@ StartChar: eight
 Encoding: 56 56 85
 Width: 452
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -33,10 +33,10 @@ SplineSet
  205 267 202 265 197 261 c 0
 EndSplineSet
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" eight.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 30 subtable" eight.lnum
-Substitution2: "Single Substitution lookup 29 subtable" eight.ordn
-Substitution2: "Single Substitution lookup 28 subtable" eight.subs
+Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" eight.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 32 subtable" eight.lnum
+Substitution2: "Single Substitution lookup 31 subtable" eight.ordn
+Substitution2: "Single Substitution lookup 30 subtable" eight.subs
 Substitution2: "sups subtable" eight.sups
 Substitution2: "sinf subtable" eight.sinf
 Substitution2: "ordn subtable" eight.ordn

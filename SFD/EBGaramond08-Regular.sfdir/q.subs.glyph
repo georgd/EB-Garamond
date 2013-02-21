@@ -1,7 +1,7 @@
 StartChar: q.subs
-Encoding: 1114398 -1 1081
+Encoding: 1114396 -1 1079
 Width: 350
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30,4 +30,5 @@ SplineSet
  229 163 l 2
  229 198 205 219 162 219 c 0
 EndSplineSet
+Validated: 1
 EndChar

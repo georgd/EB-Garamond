@@ -1,7 +1,7 @@
 StartChar: asterisk.subs
-Encoding: 1114337 -1 1020
+Encoding: 1114335 -1 1018
 Width: 172
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17,4 +17,5 @@ SplineSet
  88 281 71 246 61 249 c 0
  51 252 66 288 74 311 c 1
 EndSplineSet
+Validated: 33
 EndChar

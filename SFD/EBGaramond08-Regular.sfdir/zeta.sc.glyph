@@ -1,7 +1,7 @@
 StartChar: zeta.sc
-Encoding: 1114215 -1 896
+Encoding: 1114213 -1 894
 Width: 510
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -33,4 +33,5 @@ SplineSet
  156 46 158 40 165 39 c 0
  185 37 201 34 229 34 c 2
 EndSplineSet
+Validated: 33
 EndChar

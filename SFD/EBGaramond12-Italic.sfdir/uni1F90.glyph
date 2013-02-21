@@ -1,12 +1,13 @@
 StartChar: uni1F90
-Encoding: 8080 8080 2404
+Encoding: 8080 8080 2400
 Width: 486
 VWidth: 0
 Flags: HM
 LayerCount: 2
 Fore
 Refer: 126 787 N 1 0 0 1 201 50 2
-Refer: 2377 837 N 1 0 0 1 238 -60 2
-Refer: 2173 951 N 1 0 0 1 0 0 3
+Refer: 2373 837 N 1 0 0 1 238 -60 2
+Refer: 2169 951 N 1 0 0 1 0 0 3
+Validated: 1
 MultipleSubs2: "CCMP_Precomp subtable" eta uni0345 uni0313
 EndChar

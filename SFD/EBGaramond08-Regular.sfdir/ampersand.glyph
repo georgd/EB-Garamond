@@ -2,17 +2,15 @@ StartChar: ampersand
 Encoding: 38 38 8
 Width: 783
 VWidth: 982
-Flags: HW
-HStem: -12 87<191.987 305.118> -4 47<645.179 744.16> 380 37<522.105 562.992 646.853 708.682> 586 47<230.383 325.857>
-VStem: 42 89<145.699 262.576> 138 80<507.057 570.562> 339 80<498.851 572.545>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-671 -4 m 0x7e
+671 -4 m 0
  609 -4 552 2 514 54 c 1
  514 54 483 103 448 150 c 1
  382 77 l 2
- 339 29 294 -12 230 -12 c 0xbe
+ 339 29 294 -12 230 -12 c 0
  122 -12 42 72 42 195 c 0
  42 236 74 293 123 330 c 2
  212 397 l 1
@@ -39,7 +37,7 @@ SplineSet
  561 162 612 96 612 96 c 2
  650 49 674 48 731 43 c 0
  742 42 748 34 748 26 c 0
- 748 8 701 -4 671 -4 c 0x7e
+ 748 8 701 -4 671 -4 c 0
 244 369 m 1
  151 291 l 2
  136 278 131 261 131 239 c 0
@@ -57,6 +55,7 @@ SplineSet
  218 528 263 479 273 471 c 2
  291 455 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sups subtable" ampersand.sups
 Substitution2: "sinf subtable" ampersand.sinf
 Substitution2: "ordn subtable" ampersand.ordn

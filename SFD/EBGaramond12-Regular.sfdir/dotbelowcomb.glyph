@@ -1,8 +1,8 @@
 StartChar: dotbelowcomb
-Encoding: 803 803 2028
+Encoding: 803 803 2024
 Width: 0
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "below_accent" 50 -100 mark 0
 LayerCount: 3
 Fore
@@ -14,5 +14,5 @@ SplineSet
  22 -192 0 -170 0 -142 c 0
 EndSplineSet
 Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" dotbelowcomb.cap
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" dotbelowcomb.cap
 EndChar

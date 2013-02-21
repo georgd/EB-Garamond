@@ -1,5 +1,5 @@
 StartChar: six.tablining
-Encoding: 1114159 -1 1110
+Encoding: 65583 -1 1110
 Width: 444
 VWidth: 0
 Flags: MW
@@ -28,6 +28,6 @@ SplineSet
  441 85 343 -14 213 -14 c 0
 EndSplineSet
 Validated: 33
-Substitution2: "'pnum' Proportionalziffern lookup 45 subtable" six.lnum
-Substitution2: "'onum' Minuskelziffern lookup 43 subtable" six.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 48 subtable" six.lnum
+Substitution2: "'onum' Minuskelziffern lookup 46 subtable" six.taboldstyle
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni030A.cap
-Encoding: 1114964 -1 2085
+Encoding: 66384 -1 2081
 Width: 0
 Flags: MW
 AnchorPoint: "top_stack" 94 873 basemark 0
@@ -18,5 +18,6 @@ SplineSet
  136 806 120 821 101 821 c 0
  70 821 52 788 52 757 c 0
 EndSplineSet
+Validated: 1048577
 Substitution2: "c2sc subtable" uni030A.sc
 EndChar

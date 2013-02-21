@@ -1,7 +1,7 @@
 StartChar: Gamma
-Encoding: 915 915 869
+Encoding: 915 915 867
 Width: 517
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -31,5 +31,6 @@ SplineSet
  252 611 l 2
  221 611 210 591 210 549 c 2
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Gamma.sc
 EndChar

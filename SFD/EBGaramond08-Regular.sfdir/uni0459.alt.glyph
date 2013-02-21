@@ -1,7 +1,7 @@
 StartChar: uni0459.alt
-Encoding: 1115020 -1 1995
+Encoding: 1115016 -1 1991
 Width: 580
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -44,4 +44,5 @@ SplineSet
  294 29 301 37 301 45 c 0
  301 46 300 48 300 49 c 2
 EndSplineSet
+Validated: 1
 EndChar

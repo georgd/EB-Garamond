@@ -1,9 +1,8 @@
 StartChar: uni2015
-Encoding: 8213 8213 1379
+Encoding: 8213 8213 1377
 Width: 2000
 VWidth: 0
-Flags: HW
-HStem: 175 86<45 1965>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13,4 +12,5 @@ SplineSet
  1965 175 l 1
  45 175 l 1
 EndSplineSet
+Validated: 1
 EndChar

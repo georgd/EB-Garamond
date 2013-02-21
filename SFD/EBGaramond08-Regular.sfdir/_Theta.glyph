@@ -1,7 +1,7 @@
 StartChar: Theta
-Encoding: 920 920 874
+Encoding: 920 920 872
 Width: 773
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -35,5 +35,6 @@ SplineSet
  723 155 606 -14 387 -14 c 0
  210 -14 50 130 50 320 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Theta.sc
 EndChar

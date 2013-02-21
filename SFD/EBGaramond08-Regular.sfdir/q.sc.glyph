@@ -1,9 +1,7 @@
 StartChar: q.sc
-Encoding: 1114731 -1 1438
+Encoding: 1114729 -1 1436
 Width: 585
-Flags: W
-HStem: -247 65<712.525 917.597> 424 46<213.92 350.786>
-VStem: 39 105<118.354 311.156> 434 103<121.852 326.449>
+Flags: MW
 AnchorPoint: "cedilla" 173 15 basechar 0
 AnchorPoint: "ogonek" 195 15 basechar 0
 AnchorPoint: "below_accent" 160 -80 basechar 0
@@ -29,4 +27,5 @@ SplineSet
  434 317 383 424 281 424 c 0
  188 424 144 323 144 230 c 0
 EndSplineSet
+Validated: 1
 EndChar

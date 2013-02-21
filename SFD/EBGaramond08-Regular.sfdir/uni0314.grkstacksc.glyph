@@ -1,7 +1,7 @@
 StartChar: uni0314.grkstacksc
-Encoding: 1115005 -1 1714
+Encoding: 1115001 -1 1710
 Width: 1000
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15,4 +15,5 @@ SplineSet
  102 620 120 610 120 594 c 0
  120 572 103 561 84 560 c 0
 EndSplineSet
+Validated: 1
 EndChar

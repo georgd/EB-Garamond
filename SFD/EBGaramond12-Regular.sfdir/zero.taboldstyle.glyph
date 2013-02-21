@@ -1,8 +1,8 @@
 StartChar: zero.taboldstyle
-Encoding: 1114162 -1 1096
+Encoding: 65586 -1 1096
 Width: 475
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -18,6 +18,6 @@ SplineSet
  24 318 120 414 238 414 c 24
 EndSplineSet
 Validated: 1
-Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" zero
-Substitution2: "'lnum' Lining Figures lookup 30 subtable" zero.tablining
+Substitution2: "'pnum' Proportionalziffern lookup 35 subtable" zero
+Substitution2: "'lnum' Lining Figures lookup 32 subtable" zero.tablining
 EndChar

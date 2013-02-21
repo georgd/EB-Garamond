@@ -1,8 +1,8 @@
 StartChar: figuredash.cap
-Encoding: 1115142 -1 2879
+Encoding: 66564 -1 2875
 Width: 528
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -14,4 +14,5 @@ SplineSet
  19 291 12 297 12 303 c 0
  12 312 15 351 36 351 c 26
 EndSplineSet
+Validated: 1
 EndChar

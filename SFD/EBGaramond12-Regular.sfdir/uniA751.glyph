@@ -1,8 +1,8 @@
 StartChar: uniA751
-Encoding: 42833 42833 2886
+Encoding: 42833 42833 2882
 Width: 519
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_accent" 261 550 basechar 0
 LayerCount: 3
 Fore
@@ -17,8 +17,8 @@ SplineSet
  158 97 162 60 181 42 c 0
  196 28 230 17 274 17 c 0
 7 -152 m 2
- -26 -152 -38.458984375 -160.640625 -52 -184 c 0
- -60.0244140625 -197.842773438 -63 -205 -75 -205 c 0
+ -26 -152 -38 -161 -52 -184 c 0
+ -60 -198 -63 -205 -75 -205 c 0
  -84 -205 -94 -165 -94 -139 c 0
  -94 -124 -88 -116 -65 -116 c 2
  85 -116 l 1
@@ -53,4 +53,5 @@ SplineSet
  85 -152 l 1
  7 -152 l 2
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,8 +1,8 @@
 StartChar: n.sc
-Encoding: 1114686 -1 1685
+Encoding: 66110 -1 1685
 Width: 600
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "below_accent" 320 -100 basechar 0
 AnchorPoint: "top_accent" 323 615 basechar 0
 LayerCount: 3
@@ -43,5 +43,6 @@ SplineSet
  575 431 563 424 551 422 c 0
  509 415 500 391 500 351 c 2
 EndSplineSet
+Validated: 1
 Comment: "." 
 EndChar

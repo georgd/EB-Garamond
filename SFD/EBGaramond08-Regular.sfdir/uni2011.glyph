@@ -1,8 +1,8 @@
 StartChar: uni2011
-Encoding: 8209 8209 816
+Encoding: 8209 8209 814
 Width: 386
 VWidth: 982
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14,5 +14,6 @@ SplineSet
  45 214 56 249 82 252 c 6
  320 271 l 6
 EndSplineSet
-Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni2011.cap
+Validated: 33
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni2011.cap
 EndChar

@@ -1,7 +1,7 @@
 StartChar: ampersand.subs
-Encoding: 1114333 -1 1016
+Encoding: 1114331 -1 1014
 Width: 512
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -59,4 +59,5 @@ SplineSet
  135 276 164 245 172 236 c 2
  181 226 l 1
 EndSplineSet
+Validated: 1
 EndChar

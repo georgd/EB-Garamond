@@ -1,10 +1,8 @@
 StartChar: hbar
-Encoding: 295 295 754
+Encoding: 295 295 752
 Width: 543
 VWidth: 982
-Flags: HW
-HStem: -2 46<20.7626 85.6687 185.388 240.334 304.763 360.205 460.654 522.438> 378 52<226.223 328.325> 495 48<4.55328 343.66> 661 20<163 174>
-VStem: 97 83<53.0419 342.363 392.255 603.762> 366 83<53.4106 337.284>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17,5 +15,6 @@ SplineSet
  36 495 l 2
 EndSplineSet
 Refer: 72 104 N 1 0 0 1 0 0 2
+Validated: 32773
 Substitution2: "Smallcaps subtable" hbar.sc
 EndChar

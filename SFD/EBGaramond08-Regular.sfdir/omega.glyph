@@ -1,7 +1,7 @@
 StartChar: omega
-Encoding: 969 969 866
+Encoding: 969 969 864
 Width: 562
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26,5 +26,6 @@ SplineSet
  324 196 313 166 302 137 c 0
  300 131 302 115 304 108 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" omega.sc
 EndChar

@@ -2,7 +2,7 @@ StartChar: one
 Encoding: 49 49 50
 Width: 289
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -28,10 +28,10 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "one_variants subtable" one.01
-Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" one.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 30 subtable" one.lnum
-Substitution2: "Single Substitution lookup 29 subtable" one.ordn
-Substitution2: "Single Substitution lookup 28 subtable" one.subs
+Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" one.taboldstyle
+Substitution2: "'lnum' Lining Figures lookup 32 subtable" one.lnum
+Substitution2: "Single Substitution lookup 31 subtable" one.ordn
+Substitution2: "Single Substitution lookup 30 subtable" one.subs
 Substitution2: "sups subtable" one.sups
 Substitution2: "sinf subtable" one.sinf
 Substitution2: "ordn subtable" one.ordn

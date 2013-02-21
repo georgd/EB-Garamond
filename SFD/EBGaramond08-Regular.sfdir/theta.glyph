@@ -1,7 +1,7 @@
 StartChar: theta
-Encoding: 952 952 850
+Encoding: 952 952 848
 Width: 430
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23,5 +23,6 @@ SplineSet
  115 -14 45 196 45 331 c 0
  45 484 129 697 225 697 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" theta.sc
 EndChar

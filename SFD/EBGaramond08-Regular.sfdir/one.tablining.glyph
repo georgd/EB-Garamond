@@ -1,9 +1,7 @@
 StartChar: one.tablining
-Encoding: 1114319 -1 1000
+Encoding: 1114317 -1 998
 Width: 362
-Flags: HW
-HStem: -2 47<34.0383 113.49 245.237 325.136> 498 48<44.1431 110.869> 589 20G<215 219>
-VStem: 134 90<66.2403 475.641>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26,6 +24,7 @@ SplineSet
  225 580 224 557 224 529 c 2
  224 129 l 2
 EndSplineSet
-Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" one.lnum
-Substitution2: "'onum' Minuskelziffern lookup 31 subtable" one.taboldstyle
+Validated: 1
+Substitution2: "'pnum' Proportionalziffern lookup 35 subtable" one.lnum
+Substitution2: "'onum' Minuskelziffern lookup 33 subtable" one.taboldstyle
 EndChar

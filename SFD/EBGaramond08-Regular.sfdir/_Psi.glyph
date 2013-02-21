@@ -1,7 +1,7 @@
 StartChar: Psi
-Encoding: 936 936 889
+Encoding: 936 936 887
 Width: 745
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -47,5 +47,6 @@ SplineSet
  410 288 410 276 410 263 c 2
  410 99 l 2
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Psi.sc
 EndChar

@@ -2,7 +2,7 @@ StartChar: ccedilla
 Encoding: 231 231 159
 Width: 377
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_accent" 230 550 basechar 0
 LayerCount: 3
 Back
@@ -68,6 +68,7 @@ SplineSet
  236 -144 212 -123 177 -123 c 0
  164 -123 158 -129 151 -129 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" ccedilla.sc
 MultipleSubs2: "CCMP_Precomp subtable" c uni0327
 EndChar

@@ -1,8 +1,7 @@
 StartChar: guilsinglleft
-Encoding: 8249 8249 787
+Encoding: 8249 8249 785
 Width: 430
-Flags: HW
-VStem: 100 228
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21,5 +20,6 @@ SplineSet
  330 376 327 370 324 365 c 0
  268 280 249 254 212 217 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "guillemet_var subtable" guilsinglleft.alt
 EndChar

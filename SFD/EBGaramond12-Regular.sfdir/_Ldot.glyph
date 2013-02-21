@@ -6,14 +6,14 @@ Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-457 414 m 28
- 485 414 507 392 507 364 c 28
- 507 336 485 314 457 314 c 28
- 429 314 407 336 407 364 c 28
- 407 392 429 414 457 414 c 28
+457 414 m 24
+ 485 414 507 392 507 364 c 24
+ 507 336 485 314 457 314 c 24
+ 429 314 407 336 407 364 c 24
+ 407 392 429 414 457 414 c 24
 EndSplineSet
 Refer: 36 76 N 1 0 0 1 0 0 3
-Ligature2: "liga_standard subtable" L.CAT periodcentered
+Validated: 1
 Substitution2: "c2sc subtable" Ldot.sc
 LCarets2: 1 0 
 EndChar

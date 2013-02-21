@@ -1,8 +1,8 @@
 StartChar: Q.low
-Encoding: 1115043 -1 2019
+Encoding: 1115039 -1 2015
 Width: 754
 VWidth: 982
-Flags: HW
+Flags: MW
 AnchorPoint: "top_accent" 371 670 basechar 0
 LayerCount: 2
 Fore
@@ -29,4 +29,5 @@ SplineSet
  555 421 479 560 343 560 c 4
  229 560 158 439 158 325 c 4
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,7 +1,7 @@
 StartChar: exclam.subs
-Encoding: 1114328 -1 1011
+Encoding: 1114326 -1 1009
 Width: 175
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19,4 +19,5 @@ SplineSet
  73 214 60 306 60 344 c 0
  60 367 71 388 94 389 c 1
 EndSplineSet
+Validated: 1
 EndChar

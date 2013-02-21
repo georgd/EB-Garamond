@@ -1,5 +1,5 @@
 StartChar: five.tablining
-Encoding: 1114158 -1 1109
+Encoding: 65582 -1 1109
 Width: 443
 VWidth: 0
 Flags: MW
@@ -27,6 +27,6 @@ SplineSet
  197 -13 327 68 363 187 c 0
 EndSplineSet
 Validated: 33
-Substitution2: "'pnum' Proportionalziffern lookup 45 subtable" five.lnum
-Substitution2: "'onum' Minuskelziffern lookup 43 subtable" five.taboldstyle
+Substitution2: "'pnum' Proportionalziffern lookup 48 subtable" five.lnum
+Substitution2: "'onum' Minuskelziffern lookup 46 subtable" five.taboldstyle
 EndChar

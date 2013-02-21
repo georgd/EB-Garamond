@@ -1,7 +1,7 @@
 StartChar: iota.sc
-Encoding: 1114218 -1 899
+Encoding: 1114216 -1 897
 Width: 315
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25,4 +25,5 @@ SplineSet
  285 1 272 -3 265 -3 c 0
  226 -3 200 3 158 3 c 0
 EndSplineSet
+Validated: 1
 EndChar

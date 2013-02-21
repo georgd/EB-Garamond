@@ -1,12 +1,13 @@
 StartChar: uni1FDF
-Encoding: 8159 8159 1907
+Encoding: 8159 8159 1903
 Width: 337
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 1667 834 N 1 0 0 1 4 -205 2
-Refer: 1677 -1 N 1 0 0 1 95.5 -396 2
-Refer: 1750 -1 N 1 0 0 1 155.5 0 2
+Refer: 1663 834 N 1 0 0 1 4 -205 2
+Refer: 1673 -1 N 1 0 0 1 95.5 -396 2
+Refer: 1746 -1 N 1 0 0 1 155.5 0 2
+Validated: 32769
 MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0314.grkstack uni0342
 EndChar

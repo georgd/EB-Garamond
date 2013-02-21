@@ -1,13 +1,14 @@
 StartChar: iotadieresistonos
-Encoding: 912 912 2230
+Encoding: 912 912 2226
 Width: 189
 VWidth: 0
 Flags: HM
 LayerCount: 2
 Fore
-Refer: 2373 -1 N 1 0 0 1 172 -22 2
-Refer: 2366 -1 N 1 0 0 1 60 -50 2
-Refer: 2175 953 N 1 0 0 1 0 0 3
+Refer: 2369 -1 N 1 0 0 1 172 -22 2
+Refer: 2362 -1 N 1 0 0 1 60 -50 2
+Refer: 2171 953 N 1 0 0 1 0 0 3
+Validated: 5
 Substitution2: "Smallcaps subtable" iotadieresistonos.sc
 MultipleSubs2: "CCMP_Precomp subtable" iota uni0308.grkstack acutecomb.grk
 EndChar

@@ -1,12 +1,13 @@
 StartChar: uni1F32
-Encoding: 7986 7986 1798
+Encoding: 7986 7986 1794
 Width: 221
 VWidth: 0
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 1673 -1 N 1 0 0 1 -11 288 2
-Refer: 1671 -1 N 1 0 0 1 51 28 2
-Refer: 851 953 N 1 0 0 1 0 0 3
+Refer: 1669 -1 N 1 0 0 1 -11 288 2
+Refer: 1667 -1 N 1 0 0 1 51 28 2
+Refer: 849 953 N 1 0 0 1 0 0 3
+Validated: 32769
 MultipleSubs2: "CCMP_Precomp subtable" iota uni0313.grk gravecomb.grkstack
 EndChar

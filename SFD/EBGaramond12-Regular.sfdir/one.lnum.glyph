@@ -1,8 +1,8 @@
 StartChar: one.lnum
-Encoding: 1114140 -1 1055
+Encoding: 65564 -1 1055
 Width: 362
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -26,6 +26,6 @@ SplineSet
  140 510 92 532 67 534 c 0
 EndSplineSet
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" one.tablining
-Substitution2: "'onum' Minuskelziffern lookup 31 subtable" one
+Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" one.tablining
+Substitution2: "'onum' Minuskelziffern lookup 33 subtable" one
 EndChar

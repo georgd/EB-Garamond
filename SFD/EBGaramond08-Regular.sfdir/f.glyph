@@ -2,9 +2,7 @@ StartChar: f
 Encoding: 102 102 70
 Width: 310
 VWidth: 982
-Flags: HW
-HStem: -2 46<16.002 85.6687 191.886 266.998> 355 55<44.2508 96.9348 180.026 287.437> 559 21G<389 413.5> 634 56<227.359 344.58>
-VStem: 97 83<55.5628 351.063 410 544.318>
+Flags: MW
 AnchorPoint: "top_accent" 267 785 basechar 0
 AnchorPoint: "below_accent" 138 -80 basechar 0
 LayerCount: 2
@@ -39,7 +37,8 @@ SplineSet
  95 410 97 424 97 435 c 0
  97 573 184 690 322 690 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 63 subtable" f.short
+Validated: 1
+Substitution2: "Single Substitution lookup 67 subtable" f.short
 Substitution2: "Smallcaps subtable" f.sc
 Substitution2: "sups subtable" f.sups
 Substitution2: "sinf subtable" f.sinf

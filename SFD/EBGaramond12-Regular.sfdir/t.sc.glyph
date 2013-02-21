@@ -1,8 +1,8 @@
 StartChar: t.sc
-Encoding: 1114692 -1 1691
+Encoding: 66116 -1 1691
 Width: 550
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "cedilla" 290 18 basechar 0
 AnchorPoint: "below_accent" 271 -100 basechar 0
 AnchorPoint: "top_accent" 270 615 basechar 0
@@ -38,5 +38,6 @@ SplineSet
  142 19 155 23 166 25 c 0
  201 32 232 43 232 79 c 2
 EndSplineSet
+Validated: 1
 Comment: "." 
 EndChar

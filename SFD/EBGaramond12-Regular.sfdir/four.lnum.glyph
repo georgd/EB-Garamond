@@ -1,8 +1,8 @@
 StartChar: four.lnum
-Encoding: 1114143 -1 1058
+Encoding: 65567 -1 1058
 Width: 480
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -45,6 +45,6 @@ SplineSet
  92 240 l 2
 EndSplineSet
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" four.tablining
-Substitution2: "'onum' Minuskelziffern lookup 31 subtable" four
+Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" four.tablining
+Substitution2: "'onum' Minuskelziffern lookup 33 subtable" four
 EndChar

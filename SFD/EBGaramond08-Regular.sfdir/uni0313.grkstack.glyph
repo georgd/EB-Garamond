@@ -1,7 +1,7 @@
 StartChar: uni0313.grkstack
-Encoding: 1114967 -1 1676
+Encoding: 1114963 -1 1672
 Width: 1000
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15,5 +15,6 @@ SplineSet
  53 488 73 503 73 526 c 0
  73 546 56 559 36 560 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" uni0313.grkstacksc
 EndChar

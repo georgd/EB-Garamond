@@ -1,7 +1,7 @@
 StartChar: Xi
-Encoding: 926 926 880
+Encoding: 926 926 878
 Width: 640
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -61,5 +61,6 @@ SplineSet
  525 576 508 589 479 589 c 2
  181 589 l 2
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Xi.sc
 EndChar

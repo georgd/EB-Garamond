@@ -2,13 +2,11 @@ StartChar: longs_longs
 Encoding: 1114120 -1 222
 Width: 552
 VWidth: 982
-Flags: HW
-HStem: -2 46<16.002 85.6687 186.499 241.552 289.763 345.182 444.331 513.065> 559 21G<646 670.5> 593 56<228.413 335.944> 634 56<501.866 601.851>
-VStem: 97 83<53.0419 362 424.715 519.758> 350 83<53.0419 362 424.715 575.15>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-350 449 m 0xdc
+350 449 m 0
  350 485 356 506 358 511 c 0
  362 524 361 526 357 535 c 0
  339 578 319 593 279 593 c 0
@@ -27,7 +25,7 @@ SplineSet
  39 362 22 365 22 375 c 0
  22 389 55 418 83 428 c 0
  94 432 97 438 97 449 c 0
- 97 524 195 649 313 649 c 0xec
+ 97 524 195 649 313 649 c 0
  332 649 354 644 384 630 c 0
  396 624 412 612 417 612 c 0
  422 612 435 622 448 633 c 0
@@ -50,9 +48,10 @@ SplineSet
  303 362 l 2
  293 362 276 365 276 375 c 0
  276 389 309 418 337 428 c 0
- 348 432 350 438 350 449 c 0xdc
+ 348 432 350 438 350 449 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 64 subtable" longs_longs.short
+Validated: 1
+Substitution2: "Single Substitution lookup 68 subtable" longs_longs.short
 Ligature2: "liga_standard subtable" longs longs
 LCarets2: 1 267 
 EndChar

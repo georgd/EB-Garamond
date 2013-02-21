@@ -1,9 +1,7 @@
 StartChar: uni030A.cap
 Encoding: 1114143 -1 711
 Width: 0
-Flags: HW
-HStem: 700 26<59.9364 118.931> 817 27<56.315 117.482>
-VStem: 1 46<732.006 813.285> 129 46<728.922 811.576>
+Flags: MW
 AnchorPoint: "top_accent" 92 735 mark 0
 AnchorPoint: "top_stack" 94 873 basemark 0
 LayerCount: 2
@@ -20,5 +18,6 @@ SplineSet
  129 799 112 817 85 817 c 0
  59 817 47 798 47 772 c 0
 EndSplineSet
+Validated: 1048577
 Substitution2: "c2sc subtable" uni030A.sc
 EndChar

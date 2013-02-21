@@ -1,10 +1,8 @@
 StartChar: Adieresis.DEU
-Encoding: 1114181 -1 792
+Encoding: 1114179 -1 790
 Width: 649
 VWidth: 982
-Flags: HW
-HStem: -2 47<23.8269 105.783 170.629 230.516 360.953 438.407 567.486 640.967> 205 46<237.998 384.141> 606 108<173.08 256.92 410.08 493.92>
-VStem: 161 108<618.08 701.92> 398 108<618.08 701.92>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20,4 +18,5 @@ SplineSet
  161 688 187 714 215 714 c 0
 EndSplineSet
 Refer: 33 65 N 1 0 0 1 0 0 3
+Validated: 32769
 EndChar

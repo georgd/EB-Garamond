@@ -1,7 +1,7 @@
 StartChar: Kappa
-Encoding: 922 922 876
+Encoding: 922 922 874
 Width: 681
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -54,5 +54,6 @@ SplineSet
  678 19 688 15 688 6 c 0
  688 -2 676 -5 659 -5 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Kappa.sc
 EndChar

@@ -1,11 +1,12 @@
 StartChar: Epsilontonos
-Encoding: 904 904 1914
+Encoding: 904 904 1910
 Width: 535
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 1670 -1 N 1 0 0 1 -24 -10 2
-Refer: 871 917 N 1 0 0 1 0 0 3
+Refer: 1666 -1 N 1 0 0 1 -24 -10 2
+Refer: 869 917 N 1 0 0 1 0 0 3
+Validated: 32773
 Substitution2: "c2sc subtable" Epsilontonos.sc
 MultipleSubs2: "CCMP_Precomp subtable" Epsilon acutecomb.grk
 EndChar

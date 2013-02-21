@@ -2,7 +2,7 @@ StartChar: registered
 Encoding: 174 174 1069
 Width: 665
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -20,7 +20,7 @@ SplineSet
  495 197 506 194 518 194 c 0
  522 194 534 198 534 190 c 0
  534 172 509 163 490 163 c 0
- 466 163 443.811448797 173.264507168 432 193 c 2
+ 466 163 444 173 432 193 c 2
  374 290 l 2
  363 308 345 320 320 320 c 0
  312 320 304 316 304 309 c 2
@@ -49,5 +49,6 @@ SplineSet
  178 24 43 160 43 327 c 24
  43 494 179 630 346 630 c 24
 EndSplineSet
+Validated: 1
 Substitution2: "sups subtable" registered.sups
 EndChar

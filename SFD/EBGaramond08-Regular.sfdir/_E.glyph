@@ -2,9 +2,7 @@ StartChar: E
 Encoding: 69 69 37
 Width: 569
 VWidth: 982
-Flags: HW
-HStem: -2 47<24.0383 102.943 238.001 469.333> 276 49<217.587 380.343> 545 46<217 439.496> 556 35<24.0204 94.0943>
-VStem: 122 95<66.8442 275.966 325.021 535.239> 514 41<97.7344 155.746>
+Flags: MW
 AnchorPoint: "top_accent" 306 670 basechar 0
 AnchorPoint: "below_accent" 308 -80 basechar 0
 AnchorPoint: "ogonek" 472 15 basechar 0
@@ -12,7 +10,7 @@ AnchorPoint: "cedilla" 323 15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-217 356 m 2xec
+217 356 m 2
  217 332 226 325 240 325 c 2
  326 325 l 2
  358 325 369 336 387 353 c 0
@@ -41,7 +39,7 @@ SplineSet
  122 482 l 2
  122 539 97 540 40 556 c 0
  31 559 24 564 24 573 c 0
- 24 585 38 591 59 591 c 2xdc
+ 24 585 38 591 59 591 c 2
  346 591 l 2
  388 591 447 596 465 596 c 0
  481 596 489 591 491 582 c 0
@@ -51,8 +49,9 @@ SplineSet
  440 529 415 545 367 545 c 2
  248 545 l 2
  221 545 217 537 217 524 c 2
- 217 356 l 2xec
+ 217 356 l 2
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" E.sc
 Substitution2: "sups subtable" E.sups
 Substitution2: "sinf subtable" E.sinf

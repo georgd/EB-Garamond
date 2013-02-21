@@ -1,8 +1,8 @@
 StartChar: c_t
-Encoding: 1114152 -1 1067
+Encoding: 65576 -1 1067
 Width: 681
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Back
 Image: 272 332 2 816 0 ffffffff -567 837.987 4.63235 4.74695 0
@@ -4566,6 +4566,6 @@ SplineSet
  276 410 308 398 308 365 c 0
 EndSplineSet
 Validated: 1
-Ligature2: "'hlig' Historic Ligatures lookup 56 subtable" c t
+Ligature2: "'hlig' Historic Ligatures lookup 60 subtable" c t
 LCarets2: 1 377 
 EndChar

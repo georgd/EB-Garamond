@@ -5,20 +5,6 @@ VWidth: 0
 Flags: HMW
 AnchorPoint: "top_accent" 66 550 mark 0
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 181 626 m 0
@@ -31,7 +17,8 @@ SplineSet
  71 663 96 686 127 686 c 0
  161 686 181 662 181 626 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" uni0313.sc
-Substitution2: "Single Substitution lookup 17 subtable" uni0313.grkstack
-Substitution2: "Single Substitution lookup 16 subtable" uni0313.grk
+Substitution2: "Single Substitution lookup 19 subtable" uni0313.grkstack
+Substitution2: "Single Substitution lookup 18 subtable" uni0313.grk
 EndChar

@@ -2,7 +2,7 @@ StartChar: uni030C
 Encoding: 780 780 92
 Width: 0
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_accent" 139 533 mark 0
 LayerCount: 3
 Fore
@@ -22,6 +22,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "Smallcaps subtable" uni030C.sc
-Substitution2: "Single Substitution lookup 9 subtable" uni030C.alt
-Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni030C.cap
+Substitution2: "Single Substitution lookup 11 subtable" uni030C.alt
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni030C.cap
 EndChar

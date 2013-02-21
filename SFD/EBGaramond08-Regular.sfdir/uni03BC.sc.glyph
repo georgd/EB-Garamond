@@ -1,7 +1,7 @@
 StartChar: uni03BC.sc
-Encoding: 1114221 -1 902
+Encoding: 1114219 -1 900
 Width: 707
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -48,4 +48,5 @@ SplineSet
  660 431 648 424 636 422 c 0
  594 415 578 414 578 388 c 0
 EndSplineSet
+Validated: 1
 EndChar

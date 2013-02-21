@@ -2,9 +2,7 @@ StartChar: O
 Encoding: 79 79 47
 Width: 670
 VWidth: 982
-Flags: HW
-HStem: -12 46<283.311 440.915> 552 46<258.314 414.707>
-VStem: 34 112<206.288 409.475> 535 112<193.054 402.242>
+Flags: MW
 AnchorPoint: "top_accent" 346 670 basechar 0
 AnchorPoint: "below_accent" 354 -80 basechar 0
 AnchorPoint: "ogonek" 433 15 basechar 0
@@ -23,6 +21,7 @@ SplineSet
  535 410 466 552 336 552 c 0
  226 552 146 440 146 330 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" O.sc
 Substitution2: "sups subtable" O.sups
 Substitution2: "sinf subtable" O.sinf

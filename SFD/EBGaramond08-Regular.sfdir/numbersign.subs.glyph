@@ -1,7 +1,7 @@
 StartChar: numbersign.subs
-Encoding: 1114330 -1 1013
+Encoding: 1114328 -1 1011
 Width: 304
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -48,4 +48,5 @@ SplineSet
  123 242 l 1
  101 155 l 1
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,7 +1,7 @@
 StartChar: acutecomb.grkstack
-Encoding: 1114965 -1 1674
+Encoding: 1114961 -1 1670
 Width: 1000
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13,5 +13,6 @@ SplineSet
  99 663 118 638 118 622 c 0
  118 612 68 514 47 478 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" acutecomb.grkstacksc
 EndChar

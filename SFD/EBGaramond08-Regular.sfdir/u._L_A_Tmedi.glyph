@@ -1,18 +1,18 @@
 StartChar: u.LATmedi
-Encoding: 1114188 -1 821
+Encoding: 1114186 -1 819
 Width: 474
 VWidth: 982
-Flags: HW
+Flags: MW
 AnchorPoint: "top_accent" 217 596 basechar 0
 AnchorPoint: "ogonek" 377 5 basechar 0
 AnchorPoint: "below_accent" 227 -80 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-311 324 m 6x5c
+311 324 m 6
  311 341 292 366 264 370 c 4
  252 372 241 378 241 389 c 4
- 241 400 256 412 270 414 c 4x6c
+ 241 400 256 412 270 414 c 4
  306 419 372 430 382 430 c 4
  394 430 394 422 394 403 c 6
  394 84 l 6
@@ -20,7 +20,7 @@ SplineSet
  423 56 444 62 452 62 c 4
  457 62 465 53 465 46 c 4
  465 33 455 25 447 21 c 4
- 429 12 347 -12 332 -12 c 4x9c
+ 429 12 347 -12 332 -12 c 4
  324 -12 319 -3 318 2 c 4
  315 12 315 26 312 40 c 4
  310 51 302 49 292 41 c 4
@@ -35,6 +35,7 @@ SplineSet
  141 151 l 6
  141 103 166 58 211 58 c 20
  266 58 311 91 311 135 c 6
- 311 324 l 6x5c
+ 311 324 l 6
 EndSplineSet
+Validated: 1048577
 EndChar

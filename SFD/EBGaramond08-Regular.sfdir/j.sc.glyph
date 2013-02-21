@@ -1,10 +1,8 @@
 StartChar: j.sc
-Encoding: 1114724 -1 1431
+Encoding: 1114722 -1 1429
 Width: 323
 VWidth: 982
-Flags: W
-HStem: -199 52<15.13 91.702> 414 39<34.1293 103.475 215.572 284.93>
-VStem: 116 86<-71.6176 399.85>
+Flags: MW
 AnchorPoint: "top_accent" 160 630 basechar 0
 LayerCount: 2
 Fore
@@ -26,4 +24,5 @@ SplineSet
  6 -87 10.1475 -147 47 -147 c 16
  115.67 -147 116 -54 116 13 c 2
 EndSplineSet
+Validated: 1
 EndChar

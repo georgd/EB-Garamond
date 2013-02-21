@@ -1,8 +1,8 @@
 StartChar: ordfeminine
-Encoding: 170 170 2168
+Encoding: 170 170 2164
 Width: 1000
 VWidth: 0
-Flags: H
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -43,4 +43,5 @@ SplineSet
  262 334 268 327 268 318 c 0
  268 314 243 284 219 284 c 0
 EndSplineSet
+Validated: 1
 EndChar

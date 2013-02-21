@@ -1,5 +1,5 @@
 StartChar: g_j
-Encoding: 1115010 -1 2165
+Encoding: 66430 -1 2161
 Width: 648
 Flags: MW
 AnchorPoint: "top_accent" 280 550 basechar 0
@@ -57,6 +57,7 @@ SplineSet
  316 -193 306 -215 292 -231 c 0
  287 -237 279 -242 294 -242 c 0
 EndSplineSet
+Validated: 33
 Ligature2: "liga_standard subtable" g j
 LCarets2: 1 366 
 EndChar

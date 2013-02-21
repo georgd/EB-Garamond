@@ -2,9 +2,7 @@ StartChar: uni0328
 Encoding: 808 808 457
 Width: 0
 VWidth: 982
-Flags: HW
-HStem: -270 78<55.4375 149.277>
-VStem: 5 62<-184.504 -82.5589>
+Flags: MW
 AnchorPoint: "ogonek" 126 5 mark 0
 LayerCount: 2
 Fore
@@ -20,5 +18,6 @@ SplineSet
  156 8 l 1
  94 -40 67 -68 67 -127 c 0
 EndSplineSet
-Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0328.cap
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni0328.cap
 EndChar

@@ -1,9 +1,8 @@
 StartChar: endash.cap
-Encoding: 1115053 -1 2118
+Encoding: 1115049 -1 2114
 Width: 500
 VWidth: 982
-Flags: HW
-HStem: 417 68<51.7004 450.395>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15,4 +14,5 @@ SplineSet
  40 451 59 485 89 485 c 2
  424 485 l 2
 EndSplineSet
+Validated: 1
 EndChar

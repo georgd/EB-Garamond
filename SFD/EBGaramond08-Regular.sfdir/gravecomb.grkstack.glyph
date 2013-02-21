@@ -1,7 +1,7 @@
 StartChar: gravecomb.grkstack
-Encoding: 1114964 -1 1673
+Encoding: 1114960 -1 1669
 Width: 1000
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13,5 +13,6 @@ SplineSet
  118 460 118 456 109 456 c 0
  101 456 91 468 85 478 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" gravecomb.grkstacksc
 EndChar

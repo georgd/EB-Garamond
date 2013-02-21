@@ -1,9 +1,7 @@
 StartChar: uni0325.cap
 Encoding: 1114150 -1 718
 Width: 0
-Flags: HW
-HStem: -206 26<59.9364 118.931> -89 27<56.315 117.482>
-VStem: 1 46<-173.994 -92.7148> 129 46<-177.078 -94.4242>
+Flags: MW
 AnchorPoint: "below_accent" 88 -80 mark 0
 LayerCount: 2
 Fore
@@ -19,5 +17,6 @@ SplineSet
  129 -107 112 -89 85 -89 c 0
  59 -89 47 -108 47 -134 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" uni0325
 EndChar

@@ -1,5 +1,5 @@
 StartChar: u_s
-Encoding: 1115005 -1 2160
+Encoding: 66425 -1 2156
 Width: 730
 Flags: HMW
 AnchorPoint: "ogonek" 433 18 basechar 0
@@ -52,7 +52,8 @@ SplineSet
  629 368 615 348 615 319 c 0
  615 309.604720803 620.192427717 290.740896945 627.538814142 271.186327804 c 1
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 62 subtable" u s
-Ligature2: "Ligature Substitution lookup 56 subtable" u s
+Validated: 524321
+Ligature2: "Ligature Substitution lookup 65 subtable" u s
+Ligature2: "Ligature Substitution lookup 59 subtable" u s
 LCarets2: 1 441 
 EndChar

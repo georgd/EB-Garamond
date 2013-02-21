@@ -1,7 +1,7 @@
 StartChar: omega.sc
-Encoding: 1114233 -1 914
+Encoding: 1114231 -1 912
 Width: 660
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -37,4 +37,5 @@ SplineSet
  211 61 l 2
  216 61 218 69 212 73 c 0
 EndSplineSet
+Validated: 1
 EndChar

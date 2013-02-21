@@ -2,8 +2,7 @@ StartChar: v
 Encoding: 118 118 86
 Width: 419
 VWidth: 982
-Flags: HW
-HStem: 380 43<3.20581 56.1256 147.768 187.86 278.15 322.992 372.751 429.783>
+Flags: MW
 AnchorPoint: "below_accent" 211 -80 basechar 0
 AnchorPoint: "top_accent" 231 596 basechar 0
 LayerCount: 2
@@ -36,8 +35,9 @@ SplineSet
  321 341 323 355 323 362 c 0
  323 372 312 379 306 380 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" v.sc
-Substitution2: "Single Substitution lookup 37 subtable" v.LATmedi
+Substitution2: "Single Substitution lookup 39 subtable" v.LATmedi
 Substitution2: "sups subtable" v.sups
 Substitution2: "sinf subtable" v.sinf
 Substitution2: "ordn subtable" v.ordn

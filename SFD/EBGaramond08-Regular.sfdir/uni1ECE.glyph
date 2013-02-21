@@ -2,10 +2,11 @@ StartChar: uni1ECE
 Encoding: 7886 7886 659
 Width: 670
 VWidth: 0
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 2113 -1 N 1 0 0 1 247 -30 2
+Refer: 2109 -1 N 1 0 0 1 247 -30 2
 Refer: 47 79 N 1 0 0 1 0 0 3
+Validated: 32769
 MultipleSubs2: "CCMP_Precomp subtable" O hookabovecomb.cap
 EndChar

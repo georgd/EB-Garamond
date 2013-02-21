@@ -1,8 +1,8 @@
 StartChar: uni032D
-Encoding: 813 813 2126
+Encoding: 813 813 2122
 Width: 0
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "below_accent" 138 -100 mark 0
 LayerCount: 3
 Fore
@@ -21,5 +21,5 @@ SplineSet
  139 -149 138 -149 135 -153 c 0
 EndSplineSet
 Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni032D.cap
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni032D.cap
 EndChar

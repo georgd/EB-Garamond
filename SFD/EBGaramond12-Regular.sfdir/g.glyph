@@ -2,7 +2,7 @@ StartChar: g
 Encoding: 103 103 25
 Width: 435
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_accent" 206 550 basechar 0
 LayerCount: 3
 Back
@@ -1308,6 +1308,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "Smallcaps subtable" g.sc
+AlternateSubs2: "alternate_g subtable" g.01
 Substitution2: "sups subtable" g.sups
 Substitution2: "sinf subtable" g.sinf
 Substitution2: "ordn subtable" g.ordn

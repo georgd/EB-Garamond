@@ -2,11 +2,12 @@ StartChar: ncaron
 Encoding: 328 328 329
 Width: 543
 VWidth: 0
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 276 780 N 1 0 0 1 142 0 2
 Refer: 78 110 N 1 0 0 1 0 0 3
+Validated: 32769
 Substitution2: "Smallcaps subtable" ncaron.sc
 MultipleSubs2: "CCMP_Precomp subtable" n uni030C
 EndChar

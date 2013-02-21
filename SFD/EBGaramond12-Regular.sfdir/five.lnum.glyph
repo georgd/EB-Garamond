@@ -1,8 +1,8 @@
 StartChar: five.lnum
-Encoding: 1114144 -1 1059
+Encoding: 65568 -1 1059
 Width: 460
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -27,6 +27,6 @@ SplineSet
  196 -7 310 68 310 187 c 0
 EndSplineSet
 Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" five.tablining
-Substitution2: "'onum' Minuskelziffern lookup 31 subtable" five
+Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" five.tablining
+Substitution2: "'onum' Minuskelziffern lookup 33 subtable" five
 EndChar

@@ -1,7 +1,7 @@
 StartChar: hyphen.subs
-Encoding: 1114340 -1 1023
+Encoding: 1114338 -1 1021
 Width: 178
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13,4 +13,5 @@ SplineSet
  159 145 156 118 146 117 c 0
  107 112 26 102 22 102 c 0
 EndSplineSet
+Validated: 1
 EndChar

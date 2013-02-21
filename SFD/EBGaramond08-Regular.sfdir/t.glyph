@@ -2,9 +2,7 @@ StartChar: t
 Encoding: 116 116 84
 Width: 325
 VWidth: 982
-Flags: W
-HStem: -8 68<174.072 257.049> 358 59<161.026 296.625>
-VStem: 78 83<70.1548 354.699>
+Flags: MW
 AnchorPoint: "below_accent" 174 -80 basechar 0
 AnchorPoint: "top_right" 260 580 basechar 0
 AnchorPoint: "cedilla" 209 5 basechar 0
@@ -33,6 +31,7 @@ SplineSet
  295 78 300 74 300 64 c 0
  300 41 246 -8 186 -8 c 0
 EndSplineSet
+Validated: 1048609
 Substitution2: "Smallcaps subtable" t.sc
 Substitution2: "sups subtable" t.sups
 Substitution2: "sinf subtable" t.sinf

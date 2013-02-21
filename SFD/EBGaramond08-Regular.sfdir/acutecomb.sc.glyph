@@ -1,9 +1,7 @@
 StartChar: acutecomb.sc
-Encoding: 1114971 -1 1680
+Encoding: 1114967 -1 1676
 Width: 0
-Flags: HW
-HStem: 490 193
-VStem: 14 157
+Flags: MW
 AnchorPoint: "top_accent" 54 596 mark 0
 LayerCount: 2
 Fore
@@ -16,4 +14,5 @@ SplineSet
  142 683 171 676 171 660 c 0
  171 646 84 545 53 512 c 0
 EndSplineSet
+Validated: 1
 EndChar

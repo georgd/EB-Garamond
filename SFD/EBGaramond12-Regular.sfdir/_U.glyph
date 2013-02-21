@@ -2,7 +2,7 @@ StartChar: U
 Encoding: 85 85 48
 Width: 738
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "cedilla" 412 8 basechar 0
 AnchorPoint: "ogonek" 490 18 basechar 0
 AnchorPoint: "below_accent" 370 -100 basechar 0
@@ -62,7 +62,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "c2sc subtable" U.sc
-Substitution2: "Single Substitution lookup 38 subtable" U.LAT
+Substitution2: "Single Substitution lookup 40 subtable" U.LAT
 Substitution2: "sups subtable" U.sups
 Substitution2: "sinf subtable" U.sinf
 Substitution2: "ordn subtable" U.ordn

@@ -1,11 +1,11 @@
 StartChar: uni0308.grkstack
-Encoding: 1115010 -1 2742
+Encoding: 66432 -1 2738
 Width: 0
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "top_stack" 148 551 basemark 0
 AnchorPoint: "top_accent" 148 531 mark 0
 AnchorPoint: "grk_top" 147 520 mark 0
-AnchorPoint: "top_stack" 148 551 basemark 0
 LayerCount: 3
 Fore
 SplineSet

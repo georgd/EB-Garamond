@@ -2,9 +2,7 @@ StartChar: G
 Encoding: 71 71 39
 Width: 710
 VWidth: 982
-Flags: HW
-HStem: -24 44<305.221 507.214> 220 45<428.767 513.142> 428 21G<604 612.5> 563 45<297.169 495.374>
-VStem: 46 112<187.047 382.614> 528 93<40.8568 202.998>
+Flags: MW
 AnchorPoint: "top_accent" 415 670 basechar 0
 AnchorPoint: "below_accent" 384 -80 basechar 0
 AnchorPoint: "ogonek" 394 15 basechar 0
@@ -37,6 +35,7 @@ SplineSet
  197 -24 46 109 46 268 c 0
  46 468 217 608 419 608 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" G.sc
 Substitution2: "sups subtable" G.sups
 Substitution2: "sinf subtable" G.sinf

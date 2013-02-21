@@ -1,7 +1,7 @@
 StartChar: beta.sc
-Encoding: 1114211 -1 892
+Encoding: 1114209 -1 890
 Width: 509
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -35,4 +35,5 @@ SplineSet
  318 27 369 72 369 129 c 0
  369 209 315 226 233 226 c 0
 EndSplineSet
+Validated: 1
 EndChar

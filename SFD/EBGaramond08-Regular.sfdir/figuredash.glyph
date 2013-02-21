@@ -1,8 +1,8 @@
 StartChar: figuredash
-Encoding: 8210 8210 817
+Encoding: 8210 8210 815
 Width: 500
 VWidth: 982
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14,5 +14,6 @@ SplineSet
  40 201 59 235 89 235 c 2
  424 235 l 2
 EndSplineSet
-Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" figuredash.cap
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" figuredash.cap
 EndChar

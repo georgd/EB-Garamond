@@ -1,10 +1,8 @@
 StartChar: one.taboldstyle01
-Encoding: 1115031 -1 2006
+Encoding: 1115027 -1 2002
 Width: 283
 VWidth: 982
-Flags: HW
-HStem: -2 46<23.002 92.6687 198.331 267.065> 403 20G<173 183>
-VStem: 104 83<53.0419 328.32>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25,4 +23,5 @@ SplineSet
  93 52 104 83 104 108 c 2
  104 282 l 2
 EndSplineSet
+Validated: 1
 EndChar

@@ -2,9 +2,7 @@ StartChar: oslash
 Encoding: 248 248 167
 Width: 487
 VWidth: 982
-Flags: HW
-HStem: -8 47<200.313 315.537> 388 42<174.865 289.146>
-VStem: 22 100<145.113 313.192> 365 99<118.648 283.581>
+Flags: MW
 AnchorPoint: "top_accent" 242 596 basechar 0
 LayerCount: 2
 Fore
@@ -37,5 +35,6 @@ SplineSet
  365 219 359 254 347 285 c 1
  161 104 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" oslash.sc
 EndChar

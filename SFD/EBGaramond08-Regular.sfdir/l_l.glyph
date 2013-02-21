@@ -2,9 +2,7 @@ StartChar: l_l
 Encoding: 1114123 -1 225
 Width: 484
 VWidth: 982
-Flags: HW
-HStem: -2 46<16.002 85.6687 185.631 229.418 257.891 303.469 399.331 468.065> 661 20G<163 174 371 382>
-VStem: 97 83<53.0816 603.762> 305 83<53.0419 603.762>
+Flags: MW
 AnchorPoint: "below_accent" 141 -80 basechar 0
 AnchorPoint: "top_accent" 140 785 basechar 0
 LayerCount: 2
@@ -43,4 +41,5 @@ SplineSet
  86 52 97 83 97 108 c 2
  97 567 l 2
 EndSplineSet
+Validated: 1
 EndChar

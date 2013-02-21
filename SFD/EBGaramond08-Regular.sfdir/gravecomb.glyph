@@ -1,9 +1,7 @@
 StartChar: gravecomb
 Encoding: 768 768 265
 Width: 0
-Flags: HW
-HStem: 490 193
-VStem: 8 157
+Flags: MW
 AnchorPoint: "top_accent" 124 596 mark 0
 LayerCount: 2
 Fore
@@ -16,9 +14,10 @@ SplineSet
  165 494 165 490 156 490 c 0
  148 490 134 503 126 512 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" gravecomb.sc
-Substitution2: "Single Substitution lookup 20 subtable" gravecomb.grkstack
-Substitution2: "Single Substitution lookup 18 subtable" gravecomb.grk
-Substitution2: "Single Substitution lookup 13 subtable" gravecomb.stack
-Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" gravecomb.cap
+Substitution2: "Single Substitution lookup 22 subtable" gravecomb.grkstack
+Substitution2: "Single Substitution lookup 20 subtable" gravecomb.grk
+Substitution2: "Single Substitution lookup 15 subtable" gravecomb.stack
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" gravecomb.cap
 EndChar

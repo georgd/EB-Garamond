@@ -1,7 +1,7 @@
 StartChar: tau.sc
-Encoding: 1114228 -1 909
+Encoding: 1114226 -1 907
 Width: 550
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -34,4 +34,5 @@ SplineSet
  142 19 155 23 166 25 c 0
  201 32 232 43 232 79 c 2
 EndSplineSet
+Validated: 1
 EndChar

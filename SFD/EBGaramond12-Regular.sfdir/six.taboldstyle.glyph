@@ -1,8 +1,8 @@
 StartChar: six.taboldstyle
-Encoding: 1114168 -1 1102
+Encoding: 65592 -1 1102
 Width: 475
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Back
 SplineSet
@@ -31,6 +31,6 @@ EndSplineSet
 Fore
 Refer: 81 54 N 1 0 0 1 0 0 2
 Validated: 1
-Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" six
-Substitution2: "'lnum' Lining Figures lookup 30 subtable" six.tablining
+Substitution2: "'pnum' Proportionalziffern lookup 35 subtable" six
+Substitution2: "'lnum' Lining Figures lookup 32 subtable" six.tablining
 EndChar

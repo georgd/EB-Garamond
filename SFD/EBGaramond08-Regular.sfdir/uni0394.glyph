@@ -1,7 +1,7 @@
 StartChar: uni0394
-Encoding: 916 916 870
+Encoding: 916 916 868
 Width: 676
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -29,5 +29,6 @@ SplineSet
  497 55 502 59 502 67 c 0
  502 77 495 94 486 120 c 2
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" uni0394.sc
 EndChar

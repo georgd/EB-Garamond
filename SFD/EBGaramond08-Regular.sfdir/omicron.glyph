@@ -1,7 +1,7 @@
 StartChar: omicron
-Encoding: 959 959 857
+Encoding: 959 959 855
 Width: 400
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16,5 +16,6 @@ SplineSet
  75 111 106 64 155 64 c 0
  249 64 325 141 325 235 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" omicron.sc
 EndChar

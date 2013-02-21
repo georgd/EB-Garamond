@@ -1,12 +1,13 @@
 StartChar: uni1ED4
-Encoding: 7892 7892 2008
+Encoding: 7892 7892 2004
 Width: 712
 VWidth: 0
 Flags: HM
 LayerCount: 2
 Fore
-Refer: 2383 -1 N 1 0 0 1 583 32 2
-Refer: 2079 -1 N 1 0 0 1 340 0 2
+Refer: 2379 -1 N 1 0 0 1 583 32 2
+Refer: 2075 -1 N 1 0 0 1 340 0 2
 Refer: 46 79 N 1 0 0 1 0 0 3
+Validated: 1
 MultipleSubs2: "CCMP_Precomp subtable" O uni0302.cap hookabovecomb.cap
 EndChar

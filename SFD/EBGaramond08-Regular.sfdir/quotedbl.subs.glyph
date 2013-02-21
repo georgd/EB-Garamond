@@ -1,7 +1,7 @@
 StartChar: quotedbl.subs
-Encoding: 1114329 -1 1012
+Encoding: 1114327 -1 1010
 Width: 200
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20,4 +20,5 @@ SplineSet
  64 274 54 266 51 266 c 0
  48 266 40 275 40 280 c 2
 EndSplineSet
+Validated: 1
 EndChar

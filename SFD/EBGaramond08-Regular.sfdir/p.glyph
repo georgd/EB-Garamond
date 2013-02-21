@@ -2,14 +2,12 @@ StartChar: p
 Encoding: 112 112 80
 Width: 445
 VWidth: 982
-Flags: HW
-HStem: -273 46<161.75 258.065> -260 46<4.00195 61.6411> -6 51<165.062 279.5> 378 52<190.056 285.598>
-VStem: 65 83<-210.6 5.99634 63.158 341.382> 333 92<146.928 322.944>
+Flags: MW
 AnchorPoint: "top_accent" 255 596 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-65 -161 m 2x7c
+65 -161 m 2
  65 302 l 2
  65 319 48 344 24 353 c 0
  13 357 3 363 3 374 c 0
@@ -26,11 +24,11 @@ SplineSet
  148 -169 l 2
  148 -204 162 -212 216 -227 c 0
  243 -235 259 -243 259 -253 c 0
- 259 -263 251 -273 225 -273 c 0xbc
+ 259 -263 251 -273 225 -273 c 0
  191 -273 131 -260 38 -260 c 0
  12 -260 3 -250 3 -240 c 0
  3 -230 20 -222 47 -214 c 0
- 60 -210 65 -186 65 -161 c 2x7c
+ 60 -210 65 -186 65 -161 c 2
 148 294 m 2
  148 107 l 2
  148 70 183 45 220 45 c 0
@@ -38,6 +36,7 @@ SplineSet
  333 294 310 378 223 378 c 0
  178 378 148 338 148 294 c 2
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" p.sc
 Substitution2: "sups subtable" p.sups
 Substitution2: "sinf subtable" p.sinf

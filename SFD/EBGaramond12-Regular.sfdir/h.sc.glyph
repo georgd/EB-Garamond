@@ -1,8 +1,9 @@
 StartChar: h.sc
-Encoding: 1114680 -1 1679
+Encoding: 66104 -1 1679
 Width: 640
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "cedilla" 168 8 basechar 0
 AnchorPoint: "below_accent" 321 -100 basechar 0
 AnchorPoint: "top_accent" 330 615 basechar 0
 LayerCount: 3
@@ -1266,5 +1267,6 @@ SplineSet
  444 253 445 255 445 261 c 2
  445 352 l 2
 EndSplineSet
+Validated: 1
 Comment: "." 
 EndChar

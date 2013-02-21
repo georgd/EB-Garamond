@@ -1,15 +1,8 @@
 StartChar: daggerdbl
-Encoding: 8225 8225 1010
+Encoding: 8225 8225 1008
 Width: 440
-Flags: HW
+Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 271 163 m 0
@@ -56,6 +49,7 @@ SplineSet
  244 232 l 0
  244 204.194335951 271 174.496915563 271 163 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "sups subtable" daggerdbl.sups
 Substitution2: "sinf subtable" daggerdbl.sinf
 Substitution2: "ordn subtable" daggerdbl.ordn

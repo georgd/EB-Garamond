@@ -2,9 +2,7 @@ StartChar: section
 Encoding: 167 167 98
 Width: 333
 VWidth: 982
-Flags: HW
-HStem: -148 46<70.2431 162.058> 520 50<178.008 280>
-VStem: 22 57<249.004 368.629> 263 48<41.7988 217.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -28,6 +26,7 @@ SplineSet
  263 154 98 370 93 370 c 0
  80 370 79 329 79 317 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "sups subtable" section.sups
 Substitution2: "sinf subtable" section.sinf
 Substitution2: "ordn subtable" section.ordn

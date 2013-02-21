@@ -1,9 +1,7 @@
 StartChar: o.sc
-Encoding: 1114729 -1 1436
+Encoding: 1114727 -1 1434
 Width: 560
-Flags: W
-HStem: -10 44<222.65 349.77> 424 46<205.948 336.258>
-VStem: 39 102<135.961 318.177> 422 103<152.676 326.601>
+Flags: MW
 AnchorPoint: "cedilla" 311 15 basechar 0
 AnchorPoint: "ogonek" 333 15 basechar 0
 AnchorPoint: "below_accent" 285 -80 basechar 0
@@ -22,4 +20,5 @@ SplineSet
  422 326 361 424 266 424 c 4
  185 424 141 335 141 254 c 0
 EndSplineSet
+Validated: 1
 EndChar

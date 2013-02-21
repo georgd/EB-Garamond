@@ -1,7 +1,7 @@
 StartChar: uni0306.stacksc
-Encoding: 1114993 -1 1702
+Encoding: 1114989 -1 1698
 Width: 1000
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15,4 +15,5 @@ SplineSet
  50 572 53 583 63 583 c 0
  73 583 83 571 86 562 c 0
 EndSplineSet
+Validated: 1
 EndChar

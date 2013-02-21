@@ -1,9 +1,7 @@
 StartChar: acutecomb.stack
 Encoding: 1114167 -1 735
 Width: 0
-Flags: HW
-HStem: 456 167
-VStem: 16 109
+Flags: MW
 AnchorPoint: "acutestack" 32 456 mark 0
 LayerCount: 2
 Fore
@@ -16,5 +14,6 @@ SplineSet
  86 623 125 608 125 593 c 0
  125 581 50 478 43 471 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" acutecomb.stacksc
 EndChar

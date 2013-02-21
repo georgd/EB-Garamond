@@ -1,7 +1,7 @@
 StartChar: phi
-Encoding: 966 966 863
+Encoding: 966 966 861
 Width: 510
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -31,5 +31,6 @@ SplineSet
  240 277 l 2
  240 306 239 334 239 359 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" phi.sc
 EndChar

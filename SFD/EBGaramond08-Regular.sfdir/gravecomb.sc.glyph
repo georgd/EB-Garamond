@@ -1,9 +1,7 @@
 StartChar: gravecomb.sc
-Encoding: 1114970 -1 1679
+Encoding: 1114966 -1 1675
 Width: 0
-Flags: HW
-HStem: 490 193
-VStem: 8 157
+Flags: MW
 AnchorPoint: "top_accent" 124 596 mark 0
 LayerCount: 2
 Fore
@@ -16,4 +14,5 @@ SplineSet
  165 494 165 490 156 490 c 0
  148 490 134 503 126 512 c 0
 EndSplineSet
+Validated: 1
 EndChar

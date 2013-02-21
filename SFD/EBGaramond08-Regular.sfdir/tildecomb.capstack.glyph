@@ -1,9 +1,7 @@
 StartChar: tildecomb.capstack
 Encoding: 1114160 -1 728
 Width: 0
-Flags: HW
-HStem: 720 71<42.961 242.895>
-VStem: 5 282
+Flags: MW
 AnchorPoint: "top_accent" 142 705 mark 0
 AnchorPoint: "acutestack" 93 818 basemark 0
 AnchorPoint: "gravestack" 201 818 basemark 0
@@ -20,4 +18,5 @@ SplineSet
  280 836 287 829 287 819 c 0
  287 789 239 720 202 720 c 0
 EndSplineSet
+Validated: 1048577
 EndChar

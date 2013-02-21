@@ -1,15 +1,16 @@
 StartChar: f.DEU
-Encoding: 1114200 -1 1199
+Encoding: 65624 -1 1199
 Width: 318
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "below_accent" 134 -100 basechar 0
 AnchorPoint: "top_accent" 281 768 basechar 0
 LayerCount: 3
 Fore
 Refer: 18 102 N 1 0 0 1 0 0 2
 Validated: 1
-Substitution2: "Single Substitution lookup 65 subtable" f.short
+Substitution2: "Single Substitution lookup 70 subtable" f.short
+Substitution2: "Single Substitution lookup 69 subtable" f.short
 Substitution2: "Smallcaps subtable" f.sc
 Substitution2: "sups subtable" f.sups
 Substitution2: "sinf subtable" f.sinf

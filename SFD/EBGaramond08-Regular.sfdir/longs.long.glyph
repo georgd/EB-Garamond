@@ -1,8 +1,8 @@
 StartChar: longs.long
-Encoding: 1114191 -1 824
+Encoding: 1114189 -1 822
 Width: 286
 VWidth: 982
-Flags: HW
+Flags: MW
 AnchorPoint: "below_accent" 141 -80 basechar 0
 AnchorPoint: "top_accent" 265 785 basechar 0
 LayerCount: 2
@@ -30,4 +30,5 @@ SplineSet
  98 362 l 1
  50 362 l 2
 EndSplineSet
+Validated: 1
 EndChar

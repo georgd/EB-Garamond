@@ -1,7 +1,7 @@
 StartChar: rho
-Encoding: 961 961 859
+Encoding: 961 961 857
 Width: 426
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22,5 +22,6 @@ SplineSet
  112 90 143 64 171 64 c 0
  302 64 353 132 353 246 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps subtable" rho.sc
 EndChar

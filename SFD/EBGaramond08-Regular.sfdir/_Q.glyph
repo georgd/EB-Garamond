@@ -2,9 +2,7 @@ StartChar: Q
 Encoding: 81 81 49
 Width: 754
 VWidth: 982
-Flags: HW
-HStem: -320 70<951.89 1281.02> 560 45<265.997 428.765>
-VStem: 46 112<182.744 393.544> 555 112<190.094 405.055> 1449 70<-161.215 -88.1427>
+Flags: MW
 AnchorPoint: "top_accent" 371 670 basechar 0
 LayerCount: 2
 Fore
@@ -31,10 +29,11 @@ SplineSet
  555 421 479 560 343 560 c 4
  229 560 158 439 158 325 c 4
 EndSplineSet
-Substitution2: "Single Substitution lookup 61 subtable" Q.low
-Substitution2: "Single Substitution lookup 60 subtable" Q.short
-Substitution2: "Single Substitution lookup 59 subtable" Q.long
-Substitution2: "Single Substitution lookup 58 subtable" Q.long
+Validated: 1
+Substitution2: "Single Substitution lookup 65 subtable" Q.low
+Substitution2: "Single Substitution lookup 64 subtable" Q.short
+Substitution2: "Single Substitution lookup 63 subtable" Q.long
+Substitution2: "Single Substitution lookup 62 subtable" Q.long
 Substitution2: "c2sc subtable" Q.sc
 Substitution2: "sups subtable" Q.sups
 Substitution2: "sinf subtable" Q.sinf

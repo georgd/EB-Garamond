@@ -1,7 +1,7 @@
 StartChar: psi.sc
-Encoding: 1114232 -1 913
+Encoding: 1114230 -1 911
 Width: 600
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -43,4 +43,5 @@ SplineSet
  353 415 337 393 337 352 c 2
  337 237 l 2
 EndSplineSet
+Validated: 1
 EndChar

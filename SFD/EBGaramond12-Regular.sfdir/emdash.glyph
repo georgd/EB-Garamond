@@ -2,7 +2,7 @@ StartChar: emdash
 Encoding: 8212 8212 104
 Width: 950
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -15,6 +15,6 @@ SplineSet
  50 206 55 239 74 239 c 26
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 70 subtable" emdash.cap
-Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" emdash.cap
+Substitution2: "Single Substitution lookup 76 subtable" emdash.cap
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" emdash.cap
 EndChar

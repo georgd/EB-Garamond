@@ -2,8 +2,7 @@ StartChar: parenright
 Encoding: 41 41 11
 Width: 291
 VWidth: 982
-Flags: HW
-VStem: 197 51<89.2189 415.848>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19,6 +18,7 @@ SplineSet
  248 48 175 -87 80 -210 c 0
  61 -235 42 -249 29 -249 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "sups subtable" parenright.sups
 Substitution2: "sinf subtable" parenright.sinf
 Substitution2: "ordn subtable" parenright.ordn

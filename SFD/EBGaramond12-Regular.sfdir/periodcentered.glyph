@@ -2,7 +2,7 @@ StartChar: periodcentered
 Encoding: 183 183 112
 Width: 200
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -13,4 +13,6 @@ SplineSet
  45 235 70 260 100 260 c 24
 EndSplineSet
 Validated: 1
+Substitution2: "Single Substitution lookup 4 subtable" periodcentered.CATuc
+Substitution2: "Single Substitution lookup 3 subtable" periodcentered.CAT
 EndChar

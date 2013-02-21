@@ -1,8 +1,9 @@
 StartChar: u.sc
-Encoding: 1114693 -1 1692
+Encoding: 66117 -1 1692
 Width: 600
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "cedilla" 338 8 basechar 0
 AnchorPoint: "ogonek" 380 18 basechar 0
 AnchorPoint: "below_accent" 316 -100 basechar 0
 AnchorPoint: "top_accent" 313 615 basechar 0
@@ -35,6 +36,7 @@ SplineSet
  570 431 558 424 546 422 c 0
  504 415 496 388 496 354 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 39 subtable" u.LATsc
+Validated: 1
+Substitution2: "Single Substitution lookup 41 subtable" u.LATsc
 Comment: "." 
 EndChar

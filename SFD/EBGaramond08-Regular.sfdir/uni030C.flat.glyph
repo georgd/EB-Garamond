@@ -1,9 +1,7 @@
 StartChar: uni030C.flat
 Encoding: 1114162 -1 730
 Width: 0
-Flags: HW
-HStem: 688 111
-VStem: 5 261<785 794>
+Flags: MW
 AnchorPoint: "top_accent" 137 785 mark 0
 LayerCount: 2
 Fore
@@ -23,4 +21,5 @@ SplineSet
  126 758 l 2
  134 754 138 754 146 758 c 2
 EndSplineSet
+Validated: 1
 EndChar

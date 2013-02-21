@@ -2,8 +2,7 @@ StartChar: bar
 Encoding: 124 124 92
 Width: 157
 VWidth: 982
-Flags: HW
-VStem: 55 47<-215.115 605.902>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15,6 +14,7 @@ SplineSet
  57 -218 55 -210 55 -190 c 2
  55 574 l 2
 EndSplineSet
+Validated: 1
 Substitution2: "sups subtable" bar.sups
 Substitution2: "sinf subtable" bar.sinf
 Substitution2: "ordn subtable" bar.ordn

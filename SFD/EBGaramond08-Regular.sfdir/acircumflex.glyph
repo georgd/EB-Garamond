@@ -2,11 +2,12 @@ StartChar: acircumflex
 Encoding: 226 226 145
 Width: 409
 VWidth: 982
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 267 770 N 1 0 0 1 47 0 2
 Refer: 65 97 N 1 0 0 1 0 0 3
+Validated: 32769
 Substitution2: "Smallcaps subtable" acircumflex.sc
 MultipleSubs2: "CCMP_Precomp subtable" a uni0302
 EndChar

@@ -1,7 +1,7 @@
 StartChar: colon.subs
-Encoding: 1114343 -1 1026
+Encoding: 1114341 -1 1024
 Width: 162
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16,4 +16,5 @@ SplineSet
  59 146 42 163 42 185 c 0
  42 207 59 224 81 224 c 0
 EndSplineSet
+Validated: 1
 EndChar

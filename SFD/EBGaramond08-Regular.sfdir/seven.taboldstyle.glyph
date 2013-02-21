@@ -1,19 +1,17 @@
 StartChar: seven.taboldstyle
-Encoding: 1114315 -1 996
+Encoding: 1114313 -1 994
 Width: 424
 VWidth: 982
-Flags: HW
-HStem: 333 85<99.6065 316.998>
-VStem: 42 47<269.39 320.789> 66 79<-181.48 -135>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-326 418 m 2xc0
+326 418 m 2
  378 418 404 415 404 394 c 0
  404 376 400 370 383 336 c 2
  145 -135 l 2
  122 -181 120 -209 82 -209 c 0
- 71 -209 66 -196 66 -179 c 0xa0
+ 71 -209 66 -196 66 -179 c 0
  66 -174 75 -154 88 -129 c 2
  297 268 l 2
  301 276 317 305 317 317 c 0
@@ -24,8 +22,9 @@ SplineSet
  45 267 42 274 42 295 c 0
  42 305 52 330 60 351 c 8
  72 382 86 418 112 418 c 2
- 326 418 l 2xc0
+ 326 418 l 2
 EndSplineSet
-Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" seven
-Substitution2: "'lnum' Lining Figures lookup 30 subtable" seven.tablining
+Validated: 1
+Substitution2: "'pnum' Proportionalziffern lookup 35 subtable" seven
+Substitution2: "'lnum' Lining Figures lookup 32 subtable" seven.tablining
 EndChar

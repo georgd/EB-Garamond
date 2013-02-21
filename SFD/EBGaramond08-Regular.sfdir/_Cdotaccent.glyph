@@ -2,11 +2,12 @@ StartChar: Cdotaccent
 Encoding: 266 266 300
 Width: 677
 VWidth: 0
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 712 -1 N 1 0 0 1 336 -35 2
 Refer: 35 67 N 1 0 0 1 0 0 3
+Validated: 32769
 Substitution2: "c2sc subtable" Cdotaccent.sc
 MultipleSubs2: "CCMP_Precomp subtable" C uni0307.cap
 EndChar

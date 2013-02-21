@@ -1,7 +1,7 @@
 StartChar: lambda.sc
-Encoding: 1114220 -1 901
+Encoding: 1114218 -1 899
 Width: 549
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -32,4 +32,5 @@ SplineSet
  265 352 263 352 257 337 c 2
  147 65 l 2
 EndSplineSet
+Validated: 33
 EndChar

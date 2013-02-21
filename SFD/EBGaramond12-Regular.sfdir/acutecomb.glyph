@@ -1,8 +1,8 @@
 StartChar: acutecomb
-Encoding: 769 769 2747
+Encoding: 769 769 2743
 Width: 0
 VWidth: 0
-Flags: M
+Flags: HM
 AnchorPoint: "top_accent" 46 550 mark 0
 LayerCount: 3
 Fore
@@ -17,8 +17,8 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "Smallcaps subtable" acutecomb.sc
-Substitution2: "Single Substitution lookup 20 subtable" acutecomb.grkstack
-Substitution2: "Single Substitution lookup 18 subtable" acutecomb.grk
-Substitution2: "Single Substitution lookup 13 subtable" acutecomb.stack
-Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" acutecomb.cap
+Substitution2: "Single Substitution lookup 22 subtable" acutecomb.grkstack
+Substitution2: "Single Substitution lookup 20 subtable" acutecomb.grk
+Substitution2: "Single Substitution lookup 15 subtable" acutecomb.stack
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" acutecomb.cap
 EndChar

@@ -2,8 +2,8 @@ StartChar: uhorn
 Encoding: 432 432 290
 Width: 561
 VWidth: 0
-Flags: MW
-AnchorPoint: "ogonek" 433 18 basechar 0
+Flags: HMW
+AnchorPoint: "ogonek" 418 18 basechar 0
 AnchorPoint: "below_accent" 259 -100 basechar 0
 AnchorPoint: "top_accent" 251 550 basechar 0
 LayerCount: 3

@@ -1,10 +1,8 @@
 StartChar: one.taboldstyle
-Encoding: 1114309 -1 990
+Encoding: 1114307 -1 988
 Width: 276
 VWidth: 982
-Flags: HW
-HStem: -2 46<16.002 85.6687 191.331 260.065> 377 46<21.7598 85.6687 190.145 254.28>
-VStem: 97 83<53.0419 367.958>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -28,7 +26,8 @@ SplineSet
  255 393 243 385 216 377 c 0
  189 369 180 338 180 313 c 2
 EndSplineSet
+Validated: 1
 Substitution2: "one_variants subtable" one.taboldstyle01
-Substitution2: "'pnum' Proportionalziffern lookup 33 subtable" one
-Substitution2: "'lnum' Lining Figures lookup 30 subtable" one.tablining
+Substitution2: "'pnum' Proportionalziffern lookup 35 subtable" one
+Substitution2: "'lnum' Lining Figures lookup 32 subtable" one.tablining
 EndChar

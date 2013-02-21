@@ -1,8 +1,8 @@
 StartChar: Idotaccent.sc
-Encoding: 1114839 -1 1838
+Encoding: 66263 -1 1838
 Width: 321
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -13,5 +13,6 @@ SplineSet
  102 592 128 617 158 617 c 24
 EndSplineSet
 Refer: 1648 -1 N 1 0 0 1 0 0 3
+Validated: 1
 Comment: "." 
 EndChar

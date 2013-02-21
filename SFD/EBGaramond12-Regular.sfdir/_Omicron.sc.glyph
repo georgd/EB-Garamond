@@ -1,12 +1,13 @@
 StartChar: Omicron.sc
-Encoding: 1115062 -1 2799
+Encoding: 66484 -1 2795
 Width: 616
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "grk_top" 300 590 basechar 0
 AnchorPoint: "grk_bottom" 300 -147 basechar 0
 AnchorPoint: "grk_uc_right" 616 190 basechar 0
 LayerCount: 3
 Fore
-Refer: 2775 -1 N 1 0 0 1 0 0 2
+Refer: 2771 -1 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar

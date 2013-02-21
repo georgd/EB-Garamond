@@ -1,7 +1,7 @@
 StartChar: dollar.subs
-Encoding: 1114331 -1 1014
+Encoding: 1114329 -1 1012
 Width: 297
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -53,4 +53,5 @@ SplineSet
  173 371 l 2
  173 374 171 376 168 376 c 0
 EndSplineSet
+Validated: 1
 EndChar

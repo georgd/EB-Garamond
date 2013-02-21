@@ -1,7 +1,7 @@
 StartChar: Eta
-Encoding: 919 919 873
+Encoding: 919 919 871
 Width: 810
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -51,5 +51,6 @@ SplineSet
  685 613 682 590 682 552 c 2
  682 100 l 2
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Eta.sc
 EndChar

@@ -2,8 +2,7 @@ StartChar: slash
 Encoding: 47 47 16
 Width: 237
 VWidth: 982
-Flags: HW
-HStem: 681 20G<317.5 338.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15,6 +14,7 @@ SplineSet
  299 687 305 701 330 701 c 0
  347 701 349 683 342 667 c 2
 EndSplineSet
+Validated: 33
 Substitution2: "frac_slash subtable" fraction
 Substitution2: "sups subtable" slash.sups
 Substitution2: "sinf subtable" slash.sinf

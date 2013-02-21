@@ -1,7 +1,7 @@
 StartChar: kappa.sc
-Encoding: 1114219 -1 900
+Encoding: 1114217 -1 898
 Width: 524
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -51,4 +51,5 @@ SplineSet
  416 106 l 2
  445 73 490 33 539 25 c 0
 EndSplineSet
+Validated: 33
 EndChar

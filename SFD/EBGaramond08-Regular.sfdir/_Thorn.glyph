@@ -2,9 +2,7 @@ StartChar: Thorn
 Encoding: 222 222 141
 Width: 535
 VWidth: 982
-Flags: HW
-HStem: -2 47<24.0383 102.943 233.057 312.136> 428 44<217.419 334.162> 556 35<24.0204 94.0943 252.005 314.983>
-VStem: 122 92<63.6768 422.252 468.1 527.394> 390 100<244.538 374.957>
+Flags: MW
 AnchorPoint: "top_accent" 346 670 basechar 0
 AnchorPoint: "below_accent" 308 -80 basechar 0
 AnchorPoint: "ogonek" 394 15 basechar 0
@@ -42,5 +40,6 @@ SplineSet
  243 540 217 525 217 482 c 0
  217 464 222 466 228 467 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" Thorn.sc
 EndChar

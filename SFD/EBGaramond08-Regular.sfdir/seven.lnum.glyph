@@ -1,10 +1,8 @@
 StartChar: seven.lnum
-Encoding: 1114305 -1 986
+Encoding: 1114303 -1 984
 Width: 487
 VWidth: 982
-Flags: HW
-HStem: 501 85<68.59 338.996>
-VStem: 11 47<437.39 488.789>
+Flags: MW
 LayerCount: 2
 Back
 SplineSet
@@ -49,6 +47,7 @@ SplineSet
  41 550 55 586 81 586 c 2
  410 586 l 2
 EndSplineSet
-Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" seven.tablining
-Substitution2: "'onum' Minuskelziffern lookup 31 subtable" seven
+Validated: 1
+Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" seven.tablining
+Substitution2: "'onum' Minuskelziffern lookup 33 subtable" seven
 EndChar

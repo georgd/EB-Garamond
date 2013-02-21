@@ -1,10 +1,8 @@
 StartChar: two.lnum
-Encoding: 1114300 -1 981
+Encoding: 1114298 -1 979
 Width: 486
 VWidth: 982
-Flags: HW
-HStem: -2 70<157.73 403.864> 525 70<150.997 271.88>
-VStem: 50 42<433.035 475.535> 308 100<328.734 486.916>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30,6 +28,7 @@ SplineSet
  341 595 408 517 408 426 c 0
  408 350 379 306 332 249 c 0
 EndSplineSet
-Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" two.tablining
-Substitution2: "'onum' Minuskelziffern lookup 31 subtable" two
+Validated: 33
+Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" two.tablining
+Substitution2: "'onum' Minuskelziffern lookup 33 subtable" two
 EndChar

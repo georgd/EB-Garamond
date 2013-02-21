@@ -1,9 +1,7 @@
 StartChar: tildecomb.sc
-Encoding: 1114973 -1 1682
+Encoding: 1114969 -1 1678
 Width: 0
-Flags: HW
-HStem: 518 75<78.8506 241.88>
-VStem: 26 277
+Flags: MW
 AnchorPoint: "top_stack" 148 644 basemark 0
 AnchorPoint: "top_accent" 166 596 mark 0
 LayerCount: 2
@@ -19,4 +17,5 @@ SplineSet
  184 517 122 518 97 518 c 0
  72 518 48 489 40 489 c 0
 EndSplineSet
+Validated: 1048577
 EndChar

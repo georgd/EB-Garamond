@@ -1,11 +1,12 @@
 StartChar: Etatonos
-Encoding: 905 905 1908
+Encoding: 905 905 1904
 Width: 810
-Flags: H
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 1670 -1 N 1 0 0 1 -10 -10 2
-Refer: 873 919 N 1 0 0 1 0 0 3
+Refer: 1666 -1 N 1 0 0 1 -10 -10 2
+Refer: 871 919 N 1 0 0 1 0 0 3
+Validated: 32773
 Substitution2: "c2sc subtable" Etatonos.sc
 MultipleSubs2: "CCMP_Precomp subtable" Eta acutecomb.grk
 EndChar

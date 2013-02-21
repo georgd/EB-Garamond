@@ -1,10 +1,8 @@
 StartChar: nine.lnum
-Encoding: 1114307 -1 988
+Encoding: 1114305 -1 986
 Width: 468
 VWidth: 982
-Flags: HW
-HStem: -40 47<22.1799 83.7515> 226 48<193.11 315.72> 559 36<186.925 288.405>
-VStem: 41 99<323.393 485.145> 353 99<306.198 490.411>
+Flags: MW
 LayerCount: 2
 Back
 SplineSet
@@ -45,6 +43,7 @@ SplineSet
  353 483 309 559 232 559 c 0
  157 559 140 460 140 385 c 0
 EndSplineSet
-Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" nine.tablining
-Substitution2: "'onum' Minuskelziffern lookup 31 subtable" nine
+Validated: 33
+Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" nine.tablining
+Substitution2: "'onum' Minuskelziffern lookup 33 subtable" nine
 EndChar
