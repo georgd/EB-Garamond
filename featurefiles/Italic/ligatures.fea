@@ -40,10 +40,6 @@ lookup liga_standard {
     sub longs longs h  by longs_longs_h;
     sub longs longs k  by longs_longs_k;
     sub longs longs t  by longs_longs_t;
-    sub L.CAT periodcentered by Ldot;
-    sub l.CAT periodcentered by ldot;
-    sub L.CATsc periodcentered by Ldot.sc;
-    sub l.CATsc periodcentered by ldot.sc;
     sub g g by g_g;
     sub g y by g_y;
     sub g j by g_j;

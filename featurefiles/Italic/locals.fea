@@ -16,8 +16,10 @@ lookup loclTRK {
 } loclTRK;
 
 lookup loclCAT {
-    sub L by L.CAT;
-    sub l by l.CAT;
+    sub l periodcentered' l by periodcentered.CAT;
+    sub L periodcentered' [L l] by periodcentered.CATuc;
+#    sub L by L.CAT;
+#    sub l by l.CAT;
 } loclCAT;
 
 lookup loclSRB {

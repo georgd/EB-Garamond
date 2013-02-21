@@ -1,0 +1,19 @@
+StartChar: periodcentered.CAT
+Encoding: 66575 -1 2894
+Width: 0
+VWidth: 0
+Flags: WO
+HStem: 314 100<-36.5625 46.5625>
+VStem: -45 100<322.438 405.562>
+LayerCount: 3
+Fore
+SplineSet
+5 414 m 28
+ 33 414 55 392 55 364 c 28
+ 55 336 33 314 5 314 c 28
+ -23 314 -45 336 -45 364 c 28
+ -45 392 -23 414 5 414 c 28
+EndSplineSet
+Validated: 1
+Substitution2: "Smallcaps subtable" periodcentered.CATsc
+EndChar
