@@ -68,3 +68,11 @@ feature cv05 {
     lookup v_alternates;
 } cv05;
 
+lookup alternate_g {
+    sub g from [ g.01 ];
+} alternate_g;
+
+feature cv27 {
+    lookup alternate_g;
+} cv27;
+
