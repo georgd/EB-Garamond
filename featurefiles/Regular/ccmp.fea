@@ -1,5 +1,5 @@
 lookup CCMP_contextual {
-    sub [ i j ]' @abovediacritics by [ dotlessi dotlessj ];
+    sub [ i j ]' @abovediacritics by [ i.dotless j.dotless ];
     sub [ l d t ] \uni030C' by uni030C.alt;
 } CCMP_contextual;
 

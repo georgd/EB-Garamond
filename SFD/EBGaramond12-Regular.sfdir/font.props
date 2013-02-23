@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1361462937
+ModificationTime: 1361622789
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -670,10 +670,10 @@ Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
-DisplaySize: -96
+DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 2856 8 6
+WinInfo: 64 8 5
 BeginPrivate: 9
 BlueValues 55 [-22 0 268 287 400 430 450 464 616 630 650 664 700 705]
 OtherBlues 21 [-290 -285 -181 -167]

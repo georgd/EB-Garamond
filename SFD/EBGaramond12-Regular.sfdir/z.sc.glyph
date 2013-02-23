@@ -3,12 +3,13 @@ Encoding: 66122 -1 1697
 Width: 510
 VWidth: 0
 Flags: HMW
+AnchorPoint: "below_accent" 268 -99 basechar 0
 AnchorPoint: "cedilla" 288 8 basechar 0
 AnchorPoint: "top_accent" 242 615 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-229 34 m 2
+194 34 m 2
  364 34 l 2
  405 34 434 68 447 97 c 0
  449 101 456 120 465 120 c 0
@@ -33,9 +34,8 @@ SplineSet
  436 452 440 450 440 442 c 0
  440 432 432 427 416 404 c 2
  166 59 l 2
- 156 46 158 40 165 39 c 0
- 185 37 201 34 229 34 c 2
+ 143.717850444 28.2184176631 167 34 194 34 c 2
 EndSplineSet
-Validated: 33
+Validated: 524321
 Comment: "." 
 EndChar

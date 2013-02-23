@@ -4,6 +4,13 @@ Width: 213
 VWidth: 0
 Flags: HMW
 LayerCount: 3
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 51 563 m 0
@@ -12,13 +19,13 @@ SplineSet
  152 535 130 513 101 513 c 0
  73 513 51 535 51 563 c 0
 EndSplineSet
-Refer: 344 567 N 1 0 0 1 0 0 3
-Validated: 513
-Substitution2: "Smallcaps subtable" j.sc
-Substitution2: "historic_j subtable" j.hist
-Substitution2: "sups subtable" j.sups
-Substitution2: "sinf subtable" j.sinf
-Substitution2: "ordn subtable" j.ordn
+Refer: 2924 -1 S 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "Single Substitution lookup 10 subtable" j.dotless
 Substitution2: "subs subtable" j.subs
-Substitution2: "Single Substitution lookup 10 subtable" dotlessj
+Substitution2: "ordn subtable" j.ordn
+Substitution2: "sinf subtable" j.sinf
+Substitution2: "sups subtable" j.sups
+Substitution2: "historic_j subtable" j.hist
+Substitution2: "Smallcaps subtable" j.sc
 EndChar

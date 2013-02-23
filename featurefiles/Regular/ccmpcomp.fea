@@ -27,7 +27,7 @@ lookup CCMP_Precomp {
     sub uni1EC0 by E uni0302.cap gravecomb.capstack ;
     sub uni1EC1 by e uni0302.stack gravecomb.stack ;
     sub uni1EC8 by I hookabovecomb.cap ;
-    sub uni1EC9 by dotlessi hookabovecomb ;
+    sub uni1EC9 by i.dotless hookabovecomb ;
     sub uni1F4A by Omicron uni0313.grk gravecomb.grkstack ;
     sub uni1F4B by Omicron uni0314.grk gravecomb.grkstack ;
     sub uni1F4C by Omicron uni0313.grk acutecomb.grkstack ;
@@ -83,7 +83,7 @@ lookup CCMP_Precomp {
     sub lacute by l acutecomb.flat ;
     sub upsilontonos by upsilon acutecomb.grk ;
     sub uni021F by h uni030C.flat ;
-    sub icircumflex by dotlessi uni0302 ;
+    sub icircumflex by i.dotless uni0302 ;
     sub uni01D8 by u uni0308 acutecomb.stack ;
     sub uni01D9 by U uni0308.cap uni030C.cap ;
     sub uni01D0 by i uni030C ;
@@ -152,7 +152,7 @@ lookup CCMP_Precomp {
     sub uni1EDF by ohorn hookabovecomb ;
     sub uni1EDE by Ohorn hookabovecomb.cap ;
     sub uni1EDD by ohorn gravecomb ;
-    sub imacron by dotlessi uni0304 ;
+    sub imacron by i.dotless uni0304 ;
     sub wacute by w acutecomb ;
     sub Itilde by I tildecomb.cap ;
     sub Wgrave by W gravecomb.cap ;
@@ -263,12 +263,12 @@ lookup CCMP_Precomp {
     sub uni1F6E by uni03A9 uni0313.grkstack uni0342 ;
     sub uhungarumlaut by u uni030B ;
     sub Egrave by E gravecomb.cap ;
-    sub igrave by dotlessi gravecomb ;
+    sub igrave by i.dotless gravecomb ;
     sub wdieresis by w uni0308 ;
     sub ycircumflex by y uni0302 ;
     sub uni0228 by E uni0327.cap ;
     sub iotatonos by iota acutecomb.grk ;
-    sub idieresis by dotlessi uni0308 ;
+    sub idieresis by i.dotless uni0308 ;
     sub uni1EAD by a dotbelowcomb uni0302 ;
     sub uni1F27 by eta uni0314.grkstack uni0342 ;
     sub uni1EAF by a uni0306.stack acutecomb.stack ;
@@ -293,7 +293,7 @@ lookup CCMP_Precomp {
     sub Wdieresis by W uni0308.cap ;
     sub uni1F86 by alpha uni0345 uni0313.grkstack uni0342 ;
     sub Udieresis by U uni0308.cap ;
-    sub uni01F0 by uni0237 uni030C ;
+    sub uni01F0 by j.dotless uni030C ;
     sub Scircumflex by S uni0302.cap ;
     sub uni01F4 by G acutecomb.cap ;
     sub lcaron by l uni030C.alt ;
@@ -310,7 +310,7 @@ lookup CCMP_Precomp {
     sub uni1E77 by u uni032D ;
     sub uni1E74 by U uni0330.cap ;
     sub uni1E75 by u uni0330 ;
-    sub jcircumflex by uni0237 uni0302 ;
+    sub jcircumflex by j.dotless uni0302 ;
     sub uni0214 by U uni030F.cap ;
     sub iotadieresis by iota uni0308 ;
     sub uni0216 by U uni0311.cap ;
@@ -552,9 +552,9 @@ lookup CCMP_Precomp {
     sub uni1E2B by h uni032E ;
     sub uni1E2E by I uni0308.cap acutecomb.cap ;
     sub uni1E2D by i uni0330 ;
-    sub uni1E2F by dotlessi uni0308 acutecomb.stack ;
+    sub uni1E2F by i.dotless uni0308 acutecomb.stack ;
     sub uni01CE by a uni030C ;
-    sub iacute by dotlessi acutecomb ;
+    sub iacute by i.dotless acutecomb ;
     sub uni01CF by I uni030C.cap ;
     sub uni1E29 by h uni0327 ;
     sub uni1E28 by H uni0327.cap ;
@@ -582,7 +582,7 @@ lookup CCMP_Precomp {
     sub uni1EAA by A uni0302.cap tildecomb.cap ;
     sub uni1F20 by eta uni0313 ;
     sub uni1EAC by A dotbelowcomb.cap uni0302.cap ;
-    sub itilde by dotlessi tildecomb ;
+    sub itilde by i.dotless tildecomb ;
     sub Oslashacute by Oslash acutecomb.cap ;
     sub ohungarumlaut by o uni030B ;
     sub uni1EEC by Uhorn hookabovecomb.cap ;
@@ -618,7 +618,7 @@ lookup CCMP_Precomp {
     sub uni1FD6 by iota uni0342 ;
     sub uni1FD7 by iota uni0308 uni0342 ;
     sub uni0212 by R uni0311.cap ;
-    sub sacute by r acutecomb ;
+    sub sacute by s acutecomb ;
     sub Aringacute by A uni030A.cap acutecomb.flat ;
     sub Tcaron by T uni030C.cap ;
     sub Lcommaaccent by L uni0326 ;
@@ -688,7 +688,7 @@ lookup CCMP_Precomp {
     sub uni1EB7 by a dotbelowcomb uni0306 ;
     sub uni1EB6 by A dotbelowcomb.cap uni0306.cap ;
     sub Utilde by U tildecomb.cap ;
-    sub ibreve by dotlessi uni0306 ;
+    sub ibreve by i.dotless uni0306 ;
     sub uni1E0F by d uni0331 ;
     sub Wacute by W acutecomb.cap ;
     sub uni1EBA by E hookabovecomb.cap ;

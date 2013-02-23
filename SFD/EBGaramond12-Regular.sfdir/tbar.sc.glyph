@@ -5,7 +5,16 @@ VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
+SplineSet
+160 245 m 30
+ 399 245 l 22
+ 405 245 412 239 412 233 c 4
+ 412 213 397.033203125 206 381 206 c 30
+ 150 206 l 30
+ 142.80859375 206 136 212 136 218 c 4
+ 136 227 145.911132812 245 160 245 c 30
+EndSplineSet
 Refer: 1691 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524293
 Comment: "." 
 EndChar
