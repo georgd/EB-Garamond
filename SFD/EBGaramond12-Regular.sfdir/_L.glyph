@@ -1,8 +1,8 @@
 StartChar: L
 Encoding: 76 76 36
-Width: 574
+Width: 584
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 AnchorPoint: "top_right" 492 624 basechar 0
 AnchorPoint: "cedilla" 183 8 basechar 0
 AnchorPoint: "below_accent" 314 -100 basechar 0
@@ -2326,6 +2326,13 @@ f%/F)f\"a)e^;dlcd0qZaiVlTce$e#e'ldndF$:dcc*lBb0%lPcHaPRahGL'^:q=u_SX1,_S<k#
 `l?$Cc-=\bdaQ[oeC<!rdaHOjdF$@heC<!pd*TbN`P&su_83t/aN2EBa2Gp7aiVZLc-=Y`dF$@h
 dF$@gd*U%^c-"2OaiVZLc-=APai)-9`Pog6_o'7(^VRb&b0%lRd*UCrf@\a.f@SX*f%/C%eGoRL
 EndImage
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 210 567 m 2
@@ -2354,7 +2361,6 @@ SplineSet
  332 633 322 626 299 622 c 0
  249 613 210 606 210 567 c 2
 EndSplineSet
-Validated: 1
 Substitution2: "c2sc subtable" L.sc
 Substitution2: "sups subtable" L.sups
 Substitution2: "sinf subtable" L.sinf
