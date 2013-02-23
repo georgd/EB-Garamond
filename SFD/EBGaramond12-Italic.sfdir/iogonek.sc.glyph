@@ -2,10 +2,17 @@ StartChar: iogonek.sc
 Encoding: 66244 -1 1836
 Width: 275
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 128 808 N 1 0 0 1 -146.764 -10.866 2
+Refer: 128 808 S 1 0 0 1 -20.764 4.134 2
 Refer: 1679 -1 N 1 0 0 1 0 0 3
 Validated: 5
 Comment: "." 

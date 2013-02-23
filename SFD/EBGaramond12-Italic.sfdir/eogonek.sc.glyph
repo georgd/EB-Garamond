@@ -2,11 +2,18 @@ StartChar: eogonek.sc
 Encoding: 66222 -1 1814
 Width: 361
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 128 808 N 1 0 0 1 -274.764 -10.866 2
+Refer: 128 808 S 1 0 0 1 86.236 1.134 2
 Refer: 1675 -1 N 1 0 0 1 0 0 3
-Validated: 1
+Validated: 5
 Comment: "." 
 EndChar

@@ -4,8 +4,15 @@ Width: 189
 VWidth: 0
 Flags: HM
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 2369 -1 N 1 0 0 1 163 11 2
+Refer: 2369 -1 S 1 0 0 1 154 11 2
 Refer: 2171 953 N 1 0 0 1 0 0 3
 Validated: 1
 Substitution2: "Smallcaps subtable" iotatonos.sc

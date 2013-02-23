@@ -2,10 +2,26 @@ StartChar: dcroat.sc
 Encoding: 66214 -1 1806
 Width: 519
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
+SplineSet
+104 254 m 26
+ 311 254 l 18
+ 316 254 320 249 320 244 c 0
+ 320 227 297 210 284 210 c 26
+ 84 210 l 18
+ 79 210 75 214 75 219 c 0
+ 75 230 88 254 104 254 c 26
+EndSplineSet
 Refer: 1773 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 Comment: "." 
 EndChar

@@ -2,10 +2,17 @@ StartChar: Dcroat.sc
 Encoding: 66213 -1 1805
 Width: 519
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 1773 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1806 -1 N 1 0 0 1 0 0 2
+Validated: 5
 Comment: "." 
 EndChar

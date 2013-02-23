@@ -1,6 +1,6 @@
 StartChar: uni03BC
 Encoding: 956 956 1161
-Width: 587
+Width: 602
 VWidth: 0
 Flags: MW
 LayerCount: 2
@@ -61,6 +61,13 @@ SplineSet
  450 315 376 215 360 162 c 4
  349 125 350 58 393 58 c 20
 EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 397 90 m 0

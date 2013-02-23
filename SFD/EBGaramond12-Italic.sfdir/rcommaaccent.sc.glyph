@@ -2,10 +2,17 @@ StartChar: rcommaaccent.sc
 Encoding: 66284 -1 1876
 Width: 475
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 129 806 N 1 0 0 1 291.176 -5 2
+Refer: 129 806 S 1 0 0 1 162.176 -5 2
 Refer: 1688 -1 N 1 0 0 1 0 0 3
 Validated: 1
 Comment: "." 

@@ -1,12 +1,18 @@
 StartChar: dcaron.sc
 Encoding: 66212 -1 1804
-Width: 450
+Width: 519
 VWidth: 0
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 2566 -1 N 1 0 0 1 352.063 87 2
-Refer: 1674 -1 N 1 0 0 1 0 0 2
+Refer: 1803 -1 N 1 0 0 1 0 0 2
 Validated: 1
 Comment: "." 
 EndChar

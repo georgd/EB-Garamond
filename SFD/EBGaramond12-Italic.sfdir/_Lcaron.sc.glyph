@@ -1,12 +1,18 @@
 StartChar: Lcaron.sc
 Encoding: 66258 -1 1850
-Width: 444
+Width: 379
 VWidth: 0
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 2566 -1 N 1 0 0 1 228.187 298 2
-Refer: 1650 -1 N 1 0 0 1 0 0 2
+Refer: 1851 -1 N 1 0 0 1 0 0 2
 Validated: 1
 Comment: "." 
 EndChar

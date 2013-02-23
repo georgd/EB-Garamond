@@ -4,9 +4,15 @@ Width: 489
 VWidth: 0
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 2089 -1 N 1 0 0 1 -85.2906 -18.0667 2
-Refer: 1658 -1 N 1 0 0 1 0 0 3
+Refer: 1888 -1 N 1 0 0 1 0 0 2
 Validated: 5
 Comment: "." 
 EndChar
