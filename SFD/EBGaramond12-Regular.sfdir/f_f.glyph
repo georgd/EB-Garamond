@@ -1,5 +1,5 @@
 StartChar: f_f
-Encoding: 66494 -1 2805
+Encoding: 66494 -1 2793
 Width: 579
 VWidth: 0
 Flags: HMW
@@ -7,8 +7,8 @@ LayerCount: 3
 Fore
 Refer: 946 64256 N 1 0 0 1 0 0 2
 Validated: 1
+Substitution2: "Single Substitution lookup 71 subtable" f_f.short
 Substitution2: "Single Substitution lookup 70 subtable" f_f.short
-Substitution2: "Single Substitution lookup 69 subtable" f_f.short
 Ligature2: "liga_standard subtable" f.DEU f.DEU
 Ligature2: "liga_standard subtable" f f
 LCarets2: 1 277 
