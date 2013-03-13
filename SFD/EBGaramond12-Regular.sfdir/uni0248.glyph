@@ -1,19 +1,18 @@
 StartChar: uni0248
-Encoding: 584 584 2203
-Width: 300
+Encoding: 584 584 2198
+Width: 319
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-24 336 m 26
- 284 336 l 18
- 290 336 297 330 297 324 c 0
- 297 304 283 292 266 292 c 26
- 14 292 l 26
- 7 292 0 298 0 304 c 0
- 0 313 8 336 24 336 c 26
+38 336 m 26
+ 298 336 l 18
+ 304 336 311 330 311 324 c 0
+ 311 304 297 292 280 292 c 26
+ 28 292 l 26
+ 21 292 14 298 14 304 c 0
+ 14 313 22 336 38 336 c 26
 EndSplineSet
-Refer: 42 74 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 42 74 N 1 0 0 1 14 0 2
 EndChar
