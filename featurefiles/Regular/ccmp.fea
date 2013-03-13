@@ -1,14 +1,15 @@
 lookup CCMP_contextual {
     sub [ i j ]' @abovediacritics by [ i.dotless j.dotless ];
     sub [ l d t ] \uni030C' by uni030C.alt;
+    sub [ b d f h k l thorn ] [ gravecomb acutecomb uni0302 uni030C ]' by [ gravecomb.flat acutecomb.flat uni0302.flat uni030C.flat ];
 } CCMP_contextual;
 
 lookup CCMP_stacking1 {
-    sub [ uni0302 ]' [ acutecomb gravecomb] by [uni0302.stack];
+    sub [ acutecomb gravecomb uni0302 tildecomb uni0304 uni0306 uni0307 hookabovecomb uni030A  uni030C ]' @abovediacritics by [ acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack  uni030C.stack ];
 } CCMP_stacking1;
 
 lookup CCMP_stacking2 {
-    sub [ uni0302.stack ] [acutecomb gravecomb]' by [acutecomb.stack gravecomb.stack];
+    sub [ acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack  uni030C.stack uni0302.flat uni030C.flat ] [ acutecomb gravecomb uni0302 tildecomb uni0304 uni0306 uni0307 hookabovecomb uni030A  uni030C ]' by [acutecomb.stack gravecomb.stack uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack  uni030C.stack ];
 } CCMP_stacking2;
 
 lookup CCMP_stackgrk1 {
