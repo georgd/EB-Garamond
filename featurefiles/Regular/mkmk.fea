@@ -23,7 +23,6 @@ lookup mkmk {
   markClass [\gravecomb.grk \gravecomb.grksc ] <anchor 86 523> @top_stack;
   markClass [\uni0342.alt \uni0342.altsc ] <anchor 112 521> @top_stack;
   markClass [\acutecomb.grk \acutecomb.grksc ] <anchor 36 523> @top_stack;
-
   pos mark [\tildecomb \tildecomb.sc ] <anchor 148 644> mark @top_stack;
   pos mark [\uni0308 \uni0308.sc ] <anchor 148 636> mark @top_stack;
   pos mark [\uni030C.cap ] <anchor 151 850> mark @top_stack;
@@ -48,10 +47,9 @@ lookup mkmk {
   pos mark [\uni0308.grkstack \uni0308.grkstacksc ] <anchor 148 551> mark @top_stack;
   pos mark [\uni0313.grkstack \uni0313.grkstacksc ] <anchor 55 650> mark @top_stack;
   pos mark [\uni0314.grkstack \uni0314.grkstacksc ] <anchor 65 650> mark @top_stack;
-subtable;
+  subtable;
   markClass [\acutecomb.stack \acutecomb.stacksc ] <anchor 32 456> @acutestack;
   markClass [\acutecomb.capstack ] <anchor 0 710> @acutestack;
-
   pos mark [\uni0308 \uni0308.sc ] <anchor 152 570> mark @acutestack;
   pos mark [\uni0302.cap ] <anchor 241 758> mark @acutestack;
   pos mark [\uni0306.cap ] <anchor 89 811> mark @acutestack;
@@ -61,10 +59,9 @@ subtable;
   pos mark [\uni0304.stack \uni0304.stacksc ] <anchor 182 570> mark @acutestack;
   pos mark [\uni0306.stack \uni0306.stacksc ] <anchor 172 566> mark @acutestack;
   pos mark [\uni030C.stack \uni030C.stacksc ] <anchor 120 580> mark @acutestack;
-subtable;
+  subtable;
   markClass [\gravecomb.stack \gravecomb.stacksc ] <anchor 92 456> @gravestack;
   markClass [\gravecomb.capstack ] <anchor 170 710> @gravestack;
-
   pos mark [\uni0308 \uni0308.sc ] <anchor 143 570> mark @gravestack;
   pos mark [\uni0302.cap ] <anchor 61 758> mark @gravestack;
   pos mark [\uni0306.cap ] <anchor 189 807> mark @gravestack;
@@ -74,23 +71,32 @@ subtable;
   pos mark [\uni0304.stack \uni0304.stacksc ] <anchor 186 570> mark @gravestack;
   pos mark [\uni0306.stack \uni0306.stacksc ] <anchor 161 566> mark @gravestack;
   pos mark [\uni030C.stack \uni030C.stacksc ] <anchor 114 580> mark @gravestack;
-
-subtable;
+  subtable;
   markClass [\hookabovecomb.stack \hookabovecomb.stacksc ] <anchor 132 475> @hookstack;
   markClass [\hookabovecomb.cap ] <anchor 42 743> @hookstack;
-
   pos mark [\uni0302.cap ] <anchor 249 775> mark @hookstack;
   pos mark [\uni0306.cap ] <anchor 85 822> mark @hookstack;
   pos mark [\uni0302.stack \uni0302.stacksc ] <anchor 224 564> mark @hookstack;
   pos mark [\uni0306.stack \uni0306.stacksc ] <anchor 166 565> mark @hookstack;
-
-subtable;
+  subtable;
   markClass [\gravecomb.grk \gravecomb.grkstack \acutecomb.grk \acutecomb.grkstack \gravecomb.grksc \gravecomb.grkstacksc \acutecomb.grksc \acutecomb.grkstacksc ] <anchor 5 640> @grk_hstack;
   pos mark [\uni0313.grk \uni0314.grk \uni0313.grksc \uni0314.grksc ] <anchor 130 640> mark @grk_hstack;
-
 } mkmk;
 
 feature mkmk {
+  script DFLT;
+     language dflt ;
+      lookup mkmk;
+  script cyrl;
+     language dflt ;
+      lookup mkmk;
+     language SRB  exclude_dflt;
+      lookup mkmk;
+     language MKD  exclude_dflt;
+      lookup mkmk;
+  script grek;
+     language dflt ;
+      lookup mkmk;
   script latn;
      language dflt ;
       lookup mkmk;
@@ -105,19 +111,6 @@ feature mkmk {
      language CAT  exclude_dflt;
       lookup mkmk;
      language LAT  exclude_dflt;
-      lookup mkmk;
-  script grek;
-     language dflt ;
-      lookup mkmk;
-  script cyrl;
-     language dflt ;
-      lookup mkmk;
-     language SRB  exclude_dflt;
-      lookup mkmk;
-     language MKD  exclude_dflt;
-      lookup mkmk;
-  script DFLT;
-     language dflt ;
       lookup mkmk;
 
 } mkmk;
