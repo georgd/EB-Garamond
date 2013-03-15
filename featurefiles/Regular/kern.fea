@@ -1,6 +1,7 @@
 ## Latin ##
 @first_A = [ A uni0245 ];
 @first_asc = [ A.sc a.sc ];
+@first_csc = [C.sc c.sc ];
 @first_E = [ E Eacute Egrave Edieresis Etilde Eogonek Ecircumflex Emacron Ebreve Edotaccent Ecaron uni0246 ];
 @first_F = [ F uni0191 ];
 @first_L = [ L ];
@@ -16,6 +17,7 @@
 
 @second_A = [ A uni0245 ];
 @second_asc = [ A.sc a.sc ];
+@second_csc = [ C.sc c.sc ];
 @second_O = [ O Ohorn Q ];
 @second_T = [ T ];
 @second_V = [ V W Y uni0194 uni01B3 uni024E ];
@@ -40,6 +42,8 @@ lookup kern {
     pos @first_A @second_v -70;
 
     pos @first_asc @second_vsc -75;
+
+    pos @first_csc @second_csc -15;
 
     pos @first_E @second_o -25;
     pos @first_E @second_m -10;
