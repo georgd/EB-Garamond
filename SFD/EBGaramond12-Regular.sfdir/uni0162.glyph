@@ -55,6 +55,8 @@ SplineSet
  265 -122 256 -111 256 -105 c 0
 EndSplineSet
 Validated: 1
+Position2: "rtbd subtable" dx=0 dy=0 dh=-33 dv=0
+Position2: "lfbd subtable" dx=-33 dy=0 dh=-33 dv=0
 Substitution2: "c2sc subtable" uni0162.sc
 MultipleSubs2: "CCMP_Precomp subtable" T uni0327.cap
 EndChar

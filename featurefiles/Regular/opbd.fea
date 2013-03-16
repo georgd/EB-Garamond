@@ -1,0 +1,95 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem cyrl SRB ;
+languagesystem cyrl MKD ;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn DEU ;
+languagesystem latn TRK ;
+languagesystem latn AZE ;
+languagesystem latn CRT ;
+languagesystem latn CAT ;
+languagesystem latn LAT ;
+
+include (opticalclasses.fea)
+
+lookup lfbd {
+    pos @opt_A <-34 0 -34 0>;
+    pos @opt_C <-32 0 -32 0>;
+    pos @opt_G <-36 0 -36 0>;
+    pos @opt_J <-15 0 -15 0>;
+    pos @opt_O <-38 0 -38 0>;
+    pos @opt_OE <-38 0 -38 0>;
+    pos @opt_Q <-38 0 -38 0>;
+    pos @opt_T <-33 0 -33 0>;
+    pos @opt_V <-34 0 -34 0>;
+    pos @opt_W <-34 0 -34 0>;
+    pos @opt_X <-35 0 -35 0>;
+    pos @opt_Y <-29 0 -29 0>;
+    pos @opt_q <-26 0 -26 0>;
+    pos @opt_v <-22 0 -22 0>;
+    pos @opt_w <-22 0 -22 0>;
+    pos @opt_x <-22 0 -22 0>;
+    pos hyphen <-237 0 -237 0>;
+    pos endash <-165 0 -165 0>;
+    pos emdash <-190 0 -190 0>;
+    pos quoteleft <-96 0 -96 0>;
+    pos quoteright <-72 0 -72 0>;
+    pos quotedblleft <-168 0 -168 0>;
+    pos quotedblright <-126 0 -126 0>;    
+    pos quotesinglbase <-96 0 -96 0>;
+    pos quotedblbase <-168 0 -168 0>;
+    pos guilsinglleft <-186 0 -186 0>;
+    pos guilsinglright <-140 0 -140 0>;
+    pos guillemotleft <-186 0 -186 0>;
+    pos guillemotright <-186 0 -186 0>;
+} lfbd;
+
+lookup rtbd {
+    pos @opt_A <0 0 -34 0>;
+    pos @opt_D <0 0 -38 0>;
+    pos @opt_F <0 0 -26 0>;
+    pos @opt_K <0 0 -34 0>;
+    pos @opt_L <0 0 -29 0>;
+    pos @opt_O <0 0 -38 0>;
+    pos @opt_Q <0 0 -56 0>;
+    pos @opt_T <0 0 -33 0>;
+    pos @opt_V <0 0 -34 0>;
+    pos @opt_W <0 0 -34 0>;
+    pos @opt_X <0 0 -35 0>;
+    pos @opt_Y <0 0 -29 0>;
+    pos @opt_k <0 0 -23 0>;
+    pos @opt_p <0 0 -26 0>;
+    pos @opt_r <0 0 -17 0>;
+    pos @opt_t <0 0 -22 0>;
+    pos @opt_v <0 0 -22 0>;
+    pos @opt_w <0 0 -22 0>;
+    pos @opt_x <0 0 -22 0>;
+    pos @opt_y <0 0 -22 0>;
+    pos period <0 0 -161 0>;
+    pos comma  <0 0 -114 0>;
+    pos colon  <0 0 -74 0>; 
+    pos semicolon <0 0 -68 0>;
+    pos hyphen <0 0 -237 0>;
+    pos endash <0 0 -165 0>;
+    pos emdash <0 0 -190 0>;
+    pos quoteleft <0 0 -96 0>;
+    pos quoteright <0 0 -120 0>;
+    pos quotedblleft <0 0 -168 0>;
+    pos quotedblright <0 0 -210 0>;    
+    pos quotesinglbase <0 0 -96 0>;
+    pos quotedblbase <0 0 -168 0>;
+    pos guilsinglleft <0 0 -186 0>;
+    pos guilsinglright <0 0 -232 0>;
+    pos guillemotleft <0 0 -186 0>;
+    pos guillemotright <0 0 -232 0>;
+} rtbd;
+
+
+feature lfbd {
+  lookup lfbd;
+} lfbd;
+
+feature rtbd {
+  lookup rtbd;
+} rtbd;
