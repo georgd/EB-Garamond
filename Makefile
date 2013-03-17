@@ -1,5 +1,5 @@
 NAME=EBGaramond
-VERSION=0.015
+VERSION=0.015a
 
 SRC=SFD
 BLD=build
@@ -11,7 +11,7 @@ DIST=$(NAME)-$(VERSION)-complete
 
 PY=python
 SCRIPT=tools/makefont.py
-#SFNTTOOL=sfnttool.jar # We now use ttf2eot from https://github.com/greyfont/ttf2eot and sfnt2woff from http://people.mozilla.com/~jkew/woff
+SFNTTOOL=sfnttool.jar
 
 #SIZES=08 12
 #STYLES=Regular SC Allsc Italic Bold
@@ -37,24 +37,24 @@ pdfs: $(PDF)
 $(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT)
 	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION)
-	
+
 $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT)
 	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION)
 	@echo "Autohinting	$@"
 	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
 	@mv $@.tmp $@
-		
+
 $(WEB)/%.woff: $(BLD)/%.ttf
 	@echo "Generating	$@"
-#	@$(SFNTTOOL) -w $< $@
-	@sfnt2woff $<
-	
+	@$(SFNTTOOL) -w $< $@
+#	@sfnt2woff $<
+
 $(WEB)/%.eot: $(BLD)/%.ttf
 	@echo "Generating	$@"
-#	@$(SFNTTOOL) -e -x $< $@
-	@ttf2eot $< > $@
-	
+	@$(SFNTTOOL) -e -x $< $@
+#	@ttf2eot $< > $@
+
 $(SPEC)/%-Glyphs.pdf: $(BLD)/%.ttf 
 	@echo "Generating	$@"
 	@fntsample -f $< -o $@ -l > $@.outline
