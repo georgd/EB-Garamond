@@ -30,7 +30,7 @@ lookup lfbd {
     pos @opt_v <-22 0 -22 0>;
     pos @opt_w <-22 0 -22 0>;
     pos @opt_x <-22 0 -22 0>;
-    pos hyphen <-237 0 -237 0>;
+    pos hyphen <-82 0 -82 0>;
     pos endash <-165 0 -165 0>;
     pos emdash <-190 0 -190 0>;
     pos quoteleft <-96 0 -96 0>;
@@ -70,7 +70,7 @@ lookup rtbd {
     pos comma  <0 0 -114 0>;
     pos colon  <0 0 -74 0>; 
     pos semicolon <0 0 -68 0>;
-    pos hyphen <0 0 -237 0>;
+    pos hyphen <0 0 -137 0>;
     pos endash <0 0 -165 0>;
     pos emdash <0 0 -190 0>;
     pos quoteleft <0 0 -96 0>;
