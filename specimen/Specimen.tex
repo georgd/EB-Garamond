@@ -1,6 +1,6 @@
 \documentclass[pagesize,DIV14]{scrartcl}
 \usepackage{fontspec}
-%\usepackage{microtype}
+\usepackage{microtype}
 %\usepackage{xltxtra}
 \usepackage[babelshorthands]{polyglossia}
 \setdefaultlanguage{english}
@@ -223,7 +223,7 @@ Johannes Gensfleisch zur Laden zum Gutenberg, 1397
 \paragraph*{German} prevents f-ligatures that are usually not allowed like fb, fh, fj, ffb, ffl etc. because they would only occur at \enquote{Wortfugen}: {\addfontfeature{Language=German}Laufband, aufjagen, trefflich,  Sauerstoffflasche,…}
 \paragraph*{Turkish, Azerbaijani, Crimtatar} correct replacement of i/ı as smallcaps etc.
 \paragraph*{Latin} replaces U by V, initial u by v and non-initial v by u: universalis → {\addfontfeature{Language=Latin} universalis}
-\paragraph*{Catalan} l + · are replaced by a l· ligature: {\addfontfeature{Language=Catalan}paral·lel}
+\paragraph*{Catalan} Correct positioning of “·” between two “l”s: {\addfontfeature{Language=Catalan}PARAL·LEL, paral·lel, \textsc{paral·lel}, \textit{PARAL·LEL, paral·lel, \textsc{paral·lel}}\\{\scriptsize PARAL·LEL, paral·lel, \textsc{paral·lel}}}
 \paragraph*{Serbian/Macedonian} replaces б by \begin{serbian}б\end{serbian} and italic \textit{б, д, г, п, т, ш, ѓ} by \begin{serbian}\itshape б, д, г, п, т, ш, ѓ\end{serbian}
 
 \subsection{Character Composition and Decomposition}
@@ -272,8 +272,8 @@ The feature \texttt{calt} (should be on by default) controls the behaviour of co
 The long tailed Q is managed by this feature too: Qui, Quis, Quo, \textsc{Shqipëria}, IRAQ, 
 
 \subsection{Swash}
-The italic font will have a full set of swash capitals, accessible via the \texttt{swsh}: \\\textit{\addfontfeature{RawFeature=+swsh}ABCDEFGHIJKLMNOPQQRSTUVWXYZ\\
-\scriptsize ABCDEFGHIJKLMNOPQQRSTUVWXYZ}
+The italic font will have a full set of swash capitals, accessible via the \texttt{swsh}: \\\textit{\addfontfeature{RawFeature=+swsh}A B C D E F G H I J K L M N O P Q Qui R S T U V W X Y Z\\
+\scriptsize A B C D E F G H I J K L M N O P Q Qu R S T U V W X Y Z}
 \subsection{Character Variants and Stylistic Sets}
 There are alternate representations for some glyphs, accessible via Character Variants (\texttt{cv01–cv99}) and as Stylistic Sets (\texttt{ss01–ss20}):
 
@@ -296,7 +296,11 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 
 \paragraph*{cv11:} Variants for the numeral one: some publishers prefer a numeral one that’s clearly different from small cap i: \textsc{i123} vs. {\addfontfeature{RawFeature={+cv11,+smcp}}i123}
 
-\paragraph*{cv21} Variants for ß: first Variant sets all ß to the ß-shape, second to ss: {weiß {\fontspec[CharacterVariant=21:0]{EBGaramond12-Regular}weiß} {\fontspec[CharacterVariant=21:1]{EBGaramond12-Regular}weiß}}
+\paragraph*{cv21} Variants for a: a vs. {\addfontfeature{RawFeature=+cv21}a}
+
+\paragraph*{cv27} Variants for g: g/\textit{g} vs. {\addfontfeature{RawFeature=+cv27}g/\textit{g}}
+
+\paragraph*{cv47} Variants for ß: first Variant sets all ß to the ß-shape, second to ss: {weiß {\fontspec[CharacterVariant=21:0]{EBGaramond12-Regular}weiß} {\fontspec[CharacterVariant=21:1]{EBGaramond12-Regular}weiß}}
 
 \subsubsection{Symbol Variants}
 \paragraph*{cv90:} floral hearts variants: \char"2619{}  and \char"2767{}  → {\addfontfeature{RawFeature=+cv90}\char"2619{} and \char"2767}
@@ -306,12 +310,12 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 \subsubsection{Cyrillic Variants}
 \paragraph*{ss01:} pointed variants of Д, Л, Љ, \textit{Д, Л, Љ}, д, л and љ (in italic uppercase only): {\addfontfeature{RawFeature=+ss01} Д, Л, Љ, \textit{Д, Л, Љ}, д, л, љ 
 }
-
+{
 \subsubsection{Greek Variants}
 \paragraph*{cv80:} \addfontfeature{RawFeature=+ss20}alternate circumflex: ῆ ἧ → {\addfontfeature{RawFeature=+cv80}ῆ ἧ} (only works together with \textsc{ss20} which decomposes precomposed glyphs)
 \paragraph*{cv81:} prosgegrammeni instead of ipogegrammeni: ᾞ → {\addfontfeature{StylisticSet=20,CharacterVariant=81:1} ᾞ} → {\addfontfeature{StylisticSet=20,CharacterVariant=81:2} ᾞ} (this too only works together with \textsc{ss20} which decomposes precomposed glyphs)\\
 Planned: alternate β, ε, θ, κ, π, ρ, σ, φ;\\
-
+}
 \subsubsection{IPA Variants}
 \paragraph*{ss06:} variants of greek letters that fit better to the other (latin) letters used in IPA: β → {\addfontfeature{RawFeature=+ss06}β}
 
@@ -336,21 +340,22 @@ Text{\addfontfeature{RawFeature=+sups}abcdefghijklmnopqrstuvwxyz0123456789}x %\\
 Text{\addfontfeature{RawFeature=+ordn}abcdefghijklmnopqrstuvwxyz0123456789}x\\
 Text{\addfontfeature{RawFeature=+subs}abcdefghijklmnopqrstuvwxyz0123456789}x %\\
 Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
-ÁÀÃĄÄ{\addfontfeature{Language=German}Ä}%Ǎ
-ÂĂÅÉÈ%Ẽ
-ĘËĚÊĔÍÌĨĮÏ%Ǐ
-ÎĬİ\\
-ÓÒÕǪÖ{\addfontfeature{Language=German}Ö}ǑÔŎŐØÚÙŨŲÜ{\addfontfeature{Language=German}Ü}ǓÛŬŮŰ\\
-áàãąä%ǎ
-âăåéè%ẽ
-ęëěêĕíìĩįï%ǐ
-îĭıóòõǫöǒôǒőøúùũųü%ǔ
-ûŭůű\\
+ÁÀÃĄÄ{\addfontfeature{Language=German,LetterSpace=10.0}Ä}%Ǎ
+ÂĂÅÉÈẼ%
+ĘËĚÊĔÍÌĨĮÏǏÎĬİ\\
+ÓÒÕǪÖ%
+{\addfontfeature{Language=German,LetterSpace=10.0}Ö}%
+ǑÔŎŐØÚÙŨŲÜ%
+{\addfontfeature{Language=German,LetterSpace=10.0}Ü}ǓÛŬŮŰ\\
+áàãąäǎâăåéèẽęëěêĕíìĩįïǐîĭıóòõǫöǒôǒőøúùũųüǔûŭůű\\
 ĆćÇçĎďĢģĜĝǦǧĞğĤĥḨḩĴĵĸŁłĽľÑñŇňŃńŊŋ\\
 ŘřŔŕŚśŠšŞşŤťŢţŴŵÝýŶŷŸÿŹźŻżŽž\\
 {\addfontfeature{RawFeature={+smcp,+c2sc}}%ÁÀÃĄÄÂĂÅÉÈĘËĚÊĔÍÌĨĮÏÎĬİ%\\
 %ÓÒÕÖÔŎŐØÚÙŨŲÜÛŬŮŰ\\
-áàãąäâăåéèęëěêĕíìĩįïîĭıóòõǫöôǒőøúùũųüǔûŭůű\\
+áàãąäâăåéèęëěêĕíìĩįïîĭıóòõ%
+{\addfontfeature{StylisticSet=20}ǫ}öô%
+{\addfontfeature{StylisticSet=20}ǒ}őøúùũųü%
+{\addfontfeature{StylisticSet=20}ǔ}ûŭůű\\
 ĆćÇçĎďĢģĜĝĞğĤĥĴĵĸŁłĽľÑñŇňŃńŊŋ\\
 ŘřŔŕŚśŠšŞşŤťŢţŴŵÝýŶŷŸÿŹźŻżŽž}\\
 {\Huge \char"E001 \char"B6 \char"E002}\\
@@ -403,7 +408,7 @@ Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
 ŘřŔŕŚśŠšŞşŤťŢţŴŵÝýŶŷŸÿŹźŻżŽž\\
 {\addfontfeature{RawFeature={+smcp,+c2sc}}ÁÀÃĄÄÂĂÅÉÈĘËĚÊĔÍÌĨĮÏÎĬİ\\
 ÓÒÕÖÔŎŐØÚÙŨŲÜÛŬŮŰ\\
-áàãąäâăåéèęëěêĕíìĩįïîĭıóòõǫöǒôǒőøúùũųüǔûŭůű\\
+áàãąäâăåéèęëěêĕíìĩįïîĭıóòõ{\addfontfeature{StylisticSet=20}ǫ}ö{\addfontfeature{StylisticSet=20}ǒ}ôǒőøúùũųü{\addfontfeature{StylisticSet=20}ǔ}ûŭůű\\
 ĆćÇçĎďĢģĜĝĞğĤĥĴĵĸŁłĽľÑñŇňŃńŊŋ\\
 ŘřŔŕŚśŠšŞşŤťŢţŴŵÝýŶŷŸÿŹźŻżŽž}\\
 \Huge \char"E001 \char"B6 \char"E002}\\
@@ -414,6 +419,6 @@ Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
 ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ\\
 αβγδεζηθικλμνξοπρστυφχψω
 \vfill
-\fontsize{12}{12}\scriptsize\textit{{\addfontfeature{RawFeature=+swsh}G}eorg Duffner | w{\addfontfeature{RawFeature=-calt}ww}.georgduffner.at/ebgaramond | g.duffner@gmail.com}
+\fontsize{12}{12}\scriptsize\textit{{\addfontfeature{RawFeature=+swsh}Georg Duffner} | www.georgduffner.at/ebgaramond | g.duffner@gmail.com}
 \end{center}
 \end{document}
