@@ -1138,8 +1138,6 @@ SplineSet
  319 356 308 374 294 378 c 0
 EndSplineSet
 Validated: 1
-Position2: "rtbd subtable" dx=0 dy=0 dh=-22 dv=0
-Position2: "lfbd subtable" dx=-22 dy=0 dh=-22 dv=0
 Substitution2: "Smallcaps subtable" v.sc
 Substitution2: "Single Substitution lookup 40 subtable" v.LATmedi
 Substitution2: "sups subtable" v.sups
@@ -1147,4 +1145,6 @@ Substitution2: "sinf subtable" v.sinf
 Substitution2: "ordn subtable" v.ordn
 Substitution2: "subs subtable" v.subs
 Substitution2: "loclLAT subtable" v.LAT
+Position2: "rtbd subtable" dx=0 dy=0 dh=-22 dv=0
+Position2: "lfbd subtable" dx=-22 dy=0 dh=-22 dv=0
 EndChar

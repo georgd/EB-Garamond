@@ -106,3 +106,11 @@ feature cv47 {
 #feature cv48 {
 #    lookup AE_alt;
 #} cv48;
+
+lookup salt {
+    sub [ uni019F uni0275 ] by [ uni019F.alt uni0275.alt ];
+} salt;
+
+feature salt {
+    lookup salt;
+} salt;

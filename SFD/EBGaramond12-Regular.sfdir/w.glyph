@@ -94,11 +94,11 @@ SplineSet
  647 372 627 342 614 312 c 26
 EndSplineSet
 Validated: 1
-Position2: "rtbd subtable" dx=0 dy=0 dh=-22 dv=0
-Position2: "lfbd subtable" dx=-22 dy=0 dh=-22 dv=0
 Substitution2: "Smallcaps subtable" w.sc
 Substitution2: "sups subtable" w.sups
 Substitution2: "sinf subtable" w.sinf
 Substitution2: "ordn subtable" w.ordn
 Substitution2: "subs subtable" w.subs
+Position2: "rtbd subtable" dx=0 dy=0 dh=-22 dv=0
+Position2: "lfbd subtable" dx=-22 dy=0 dh=-22 dv=0
 EndChar

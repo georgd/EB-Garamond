@@ -845,11 +845,11 @@ SplineSet
  238 -1 220 -2 220 8 c 0
 EndSplineSet
 Validated: 1
-Position2: "rtbd subtable" dx=0 dy=0 dh=-22 dv=0
-Position2: "lfbd subtable" dx=-22 dy=0 dh=-22 dv=0
 Substitution2: "Smallcaps subtable" x.sc
 Substitution2: "sups subtable" x.sups
 Substitution2: "sinf subtable" x.sinf
 Substitution2: "ordn subtable" x.ordn
 Substitution2: "subs subtable" x.subs
+Position2: "rtbd subtable" dx=0 dy=0 dh=-22 dv=0
+Position2: "lfbd subtable" dx=-22 dy=0 dh=-22 dv=0
 EndChar

@@ -2705,11 +2705,11 @@ SplineSet
  205 -14 45 130 45 320 c 4
 EndSplineSet
 Validated: 1
-Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
 Substitution2: "c2sc subtable" O.sc
 Substitution2: "sups subtable" O.sups
 Substitution2: "sinf subtable" O.sinf
 Substitution2: "ordn subtable" O.ordn
 Substitution2: "subs subtable" O.subs
+Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
+Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
 EndChar

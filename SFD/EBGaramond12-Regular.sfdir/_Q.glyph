@@ -6150,15 +6150,15 @@ SplineSet
  480 -136 440 -106 374 -54 c 0
 EndSplineSet
 Validated: 1
-Position2: "rtbd subtable" dx=0 dy=0 dh=-56 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
-Substitution2: "Single Substitution lookup 69 subtable" Q.low
-Substitution2: "Single Substitution lookup 68 subtable" Q.short
+Substitution2: "Single Substitution lookup 70 subtable" Q.low
+Substitution2: "Single Substitution lookup 69 subtable" Q.short
+Substitution2: "Single Substitution lookup 68 subtable" Q.long
 Substitution2: "Single Substitution lookup 67 subtable" Q.long
-Substitution2: "Single Substitution lookup 66 subtable" Q.long
 Substitution2: "c2sc subtable" Q.sc
 Substitution2: "sups subtable" Q.sups
 Substitution2: "sinf subtable" Q.sinf
 Substitution2: "ordn subtable" Q.ordn
 Substitution2: "subs subtable" Q.subs
+Position2: "rtbd subtable" dx=0 dy=0 dh=-56 dv=0
+Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
 EndChar
