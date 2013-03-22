@@ -25,7 +25,7 @@ lookup caltLAT {
 } caltLAT;
 
 feature calt {
-#    lookup Q_alts;
+    lookup Q_alts;
 #    lookup f_long;
     lookup caltLAT;
 } calt;
