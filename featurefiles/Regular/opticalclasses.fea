@@ -25,7 +25,7 @@
 @opt_F = [ F uni1E1E #
     uni03DC # Greek digamma
     ]; 
-@opt_G = [ G Gcircumflex Gbreve Gdotaccent Gcommaaccent uni01E4 Gcaron uni01F4 uni1E20 ]; 
+@opt_G = [ G Gcircumflex Gbreve Gdotaccent uni0122 uni01E4 Gcaron uni01F4 uni1E20 ]; 
 @opt_H = [ H Hcircumflex Hbar uni021E uni1E22 uni1E24 uni1E26 uni1E28 uni1E2A uni2C67 uniA726 #
     uni041D # cyrillic En
     uni040D uni040F uni0418 uni0419 uni041F uni0426 uni0428 uni0429 uni042B uni04E2 uni04E4 uni04F8 # other cyrillic
@@ -39,16 +39,16 @@
 @opt_J = [ J Jcircumflex uni0248 #
     uni0408 # cyrillic
     ]; 
-@opt_K = [ K Kcommaaccent uni01E8 uni1E30 uni1E32 uni1E34 uni2C69 uniA742 uni0198 #
+@opt_K = [ K uni0136 uni01E8 uni1E30 uni1E32 uni1E34 uni2C69 uniA742 uni0198 #
     uni041A uni040C # cyrillic
     Kappa # greek
     ]; 
-@opt_L = [ L Lacute Lcommaaccent Lcaron Ldot Lslash uni023D uni1E36 uni1E38 uni1E3A uni1E3C uni216C ]; 
+@opt_L = [ L Lacute uni013B Lcaron Ldot Lslash uni023D uni1E36 uni1E38 uni1E3A uni1E3C uni216C ]; 
 @opt_M = [ M uni1E3E uni1E40 uni1E42 uni216F uni2C6E # [Ḿ Ṁ Ṃ 
     uni041C # cyrillic
     Mu # greek
     ]; 
-@opt_N = [ N Ntilde Nacute Ncommaaccent Ncaron Eng uni01F8 uni1E44 uni1E46 uni1E48 uni1E4A #
+@opt_N = [ N Ntilde Nacute uni0145 Ncaron Eng uni01F8 uni1E44 uni1E46 uni1E48 uni1E4A #
     Nu # greek
     ]; 
 @opt_O = [ O Ograve Oacute Ocircumflex Otilde Odieresis Oslash Omacron Obreve Ohungarumlaut uni019F uni01D1 uni01EA uni01EC Oslashacute uni020C uni020E uni022A uni022C uni022E uni0230 uni0298 uni1E4C uni1E4E uni1E50 uni1E52 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 #
@@ -64,9 +64,9 @@
     Rho  # greek
     ]; 
 @opt_Q = [ Q ];
-@opt_R = [ R Racute Rcommaaccent Rcaron uni01A6 uni0210 uni0212 uni024C uni1E58  uni1E5A uni1E5C uni1E5E uni2C64 #
+@opt_R = [ R Racute uni0156 Rcaron uni01A6 uni0210 uni0212 uni024C uni1E58  uni1E5A uni1E5C uni1E5E uni2C64 #
     ]; 
-@opt_S = [ S Sacute Scircumflex Scedilla Scaron Scommaaccent uni1E60 uni1E62 uni1E64 uni1E66 uni1E68 #
+@opt_S = [ S Sacute Scircumflex Scedilla Scaron uni0218 uni1E60 uni1E62 uni1E64 uni1E66 uni1E68 #
     uni0405 # cyrillic
     ]; 
 @opt_T = [ T uni0162 Tcaron uni021A uni1E6A uni1E6C uni1E6E uni1E70 # Tbar?
@@ -107,7 +107,7 @@
     uni03F2 # greek lunate sigma
     ]; 
 @opt_d = [ d dcaron dcroat uni1E0B uni1E0D uni1E0F uni1E11 uni1E13  uni217E ]; 
-@opt_e = [ e egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron uni0205 uni0207 uni0229 uni0247 uni1E15 uni1E17 uni1E19 uni1E1B uni1E1D uni1EB9 uni1EBB etilde uni1EBF uni1EC1 uni1EC3 uni1EC5 uni1EC7 #
+@opt_e = [ e egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron uni0205 uni0207 uni0229 uni0247 uni1E15 uni1E17 uni1E19 uni1E1B uni1E1D uni1EB9 uni1EBB uni1EBD uni1EBF uni1EC1 uni1EC3 uni1EC5 uni1EC7 #
     uni0435 uni0450 uni0451 uni04D7 # cyrillic
     ]; 
 @opt_f = [ f uni1E1F #  
@@ -116,7 +116,7 @@
 @opt_fl = [ f_l f_f_l longs_l  longs_longs_l ]; 
 @opt_fi = [ f_i f_f_i longs_i  longs_longs_i ];
 @opt_fshort = [ f.short f_f.short uni1E1F.short ]; 
-@opt_g = [ g gcircumflex gbreve gdotaccent gcommaaccent uni01E5 uni01E7 uni01F5 uni1E21 ]; 
+@opt_g = [ g gcircumflex gbreve gdotaccent uni0123 uni01E5 uni01E7 uni01F5 uni1E21 ]; 
 @opt_h = [ h hcircumflex hbar uni021F uni0226 uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B  uni1E96 #
     h.01 hcircumflex.01 uni021F.01 uni1E23.01 uni1E27.01 #
     ]; 
@@ -128,21 +128,21 @@
     uni0456 uni0457 # cyrillic
     ]; 
 @opt_j = [ j jcircumflex uni01F0 uni0249 uni029D #
-    dotlessj uni025F uniF6BE #
+    uni0237 uni025F uniF6BE #
     j.dotless
     uni0458 # cyrillic
     ]; 
-@opt_k = [ k kcommaaccent uni0199 uni01E9 uni1E31 uni1E33 uni1E35 uni2C6A uniA743 #
+@opt_k = [ k uni0137 uni0199 uni01E9 uni1E31 uni1E33 uni1E35 uni2C6A uniA743 #
     k.01 uni01E9.01 uni1E31.01 #
     ]; 
-@opt_l = [ l lacute lcommaaccent lcaron lslash uni019A uni1E37 uni1E39 uni1E3B uni1E3D ];
+@opt_l = [ l lacute uni013C lcaron lslash uni019A uni1E37 uni1E39 uni1E3B uni1E3D ];
 @opt_m = [ m uni1E3F uni1E41 uni1E43 
     uni217F # roman numeral
     ]; 
-@opt_n = [ n ntilde nacute ncommaaccent ncaron uni01F9 uni1E45 uni1E47 uni1E49 uni1E4B  #
+@opt_n = [ n ntilde nacute uni0146 ncaron uni01F9 uni1E45 uni1E47 uni1E49 uni1E4B  #
     eng #
     ]; 
-@opt_o = [ o ograve oacute ocircumflex otilde odieresis oslash omacron obreve ohungarumlaut uni01D2 oogonek uni01ED uni020D uni020F uni022B uni022D uni022F uni0231 uni0275 uni1E4D uni1E4F uni1E51 uni1E53 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9 #
+@opt_o = [ o ograve oacute ocircumflex otilde odieresis oslash omacron obreve ohungarumlaut uni01D2 uni01EB uni01ED uni020D uni020F uni022B uni022D uni022F uni0231 uni0275 uni1E4D uni1E4F uni1E51 uni1E53 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9 #
     uni0238 uni0239 uni0277 uni0278 #
     uni043E uni0473 uni04E7 uni04E9 uni04EB # cyrillic
     uni0444 # cyrillic ef
@@ -159,8 +159,8 @@
 @opt_q = [ q uni01A3 #
     uni051B # cyrillic
     ];
-@opt_r = [ r racute rcommaaccent rcaron uni0211 uni0213 uni024D uni027E uni1E59 uni1E5B uni1E5D uni1E5F ]; 
-@opt_s = [ s sacute scircumflex scedilla scaron scommaaccent uni023F uni1E61 uni1E63 uni1E65 uni1E67 uni1E69  #
+@opt_r = [ r racute uni0157 rcaron uni0211 uni0213 uni024D uni027E uni1E59 uni1E5B uni1E5D uni1E5F ]; 
+@opt_s = [ s sacute scircumflex scedilla scaron uni0219 uni023F uni1E61 uni1E63 uni1E65 uni1E67 uni1E69  #
     uni0455 # cyrillic
     ];
 @opt_t = [ t uni0163 tcaron tbar uni021B uni0236 uni1E6B uni1E6D uni1E6F uni1E71 uni1E97 ]; 

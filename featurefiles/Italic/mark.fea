@@ -89,7 +89,7 @@ lookup \mark {
   pos base [\Z ] <anchor 315 700> mark @top_accent;
   pos base [\z ] <anchor 201 550> mark @top_accent;
   pos base [\dotlessi ] <anchor 218 550> mark @top_accent;
-  pos base [\dotlessj ] <anchor 100 550> mark @top_accent;
+  pos base [\uni0237 ] <anchor 100 550> mark @top_accent;
   pos base [\Alpha ] <anchor 174 630> mark @top_accent;
   pos base [\Epsilon ] <anchor -36 661> mark @top_accent;
   pos base [\Eta ] <anchor -44 648> mark @top_accent;

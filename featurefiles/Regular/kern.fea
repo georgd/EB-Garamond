@@ -2,7 +2,7 @@
 @first_A = [ A uni0245 ];
 @first_asc = [ A.sc a.sc ];
 @first_csc = [C.sc c.sc ];
-@first_E = [ E Eacute Egrave Edieresis Etilde Eogonek Ecircumflex Emacron Ebreve Edotaccent Ecaron uni0246 ];
+@first_E = [ E Eacute Egrave Edieresis uni1EBC Eogonek Ecircumflex Emacron Ebreve Edotaccent Ecaron uni0246 ];
 @first_F = [ F uni0191 ];
 @first_L = [ L ];
 @first_M = [ M ];
@@ -23,14 +23,14 @@
 @second_V = [ V W Y uni0194 uni01B3 uni024E ];
 @second_vsc = [ V.sc v.sc W.sc w.sc ];
 @second_b = [ b h k l thorn ];
-@second_o = [ a ae aogonek c ccedilla d e eogonek g o oogonek oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B ];
+@second_o = [ a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B ];
 @second_m = [ m n p r u uogonek z dotlessi uni01BF uni01B6 uni01BA uni021D uni024D ];
 @second_t = [ t ];
 @second_v = [ v w x y uni01B4 uni024F ];
 @second_i = [ i j agrave aacute adieresis atilde ];
 
 @second_HighAscAfter_longf = [b h-l
-	agrave acircumflex adieresis aring egrave edieresis igrave iacute icircumflex idieresis eth ograve ugrave thorn germandbls abreve ccaron ebreve ecaron gbreve gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex kcommaaccent lacute lcommaaccent lcaron ldot lslash ncaron obreve rcaron scircumflex scaron ubreve ydieresis zcaron longs
+	agrave acircumflex adieresis aring egrave edieresis igrave iacute icircumflex idieresis eth ograve ugrave thorn germandbls abreve ccaron ebreve ecaron gbreve uni0123 hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex uni0137 lacute uni013C lcaron ldot lslash ncaron obreve rcaron scircumflex scaron ubreve ydieresis zcaron longs
 	uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F
 	uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED uni1EF3 uni1EF7 uni1EFB
  	i.TRK

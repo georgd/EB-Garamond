@@ -5,7 +5,7 @@
 @LeftKern_O = [ O Ohorn Q ];
 @LeftKern_V = [ V W Y ];
 @LeftKern_b = [ b h k l thorn ];
-@LeftKern_o = [ a ae aogonek c ccedilla d e eogonek e_s g o oogonek oe q s scedilla eth ];
+@LeftKern_o = [ a ae aogonek c ccedilla d e eogonek e_s g o uni01EB oe q s scedilla eth ];
 @LeftKern_m = [ m n p r u uogonek z dotlessi ];
 @LeftKern_t = [ t ];
 @LeftKern_v = [ v w x y ];
@@ -14,7 +14,7 @@
 
 @RightKern_A = [ A ];
 @RightKern_asc = [ A.sc a.sc ];
-@RightKern_E = [ E Eacute Egrave Edieresis Etilde Eogonek Ecircumflex Emacron Ebreve Edotaccent Ecaron ];
+@RightKern_E = [ E Eacute Egrave Edieresis uni1EBC Eogonek Ecircumflex Emacron Ebreve Edotaccent Ecaron ];
 @RightKern_F = [ F ];
 @RightKern_L = [ L ];
 @RightKern_M = [ M ];

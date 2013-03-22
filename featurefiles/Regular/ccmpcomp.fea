@@ -132,7 +132,7 @@ lookup CCMP_Precomp {
     sub uni1E5B by r dotbelowcomb ;
     sub uni1E5C by R dotbelowcomb.cap uni0304.cap ;
     sub uni1E5D by r dotbelowcomb uni0304 ;
-    sub ncommaaccent by n uni0326 ;
+    sub uni0146 by n uni0326 ;
     sub uni1E5F by r uni0331 ;
     sub aeacute by ae acutecomb ;
     sub uni1ED3 by o uni0302.stack gravecomb.stack ;
@@ -156,7 +156,7 @@ lookup CCMP_Precomp {
     sub wacute by w acutecomb ;
     sub Itilde by I tildecomb.cap ;
     sub Wgrave by W gravecomb.cap ;
-    sub Rcommaaccent by R uni0326 ;
+    sub uni0156 by R uni0326 ;
     sub Ydieresis by Y uni0308.cap ;
     sub Aogonek by A uni0328.cap ;
     sub tcaron by t uni030C.alt ;
@@ -181,7 +181,7 @@ lookup CCMP_Precomp {
     sub uni020A by I uni0311.cap ;
     sub zdotaccent by z uni0307 ;
     sub hcircumflex by h uni0302.flat ;
-    sub Scommaaccent by S uni0326 ;
+    sub uni0218 by S uni0326 ;
     sub ntilde by n tildecomb ;
     sub uni1E6E by T uni0331.cap ;
     sub uni1E6D by t dotbelowcomb ;
@@ -346,7 +346,7 @@ lookup CCMP_Precomp {
     sub uni1E02 by B uni0307.cap ;
     sub uni1E01 by a uni0325 ;
     sub uni1E00 by A uni0325.cap ;
-    sub rcommaaccent by r uni0326 ;
+    sub uni0157 by r uni0326 ;
     sub Omegatonos by uni03A9 acutecomb.grk ;
     sub Edieresis by E uni0308.cap ;
     sub uni1E7B by u uni0304.stack uni0308 ;
@@ -422,12 +422,12 @@ lookup CCMP_Precomp {
     sub uni1FB1 by alpha uni0304 ;
     sub Yacute by Y acutecomb.cap ;
     sub obreve by o uni0306 ;
-    sub kcommaaccent by k uni0326 ;
+    sub uni0137 by k uni0326 ;
     sub uni1FBF by space.stack uni0313 ;
     sub uni1FBB by Alpha acutecomb.grk ;
     sub uni1FBC by Alpha uni0345.cap ;
     sub uni1FBA by Alpha gravecomb.grk ;
-    sub Kcommaaccent by K uni0326 ;
+    sub uni0136 by K uni0326 ;
     sub uni022A by O uni0308.cap uni0304.cap ;
     sub uni022C by O tildecomb.cap uni0304.cap ;
     sub uni022B by o uni0308 uni0304.stack ;
@@ -440,7 +440,7 @@ lookup CCMP_Precomp {
     sub uni1F99 by Eta uni0345.cap uni0314 ;
     sub Icircumflex by I uni0302.cap ;
     sub Gcaron by G uni030C.cap ;
-    sub gcommaaccent by g uni0312 ;
+    sub uni0123 by g uni0312 ;
     sub ebreve by e uni0306 ;
     sub uni0229 by e uni0327 ;
     sub Uhungarumlaut by U uni030B.cap ;
@@ -537,7 +537,7 @@ lookup CCMP_Precomp {
     sub uni1F09 by Alpha uni0314 ;
     sub Ecaron by E uni030C.cap ;
     sub Lcaron by L uni030C.alt ;
-    sub Ncommaaccent by N uni0326 ;
+    sub uni0145 by N uni0326 ;
     sub uni0344 by uni0308.grkstack acutecomb.grk ;
     sub uni1FD8 by Iota uni0306.cap ;
     sub uni1FD9 by Iota uni0304.cap ;
@@ -569,7 +569,7 @@ lookup CCMP_Precomp {
     sub uni1E26 by H uni0308.cap ;
     sub Jcircumflex by J uni0302.cap ;
     sub Ccedilla by C uni0327.cap ;
-    sub lcommaaccent by l uni0326 ;
+    sub uni013C by l uni0326 ;
     sub omegatonos by omega acutecomb.grk ;
     sub Ucircumflex by U uni0302.cap ;
     sub uni1F28 by Eta uni0313 ;
@@ -621,7 +621,7 @@ lookup CCMP_Precomp {
     sub sacute by s acutecomb ;
     sub Aringacute by A uni030A.cap acutecomb.flat ;
     sub Tcaron by T uni030C.cap ;
-    sub Lcommaaccent by L uni0326 ;
+    sub uni013B by L uni0326 ;
     sub uni1EE2 by Ohorn dotbelowcomb.cap ;
     sub uni1F14 by epsilon uni0313.grk acutecomb.grkstack ;
     sub uni1EE4 by U dotbelowcomb.cap ;
@@ -711,10 +711,10 @@ lookup CCMP_Precomp {
     sub uni1E49 by n uni0331 ;
     sub uni1E5E by R uni0331.cap ;
     sub scedilla by s uni0327 ;
-    sub scommaaccent by s uni0326 ;
+    sub uni0219 by s uni0326 ;
     sub Uring by U uni030A.cap ;
     sub Ibreve by I uni0306.cap ;
-    sub Gcommaaccent by G uni0326 ;
+    sub uni0122 by G uni0326 ;
     sub uogonek by u uni0328 ;
     sub Ccircumflex by C uni0302.cap ;
     sub Omacron by O uni0304.cap ;

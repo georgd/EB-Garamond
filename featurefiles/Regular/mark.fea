@@ -190,7 +190,7 @@ lookup mark {
   pos base [\Aogonek ] <anchor 363 700> mark @top_accent;
   pos base [\Ohorn \uni01EA ] <anchor 383 700> mark @top_accent;
   pos base [\Uhorn ] <anchor 390 700> mark @top_accent;
-  pos base [\dotlessj \j.dotless ] <anchor 100 550> mark @top_accent;
+  pos base [\uni0237 \j.dotless ] <anchor 100 550> mark @top_accent;
   pos base [\Upsilon1 ] <anchor 365 704> mark @top_accent;
   pos base [\uni0435 ] <anchor 219 550> mark @top_accent;
   pos base [\uni0443 ] <anchor 223 550> mark @top_accent;
@@ -365,7 +365,7 @@ lookup mark {
   pos base [\O.sc \o.sc ] <anchor 403 18> mark @ogonek;
   pos base [\U.sc \u.sc ] <anchor 380 18> mark @ogonek;
   pos base [\Y.sc \y.sc ] <anchor 286 18> mark @ogonek;
-  pos base [\uni0254 \uni0259 \uni01dd ] <anchor 246 18> mark @ogonek;
+  pos base [\uni0254 \uni0259 \uni01DD ] <anchor 246 18> mark @ogonek;
   pos base [\uni025B ] <anchor 230 18> mark @ogonek;
   pos base [\uni018F ] <anchor 400 18> mark @ogonek;
   pos base [\uni0186 ] <anchor 392 18> mark @ogonek;
@@ -410,7 +410,7 @@ lookup mark {
   pos base [\T.sc \t.sc ] <anchor 290 18> mark @cedilla;
   pos base [\U.sc \u.sc ] <anchor 338 8> mark @cedilla;
   pos base [\Z.sc \z.sc ] <anchor 288 8> mark @cedilla;
-  pos base [\uni0254 \uni0259 \uni01dd ] <anchor 220 8> mark @cedilla;
+  pos base [\uni0254 \uni0259 \uni01DD ] <anchor 220 8> mark @cedilla;
   pos base [\uni025B ] <anchor 198 8> mark @cedilla;
   pos base [\uni018F ] <anchor 314 8> mark @cedilla;
   pos base [\uni0190 ] <anchor 297 8> mark @cedilla;
