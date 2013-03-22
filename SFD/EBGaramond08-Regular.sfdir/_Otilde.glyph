@@ -1,13 +1,12 @@
 StartChar: Otilde
 Encoding: 213 213 132
-Width: 670
+Width: 713
 VWidth: 982
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 705 -1 N 1 0 0 1 204 -35 2
+Refer: 705 -1 N 1 0 0 1 220 -35 2
 Refer: 47 79 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "c2sc subtable" Otilde.sc
 MultipleSubs2: "CCMP_Precomp subtable" O tildecomb.cap
 EndChar

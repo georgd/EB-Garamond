@@ -2,7 +2,7 @@ StartChar: uni030F
 Encoding: 783 783 683
 Width: 0
 Flags: MW
-AnchorPoint: "top_accent" 184 596 mark 0
+AnchorPoint: "top_accent" 190 596 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21,6 +21,5 @@ SplineSet
  165 494 165 490 156 490 c 0
  148 490 134 503 126 512 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni030F.cap
 EndChar

@@ -1,27 +1,26 @@
 StartChar: O
 Encoding: 79 79 47
-Width: 670
+Width: 713
 VWidth: 982
-Flags: MW
-AnchorPoint: "top_accent" 346 670 basechar 0
-AnchorPoint: "below_accent" 354 -80 basechar 0
-AnchorPoint: "ogonek" 433 15 basechar 0
-AnchorPoint: "cedilla" 375 15 basechar 0
+Flags: HMW
+AnchorPoint: "top_accent" 362 670 basechar 0
+AnchorPoint: "below_accent" 370 -80 basechar 0
+AnchorPoint: "ogonek" 449 15 basechar 0
+AnchorPoint: "cedilla" 391 15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-374 598 m 0
- 510 598 647 456 647 310 c 0
- 647 139 521 -12 350 -12 c 0
- 171 -12 34 113 34 295 c 0
- 34 484 176 598 374 598 c 0
-146 330 m 0
- 146 191 225 34 364 34 c 0
- 483 34 535 161 535 280 c 0
- 535 410 466 552 336 552 c 0
- 226 552 146 440 146 330 c 0
+390 598 m 0
+ 526 598 663 456 663 310 c 0
+ 663 139 537 -12 366 -12 c 0
+ 187 -12 50 113 50 295 c 0
+ 50 484 192 598 390 598 c 0
+162 330 m 0
+ 162 191 241 34 380 34 c 0
+ 499 34 551 161 551 280 c 0
+ 551 410 482 552 352 552 c 0
+ 242 552 162 440 162 330 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "c2sc subtable" O.sc
 Substitution2: "sups subtable" O.sups
 Substitution2: "sinf subtable" O.sinf

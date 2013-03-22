@@ -1,13 +1,12 @@
 StartChar: Omacron
 Encoding: 332 332 330
-Width: 670
+Width: 713
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 709 -1 N 1 0 0 1 192 -35 2
+Refer: 709 -1 N 1 0 0 1 208 -35 2
 Refer: 47 79 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "c2sc subtable" Omacron.sc
 MultipleSubs2: "CCMP_Precomp subtable" O uni0304.cap
 EndChar

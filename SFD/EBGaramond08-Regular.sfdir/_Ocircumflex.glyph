@@ -1,13 +1,12 @@
 StartChar: Ocircumflex
 Encoding: 212 212 131
-Width: 670
+Width: 713
 VWidth: 982
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 702 -1 N 1 0 0 1 195 -35 2
+Refer: 702 -1 N 1 0 0 1 211 -35 2
 Refer: 47 79 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "c2sc subtable" Ocircumflex.sc
 MultipleSubs2: "CCMP_Precomp subtable" O uni0302.cap
 EndChar

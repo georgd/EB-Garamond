@@ -21,6 +21,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "Smallcaps subtable" uni030C.sc
+Substitution2: "Single Substitution lookup 16 subtable" uni030C.stack
+Substitution2: "Single Substitution lookup 14 subtable" uni030C.stack
+Substitution2: "Single Substitution lookup 12 subtable" uni030C.flat
 Substitution2: "Single Substitution lookup 11 subtable" uni030C.alt
 Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni030C.cap
 EndChar

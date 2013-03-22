@@ -1,43 +1,42 @@
 StartChar: Oslash
 Encoding: 216 216 135
-Width: 670
+Width: 713
 VWidth: 982
-Flags: MW
-AnchorPoint: "top_accent" 346 670 basechar 0
-AnchorPoint: "below_accent" 308 -80 basechar 0
-AnchorPoint: "ogonek" 394 15 basechar 0
-AnchorPoint: "cedilla" 130 15 basechar 0
+Flags: HMW
+AnchorPoint: "top_accent" 362 670 basechar 0
+AnchorPoint: "below_accent" 324 -80 basechar 0
+AnchorPoint: "ogonek" 410 15 basechar 0
+AnchorPoint: "cedilla" 146 15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-546 524 m 1
- 582 560 l 2
- 611 589 622 598 636 598 c 0
- 647 598 647 593 647 583 c 0
- 647 573 641 563 634 556 c 2
- 573 496 l 1
- 618 444 647 377 647 310 c 0
- 647 139 521 -12 350 -12 c 0
- 265 -12 190 16 134 65 c 1
- 87 18 l 2
- 73 4 59 -12 47 -12 c 0
- 38 -12 34 -8 34 1 c 0
- 34 11 39 27 53 40 c 2
- 106 93 l 1
- 60 145 34 214 34 295 c 0
- 34 484 176 598 374 598 c 0
- 435 598 497 569 546 524 c 1
-182 167 m 1
- 485 464 l 1
- 451 516 401 552 336 552 c 0
- 226 552 146 440 146 330 c 0
- 146 275 158 217 182 167 c 1
-202 131 m 1
- 239 74 294 34 364 34 c 0
- 483 34 535 161 535 280 c 0
- 535 331 524 383 504 428 c 1
- 202 131 l 1
+562 524 m 1
+ 598 560 l 2
+ 627 589 638 598 652 598 c 0
+ 663 598 663 593 663 583 c 0
+ 663 573 657 563 650 556 c 2
+ 589 496 l 1
+ 634 444 663 377 663 310 c 0
+ 663 139 537 -12 366 -12 c 0
+ 281 -12 206 16 150 65 c 1
+ 103 18 l 2
+ 89 4 75 -12 63 -12 c 0
+ 54 -12 50 -8 50 1 c 0
+ 50 11 55 27 69 40 c 2
+ 122 93 l 1
+ 76 145 50 214 50 295 c 0
+ 50 484 192 598 390 598 c 0
+ 451 598 513 569 562 524 c 1
+198 167 m 1
+ 501 464 l 1
+ 467 516 417 552 352 552 c 0
+ 242 552 162 440 162 330 c 0
+ 162 275 174 217 198 167 c 1
+218 131 m 1
+ 255 74 310 34 380 34 c 0
+ 499 34 551 161 551 280 c 0
+ 551 331 540 383 520 428 c 1
+ 218 131 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "c2sc subtable" Oslash.sc
 EndChar
