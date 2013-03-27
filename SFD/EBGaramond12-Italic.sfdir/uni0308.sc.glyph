@@ -4,9 +4,9 @@ Width: 271
 VWidth: 0
 Flags: MW
 AnchorPoint: "top_stack" 148 474 mark 0
-AnchorPoint: "top_stack" 148 636 basemark 0
-AnchorPoint: "gravestack" 143 570 basemark 0
 AnchorPoint: "acutestack" 152 570 basemark 0
+AnchorPoint: "gravestack" 143 570 basemark 0
+AnchorPoint: "top_stack" 148 636 basemark 0
 AnchorPoint: "top_accent" 127 550 mark 0
 LayerCount: 2
 Fore
@@ -22,5 +22,5 @@ SplineSet
  25 524 10 543 10 563 c 8
  10 595 34 624 66 624 c 16
 EndSplineSet
-Validated: 1
+Validated: 1048577
 EndChar

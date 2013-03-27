@@ -2,9 +2,9 @@ StartChar: uni045B
 Encoding: 1115 1115 1958
 Width: 508
 Flags: MW
-AnchorPoint: "top_accent" 288 812 basechar 0
-AnchorPoint: "below_accent" 201 -100 basechar 0
 AnchorPoint: "cedilla" 67 8 basechar 0
+AnchorPoint: "below_accent" 201 -100 basechar 0
+AnchorPoint: "top_accent" 288 812 basechar 0
 LayerCount: 2
 Fore
 SplineSet

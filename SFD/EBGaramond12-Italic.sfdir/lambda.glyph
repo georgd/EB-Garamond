@@ -1,8 +1,8 @@
 StartChar: lambda
 Encoding: 955 955 2172
-Width: 548
+Width: 571
 VWidth: 2048
-Flags: MW
+Flags: MWO
 LayerCount: 2
 Back
 Image: 488 250 2 1464 0 ffffffff -1298 1085.5 6.06876 6.11 0
@@ -6130,6 +6130,5 @@ SplineSet
  469 123 502 77 518 77 c 0
  560 77 571 56 571 35 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" lambda.sc
 EndChar

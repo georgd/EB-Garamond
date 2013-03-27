@@ -2,8 +2,8 @@ StartChar: uniFB06
 Encoding: 64262 64262 964
 Width: 579
 Flags: MW
-AnchorPoint: "below_accent" 167 -100 basechar 0
 AnchorPoint: "cedilla" 114 8 basechar 0
+AnchorPoint: "below_accent" 167 -100 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -118,6 +118,6 @@ SplineSet
  105 343 174 396 218 410 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'hlig' Historic Ligatures lookup 51 subtable" s t
+Ligature2: "'hlig' Historic Ligatures lookup 52 subtable" s t
 LCarets2: 1 284 
 EndChar

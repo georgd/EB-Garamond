@@ -3,10 +3,10 @@ Encoding: 66378 -1 2075
 Width: 0
 Flags: MW
 AnchorPoint: "top_stack" 151 685 mark 0
-AnchorPoint: "top_stack" 187 830 basemark 0
-AnchorPoint: "gravestack" 53 758 basemark 0
-AnchorPoint: "acutestack" 277 758 basemark 0
 AnchorPoint: "hookstack" 285 775 basemark 0
+AnchorPoint: "acutestack" 277 758 basemark 0
+AnchorPoint: "gravestack" 53 758 basemark 0
+AnchorPoint: "top_stack" 187 830 basemark 0
 AnchorPoint: "top_accent" 161 710 mark 0
 LayerCount: 2
 Fore
@@ -24,6 +24,6 @@ SplineSet
  183 751 173 748 163 744 c 0
  136 733 33 689 20 689 c 0
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Substitution2: "c2sc subtable" uni0302.sc
 EndChar

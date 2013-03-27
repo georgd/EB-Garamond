@@ -4,6 +4,7 @@ Width: 0
 VWidth: 0
 Flags: HMW
 AnchorPoint: "top_accent" 66 550 mark 0
+AnchorPoint: "grk_uc_top_left" 82 665 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19,6 +20,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "Smallcaps subtable" uni0313.sc
-Substitution2: "Single Substitution lookup 19 subtable" uni0313.grkstack
-Substitution2: "Single Substitution lookup 18 subtable" uni0313.grk
+Substitution2: "Single Substitution lookup 20 subtable" uni0313.grkstack
+Substitution2: "Single Substitution lookup 19 subtable" uni0313.grk
 EndChar

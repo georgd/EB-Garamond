@@ -1,105 +1,91 @@
-## Latin ##
-
-@LeftKern_A = [ A ];
-@LeftKern_asc = [ A.sc a.sc ];
-@LeftKern_O = [ O Ohorn Q ];
-@LeftKern_V = [ V W Y ];
-@LeftKern_b = [ b h k l thorn ];
-@LeftKern_o = [ a ae aogonek c ccedilla d e eogonek e_s g o uni01EB oe q s scedilla eth ];
-@LeftKern_m = [ m n p r u uogonek z dotlessi ];
-@LeftKern_t = [ t ];
-@LeftKern_v = [ v w x y ];
-@LeftKern_vsc = [ V.sc v.sc W.sc w.sc ];
-@LeftKern_i = [ i j agrave aacute adieresis atilde ];
-
-@RightKern_A = [ A ];
-@RightKern_asc = [ A.sc a.sc ];
-@RightKern_E = [ E Eacute Egrave Edieresis uni1EBC Eogonek Ecircumflex Emacron Ebreve Edotaccent Ecaron ];
-@RightKern_F = [ F ];
-@RightKern_L = [ L ];
-@RightKern_M = [ M ];
-@RightKern_O = [ O ];
-@RightKern_T = [ T ];
-@RightKern_V = [ V W Y ];
-@RightKern_m = [ h m n ];
-@RightKern_o = [ ae b c e o oe p thorn ];
-@RightKern_v = [ v w y ];
-@RightKern_vsc = [ V.sc v.sc W.sc w.sc ];
-
-## Cyrillic ##
-
-@LeftKern_ie = [ uni0430 uni0435 uni0437 uni043E uni0441 uni044D uni044F uni0454 uni0455 uni04E9 ];
-@LeftKern_en = [ uni0432 uni0433 uni0438 uni043A uni043C uni043D uni043F uni0446 uni0448 uni0449 uni044B uni044C uni044E uni045A uni045F uni0434.alt uni043B.alt uni0459.alt ];
-@LeftKern_de = [ uni0434 uni043B uni0459 ];
-@LeftKern_te = [ uni0442 uni044A ];
-@LeftKern_cyr_u = [ uni0443 ];
-@LeftKern_zhe = [ uni0436 uni0445 ];
-@LeftKern_ef = [ uni0444 ];
-@LeftKern_che = [ uni0447 ];
-
-@RightKern_Ghe = [ uni0413 uni0490 ];
-@RightKern_Te = [uni0422 ];
-@RightKern_de = [ uni0434 uni043B ];
-@RightKern_en = [ uni0438 uni043C uni043D uni043F uni0446 uni0447 uni0448 uni0449 uni044B uni044F uni045F uni0434.alt uni043B.alt ];
-
+####  Latin  ####
 
 lookup kern {
-    pos @RightKern_m @LeftKern_v -16;
-#    pos s o 20;
-#    pos s a 12;
-#    pos s e 48;
-    pos @RightKern_v @LeftKern_A -50;
-    pos @RightKern_v @LeftKern_o -10;
-    pos @RightKern_A @LeftKern_v -70;
-    pos @RightKern_A @LeftKern_O -50;
-    pos @RightKern_A @LeftKern_V -150;
-    pos @RightKern_asc @LeftKern_vsc -75;
-    pos @RightKern_E @LeftKern_m -10;
-    pos @RightKern_E @LeftKern_o -25;
-    pos @RightKern_E @LeftKern_v -30;
-    pos @RightKern_E @LeftKern_t -20;
-    pos @RightKern_F @LeftKern_m -40;
-    pos @RightKern_F @LeftKern_o -30;
-    pos @RightKern_F @LeftKern_v -30;
-    pos @RightKern_F @LeftKern_t -20;
-    pos @RightKern_L @LeftKern_v -50;
-    pos @RightKern_M @LeftKern_m -10;
-    pos @RightKern_M @LeftKern_t -40;
-    pos @RightKern_M @LeftKern_v -40;
-    pos @RightKern_M @LeftKern_o -20;
-    pos @RightKern_T @LeftKern_m -120;
-    pos @RightKern_T @LeftKern_o -135;
-    pos @RightKern_T @LeftKern_v -100;
-    pos @RightKern_T @LeftKern_t -100;
-    pos @RightKern_V @LeftKern_A -150;
-    pos @RightKern_vsc @LeftKern_asc -75;
-    pos @RightKern_V @LeftKern_o -200;
-    pos @RightKern_V @LeftKern_t -180;
-    pos @RightKern_O @LeftKern_A -95;
-    pos @RightKern_O @LeftKern_o -10;
-#    pos @RightKern_o @LeftKern_v -8;
+  lookupflag 0;
+    @first_A = [\A ];
+    @first_asc = [\A.sc \a.sc ];
+    @first_E = [\E \Eacute \Ebreve \Ecaron \Ecircumflex \Edieresis \Edotaccent \Egrave \Emacron 
+	\Eogonek \uni1EBC ];
+    @first_F = [\F ];
+    @first_L = [\L ];
+    @first_M = [\M ];
+    @first_O = [\O ];
+    @first_T = [\T ];
+    @first_V = [\V \W \Y ];
+    @first_vsc = [\V.sc \W.sc \v.sc \w.sc ];
+    @first_h = [\h \m \n ];
+    @first_v = [\v \w \y ];
+    
+    @second_A = [\A ];
+    @second_asc = [\A.sc \a.sc ];
+    @second_O = [\O \Ohorn \Q ];
+    @second_V = [\V \W \Y ];
+    @second_vsc = [\V.sc \W.sc \v.sc \w.sc ];
+    @second_a = [\a \ae \aogonek \c \ccedilla \d \e \e_s \eogonek \eth \g \o \oe \uni01EB \q \s \scedilla ];
+    @second_m = [\dotlessi \m \n \p \r \u \uogonek \z ];
+    @second_t = [\t ];
+    @second_v = [\v \w \x \y ];
 
-## Cyrillic
-    pos @RightKern_Ghe @LeftKern_ie -130;
-    pos @RightKern_Ghe @LeftKern_de -140;
-    pos @RightKern_Ghe @LeftKern_en -100;
-    pos @RightKern_Ghe @LeftKern_te -130;
-    pos @RightKern_Ghe @LeftKern_cyr_u -115;
-    pos @RightKern_Ghe @LeftKern_zhe -105;
-    pos @RightKern_Ghe @LeftKern_ef -70;
-    pos @RightKern_Ghe @LeftKern_che -115;
-
-    pos @RightKern_Te @LeftKern_ie -125;
-    pos @RightKern_Te @LeftKern_de -135;
-    pos @RightKern_Te @LeftKern_en -95;
-    pos @RightKern_Te @LeftKern_te -130;
-    pos @RightKern_Te @LeftKern_cyr_u -110;
-    pos @RightKern_Te @LeftKern_zhe -100;
-    pos @RightKern_Te @LeftKern_ef -65;
-    pos @RightKern_Te @LeftKern_che -110;
-
+####  Cyrillic  ####
+    @first_Ghe = [\uni0413 \uni0490 ];
+    @first_Te = [\uni0422 ];
+    @second_ie = [\uni0430 \uni0435 \uni0437 \uni043E \uni0441 \uni044D \uni044F \uni0454 \uni0455 \uni04E9 ];
+    @second_en = [\uni0432 \uni0433 \uni0434.alt \uni0438 \uni043A \uni043B.alt \uni043C \uni043D \uni043F \uni0446 \uni0448 \uni0449 \uni044B \uni044C \uni044E \uni0459.alt \uni045A \uni045F ];
+    @second_de = [\uni0434 \uni043B \uni0459 ];
+    @second_zhe = [\uni0436 \uni0445 ];
+    @second_te = [\uni0442 \uni044A ];
+    @second_cyr_u = [\uni0443 ];
+    @second_ef = [\uni0444 ];
+    @second_che = [\uni0447 ];
+        
+    pos @first_A @second_O -50;
+    pos @first_A @second_V -150;
+    pos @first_A @second_v -70;
+    pos @first_asc @second_vsc -75;
+    pos @first_E @second_a -25;
+    pos @first_E @second_m -10;
+    pos @first_E @second_t -20;
+    pos @first_E @second_v -30;
+    pos @first_F @second_a -30;
+    pos @first_F @second_m -40;
+    pos @first_F @second_t -20;
+    pos @first_F @second_v -30;
+    pos @first_L @second_v -50;
+    pos @first_M @second_a -20;
+    pos @first_M @second_m -10;
+    pos @first_M @second_t -40;
+    pos @first_M @second_v -40;
+    pos @first_O @second_A -95;
+    pos @first_O @second_a -10;
+    pos @first_T @second_a -135;
+    pos @first_T @second_m -120;
+    pos @first_T @second_t -100;
+    pos @first_T @second_v -100;
+    pos @first_V @second_A -150;
+    pos @first_V @second_a -200;
+    pos @first_V @second_t -180;
+    pos @first_vsc @second_asc -75;
+    pos @first_h @second_v -16;
+    pos @first_Ghe @second_ie -130;
+    pos @first_Ghe @second_en -100;
+    pos @first_Ghe @second_de -140;
+    pos @first_Ghe @second_zhe -105;
+    pos @first_Ghe @second_te -130;
+    pos @first_Ghe @second_cyr_u -115;
+    pos @first_Ghe @second_ef -70;
+    pos @first_Ghe @second_che -115;
+    pos @first_Te @second_ie -125;
+    pos @first_Te @second_en -95;
+    pos @first_Te @second_de -135;
+    pos @first_Te @second_zhe -100;
+    pos @first_Te @second_te -130;
+    pos @first_Te @second_cyr_u -110;
+    pos @first_Te @second_ef -65;
+    pos @first_Te @second_che -110;
+    pos @first_v @second_A -50;
+    pos @first_v @second_a -10;
 } kern;
 
 feature kern {
-      lookup kern;
+    lookup kern;
 } kern;

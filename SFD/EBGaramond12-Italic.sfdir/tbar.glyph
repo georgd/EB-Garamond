@@ -2,10 +2,10 @@ StartChar: tbar
 Encoding: 359 359 999
 Width: 285
 Flags: MW
-AnchorPoint: "top_accent" 277 594 basechar 0
-AnchorPoint: "below_accent" 52 -100 basechar 0
-AnchorPoint: "cedilla" 139 8 basechar 0
 AnchorPoint: "top_right" 397 634 basechar 0
+AnchorPoint: "cedilla" 139 8 basechar 0
+AnchorPoint: "below_accent" 52 -100 basechar 0
+AnchorPoint: "top_accent" 277 594 basechar 0
 LayerCount: 2
 Fore
 SplineSet

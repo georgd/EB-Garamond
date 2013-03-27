@@ -1,23 +1,25 @@
 StartChar: uni0314
 Encoding: 788 788 127
-Width: 199
+Width: 0
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_accent" 107 550 mark 0
+AnchorPoint: "grk_uc_top_left" 84 665 mark 0
 LayerCount: 2
 Fore
 SplineSet
-295 568 m 0
- 276 568 243 540 236 518 c 0
- 227 488 242 456 279 447 c 0
- 297 443 289 426 267 426 c 0
- 220 426 176 479 197 549 c 0
- 214 605 274 646 319 646 c 0
- 346 646 356 626 351 610 c 0
- 344 588 322 568 295 568 c 0
+11 514 m 0
+ 11 590 85 646 138 646 c 0
+ 161 646 171 632 171 618 c 0
+ 171 590.302967602 141 568 114 568 c 0
+ 90 568 52 533 52 501 c 0
+ 52 477 68 454 98 447 c 0
+ 105 445 108 442 108 438 c 0
+ 108 432 100 426 86 426 c 0
+ 47 426 11 462 11 514 c 0
 EndSplineSet
-Validated: 33
+Validated: 524289
 Substitution2: "Smallcaps subtable" uni0314.sc
-Substitution2: "Single Substitution lookup 19 subtable" uni0314.grkstack
-Substitution2: "Single Substitution lookup 18 subtable" uni0314.grk
+Substitution2: "Single Substitution lookup 20 subtable" uni0314.grkstack
+Substitution2: "Single Substitution lookup 19 subtable" uni0314.grk
 EndChar

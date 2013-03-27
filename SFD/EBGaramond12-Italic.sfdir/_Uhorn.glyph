@@ -3,10 +3,10 @@ Encoding: 431 431 290
 Width: 737
 VWidth: 0
 Flags: MW
-AnchorPoint: "top_accent" 544 710 basechar 0
-AnchorPoint: "below_accent" 355 -100 basechar 0
-AnchorPoint: "ogonek" 475 18 basechar 0
 AnchorPoint: "cedilla" 397 8 basechar 0
+AnchorPoint: "ogonek" 475 18 basechar 0
+AnchorPoint: "below_accent" 355 -100 basechar 0
+AnchorPoint: "top_accent" 544 710 basechar 0
 LayerCount: 2
 Fore
 SplineSet

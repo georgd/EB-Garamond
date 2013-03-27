@@ -5,6 +5,7 @@ Flags: MW
 AnchorPoint: "top_stack" 155 706 mark 0
 AnchorPoint: "top_stack" 155 819 basemark 0
 AnchorPoint: "top_accent" 133 710 mark 0
+AnchorPoint: "grk_uc_top" 165 720 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16,6 +17,6 @@ SplineSet
  12 723 5 729 5 735 c 0
  5 744 10 772 29 772 c 2
 EndSplineSet
-Validated: 1
+Validated: 1048577
 Substitution2: "c2sc subtable" uni0304.sc
 EndChar

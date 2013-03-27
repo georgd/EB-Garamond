@@ -5,6 +5,7 @@ VWidth: 0
 Flags: MW
 AnchorPoint: "grk_hstack" 130 640 basemark 0
 AnchorPoint: "top_accent" 66 550 mark 0
+AnchorPoint: "grk_uc_top_left" 202 630 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18,6 +19,6 @@ SplineSet
  226 456 257 488 269 518 c 0
  278 540 270 566 241 568 c 0
 EndSplineSet
-Validated: 33
+Validated: 1048609
 Substitution2: "Smallcaps subtable" uni0313.grksc
 EndChar

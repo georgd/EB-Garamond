@@ -2,8 +2,8 @@ StartChar: s_p
 Encoding: 66426 -1 2157
 Width: 734
 Flags: MW
-AnchorPoint: "top_accent" 616 550 basechar 0
 AnchorPoint: "cedilla" 114 8 basechar 0
+AnchorPoint: "top_accent" 616 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -69,6 +69,6 @@ SplineSet
  475 487 511 615 511 615 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'hlig' Historic Ligatures lookup 51 subtable" s p
+Ligature2: "'hlig' Historic Ligatures lookup 52 subtable" s p
 LCarets2: 1 237 
 EndChar
