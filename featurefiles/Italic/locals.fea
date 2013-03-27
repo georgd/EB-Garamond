@@ -37,6 +37,11 @@ lookup LATliga {
     sub o e by oe;
 } LATliga;
 
+#lookup loclENG {
+#    sub t h by thorn;
+#    sub T h by Thorn;
+#} loclENG;
+
 feature locl {
   script latn;
      language DEU  exclude_dflt;
@@ -54,6 +59,8 @@ feature locl {
      language LAT  exclude_dflt;
       lookup loclLAT;
 #      lookup LATliga;
+#     language ENG  exclude_dflt;
+#      lookup loclENG;      
   script cyrl;
      language SRB  exclude_dflt;
       lookup loclSRB;
