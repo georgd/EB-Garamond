@@ -4,7 +4,7 @@ lookup Q_longtail {
 } Q_longtail;
 lookup f_short {
     sub @LONG_F' [ @LETTERS @HIGH_ASC space @PUNCT ] by @SHORT_F;
-    sub @LONG_F' \uni200c @HIGH_ASC by @SHORT_F;
+    sub @LONG_F' \uni200C @HIGH_ASC by @SHORT_F;
 } f_short;
 
 lookup caltLAT {

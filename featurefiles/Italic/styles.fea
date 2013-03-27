@@ -27,7 +27,7 @@ feature ss03 {
 } ss03;
 
 lookup longs_replacement {
-     sub s' [ @letters hyphen afii301 ] by longs;
+     sub s' [ @letters hyphen uni200D ] by longs;
 } longs_replacement;
 
 feature cv01 {
