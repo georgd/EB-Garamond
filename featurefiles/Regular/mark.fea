@@ -121,7 +121,7 @@ lookup mark {
   markClass [\uni0306.cyr ] <anchor 125 533> @top_accent;
   markClass [\uni0306.cyrcap ] <anchor 145 710> @top_accent;
   markClass [\uni030F ] <anchor 205 550> @top_accent;
-  markClass [\uni02BF \uni0351 ] <anchor 89 531> @top_accent;
+  markClass [\uni0351 ] <anchor 89 531> @top_accent;
   markClass [\gravecomb.stack \gravecomb.stacksc ] <anchor 72 550> @top_accent;
   markClass [\acutecomb.stack \acutecomb.stacksc ] <anchor 52 550> @top_accent;
   markClass [\uni0302.stack \uni030C.stack \uni0302.stacksc \uni030C.stacksc ] <anchor 116 550> @top_accent;

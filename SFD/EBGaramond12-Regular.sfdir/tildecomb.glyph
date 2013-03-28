@@ -6,20 +6,6 @@ Flags: HMW
 AnchorPoint: "top_stack" 148 644 basemark 0
 AnchorPoint: "top_accent" 152 533 mark 0
 LayerCount: 3
-Back
-SplineSet
-50 483 m 0x60
- 71 522 92 570 137 570 c 0x60
- 183 570 199 554 240 554 c 16
- 266 554 280 569 297 591 c 0
- 298 592 299 593 300 593 c 0
- 305 593 313 578 310 573 c 0
- 296 546 277 481 228 481 c 0xa0
- 180 481 174 497 120 497 c 0
- 97 497 81 483 65 465 c 4
- 64 464 64 464 63 464 c 0
- 57 464 47 478 50 483 c 0x60
-EndSplineSet
 Fore
 SplineSet
 40 453 m 0

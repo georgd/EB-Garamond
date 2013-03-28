@@ -1,22 +1,13 @@
 StartChar: lcaron.sc
-Encoding: 66277 -1 1852
+Encoding: 66277 -1 1847
 Width: 444
 VWidth: 0
 Flags: HMW
 LayerCount: 3
+Back
+Refer: 1678 -1 N 1 0 0 1 0 0 2
 Fore
-SplineSet
-323 417 m 0
- 323 443 355 465 376 465 c 0
- 388 465 392 451 392 435 c 0
- 392 430 392 426 391 421 c 0
- 381 352 369 327 353 297 c 0
- 347 285 336 272 331 272 c 0
- 327 272 325 282 325 295 c 0
- 325 314 328 338 328 344 c 0
- 328 361 323 384 323 417 c 0
-EndSplineSet
-Refer: 1683 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 986 -1 N 1 0 0 1 324 -240 2
+Refer: 1678 -1 N 1 0 0 1 0 0 2
 Comment: "." 
 EndChar

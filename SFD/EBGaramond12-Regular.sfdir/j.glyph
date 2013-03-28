@@ -4,15 +4,11 @@ Width: 212
 VWidth: 0
 Flags: HMW
 LayerCount: 3
+Back
+Refer: 2899 -1 N 1 0 0 1 0 0 2
 Fore
-SplineSet
-51 563 m 0
- 51 592 73 614 101 614 c 0
- 130 614 152 592 152 563 c 0
- 152 535 130 513 101 513 c 0
- 73 513 51 535 51 563 c 0
-EndSplineSet
-Refer: 2912 -1 N 1 0 0 1 0 0 2
+Refer: 121 775 S 1 0 0 1 -11 21 2
+Refer: 344 567 N 1 0 0 1 0 0 3
 Substitution2: "Smallcaps subtable" j.sc
 Substitution2: "historic_j subtable" j.hist
 Substitution2: "sups subtable" j.sups

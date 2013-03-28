@@ -1,16 +1,9 @@
 StartChar: dotaccent
 Encoding: 729 729 346
-Width: 192
+Width: 171
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-SplineSet
-45 543 m 0
- 45 572 67 594 95 594 c 0
- 124 594 146 572 146 543 c 0
- 146 515 124 493 95 493 c 0
- 67 493 45 515 45 543 c 0
-EndSplineSet
-Validated: 1
+Refer: 121 775 N 1 0 0 1 -27 0 2
 EndChar

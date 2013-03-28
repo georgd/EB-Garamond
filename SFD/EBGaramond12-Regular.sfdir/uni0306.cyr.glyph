@@ -1,24 +1,10 @@
 StartChar: uni0306.cyr
-Encoding: 66356 -1 1966
+Encoding: 66356 -1 1961
 Width: 0
 VWidth: 0
 Flags: HMW
 AnchorPoint: "top_accent" 125 533 mark 0
 LayerCount: 3
-Back
-SplineSet
--242 570 m 0
- -242 551 -250 541 -250 525 c 0
- -250 505 -216 491 -186 491 c 0
- -158 491 -120 504 -120 523 c 0
- -120 544 -130 551 -130 570 c 0
- -130 585 -115 601 -95 601 c 0
- -75 601 -60 585 -60 560 c 0
- -60 497 -116 461 -186 461 c 0
- -256 461 -312 485 -312 560 c 0
- -312 585 -297 601 -277 601 c 0
- -257 601 -242 585 -242 570 c 0
-EndSplineSet
 Fore
 SplineSet
 127 493 m 16

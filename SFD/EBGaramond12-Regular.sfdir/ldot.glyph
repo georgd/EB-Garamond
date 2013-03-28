@@ -4,16 +4,11 @@ Width: 256
 VWidth: 0
 Flags: HMW
 LayerCount: 3
-Fore
-SplineSet
-246 414 m 28
- 274 414 296 392 296 364 c 28
- 296 336 274 314 246 314 c 28
- 218 314 196 336 196 364 c 28
- 196 392 218 414 246 414 c 28
-EndSplineSet
+Back
 Refer: 2 108 N 1 0 0 1 0 0 2
-Validated: 1
+Fore
+Refer: 2869 -1 S 1 0 0 1 241 0 2
+Refer: 2 108 N 1 0 0 1 0 0 2
 Substitution2: "Smallcaps subtable" ldot.sc
 LCarets2: 1 0 
 EndChar

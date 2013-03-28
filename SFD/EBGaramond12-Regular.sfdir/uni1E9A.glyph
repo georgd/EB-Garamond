@@ -1,22 +1,11 @@
 StartChar: uni1E9A
-Encoding: 7834 7834 2248
+Encoding: 7834 7834 2237
 Width: 399
 VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-SplineSet
-266 647 m 0
- 319 647 357 612 357 568 c 0
- 357 516 315 479 262 479 c 0
- 255 479 252 482 252 487 c 0
- 252 495 260 505 266 505 c 0
- 302 505 316 529 316 557 c 0
- 316 596 298 622 262 622 c 0
- 256 622 254 626 254 630 c 0
- 254 637 260 647 266 647 c 0
-EndSplineSet
+Refer: 2264 855 N 1 0 0 1 208 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
-Validated: 1
 MultipleSubs2: "CCMP_Precomp subtable" a uni02BE
 EndChar
