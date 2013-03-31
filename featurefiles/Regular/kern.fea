@@ -4,22 +4,35 @@
 @first_csc = [C.sc c.sc ];
 @first_E = [ E Eacute Egrave Edieresis uni1EBC Eogonek Ecircumflex Emacron Ebreve Edotaccent Ecaron uni0246 ];
 @first_F = [ F uni0191 ];
+@first_fsc = [ F.sc f.sc ];
 @first_L = [ L ];
+@first_lsc = [ L.sc l.sc ];
 @first_M = [ M ];
 @first_O = [ O uni0186 uni018F uni019F Ohorn uni01B2 ];
+@first_osc = [ O.sc o.sc D.sc d.sc ];
 @first_T = [ T uni01AC uni01AE uni023E ];
+@first_tsc = [ T.sc t.sc ];
 @first_V = [ V W Y uni0194 uni01B3 uni024E ];
 @first_vsc = [ V.sc v.sc W.sc w.sc ];
 @first_f = [ f f_f f.long f.DEU f_f.long florin ];
+@first_l = [ l ];
 @first_m = [ h m n ];
+@first_s = [ s ];
 @first_v = [ v w y uni01B4 uni0240 uni024F ];
 @first_o = [ ae b c e o oe p thorn ];
 
+@first_period = [ period comma quotesinglbase quotedblbase ];
+@first_quoteright = [ quoteright quotedblright ];
+@first_quoteleft = [ quoteleft quotedblleft ];
+@first_slash = [ slash ];
+
 @second_A = [ A uni0245 ];
 @second_asc = [ A.sc a.sc ];
-@second_csc = [ C.sc c.sc ];
+@second_bsc = [ B.sc b.sc D.sc d.sc E.sc e.sc F.sc f.sc H.sc h.sc I.sc i.sc K.sc k.sc L.sc l.sc M.sc m.sc N.sc n.sc P.sc p.sc R.sc r.sc U.sc u.sc ];
+@second_csc = [ C.sc c.sc O.sc o.sc Q.sc q.sc S.sc s.sc ];
 @second_O = [ O Ohorn Q ];
 @second_T = [ T ];
+@second_tsc = [ T.sc t.sc ];
 @second_V = [ V W Y uni0194 uni01B3 uni024E ];
 @second_vsc = [ V.sc v.sc W.sc w.sc ];
 @second_b = [ b h k l thorn ];
@@ -36,11 +49,22 @@
  	i.TRK
 ];
 
+@second_period = [ period comma quotesinglbase quotedblbase ];
+@second_quoteright = [ quoteright quotedblright ];
+@second_quoteleft = [ quoteleft quotedblleft ];
+@second_slash = [ slash ];
+
+
 lookup kern {
     pos @first_A @second_O -50;
+    pos @first_A @second_T -85;
     pos @first_A @second_V -150;
     pos @first_A @second_v -70;
+    pos @first_A @second_tsc -35;
+    pos @first_A @second_vsc -70;
 
+    pos @first_asc @second_csc -25;
+    pos @first_asc @second_tsc -40;
     pos @first_asc @second_vsc -75;
 
     pos @first_csc @second_csc -15;
@@ -50,12 +74,17 @@ lookup kern {
     pos @first_E @second_t -20;
     pos @first_E @second_v -30;
 
+    pos @first_F @second_asc -85;
     pos @first_F @second_o -30;
     pos @first_F @second_m -40;
     pos @first_F @second_t -20;
     pos @first_F @second_v -30;
+    pos @first_fsc @second_asc -45;
 
+    pos @first_L @second_T -120;
     pos @first_L @second_v -50;
+    pos @first_L @second_quoteright -55;
+    pos @first_lsc @second_vsc -60;
 
     pos @first_M @second_o -20;
     pos @first_M @second_m -10;
@@ -63,29 +92,60 @@ lookup kern {
     pos @first_M @second_v -40;
 
     pos @first_O @second_A -95;
+    pos @first_O @second_T -30;
     pos @first_O @second_o -10;
+    pos @first_osc @second_asc -25;
+    pos @first_osc @second_vsc -25;
 
+    pos @first_T @second_A -85;
+    pos @first_T @second_O -30;
+    pos @first_T @second_bsc -110;
+    pos @first_T @second_csc -135;
     pos @first_T @second_o -135;
     pos @first_T @second_m -120;
     pos @first_T @second_t -100;
     pos @first_T @second_v -100;
+    pos @first_T @second_period -75;
+
+    pos @first_tsc @second_asc -40;
+    pos @first_tsc @second_csc -15;
+    pos @first_tsc @second_period -120;
 
     pos @first_V @second_A -150;
+    pos @first_V @second_asc -150;
+    pos @first_V @second_csc -85;
     pos @first_V @second_o -100;
     pos @first_V @second_t -80;
+    pos @first_V @second_period -100;
 
     pos @first_vsc @second_asc -75;
-
+    pos @first_vsc @second_csc -25;
+    pos @first_vsc @second_period -80;
+    
     pos @first_f @second_o -45;
     pos @first_f @second_HighAscAfter_longf 70;
+    
+    pos @first_l @second_quoteright -15;
 
     pos @first_m @second_v -16;
-
+    
+    pos @first_s @second_quoteright -15;
+    
     pos @first_v @second_A -50;
     pos @first_v @second_o -10;
+    pos @first_v @second_period -70;
 
     pos @first_o @second_T -140;
     pos @first_o @second_V -100;
+    
+    pos @first_period @second_T -75;
+    pos @first_period @second_tsc -120;
+    pos @first_period @second_V -100;
+    
+    pos @first_quoteright @second_A -130;
+    pos @first_quoteright @second_o -90;
+    
+    pos @first_quoteleft @second_A -130;
 
 #    pos s o 20;
 #    pos s a 12;
