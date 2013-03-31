@@ -66,13 +66,13 @@
 
 @SHORT_LONGS = [ longs.short longs_longs.short uni1E9B.short uni1E9C.short uni1E9D.short ];
 
-@HIGH_ASC_F = [b h-l
+@HIGH_ASC_F = [b h-l  
 	agrave acircumflex adieresis aring egrave edieresis igrave iacute icircumflex idieresis eth ograve ugrave thorn germandbls abreve ccaron ebreve ecaron gbreve uni0123 hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex uni0137 lacute uni013C lcaron ldot lslash ncaron obreve rcaron scircumflex scaron ubreve ydieresis zcaron longs
 #	agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute thorn germandbls amacron abreve cacute ccircumflex ccaron emacron ebreve ecaron gcircumflex gbreve uni0123 hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex uni0137 lacute uni013C lcaron ldot lslash nacute ncaron omacron obreve ohungarumlaut racute  rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent zcaron longs 
 	uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F
 	uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED uni1EF3 uni1EF7 uni1EFB
  	i.TRK
- 	f_f f_i f_l f_f_i f_f_l longs_t s_t f_f.short f.short f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.long longs_longs.long f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t 
+#   f f_f f_i f_l f_f_i f_f_l longs_t s_t f_f.short f.short f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.long longs_longs.long f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t  f.DEU
 ];
 
 @HIGH_ASC_LONGS = [b h-l
