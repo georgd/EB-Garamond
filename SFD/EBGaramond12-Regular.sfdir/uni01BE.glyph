@@ -2,39 +2,8 @@ StartChar: uni01BE
 Encoding: 446 446 2343
 Width: 352
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 191 550 basechar 0
-AnchorPoint: "cedilla" 228 8 basechar 0
-AnchorPoint: "below_accent" 182 -100 basechar 0
+Flags: HMWO
 LayerCount: 3
-Back
-SplineSet
-145 316 m 6
- 145 276 196 243 229 225 c 4
- 263 207 318 170 318 106 c 4
- 318 37 276 -14 161 -14 c 4
- 141 -14 76 9 70 22 c 4
- 63 36 60 60 59 83 c 4
- 59 94 85 96 87 85 c 4
- 94 51 130 18 165 18 c 4
- 218 18 239 48 238 88 c 4
- 237 141 202 152 166 174 c 4
- 116 205 75 231 75 295 c 6
- 75 337 l 6
- 75 356 58 350 37 352 c 4
- 33 353 25 362 25 369 c 4
- 25 372 28 375 30 376 c 4
- 83 391 121 468 131 468 c 4
- 137 468 145 467 145 458 c 6
- 145 414 l 6
- 145 405 152 400 165 400 c 6
- 284 400 l 6
- 289 400 292 388 292 376 c 4
- 292 364 289 352 284 352 c 6
- 185 352 l 6
- 151 352 145 351 145 324 c 6
- 145 316 l 6
-EndSplineSet
 Fore
 SplineSet
 81 296 m 10
