@@ -1,15 +1,15 @@
-languagesystem DFLT dflt;
-languagesystem cyrl dflt;
-languagesystem cyrl SRB ;
-languagesystem cyrl MKD ;
-languagesystem grek dflt;
-languagesystem latn dflt;
-languagesystem latn DEU ;
-languagesystem latn TRK ;
-languagesystem latn AZE ;
-languagesystem latn CRT ;
-languagesystem latn CAT ;
-languagesystem latn LAT ;
+#languagesystem DFLT dflt;
+#languagesystem cyrl dflt;
+#languagesystem cyrl SRB ;
+#languagesystem cyrl MKD ;
+#languagesystem grek dflt;
+#languagesystem latn dflt;
+#languagesystem latn DEU ;
+#languagesystem latn TRK ;
+#languagesystem latn AZE ;
+#languagesystem latn CRT ;
+#languagesystem latn CAT ;
+#languagesystem latn LAT ;
 
 include (opticalclasses.fea)
 
