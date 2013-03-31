@@ -1,5 +1,5 @@
 @opt_A = [ A Agrave Aacute Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek #
-    uni01CD uni01DE uni01E0 uni01FA uni0200 uni0202 uni0226 uni023A #
+    uni01CD uni01DE uni01E0 Aringacute uni0200 uni0202 uni0226 uni023A #
     uni0245 #turned V
     uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6 #
     Adieresis.deu #
@@ -90,7 +90,7 @@
     uni0425 # cyrillic
     Chi # greek
     ]; 
-@opt_Y = [ Y Yacute Ycircumflex Ydieresis uni01B3 uni0232 uni1E8E uni1EF2 uni1EF4 uni1EF6 uni1EF8  #
+@opt_Y = [ Y Yacute Ycircumflex Ydieresis uni01B3 uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8  #
     uni04AE # cyrillic
     ]; 
 @opt_Z = [ Z Zacute Zdotaccent Zcaron uni0224 uni1E90 uni1E92 uni1E94 #
@@ -98,7 +98,7 @@
     ];
     
 ### Lowercase ###
-@opt_a = [ a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni01CE uni01DF uni01E1 uni01FB uni0201 uni0203 uni0227 uni1E01 uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 #
+@opt_a = [ a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni01CE uni01DF uni01E1 aringacute uni0201 uni0203 uni0227 uni1E01 uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 #
     uni0430 uni04D1 uni04D3 # cyrillic
     ];  
 @opt_b = [ b uni1E03 uni1E05 uni1E07 ]; 
@@ -116,7 +116,7 @@
 @opt_fl = [ f_l f_f_l longs_l  longs_longs_l ]; 
 @opt_fi = [ f_i f_f_i longs_i  longs_longs_i ];
 @opt_fshort = [ f.short f_f.short uni1E1F.short ]; 
-@opt_g = [ g gcircumflex gbreve gdotaccent uni0123 uni01E5 uni01E7 uni01F5 uni1E21 ]; 
+@opt_g = [ g gcircumflex gbreve gdotaccent uni0123 uni01E5 gcaron uni01F5 uni1E21 ]; 
 @opt_h = [ h hcircumflex hbar uni021F uni0226 uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B  uni1E96 #
     h.01 hcircumflex.01 uni021F.01 uni1E23.01 uni1E27.01 #
     ]; 
@@ -178,7 +178,7 @@
     uni2179 # roman numeral
     uni0445 # cyrillic
     ]; 
-@opt_y = [ y yacute ycircumflex ydieresis uni0233 uni1E8F uni1E99 uni1EF3 uni1EF5 uni1EF7 uni1EF9 uni1EFF #
+@opt_y = [ y yacute ycircumflex ydieresis uni0233 uni1E8F uni1E99 ygrave uni1EF5 uni1EF7 uni1EF9 uni1EFF #
     uni0263 # latin gamma
     uni0443 uni045E uni04EF uni04F1 uni04F3 # cyrillic
     ]; 
