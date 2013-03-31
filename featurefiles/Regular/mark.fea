@@ -141,7 +141,7 @@ lookup mark {
   pos base [\a ] <anchor 191 550> mark @top_accent;
   pos base [\t \t_t ] <anchor 133 550> mark @top_accent;
   pos base [\l \h.01 \k.01 ] <anchor 107 790> mark @top_accent;
-  pos base [\o \ohorn \uni043E \uni04E9 \uni028A ] <anchor 246 550> mark @top_accent;
+  pos base [\o \ohorn \uni043E \uni04E9 \uni028A \uni0275 \uni0275.alt ] <anchor 246 550> mark @top_accent;
   pos base [\h ] <anchor 242 761> mark @top_accent;
   pos base [\n \eng ] <anchor 258 550> mark @top_accent;
   pos base [\m ] <anchor 390 550> mark @top_accent;
@@ -176,7 +176,7 @@ lookup mark {
   pos base [\D ] <anchor 342 710> mark @top_accent;
   pos base [\Q ] <anchor 405 710> mark @top_accent;
   pos base [\S ] <anchor 240 710> mark @top_accent;
-  pos base [\O \uni041E \Oslash \uni04E8 ] <anchor 383 710> mark @top_accent;
+  pos base [\O \uni041E \Oslash \uni04E8 \uni019F \uni019F.alt ] <anchor 383 710> mark @top_accent;
   pos base [\H \uniA726 ] <anchor 406 710> mark @top_accent;
   pos base [\U ] <anchor 390 710> mark @top_accent;
   pos base [\Y ] <anchor 320 710> mark @top_accent;
@@ -279,7 +279,7 @@ lookup mark {
   pos base [\a \z ] <anchor 178 -100> mark @below_accent;
   pos base [\t \t_t ] <anchor 186 -100> mark @below_accent;
   pos base [\l ] <anchor 120 -100> mark @below_accent;
-  pos base [\o \ohorn \uni043E \uni04E9 \uni028A ] <anchor 246 -100> mark @below_accent;
+  pos base [\o \ohorn \uni043E \uni04E9 \uni028A \uni0275 \uni0275.alt ] <anchor 246 -100> mark @below_accent;
   pos base [\h \hbar \h.01 ] <anchor 231 -100> mark @below_accent;
   pos base [\i \lslash ] <anchor 115 -100> mark @below_accent;
   pos base [\n \eng ] <anchor 265 -100> mark @below_accent;
@@ -306,7 +306,7 @@ lookup mark {
   pos base [\V ] <anchor 297 -100> mark @below_accent;
   pos base [\W ] <anchor 454 -100> mark @below_accent;
   pos base [\G \Eng ] <anchor 401 -100> mark @below_accent;
-  pos base [\D \O \U \Ohorn \uni041E \Oslash \uni04E8 ] <anchor 370 -100> mark @below_accent;
+  pos base [\D \O \U \Ohorn \uni041E \Oslash \uni04E8 \uni019F \uni019F.alt ] <anchor 370 -100> mark @below_accent;
   pos base [\S ] <anchor 225 -100> mark @below_accent;
   pos base [\H \Hbar \uniA726 ] <anchor 423 -100> mark @below_accent;
   pos base [\Y ] <anchor 302 -100> mark @below_accent;
@@ -349,14 +349,14 @@ lookup mark {
   markClass [\uni0328 ] <anchor 156 18> @ogonek;
   markClass [\uni0328.cap ] <anchor 188 18> @ogonek;
   pos base [\a ] <anchor 341 18> mark @ogonek;
-  pos base [\o \ohorn \uni043E \uni04E9 ] <anchor 337 18> mark @ogonek;
+  pos base [\o \ohorn \uni043E \uni04E9 \uni0275 \uni0275.alt ] <anchor 337 18> mark @ogonek;
   pos base [\i \dotlessi \uni0268 \i.dotless ] <anchor 169 18> mark @ogonek;
   pos base [\e \uni0435 ] <anchor 292 18> mark @ogonek;
   pos base [\u \uhorn ] <anchor 418 18> mark @ogonek;
   pos base [\A \uni0410 ] <anchor 508 18> mark @ogonek;
   pos base [\I \uni0197 ] <anchor 206 18> mark @ogonek;
   pos base [\E \uni0415 \uni0413 ] <anchor 450 18> mark @ogonek;
-  pos base [\O \Ohorn ] <anchor 520 18> mark @ogonek;
+  pos base [\O \Ohorn  \uni019F \uni019F.alt ] <anchor 520 18> mark @ogonek;
   pos base [\U \Uhorn ] <anchor 490 18> mark @ogonek;
   pos base [\Y ] <anchor 355 18> mark @ogonek;
   pos base [\A.sc \a.sc ] <anchor 407 18> mark @ogonek;
@@ -377,7 +377,7 @@ lookup mark {
   pos base [\a ] <anchor 303 8> mark @cedilla;
   pos base [\t \t_t ] <anchor 205 8> mark @cedilla;
   pos base [\l \h \i \dotlessi \uni0268 \i.dotless \h.01 ] <anchor 130 8> mark @cedilla;
-  pos base [\o \uni0186 ] <anchor 300 8> mark @cedilla;
+  pos base [\o \uni0186 \uni0275 \uni0275.alt ] <anchor 300 8> mark @cedilla;
   pos base [\m ] <anchor 654 8> mark @cedilla;
   pos base [\d ] <anchor 374 8> mark @cedilla;
   pos base [\e \uni0435 ] <anchor 253 8> mark @cedilla;
@@ -392,7 +392,7 @@ lookup mark {
   pos base [\T \Tbar ] <anchor 356 18> mark @cedilla;
   pos base [\E \uni0415 \uni0413 ] <anchor 322 8> mark @cedilla;
   pos base [\L \Lslash ] <anchor 183 8> mark @cedilla;
-  pos base [\D \O \U \Ohorn \uni041E \Oslash \uni04E8 ] <anchor 412 8> mark @cedilla;
+  pos base [\D \O \U \Ohorn \uni041E \Oslash \uni04E8 \uni019F \uni019F.alt ] <anchor 412 8> mark @cedilla;
   pos base [\S ] <anchor 265 8> mark @cedilla;
   pos base [\Z ] <anchor 312 8> mark @cedilla;
   pos base [\z ] <anchor 230 8> mark @cedilla;
