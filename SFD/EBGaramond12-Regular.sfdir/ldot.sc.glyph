@@ -1,13 +1,12 @@
 StartChar: ldot.sc
 Encoding: 66279 -1 1849
-Width: 480
+Width: 470
 VWidth: 0
+LigCaretCntFixed: 1
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 1716 -1 S 0.9 0 0 0.918182 232 67 2
-Refer: 1678 -1 S 1 0 0 1 0 0 2
-Validated: 1
-LCarets2: 1 0 
+Refer: 1716 -1 N 0.9 0 0 0.918182 232 67 2
+Refer: 1678 -1 N 1 0 0 1 0 0 2
 Comment: "." 
 EndChar
