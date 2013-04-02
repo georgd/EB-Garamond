@@ -8,14 +8,15 @@
 @first_L = [ L ];
 @first_lsc = [ L.sc l.sc ];
 @first_M = [ M ];
-@first_O = [ O uni0186 uni018F uni019F Ohorn uni01B2 ];
-@first_osc = [ O.sc o.sc D.sc d.sc ];
+@first_O = [ D Eth O uni0186 uni018F uni019F Ohorn uni01B2 ];
+@first_osc = [ O.sc o.sc D.sc d.sc Eth.sc eth.sc ];
 @first_T = [ T uni01AC uni01AE uni023E ];
 @first_tsc = [ T.sc t.sc ];
 @first_V = [ V W Y uni0194 uni01B3 uni024E ];
 @first_vsc = [ V.sc v.sc W.sc w.sc ];
+@first_ysc = [ Y.sc y.sc ];
 @first_f = [ f f_f f.long f.DEU f_f.long florin ];
-@first_l = [ l ];
+@first_l = [ d l ];
 @first_m = [ h m n ];
 @first_s = [ s ];
 @first_v = [ v w y uni01B4 uni0240 uni024F ];
@@ -29,12 +30,13 @@
 @second_A = [ A uni0245 ];
 @second_asc = [ A.sc a.sc ];
 @second_bsc = [ B.sc b.sc D.sc d.sc E.sc e.sc F.sc f.sc H.sc h.sc I.sc i.sc K.sc k.sc L.sc l.sc M.sc m.sc N.sc n.sc P.sc p.sc R.sc r.sc U.sc u.sc ];
-@second_csc = [ C.sc c.sc O.sc o.sc Q.sc q.sc S.sc s.sc ];
-@second_O = [ O Ohorn Q ];
+@second_csc = [ C.sc c.sc G.sc g.sc O.sc o.sc Q.sc q.sc S.sc s.sc ];
+@second_O = [ C G O Ohorn Q ];
 @second_T = [ T ];
 @second_tsc = [ T.sc t.sc ];
 @second_V = [ V W Y uni0194 uni01B3 uni024E ];
 @second_vsc = [ V.sc v.sc W.sc w.sc ];
+@second_ysc = [ Y.sc y.sc ];
 @second_b = [ b h k l thorn ];
 @second_o = [ a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B ];
 @second_m = [ m n p r u uogonek z dotlessi uni01BF uni01B6 uni01BA uni021D uni024D ];
@@ -53,6 +55,7 @@
 @second_quoteright = [ quoteright quotedblright ];
 @second_quoteleft = [ quoteleft quotedblleft ];
 @second_slash = [ slash ];
+@second_colon = [ colon semicolon ];
 
 
 lookup kern {
@@ -62,10 +65,12 @@ lookup kern {
     pos @first_A @second_v -70;
     pos @first_A @second_tsc -35;
     pos @first_A @second_vsc -70;
+    pos @first_A @second_quoteright -35;
 
     pos @first_asc @second_csc -25;
     pos @first_asc @second_tsc -40;
     pos @first_asc @second_vsc -75;
+    pos @first_asc @second_quoteright -35;
 
     pos @first_csc @second_csc -15;
 
@@ -84,7 +89,11 @@ lookup kern {
     pos @first_L @second_T -120;
     pos @first_L @second_v -50;
     pos @first_L @second_quoteright -55;
+
+    pos @first_lsc @second_tsc -75;
     pos @first_lsc @second_vsc -60;
+    pos @first_lsc @second_ysc -40;
+    pos @first_lsc @second_quoteright -60;
 
     pos @first_M @second_o -20;
     pos @first_M @second_m -10;
@@ -97,6 +106,8 @@ lookup kern {
     pos @first_osc @second_asc -25;
     pos @first_osc @second_vsc -25;
 
+    pos @first_osc @second_ysc -15;
+
     pos @first_T @second_A -85;
     pos @first_T @second_O -30;
     pos @first_T @second_bsc -110;
@@ -106,6 +117,7 @@ lookup kern {
     pos @first_T @second_t -100;
     pos @first_T @second_v -100;
     pos @first_T @second_period -75;
+    pos @first_T @second_colon -100;
 
     pos @first_tsc @second_asc -40;
     pos @first_tsc @second_csc -15;
@@ -117,10 +129,13 @@ lookup kern {
     pos @first_V @second_o -100;
     pos @first_V @second_t -80;
     pos @first_V @second_period -100;
+    pos @first_V @second_colon -100;
 
     pos @first_vsc @second_asc -75;
     pos @first_vsc @second_csc -25;
     pos @first_vsc @second_period -80;
+
+    pos @first_ysc @second_csc -15;
     
     pos @first_f @second_o -45;
     pos @first_f @second_HighAscAfter_longf 70;
@@ -143,8 +158,11 @@ lookup kern {
     pos @first_period @second_V -100;
     
     pos @first_quoteright @second_A -130;
+    pos @first_quoteright @second_asc -120;
+    pos @first_quoteright @second_csc -70;
     pos @first_quoteright @second_o -90;
-    
+    pos @first_quoteright @second_m -30;
+        
     pos @first_quoteleft @second_A -130;
 
 #    pos s o 20;
