@@ -372,7 +372,7 @@ lookup mark {
   pos base [\a.01 ] <anchor 482 18> mark @ogonek;
   pos base [\uni0190 ] <anchor 389 18> mark @ogonek;
   subtable;
-  markClass [\uni0327 \cedilla.sc ] <anchor 114 8> @cedilla;
+  markClass [\uni0327 \uni0327.sc ] <anchor 114 8> @cedilla;
   markClass [\uni0327.cap ] <anchor 127 8> @cedilla;
   pos base [\a ] <anchor 303 8> mark @cedilla;
   pos base [\t \t_t ] <anchor 205 8> mark @cedilla;
