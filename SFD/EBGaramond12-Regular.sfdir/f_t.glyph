@@ -1,10 +1,10 @@
 StartChar: f_t
-Encoding: 65610 -1 1120
+Encoding: 65609 -1 1120
 Width: 580
 VWidth: 0
 Flags: HMW
 AnchorPoint: "below_accent" 134 -100 basechar 0
-AnchorPoint: "top_accent" 281 768 basechar 0
+AnchorPoint: "top_accent" 281 800 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -56,7 +56,5 @@ SplineSet
  414 672 419 660 419 647 c 0
 EndSplineSet
 Validated: 1
-Ligature2: "liga_standard subtable" f.DEU t
-Ligature2: "liga_standard subtable" f t
 LCarets2: 1 276 
 EndChar

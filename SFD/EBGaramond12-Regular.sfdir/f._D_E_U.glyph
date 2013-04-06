@@ -1,16 +1,21 @@
 StartChar: f.DEU
-Encoding: 65624 -1 1198
+Encoding: 65623 -1 1198
 Width: 318
 VWidth: 0
 Flags: HMW
 AnchorPoint: "below_accent" 134 -100 basechar 0
-AnchorPoint: "top_accent" 281 768 basechar 0
+AnchorPoint: "top_accent" 281 800 basechar 0
 LayerCount: 3
 Fore
 Refer: 18 102 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Single Substitution lookup 73 subtable" f.short
-Substitution2: "Single Substitution lookup 72 subtable" f.short
+Substitution2: "Single Substitution lookup 90 subtable" f.short
+Substitution2: "Single Substitution lookup 89 subtable" f.short
+Substitution2: "Single Substitution lookup 76 subtable" f._asc
+Substitution2: "Single Substitution lookup 75 subtable" f._i
+Substitution2: "Single Substitution lookup 73 subtable" f._f
+Substitution2: "Single Substitution lookup 68 subtable" f._asc
+Substitution2: "Single Substitution lookup 67 subtable" f._i
+Substitution2: "Single Substitution lookup 65 subtable" f._f
 Substitution2: "Smallcaps subtable" f.sc
 Substitution2: "sups subtable" f.sups
 Substitution2: "sinf subtable" f.sinf

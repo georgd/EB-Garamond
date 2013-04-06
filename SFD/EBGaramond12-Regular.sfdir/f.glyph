@@ -2,7 +2,7 @@ StartChar: f
 Encoding: 102 102 18
 Width: 318
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 AnchorPoint: "below_accent" 134 -100 basechar 0
 AnchorPoint: "top_accent" 281 805 basechar 0
 LayerCount: 3
@@ -2214,9 +2214,14 @@ daHRicd0YPa2Z-=
 EndImage
 Fore
 Refer: 1094 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Single Substitution lookup 73 subtable" f.short
-Substitution2: "Single Substitution lookup 72 subtable" f.short
+Substitution2: "Single Substitution lookup 90 subtable" f.short
+Substitution2: "Single Substitution lookup 89 subtable" f.short
+Substitution2: "Single Substitution lookup 78 subtable" f._asc
+Substitution2: "Single Substitution lookup 75 subtable" f._i
+Substitution2: "Single Substitution lookup 73 subtable" f._f
+Substitution2: "Single Substitution lookup 70 subtable" f._asc
+Substitution2: "Single Substitution lookup 67 subtable" f._i
+Substitution2: "Single Substitution lookup 65 subtable" f._f
 Substitution2: "Smallcaps subtable" f.sc
 Substitution2: "sups subtable" f.sups
 Substitution2: "sinf subtable" f.sinf

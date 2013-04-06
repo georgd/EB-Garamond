@@ -1,5 +1,5 @@
 StartChar: f_f_t
-Encoding: 66347 -1 1917
+Encoding: 66342 -1 1917
 Width: 858
 VWidth: 0
 Flags: HMW
@@ -84,9 +84,5 @@ SplineSet
  358 597 333 624 270 624 c 2
 EndSplineSet
 Validated: 33
-Ligature2: "liga_standard subtable" f.DEU f.DEU t
-Ligature2: "liga_standard subtable" f.DEU f t
-Ligature2: "liga_standard subtable" f f.DEU t
-Ligature2: "liga_standard subtable" f f t
 LCarets2: 2 0 0 
 EndChar
