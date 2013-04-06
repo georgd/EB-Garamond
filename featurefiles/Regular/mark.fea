@@ -153,7 +153,6 @@ lookup mark {
   pos base [\c \ccedilla \uni0441 ] <anchor 230 550> mark @top_accent;
   pos base [\u \uhorn \uni0475 ] <anchor 251 550> mark @top_accent;
   pos base [\s ] <anchor 176 550> mark @top_accent;
-  pos base [\f \longs f._f longs._longs ] <anchor 281 805> mark @top_accent;
   pos base [\v ] <anchor 218 550> mark @top_accent;
   pos base [\w ] <anchor 342 550> mark @top_accent;
   pos base [\y ] <anchor 234 550> mark @top_accent;
@@ -206,7 +205,7 @@ lookup mark {
   pos base [\uni0292 ] <anchor 199 550> mark @top_accent;
   pos base [\uni043A ] <anchor 252 550> mark @top_accent;
   pos base [\Gamma ] <anchor 272 710> mark @top_accent;
-  pos base [\f.long \f_t \longs.long \f.DEU f._f longs._longs ] <anchor 281 800> mark @top_accent;
+  pos base [\f \longs \f.long \f_t \longs.long \f.DEU \f._f \longs._longs ] <anchor 281 800> mark @top_accent;
   pos base [\f._i \longs._i ] <anchor 308 800> mark @top_accent;
   pos base [\f._asc \longs._asc ] <anchor 281 800> mark @top_accent;
   pos base [\uni0418 ] <anchor 418 710> mark @top_accent;
