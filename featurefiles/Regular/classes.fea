@@ -82,6 +82,9 @@
  	i.TRK
 ];
 
+@asc_f = [ b h k l thorn ];
+@asc_f1 = [ b.f_ h.f_ k.f_ l.f_ thorn.f_ ];
+
 @HIGH_PUNCT = [ exclam quotedbl dollar percent quotesingle parenleft parenright asterisk question bracketleft backslash bracketright braceleft bar braceright registered quoteleft quoteright quotedblleft quotedblright minute second uni2034 exclamdbl uni203D uni2047 uni2048 uni2049 ];
 
 @NO_ASC = [ a c e g m-s u-z ae ccedilla aogonek eogonek dotlessi kgreenlandic eng oe uni0157 scedilla uogonek uni01DD uni01E5 uni01EB uni0219 uni0229 uni0237 u.LAT u.LATmedi v.LAT v.LATmedi germandbls.alt ];
@@ -120,4 +123,8 @@ uni030C.sc uni0342.altsc
 
 @capdiacritics_sc = [ gravecomb.sc acutecomb.sc uni0302.sc tildecomb.sc uni0304.sc uni0306.sc uni0307.sc uni0308.sc uni030A.sc uni030B.sc uni030C.sc uni030F uni0311.sc uni0316 uni0317 dotbelowcomb uni0324 uni0325 uni0327 uni0328 uni032C uni032D uni032E uni032F uni0330 uni0331 uni0306.cyr uni0345.sc ];
 
-@abovediacritics = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0306.cyr ];
+@abovediacritics = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314  uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr ];
+
+@abovediac_flat = [ acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack  uni030C.stack uni0302.flat uni030C.flat ];
+
+@belowdiacritics = [ uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A ];
