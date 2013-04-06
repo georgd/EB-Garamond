@@ -139,7 +139,8 @@ lookup mark {
   markClass [\hookabovecomb.cap ] <anchor 90 710> @top_accent;
   markClass [\uni1DD3 ] <anchor 237 533> @top_accent;
   pos base [\a ] <anchor 191 550> mark @top_accent;
-  pos base [\t \t_t \t.f_ ] <anchor 133 550> mark @top_accent;
+  pos base [\t \t_t ] <anchor 133 550> mark @top_accent;
+  pos base [\t.f_ ] <anchor 64 550> mark @top_accent;
   pos base [\l \h.01 \k.01 \l.f_ ] <anchor 107 790> mark @top_accent;
   pos base [\o \ohorn \uni043E \uni04E9 \uni028A \uni0275 \uni0275.alt ] <anchor 246 550> mark @top_accent;
   pos base [\h \h.f_ ] <anchor 242 761> mark @top_accent;
@@ -279,7 +280,8 @@ lookup mark {
   markClass [\uni032E.cap \uni032F.cap \uni0331.cap ] <anchor 158 -100> @below_accent;
   markClass [\uni0330.cap ] <anchor 148 -100> @below_accent;
   pos base [\a \z ] <anchor 178 -100> mark @below_accent;
-  pos base [\t \t_t t.f_ ] <anchor 186 -100> mark @below_accent;
+  pos base [\t \t_t ] <anchor 186 -100> mark @below_accent;
+  pos base [t.f_ ] <anchor 117 -100> mark @below_accent;
   pos base [\l \l.f_ ] <anchor 120 -100> mark @below_accent;
   pos base [\o \ohorn \uni043E \uni04E9 \uni028A \uni0275 \uni0275.alt ] <anchor 246 -100> mark @below_accent;
   pos base [\h \hbar \h.01 \h.f_ ] <anchor 231 -100> mark @below_accent;
@@ -378,7 +380,8 @@ lookup mark {
   markClass [\uni0327 \uni0327.sc ] <anchor 114 8> @cedilla;
   markClass [\uni0327.cap ] <anchor 127 8> @cedilla;
   pos base [\a ] <anchor 303 8> mark @cedilla;
-  pos base [\t \t_t \t.f_ ] <anchor 205 8> mark @cedilla;
+  pos base [\t \t_t ] <anchor 205 8> mark @cedilla;
+  pos base [ \t.f_ ] <anchor 136 8> mark @cedilla;
   pos base [\l \l.f_ \h \i \dotlessi \uni0268 \i.dotless \h.01 \h.f_ ] <anchor 130 8> mark @cedilla;
   pos base [\o \uni0186 \uni0275 \uni0275.alt ] <anchor 300 8> mark @cedilla;
   pos base [\m ] <anchor 654 8> mark @cedilla;
@@ -419,7 +422,8 @@ lookup mark {
   pos base [\uni0190 ] <anchor 297 8> mark @cedilla;
   subtable;
   markClass [\uni030C.alt ] <anchor 35 660> @top_right;
-  pos base [\t \t.f_ ] <anchor 249 600> mark @top_right;
+  pos base [\t ] <anchor 249 600> mark @top_right;
+  pos base [ \t.f_ ] <anchor 180 600> mark @top_right;
   pos base [\l \l.f_ ] <anchor 222 660> mark @top_right;
   pos base [\d ] <anchor 489 660> mark @top_right;
   pos base [\L ] <anchor 492 624> mark @top_right;
