@@ -54,6 +54,7 @@ font = fontforge.open(args.input)
 font.version = args.version
 font.encoding = 'UnicodeFull'
 font.selection.all()
+font.removeOverlap()
 font.autoHint()
 
 if args.reloadgpos:
@@ -69,7 +70,8 @@ if args.reloadgsub:
 extension = os.path.splitext(args.output)[1]
 if extension == '.ttf':
     font.correctReferences()
-    font.em = 2048
+#    font.unlinkReferences()
+#    font.em = 2048
     font.round()
 
-font.generate(args.output)
+font.generate(args.output) #do somthing about 'old-kern'
