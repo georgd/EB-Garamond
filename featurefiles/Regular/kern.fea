@@ -16,6 +16,7 @@
 @first_V = [ V W Y uni0194 uni01B3 uni024E ];
 @first_vsc = [ V.sc v.sc W.sc w.sc ];
 @first_ysc = [ Y.sc y.sc ];
+@first_a = [ a ];
 @first_f = [ f f_f f.long f.DEU f_f.long florin ];
 @first_l = [ d l l.f_ ];
 @first_m = [ h h.f_ m n ];
@@ -67,6 +68,7 @@ lookup kern {
     pos @first_A @second_tsc -35;
     pos @first_A @second_vsc -70;
     pos @first_A @second_quoteright -35;
+    pos @first_A uni02BF -70;
 
     pos @first_asc @second_csc -25;
     pos @first_asc @second_tsc -40;
@@ -144,8 +146,11 @@ lookup kern {
 
     pos @first_ysc @second_csc -15;
     
+    pos @first_a uni02BF -45;
+    
     pos @first_f @second_o -45;
     pos @first_f @second_HighAscAfter_longf 70;
+    pos @first_f uni02BF 120;
     
     pos @first_l @second_quoteright -15;
 
@@ -174,6 +179,8 @@ lookup kern {
     
     pos [ f._i longs._i ] j.dotless 19;
     pos g j 25;
+    pos uni02BF @second_A -70;
+    pos uni02BF @second_o -55;
 
 #    pos s o 20;
 #    pos s a 12;
