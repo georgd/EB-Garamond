@@ -1,5 +1,5 @@
 NAME=EBGaramond
-VERSION=0.015a
+VERSION=0.015b
 
 SRC=SFD
 BLD=build
@@ -11,7 +11,7 @@ DIST=$(NAME)-$(VERSION)-complete
 
 PY=python
 SCRIPT=tools/makefont.py
-SFNTTOOL=sfnttool.jar
+SFNTTOOL=java -jar sfnttool.jar
 
 #SIZES=08 12
 #STYLES=Regular SC Allsc Italic Bold
@@ -26,7 +26,7 @@ WOF=$(FONTS:%=$(WEB)/$(NAME)%.woff)
 EOT=$(FONTS:%=$(WEB)/$(NAME)%.eot)
 PDF=$(FONTS:%=$(SPEC)/$(NAME)%-Glyphs.pdf)
 
-all: otf ttf web pdfs
+all: otf ttf web # pdfs
 pack: dpack wpack
 
 otf: $(OTF)
@@ -68,7 +68,8 @@ dpack: $(OTF) $(TTF)
 	@mkdir -p $(PACK)/specimen
 	@cp $(OTF) $(PACK)/otf
 	@cp $(TTF) $(PACK)/ttf
-	@cp $(PDF) $(SPEC)/Specimen.pdf  $(PACK)/specimen
+#	@cp $(PDF) $(PACK)/specimen        #Temporarily out of order
+	@cp $(SPEC)/Specimen.pdf  $(PACK)/specimen
 	@cp README.markdown README.xelualatex COPYING $(PACK)
 	@zip -r $(PACK).zip $(PACK)
 
