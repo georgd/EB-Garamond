@@ -2,7 +2,7 @@ StartChar: f._i
 Encoding: 66578 -1 2925
 Width: 273
 VWidth: 0
-Flags: HMW
+Flags: MW
 AnchorPoint: "below_accent" 134 -100 basechar 0
 AnchorPoint: "top_accent" 308 800 basechar 0
 LayerCount: 3
@@ -54,8 +54,9 @@ SplineSet
  160 420 l 2
  160 404 172 402 185 400 c 0
  222 396 265 393 302 393 c 0
- 338 393 367.778090881 396.339370212 376 400 c 1
+ 338 393 368 396 376 400 c 1
  376 349 l 17
  376 349 289 353 261 353 c 0
 EndSplineSet
+Validated: 1
 EndChar

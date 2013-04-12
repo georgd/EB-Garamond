@@ -2,7 +2,7 @@ StartChar: uni019F.alt
 Encoding: 66575 -1 2922
 Width: 763
 VWidth: 0
-Flags: HMW
+Flags: MW
 AnchorPoint: "cedilla" 412 8 basechar 0
 AnchorPoint: "ogonek" 520 18 basechar 0
 AnchorPoint: "below_accent" 370 -100 basechar 0
@@ -30,4 +30,5 @@ SplineSet
  545 25 621 134 621 305 c 0
  621 326 620 346 618 366 c 1
 EndSplineSet
+Validated: 1
 EndChar

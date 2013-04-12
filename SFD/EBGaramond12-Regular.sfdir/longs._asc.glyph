@@ -2,7 +2,7 @@ StartChar: longs._asc
 Encoding: 66588 -1 2934
 Width: 264
 VWidth: 0
-Flags: HMW
+Flags: MW
 AnchorPoint: "below_accent" 134 -100 basechar 0
 AnchorPoint: "top_accent" 281 800 basechar 0
 LayerCount: 3
@@ -57,13 +57,14 @@ SplineSet
  92 2 84 -3 44 -3 c 0
  36 -3 24 -2 24 6 c 0
  24 16 36 20 47 24 c 0
- 67 30 90.095703125 41 90 68 c 2
+ 67 30 90 41 90 68 c 2
  90 350 l 1
  77 350 59 350 38 352 c 0
  34 353 25 362 25 369 c 0
  25 372 29 375 31 376 c 0
  61 384 71 392 90 402 c 1
 EndSplineSet
+Validated: 33
 Layer: 2
 SplineSet
 363 609 m 0
