@@ -1,10 +1,19 @@
 StartChar: uni02BF
 Encoding: 703 703 2243
-Width: 182
+Width: 204
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 2263 849 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+144 430 m 0
+ 79 430 20 475 20 540 c 0
+ 20 610 87 650 162 650 c 0
+ 169 650 174 647 174 642 c 0
+ 174 635 163 620 153 620 c 0
+ 108 620 75 588 75 543 c 0
+ 75 496 113 460 160 460 c 0
+ 170 460 174 455 174 451 c 0
+ 174 444 162 430 144 430 c 0
+EndSplineSet
 EndChar
