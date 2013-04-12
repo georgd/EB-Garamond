@@ -9,7 +9,8 @@ PACK=$(NAME)-$(VERSION)
 WPCK=$(NAME)-$(VERSION)-web
 DIST=$(NAME)-$(VERSION)-complete
 
-PY=python
+#Call script through fontforge, not python. https://github.com/fontforge/fontforge/issues/528
+FF=fontforge
 SCRIPT=tools/makefont.py
 SFNTTOOL=java -jar sfnttool.jar
 
@@ -36,11 +37,11 @@ pdfs: $(PDF)
 
 $(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT)
 	@echo "Generating	$@"
-	@$(PY) $(SCRIPT) $< $@ $(VERSION)
+	@$(FF) -script $(SCRIPT) $< $@ $(VERSION)
 
 $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT)
 	@echo "Generating	$@"
-	@$(PY) $(SCRIPT) $< $@ $(VERSION)
+	@$(FF) -script $(SCRIPT) $< $@ $(VERSION)
 	@echo "Autohinting	$@"
 	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
 	@mv $@.tmp $@
