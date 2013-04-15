@@ -41,7 +41,8 @@
 @second_ysc = [ Y.sc y.sc ];
 @second_b = [ b h k l thorn ];
 @second_o = [ a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B ];
-@second_m = [ m n p r u uogonek z dotlessi uni01BF uni01B6 uni01BA uni021D uni024D ];
+@second_m = [ m n p r u uogonek z uni01BF uni01B6 uni01BA uni021D uni024D ];
+@second_dotlessi = [ dotlessi i.dotless j.dotless ];
 @second_t = [ t ];
 @second_v = [ v w x y uni01B4 uni024F ];
 @second_i = [ i j agrave aacute adieresis atilde ];
@@ -59,6 +60,14 @@
 @second_slash = [ slash ];
 @second_colon = [ colon semicolon ];
 
+@second_comb_t1 = [ gravecomb uni0306 hookabovecomb uni030C uni030F ];
+@second_comb_t2 = [ acutecomb uni0302 uni030B uni0311 ];
+@second_comb_t3 = [ tildecomb uni0304 uni0305 uni0308 ];
+@second_comb_t4 = [ uni0307 uni030D uni033E uni0351 uni0357 ]; #dot
+@second_comb_t5 = [ uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364 ]; #ring
+@second_comb_tAll = [ @second_comb_t1 @second_comb_t2 @second_comb_t3 @second_comb_t4 @second_comb_t5 ];
+@second_comb_tBroad = [ @second_comb_t1 @second_comb_t3 @second_comb_t5 ];
+@second_comb_tSlndr = [ @second_comb_t2 @second_comb_t4 ];
 
 lookup kern {
     pos @first_A @second_O -50;
@@ -78,13 +87,13 @@ lookup kern {
     pos @first_csc @second_csc -15;
 
     pos @first_E @second_o -25;
-    pos @first_E @second_m -10;
+    pos @first_E [ @second_m @second_dotlessi ] -10;
     pos @first_E @second_t -20;
     pos @first_E @second_v -30;
 
     pos @first_F @second_asc -85;
     pos @first_F @second_o -30;
-    pos @first_F @second_m -40;
+    pos @first_F [ @second_m @second_dotlessi ] -40;
     pos @first_F @second_t -20;
     pos @first_F @second_v -30;
     pos @first_fsc @second_asc -45;
@@ -99,7 +108,7 @@ lookup kern {
     pos @first_lsc @second_quoteright -60;
 
     pos @first_M @second_o -20;
-    pos @first_M @second_m -10;
+    pos @first_M [ @second_m @second_dotlessi ] -10;
     pos @first_M @second_t -40;
     pos @first_M @second_v -40;
 
@@ -121,8 +130,8 @@ lookup kern {
     pos @first_T @second_O -30;
     pos @first_T @second_bsc -110;
     pos @first_T @second_csc -135;
-    pos @first_T @second_o -135;
-    pos @first_T @second_m -120;
+    pos @first_T @second_o -105;
+    pos @first_T [ @second_m @second_dotlessi ] -90;
     pos @first_T @second_t -100;
     pos @first_T @second_v -100;
     pos @first_T @second_period -75;
@@ -148,7 +157,7 @@ lookup kern {
     
     pos @first_a uni02BF -45;
     
-    pos @first_f @second_o -45;
+    pos @first_f @second_o -25;
     pos @first_f @second_HighAscAfter_longf 70;
     pos @first_f uni02BF 120;
     
@@ -173,7 +182,7 @@ lookup kern {
     pos @first_quoteright @second_asc -120;
     pos @first_quoteright @second_csc -70;
     pos @first_quoteright @second_o -90;
-    pos @first_quoteright @second_m -30;
+    pos @first_quoteright [ @second_m @second_dotlessi ] -30;
         
     pos @first_quoteleft @second_A -130;
     
@@ -280,8 +289,37 @@ lookup ckern2 {
     pos @first_Upsilon' -70 @grk_topAcc @second_GrNoAsc;
 } ckern2;
 
+lookup ckern3 {
+    pos @first_T' 110 @second_bsc @second_comb_tBroad;
+    pos @first_T' 135 @second_csc @second_comb_tBroad;
+    pos @first_T' 135 @second_o @second_comb_tBroad;
+    pos @first_T' 120 @second_m @second_comb_tBroad;
+    pos @first_T' 210 @second_dotlessi @second_comb_tBroad;    
+    pos @first_T' 100 @second_t @second_comb_tBroad;
+    pos @first_T' 100 @second_v @second_comb_tBroad;
+    
+    pos @first_T' 90 @second_bsc @second_comb_tSlndr; 
+    pos @first_T' 115 @second_csc @second_comb_tSlndr; 
+    pos @first_T' 115 @second_o @second_comb_tSlndr; 
+    pos @first_T' 100 @second_m @second_comb_tSlndr; 
+    pos @first_T' 190 @second_dotlessi @second_comb_tSlndr;     
+    pos @first_T' 80 @second_t @second_comb_tSlndr; 
+    pos @first_T' 80 @second_v @second_comb_tSlndr; 
+    
+    pos @first_f' 95 @second_o @second_comb_tBroad;
+    pos @first_f' 95 @second_o @second_comb_tBroad;
+    pos @first_f' 95 @second_dotlessi @second_comb_tBroad; 
+
+    pos @first_f' 75 @second_o @second_comb_tSlndr;
+    pos @first_f' 75 @second_o @second_comb_tSlndr;
+    pos @first_f' 75 @second_dotlessi @second_comb_tSlndr; 
+    
+    pos f.short' 20 @second_dotlessi @second_comb_tBroad; 
+} ckern3;
+
 feature kern {
       lookup kern;
       lookup ckern1;
       lookup ckern2;
+      lookup ckern3;
 } kern;
