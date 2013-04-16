@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1366065132
+ModificationTime: 1366106416
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -185,7 +185,7 @@ Lookup: 257 0 0 "Single Positioning lookup 30"  {"Single Positioning lookup 30 s
 Lookup: 264 0 0 "ckern2"  {"ckern2 contextual 0"  "ckern2 contextual 1"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 257 0 0 "Single Positioning lookup 32"  {"Single Positioning lookup 32 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 33"  {"Single Positioning lookup 33 subtable"  } []
-Lookup: 264 0 0 "ckern3"  {"ckern3 contextual 0"  "ckern3 contextual 1"  "ckern3 contextual 2"  "ckern3 contextual 3"  "ckern3 contextual 4"  "ckern3 contextual 5"  "ckern3 contextual 6"  "ckern3 contextual 7"  "ckern3 contextual 8"  "ckern3 contextual 9"  "ckern3 contextual 10"  "ckern3 contextual 11"  "ckern3 contextual 12"  "ckern3 contextual 13"  "ckern3 contextual 14"  "ckern3 contextual 15"  "ckern3 contextual 16"  "ckern3 contextual 17"  "ckern3 contextual 18"  "ckern3 contextual 19"  "ckern3 contextual 20"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 264 0 0 "ckern3"  {"ckern3 contextual 0"  "ckern3 contextual 1"  "ckern3 contextual 2"  "ckern3 contextual 3"  "ckern3 contextual 4"  "ckern3 contextual 5"  "ckern3 contextual 6"  "ckern3 contextual 7"  "ckern3 contextual 8"  "ckern3 contextual 9"  "ckern3 contextual 10"  "ckern3 contextual 11"  "ckern3 contextual 12"  "ckern3 contextual 13"  "ckern3 contextual 14"  "ckern3 contextual 15"  "ckern3 contextual 16"  "ckern3 contextual 17"  "ckern3 contextual 18"  "ckern3 contextual 19"  "ckern3 contextual 20"  "ckern3 contextual 21"  "ckern3 contextual 22"  "ckern3 contextual 23"  "ckern3 contextual 24"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 257 0 0 "Single Positioning lookup 35"  {"Single Positioning lookup 35 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 36"  {"Single Positioning lookup 36 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 37"  {"Single Positioning lookup 37 subtable"  } []
@@ -207,6 +207,10 @@ Lookup: 257 0 0 "Single Positioning lookup 52"  {"Single Positioning lookup 52 s
 Lookup: 257 0 0 "Single Positioning lookup 53"  {"Single Positioning lookup 53 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 54"  {"Single Positioning lookup 54 subtable"  } []
 Lookup: 257 0 0 "Single Positioning lookup 55"  {"Single Positioning lookup 55 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 56"  {"Single Positioning lookup 56 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 57"  {"Single Positioning lookup 57 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 58"  {"Single Positioning lookup 58 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 59"  {"Single Positioning lookup 59 subtable"  } []
 Lookup: 260 0 0 "mark"  {"mark anchor 0"  "mark anchor 1"  "mark anchor 2"  "mark anchor 3"  "mark anchor 4"  "mark anchor 5"  "mark anchor 6"  "mark anchor 7"  "mark anchor 8"  "mark anchor 9"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > ) ]
 Lookup: 262 0 0 "mkmk"  {"mkmk anchor 0"  "mkmk anchor 1"  "mkmk anchor 2"  "mkmk anchor 3"  "mkmk anchor 4"  } ['mkmk' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 257 0 0 "lfbd"  {"lfbd subtable"  } ['lfbd' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
@@ -656,9 +660,41 @@ ChainSub2: glyph "loclCAT contextual 0"  0 0 0 1
  1
   SeqLookup: 0 "Single Substitution lookup 3" 
 EndFPST
-ChainPos2: coverage "ckern3 contextual 20"  0 0 0 1
+ChainPos2: coverage "ckern3 contextual 24"  0 0 0 1
  1 0 2
   Coverage: 7 f.short
+  FCoverage: 28 dotlessi i.dotless j.dotless
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 59" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 23"  0 0 0 1
+ 1 0 2
+  Coverage: 34 f f_f f.long f.DEU f_f.long florin
+  FCoverage: 28 dotlessi i.dotless j.dotless
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 58" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 22"  0 0 0 1
+ 1 0 2
+  Coverage: 34 f f_f f.long f.DEU f_f.long florin
+  FCoverage: 115 a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 57" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 21"  0 0 0 1
+ 1 0 2
+  Coverage: 34 f f_f f.long f.DEU f_f.long florin
+  FCoverage: 115 a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 56" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 20"  0 0 0 1
+ 1 0 2
+  Coverage: 34 f f_f f.long f.DEU f_f.long florin
   FCoverage: 28 dotlessi i.dotless j.dotless
   FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
  1
@@ -667,8 +703,8 @@ EndFPST
 ChainPos2: coverage "ckern3 contextual 19"  0 0 0 1
  1 0 2
   Coverage: 34 f f_f f.long f.DEU f_f.long florin
-  FCoverage: 28 dotlessi i.dotless j.dotless
-  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+  FCoverage: 115 a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
  1
   SeqLookup: 0 "Single Positioning lookup 54" 
 EndFPST
@@ -676,62 +712,62 @@ ChainPos2: coverage "ckern3 contextual 18"  0 0 0 1
  1 0 2
   Coverage: 34 f f_f f.long f.DEU f_f.long florin
   FCoverage: 115 a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B
-  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
  1
   SeqLookup: 0 "Single Positioning lookup 53" 
 EndFPST
 ChainPos2: coverage "ckern3 contextual 17"  0 0 0 1
  1 0 2
-  Coverage: 34 f f_f f.long f.DEU f_f.long florin
-  FCoverage: 115 a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B
-  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+  Coverage: 25 T uni01AC uni01AE uni023E
+  FCoverage: 28 dotlessi i.dotless j.dotless
+  FCoverage: 7 uni030F
  1
   SeqLookup: 0 "Single Positioning lookup 52" 
 EndFPST
 ChainPos2: coverage "ckern3 contextual 16"  0 0 0 1
  1 0 2
-  Coverage: 34 f f_f f.long f.DEU f_f.long florin
+  Coverage: 25 T uni01AC uni01AE uni023E
   FCoverage: 28 dotlessi i.dotless j.dotless
-  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+  FCoverage: 43 gravecomb tildecomb uni0304 uni0306 uni0308
  1
   SeqLookup: 0 "Single Positioning lookup 51" 
 EndFPST
 ChainPos2: coverage "ckern3 contextual 15"  0 0 0 1
  1 0 2
-  Coverage: 34 f f_f f.long f.DEU f_f.long florin
-  FCoverage: 115 a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B
-  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+  Coverage: 25 T uni01AC uni01AE uni023E
+  FCoverage: 28 dotlessi i.dotless j.dotless
+  FCoverage: 15 uni0302 uni030C
  1
   SeqLookup: 0 "Single Positioning lookup 50" 
 EndFPST
 ChainPos2: coverage "ckern3 contextual 14"  0 0 0 1
  1 0 2
-  Coverage: 34 f f_f f.long f.DEU f_f.long florin
-  FCoverage: 115 a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B
-  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+  Coverage: 25 T uni01AC uni01AE uni023E
+  FCoverage: 28 dotlessi i.dotless j.dotless
+  FCoverage: 45 hookabovecomb uni030A uni030E uni0311 uni0364
  1
   SeqLookup: 0 "Single Positioning lookup 49" 
 EndFPST
 ChainPos2: coverage "ckern3 contextual 13"  0 0 0 1
  1 0 2
   Coverage: 25 T uni01AC uni01AE uni023E
-  FCoverage: 23 v w x y uni01B4 uni024F
-  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+  FCoverage: 28 dotlessi i.dotless j.dotless
+  FCoverage: 71 uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357
  1
   SeqLookup: 0 "Single Positioning lookup 48" 
 EndFPST
 ChainPos2: coverage "ckern3 contextual 12"  0 0 0 1
  1 0 2
   Coverage: 25 T uni01AC uni01AE uni023E
-  FCoverage: 1 t
-  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+  FCoverage: 28 dotlessi i.dotless j.dotless
+  FCoverage: 9 acutecomb
  1
   SeqLookup: 0 "Single Positioning lookup 47" 
 EndFPST
 ChainPos2: coverage "ckern3 contextual 11"  0 0 0 1
  1 0 2
   Coverage: 25 T uni01AC uni01AE uni023E
-  FCoverage: 28 dotlessi i.dotless j.dotless
+  FCoverage: 23 v w x y uni01B4 uni024F
   FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
  1
   SeqLookup: 0 "Single Positioning lookup 46" 
@@ -739,7 +775,7 @@ EndFPST
 ChainPos2: coverage "ckern3 contextual 10"  0 0 0 1
  1 0 2
   Coverage: 25 T uni01AC uni01AE uni023E
-  FCoverage: 59 m n p r u uogonek z uni01BF uni01B6 uni01BA uni021D uni024D
+  FCoverage: 1 t
   FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
  1
   SeqLookup: 0 "Single Positioning lookup 45" 
@@ -747,7 +783,7 @@ EndFPST
 ChainPos2: coverage "ckern3 contextual 9"  0 0 0 1
  1 0 2
   Coverage: 25 T uni01AC uni01AE uni023E
-  FCoverage: 115 a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B
+  FCoverage: 59 m n p r u uogonek z uni01BF uni01B6 uni01BA uni021D uni024D
   FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
  1
   SeqLookup: 0 "Single Positioning lookup 44" 
@@ -755,7 +791,7 @@ EndFPST
 ChainPos2: coverage "ckern3 contextual 8"  0 0 0 1
  1 0 2
   Coverage: 25 T uni01AC uni01AE uni023E
-  FCoverage: 49 C.sc c.sc G.sc g.sc O.sc o.sc Q.sc q.sc S.sc s.sc
+  FCoverage: 115 a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B
   FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
  1
   SeqLookup: 0 "Single Positioning lookup 43" 
@@ -763,7 +799,7 @@ EndFPST
 ChainPos2: coverage "ckern3 contextual 7"  0 0 0 1
  1 0 2
   Coverage: 25 T uni01AC uni01AE uni023E
-  FCoverage: 129 B.sc b.sc D.sc d.sc E.sc e.sc F.sc f.sc H.sc h.sc I.sc i.sc K.sc k.sc L.sc l.sc M.sc m.sc N.sc n.sc P.sc p.sc R.sc r.sc U.sc u.sc
+  FCoverage: 49 C.sc c.sc G.sc g.sc O.sc o.sc Q.sc q.sc S.sc s.sc
   FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
  1
   SeqLookup: 0 "Single Positioning lookup 42" 
@@ -771,15 +807,15 @@ EndFPST
 ChainPos2: coverage "ckern3 contextual 6"  0 0 0 1
  1 0 2
   Coverage: 25 T uni01AC uni01AE uni023E
-  FCoverage: 23 v w x y uni01B4 uni024F
-  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+  FCoverage: 129 B.sc b.sc D.sc d.sc E.sc e.sc F.sc f.sc H.sc h.sc I.sc i.sc K.sc k.sc L.sc l.sc M.sc m.sc N.sc n.sc P.sc p.sc R.sc r.sc U.sc u.sc
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
  1
   SeqLookup: 0 "Single Positioning lookup 41" 
 EndFPST
 ChainPos2: coverage "ckern3 contextual 5"  0 0 0 1
  1 0 2
   Coverage: 25 T uni01AC uni01AE uni023E
-  FCoverage: 1 t
+  FCoverage: 23 v w x y uni01B4 uni024F
   FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
  1
   SeqLookup: 0 "Single Positioning lookup 40" 
@@ -787,7 +823,7 @@ EndFPST
 ChainPos2: coverage "ckern3 contextual 4"  0 0 0 1
  1 0 2
   Coverage: 25 T uni01AC uni01AE uni023E
-  FCoverage: 28 dotlessi i.dotless j.dotless
+  FCoverage: 1 t
   FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
  1
   SeqLookup: 0 "Single Positioning lookup 39" 
@@ -1066,7 +1102,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 666 6 5
+WinInfo: 720 6 5
 BeginPrivate: 9
 BlueValues 55 [-22 0 268 287 400 430 450 464 616 630 650 664 700 705]
 OtherBlues 21 [-290 -285 -181 -167]

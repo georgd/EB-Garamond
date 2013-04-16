@@ -60,6 +60,13 @@
 @second_slash = [ slash ];
 @second_colon = [ colon semicolon ];
 
+@second_comb_top1 = [ acutecomb ];
+@second_comb_top2 = [ uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 ];
+@second_comb_top3 = [ hookabovecomb uni030A uni030E uni0311 uni0364 ];
+@second_comb_top4 = [ uni0302 uni030C  ];
+@second_comb_top5 = [ gravecomb tildecomb uni0304 uni0306 uni0308 ];
+@second_comb_top6 = [ uni030F ];
+
 @second_comb_t1 = [ gravecomb uni0306 hookabovecomb uni030C uni030F ];
 @second_comb_t2 = [ acutecomb uni0302 uni030B uni0311 ];
 @second_comb_t3 = [ tildecomb uni0304 uni0305 uni0308 ];
@@ -68,6 +75,7 @@
 @second_comb_tAll = [ @second_comb_t1 @second_comb_t2 @second_comb_t3 @second_comb_t4 @second_comb_t5 ];
 @second_comb_tBroad = [ @second_comb_t1 @second_comb_t3 @second_comb_t5 ];
 @second_comb_tSlndr = [ @second_comb_t2 @second_comb_t4 ];
+
 
 lookup kern {
     pos @first_A @second_O -50;
@@ -294,26 +302,31 @@ lookup ckern3 {
     pos @first_T' 135 @second_csc @second_comb_tBroad;
     pos @first_T' 135 @second_o @second_comb_tBroad;
     pos @first_T' 120 @second_m @second_comb_tBroad;
-    pos @first_T' 210 @second_dotlessi @second_comb_tBroad;    
     pos @first_T' 100 @second_t @second_comb_tBroad;
     pos @first_T' 100 @second_v @second_comb_tBroad;
-    
-    pos @first_T' 90 @second_bsc @second_comb_tSlndr; 
-    pos @first_T' 115 @second_csc @second_comb_tSlndr; 
-    pos @first_T' 115 @second_o @second_comb_tSlndr; 
-    pos @first_T' 100 @second_m @second_comb_tSlndr; 
-    pos @first_T' 190 @second_dotlessi @second_comb_tSlndr;     
-    pos @first_T' 80 @second_t @second_comb_tSlndr; 
-    pos @first_T' 80 @second_v @second_comb_tSlndr; 
-    
+
+    pos @first_T' 90 @second_bsc @second_comb_tSlndr;
+    pos @first_T' 115 @second_csc @second_comb_tSlndr;
+    pos @first_T' 115 @second_o @second_comb_tSlndr;
+    pos @first_T' 100 @second_m @second_comb_tSlndr;
+    pos @first_T' 80 @second_t @second_comb_tSlndr;
+    pos @first_T' 80 @second_v @second_comb_tSlndr;
+
+    pos @first_T'  60 @second_dotlessi @second_comb_top1;
+    pos @first_T'  90 @second_dotlessi @second_comb_top2;
+    pos @first_T' 110 @second_dotlessi @second_comb_top3;
+    pos @first_T' 125 @second_dotlessi @second_comb_top4;
+    pos @first_T' 145 @second_dotlessi @second_comb_top5;
+    pos @first_T' 180 @second_dotlessi @second_comb_top6;
+
     pos @first_f' 95 @second_o @second_comb_tBroad;
     pos @first_f' 95 @second_o @second_comb_tBroad;
-    pos @first_f' 95 @second_dotlessi @second_comb_tBroad; 
+    pos @first_f' 95 @second_dotlessi @second_comb_tBroad;
 
     pos @first_f' 75 @second_o @second_comb_tSlndr;
     pos @first_f' 75 @second_o @second_comb_tSlndr;
-    pos @first_f' 75 @second_dotlessi @second_comb_tSlndr; 
-    
+    pos @first_f' 75 @second_dotlessi @second_comb_tSlndr;
+
     pos f.short' 20 @second_dotlessi @second_comb_tBroad; 
 } ckern3;
 
