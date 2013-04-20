@@ -14,13 +14,17 @@ lookup Q_alts {
 #    sub @DEFAULT_F' by @SHORT_F;
 #} f_long;
 
-lookup f_long {
+lookup f_long1 {
      sub @DEFAULT_F' [ @HIGH_ASC_F @HIGH_PUNCT @ORDN @SUPS ] by @SHORT_F;
      sub @DEFAULT_F' uni200C @HIGH_ASC_F by @SHORT_F;
      sub @DEFAULT_F' @NO_ASC @abovediacritics by @SHORT_F;
      sub @DEFAULT_LONGS' [ @HIGH_ASC_LONGS @HIGH_PUNCT @ORDN @SUPS ] by @SHORT_LONGS;
      sub @DEFAULT_LONGS' uni200C @HIGH_ASC_LONGS by @SHORT_LONGS;
-} f_long;
+} f_long1;
+
+lookup f_long2 {
+     sub @DEFAULT_F' uni200C @SHORT_F by @SHORT_F;
+} f_long2;
 
 lookup caltLAT {
     #sub [ space @PUNCT ] u.LAT' by u.LATinit;
@@ -33,7 +37,8 @@ lookup UC_hyphen {
 
 feature calt {
     lookup Q_alts;
-    lookup f_long;
+    lookup f_long1;
+    lookup f_long2;
     lookup caltLAT;
     lookup UC_hyphen;
 } calt;

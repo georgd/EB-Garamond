@@ -2,7 +2,7 @@ StartChar: f._asc
 Encoding: 66579 -1 2926
 Width: 265
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "below_accent" 134 -100 basechar 0
 AnchorPoint: "top_accent" 281 800 basechar 0
 LayerCount: 3
@@ -57,8 +57,8 @@ SplineSet
  220 665 160 610 160 475 c 2
  160 422 l 2
  160 404 172 400 185 400 c 10
- 351 400 l 17
- 351 352 l 9
+ 363 400 l 17
+ 363 352 l 9
  200 352 l 18
  164 352 160 345 160 335 c 2
  160 68 l 2
@@ -79,5 +79,4 @@ SplineSet
  373 706 420 698 420 646 c 0
  420 624 381 609 363 609 c 0
 EndSplineSet
-Validated: 1
 EndChar
