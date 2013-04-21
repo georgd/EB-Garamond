@@ -1,8 +1,10 @@
 StartChar: uni0257
 Encoding: 599 599 2111
-Width: 506
+Width: 504
 VWidth: 0
 Flags: HMW
+AnchorPoint: "top_accent" 263 761 basechar 0
+AnchorPoint: "below_accent" 241 -100 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -23,11 +25,11 @@ SplineSet
  342 388 346 384 348 384 c 0
  351 384 352 390 352 408 c 2
  352 465 l 2
- 352 612 448 706 534 706 c 4
- 567 706 598 702 611 686 c 4
- 617 679 619 673 619 667 c 4
- 619 645 601 622 582 622 c 4
- 555 622 552 676 503 676 c 4
+ 352 612 448 706 534 706 c 0
+ 567 706 598 702 611 686 c 0
+ 617 679 619 673 619 667 c 0
+ 619 645 601 622 582 622 c 0
+ 555 622 552 676 503 676 c 0
  460 676 423 609 422 500 c 1
  422 110 l 2
 229 379 m 0
@@ -37,5 +39,4 @@ SplineSet
  352 255 l 2
  352 311 307 379 229 379 c 0
 EndSplineSet
-Validated: 1
 EndChar
