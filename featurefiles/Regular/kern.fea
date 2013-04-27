@@ -33,6 +33,7 @@
 @second_asc = [ A.sc a.sc ];
 @second_bsc = [ B.sc b.sc D.sc d.sc E.sc e.sc F.sc f.sc H.sc h.sc I.sc i.sc K.sc k.sc L.sc l.sc M.sc m.sc N.sc n.sc P.sc p.sc R.sc r.sc U.sc u.sc ];
 @second_csc = [ C.sc c.sc G.sc g.sc O.sc o.sc Q.sc q.sc S.sc s.sc ];
+@second_isc = [ I.sc i.sc ];
 @second_O = [ C G O Ohorn Q ];
 @second_T = [ T ];
 @second_tsc = [ T.sc t.sc ];
@@ -60,12 +61,14 @@
 @second_slash = [ slash ];
 @second_colon = [ colon semicolon ];
 
-@second_comb_top1 = [ acutecomb ];
-@second_comb_top2 = [ uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 ];
-@second_comb_top3 = [ hookabovecomb uni030A uni030E uni0311 uni0364 ];
-@second_comb_top4 = [ uni0302 uni030C  ];
-@second_comb_top5 = [ gravecomb tildecomb uni0304 uni0306 uni0308 ];
+@second_comb_top1 = [ acutecomb acutecomb.sc ];
+@second_comb_top2 = [ uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307.sc uni030B.sc uni0312.sc uni0313.sc uni0314.sc ];
+@second_comb_top3 = [ hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb.sc uni030A.sc uni0311.sc ];
+@second_comb_top4 = [ uni0302 uni030C uni0302.sc uni030C.sc  ];
+@second_comb_top5 = [ gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb.sc tildecomb.sc uni0304.sc uni0306.sc uni0308.sc ];
 @second_comb_top6 = [ uni030F ];
+
+@top_diac = [ @second_comb_top1 @second_comb_top2 @second_comb_top3 @second_comb_top4 @second_comb_top5 @second_comb_top6 ];
 
 @second_comb_t1 = [ gravecomb uni0306 hookabovecomb uni030C uni030F ];
 @second_comb_t2 = [ acutecomb uni0302 uni030B uni0311 ];
@@ -136,7 +139,8 @@ lookup kern {
 
     pos @first_T @second_A -85;
     pos @first_T @second_O -30;
-    pos @first_T @second_bsc -110;
+    pos @first_T @second_asc -60;
+    pos @first_T [ @second_bsc @second_isc ] -110;
     pos @first_T @second_csc -135;
     pos @first_T @second_o -105;
     pos @first_T [ @second_m @second_dotlessi ] -90;
@@ -151,6 +155,7 @@ lookup kern {
 
     pos @first_V @second_A -150;
     pos @first_V @second_asc -150;
+    pos @first_V [ @second_bsc @second_isc ] -50;
     pos @first_V @second_csc -85;
     pos @first_V @second_o -100;
     pos @first_V @second_t -80;
@@ -298,15 +303,11 @@ lookup ckern2 {
 } ckern2;
 
 lookup ckern3 {
-    pos @first_T' 110 @second_bsc @second_comb_tBroad;
-    pos @first_T' 135 @second_csc @second_comb_tBroad;
     pos @first_T' 135 @second_o @second_comb_tBroad;
     pos @first_T' 120 @second_m @second_comb_tBroad;
     pos @first_T' 100 @second_t @second_comb_tBroad;
     pos @first_T' 100 @second_v @second_comb_tBroad;
 
-    pos @first_T' 90 @second_bsc @second_comb_tSlndr;
-    pos @first_T' 115 @second_csc @second_comb_tSlndr;
     pos @first_T' 115 @second_o @second_comb_tSlndr;
     pos @first_T' 100 @second_m @second_comb_tSlndr;
     pos @first_T' 80 @second_t @second_comb_tSlndr;
@@ -318,6 +319,50 @@ lookup ckern3 {
     pos @first_T' 125 @second_dotlessi @second_comb_top4;
     pos @first_T' 145 @second_dotlessi @second_comb_top5;
     pos @first_T' 180 @second_dotlessi @second_comb_top6;
+    
+    pos @first_T'  15 @second_bsc @second_comb_top3;
+    pos @first_T'  30 @second_bsc @second_comb_top4;
+    pos @first_T'  45 @second_bsc @second_comb_top5;
+    pos @first_T'  80 @second_bsc @second_comb_top6;
+
+    pos @first_T'  25 @second_csc @second_comb_top3;
+    pos @first_T'  40 @second_csc @second_comb_top4;
+    pos @first_T'  60 @second_csc @second_comb_top5;
+    pos @first_T'  95 @second_csc @second_comb_top6;
+
+    pos @first_T'  70 @second_isc @second_comb_top1;
+    pos @first_T' 100 @second_isc @second_comb_top2;
+    pos @first_T' 120 @second_isc @second_comb_top3;
+    pos @first_T' 135 @second_isc @second_comb_top4;
+    pos @first_T' 155 @second_isc @second_comb_top5;
+    pos @first_T' 190 @second_isc @second_comb_top6;
+
+    pos @first_V'  15 @second_asc @second_comb_top1;
+    pos @first_V'  45 @second_asc @second_comb_top2;
+    pos @first_V'  65 @second_asc @second_comb_top3;
+    pos @first_V'  80 @second_asc @second_comb_top4;
+    pos @first_V' 100 @second_asc @second_comb_top5;
+    pos @first_V' 135 @second_asc @second_comb_top6;
+
+    pos @first_V'  15 @second_csc @second_comb_top4;
+    pos @first_V'  25 @second_csc @second_comb_top5;
+    pos @first_V'  60 @second_csc @second_comb_top6;
+    
+    pos @first_V'  15 @second_isc @second_comb_top1;
+    pos @first_V'  45 @second_isc @second_comb_top2;
+    pos @first_V'  65 @second_isc @second_comb_top3;
+    pos @first_V'  80 @second_isc @second_comb_top4;
+    pos @first_V' 100 @second_isc @second_comb_top5;
+    pos @first_V' 135 @second_isc @second_comb_top6;
+    
+    pos @first_asc' -25 @top_diac @second_csc;
+    pos @first_asc' -40 @top_diac @second_tsc;
+    pos @first_asc' -75 @top_diac @second_vsc;
+    pos @first_asc' -35 @top_diac @second_quoteright;
+
+    pos @first_osc' -25 @top_diac @second_asc;
+    pos @first_osc' -25 @top_diac @second_vsc;
+    pos @first_osc' -15 @top_diac @second_ysc;
 
     pos @first_f' 95 @second_o @second_comb_tBroad;
     pos @first_f' 95 @second_o @second_comb_tBroad;
