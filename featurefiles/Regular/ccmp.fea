@@ -1,3 +1,5 @@
+include (ccmpcomp.fea)
+
 lookup CCMP_contextual {
     sub [ i j ]' @abovediacritics by [ i.dotless j.dotless ];
     sub [ l d t ] \uni030C' by uni030C.alt;
@@ -23,7 +25,9 @@ lookup CCMP_stackgrk2 {
     sub [ uni0313.grk uni0314.grk ] [ gravecomb acutecomb ]' by [ gravecomb.grkstack acutecomb.grkstack ];
 } CCMP_stackgrk2;
 
-include (ccmpcomp.fea)
+feature ss20 {
+  lookup CCMP_Precomp;
+} ss20;
 
 feature ccmp {
   lookup CCMP_contextual;
@@ -32,7 +36,3 @@ feature ccmp {
   lookup CCMP_stackgrk1;
   lookup CCMP_stackgrk2;
 } ccmp;
-
-feature ss20 {
-  lookup CCMP_Precomp;
-} ss20;
