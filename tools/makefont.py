@@ -70,7 +70,8 @@ if args.reloadgsub:
 extension = os.path.splitext(args.output)[1]
 if extension == '.ttf':
     font.correctReferences()
-    font.em = 2048
+#   we don't scale the font any longer
+#    font.em = 2048
     font.round()
 
-font.generate(args.output) #do somthing about 'old-kern'
+font.generate(args.output) #do somthing about 'old-kern'## should we really?
