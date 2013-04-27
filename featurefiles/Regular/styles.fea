@@ -55,6 +55,7 @@ lookup alternate_h {
 } alternate_h;
 
 feature ss07 {
+#    lookup CCMP_Precomp;
     lookup alternate_h;
 } ss07;
 
@@ -80,6 +81,7 @@ lookup alternate_a {
 } alternate_a;
 
 feature cv21 {
+    lookup CCMP_Precomp;
     lookup alternate_a;
 } cv21;
 
@@ -88,6 +90,7 @@ lookup alternate_g {
 } alternate_g;
 
 feature cv27 {
+    lookup CCMP_Precomp;
     lookup alternate_g;
 } cv27;
 

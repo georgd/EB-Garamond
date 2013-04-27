@@ -3,6 +3,7 @@ lookup perispomeni_alt {
 } perispomeni_alt;
 
 feature cv80 {
+    lookup CCMP_Precomp;
     lookup perispomeni_alt;
 } cv80;
 
@@ -11,5 +12,6 @@ lookup prosgegrammeni_alt {
 } prosgegrammeni_alt;
 
 feature cv81 {
+    lookup CCMP_Precomp;
     lookup prosgegrammeni_alt;
 } cv81;

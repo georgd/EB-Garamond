@@ -19,9 +19,11 @@ lookup c2sc {
 } c2sc;
 
 feature smcp {
+    lookup CCMP_Precomp;
     lookup Smallcaps;
 } smcp;
 
 feature c2sc {
+    lookup CCMP_Precomp;
     lookup c2sc;
 } c2sc;
