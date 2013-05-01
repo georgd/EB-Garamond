@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1367079603
+ModificationTime: 1367432451
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -117,7 +117,7 @@ Lookup: 1 0 0 "ipa_variants"  {"ipa_variants subtable"  } ['ss06' ('latn' <'dflt
 Lookup: 1 0 0 "Smallcaps"  {"Smallcaps subtable"  } ['smcp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "c2sc"  {"c2sc subtable"  } ['c2sc' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "'hlig' Historic Ligatures lookup 63"  {"'hlig' Historic Ligatures lookup 63 subtable"  } ['hlig' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "liga_f"  {"liga_f contextual 0"  "liga_f contextual 1"  "liga_f contextual 2"  "liga_f contextual 3"  "liga_f contextual 4"  "liga_f contextual 5"  "liga_f contextual 6"  "liga_f contextual 7"  "liga_f contextual 8"  "liga_f contextual 9"  "liga_f contextual 10"  "liga_f contextual 11"  "liga_f contextual 12"  "liga_f contextual 13"  "liga_f contextual 14"  "liga_f contextual 15"  "liga_f contextual 16"  "liga_f contextual 17"  "liga_f contextual 18"  } ['liga' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "liga_f"  {"liga_f contextual 0"  "liga_f contextual 1"  "liga_f contextual 2"  "liga_f contextual 3"  "liga_f contextual 4"  "liga_f contextual 5"  "liga_f contextual 6"  "liga_f contextual 7"  "liga_f contextual 8"  "liga_f contextual 9"  "liga_f contextual 10"  "liga_f contextual 11"  "liga_f contextual 12"  "liga_f contextual 13"  "liga_f contextual 14"  "liga_f contextual 15"  "liga_f contextual 16"  "liga_f contextual 17"  "liga_f contextual 18"  "liga_f contextual 19"  } ['liga' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 65"  {"Single Substitution lookup 65 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 66"  {"Single Substitution lookup 66 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 67"  {"Single Substitution lookup 67 subtable"  } []
@@ -414,7 +414,7 @@ ChainSub2: coverage "Q_alts contextual 0"  0 0 0 1
  1
   SeqLookup: 0 "Single Substitution lookup 84" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 18"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 19"  0 0 0 1
  1 0 2
   Coverage: 5 longs
   FCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
@@ -422,7 +422,7 @@ ChainSub2: coverage "liga_f contextual 18"  0 0 0 1
  1
   SeqLookup: 0 "Single Substitution lookup 80" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 17"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 18"  0 0 0 1
  1 2 0
   Coverage: 13 b h k l thorn
   BCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
@@ -430,7 +430,7 @@ ChainSub2: coverage "liga_f contextual 17"  0 0 0 1
  1
   SeqLookup: 0 "Single Substitution lookup 79" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 16"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 17"  0 0 0 1
  1 0 2
   Coverage: 7 f longs
   FCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
@@ -438,7 +438,7 @@ ChainSub2: coverage "liga_f contextual 16"  0 0 0 1
  1
   SeqLookup: 0 "Single Substitution lookup 78" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 15"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 16"  0 0 0 1
  1 2 0
   Coverage: 3 i j
   BCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
@@ -446,7 +446,7 @@ ChainSub2: coverage "liga_f contextual 15"  0 0 0 1
  1
   SeqLookup: 0 "Single Substitution lookup 77" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 14"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 15"  0 0 0 1
  1 0 2
   Coverage: 5 f.DEU
   FCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
@@ -454,7 +454,7 @@ ChainSub2: coverage "liga_f contextual 14"  0 0 0 1
  1
   SeqLookup: 0 "Single Substitution lookup 76" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 13"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 14"  0 0 0 1
  1 0 2
   Coverage: 13 f f.DEU longs
   FCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
@@ -462,7 +462,7 @@ ChainSub2: coverage "liga_f contextual 13"  0 0 0 1
  1
   SeqLookup: 0 "Single Substitution lookup 75" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 12"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 13"  0 0 0 1
  1 2 0
   Coverage: 1 t
   BCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
@@ -470,7 +470,7 @@ ChainSub2: coverage "liga_f contextual 12"  0 0 0 1
  1
   SeqLookup: 0 "Single Substitution lookup 74" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 11"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 12"  0 0 0 1
  1 0 2
   Coverage: 7 f f.DEU
   FCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
@@ -478,61 +478,67 @@ ChainSub2: coverage "liga_f contextual 11"  0 0 0 1
  1
   SeqLookup: 0 "Single Substitution lookup 73" 
 EndFPST
-ChainSub2: glyph "liga_f contextual 10"  0 0 0 1
+ChainSub2: glyph "liga_f contextual 11"  0 0 0 1
  String: 5 longs
  BString: 0 
  FString: 5 longs
  1
   SeqLookup: 0 "Single Substitution lookup 72" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 9"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 10"  0 0 0 1
  1 1 0
   Coverage: 13 b h k l thorn
   BCoverage: 17 f._asc longs._asc
  1
   SeqLookup: 0 "Single Substitution lookup 71" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 8"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 9"  0 0 0 1
  1 0 1
   Coverage: 7 f longs
   FCoverage: 13 b h k l thorn
  1
   SeqLookup: 0 "Single Substitution lookup 70" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 7"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 8"  0 0 0 1
  1 1 0
   Coverage: 3 i j
   BCoverage: 13 f._i longs._i
  1
   SeqLookup: 0 "Single Substitution lookup 69" 
 EndFPST
-ChainSub2: glyph "liga_f contextual 6"  0 0 0 1
+ChainSub2: glyph "liga_f contextual 7"  0 0 0 1
  String: 5 f.DEU
  BString: 0 
  FString: 1 l
  1
   SeqLookup: 0 "Single Substitution lookup 68" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 5"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 6"  0 0 0 1
  1 0 1
   Coverage: 13 f f.DEU longs
   FCoverage: 3 i j
  1
   SeqLookup: 0 "Single Substitution lookup 67" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 4"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 5"  0 0 0 1
  1 1 0
   Coverage: 1 t
   BCoverage: 7 f f.DEU
  1
   SeqLookup: 0 "Single Substitution lookup 66" 
 EndFPST
-ChainSub2: coverage "liga_f contextual 3"  0 0 0 1
+ChainSub2: coverage "liga_f contextual 4"  0 0 0 1
  1 0 1
   Coverage: 7 f f.DEU
   FCoverage: 7 f f.DEU
  1
   SeqLookup: 0 "Single Substitution lookup 65" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 3"  0 0 0 1
+ 1 0 1
+  Coverage: 13 f f.DEU longs
+  FCoverage: 7 uni200C
+ 0
 EndFPST
 ChainSub2: glyph "liga_f contextual 2"  0 0 0 1
  String: 5 f.DEU
@@ -1400,7 +1406,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1572 6 5
+WinInfo: 2370 6 5
 BeginPrivate: 9
 BlueValues 55 [-22 0 268 287 400 430 450 464 616 630 650 664 700 705]
 OtherBlues 21 [-290 -285 -181 -167]
