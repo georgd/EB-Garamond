@@ -59,6 +59,7 @@ feature lnum {
 } lnum;
 
 feature onum {
+    sub percent by percent.sc;
     sub @LNUM by @ONUM;
     sub @LNUM_TNUM by @ONUM_TNUM;
 } onum;

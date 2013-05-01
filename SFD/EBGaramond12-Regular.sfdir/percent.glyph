@@ -9,9 +9,8 @@ SplineSet
 550 321 m 0
  511 321 486 242 486 181 c 0
  486 110 509 10 554 10 c 0
- 598 10 616 96 616 160 c 2
- 616 165 l 9
- 615 231 590 321 550 321 c 0
+ 598 10 616 96 616 160 c 0
+ 616 227 591 321 550 321 c 0
 561 348 m 16
  644 348 686 262 686 177 c 0
  686 83 638 -14 543 -14 c 8
@@ -20,9 +19,8 @@ SplineSet
 183 603 m 0
  144 603 119 524 119 463 c 0
  119 392 142 292 187 292 c 0
- 231 292 249 378 249 442 c 2
- 249 447 l 9
- 248 513 223 603 183 603 c 0
+ 231 292 249 378 249 442 c 0
+ 249 509 224 603 183 603 c 0
 194 630 m 16
  277 630 319 544 319 459 c 0
  319 365 271 268 176 268 c 8
@@ -38,7 +36,7 @@ SplineSet
  144 -26 135 -20 135 -14 c 0
  135 -13 135 -12 136 -11 c 10
 EndSplineSet
-Validated: 1
+Substitution2: "'onum' Minuskelziffern lookup 34 subtable" percent.sc
 Substitution2: "sups subtable" percent.sups
 Substitution2: "sinf subtable" percent.sinf
 Substitution2: "ordn subtable" percent.ordn
