@@ -2,7 +2,7 @@ StartChar: Hbar
 Encoding: 294 294 751
 Width: 725
 VWidth: 982
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -15,6 +15,5 @@ SplineSet
  36 413 l 2
 EndSplineSet
 Refer: 40 72 N 1 0 0 1 0 0 2
-Validated: 32773
 Substitution2: "c2sc subtable" Hbar.sc
 EndChar

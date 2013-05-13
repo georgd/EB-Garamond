@@ -2,7 +2,7 @@ StartChar: two
 Encoding: 50 50 19
 Width: 415
 VWidth: 982
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -23,12 +23,11 @@ SplineSet
  65 303 58 319 58 325 c 0
  58 334 105 429 223 429 c 0
  287 429 341 384 341 321 c 0
- 341 289 295 224 271 195 c 0
- 241 159 168 82 158 75 c 0
+ 341 279 306.695743426 238.148741595 271 195 c 0
+ 241.13031184 158.893749444 168 82 158 75 c 0
  152 71 161 67 167 67 c 2
  272 68 l 2
 EndSplineSet
-Validated: 33
 Substitution2: "'tnum' Tabular Numbers lookup 35 subtable" two.taboldstyle
 Substitution2: "'lnum' Lining Figures lookup 33 subtable" two.lnum
 Substitution2: "Single Substitution lookup 32 subtable" two.ordn

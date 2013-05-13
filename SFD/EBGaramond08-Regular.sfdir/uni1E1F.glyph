@@ -1,13 +1,12 @@
 StartChar: uni1E1F
 Encoding: 7711 7711 490
-Width: 310
+Width: 313
 VWidth: 0
-Flags: M
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 252 775 N 1 0 0 1 182 189 2
 Refer: 70 102 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "Single Substitution lookup 68 subtable" uni1E1F.short
 MultipleSubs2: "CCMP_Precomp subtable" f uni0307
 EndChar

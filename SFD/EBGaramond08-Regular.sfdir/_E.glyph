@@ -2,7 +2,7 @@ StartChar: E
 Encoding: 69 69 37
 Width: 569
 VWidth: 982
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_accent" 306 670 basechar 0
 AnchorPoint: "below_accent" 308 -80 basechar 0
 AnchorPoint: "ogonek" 472 15 basechar 0
@@ -23,8 +23,8 @@ SplineSet
  374 266 367 276 346 276 c 2
  241 276 l 2
  222 276 217 271 217 252 c 2
- 217 140 l 2
- 217 88 238 45 286 45 c 2
+ 217 84 l 2
+ 217 58 226 45 255 45 c 2
  395 45 l 2
  472 45 485 77 514 138 c 0
  519 149 532 157 541 157 c 0
@@ -35,7 +35,7 @@ SplineSet
  119 3 60 -2 53 -2 c 0
  42 -1 20 5 20 15 c 0
  20 30 53 35 75 45 c 0
- 109 60 122 92 122 129 c 2
+ 109 60 122 80 122 117 c 2
  122 482 l 2
  122 539 97 540 40 556 c 0
  31 559 24 564 24 573 c 0
@@ -51,7 +51,6 @@ SplineSet
  221 545 217 537 217 524 c 2
  217 356 l 2
 EndSplineSet
-Validated: 1
 Substitution2: "c2sc subtable" E.sc
 Substitution2: "sups subtable" E.sups
 Substitution2: "sinf subtable" E.sinf

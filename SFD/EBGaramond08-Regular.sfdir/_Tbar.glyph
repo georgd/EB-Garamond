@@ -2,7 +2,7 @@ StartChar: Tbar
 Encoding: 358 358 759
 Width: 592
 VWidth: 982
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -15,6 +15,5 @@ SplineSet
  157 304 l 2
 EndSplineSet
 Refer: 52 84 N 1 0 0 1 0 0 2
-Validated: 32773
 Substitution2: "c2sc subtable" Tbar.sc
 EndChar

@@ -2,7 +2,7 @@ StartChar: k
 Encoding: 107 107 75
 Width: 529
 VWidth: 982
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_accent" 297 729 basechar 0
 AnchorPoint: "below_accent" 279 -80 basechar 0
 LayerCount: 2
@@ -11,7 +11,7 @@ SplineSet
 315 82 m 2
  252 148 l 2
  229 172 211 192 201 192 c 0
- 186 192 180 177 180 155 c 2
+ 186 192 180 184 180 173 c 2
  180 108 l 2
  180 83 191 52 218 44 c 0
  245 36 251 28 251 18 c 0
@@ -27,9 +27,9 @@ SplineSet
  35 647 50 655 64 657 c 0
  104 664 158 681 168 681 c 0
  180 681 180 674 180 654 c 2
- 180 245 l 2
- 180 232 182 222 202 222 c 0
- 219 222 254 246 267 264 c 2
+ 180 240 l 2
+ 180 227 182 222 202 222 c 0
+ 219 222 236.146194735 227.22986673 267 264 c 2
  324 332 l 2
  335 345 340 355 340 362 c 0
  340 372 329 379 323 380 c 0
@@ -52,7 +52,6 @@ SplineSet
  304 28 341 40 341 45 c 0
  341 50 330 66 315 82 c 2
 EndSplineSet
-Validated: 1
 Substitution2: "Smallcaps subtable" k.sc
 Substitution2: "sups subtable" k.sups
 Substitution2: "sinf subtable" k.sinf

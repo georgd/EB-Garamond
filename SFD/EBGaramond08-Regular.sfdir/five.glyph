@@ -2,7 +2,7 @@ StartChar: five
 Encoding: 53 53 22
 Width: 328
 VWidth: 982
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -10,8 +10,8 @@ SplineSet
  289 424 l 2
  302 425 305 413 305 405 c 0
  305 392 284 350 261 344 c 0
- 237 338 175 339 161 332 c 8
- 146 325 137 308 137 297 c 0
+ 237 338 174.412313553 338.716386318 161 332 c 0
+ 149.375994921 326.179131858 137 308 137 297 c 0
  137 282 161 257 204 218 c 0
  251 176 268 107 268 68 c 0
  268 -11 171 -99 103 -152 c 0
@@ -26,7 +26,6 @@ SplineSet
  150 377 l 2
  177 402 194 416 218 418 c 2
 EndSplineSet
-Validated: 1
 Substitution2: "'tnum' Tabular Numbers lookup 35 subtable" five.taboldstyle
 Substitution2: "'lnum' Lining Figures lookup 33 subtable" five.lnum
 Substitution2: "Single Substitution lookup 32 subtable" five.ordn

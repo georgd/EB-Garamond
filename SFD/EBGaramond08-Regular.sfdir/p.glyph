@@ -1,8 +1,8 @@
 StartChar: p
 Encoding: 112 112 80
-Width: 445
+Width: 448
 VWidth: 982
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_accent" 255 596 basechar 0
 LayerCount: 2
 Fore
@@ -29,14 +29,13 @@ SplineSet
  12 -260 3 -250 3 -240 c 0
  3 -230 20 -222 47 -214 c 0
  60 -210 65 -186 65 -161 c 2
-148 294 m 2
- 148 107 l 2
- 148 70 183 45 220 45 c 0
+148 307 m 2
+ 148 98 l 2
+ 148 61 183 45 220 45 c 0
  298 45 333 129 333 211 c 0
  333 294 310 378 223 378 c 0
- 178 378 148 338 148 294 c 2
+ 178 378 148 343 148 307 c 2
 EndSplineSet
-Validated: 1
 Substitution2: "Smallcaps subtable" p.sc
 Substitution2: "sups subtable" p.sups
 Substitution2: "sinf subtable" p.sinf

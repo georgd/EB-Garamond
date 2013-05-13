@@ -2,7 +2,7 @@ StartChar: h
 Encoding: 104 104 72
 Width: 543
 VWidth: 982
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_accent" 140 785 basechar 0
 AnchorPoint: "below_accent" 275 -80 basechar 0
 AnchorPoint: "cedilla" 141 5 basechar 0
@@ -36,13 +36,12 @@ SplineSet
  35 647 50 655 64 657 c 0
  104 664 158 681 168 681 c 0
  180 681 180 673 180 654 c 2
- 180 406 l 2
- 180 379 192 384 200 391 c 0
+ 180 395 l 2
+ 180 369 192 384 200 391 c 0
  233 418 272 430 324 430 c 0
  394 430 449 364 449 291 c 2
  449 110 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "Smallcaps subtable" h.sc
 Substitution2: "sups subtable" h.sups
 Substitution2: "sinf subtable" h.sinf

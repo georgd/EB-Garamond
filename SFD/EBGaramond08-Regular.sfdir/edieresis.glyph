@@ -1,13 +1,12 @@
 StartChar: edieresis
 Encoding: 235 235 154
-Width: 389
+Width: 391
 VWidth: 982
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 272 776 N 1 0 0 1 71 0 2
+Refer: 272 776 N 1 0 0 1 72 0 2
 Refer: 69 101 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "Smallcaps subtable" edieresis.sc
 MultipleSubs2: "CCMP_Precomp subtable" e uni0308
 EndChar

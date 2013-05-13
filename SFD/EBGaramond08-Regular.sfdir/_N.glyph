@@ -2,7 +2,7 @@ StartChar: N
 Encoding: 78 78 46
 Width: 685
 VWidth: 982
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_accent" 346 670 basechar 0
 AnchorPoint: "below_accent" 378 -80 basechar 0
 AnchorPoint: "cedilla" 130 15 basechar 0
@@ -19,15 +19,14 @@ SplineSet
  13 30 46 35 68 45 c 0
  102 60 115 91 115 129 c 2
  115 390 l 2
- 115 438 112 464 101 477 c 2
- 64 518 l 2
- 38 547 18 565 18 575 c 0
- 18 583 24 586 33 586 c 2
+ 115 438 112 474 101 487 c 2
+ 64 527 l 2
+ 42.2578782636 550.479355664 4 557 4 575 c 0
+ 4 583 11 586 25 586 c 2
  130 586 l 2
  152 586 173 561 183 550 c 2
- 448 253 l 2
- 515 178 527 168 535 168 c 0
- 543 168 544 178 544 238 c 2
+ 516 176 l 2
+ 529.304607093 161.067236354 544 156 544 176 c 2
  544 482 l 2
  544 540 519 540 462 556 c 0
  453 559 446 564 446 573 c 0
@@ -41,12 +40,10 @@ SplineSet
  599 36 602 28 602 1 c 0
  602 -9 592 -11 582 -11 c 0
  571 -11 535 7 497 49 c 2
- 203 376 l 2
- 187 394 179 400 174 400 c 0
- 168 400 167 386 167 332 c 2
+ 186 394 l 2
+ 175.963040905 405.147172382 167 406 167 384 c 2
  167 129 l 2
 EndSplineSet
-Validated: 1
 Substitution2: "c2sc subtable" N.sc
 Substitution2: "sups subtable" N.sups
 Substitution2: "sinf subtable" N.sinf

@@ -1,13 +1,12 @@
 StartChar: eogonek
 Encoding: 281 281 226
-Width: 389
+Width: 391
 VWidth: 982
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 457 808 N 1 0 0 1 127 0 2
+Refer: 457 808 N 1 0 0 1 128 0 2
 Refer: 69 101 N 1 0 0 1 0 0 3
-Validated: 32773
 Substitution2: "Smallcaps subtable" eogonek.sc
 MultipleSubs2: "CCMP_Precomp subtable" e uni0328
 EndChar

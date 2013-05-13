@@ -1,13 +1,12 @@
 StartChar: emacron
 Encoding: 275 275 206
-Width: 389
+Width: 391
 VWidth: 982
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 269 772 N 1 0 0 1 45 0 2
+Refer: 269 772 N 1 0 0 1 46 0 2
 Refer: 69 101 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "Smallcaps subtable" emacron.sc
 MultipleSubs2: "CCMP_Precomp subtable" e uni0304
 EndChar
