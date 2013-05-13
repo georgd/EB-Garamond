@@ -217,7 +217,7 @@ lookup mark {
   pos base [\E.sc \e.sc ] <anchor 247 615> mark @top_accent;
   pos base [\G.sc \g.sc ] <anchor 324 615> mark @top_accent;
   pos base [\H.sc \h.sc ] <anchor 330 615> mark @top_accent;
-  pos base [\I.sc \J.sc \i.sc \j.sc ] <anchor 158 615> mark @top_accent;
+  pos base [\I.sc \J.sc \i.sc \j.sc dotlessi.sc ] <anchor 158 615> mark @top_accent;
   pos base [\K.sc \k.sc ] <anchor 279 615> mark @top_accent;
   pos base [\L.sc \l.sc ] <anchor 159 615> mark @top_accent;
   pos base [\M.sc \m.sc ] <anchor 345 615> mark @top_accent;
@@ -328,7 +328,7 @@ lookup mark {
   pos base [\C.sc \c.sc ] <anchor 330 -100> mark @below_accent;
   pos base [\G.sc \m.sc ] <anchor 342 -99> mark @below_accent;
   pos base [\H.sc \h.sc ] <anchor 321 -100> mark @below_accent;
-  pos base [\I.sc \i.sc ] <anchor 160 -100> mark @below_accent;
+  pos base [\I.sc \i.sc dotlessi.sc ] <anchor 160 -100> mark @below_accent;
   pos base [\N.sc \n.sc ] <anchor 320 -100> mark @below_accent;
   pos base [\O.sc \o.sc ] <anchor 312 -100> mark @below_accent;
   pos base [\R.sc \r.sc ] <anchor 299 -100> mark @below_accent;
@@ -367,7 +367,7 @@ lookup mark {
   pos base [\Y ] <anchor 355 18> mark @ogonek;
   pos base [\A.sc \a.sc ] <anchor 407 18> mark @ogonek;
   pos base [\E.sc \e.sc ] <anchor 368 18> mark @ogonek;
-  pos base [\I.sc \i.sc ] <anchor 211 18> mark @ogonek;
+  pos base [\I.sc \i.sc dotlessi.sc ] <anchor 211 18> mark @ogonek;
   pos base [\O.sc \o.sc ] <anchor 403 18> mark @ogonek;
   pos base [\U.sc \u.sc ] <anchor 380 18> mark @ogonek;
   pos base [\Y.sc \y.sc ] <anchor 286 18> mark @ogonek;
@@ -410,7 +410,7 @@ lookup mark {
   pos base [\A.sc \a.sc ] <anchor 110 8> mark @cedilla;
   pos base [\C.sc \c.sc ] <anchor 365 8> mark @cedilla;
   pos base [\E.sc \e.sc ] <anchor 267 8> mark @cedilla;
-  pos base [\H.sc \I.sc \h.sc \i.sc ] <anchor 168 8> mark @cedilla;
+  pos base [\H.sc \I.sc \h.sc \i.sc dotlessi.sc] <anchor 168 8> mark @cedilla;
   pos base [\M.sc \m.sc ] <anchor 561 8> mark @cedilla;
   pos base [\O.sc \o.sc ] <anchor 350 8> mark @cedilla;
   pos base [\S.sc \s.sc ] <anchor 241 8> mark @cedilla;
