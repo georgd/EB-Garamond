@@ -3,6 +3,7 @@ lookup Q_alts {
     sub Q' @NO_DESC_1 [ @NO_DESC quoteleft quoteright ] @RIGHT_DESC  by Q.long;
     sub Q' [ g j p y ] by Q.short;
     sub Q' [ J comma semicolon parenright bracketright braceright ] by Q.low;
+    sub [ Q.sc q.sc]' @SMALLCAPS by q.longsc;
 } Q_alts;
 
 # Although the following is better (shorter lists of allowed
