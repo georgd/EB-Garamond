@@ -24,4 +24,13 @@ For the use with Xe- and LuaLaTeX I’m working on a configuration for mycrotype
 
 This is a work in progress, so expect bugs! The qualitiy of the fonts still varies widely! You can see every font’s current state in its *-Glyphs.pdf file in the specimen section.
 
+## Mirrors:
+
+Due to Github deciding not to provide a download area any more, this project resides in two mirrored repositories on Github (https://github.com/georgd/EB-Garamond) and Bitbucket (https://bitbucket.org/georgd/eb-garamond). 
+
+- Downloadable zip-files are at https://bitbucket.org/georgd/eb-garamond/downloads
+- The issue tracker continues to live at https://github.com/georgd/EB-Garamond/issues
+- Forks and pull requests should be possible on both platforms
+
+
 For more infos please visit http://www.georgduffner.at/ebgaramond/
