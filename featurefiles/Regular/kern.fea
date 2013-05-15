@@ -16,6 +16,7 @@
 @first_rsc = [ R.sc r.sc ];
 @first_T   = [ T uni01AC uni01AE uni023E ];
 @first_tsc = [ T.sc t.sc ];
+@first_usc = [ U.sc u.sc ];
 @first_V   = [ V W uni0194 ];
 @first_Y   = [ Y uni01B3 uni024E ];
 @first_vsc = [ V.sc v.sc W.sc w.sc ];
@@ -43,6 +44,7 @@
 @second_O   = [ C G O Ohorn Q ];
 @second_T   = [ T ];
 @second_tsc = @first_tsc;
+@second_usc = [ U.sc u.sc ];
 @second_V   = @first_V;
 @second_Y   = @first_Y;
 @second_vsc = @first_vsc;
@@ -100,7 +102,8 @@ lookup kern {
     pos @all_A uni02BF -70;
 
     pos @first_asc @second_csc -25;
-    pos @first_asc @second_tsc -40;
+    pos @first_asc @second_tsc -30;
+    pos @first_asc @second_usc -10;
     pos @first_asc @second_vsc -75;
     pos @first_asc @second_quoteright -35;
 
@@ -152,7 +155,7 @@ lookup kern {
     pos @first_T @all_A -85;
     pos @first_T @second_O -30;
     pos @first_T @second_asc -60;
-    pos @first_T [ @second_bsc @second_isc ] -110;
+    pos @first_T [ @second_bsc @second_isc ] -90;
     pos @first_T @second_csc -135;
     pos @first_T @second_o -105;
     pos @first_T [ @second_m @second_dotlessi ] -90;
@@ -161,9 +164,11 @@ lookup kern {
     pos @first_T @second_period -75;
     pos @first_T @second_colon -100;
 
-    pos @first_tsc @second_asc -40;
+    pos @first_tsc @second_asc -30;
     pos @first_tsc @second_csc -15;
     pos @first_tsc @second_period -120;
+    
+    pos @first_usc @second_asc -10;
 
     pos @first_V @all_A -150;
     pos @first_V @second_O -70;
@@ -353,22 +358,21 @@ lookup ckern3 {
     pos @first_T' 145 @second_dotlessi @second_comb_top5;
     pos @first_T' 180 @second_dotlessi @second_comb_top6;
     
-    pos @first_T'  15 @second_bsc @second_comb_top3;
-    pos @first_T'  30 @second_bsc @second_comb_top4;
-    pos @first_T'  45 @second_bsc @second_comb_top5;
-    pos @first_T'  80 @second_bsc @second_comb_top6;
+    pos @first_T'  10 @second_bsc @second_comb_top4;
+    pos @first_T'  25 @second_bsc @second_comb_top5;
+    pos @first_T'  60 @second_bsc @second_comb_top6;
 
     pos @first_T'  25 @second_csc @second_comb_top3;
     pos @first_T'  40 @second_csc @second_comb_top4;
     pos @first_T'  60 @second_csc @second_comb_top5;
     pos @first_T'  95 @second_csc @second_comb_top6;
 
-    pos @first_T'  70 @second_isc @second_comb_top1;
-    pos @first_T' 100 @second_isc @second_comb_top2;
-    pos @first_T' 120 @second_isc @second_comb_top3;
-    pos @first_T' 135 @second_isc @second_comb_top4;
-    pos @first_T' 155 @second_isc @second_comb_top5;
-    pos @first_T' 190 @second_isc @second_comb_top6;
+    pos @first_T'  50 @second_isc @second_comb_top1;
+    pos @first_T'  80 @second_isc @second_comb_top2;
+    pos @first_T' 100 @second_isc @second_comb_top3;
+    pos @first_T' 115 @second_isc @second_comb_top4;
+    pos @first_T' 135 @second_isc @second_comb_top5;
+    pos @first_T' 170 @second_isc @second_comb_top6;
 
     pos @first_V'  15 @second_asc @second_comb_top1;
     pos @first_V'  45 @second_asc @second_comb_top2;
@@ -407,13 +411,16 @@ lookup ckern3 {
     pos @first_Y' 135 @second_isc @second_comb_top6;
     
     pos @first_asc' -25 @top_diac @second_csc;
-    pos @first_asc' -40 @top_diac @second_tsc;
+    pos @first_asc' -30 @top_diac @second_tsc;
+    pos @first_asc' -10 @top_diac @second_usc;
     pos @first_asc' -75 @top_diac @second_vsc;
     pos @first_asc' -35 @top_diac @second_quoteright;
 
     pos @first_osc' -25 @top_diac @second_asc;
     pos @first_osc' -25 @top_diac @second_vsc;
     pos @first_osc' -15 @top_diac @second_ysc;
+    
+    pos @first_usc' -10 @top_diac @second_asc;
 
     pos @first_f' 95 @second_o @second_comb_tBroad;
     pos @first_f' 95 @second_o @second_comb_tBroad;
