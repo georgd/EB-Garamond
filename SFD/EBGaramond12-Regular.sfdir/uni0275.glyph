@@ -3,6 +3,8 @@ Encoding: 629 629 1998
 Width: 495
 VWidth: 0
 Flags: HMW
+AnchorPoint: "below_accent" 246 -100 basechar 0
+AnchorPoint: "top_accent" 246 550 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -23,5 +25,4 @@ SplineSet
  374 102 378 150 378 189 c 2
  378 191 l 1
 EndSplineSet
-Validated: 1
 EndChar
