@@ -6,7 +6,7 @@
 	Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn 
 	Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent uni0122 Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex uni0136 Lacute uni013B Lcaron Ldot Lslash Nacute uni0145 Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron U.LAT A.sw-Z.sw ];
 
-@ligatures = [ f_f unifb01 unifb02 unifb03 unifb04 unifb05 unifb06 longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s s_s c_t f_f.short t_t t_z f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.short ];
+@ligatures = [ f_f unifb01 unifb02 unifb03 unifb04 unifb05 unifb06 longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s s_s c_t f_f.short t_t f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.short s_p s_k a_s e_s i_s u_s eacute_s g_y g_g g_j ];
 
 @Letters = [ @LETTERS @letters @letters_alt @ligatures ];
 
