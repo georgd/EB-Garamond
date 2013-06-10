@@ -3,6 +3,8 @@ Encoding: 603 603 1992
 Width: 312
 VWidth: 0
 Flags: HMW
+AnchorPoint: "cedilla" 198 8 basechar 0
+AnchorPoint: "ogonek" 230 18 basechar 0
 AnchorPoint: "below_accent" 171 -100 basechar 0
 AnchorPoint: "top_accent" 172 550 basechar 0
 LayerCount: 3

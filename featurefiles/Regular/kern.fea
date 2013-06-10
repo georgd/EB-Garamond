@@ -24,10 +24,10 @@
 @first_a   = [ a ];
 @first_f   = [ f f_f f.long f.DEU f_f.long florin ];
 @first_l   = [ d l l.f_ ];
-@first_m   = [ h h.f_ m n ];
+@first_m   = [ h h.f_ m n uni0271 uni0272 uni0273 ];
 @first_s   = [ s ];
-@first_v   = [ v w y uni01B4 uni0240 uni024F ];
-@first_o   = [ ae b b.f_ c e o oe p thorn thorn.f_ ];
+@first_v   = [ v w y uni01B4 uni0240 uni024F uni0263 ];
+@first_o   = [ ae b b.f_ c e o oe p thorn thorn.f_ uni0252 uni0253 uni0254 uni0255 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0275 uni0277 ];
 
 @first_period     = [ period comma quotesinglbase quotedblbase ];
 @first_quoteright = [ quoteright quotedblright ];
@@ -50,11 +50,11 @@
 @second_vsc = @first_vsc;
 @second_ysc = @first_ysc;
 @second_b   = [ b h k l thorn ];
-@second_o   = [ a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B ];
-@second_m   = [ m n p r u uogonek z uni01BF uni01B6 uni01BA uni021D uni024D ];
-@second_dotlessi = [ dotlessi i.dotless j.dotless ];
+@second_o   = [ a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B uni0251 uni0254 uni0255 uni0256 uni0257 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0260 uni0261 uni0275 ];
+@second_m   = [ m n p r u uogonek z uni01BF uni01B6 uni01BA uni021D uni024D uni0250 uni0252 uni026F uni0270 uni0271 uni0272 uni0273 uni0274 ];
+@second_dotlessi = [ dotlessi i.dotless j.dotless uni025F uni0269 uni026A ];
 @second_t   = [ t ];
-@second_v   = [ v w x y uni01B4 uni024F ];
+@second_v   = [ v w x y uni01B4 uni024F uni0263 ];
 @second_i   = [ i j agrave aacute adieresis atilde ];
 
 @second_HighAscAfter_longf = [b h-l
