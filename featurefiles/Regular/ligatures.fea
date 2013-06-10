@@ -8,6 +8,7 @@ lookup liga_f {
     ignore sub longs._longs longs' longs;
     ignore sub f._f f.DEU' l ;
     ignore sub [ f f.DEU longs ]' uni200C;
+    ignore sub uni200C t';
     sub [ f f.DEU ]' [ f f.DEU ] by f._f;
     sub [ f f.DEU ] t' by t.f_;
     sub [ f f.DEU longs ]' [ i j ] by [ f._i f._i longs._i ];
