@@ -76,3 +76,22 @@ feature cv27 {
     lookup alternate_g;
 } cv27;
 
+lookup VW_alts {
+    sub [ V W ] by [V.01 W.01];
+} VW_alts;
+
+feature ss10 {
+    lookup VW_alts;
+} ss10;
+
+lookup salt_lig {
+    sub a s by a_s;
+    sub e s by e_s;
+    sub eacute s by eacute_s;
+    sub i s by i_s;
+    sub u s by u_s;
+} salt_lig;
+
+feature salt {
+    lookup salt_lig;
+} salt;
