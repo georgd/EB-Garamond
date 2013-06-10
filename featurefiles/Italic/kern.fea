@@ -13,6 +13,7 @@ lookup kern {
     @first_T = [\T ];
     @first_V = [\V \W \Y ];
     @first_vsc = [\V.sc \W.sc \v.sc \w.sc ];
+    @first_V01 = [\V.01 W.01 ];
     @first_h = [\h \m \n ];
     @first_v = [\v \w \y ];
     
@@ -21,7 +22,8 @@ lookup kern {
     @second_O = [\O \Ohorn \Q ];
     @second_V = [\V \W \Y ];
     @second_vsc = [\V.sc \W.sc \v.sc \w.sc ];
-    @second_a = [\a \ae \aogonek \c \ccedilla \d \e \e_s \eogonek \eth \g \o \oe \uni01EB \q \s \scedilla ];
+    @second_a = [\a \ae \aogonek ];
+    @second_c = [\c \ccedilla \d \e \e_s \eogonek \eth \g \o \oe \uni01EB \q \s \scedilla ];
     @second_m = [\dotlessi \m \n \p \r \u \uogonek \z ];
     @second_t = [\t ];
     @second_v = [\v \w \x \y ];
@@ -39,33 +41,61 @@ lookup kern {
     @second_che = [\uni0447 ];
         
     pos @first_A @second_O -50;
-    pos @first_A @second_V -150;
+
     pos @first_A @second_v -70;
+
     pos @first_asc @second_vsc -75;
+
     pos @first_E @second_a -25;
+    pos @first_E @second_c -25;
     pos @first_E @second_m -10;
     pos @first_E @second_t -20;
     pos @first_E @second_v -30;
+
     pos @first_F @second_a -30;
+    pos @first_F @second_c -30;
     pos @first_F @second_m -40;
     pos @first_F @second_t -20;
     pos @first_F @second_v -30;
+
     pos @first_L @second_v -50;
+
     pos @first_M @second_a -20;
+    pos @first_M @second_c -20;
     pos @first_M @second_m -10;
     pos @first_M @second_t -40;
     pos @first_M @second_v -40;
+
     pos @first_O @second_A -95;
     pos @first_O @second_a -10;
+    pos @first_O @second_c -10;
+
+    pos @first_T @second_A -180;
     pos @first_T @second_a -135;
+    pos @first_T @second_c -135;
     pos @first_T @second_m -120;
     pos @first_T @second_t -100;
     pos @first_T @second_v -100;
-    pos @first_V @second_A -150;
+
+    pos @first_V @second_A -300;
     pos @first_V @second_a -200;
+    pos @first_V @second_c -200;
     pos @first_V @second_t -180;
+
+    pos @first_V01 @second_A -370;
+    pos @first_V01 @second_a -280;
+    pos @first_V01 @second_c -210;
+    pos @first_V01 @second_m -150;
+    pos @first_V01 @second_m -180;
+
     pos @first_vsc @second_asc -75;
+
     pos @first_h @second_v -16;
+
+    pos @first_v @second_A -50;
+    pos @first_v @second_a -10;
+    pos @first_v @second_c -10;
+
     pos @first_Ghe @second_ie -130;
     pos @first_Ghe @second_en -100;
     pos @first_Ghe @second_de -140;
@@ -74,6 +104,7 @@ lookup kern {
     pos @first_Ghe @second_cyr_u -115;
     pos @first_Ghe @second_ef -70;
     pos @first_Ghe @second_che -115;
+
     pos @first_Te @second_ie -125;
     pos @first_Te @second_en -95;
     pos @first_Te @second_de -135;
@@ -82,8 +113,6 @@ lookup kern {
     pos @first_Te @second_cyr_u -110;
     pos @first_Te @second_ef -65;
     pos @first_Te @second_che -110;
-    pos @first_v @second_A -50;
-    pos @first_v @second_a -10;
 } kern;
 
 feature kern {
