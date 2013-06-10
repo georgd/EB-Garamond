@@ -1,10 +1,10 @@
 StartChar: uni0259
 Encoding: 601 601 1990
-Width: 388
+Width: 407
 VWidth: 0
 Flags: HMW
-AnchorPoint: "cedilla" 220 8 basechar 0
-AnchorPoint: "ogonek" 246 18 basechar 0
+AnchorPoint: "below_accent" 185 -100 basechar 0
+AnchorPoint: "top_accent" 190 550 basechar 0
 LayerCount: 3
 Back
 SplineSet

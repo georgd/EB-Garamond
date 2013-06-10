@@ -1,12 +1,11 @@
 StartChar: uni0254
 Encoding: 596 596 1988
-Width: 433
+
+Width: 424
 VWidth: 0
 Flags: HMW
-AnchorPoint: "cedilla" 220 8 basechar 0
-AnchorPoint: "ogonek" 246 18 basechar 0
-AnchorPoint: "below_accent" 184 -100 basechar 0
-AnchorPoint: "top_accent" 184 550 basechar 0
+AnchorPoint: "below_accent" 175 -100 basechar 0
+AnchorPoint: "top_accent" 175 550 basechar 0
 LayerCount: 3
 Back
 SplineSet
@@ -27,21 +26,21 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-175 383 m 0
- 114 383 77 347 65 283 c 0
- 63 273 61 266 51 266 c 0
- 41 266 22 296 22 316 c 0
- 22 343 100 413 192 413 c 0
- 307 414 398 321 398 213 c 0
- 398 96 322 -14 171 -14 c 0
- 128 -14 63 5 33 42 c 0
- 30 46 29 49 29 53 c 0
- 29 67 49 91 68 91 c 0
- 78 91 86 83 91 78 c 0
- 124 42 143 17 193 17 c 0
- 238 16 276 32 296 71 c 0
- 312 102 316 150 316 189 c 0
- 316 284 261 383 175 383 c 0
+166 383 m 0
+ 104.884765625 383 73.978515625 331.008789062 68 309 c 0
+ 65.37890625 299.349609375 47 290 37 290 c 0
+ 35 290 39.8076171875 360.904296875 53 372 c 0
+ 64.3037109375 381.506835938 116 413 183 413 c 0
+ 298.00390625 413 389 321 389 213 c 0
+ 389 96 313 -14 162 -14 c 0
+ 119 -14 54 5 24 42 c 0
+ 21 46 20 49 20 53 c 0
+ 20 67 40 91 59 91 c 0
+ 69 91 77 83 82 78 c 0
+ 115 42 134 17 184 17 c 0
+ 229 16 267 32 287 71 c 0
+ 303 102 307 150 307 189 c 0
+ 307 284 252 383 166 383 c 0
 EndSplineSet
 Validated: 33
 Layer: 2

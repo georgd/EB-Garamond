@@ -1,8 +1,10 @@
 StartChar: uni0265
 Encoding: 613 613 2053
-Width: 527
+Width: 504
 VWidth: 0
 Flags: HMW
+AnchorPoint: "below_accent" 198 -100 basechar 0
+AnchorPoint: "top_accent" 251 550 basechar 0
 LayerCount: 3
 Fore
 SplineSet
