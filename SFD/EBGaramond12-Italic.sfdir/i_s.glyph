@@ -1,5 +1,5 @@
 StartChar: i_s
-Encoding: 66424 -1 2155
+Encoding: 66423 -1 2154
 Width: 508
 LigCaretCntFixed: 1
 Flags: HMW
@@ -50,7 +50,8 @@ SplineSet
  393 309.555721856 398.246728803 290.543879424 405.653929694 270.880325439 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "Ligature Substitution lookup 65 subtable" i s
-Ligature2: "Ligature Substitution lookup 59 subtable" i s
+Ligature2: "Ligature Substitution lookup 67 subtable" i s
+Ligature2: "Ligature Substitution lookup 61 subtable" i s
+Ligature2: "salt_lig subtable" i s
 LCarets2: 1 172 
 EndChar

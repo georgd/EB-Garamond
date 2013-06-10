@@ -1,5 +1,5 @@
 StartChar: u_s
-Encoding: 66425 -1 2156
+Encoding: 66424 -1 2155
 Width: 730
 Flags: HMW
 AnchorPoint: "cedilla" 114 8 basechar 0
@@ -53,7 +53,8 @@ SplineSet
  615 309.604720803 620.192427717 290.740896945 627.538814142 271.186327804 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "Ligature Substitution lookup 66 subtable" u s
-Ligature2: "Ligature Substitution lookup 60 subtable" u s
+Ligature2: "Ligature Substitution lookup 68 subtable" u s
+Ligature2: "Ligature Substitution lookup 62 subtable" u s
+Ligature2: "salt_lig subtable" u s
 LCarets2: 1 441 
 EndChar

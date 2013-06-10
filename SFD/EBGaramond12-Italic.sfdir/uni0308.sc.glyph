@@ -1,12 +1,12 @@
 StartChar: uni0308.sc
-Encoding: 66456 -1 2440
+Encoding: 66455 -1 2439
 Width: 271
 VWidth: 0
 Flags: MW
 AnchorPoint: "top_stack" 148 474 mark 0
-AnchorPoint: "acutestack" 152 570 basemark 0
-AnchorPoint: "gravestack" 143 570 basemark 0
 AnchorPoint: "top_stack" 148 636 basemark 0
+AnchorPoint: "gravestack" 143 570 basemark 0
+AnchorPoint: "acutestack" 152 570 basemark 0
 AnchorPoint: "top_accent" 127 550 mark 0
 LayerCount: 2
 Fore
