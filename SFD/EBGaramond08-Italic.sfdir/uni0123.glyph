@@ -1,14 +1,12 @@
 StartChar: uni0123
-Encoding: 291 291 339
-Width: 422
+Encoding: 215 291 339
+Width: 438
 VWidth: 0
-HStem: -273 50<57.0303 238.823> 361 63<352.315 464.298> 363 52<336.137 423.812> 384 46<184.802 255.69> 650 36<297.653 356.711>
-VStem: -84 81<-178.769 -113.305> 28 80<135.798 278.425> 76 76<32.6362 79.1407> 186 77<526 607.216> 260 78<228.555 362.604> 292 80<-185.074 -111.293>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 325 786 N 1 0 0 1 180 0 2
+Refer: 325 786 N 1 0 0 1 196 0 2
 Refer: 71 103 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "Smallcaps subtable" uni0123.sc
 MultipleSubs2: "CCMP_Precomp subtable" g uni0312
 EndChar

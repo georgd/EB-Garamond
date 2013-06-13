@@ -1,14 +1,11 @@
 StartChar: Odieresis
-Encoding: 214 214 134
-Width: 585
-Flags: W
-HStem: -20 45<175.156 316.453> 573 47<301.854 435.529> 650 108<277.135 358.866 472.134 553.866>
-VStem: 20 99<117.205 317.368> 262 112<665.452 742.548> 457 112<665.452 742.548> 488 99<266.09 505.203>
+Encoding: 138 214 134
+Width: 646
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 448 -1 N 1 0 0 1 257 -50 2
+Refer: 448 -1 N 1 0 0 1 296 -50 2
 Refer: 47 79 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "c2sc subtable" Odieresis.sc
 MultipleSubs2: "CCMP_Precomp subtable" O uni0308.cap
 Substitution2: "loclDEU subtable" Odieresis.deu

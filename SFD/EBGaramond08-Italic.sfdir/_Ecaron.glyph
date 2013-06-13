@@ -1,14 +1,12 @@
 StartChar: Ecaron
-Encoding: 282 282 494
+Encoding: 206 282 494
 Width: 579
 VWidth: 0
-HStem: 2 40<14.1047 90.3353 220.823 459.652> 290 48<273.785 412.025> 559 40<326.402 512.142> 569 35<145.02 200.589> 586 20<539.5 566> 628 134
-VStem: 290 291<748 758> 521 41<477.655 552.588>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 451 -1 N 1 0 0 1 285 -60 2
+Refer: 451 -1 N 1 0 0 1 278 -60 2
 Refer: 37 69 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "c2sc subtable" Ecaron.sc
 MultipleSubs2: "CCMP_Precomp subtable" E uni030C.cap
 EndChar

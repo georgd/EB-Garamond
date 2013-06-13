@@ -1,12 +1,10 @@
 StartChar: uniFB02
-Encoding: 64258 64258 271
-Width: 440
-Flags: W
-HStem: -267 59<-96.5 -13.0246> -14 76<285.779 369.117> 376 42<18.8366 89> 379 47<197.368 346.055> 648 47<289.22 387.309> 661 20<476 487>
+Encoding: 1159 64258 271
+Width: 511
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 392 -1 N 1 0 0 1 0 0 2
-Validated: 32769
 Ligature2: "liga_standard subtable" f.DEU l
 Ligature2: "liga_standard subtable" f l
 EndChar

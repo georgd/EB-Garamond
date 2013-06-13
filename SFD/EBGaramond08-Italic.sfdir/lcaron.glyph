@@ -1,15 +1,12 @@
 StartChar: lcaron
-Encoding: 318 318 514
-Width: 195
+Encoding: 242 318 514
+Width: 255
 VWidth: 0
-Flags: W
-HStem: -14 76<40.7792 124.117> 497 185 662 20<202 229>
-VStem: 157 85<549.539 666.709> 280.62 75<589.769 660.465>
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 478 -1 N 1 0 0 1 154.62 67 2
+Refer: 478 -1 N 1 0 0 1 177.62 67 2
 Refer: 76 108 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "Smallcaps subtable" lcaron.sc
 MultipleSubs2: "CCMP_Precomp subtable" l uni030C.alt
 EndChar

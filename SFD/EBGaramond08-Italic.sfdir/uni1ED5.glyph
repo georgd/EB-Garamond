@@ -1,14 +1,12 @@
 StartChar: uni1ED5
-Encoding: 7893 7893 846
-Width: 368
+Encoding: 764 7893 846
+Width: 378
 VWidth: 0
-HStem: -14 46<125.492 196.475> 317 159 384 46<200.547 272.067> 681 24<333.463 374.929>
-VStem: 35 80<49.4687 242.436> 171 193<330 332> 278 80<177.491 373.885> 309.209 33<542.806 577.89> 376.209 54<618.735 680.763>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 874 -1 N 1 0 0 1 191.209 28 2
-Refer: 474 -1 N 1 0 0 1 161 -130 2
+Refer: 874 -1 N 1 0 0 1 196.209 28 2
+Refer: 474 -1 N 1 0 0 1 166 -130 2
 Refer: 79 111 N 1 0 0 1 0 0 3
-Validated: 32773
 MultipleSubs2: "CCMP_Precomp subtable" o uni0302.stack hookabovecomb.stack
 EndChar

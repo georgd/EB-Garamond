@@ -1,13 +1,11 @@
 StartChar: dcaron
-Encoding: 271 271 489
-Width: 416
+Encoding: 195 271 489
+Width: 487
 VWidth: 0
-Flags: HW
-HStem: -14 70<78.8371 175.005 310.86 369.117> 384 46<250.969 331.575> 497 185 662 20<447 474>
-VStem: 20 86<59.0427 189.706> 402 85<547.07 666.709> 673.477 75<589.769 660.465>
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 478 -1 S 1 0 0 1 411.477 67 2
+Refer: 478 -1 S 1 0 0 1 437.476 67 2
 Refer: 68 100 N 1 0 0 1 0 0 3
 Substitution2: "Smallcaps subtable" dcaron.sc
 MultipleSubs2: "CCMP_Precomp subtable" d uni030C.alt

@@ -1,15 +1,12 @@
 StartChar: ldot
-Encoding: 320 320 1555
-Width: 424
+Encoding: 244 320 1555
+Width: 484
 VWidth: 0
-Flags: W
-HStem: -14 76<40.7792 124.117> 234 134<265.144 355.944> 662 20<202 229>
-VStem: 157 85<549.539 666.709> 243 134<255.061 346>
+Flags: MW
 LayerCount: 2
 Fore
-Refer: 935 183 N 1 0 0 1 195 0 2
+Refer: 935 183 N 1 0 0 1 255 0 2
 Refer: 76 108 N 1 0 0 1 0 0 2
-Validated: 32769
 Ligature2: "liga_standard subtable" l.CAT periodcentered
 Substitution2: "Smallcaps subtable" ldot.sc
 EndChar

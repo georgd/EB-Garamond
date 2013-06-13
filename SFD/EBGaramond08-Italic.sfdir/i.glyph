@@ -1,15 +1,12 @@
 StartChar: i
-Encoding: 105 105 73
-Width: 195
-Flags: W
-HStem: -14 76<48.7792 132.117> 333 97<80.5 175.402> 527 102<152.16 221.87>
-VStem: 24 163<325 405> 139 97<540.405 615.98>
+Encoding: 73 105 73
+Width: 265
+Flags: HMW
 AnchorPoint: "ogonek" 133 18 basechar 0
 LayerCount: 2
 Fore
-Refer: 306 775 N 1 0 0 1 103 0 2
+Refer: 306 775 N 1 0 0 1 126 0 2
 Refer: 176 305 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "Smallcaps subtable" i.sc
 Substitution2: "sups subtable" i.sups
 Substitution2: "sinf subtable" i.sinf

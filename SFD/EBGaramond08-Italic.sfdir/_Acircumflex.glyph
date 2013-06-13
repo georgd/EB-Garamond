@@ -1,14 +1,11 @@
 StartChar: Acircumflex
-Encoding: 194 194 114
-Width: 616
-Flags: W
-HStem: -2 46<0.104736 97.1861 209.372 270.884 357.105 438.068 562.051 627.884> 216 50<373 473.453> 577 20<593.5 608.5> 639 134
-VStem: 454 291<643 653>
+Encoding: 118 194 114
+Width: 686
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 443 -1 N 1 0 0 1 449 -50 2
 Refer: 33 65 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "c2sc subtable" Acircumflex.sc
 MultipleSubs2: "CCMP_Precomp subtable" A uni0302.cap
 EndChar

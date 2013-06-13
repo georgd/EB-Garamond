@@ -1,14 +1,12 @@
 StartChar: Tcaron
-Encoding: 356 356 530
-Width: 594
+Encoding: 280 356 530
+Width: 656
 VWidth: 0
-HStem: -2 46<102.125 182.195 306.37 372.906> 545 44<129.937 301.89 410.51 574.39> 605 20<630.5 643.5> 628 134
-VStem: 262 291<748 758>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 451 -1 N 1 0 0 1 257 -60 2
+Refer: 451 -1 N 1 0 0 1 319 -60 2
 Refer: 52 84 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "c2sc subtable" Tcaron.sc
 MultipleSubs2: "CCMP_Precomp subtable" T uni030C.cap
 EndChar

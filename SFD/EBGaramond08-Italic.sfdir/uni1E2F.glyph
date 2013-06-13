@@ -1,14 +1,12 @@
 StartChar: uni1E2F
-Encoding: 7727 7727 686
-Width: 195
+Encoding: 602 7727 686
+Width: 265
 VWidth: 0
-HStem: -14 76<48.7792 132.117> 333 97<80.5 175.402> 524 100<73.7711 137.298 224.771 288.298> 577 189
-VStem: 24 163<325 405> 60 90<536.614 610.468> 180 141 211 90<536.614 610.468>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 473 -1 N 1 0 0 1 170 114 2
-Refer: 316 776 N 1 0 0 1 50 0 2
-Refer: 176 305 N 1 0 0 1 0 0 3
-Validated: 32769
+Refer: 473 -1 N 1 0 0 1 190 114 2
+Refer: 316 776 N 1 0 0 1 70 0 2
+Refer: 2157 -1 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" dotlessi uni0308 acutecomb.stack
 EndChar

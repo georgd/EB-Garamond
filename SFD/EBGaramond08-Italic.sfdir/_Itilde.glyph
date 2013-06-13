@@ -1,14 +1,12 @@
 StartChar: Itilde
-Encoding: 296 296 500
+Encoding: 220 296 500
 Width: 346
 VWidth: 0
-HStem: -2 46<7.12469 87.1949 211.37 277.906> 569 35<138.021 194.729 338.533 400.982> 628 21<157 166> 660 69<173.779 374.646>
-VStem: 134 288
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 444 -1 N 1 0 0 1 129 -60 2
 Refer: 41 73 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "c2sc subtable" Itilde.sc
 MultipleSubs2: "CCMP_Precomp subtable" I tildecomb.cap
 EndChar

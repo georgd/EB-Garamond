@@ -1,14 +1,12 @@
 StartChar: Hcircumflex
-Encoding: 292 292 499
+Encoding: 216 292 499
 Width: 723
 VWidth: 0
-HStem: -2 46<7.10474 87.2781 210.581 277.884 384.105 464.324 587.597 654.884> 569 35<138.021 194.722 338.481 400.982 515.021 571.748 715.533 777.982> 629 134
-VStem: 308 291<633 643>
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 443 -1 N 1 0 0 1 303 -60 2
 Refer: 40 72 N 1 0 0 1 0 0 3
-Validated: 32777
 Substitution2: "c2sc subtable" Hcircumflex.sc
 MultipleSubs2: "CCMP_Precomp subtable" H uni0302.cap
 EndChar

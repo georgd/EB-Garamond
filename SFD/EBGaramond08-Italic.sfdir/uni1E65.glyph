@@ -1,13 +1,12 @@
 StartChar: uni1E65
-Encoding: 7781 7781 740
-Width: 290
+Encoding: 656 7781 740
+Width: 294
 VWidth: 0
-HStem: -14 58<65.7236 156.938> 376 54<145.34 225.593> 466 189 715 102<277.709 347.419>
-VStem: 75 68<285.379 364.793> 165 72<57.1476 152.735> 260 72<589.851 643.485> 264.549 97<728.405 803.98>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 306 775 N 1 0 0 1 228.549 188 2
-Refer: 349 347 N 1 0 0 1 0 0 3
-Validated: 32769
+Refer: 465 -1 N 1 0 0 1 112 19 2
+Refer: 467 -1 N 1 0 0 1 125 -130 2
+Refer: 83 115 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" s acutecomb.flat uni0307.stack
 EndChar

@@ -1,14 +1,12 @@
 StartChar: uni1ED8
-Encoding: 7896 7896 849
-Width: 585
+Encoding: 767 7896 849
+Width: 646
 VWidth: 0
-HStem: -190 110<171.424 257.73> -20 45<175.156 316.453> 573 47<301.854 435.529> 639 134
-VStem: 20 99<117.205 317.368> 159.577 110<-178.153 -91.8467> 250 291<643 653> 488 99<266.09 505.203>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 443 -1 N 1 0 0 1 245 -50 2
-Refer: 454 -1 N 1 0 0 1 154.577 7 2
+Refer: 443 -1 N 1 0 0 1 284 -50 2
+Refer: 454 -1 N 1 0 0 1 193.577 7 2
 Refer: 47 79 N 1 0 0 1 0 0 3
-Validated: 32769
 MultipleSubs2: "CCMP_Precomp subtable" O dotbelowcomb.cap uni0302.cap
 EndChar

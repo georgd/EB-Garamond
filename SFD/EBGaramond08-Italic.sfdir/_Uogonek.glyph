@@ -1,14 +1,12 @@
 StartChar: Uogonek
-Encoding: 370 370 536
-Width: 689
+Encoding: 294 370 536
+Width: 705
 VWidth: 0
-HStem: -272 64<314.852 381.73> -20 51<243.658 407.071> 567 37<99.0204 158.988 293.589 361.983 528.03 592.566 697.245 764.976>
-VStem: 228 82<-203.944 -117.423>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 458 -1 N 1 0 0 1 228 0 2
+Refer: 458 -1 N 1 0 0 1 244 0 2
 Refer: 53 85 N 1 0 0 1 0 0 3
-Validated: 32773
 Substitution2: "c2sc subtable" Uogonek.sc
 MultipleSubs2: "CCMP_Precomp subtable" U uni0328.cap
 EndChar

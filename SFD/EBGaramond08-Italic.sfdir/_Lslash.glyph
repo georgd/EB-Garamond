@@ -1,9 +1,34 @@
 StartChar: Lslash
-Encoding: 321 321 904
-Width: 1000
-VWidth: 0
-Flags: W
-AnchorPoint: "cedilla" 183 8 basechar 0
+Encoding: 245 321 904
+Width: 627
+Flags: HMW
+AnchorPoint: "top_accent" 321 650 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+234 131 m 2
+ 325 495 l 2
+ 337 544 354 553 411 569 c 0
+ 420 571 426 577 426 586 c 0
+ 426 598 406 604 391 604 c 0
+ 357 604 344 599 309 599 c 0
+ 273 599 237 604 198 604 c 0
+ 183 604 163 598 163 586 c 0
+ 163 577 170 571 179 569 c 0
+ 231 554 241 539 230 495 c 2
+ 139 129 l 2
+ 129 88 117 59 84 44 c 0
+ 61 34 29 30 29 15 c 0
+ 29 5 46 -2 61 -2 c 0
+ 76 -2 117 2 164 2 c 0
+ 202 2 397 -5 511 -5 c 0
+ 525 -5 542 -1 550 8 c 0
+ 576 37 601 88 601 113 c 0
+ 601 127 600 131 588 131 c 0
+ 567 131 546 98 526 82 c 0
+ 508 67 480 50 448 50 c 2
+ 276 50 l 2
+ 241 50 219 69 234 131 c 2
+EndSplineSet
 Substitution2: "c2sc subtable" Lslash.sc
 EndChar

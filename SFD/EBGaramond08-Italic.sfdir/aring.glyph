@@ -1,14 +1,11 @@
 StartChar: aring
-Encoding: 229 229 149
-Width: 497
-Flags: W
-HStem: -14 76<77.0297 178.221 329.5 400.117> 347 55<280.386 364.061> 493 28<353.501 403.883> 632 28<364.17 416.66>
-VStem: 14 95<24 125.298> 303 42<523.591 619.147> 427 42<537.433 627.303>
+Encoding: 153 229 149
+Width: 492
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 318 778 N 1 0 0 1 270 0 2
+Refer: 318 778 N 1 0 0 1 271 0 2
 Refer: 65 97 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "Smallcaps subtable" aring.sc
 MultipleSubs2: "CCMP_Precomp subtable" a uni030A
 EndChar

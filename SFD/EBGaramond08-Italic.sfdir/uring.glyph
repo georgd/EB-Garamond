@@ -1,14 +1,12 @@
 StartChar: uring
-Encoding: 367 367 355
-Width: 475
+Encoding: 291 367 355
+Width: 482
 VWidth: 0
-HStem: -14 75<98.6588 164.435 327.182 384.117> 352 78<119.34 197.177> 493 28<276.501 326.883> 632 28<287.17 339.66>
-VStem: 226 42<523.591 619.147> 350 42<537.433 627.303> 389 59<354.917 426.757>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 318 778 N 1 0 0 1 193 0 2
+Refer: 318 778 N 1 0 0 1 200 0 2
 Refer: 85 117 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "Smallcaps subtable" uring.sc
 MultipleSubs2: "CCMP_Precomp subtable" u uni030A
 EndChar

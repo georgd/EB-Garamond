@@ -1,13 +1,11 @@
 StartChar: gcaron
-Encoding: 487 487 563
-Width: 422
+Encoding: 345 487 563
+Width: 438
 VWidth: 0
-HStem: -273 50<57.0303 238.823> 361 63<352.315 464.298> 363 52<336.137 423.812> 384 46<184.802 255.69> 462 195
-VStem: -84 81<-178.769 -113.305> 28 80<135.798 278.425> 76 76<32.6362 79.1407> 205 25<640 656.031> 260 78<228.555 362.604> 292 80<-185.074 -111.293>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 320 780 N 1 0 0 1 195 0 2
+Refer: 320 780 N 1 0 0 1 211 0 2
 Refer: 71 103 N 1 0 0 1 0 0 3
-Validated: 32769
 MultipleSubs2: "CCMP_Precomp subtable" g uni030C
 EndChar

@@ -1,14 +1,12 @@
 StartChar: Wcircumflex
-Encoding: 372 372 538
-Width: 700
+Encoding: 296 372 538
+Width: 978
 VWidth: 0
-HStem: -16 21<111.5 130.5 301.5 320.5> 569 33<5.01858 49.5854 183.651 214.97 376.449 410.977 525.205 578.979 738.806 794.981> 629 134
-VStem: 83 94<208.25 535.762> 92 93<149.703 309.778> 276.7 93.817<148.116 181.581 253.501 327.559 407.292 436.425> 279 291<633 643>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 443 -1 N 1 0 0 1 274 -60 2
+Refer: 443 -1 N 1 0 0 1 441 -60 2
 Refer: 55 87 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "c2sc subtable" Wcircumflex.sc
 MultipleSubs2: "CCMP_Precomp subtable" W uni0302.cap
 EndChar

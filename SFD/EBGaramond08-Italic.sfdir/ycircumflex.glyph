@@ -1,14 +1,12 @@
 StartChar: ycircumflex
-Encoding: 375 375 358
-Width: 437
+Encoding: 299 375 358
+Width: 422
 VWidth: 0
-HStem: -270 62<-5.60067 99.2246> 352 78<122.944 182.951> 462 195
-VStem: 364 68<304.202 427.875> 375 25<463.061 479>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 311 770 N 1 0 0 1 195 0 2
+Refer: 311 770 N 1 0 0 1 180 0 2
 Refer: 89 121 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "Smallcaps subtable" ycircumflex.sc
 MultipleSubs2: "CCMP_Precomp subtable" y uni0302
 EndChar

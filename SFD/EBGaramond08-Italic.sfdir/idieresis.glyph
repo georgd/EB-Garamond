@@ -1,14 +1,11 @@
 StartChar: idieresis
-Encoding: 239 239 159
-Width: 195
-Flags: W
-HStem: -14 76<48.7792 132.117> 333 97<80.5 175.402> 524 100<73.7711 137.298 224.771 288.298>
-VStem: 24 163<325 405> 60 90<536.614 610.468> 211 90<536.614 610.468>
+Encoding: 163 239 159
+Width: 265
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 316 776 N 1 0 0 1 50 0 2
-Refer: 176 305 N 1 0 0 1 0 0 3
-Validated: 32769
+Refer: 316 776 N 1 0 0 1 70 0 2
+Refer: 2157 -1 N 1 0 0 1 0 0 3
 Substitution2: "Smallcaps subtable" idieresis.sc
 MultipleSubs2: "CCMP_Precomp subtable" dotlessi uni0308
 EndChar

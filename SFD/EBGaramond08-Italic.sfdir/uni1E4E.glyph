@@ -1,14 +1,12 @@
 StartChar: uni1E4E
-Encoding: 7758 7758 717
-Width: 585
+Encoding: 633 7758 717
+Width: 646
 VWidth: 0
-HStem: -20 45<175.156 316.453> 573 47<301.854 435.529> 638 21<280 289> 670 69<296.779 497.646> 781 108<263.135 344.866 458.134 539.866>
-VStem: 20 99<117.205 317.368> 248 112<796.452 873.548> 257 288 443 112<796.452 873.548> 488 99<266.09 505.203>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 448 -1 N 1 0 0 1 243 81 2
-Refer: 444 -1 N 1 0 0 1 252 -50 2
+Refer: 448 -1 N 1 0 0 1 282 81 2
+Refer: 444 -1 N 1 0 0 1 291 -50 2
 Refer: 47 79 N 1 0 0 1 0 0 3
-Validated: 32769
 MultipleSubs2: "CCMP_Precomp subtable" O tildecomb.cap uni0308.cap
 EndChar

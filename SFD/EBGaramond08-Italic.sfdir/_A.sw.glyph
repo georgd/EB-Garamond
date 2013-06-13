@@ -1,8 +1,7 @@
 StartChar: A.sw
-Encoding: 1114142 -1 413
-Width: 916
-Flags: W
-HStem: -48 44<144 303.111> -2 46<657.105 738.068 862.051 927.884> 216 50<676 773.453> 577 20G<886 908.5>
+Encoding: 1191 -1 413
+Width: 986
+Flags: MW
 AnchorPoint: "top_accent" 908 660 basechar 0
 AnchorPoint: "ogonek" 824 18 basechar 0
 AnchorPoint: "cedilla" 424 8 basechar 0
@@ -39,6 +38,5 @@ SplineSet
  640 216 l 18
  630 216 619 211 611 203 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "c2sc subtable" A.sc
 EndChar

@@ -1,14 +1,12 @@
 StartChar: uni01D5
-Encoding: 469 469 551
-Width: 689
+Encoding: 330 469 551
+Width: 705
 VWidth: 0
-HStem: -20 51<243.658 407.071> 567 37<99.0204 158.988 293.589 361.983 528.03 592.566 697.245 764.976> 640 108<325.135 406.866 520.134 601.866> 782 55<310.661 586.838>
-VStem: 307 285<784.629 836.782> 310 112<655.452 732.548> 505 112<655.452 732.548>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 445 -1 N 1 0 0 1 302 59 2
-Refer: 448 -1 N 1 0 0 1 305 -60 2
+Refer: 445 -1 N 1 0 0 1 318 59 2
+Refer: 448 -1 N 1 0 0 1 321 -60 2
 Refer: 53 85 N 1 0 0 1 0 0 3
-Validated: 32769
 MultipleSubs2: "CCMP_Precomp subtable" U uni0308.cap uni0304.cap
 EndChar

@@ -1,14 +1,11 @@
 StartChar: omacron
-Encoding: 333 333 252
-Width: 368
-Flags: W
-HStem: -14 46<125.492 196.475> 384 46<200.547 272.067> 533 55<132.178 360.825>
-VStem: 35 80<49.4687 242.436> 125 245<540.013 585.662> 278 80<177.491 373.885>
+Encoding: 257 333 252
+Width: 378
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 313 772 N 1 0 0 1 120 0 2
+Refer: 313 772 N 1 0 0 1 125 0 2
 Refer: 79 111 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "Smallcaps subtable" omacron.sc
 MultipleSubs2: "CCMP_Precomp subtable" o uni0304
 EndChar

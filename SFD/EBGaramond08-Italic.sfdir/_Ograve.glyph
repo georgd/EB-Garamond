@@ -1,14 +1,11 @@
 StartChar: Ograve
-Encoding: 210 210 130
-Width: 585
-Flags: W
-HStem: -20 45<175.156 316.453> 573 47<301.854 435.529> 647 155
-VStem: 20 99<117.205 317.368> 305 154 488 99<266.09 505.203>
+Encoding: 134 210 130
+Width: 646
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 441 -1 N 1 0 0 1 299 -50 2
+Refer: 441 -1 N 1 0 0 1 338 -50 2
 Refer: 47 79 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "c2sc subtable" Ograve.sc
 MultipleSubs2: "CCMP_Precomp subtable" O gravecomb.cap
 EndChar

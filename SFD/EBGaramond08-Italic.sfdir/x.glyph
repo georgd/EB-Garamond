@@ -1,13 +1,12 @@
 StartChar: x
-Encoding: 120 120 88
+Encoding: 88 120 88
 Width: 531
-Flags: W
-HStem: -14 83<342.5 423.833> -14 76<56.5 126.075> 352 78<130.944 188.753 409.134 496>
+Flags: MW
 AnchorPoint: "top_accent" 361 570 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-161 352 m 0x60
+161 352 m 0
  124 352 88 279 74 279 c 0
  67 279 63 295 63 303 c 0
  63 323 116 430 185 430 c 0
@@ -22,7 +21,7 @@ SplineSet
  357 90 365 69 400 69 c 0
  436 69 465 114 480 114 c 0
  486 114 487 107 487 101 c 0
- 487 63 431 -14 360 -14 c 0xa0
+ 487 63 431 -14 360 -14 c 0
  325 -14 290 32 269 96 c 2
  251 152 l 1
  195 69 126 -14 72 -14 c 0
@@ -32,7 +31,7 @@ SplineSet
  146 62 197 146 230 196 c 0
  231 198 233 201 234 203 c 1
  202 302 l 2
- 191 335 173 352 161 352 c 0x60
+ 191 335 173 352 161 352 c 0
 EndSplineSet
 Validated: 1
 Substitution2: "Smallcaps subtable" x.sc

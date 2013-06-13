@@ -1,14 +1,11 @@
 StartChar: Ucircumflex
-Encoding: 219 219 139
-Width: 689
-Flags: W
-HStem: -20 51<243.658 407.071> 567 37<99.0204 158.988 293.589 361.983 528.03 592.566 697.245 764.976> 629 134
-VStem: 298 291<633 643>
+Encoding: 143 219 139
+Width: 705
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 443 -1 N 1 0 0 1 293 -60 2
+Refer: 443 -1 N 1 0 0 1 309 -60 2
 Refer: 53 85 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "c2sc subtable" Ucircumflex.sc
 MultipleSubs2: "CCMP_Precomp subtable" U uni0302.cap
 EndChar

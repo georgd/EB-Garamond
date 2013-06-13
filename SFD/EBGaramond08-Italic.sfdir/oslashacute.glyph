@@ -1,14 +1,11 @@
 StartChar: oslashacute
-Encoding: 511 511 580
+Encoding: 367 511 580
 Width: 368
 VWidth: 0
-Flags: W
-HStem: -42 21<30.5 48.5> -14 46<125.022 195.489> 384 46<201.428 268.228> 572.255 189
-VStem: 277.548 80.4522<174.332 299.55> 342.559 72<696.106 749.74>
+Flags: HM
 LayerCount: 2
 Fore
-Refer: 310 769 N 1 0 0 1 263.559 106.255 2
+Refer: 310 769 N 1 0 0 1 218 0 2
 Refer: 168 248 N 1 0 0 1 0 0 3
-Validated: 32769
 MultipleSubs2: "CCMP_Precomp subtable" oslash acutecomb
 EndChar

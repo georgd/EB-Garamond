@@ -1,8 +1,24 @@
 StartChar: lslash
-Encoding: 322 322 1556
-Width: 1000
-VWidth: 0
-Flags: W
+Encoding: 246 322 1556
+Width: 195
+Flags: HMW
 LayerCount: 2
+Fore
+SplineSet
+104 79 m 2
+ 101.097 67.3565 103 62 112 62 c 0
+ 148 62 179 110 194 110 c 0
+ 200 110 201 103 201 97 c 0
+ 201 62 121 -14 61 -14 c 0
+ 28 -14 17 5 17 27 c 0
+ 17 39 21 50 23 58 c 2
+ 148 558 l 2
+ 154.371 583.485 157 593 157 604 c 0
+ 157 612 87 626 87 641 c 0
+ 87 656 186 682 218 682 c 0
+ 240 682 242 670 242 657 c 0
+ 242 635 236.198 608.869 227 572 c 2
+ 104 79 l 2
+EndSplineSet
 Substitution2: "Smallcaps subtable" lslash.sc
 EndChar

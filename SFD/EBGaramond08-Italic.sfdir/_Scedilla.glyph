@@ -1,14 +1,12 @@
 StartChar: Scedilla
-Encoding: 350 350 524
-Width: 497
+Encoding: 274 350 524
+Width: 494
 VWidth: 0
-HStem: -273 46<134.811 213.102> -20 44<155.594 295.327> 580 40<298.558 427.404>
-VStem: 53 47<88.6484 207.796> 161 66<-114.826 -53.5599> 172 88<431.168 532.101> 215 71<-223.768 -155.427> 348 104<92.8612 205.927> 465 52<469.358 543.672>
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 457 -1 N 1 0 0 1 97 0 2
 Refer: 51 83 N 1 0 0 1 0 0 3
-Validated: 32773
 Substitution2: "c2sc subtable" Scedilla.sc
 MultipleSubs2: "CCMP_Precomp subtable" S uni0327.cap
 EndChar

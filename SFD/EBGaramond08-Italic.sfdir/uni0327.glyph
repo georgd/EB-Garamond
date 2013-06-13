@@ -1,24 +1,22 @@
 StartChar: uni0327
-Encoding: 807 807 883
+Encoding: 452 807 883
 Width: 0
-Flags: W
-HStem: -267 50<44.1921 116.036>
-VStem: 100 59<-158.81 -37.7554> 117 65<-216.315 -89.9061>
+Flags: MW
 AnchorPoint: "cedilla" 190 8 mark 0
 LayerCount: 2
 Fore
 SplineSet
-100 -94 m 0xc0
+100 -94 m 0
  100 -61 133 -7 191 23 c 1
  228 23 l 1
- 166 -26 159 -56 159 -74 c 0xc0
+ 166 -26 159 -56 159 -74 c 0
  159 -95 182 -140 182 -173 c 0
  182 -216 118 -267 78 -267 c 0
  29 -267 14 -213 14 -204 c 0
  14 -196 15 -184 26 -184 c 0
  38 -184 58 -217 92 -217 c 0
- 105 -217 117 -206 117 -190 c 0xa0
- 117 -148 100 -129 100 -94 c 0xc0
+ 105 -217 117 -206 117 -190 c 0
+ 117 -148 100 -129 100 -94 c 0
 EndSplineSet
 Validated: 1
 Substitution2: "'case' Case-Sensitive Forms lookup 6 subtable" uni0327.cap
