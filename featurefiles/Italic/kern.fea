@@ -15,6 +15,7 @@ lookup kern {
     @first_vsc = [\V.sc \W.sc \v.sc \w.sc ];
     @first_V01 = [\V.01 W.01 ];
     @first_h = [\h \m \n ];
+    @first_r = [r];
     @first_v = [\v \w \y ];
     
     @second_A = [\A ];
@@ -92,9 +93,10 @@ lookup kern {
 
     pos @first_h @second_v -16;
 
+    pos @first_r @second_a -35;
+
     pos @first_v @second_A -50;
     pos @first_v @second_a -10;
-    pos @first_v @second_c -10;
 
     pos @first_Ghe @second_ie -130;
     pos @first_Ghe @second_en -100;
