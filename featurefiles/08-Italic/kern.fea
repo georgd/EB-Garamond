@@ -1,0 +1,82 @@
+####  Latin  ####
+
+lookup kern {
+  lookupflag 0;
+    @first_A = [\A ];
+    @first_asc = [\A.sc \a.sc ];
+    @first_E = [\E \Eacute \Ebreve \Ecaron \Ecircumflex \Edieresis \Edotaccent \Egrave \Emacron 
+	\Eogonek \uni1EBC ];
+    @first_F = [\F ];
+    @first_L = [\L ];
+    @first_M = [\M ];
+    @first_O = [\O ];
+    @first_T = [\T ];
+    @first_V = [\V \W \Y ];
+    @first_vsc = [\V.sc \W.sc \v.sc \w.sc ];
+    @first_V01 = [\V.01 W.01 ];
+    @first_h = [\h \m \n ];
+    @first_r = [r];
+    @first_v = [\v \w \y ];
+    
+    @second_A = [\A ];
+    @second_asc = [\A.sc \a.sc ];
+    @second_O = [\O \Ohorn \Q ];
+    @second_V = [\V \W \Y ];
+    @second_vsc = [\V.sc \W.sc \v.sc \w.sc ];
+    @second_a = [\a \ae \aogonek ];
+    @second_c = [\c \ccedilla \d \e \e_s \eogonek \eth \g \o \oe \uni01EB \q \s \scedilla ];
+    @second_m = [\dotlessi \m \n \p \r \u \uogonek \z ];
+    @second_t = [\t ];
+    @second_v = [\v \w \x \y ];
+
+       
+    pos @first_A @second_O -50;
+
+    pos @first_asc @second_vsc -75;
+
+    pos @first_E @second_a -15;
+    pos @first_E @second_c -15;
+    pos @first_E @second_t -10;
+    pos @first_E @second_v -20;
+
+    pos @first_F @second_a -20;
+    pos @first_F @second_c -20;
+    pos @first_F @second_m -30;
+    pos @first_F @second_t -10;
+    pos @first_F @second_v -20;
+
+    pos @first_L @second_v -20;
+
+    pos @first_M @second_a -10;
+    pos @first_M @second_c -10;
+    pos @first_M @second_t -20;
+    pos @first_M @second_v -20;
+
+    pos @first_O @second_A -95;
+    pos @first_O @second_a -10;
+    pos @first_O @second_c -10;
+
+    pos @first_T @second_A -130;
+    pos @first_T @second_a -120;
+    pos @first_T @second_c -120;
+    pos @first_T @second_m -100;
+    pos @first_T @second_t  -80;
+    pos @first_T @second_v  -90;
+
+    pos @first_V @second_A -230;
+    pos @first_V @second_a -180;
+    pos @first_V @second_c -160;
+    pos @first_V @second_t -130;
+
+    pos @first_vsc @second_asc -95;
+
+    pos @first_r @second_a -35;
+
+    pos @first_v @second_A -90;
+    pos @first_v @second_a -20;
+
+} kern;
+
+feature kern {
+    lookup kern;
+} kern;
