@@ -76,6 +76,15 @@ feature cv27 {
     lookup alternate_g;
 } cv27;
 
+lookup germandbls_variants {
+#    sub germandbls from [ germandbls.alt1 germandbls.alt2 ];
+    sub germandbls.sc by germandbls.sc1;
+} germandbls_variants;
+
+feature cv47 {
+    lookup germandbls_variants;
+} cv47;
+
 lookup VW_alts {
     sub [ V W ] by [V.01 W.01];
 } VW_alts;
