@@ -468,7 +468,7 @@ glyphComponents = {
     'uni0136': ('K', 'uni0326'),
     'Lacute': ('L', 'acutecomb.cap'),
     'uni013B': ('L', 'uni0326'),
-    'Lcaron': ('L', 'uni030C.alt'),
+    'Lcaron': ('L', 'uni030C.altcap'),
     'Nacute': ('N', 'acutecomb.cap'),
     'uni0145': ('N', 'uni0326'),
     'Ncaron': ('N', 'uni030C.cap'),
