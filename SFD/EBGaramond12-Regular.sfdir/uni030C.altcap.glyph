@@ -1,5 +1,5 @@
-StartChar: uni030C.alt
-Encoding: 66592 -1 2939
+StartChar: uni030C.altcap
+Encoding: 66594 -1 2941
 Width: 0
 VWidth: 0
 Flags: W
@@ -19,6 +19,5 @@ SplineSet
  7 540 10 569 10 584 c 0
  10 621 5 641 5 657 c 0
 EndSplineSet
-Substitution2: "Smallcaps subtable" uni030C.sc
-Substitution2: "cv82 subtable" uni030C.alt1
+Substitution2: "cv82 subtable" uni030C.altcap1
 EndChar

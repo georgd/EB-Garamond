@@ -2,6 +2,7 @@ StartChar: d
 Encoding: 100 100 11
 Width: 513
 Flags: MW
+AnchorPoint: "top_right1" 631 624 basechar 0
 AnchorPoint: "top_right" 641 634 basechar 0
 AnchorPoint: "below_accent" 122 -100 basechar 0
 LayerCount: 2
@@ -36,7 +37,6 @@ SplineSet
  377 363 359 389 333 389 c 0
  271 389 95 176 96 61 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps subtable" d.sc
 Substitution2: "sups subtable" d.sups
 Substitution2: "sinf subtable" d.sinf

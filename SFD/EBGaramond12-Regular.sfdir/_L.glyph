@@ -3,7 +3,8 @@ Encoding: 76 76 36
 Width: 584
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top_right" 492 624 basechar 0
+AnchorPoint: "top_right1" 425 640 basechar 0
+AnchorPoint: "top_right" 437 624 basechar 0
 AnchorPoint: "cedilla" 183 8 basechar 0
 AnchorPoint: "below_accent" 314 -100 basechar 0
 AnchorPoint: "top_accent" 186 710 basechar 0
@@ -2354,7 +2355,6 @@ SplineSet
  332 633 322 626 299 622 c 0
  249 613 210 606 210 567 c 2
 EndSplineSet
-Validated: 1
 Substitution2: "c2sc subtable" L.sc
 Substitution2: "sups subtable" L.sups
 Substitution2: "sinf subtable" L.sinf

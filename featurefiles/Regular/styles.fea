@@ -110,6 +110,23 @@ feature cv47 {
 #    lookup AE_alt;
 #} cv48;
 
+lookup cv82_decomp {
+    sub dcaron by d uni030C.alt;
+    sub lcaron by l uni030C.alt;
+    sub tcaron by t uni030C.alt;
+    sub Lcaron by L uni030C.altcap;
+} cv82_decomp;
+
+lookup cv82 {
+    sub uni030C.alt by uni030C.alt1;
+    sub uni030C.altcap by uni030C.altcap1;
+} cv82;
+
+feature cv82 {
+    lookup cv82_decomp;
+    lookup cv82;
+} cv82;
+
 lookup salt {
     sub [ uni019F uni0275 ] by [ uni019F.alt uni0275.alt ];
 } salt;

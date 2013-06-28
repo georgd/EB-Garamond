@@ -3,10 +3,11 @@ Encoding: 108 108 2
 Width: 240
 VWidth: 0
 Flags: HMW
+AnchorPoint: "top_right1" 212 650 basechar 0
 AnchorPoint: "top_right" 222 660 basechar 0
 AnchorPoint: "cedilla" 130 8 basechar 0
 AnchorPoint: "below_accent" 120 -100 basechar 0
-AnchorPoint: "top_accent" 107 790 basechar 0
+AnchorPoint: "top_accent" 119 790 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -29,9 +30,8 @@ SplineSet
  162 686 155 652 155 562 c 2
  155 62 l 2
 EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 79 subtable" l.f_
-Substitution2: "Single Substitution lookup 71 subtable" l.f_
+Substitution2: "Single Substitution lookup 81 subtable" l.f_
+Substitution2: "Single Substitution lookup 73 subtable" l.f_
 Substitution2: "Smallcaps subtable" l.sc
 Substitution2: "sups subtable" l.sups
 Substitution2: "sinf subtable" l.sinf

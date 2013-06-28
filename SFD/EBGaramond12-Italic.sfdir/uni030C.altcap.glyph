@@ -1,8 +1,8 @@
-StartChar: uni030C.alt
-Encoding: 66413 -1 2144
+StartChar: uni030C.altcap
+Encoding: 66489 -1 2488
 Width: 0
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "top_right" 174 570 mark 0
 AnchorPoint: "topleft" 169 552 mark 0
 LayerCount: 2
@@ -10,13 +10,11 @@ Fore
 SplineSet
 104 453 m 0
  115 481 123 512 134 564 c 0
- 138 585 171 615 193 615 c 0
- 199 615 201 607 201 600 c 0
- 201 535 144 466 129 450 c 0
- 119 439 107 430 103 430 c 0
+ 138 585 176 615 198 615 c 0
+ 204 615 206 607 206 600 c 0
+ 206 533.183903808 116 430 103 430 c 0
  99 430 98 432 98 436 c 0
  98 441 101 446 104 453 c 0
 EndSplineSet
-Validated: 1
-Substitution2: "cv82 subtable" uni030C.alt1
+Substitution2: "cv82 subtable" uni030C.altcap1
 EndChar
