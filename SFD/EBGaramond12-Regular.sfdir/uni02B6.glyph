@@ -2,7 +2,7 @@ StartChar: uni02B6
 Encoding: 694 694 2651
 Width: 325
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Back
 SplineSet
@@ -64,7 +64,7 @@ SplineSet
  71 504 92 520 110 530 c 1
  112 530 l 2
  115 530 118 528 119 526 c 1
- 119 522 119 442 119 442 c 26
+ 119 442 l 26
  119 432 127 421 135 423 c 0
  135 423 160 419 178 440 c 2
  203 470 l 2
