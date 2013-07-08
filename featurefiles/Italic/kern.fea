@@ -97,6 +97,9 @@ lookup kern {
 
     pos @first_v @second_A -50;
     pos @first_v @second_a -10;
+    
+    pos uni02BE @second_A -120;
+    pos uni02BF @second_A -120;
 
     pos @first_Ghe @second_ie -130;
     pos @first_Ghe @second_en -100;
