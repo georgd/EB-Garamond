@@ -1307,7 +1307,7 @@ SplineSet
  360 330 360 310 360 295 c 0
 EndSplineSet
 Kerns2: 16 25 "kern per glyph data 0" 
-Substitution2: "Smallcaps subtable" g.sc
+Substitution2: "Smallcaps1 subtable" g.sc
 AlternateSubs2: "alternate_g subtable" g.01
 Substitution2: "sups subtable" g.sups
 Substitution2: "sinf subtable" g.sinf

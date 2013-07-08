@@ -3,6 +3,8 @@ Encoding: 66103 -1 1678
 Width: 470
 VWidth: 0
 Flags: HMW
+AnchorPoint: "top_right1" 370 480 basechar 0
+AnchorPoint: "top_right" 380 490 basechar 0
 AnchorPoint: "below_accent" 260 -99 basechar 0
 AnchorPoint: "top_accent" 159 615 basechar 0
 LayerCount: 3
@@ -32,6 +34,5 @@ SplineSet
  211 415 195 393 195 352 c 2
  195 78 l 2
 EndSplineSet
-Validated: 1
 Comment: "." 
 EndChar

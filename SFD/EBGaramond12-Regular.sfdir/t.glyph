@@ -3,8 +3,8 @@ Encoding: 116 116 1
 Width: 314
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top_right1" 240 590 basechar 0
 AnchorPoint: "top_right" 249 600 basechar 0
+AnchorPoint: "top_right1" 253 576 basechar 0
 AnchorPoint: "cedilla" 205 8 basechar 0
 AnchorPoint: "below_accent" 186 -100 basechar 0
 AnchorPoint: "top_accent" 133 550 basechar 0
@@ -631,9 +631,9 @@ SplineSet
  302 64 306 55 306 47 c 0
  306 36 250 -14 189 -14 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 76 subtable" t.f_
-Substitution2: "Single Substitution lookup 68 subtable" t.f_
-Substitution2: "Smallcaps subtable" t.sc
+Substitution2: "Single Substitution lookup 79 subtable" t.f_
+Substitution2: "Single Substitution lookup 71 subtable" t.f_
+Substitution2: "Smallcaps1 subtable" t.sc
 Substitution2: "sups subtable" t.sups
 Substitution2: "sinf subtable" t.sinf
 Substitution2: "ordn subtable" t.ordn

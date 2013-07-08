@@ -2,9 +2,7 @@ StartChar: uni030C.alt
 Encoding: 66592 -1 2939
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 512 193<16.8777 33.5117>
-VStem: 7 61<564.592 694.402>
+Flags: MW
 AnchorPoint: "top_right" 35 660 mark 0
 AnchorPoint: "top_left" 22 643 mark 0
 LayerCount: 3
@@ -19,6 +17,6 @@ SplineSet
  7 540 10 569 10 584 c 0
  10 621 5 641 5 657 c 0
 EndSplineSet
-Substitution2: "Smallcaps subtable" uni030C.sc
+Substitution2: "Single Substitution lookup 66 subtable" uni030C.sc
 Substitution2: "cv82 subtable" uni030C.alt1
 EndChar

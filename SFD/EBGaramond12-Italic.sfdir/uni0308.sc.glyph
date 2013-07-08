@@ -1,6 +1,6 @@
 StartChar: uni0308.sc
 Encoding: 66455 -1 2439
-Width: 271
+Width: 0
 VWidth: 0
 Flags: MW
 AnchorPoint: "top_stack" 148 474 mark 0
@@ -22,5 +22,4 @@ SplineSet
  25 524 10 543 10 563 c 8
  10 595 34 624 66 624 c 16
 EndSplineSet
-Validated: 1
 EndChar

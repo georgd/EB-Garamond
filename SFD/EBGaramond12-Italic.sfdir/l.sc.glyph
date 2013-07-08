@@ -4,6 +4,8 @@ Width: 379
 VWidth: 0
 Flags: MW
 AnchorPoint: "top_accent" 253 580 basechar 0
+AnchorPoint: "top_right1" 438 457 basechar 0
+AnchorPoint: "top_right" 430 450 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -33,6 +35,5 @@ SplineSet
  341 453 343 453 345 453 c 0
  345 453 337 430 337 429 c 0
 EndSplineSet
-Validated: 33
 Comment: "." 
 EndChar
