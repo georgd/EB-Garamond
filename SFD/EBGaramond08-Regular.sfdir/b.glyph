@@ -3,8 +3,8 @@ Encoding: 98 98 66
 Width: 499
 VWidth: 982
 Flags: HMW
-AnchorPoint: "top_accent" 122 785 basechar 0
 AnchorPoint: "below_accent" 255 -80 basechar 0
+AnchorPoint: "top_accent" 122 785 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -28,7 +28,7 @@ SplineSet
  384 283 337 378 246 378 c 0
  188 378 163 339 163 332 c 2
 EndSplineSet
-Substitution2: "Smallcaps subtable" b.sc
+Substitution2: "Smallcaps1 subtable" b.sc
 Substitution2: "sups subtable" b.sups
 Substitution2: "sinf subtable" b.sinf
 Substitution2: "ordn subtable" b.ordn

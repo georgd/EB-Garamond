@@ -2,11 +2,11 @@ StartChar: uni030C.stack
 Encoding: 1114174 -1 742
 Width: 1000
 Flags: MW
-AnchorPoint: "top_accent" 117 572 mark 0
 AnchorPoint: "top_stack" 117 507 mark 0
-AnchorPoint: "gravestack" 114 580 basemark 0
-AnchorPoint: "acutestack" 120 580 basemark 0
 AnchorPoint: "top_stack" 117 635 basemark 0
+AnchorPoint: "acutestack" 120 580 basemark 0
+AnchorPoint: "gravestack" 114 580 basemark 0
+AnchorPoint: "top_accent" 117 572 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -24,5 +24,5 @@ SplineSet
  114 530 119 530 124 535 c 2
 EndSplineSet
 Validated: 1
-Substitution2: "Smallcaps subtable" uni030C.stacksc
+Substitution2: "Smallcaps1 subtable" uni030C.stacksc
 EndChar

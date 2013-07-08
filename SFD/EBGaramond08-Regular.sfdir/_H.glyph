@@ -3,10 +3,10 @@ Encoding: 72 72 40
 Width: 725
 VWidth: 982
 Flags: HMW
-AnchorPoint: "top_accent" 362 670 basechar 0
 AnchorPoint: "below_accent" 362 -80 basechar 0
-AnchorPoint: "ogonek" 567 15 basechar 0
 AnchorPoint: "cedilla" 180 15 basechar 0
+AnchorPoint: "ogonek" 567 15 basechar 0
+AnchorPoint: "top_accent" 362 670 basechar 0
 LayerCount: 2
 Fore
 SplineSet

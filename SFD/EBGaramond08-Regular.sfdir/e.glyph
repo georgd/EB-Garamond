@@ -4,8 +4,8 @@ Width: 391
 VWidth: 982
 Flags: HMW
 AnchorPoint: "below_accent" 193 -80 basechar 0
-AnchorPoint: "ogonek" 254 5 basechar 0
 AnchorPoint: "cedilla" 237 5 basechar 0
+AnchorPoint: "ogonek" 254 5 basechar 0
 AnchorPoint: "top_accent" 224 596 basechar 0
 LayerCount: 2
 Fore
@@ -29,7 +29,7 @@ SplineSet
  284 364 254 384 225 384 c 0
  165 384 124 335 124 315 c 8
 EndSplineSet
-Substitution2: "Smallcaps subtable" e.sc
+Substitution2: "Smallcaps1 subtable" e.sc
 Substitution2: "sups subtable" e.sups
 Substitution2: "sinf subtable" e.sinf
 Substitution2: "ordn subtable" e.ordn

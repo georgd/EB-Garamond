@@ -3,11 +3,11 @@ Encoding: 1115081 -1 2177
 Width: 276
 VWidth: 982
 Flags: HW
-AnchorPoint: "ogonek" 160 5 basechar 0
 AnchorPoint: "below_accent" 138 -80 basechar 0
+AnchorPoint: "ogonek" 160 5 basechar 0
 AnchorPoint: "top_accent" 133 596 basechar 0
 LayerCount: 2
 Fore
 Refer: 175 305 N 1 0 0 1 0 0 2
-Substitution2: "Smallcaps subtable" i.sc
+Substitution2: "Smallcaps1 subtable" i.sc
 EndChar

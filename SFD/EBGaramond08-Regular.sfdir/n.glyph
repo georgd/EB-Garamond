@@ -3,8 +3,8 @@ Encoding: 110 110 78
 Width: 543
 VWidth: 982
 Flags: MW
-AnchorPoint: "top_left" 30 596 basechar 0
 AnchorPoint: "below_accent" 272 -80 basechar 0
+AnchorPoint: "top_left" 30 596 basechar 0
 AnchorPoint: "top_accent" 282 596 basechar 0
 LayerCount: 2
 Fore
@@ -43,7 +43,7 @@ SplineSet
  449 110 l 2
 EndSplineSet
 Validated: 1
-Substitution2: "Smallcaps subtable" n.sc
+Substitution2: "Smallcaps1 subtable" n.sc
 Substitution2: "sups subtable" n.sups
 Substitution2: "sinf subtable" n.sinf
 Substitution2: "ordn subtable" n.ordn

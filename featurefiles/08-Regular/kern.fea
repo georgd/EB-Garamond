@@ -1,112 +1,126 @@
 ## Latin ##
+@first_A   = [ A uni0245 ];
+@first_A_topacc = [ Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve ];
+@first_A_botacc = [ Aogonek ];
+@first_asc = [ A.sc a.sc ];
+@first_E = [ E Eacute Egrave Edieresis uni1EBC Eogonek Ecircumflex Emacron Ebreve Edotaccent Ecaron ];
+@first_F = [ F ];
+@first_L = [ L ];
+@first_M = [ M ];
+@first_O = [ O ];
+@first_T = [ T ];
+@first_V = [ V W Y ];
+@first_vsc = [ V.sc v.sc W.sc w.sc ];
+@first_f = [ f f_f f.long f.DEU f_f.long ];
+@first_m = [ h m n ];
+@first_o = [ ae b c e o oe p thorn ];
+@first_v = [ v w y ];
 
-@LeftKern_A = [ A ];
-@LeftKern_asc = [ A.sc a.sc ];
-@LeftKern_O = [ O Ohorn Q ];
-@LeftKern_V = [ V W Y ];
-@LeftKern_b = [ b h k l thorn ];
-@LeftKern_o = [ a ae aogonek c ccedilla d e eogonek g o oogonek oe q s scedilla eth ];
-@LeftKern_m = [ m n p r u uogonek z dotlessi ];
-@LeftKern_t = [ t ];
-@LeftKern_v = [ v w x y ];
-@LeftKern_vsc = [ V.sc v.sc W.sc w.sc ];
-@LeftKern_i = [ i j agrave aacute adieresis atilde ];
+@first_halfring   = [ uni02BE uni02BF ];
 
-@RightKern_A = [ A ];
-@RightKern_asc = [ A.sc a.sc ];
-@RightKern_E = [ E Eacute Egrave Edieresis Etilde Eogonek Ecircumflex Emacron Ebreve Edotaccent Ecaron ];
-@RightKern_F = [ F ];
-@RightKern_L = [ L ];
-@RightKern_M = [ M ];
-@RightKern_O = [ O ];
-@RightKern_T = [ T ];
-@RightKern_V = [ V W Y ];
-@RightKern_f = [ f f_f f.long f.DEU f_f.long ];
-@RightKern_m = [ h m n ];
-@RightKern_o = [ ae b c e o oe p thorn ];
-@RightKern_v = [ v w y ];
-@RightKern_vsc = [ V.sc v.sc W.sc w.sc ];
+@second_A   = @first_A;
+@second_A_topacc = @first_A_topacc;
+@second_A_botacc = @first_A_botacc;
+@second_asc = @first_asc;
+@second_O = [ C G O Ohorn Q Q.long ];
+@second_V = [ V W Y ];
+@second_vsc = [ V.sc v.sc W.sc w.sc ];
+@second_b = [ b h k l thorn ];
+@second_o = [ a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth ];
+@second_m = [ m n p r u uogonek z dotlessi ];
+@second_t = [ t ];
+@second_v = [ v w x y ];
+@second_i = [ i j agrave aacute adieresis atilde ];
 
-@LeftKern_HighAscAfter_longf = [b h-l
-	agrave acircumflex adieresis aring egrave edieresis igrave iacute icircumflex idieresis eth ograve ugrave thorn germandbls abreve ccaron ebreve ecaron gbreve gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex kcommaaccent lacute lcommaaccent lcaron ldot lslash ncaron obreve rcaron scircumflex scaron ubreve ydieresis zcaron longs
+@second_HighAscAfter_longf = [b h-l
+	agrave acircumflex adieresis aring egrave edieresis igrave iacute icircumflex idieresis eth ograve ugrave thorn germandbls abreve ccaron ebreve ecaron gbreve uni0123 hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex uni0137 lacute uni013C lcaron ldot lslash ncaron obreve rcaron scircumflex scaron ubreve ydieresis zcaron longs
 	uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F
 	uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED uni1EF3 uni1EF7 uni1EFB
  	i.TRK
 ];
 
+@second_halfring   = [ uni02BE uni02BF ];
+
+@all_A = [ @first_A @first_A_topacc @first_A_botacc ];
+
 lookup kern {
-    pos f @LeftKern_HighAscAfter_longf 70;
+    pos @all_A     @second_v  -60;
+    pos @all_A     @second_O  -40;
+    pos @all_A     @second_V -100;
+    pos @all_A @second_halfring -70;
 
-    pos @RightKern_f @LeftKern_o -45;
-    pos @RightKern_m @LeftKern_v -16;
-#    pos s o 20;
-#    pos s a 12;
-#    pos s e 48;
-    pos @RightKern_v @LeftKern_A -50;
-    pos @RightKern_v @LeftKern_o -10;
-    pos @RightKern_A @LeftKern_v -70;
-    pos @RightKern_A @LeftKern_O -50;
-    pos @RightKern_A @LeftKern_V -150;
-    pos @RightKern_asc @LeftKern_vsc -75;
-    pos @RightKern_E @LeftKern_m -10;
-    pos @RightKern_E @LeftKern_o -25;
-    pos @RightKern_E @LeftKern_v -30;
-    pos @RightKern_E @LeftKern_t -20;
-    pos @RightKern_F @LeftKern_m -40;
-    pos @RightKern_F @LeftKern_o -30;
-    pos @RightKern_F @LeftKern_v -30;
-    pos @RightKern_F @LeftKern_t -20;
-    pos @RightKern_L @LeftKern_v -50;
-    pos @RightKern_M @LeftKern_m -10;
-    pos @RightKern_M @LeftKern_t -40;
-    pos @RightKern_M @LeftKern_v -40;
-    pos @RightKern_M @LeftKern_o -20;
-    pos @RightKern_T @LeftKern_m -120;
-    pos @RightKern_T @LeftKern_o -135;
-    pos @RightKern_T @LeftKern_v -100;
-    pos @RightKern_T @LeftKern_t -100;
-    pos @RightKern_V @LeftKern_A -150;
-    pos @RightKern_vsc @LeftKern_asc -75;
-    pos @RightKern_V @LeftKern_o -100;
-    pos @RightKern_V @LeftKern_t -80;
-    pos @RightKern_O @LeftKern_A -95;
-    pos @RightKern_O @LeftKern_o -10;
-#    pos @RightKern_o @LeftKern_v -8;
+    pos @first_asc @second_vsc -75;
 
+#    pos @first_E   @second_m  -10;
+#    pos @first_E   @second_o  -25;
+    pos @first_E   @second_v  -20;
+    pos @first_E   @second_t  -10;
+
+    pos @first_F @second_m  -20;
+    pos @first_F @second_o  -10;
+    pos @first_F @second_v  -10;
+    pos @first_F @second_t  -10;
+
+    pos @first_L @second_v  -50;
+
+    pos @first_M @second_t  -10;
+    pos @first_M @second_v  -30;
+    pos @first_M @second_o  -10;
+
+    pos @first_O @all_A     -60;
+
+    pos @first_T @second_m  -20;
+    pos @first_T @second_o  -35;
+    pos @first_T @second_v  -10;
+
+    pos @first_V @all_A    -100;
+    pos @first_V @second_o  -30;
+
+    pos @first_vsc @second_asc -75;
+
+#    pos @first_f @second_o  -45;
+    pos @first_f @second_HighAscAfter_longf 100;
+
+    pos @first_m @second_v  -16;
+
+    pos @first_v @all_A     -50;
+#    pos @first_v @second_o  -10;
+
+    pos @first_halfring @second_A -70;
 subtable;
 
 ## Cyrillic
-@LeftKern_ie = [ uni0430 uni0435 uni0437 uni043E uni0441 uni044D uni044F uni0454 uni0455 uni04E9 ];
-@LeftKern_en = [ uni0432 uni0433 uni0438 uni043A uni043C uni043D uni043F uni0446 uni0448 uni0449 uni044B uni044C uni044E uni045A uni045F uni0434.alt uni043B.alt uni0459.alt ];
-@LeftKern_de = [ uni0434 uni043B uni0459 ];
-@LeftKern_te = [ uni0442 uni044A ];
-@LeftKern_cyr_u = [ uni0443 ];
-@LeftKern_zhe = [ uni0436 uni0445 ];
-@LeftKern_ef = [ uni0444 ];
-@LeftKern_che = [ uni0447 ];
+@first_Ghe = [ uni0413 uni0490 ];
+@first_Te = [uni0422 ];
+@first_de = [ uni0434 uni043B ];
+@first_en = [ uni0438 uni043C uni043D uni043F uni0446 uni0447 uni0448 uni0449 uni044B uni044F uni045F uni0434.alt uni043B.alt ];
 
-@RightKern_Ghe = [ uni0413 uni0490 ];
-@RightKern_Te = [uni0422 ];
-@RightKern_de = [ uni0434 uni043B ];
-@RightKern_en = [ uni0438 uni043C uni043D uni043F uni0446 uni0447 uni0448 uni0449 uni044B uni044F uni045F uni0434.alt uni043B.alt ];
+@second_ie = [ uni0430 uni0435 uni0437 uni043E uni0441 uni044D uni044F uni0454 uni0455 uni04E9 ];
+@second_en = [ uni0432 uni0433 uni0438 uni043A uni043C uni043D uni043F uni0446 uni0448 uni0449 uni044B uni044C uni044E uni045A uni045F uni0434.alt uni043B.alt uni0459.alt ];
+@second_de = [ uni0434 uni043B uni0459 ];
+@second_te = [ uni0442 uni044A ];
+@second_cyr_u = [ uni0443 ];
+@second_zhe = [ uni0436 uni0445 ];
+@second_ef = [ uni0444 ];
+@second_che = [ uni0447 ];
 
-    pos @RightKern_Ghe @LeftKern_ie -130;
-    pos @RightKern_Ghe @LeftKern_de -140;
-    pos @RightKern_Ghe @LeftKern_en -100;
-    pos @RightKern_Ghe @LeftKern_te -130;
-    pos @RightKern_Ghe @LeftKern_cyr_u -115;
-    pos @RightKern_Ghe @LeftKern_zhe -105;
-    pos @RightKern_Ghe @LeftKern_ef -70;
-    pos @RightKern_Ghe @LeftKern_che -115;
+    pos @first_Ghe @second_ie -130;
+    pos @first_Ghe @second_de -140;
+    pos @first_Ghe @second_en -100;
+    pos @first_Ghe @second_te -130;
+    pos @first_Ghe @second_cyr_u -115;
+    pos @first_Ghe @second_zhe -105;
+    pos @first_Ghe @second_ef -70;
+    pos @first_Ghe @second_che -115;
 
-    pos @RightKern_Te @LeftKern_ie -125;
-    pos @RightKern_Te @LeftKern_de -135;
-    pos @RightKern_Te @LeftKern_en -95;
-    pos @RightKern_Te @LeftKern_te -130;
-    pos @RightKern_Te @LeftKern_cyr_u -110;
-    pos @RightKern_Te @LeftKern_zhe -100;
-    pos @RightKern_Te @LeftKern_ef -65;
-    pos @RightKern_Te @LeftKern_che -110;
+    pos @first_Te @second_ie -125;
+    pos @first_Te @second_de -135;
+    pos @first_Te @second_en -95;
+    pos @first_Te @second_te -130;
+    pos @first_Te @second_cyr_u -110;
+    pos @first_Te @second_zhe -100;
+    pos @first_Te @second_ef -65;
+    pos @first_Te @second_che -110;
     
 subtable;
 
@@ -118,15 +132,15 @@ gravecomb.grkstacksc acutecomb.grkstacksc uni0308.grkstacksc uni0313.grkstacksc 
 	uni0313.sc uni0314.sc gravecomb.grksc acutecomb.grksc ];
 @grk_tlAcc2 = [ uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt
 uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308.sc uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc ];
-@RightKern_Tau = [ Tau ];
-@RightKern_Upsilon = [ Upsilon Upsilontonos Upsilondieresis uni1F59 uni1F5B uni1F5D uni1F5F ];
-@RightKern_Gamma = [ Gamma ];
+@first_Tau = [ Tau ];
+@first_Upsilon = [ Upsilon Upsilontonos Upsilondieresis uni1F59 uni1F5B uni1F5D uni1F5F ];
+@first_Gamma = [ Gamma ];
 
-@LeftKern_GrNoAsc = [ alpha uni1FB3 gamma epsilon eta uni1FC3 iota kappa mu nu omicron pi rho sigma sigma1 tau upsilon chi omega uni1FF3 ];
+@second_GrNoAsc = [ alpha uni1FB3 gamma epsilon eta uni1FC3 iota kappa mu nu omicron pi rho sigma sigma1 tau upsilon chi omega uni1FF3 ];
 
-    pos @RightKern_Tau @LeftKern_GrNoAsc -90;
-    pos @RightKern_Gamma @LeftKern_GrNoAsc -100;
-    pos @RightKern_Upsilon @LeftKern_GrNoAsc -50;
+    pos @first_Tau @second_GrNoAsc -90;
+    pos @first_Gamma @second_GrNoAsc -100;
+    pos @first_Upsilon @second_GrNoAsc -50;
 } kern;
 
 lookup ckern1 {
@@ -162,8 +176,8 @@ lookup ckern1 {
 } ckern1;
 
 lookup ckern2 {
-    pos @RightKern_Upsilon' -70 @grk_topAcc @grk_topAcc @LeftKern_GrNoAsc;
-    pos @RightKern_Upsilon' -70 @grk_topAcc @LeftKern_GrNoAsc;
+    pos @first_Upsilon' -70 @grk_topAcc @grk_topAcc @second_GrNoAsc;
+    pos @first_Upsilon' -70 @grk_topAcc @second_GrNoAsc;
 } ckern2;
 
 feature kern {

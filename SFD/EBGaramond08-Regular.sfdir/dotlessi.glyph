@@ -3,8 +3,8 @@ Encoding: 305 305 175
 Width: 276
 VWidth: 982
 Flags: HMW
-AnchorPoint: "ogonek" 160 5 basechar 0
 AnchorPoint: "below_accent" 138 -80 basechar 0
+AnchorPoint: "ogonek" 160 5 basechar 0
 AnchorPoint: "top_accent" 133 596 basechar 0
 LayerCount: 2
 Fore
@@ -26,5 +26,5 @@ SplineSet
  86 52 97 83 97 108 c 2
  97 302 l 2
 EndSplineSet
-Substitution2: "Smallcaps subtable" dotlessi.sc
+Substitution2: "Smallcaps1 subtable" dotlessi.sc
 EndChar

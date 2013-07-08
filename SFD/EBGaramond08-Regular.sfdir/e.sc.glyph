@@ -2,10 +2,10 @@ StartChar: e.sc
 Encoding: 1114717 -1 1424
 Width: 443
 Flags: MW
-AnchorPoint: "ogonek" 319 15 basechar 0
 AnchorPoint: "below_accent" 222 -80 basechar 0
-AnchorPoint: "top_accent" 222 630 basechar 0
 AnchorPoint: "cedilla" 235 15 basechar 0
+AnchorPoint: "ogonek" 319 15 basechar 0
+AnchorPoint: "top_accent" 222 630 basechar 0
 LayerCount: 2
 Fore
 SplineSet

@@ -2,11 +2,11 @@ StartChar: tildecomb.stack
 Encoding: 1114169 -1 737
 Width: 0
 Flags: MW
-AnchorPoint: "top_accent" 146 572 mark 0
 AnchorPoint: "top_stack" 139 473 mark 0
-AnchorPoint: "acutestack" 155 590 basemark 0
-AnchorPoint: "gravestack" 150 590 basemark 0
 AnchorPoint: "top_stack" 139 600 basemark 0
+AnchorPoint: "gravestack" 150 590 basemark 0
+AnchorPoint: "acutestack" 155 590 basemark 0
+AnchorPoint: "top_accent" 146 572 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21,5 +21,5 @@ SplineSet
  51 486 27 458 19 458 c 0
 EndSplineSet
 Validated: 1
-Substitution2: "Smallcaps subtable" tildecomb.stacksc
+Substitution2: "Smallcaps1 subtable" tildecomb.stacksc
 EndChar

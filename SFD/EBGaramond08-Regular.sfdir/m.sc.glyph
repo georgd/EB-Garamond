@@ -2,9 +2,9 @@ StartChar: m.sc
 Encoding: 1114725 -1 1432
 Width: 721
 Flags: MW
-AnchorPoint: "cedilla" 400 15 basechar 0
-AnchorPoint: "ogonek" 422 15 basechar 0
 AnchorPoint: "below_accent" 358 -80 basechar 0
+AnchorPoint: "ogonek" 422 15 basechar 0
+AnchorPoint: "cedilla" 400 15 basechar 0
 AnchorPoint: "top_accent" 374 630 basechar 0
 LayerCount: 2
 Fore

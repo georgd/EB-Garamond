@@ -12,7 +12,7 @@ languagesystem latn CAT ;
 languagesystem latn LAT ;
 
 #include (Regular/classes.fea)
-#include (Regular/kern.fea)
+include (08-Regular/kern.fea)
 include (08-Regular/mark.fea)
 include (08-Regular/mkmk.fea)
 
