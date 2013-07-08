@@ -1,6 +1,6 @@
 ## Latin ##
 @first_A   = [ A uni0245 ];
-@first_A_topacc = [ Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek ];
+@first_A_topacc = [ Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve ];
 @first_A_botacc = [ Aogonek ];
 @first_asc = [ A.sc a.sc ];
 @first_csc = [C.sc c.sc ];
