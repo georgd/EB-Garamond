@@ -108,13 +108,13 @@
 gravecomb.stack acutecomb.stack uni0302.stack tildecomb.stack uni0304.stack  uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack 
 gravecomb.grk acutecomb.grk uni0313.grk uni0314.grk 
 gravecomb.grkstack acutecomb.grkstack uni0308.grkstack uni0313.grkstack uni0314.grkstack
-uni030C.alt uni0342.alt ];
+uni0342.alt ];
 
 @SC_DIAC = [ gravecomb.sc acutecomb.sc uni0302.sc tildecomb.sc uni0304.sc uni0306.sc uni0307.sc uni0308.sc hookabovecomb.sc uni030A.sc uni030B.sc uni030C.sc  uni0311.sc uni0312.sc uni0313.sc uni0314.sc uni0315.sc uni0342.sc uni0345.sc 
 gravecomb.stacksc acutecomb.stacksc uni0302.stacksc tildecomb.stacksc uni0304.stacksc  uni0306.stacksc uni0307.stacksc hookabovecomb.stacksc uni030A.stacksc uni030C.stacksc 
 gravecomb.grksc acutecomb.grksc uni0313.grksc uni0314.grksc 
 gravecomb.grkstacksc acutecomb.grkstacksc uni0308.grkstacksc uni0313.grkstacksc uni0314.grkstacksc 
-uni030C.sc uni0342.altsc
+uni0342.altsc
 ];
 	
 @capdiacritics0 = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0311 uni0316 uni0317 dotbelowcomb uni0324 uni0325 uni0327 uni0328 uni032C uni032D uni032E uni032F uni0330 uni0331 uni0306.cyr uni0345 ];

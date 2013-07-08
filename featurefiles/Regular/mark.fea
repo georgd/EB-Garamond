@@ -1,31 +1,28 @@
 
 lookup mark {
   lookupflag 0;
-  markClass [\uni030C.alt1 \uni030C.alt \uni030C.altcap1 \uni030C.altcap ] <anchor 22 643> @top_left;
+  markClass [\uni030C.alt1 ] <anchor 22 650> @top_left;
+  markClass [\uni030C.alt \uni030C.altcap1 \uni030C.altcap ] <anchor 22 643> @top_left;
   pos base [\n ] <anchor 38 609> mark @top_left;
   subtable;
-  markClass [\uni0306.cap \uni0308.cap ] <anchor 152 720> @grk_uc_top;
-  markClass [\uni0304.cap ] <anchor 165 720> @grk_uc_top;
   markClass [\uni0313 \uni0313.sc ] <anchor 82 665> @grk_uc_top_left;
   markClass [\uni0314 \uni0314.sc ] <anchor 84 665> @grk_uc_top_left;
   markClass [\uni0342 \uni0342.sc ] <anchor 213 517> @grk_uc_top_left;
   markClass [\tonos \gravecomb.grk \acutecomb.grk \gravecomb.grksc \acutecomb.grksc ] <anchor 77 630> @grk_uc_top_left;
   markClass [\uni0313.grk \uni0314.grk \uni0313.grksc \uni0314.grksc ] <anchor 202 630> @grk_uc_top_left;
   markClass [\uni0313.grkstack \uni0314.grkstack \uni0313.grkstacksc \uni0314.grkstacksc ] <anchor 135 665> @grk_uc_top_left;
-  pos base [\Alpha ] <anchor 186 665> mark @grk_uc_top_left
-	<anchor 373 720> mark @grk_uc_top;
-  pos base [\Epsilon \Rho ] <anchor 297 720> mark @grk_uc_top
-	<anchor -36 665> mark @grk_uc_top_left;
-  pos base [\Eta ] <anchor 406 720> mark @grk_uc_top
-	<anchor -36 665> mark @grk_uc_top_left;
-  pos base [\Iota ] <anchor 170 720> mark @grk_uc_top
-	<anchor -36 665> mark @grk_uc_top_left;
-  pos base [\Omicron ] <anchor 393 720> mark @grk_uc_top
-	<anchor 25 665> mark @grk_uc_top_left;
-  pos base [\Upsilon \Upsilon1 ] <anchor 375 720> mark @grk_uc_top
-	<anchor -41 665> mark @grk_uc_top_left;
-  pos base [\uni03A9 ] <anchor 422 720> mark @grk_uc_top
-	<anchor 60 665> mark @grk_uc_top_left;
+  markClass [\uni0306.cap \uni0308.cap ] <anchor 152 720> @grk_uc_top;
+  markClass [\uni0304.cap ] <anchor 165 720> @grk_uc_top;
+  pos base [\Alpha ] <anchor 373 720> mark @grk_uc_top
+	<anchor 186 665> mark @grk_uc_top_left;
+  pos base [\Epsilon \Eta \Iota \Rho ] <anchor -36 665> mark @grk_uc_top_left
+	<anchor 297 720> mark @grk_uc_top;
+  pos base [\Omicron ] <anchor 25 665> mark @grk_uc_top_left
+	<anchor 393 720> mark @grk_uc_top;
+  pos base [\Upsilon \Upsilon1 ] <anchor -41 665> mark @grk_uc_top_left
+	<anchor 375 720> mark @grk_uc_top;
+  pos base [\uni03A9 ] <anchor 60 665> mark @grk_uc_top_left
+	<anchor 422 720> mark @grk_uc_top;
   subtable;
   markClass [\uni0345.cap1 ] <anchor 25 290> @grk_uc_right;
   markClass [\uni0345.cap2 ] <anchor 15 290> @grk_uc_right;
@@ -467,33 +464,22 @@ lookup mark {
   pos base [\t.f_ ] <anchor 136 8> mark @cedilla;
   subtable;
   markClass [\uni030C.alt \uni030C.altcap ] <anchor 35 660> @top_right;
-  pos base [\t ] <anchor 249 600> mark @top_right;
-  pos base [\l \l.f_ ] <anchor 222 660> mark @top_right;
-  pos base [\d ] <anchor 489 660> mark @top_right;
-  pos base [\L ] <anchor 437 624> mark @top_right;
+  markClass [\uni030C.alt1 ] <anchor 35 650> @top_right1;
+  markClass [\uni030C.altcap1 ] <anchor 35 640> @top_right1;
+  pos base [\t ] <anchor 253 576> mark @top_right1
+	<anchor 249 600> mark @top_right;
+  pos base [\l \l.f_ ] <anchor 212 650> mark @top_right1
+	<anchor 222 660> mark @top_right;
+  pos base [\d ] <anchor 479 650> mark @top_right1
+	<anchor 489 660> mark @top_right;
+  pos base [\L ] <anchor 437 640> mark @top_right1
+	<anchor 437 624> mark @top_right;
+  pos base [\L.sc \l.sc ] <anchor 380 490> mark @top_right
+	<anchor 370 480> mark @top_right1;
   pos base [\t.f_ ] <anchor 180 600> mark @top_right;
-  markClass [\uni030C.alt1 \uni030C.altcap1 ] <anchor 35 650> @top_right1;
-  pos base [\t ] <anchor 240 590> mark @top_right1;
-  pos base [\l l.f_ ] <anchor 212 650> mark @top_right1;
-  pos base [\d ] <anchor 479 650> mark @top_right1;
-  pos base [\L ] <anchor 425 640> mark @top_right1;
-  subtable;
 } mark;
 
 feature mark {
-  script DFLT;
-     language dflt ;
-      lookup mark;
-  script cyrl;
-     language dflt ;
-      lookup mark;
-     language SRB  exclude_dflt;
-      lookup mark;
-     language MKD  exclude_dflt;
-      lookup mark;
-  script grek;
-     language dflt ;
-      lookup mark;
   script latn;
      language dflt ;
       lookup mark;
@@ -508,6 +494,19 @@ feature mark {
      language CAT  exclude_dflt;
       lookup mark;
      language LAT  exclude_dflt;
+      lookup mark;
+  script grek;
+     language dflt ;
+      lookup mark;
+  script cyrl;
+     language dflt ;
+      lookup mark;
+     language SRB  exclude_dflt;
+      lookup mark;
+     language MKD  exclude_dflt;
+      lookup mark;
+  script DFLT;
+     language dflt ;
       lookup mark;
 
 } mark;
