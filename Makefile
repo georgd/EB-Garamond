@@ -1,5 +1,5 @@
 NAME=EBGaramond
-VERSION=0.015d
+VERSION=0.015d+
 
 SRC=SFD
 BLD=build
