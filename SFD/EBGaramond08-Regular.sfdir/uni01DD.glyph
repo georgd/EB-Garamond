@@ -1,0 +1,32 @@
+StartChar: uni01DD
+Encoding: 477 477 1419
+Width: 389
+VWidth: 982
+Flags: HMW
+AnchorPoint: "below_accent" 192 -80 basechar 0
+AnchorPoint: "ogonek" 253 5 basechar 0
+AnchorPoint: "cedilla" 236 5 basechar 0
+AnchorPoint: "top_accent" 223 596 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+22 96 m 4
+ 22 123 43 164 69 164 c 6
+ 263 164 l 6
+ 277 164 279 166 282 174 c 4
+ 286 185 286 187 286 204 c 4
+ 286 280 239 362 160 362 c 4
+ 110 362 66 339 56 339 c 4
+ 46 339 41 343 41 353 c 4
+ 41 382 99 430 197 430 c 4
+ 308 430 370 322 370 209 c 4
+ 370 86 276 -8 154 -8 c 4
+ 86 -8 22 45 22 96 c 4
+265 107 m 12
+ 265 114 264 118 252 118 c 6
+ 137 118 l 6
+ 118 118 109 101 109 87 c 4
+ 109 58 139 38 168 38 c 4
+ 228 38 265 87 265 107 c 12
+EndSplineSet
+EndChar
