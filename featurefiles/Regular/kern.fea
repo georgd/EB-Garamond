@@ -29,6 +29,7 @@
 @first_s   = [ s ];
 @first_v   = [ v w y uni01B4 uni0240 uni024F uni0263 ];
 @first_o   = [ ae b b.f_ c e o oe p thorn thorn.f_ uni0252 uni0253 uni0254 uni0255 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0275 uni0277 ];
+@first_esh = [ uni0283 ];
 
 @first_period     = [ period comma quotesinglbase quotedblbase ];
 @first_quoteright = [ quoteright quotedblright ];
@@ -51,19 +52,20 @@
 @second_Y   = @first_Y;
 @second_vsc = @first_vsc;
 @second_ysc = @first_ysc;
+@second_a_topacc = [ agrave aacute adieresis atilde ];
+@second_c   = [ a aogonek c ccedilla d e eogonek g s scedilla eth uni01C6 uni01F3 uni0238 uni0247 uni0254 uni0255 uni0256 uni0257 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0260 ];
 @second_b   = [ b h k l thorn ];
-@second_o   = [ a ae aogonek c ccedilla d e eogonek g o uni01EB oe q s scedilla eth uni01C6 uni01F3 uni0238 uni0239 uni0247 uni024B uni0251 uni0254 uni0255 uni0256 uni0257 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0260 uni0261 uni0275 ];
+@second_o   = [ ae o uni01EB oe q uni024B uni0251 uni0261 uni0275 ];
 @second_m   = [ m n p r u uogonek z uni01BF uni01B6 uni01BA uni021D uni024D uni0250 uni0252 uni026F uni0270 uni0271 uni0272 uni0273 uni0274 ];
 @second_dotlessi = [ dotlessi i.dotless j.dotless uni025F uni0269 uni026A ];
 @second_t   = [ t ];
 @second_v   = [ v w x y uni01B4 uni024F uni0263 ];
-@second_i   = [ i j agrave aacute adieresis atilde ];
+@second_i   = [ i j i.TRK iogonek ij ];
 
-@second_HighAscAfter_longf = [b h-l
-	agrave acircumflex adieresis aring egrave edieresis igrave iacute icircumflex idieresis eth ograve ugrave thorn germandbls abreve ccaron ebreve ecaron gbreve uni0123 hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex uni0137 lacute uni013C lcaron ldot lslash ncaron obreve rcaron scircumflex scaron ubreve ydieresis zcaron longs
+@second_HighAscAfter_longf = [
+	agrave acircumflex adieresis aring egrave edieresis igrave iacute icircumflex idieresis eth ograve ugrave germandbls abreve ccaron ebreve ecaron gbreve uni0123 hcircumflex hbar itilde imacron ibreve jcircumflex uni0137 lacute uni013C lcaron ldot lslash ncaron obreve rcaron scircumflex scaron ubreve ydieresis zcaron longs
 	uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F
 	uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED uni1EF3 uni1EF7 uni1EFB
- 	i.TRK
 ];
 
 @second_period = [ period comma quotesinglbase quotedblbase ];
@@ -112,6 +114,7 @@ lookup kern {
 
     pos @first_csc @second_csc -15;
 
+    pos @first_E @second_c -25;
     pos @first_E @second_o -25;
     pos @first_E [ @second_m @second_dotlessi ] -10;
     pos @first_E @second_t -20;
@@ -119,6 +122,7 @@ lookup kern {
 
     pos @first_F @all_A -75;
     pos @first_F @second_asc -85;
+    pos @first_F @second_c -30;
     pos @first_F @second_o -30;
     pos @first_F [ @second_m @second_dotlessi ] -40;
     pos @first_F @second_t -20;
@@ -134,6 +138,7 @@ lookup kern {
     pos @first_lsc @second_ysc -40;
     pos @first_lsc @second_quoteright -60;
 
+    pos @first_M @second_c -20;
     pos @first_M @second_o -20;
     pos @first_M [ @second_m @second_dotlessi ] -10;
     pos @first_M @second_t -40;
@@ -143,6 +148,7 @@ lookup kern {
     pos @first_O @second_T -30;
     pos @first_O @second_V -50;
     pos @first_O @second_Y -25;
+    pos @first_O @second_c -10;
     pos @first_O @second_o -10;
 
     pos @first_osc @second_asc -25;
@@ -152,6 +158,7 @@ lookup kern {
     pos @first_P @all_A -100;
     pos @first_P @second_asc -120;
     pos @first_P @second_csc -40;
+    pos @first_P @second_c -50;
     pos @first_P @second_o -50;
     pos @first_P @second_period -75;
 #    pos @first_P @second_colon -25;
@@ -167,6 +174,7 @@ lookup kern {
     pos @first_T @second_asc -60;
     pos @first_T [ @second_bsc @second_isc ] -90;
     pos @first_T @second_csc -135;
+    pos @first_T @second_c -105;
     pos @first_T @second_o -105;
     pos @first_T [ @second_m @second_dotlessi ] -90;
     pos @first_T @second_t -100;
@@ -188,6 +196,7 @@ lookup kern {
     pos @first_V @second_tsc -80;
     pos @first_V @second_vsc -80;
     pos @first_V [ @second_m @second_dotlessi ] -90;
+    pos @first_V @second_c -100;
     pos @first_V @second_o -100;
     pos @first_V @second_t -80;
     pos @first_V @second_v -100;
@@ -202,6 +211,7 @@ lookup kern {
     pos @first_Y @second_tsc -65;
     pos @first_Y @second_vsc -65;
     pos @first_Y [ @second_m @second_dotlessi ] -60;
+    pos @first_Y @second_c -100;
     pos @first_Y @second_o -100;
     pos @first_Y @second_t -80;
     pos @first_Y @second_v -80;
@@ -216,7 +226,11 @@ lookup kern {
     
     pos @first_a @second_halfring -45;
     
+    pos @first_f @second_c -25;
     pos @first_f @second_o -25;
+    pos @first_f @second_a_topacc 70;
+    pos @first_f @second_b  70;
+    pos @first_f @second_i  70;
     pos @first_f @second_HighAscAfter_longf 70;
     pos @first_f @second_halfring 120;
     
@@ -227,13 +241,18 @@ lookup kern {
     pos @first_s @second_quoteright -15;
     
     pos @first_v @all_A -50;
+    pos @first_v @second_c -10;
     pos @first_v @second_o -10;
     pos @first_v @second_period -70;
 
     pos @first_o @second_T -140;
     pos @first_o @second_V -100;
     pos @first_o @second_Y -100;
-    
+
+    pos @first_esh @second_b  80;
+    pos @first_esh @second_i  55;
+    pos @first_esh @second_HighAscAfter_longf 80;
+
     pos @first_period @second_T -75;
     pos @first_period @second_tsc -120;
     pos @first_period @second_V -100;
@@ -242,6 +261,7 @@ lookup kern {
     pos @first_quoteright @second_A -130;
     pos @first_quoteright @second_asc -120;
     pos @first_quoteright @second_csc -70;
+    pos @first_quoteright @second_c -90;
     pos @first_quoteright @second_o -90;
     pos @first_quoteright [ @second_m @second_dotlessi ] -30;
         
@@ -250,6 +270,7 @@ lookup kern {
     pos [ f._i longs._i ] j.dotless 19;
     pos g j 25;
     pos @first_halfring @second_A -70;
+    pos @first_halfring @second_c -55;
     pos @first_halfring @second_o -55;
 
 #    pos s o 20;
@@ -356,11 +377,13 @@ lookup ckern3 {
     pos @first_P'  75 @second_asc @second_comb_top5;
     pos @first_P'  75 @second_asc @second_comb_top6;
 
+    pos @first_T' 135 @second_c @second_comb_tBroad;
     pos @first_T' 135 @second_o @second_comb_tBroad;
     pos @first_T' 120 @second_m @second_comb_tBroad;
     pos @first_T' 100 @second_t @second_comb_tBroad;
     pos @first_T' 100 @second_v @second_comb_tBroad;
 
+    pos @first_T' 115 @second_c @second_comb_tSlndr;
     pos @first_T' 115 @second_o @second_comb_tSlndr;
     pos @first_T' 100 @second_m @second_comb_tSlndr;
     pos @first_T'  80 @second_t @second_comb_tSlndr;
@@ -437,13 +460,21 @@ lookup ckern3 {
     
     pos @first_usc' -10 @top_diac @second_asc;
 
-    pos @first_f' 95 @second_o @second_comb_tBroad;
-    pos @first_f' 95 @second_o @second_comb_tBroad;
+    pos @first_f' 25 @second_o @second_comb_tBroad;
+    pos @first_f' 95 @second_c @second_comb_tBroad;
     pos @first_f' 95 @second_dotlessi @second_comb_tBroad;
 
-    pos @first_f' 75 @second_o @second_comb_tSlndr;
-    pos @first_f' 75 @second_o @second_comb_tSlndr;
-    pos @first_f' 75 @second_dotlessi @second_comb_tSlndr;
+#    pos @first_f' 75 @second_o @second_comb_tSlndr;
+    pos @first_f' 75 @second_c @second_comb_tSlndr;
+    pos @first_f' 80 @second_dotlessi @second_comb_tSlndr;
+
+    pos @first_esh' 100 @second_o @second_comb_tBroad;
+    pos @first_esh' 115 @second_c @second_comb_tBroad;
+    pos @first_esh' 150 @second_dotlessi @second_comb_tBroad;
+
+    pos @first_esh' 25 @second_o @second_comb_tSlndr;
+    pos @first_esh' 45 @second_c @second_comb_tSlndr;
+    pos @first_esh' 75 @second_dotlessi @second_comb_tSlndr;
 
     pos f.short' 20 @second_dotlessi @second_comb_tBroad; 
 } ckern3;

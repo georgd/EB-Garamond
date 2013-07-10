@@ -87,7 +87,9 @@
 
 @HIGH_PUNCT = [ exclam quotedbl dollar percent quotesingle parenleft parenright asterisk question bracketleft backslash bracketright braceleft bar braceright registered quoteleft quoteright quotedblleft quotedblright minute second uni2034 exclamdbl uni203D uni2047 uni2048 uni2049 ];
 
-@NO_ASC = [ a c e g m-s u-z ae ccedilla aogonek eogonek dotlessi kgreenlandic eng oe uni0157 scedilla uogonek uni01DD uni01E5 uni01EB uni0219 uni0229 uni0237 u.LAT u.LATmedi v.LAT v.LATmedi germandbls.alt ];
+@NO_ASC1 = [ a c e g n r s v x z ccedilla aogonek eogonek dotlessi eng uni0157 scedilla uni01DD uni01E5 uni0219 uni0229 uni0237 v.LAT  ];
+
+@NO_ASC2 = [ m o p q u w ae oe uogonek uni01EB u.LAT u.LATmedi v.LAT germandbls.alt ];
 
 @SMALLCAPS_BASIS = [ a-z 
 	 agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis multiply oslash ugrave uacute ucircumflex udieresis yacute thorn germandbls divide amacron abreve aogonek cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent eogonek ecaron gcircumflex gbreve gdotaccent uni0123 hcircumflex hbar itilde imacron ibreve iogonek i.TRK dotlessi ij jcircumflex uni0137 kgreenlandic lacute uni013C lcaron ldot lslash nacute uni0146 ncaron eng omacron obreve ohungarumlaut oe racute uni0157 rcaron sacute scircumflex scedilla scaron uni0163 tcaron tbar utilde umacron ubreve uring uhungarumlaut uogonek wcircumflex ycircumflex ydieresis zacute zdotaccent zcaron longs 

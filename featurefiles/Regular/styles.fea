@@ -43,7 +43,7 @@ feature cv03 {
 } cv03;
 
 lookup historic_apostrophe {
-    sub quoteright' @NO_ASC by quoteright.01;
+    sub quoteright' [ @NO_ASC1 @NO_ASC2 ] by quoteright.01;
 } historic_apostrophe;
 
 feature ss05 {
