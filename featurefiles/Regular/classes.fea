@@ -2,7 +2,8 @@
 
 @LETTERS = [ A-Z
 	Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn 
-	Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent uni0122 Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex uni0136 Lacute uni013B Lcaron Ldot Lslash Nacute uni0145 Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron Q.long U.LAT ];
+	Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent uni0122 Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex uni0136 Lacute uni013B Lcaron Ldot Lslash Nacute uni0145 Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron Q.long U.LAT
+	Adieresis.deu Odieresis.deu Udieresis.deu ];
 
 @ligatures = [ f_f f_i f_l f_f_i f_f_l longs_t s_t longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s c_t f_f.long t_t f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.long ];
 
@@ -104,7 +105,8 @@
 @C2SC_BASIS = [ @LETTERS ];
 @C2SC = [ A.sc-Z.sc
 	Agrave.sc Aacute.sc Acircumflex.sc Atilde.sc Adieresis.sc Aring.sc AE.sc Ccedilla.sc Egrave.sc Eacute.sc Ecircumflex.sc Edieresis.sc Igrave.sc Iacute.sc Icircumflex.sc Idieresis.sc Eth.sc Ntilde.sc Ograve.sc Oacute.sc Ocircumflex.sc Otilde.sc Odieresis.sc Oslash.sc Ugrave.sc Uacute.sc Ucircumflex.sc Udieresis.sc Yacute.sc Thorn.sc 
-	Amacron.sc Abreve.sc Aogonek.sc Cacute.sc Ccircumflex.sc Cdotaccent.sc Ccaron.sc Dcaron.sc Dcroat.sc Emacron.sc Ebreve.sc Edotaccent.sc Eogonek.sc Ecaron.sc Gcircumflex.sc Gbreve.sc Gdotaccent.sc uni0122.sc Hcircumflex.sc Hbar.sc Itilde.sc Imacron.sc Ibreve.sc Iogonek.sc Idotaccent.sc IJ.sc Jcircumflex.sc uni0136.sc Lacute.sc uni013B.sc Lcaron.sc Ldot.sc Lslash.sc Nacute.sc uni0145.sc Ncaron.sc Eng.sc Omacron.sc Obreve.sc Ohungarumlaut.sc OE.sc Racute.sc uni0156.sc Rcaron.sc Sacute.sc Scircumflex.sc Scedilla.sc Scaron.sc uni0162.sc Tcaron.sc Tbar.sc Utilde.sc Umacron.sc Ubreve.sc Uring.sc Uhungarumlaut.sc Uogonek.sc Wcircumflex.sc Ycircumflex.sc Ydieresis.sc Zacute.sc Zdotaccent.sc Zcaron.sc Q.sc V.sc ];
+	Amacron.sc Abreve.sc Aogonek.sc Cacute.sc Ccircumflex.sc Cdotaccent.sc Ccaron.sc Dcaron.sc Dcroat.sc Emacron.sc Ebreve.sc Edotaccent.sc Eogonek.sc Ecaron.sc Gcircumflex.sc Gbreve.sc Gdotaccent.sc uni0122.sc Hcircumflex.sc Hbar.sc Itilde.sc Imacron.sc Ibreve.sc Iogonek.sc Idotaccent.sc IJ.sc Jcircumflex.sc uni0136.sc Lacute.sc uni013B.sc Lcaron.sc Ldot.sc Lslash.sc Nacute.sc uni0145.sc Ncaron.sc Eng.sc Omacron.sc Obreve.sc Ohungarumlaut.sc OE.sc Racute.sc uni0156.sc Rcaron.sc Sacute.sc Scircumflex.sc Scedilla.sc Scaron.sc uni0162.sc Tcaron.sc Tbar.sc Utilde.sc Umacron.sc Ubreve.sc Uring.sc Uhungarumlaut.sc Uogonek.sc Wcircumflex.sc Ycircumflex.sc Ydieresis.sc Zacute.sc Zdotaccent.sc Zcaron.sc Q.sc V.sc
+	Adieresis.sc Odieresis.sc Udieresis.sc ];
 	
 @SC_DIAC_BASIS = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C  uni0311 uni0312 uni0313 uni0314 uni0315 uni0342 uni0345
 gravecomb.stack acutecomb.stack uni0302.stack tildecomb.stack uni0304.stack  uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack 
