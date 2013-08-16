@@ -1,5 +1,5 @@
 StartChar: f.DEU
-Encoding: 65623 -1 1198
+Encoding: 1114199 -1 1198
 Width: 318
 VWidth: 0
 Flags: HMW
@@ -9,14 +9,14 @@ LayerCount: 3
 Fore
 Refer: 18 102 N 1 0 0 1 0 0 2
 Validated: 1
-Substitution2: "Single Substitution lookup 101 subtable" f.short
+Substitution2: "Single Substitution lookup 103 subtable" f.short
+Substitution2: "Single Substitution lookup 99 subtable" f.short
+Substitution2: "Single Substitution lookup 98 subtable" f.short
 Substitution2: "Single Substitution lookup 97 subtable" f.short
-Substitution2: "Single Substitution lookup 96 subtable" f.short
-Substitution2: "Single Substitution lookup 95 subtable" f.short
-Substitution2: "Single Substitution lookup 81 subtable" f._asc
-Substitution2: "Single Substitution lookup 80 subtable" f._i
-Substitution2: "Single Substitution lookup 78 subtable" f._f
-Substitution2: "Single Substitution lookup 73 subtable" f._asc
+Substitution2: "Single Substitution lookup 82 subtable" f._asc
+Substitution2: "Single Substitution lookup 81 subtable" f._i
+Substitution2: "Single Substitution lookup 79 subtable" f._f
+Substitution2: "Single Substitution lookup 74 subtable" f._asc
 Substitution2: "Single Substitution lookup 72 subtable" f._i
 Substitution2: "Single Substitution lookup 70 subtable" f._f
 Substitution2: "Smallcaps1 subtable" f.sc

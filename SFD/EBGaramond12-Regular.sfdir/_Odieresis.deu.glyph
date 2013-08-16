@@ -1,5 +1,5 @@
 StartChar: Odieresis.deu
-Encoding: 65537 -1 978
+Encoding: 1114113 -1 978
 Width: 763
 VWidth: 0
 Flags: HMW
@@ -28,6 +28,7 @@ SplineSet
  621 495 535 625 375 625 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "c2sc subtable" Odieresis.sc
 Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
 Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
 EndChar

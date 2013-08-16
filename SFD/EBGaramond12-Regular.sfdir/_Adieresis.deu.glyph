@@ -1,5 +1,5 @@
 StartChar: Adieresis.deu
-Encoding: 65536 -1 977
+Encoding: 1114112 -1 977
 Width: 684
 VWidth: 0
 Flags: HMW
@@ -56,6 +56,7 @@ SplineSet
  697 -3 685 -5 668 -5 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "c2sc subtable" Adieresis.sc
 Position2: "rtbd subtable" dx=0 dy=0 dh=-34 dv=0
 Position2: "lfbd subtable" dx=-34 dy=0 dh=-34 dv=0
 EndChar
