@@ -14,6 +14,7 @@ lookup kern {
     @first_V = [\V \W \Y ];
     @first_vsc = [\V.sc \W.sc \v.sc \w.sc ];
     @first_V01 = [\V.01 W.01 ];
+    @first_g = [\g \g_g ];
     @first_h = [\h \m \n ];
     @first_r = [r];
     @first_v = [\v \w \y ];
@@ -25,6 +26,7 @@ lookup kern {
     @second_vsc = [\V.sc \W.sc \v.sc \w.sc ];
     @second_a = [\a \ae \aogonek ];
     @second_c = [\c \ccedilla \d \e \e_s \eogonek \eth \g \o \oe \uni01EB \q \s \scedilla ];
+    @second_f = [\f \f_f \f_i \f_f_i \f_l \f.short \f.DEU \uniFB01 \uniFB02 \uniFB03 \uniFB04 ];
     @second_m = [\dotlessi \m \n \p \r \u \uogonek \z ];
     @second_t = [\t ];
     @second_v = [\v \w \x \y ];
@@ -90,6 +92,8 @@ lookup kern {
     pos @first_V01 @second_m -180;
 
     pos @first_vsc @second_asc -75;
+
+    pos @first_g @second_f  70;
 
     pos @first_h @second_v -16;
 
