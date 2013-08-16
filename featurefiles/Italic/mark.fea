@@ -141,7 +141,7 @@ lookup mark {
   pos base [\uni0394 ] <anchor 685 700> mark @top_accent;
   pos base [\uni0413 ] <anchor 483 701> mark @top_accent;
   pos base [\t_t ] <anchor 133 550> mark @top_accent;
-  pos base [\f.short ] <anchor 372 768> mark @top_accent;
+  pos base [\f.short ] <anchor 391 768> mark @top_accent;
   pos base [\f_t ] <anchor 398 768> mark @top_accent;
   pos base [\longs.short ] <anchor 399 768> mark @top_accent;
   pos base [\uni0418 ] <anchor 566 700> mark @top_accent;
@@ -242,7 +242,7 @@ lookup mark {
   pos base [\c \uni0441 ] <anchor 102 -100> mark @below_accent;
   pos base [\u \uhorn \uni0438 \uni0447 ] <anchor 181 -100> mark @below_accent;
   pos base [\s ] <anchor 47 -100> mark @below_accent;
-  pos base [\f ] <anchor 153 -100> mark @below_accent;
+  pos base [\f f.short ] <anchor 153 -100> mark @below_accent;
   pos base [\longs \k ] <anchor 164 -100> mark @below_accent;
   pos base [\v ] <anchor 253 -100> mark @below_accent;
   pos base [\w ] <anchor 384 -100> mark @below_accent;
@@ -281,7 +281,7 @@ lookup mark {
   pos base [\uni043A \uni0454 ] <anchor 125 -100> mark @below_accent;
   pos base [\uni0413 ] <anchor 149 -101> mark @below_accent;
   pos base [\t_t ] <anchor 186 -100> mark @below_accent;
-  pos base [\f.short \f_t \longs.short ] <anchor 134 -100> mark @below_accent;
+  pos base [\f_t \longs.short ] <anchor 134 -100> mark @below_accent;
   pos base [\uni0404 ] <anchor 420 -100> mark @below_accent;
   pos base [\uni0427 ] <anchor 375 -100> mark @below_accent;
   pos base [\uni0423 ] <anchor 245 -100> mark @below_accent;
