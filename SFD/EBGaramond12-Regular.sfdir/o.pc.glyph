@@ -1,0 +1,24 @@
+StartChar: o.pc
+Encoding: 1115214 -1 3034
+Width: 616
+VWidth: 0
+Flags: HW
+AnchorPoint: "cedilla" 350 8 basechar 0
+AnchorPoint: "ogonek" 403 18 basechar 0
+AnchorPoint: "below_accent" 312 -100 basechar 0
+AnchorPoint: "top_accent" 308 615 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+296 426 m 0
+ 202 426 150 332 150 237 c 0
+ 150 120 206 22 318 22 c 0
+ 433 22 466 138 466 217 c 0
+ 466 318 400 426 296 426 c 0
+60 222 m 0
+ 60 342 175 458 302 458 c 0
+ 433 458 556 360 556 226 c 0
+ 556 103 466 -14 302 -14 c 0
+ 169 -14 60 93 60 222 c 0
+EndSplineSet
+EndChar
