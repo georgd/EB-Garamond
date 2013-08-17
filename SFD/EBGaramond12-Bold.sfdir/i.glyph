@@ -1,9 +1,7 @@
 StartChar: i
 Encoding: 105 105 5
-Width: 240
-VWidth: 0
+Width: 262
 Flags: HW
-AnchorPoint: "below_accent" 119 -100 basechar 0
 LayerCount: 3
 Back
 Image: 476 256 2 1428 0 ffffffff -1499.5 797.5 4.91849 4.90625 0
@@ -6103,13 +6101,29 @@ Lkpk2GB]13Odqr3^V@P2dF$Orf$;Rd_83t)_SXRBc,n)Lb0%lLb0%E2]tV4pa2c6;_SX""]tD"j
 EndImage
 Fore
 SplineSet
-47 562 m 0
- 47 594 81 616 123 616 c 0
- 166 616 201 594 201 562 c 0
- 201 531 166 510 123 510 c 0
- 81 510 47 531 47 562 c 0
+68 559 m 0
+ 68 595 98 625 134 625 c 0
+ 170 625 198 595 198 559 c 0
+ 198 523 170 493 134 493 c 0
+ 98 493 68 523 68 559 c 0
+193 420 m 0xc8
+ 198 420 202 418 202 415 c 0
+ 196 376 188 329 188 286 c 2
+ 188 65 l 2
+ 188 39 207 35 224 29 c 0
+ 233 24 243 20 243 8 c 0
+ 243 -1 231 -3 221 -3 c 0
+ 180 -3 172 3 134 3 c 0
+ 96 3 88 -3 46 -3 c 0
+ 37 -3 24 -1 24 8 c 0
+ 24 20 35 24 45 29 c 0
+ 63 35 83 40 83 65 c 2
+ 83 268 l 2
+ 83 302 71 329 38 336 c 0
+ 33 337 30 345 30 352 c 0
+ 30 358 34 366 39 367 c 0
+ 125 382 183 420 193 420 c 0xc8
 EndSplineSet
-Refer: 76 305 N 1 0 0 1 0 0 3
 Substitution2: "Smallcaps subtable" i.sc
 Substitution2: "sups subtable" i.sups
 Substitution2: "sinf subtable" i.sinf

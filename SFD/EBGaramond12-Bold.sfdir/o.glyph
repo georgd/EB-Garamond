@@ -1,11 +1,7 @@
 StartChar: o
 Encoding: 111 111 3
-Width: 499
-VWidth: 0
+Width: 512
 Flags: HW
-AnchorPoint: "ogonek" 312 20 basechar 0
-AnchorPoint: "below_accent" 248 -98 basechar 0
-AnchorPoint: "top_accent" 248 548 basechar 0
 LayerCount: 3
 Back
 Image: 95 184 2 285 0 ffffffff 0 696 5.33448 5.33696 0
@@ -887,18 +883,18 @@ aiVZFa2c<DaihlNaiVZB_o'@._RmFl\[f8g_o'aDc-XhacHa_WaiVuZd`0;H^:q>$`l?3FbK%ZD
 EndImage
 Fore
 SplineSet
-242 378 m 0
- 217 378 198 369 181 339 c 0
- 162 306 159 257 159 210 c 0
- 159 115 199 21 255 21 c 0
- 286 21 312 37 326 75 c 0
- 337 105 340 151 340 189 c 0
- 340 280 301 378 242 378 c 0
-256 414 m 0
- 373 414 465 323 465 213 c 0
- 465 95 387 -14 236 -14 c 0
- 123 -14 34 68 34 187 c 0
- 34 300 132 414 256 414 c 0
+263 414 m 0
+ 384 414 477 321 477 213 c 0
+ 477 96 398 -14 242 -14 c 0
+ 126 -14 35 70 35 187 c 0
+ 35 298 135 414 263 414 c 0
+248 377 m 0
+ 221 377 200 368 182 338 c 0
+ 162 305 158 256 158 210 c 0
+ 158 114 202 22 262 22 c 0
+ 296 22 324 37 339 75 c 0
+ 351 105 354 151 354 189 c 0
+ 354 281 312 377 248 377 c 0
 EndSplineSet
 Substitution2: "Smallcaps subtable" o.sc
 Substitution2: "sups subtable" o.sups
