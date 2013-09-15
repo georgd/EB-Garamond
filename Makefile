@@ -37,11 +37,14 @@ ttf: $(TTF)
 web: $(WOF) $(EOT)
 pdfs: $(PDF)
 
-$(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT)
+$(BLD):
+	mkdir $@
+
+$(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT) $(BLD)
 	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION) 
 
-$(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT)
+$(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT) $(BLD)
 	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION) 
 	@echo "Autohinting	$@"
@@ -101,4 +104,4 @@ cleanpack:
 	@rm -rf $(PACK) $(PACK).zip  $(WPCK) $(WPCK).zip
 
 clean:
-	@rm -rf $(OTF) $(TTF) $(WTT) $(WOF) $(EOT) $(PDF) $(PACK) $(PACK).zip $(WPCK) $(WPCK).zip $(DIST) $(DIST).zip
+	@rm -rf $(OTF) $(TTF) $(WTT) $(WOF) $(EOT) $(PDF) $(PACK) $(PACK).zip $(WPCK) $(WPCK).zip $(DIST) $(DIST).zip $(BLD)
