@@ -37,28 +37,35 @@ ttf: $(TTF)
 web: $(WOF) $(EOT)
 pdfs: $(PDF)
 
-$(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT)
+$(BLD):
+	@mkdir -p $(BLD)
+$(WEB):
+	@mkdir -p $(WEB)
+$(SPEC):
+	@mkdir -p $(SPEC)
+
+$(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT) $(BLD)
 	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION) 
 
-$(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT)
+$(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT) $(BLD)
 	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION) 
 	@echo "Autohinting	$@"
 	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
 	@mv $@.tmp $@
 
-$(WEB)/%.woff: $(BLD)/%.ttf
+$(WEB)/%.woff: $(BLD)/%.ttf $(WEB)
 	@echo "Generating	$@"
 	@$(SFNTTOOL) -w $< $@
 #	@sfnt2woff $<
 
-$(WEB)/%.eot: $(BLD)/%.ttf
+$(WEB)/%.eot: $(BLD)/%.ttf $(WEB)
 	@echo "Generating	$@"
 	@$(SFNTTOOL) -e -x $< $@
 #	@ttf2eot $< > $@
 
-$(SPEC)/%-Glyphs.pdf: $(BLD)/%.ttf 
+$(SPEC)/%-Glyphs.pdf: $(BLD)/%.ttf $(SPEC)
 	@echo "Generating	$@"
 	@fntsample -f $< -o $@ -l > $@.outline
 	@pdfoutline $@ $@.outline $@
