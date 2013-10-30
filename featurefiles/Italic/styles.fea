@@ -26,6 +26,15 @@ feature ss03 {
     lookup ss03;
 } ss03;
 
+lookup alternate_h {
+    sub [ h k hcircumflex uni01E9 uni021F uni1E23 uni1E27 uni1E31 ] by [ h.01 k.01 hcircumflex.01 uni01E9.01 uni021F.01 uni1E23.01 uni1E27.01 uni1E31.01 ];
+} alternate_h;
+
+feature ss07 {
+#    lookup CCMP_Precomp;
+    lookup alternate_h;
+} ss07;
+
 lookup longs_replacement {
      sub s' [ @letters hyphen uni200D ] by longs;
 } longs_replacement;
