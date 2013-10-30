@@ -1,0 +1,26 @@
+lookup Swash {
+    sub @SWASH_BASIS by @SWASH;
+} Swash;
+
+feature swsh {
+    lookup Swash;
+} swsh;
+
+lookup init {
+    ignore sub [@Letters hyphen @PUNCT]  [v w]'; 
+    sub [v w]' by [v.init w.init];
+} init;
+
+feature init {
+    lookup init;
+} init;
+
+lookup fina {
+    ignore sub e' [@Letters hyphen @PUNCT];
+    sub e' by e.fina;
+} fina;
+
+feature fina {
+    lookup CCMP_Precomp;
+    lookup fina;
+} fina;
