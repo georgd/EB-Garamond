@@ -220,10 +220,10 @@ Johannes Gensfleisch zur Laden zum Gutenberg, 1397
 \clearpage
 \section{Features}
 \subsection{Locals}
-\paragraph*{German} prevents f-ligatures that are usually not allowed like fb, fh, fj, ffb, ffl etc. because they would only occur at \enquote{Wortfugen}: {\addfontfeature{Language=German}Laufband, aufjagen, trefflich,  Sauerstoffflasche,…}
+\paragraph*{German} prevents f-ligatures that are usually not allowed like fb, fh, fj, ffb, etc. because they would only occur at \enquote{Wortfugen}: {\addfontfeature{Language=German}Laufband, aufjagen, Sauerstoffflasche,…}
 \paragraph*{Turkish, Azerbaijani, Crimtatar} correct replacement of i/ı as smallcaps etc.
 \paragraph*{Latin} replaces U by V, initial u by v and non-initial v by u: universalis → {\addfontfeature{Language=Latin} universalis}
-\paragraph*{Catalan} Correct positioning of “·” between two “l”s: {\addfontfeature{Language=Catalan}PARAL·LEL, paral·lel, \textsc{paral·lel}, \textit{PARAL·LEL, paral·lel, \textsc{paral·lel}}\\{\scriptsize PARAL·LEL, paral·lel, \textsc{paral·lel}}}
+\paragraph*{Catalan} Correct positioning of “·” between two “l”s: {\addfontfeature{Language=Catalan}PARAL·LEL, paral·lel, \textsc{paral·lel}, \textit{PARAL·LEL, paral·lel, \textsc{paral·lel}}\\{\scriptsize PARAL·LEL, paral·lel, \textit{paral·lel}, \textsc{paral·lel}}}
 \paragraph*{Serbian/Macedonian} replaces б by \begin{serbian}б\end{serbian} and italic \textit{б, д, г, п, т, ш, ѓ} by \begin{serbian}\itshape б, д, г, п, т, ш, ѓ\end{serbian}
 
 \subsection{Character Composition and Decomposition}
@@ -262,14 +262,14 @@ The features \texttt{smcp} and \texttt{c2sc} replace lower and uppercase glyphs 
 
 \subsection{Ligatures}
 \paragraph*{Standard Ligatures} (feature \texttt{liga}, on by default): f and ſ + letter with ascender and f/ſ+i get replaced by a ligature: fluffy, ſhy, official;\\
-Additionally in italic: g + descending character: \textit{egg, nagy, gjuha} 
+Additionally in italic: Q and g + descending character: \textit{egg, nagy, gjuha, Qyteti} 
 \paragraph*{Historical Ligatures} (feature \texttt{hlig}, off by default): historical ligatures for s+t and c+t and for s+p and s+k (the latter two italic only): {\addfontfeature{RawFeature=+hlig}standard, acta, \textit{speak, skies, standard, select}}
 \paragraph*{Contextual Ligatures} (feature \texttt{clig}, on by default, italic only): ligatures for final s after a, e, i and u: \textit{%\addfontfeature{RawFeature=+clig}
 finalis, ligatures, humus, rosas}
 \paragraph*{Discretionary Ligatures} (feature \texttt{dlig}): T+h ligature: \addfontfeature{RawFeature=+dlig} Théatre, \textit{Theorie}
 
 \subsection{Contextual Alternates}
-The feature \texttt{calt} (should be on by default) controls the behaviour of contextually conditioned lettershapes. This allows to have a long-bowed f and ſ like in the original font wherever the bow doesn’t collide with the next letter or cover an empty space: gefährlich fahren, ſüße Weſen;\\
+The feature \texttt{calt} (should be on by default) controls the behaviour of contextually conditioned lettershapes. This allows to have a long-bowed \enquote{f} and \enquote{ſ} like in the original font wherever the bow doesn’t collide with the next letter or cover an empty space: gefährlich fahren, ſüße Weſen;\\
 The long tailed Q is managed by this feature too: Qui, Quis, Quo, \textsc{Shqipëria}, IRAQ, 
 
 \subsection{Swash}
@@ -280,9 +280,10 @@ There are alternate representations for some glyphs, accessible via Character Va
 
 \subsubsection{Historical Variants}
 
-At Claude Garamont’s times some conventions were still closer to latin orthography than to modern languages one. The following lookups imitate that usage:
+At Claude Garamont’s times some conventions were still closer to latin orthography than to those of modern times. The following lookups imitate that usage:
+
 \paragraph{ss02:} v and u are visual representations of the same letter dependent on initial or non initial placement: {\addfontfeature{RawFeature=+ss02}l’universe, une œuvre}
-\paragraph*{cv01:} {\addfontfeature{RawFeature=+cv01}substitute non-final s with ſ} (cave: this feature is \textsc{not} intelligent enough for german blackletter usage and probably other post-renaissance orthographies; it might be preferable to directly input ſ instead of using this feature!)
+\paragraph*{cv01:} {\addfontfeature{RawFeature=+cv01}substitute non-final s with ſ (cave: this feature is \textsc{not} intelligent enough for german blackletter usage and probably other post-renaissance orthographies; it might be preferable to directly input ſ instead of using this feature!)}
 \paragraph*{cv03:} j as a separate letter didn’t have a fixed place  in renaissance orthographies, so one will find i where one expects a j. This feature replaces j with i: {\addfontfeature{RawFeature=+cv03}le jour}
 \paragraph*{ss05:} The Bible de Genève shows an apostrophe that sits upon the following letter if that has no ascender: {\addfontfeature{RawFeature=+ss05}l’estendue}
 
@@ -303,44 +304,53 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 
 \paragraph*{cv47} Variants for ß: first Variant sets all ß to the ß-shape, second to ss: {weiß {\fontspec[CharacterVariant=21:0]{EBGaramond12-Regular}weiß} {\fontspec[CharacterVariant=21:1]{EBGaramond12-Regular}weiß}}
 
+\paragraph*{cv82} Alternate comma-shaped caron after d, l and t (for czech and slovak): ď, ľ, ť → {\addfontfeature{CharacterVariant=82}ď, ľ, ť}
+
 \subsubsection{Symbol Variants}
 \paragraph*{cv90:} floral hearts variants: \char"2619{}  and \char"2767{}  → {\addfontfeature{RawFeature=+cv90}\char"2619{} and \char"2767}
 
 \paragraph*{cv91:} Alternate Variant for the Pilcrow in form of the old capitulum symbol: {\addfontfeature{RawFeature=+cv91}¶}
 
 \subsubsection{Cyrillic Variants}
-\paragraph*{ss01:} pointed variants of Д, Л, Љ, \textit{Д, Л, Љ}, д, л and љ (in italic uppercase only): {\addfontfeature{RawFeature=+ss01} Д, Л, Љ, \textit{Д, Л, Љ}, д, л, љ 
+\paragraph*{ss01:} triangular variants of Д, Л, Љ, \textit{Д, Л, Љ}, д, л and љ (in italic uppercase only): {\addfontfeature{RawFeature=+ss01} Д, Л, Љ, \textit{Д, Л, Љ}, д, л, љ 
 }
 {
 \subsubsection{Greek Variants}
-\paragraph*{cv80:} \addfontfeature{RawFeature=+ss20}alternate circumflex: ῆ ἧ → {\addfontfeature{RawFeature=+cv80}ῆ ἧ} (only works together with \textsc{ss20} which decomposes precomposed glyphs)
-\paragraph*{cv81:} prosgegrammeni instead of ipogegrammeni: ᾞ → {\addfontfeature{StylisticSet=20,CharacterVariant=81:1} ᾞ} → {\addfontfeature{StylisticSet=20,CharacterVariant=81:2} ᾞ} (this too only works together with \textsc{ss20} which decomposes precomposed glyphs)\\
+\paragraph*{cv80:} \addfontfeature{RawFeature=+ss20}alternate circumflex: ῆ ἧ → {\addfontfeature{RawFeature=+cv80}ῆ ἧ} (\textsc{cave!} this enables complete decomposition like with ss20!)
+\paragraph*{cv81:} prosgegrammeni instead of ipogegrammeni: ᾞ → {\addfontfeature{StylisticSet=20,CharacterVariant=81:1} ᾞ} → {\addfontfeature{StylisticSet=20,CharacterVariant=81:2} ᾞ} (\textsc{cave!} this enables complete decomposition like with ss20!)\\
 Planned: alternate β, ε, θ, κ, π, ρ, σ, φ;\\
 }
 \subsubsection{IPA Variants}
-\paragraph*{ss06:} variants of greek letters that fit better to the other (latin) letters used in IPA: β → {\addfontfeature{RawFeature=+ss06}β}
+\paragraph*{ss06:} variants of greek letters that fit better with the other (latin) letters used in the IPA: β, θ, λ, χ → {\addfontfeature{RawFeature=+ss06}β, θ, λ, χ}
 
 \clearpage
 \section{Glyphs}
 \fontsize{16}{16}
 \begin{center}
 {\addfontfeature{LetterSpace=10.0}
-¿ABCDEFGHIJKLMNOPQQRSẞTUVWXYZÞÐ?\\
-¡abcdefghijklmnopqrſsſßtuvwxyzþðđf!\\
-\$0123456789€ \XeTeXglyph 99 {\addfontfeature{Numbers=Lining}9876543210}¢\\
-»«;:,.-–—›‹„“”‚‘’[…]\{\}()·×÷\\
-"'\#\%\& *+/<=>@\textbackslash \textasciicircum \textasciitilde §©ªº°µΩ\\
-\textsc{abcdefghijklmnopqrstuvwxyzß}\\ 
-fffiffiflfbfhfjfkft%\\
-ffbffhffjffkfflfft\\
-ſſſiſſiſlſbſhſjſkſt%\\
-ſſbſſhſſjſſkſſlſſt\\
-\char"261E \addfontfeature{RawFeature=+dlig}ÆæstctœŒ\char"261C\\
-{\addfontfeature{LetterSpace=0}
-Text{\addfontfeature{RawFeature=+sups}abcdefghijklmnopqrstuvwxyz0123456789}x %\\
-Text{\addfontfeature{RawFeature=+ordn}abcdefghijklmnopqrstuvwxyz0123456789}x\\
-Text{\addfontfeature{RawFeature=+subs}abcdefghijklmnopqrstuvwxyz0123456789}x %\\
-Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
+ ¿ABCDEFGHIJKLMNOPQQRSẞTUVWXYZÞÐ?\\
+ ¡abcdefghijklmnopqrſsſßtuvwxyzþðđf!\\
+ \$0123456789€ \XeTeXglyph 99 %
+ {\addfontfeature{Numbers=Lining}%
+  9876543210}%
+ ¢\\
+ »«;:,.-–—›‹„“”‚‘’[…]\{\}()·×÷\\
+ "'\#\%\& *+/<=>@\textbackslash \textasciicircum \textasciitilde §©ªº°µΩ\\
+ \textsc{abcdefghijklmnopqrstuvwxyzß}\\
+ {\addfontfeature{LetterSpace=0}
+ fffiffiflfbfhfjfkft%\\
+ ffbffhffjffkfflfft\\
+ ſſſiſſiſlſbſhſjſkſt%\\
+ ſſbſſhſſjſſkſſlſſt
+ }\\
+ \char"261E %
+ {\addfontfeature{RawFeature=+hlig}ÆæstctœŒ}%
+ \char"261C\\
+ {\addfontfeature{LetterSpace=0}
+ Text{\addfontfeature{RawFeature=+sups}abcdefghijklmnopqrstuvwxyz0123456789}x %\\
+ Text{\addfontfeature{RawFeature=+ordn}abcdefghijklmnopqrstuvwxyz0123456789}x\\
+ Text{\addfontfeature{RawFeature=+subs}abcdefghijklmnopqrstuvwxyz0123456789}x %\\
+ Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
 ÁÀÃĄÄ{\addfontfeature{Language=German,LetterSpace=10.0}Ä}%Ǎ
 ÂĂÅÉÈẼ%
 ĘËĚÊĔÍÌĨĮÏǏÎĬİ\\
@@ -361,11 +371,21 @@ Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
 ŘřŔŕŚśŠšŞşŤťŢţŴŵÝýŶŷŸÿŹźŻżŽž}\\
 {\Huge \char"E001 \char"B6 \char"E002}\\
 АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ\\
-\begin{serbian}{\addfontfeature{Language=Serbian,LetterSpace=10.0,RawFeature=+ss01}АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ}\end{serbian}\\
+\begin{serbian}	{\addfontfeature{Language=Serbian,LetterSpace=10.0,RawFeature=+ss01}%
+	АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ}
+\end{serbian}\\
 абвгдежзийклмнопрстуфхцчшщъыьэюя\\
-\begin{serbian}{\addfontfeature{Language=Serbian,LetterSpace=10.0,RawFeature=+ss01}
-абвгдђежзијклљмнњопрстћуфхцчџш}\end{serbian}\\
-\textsc{абвгд{\addfontfeature{RawFeature=+ss01}д}ђежзийјкл{\addfontfeature{RawFeature=+ss01}л}љ{\addfontfeature{RawFeature=+ss01}љ}мнњопрстћуфхцчџшщъыьэюя}\\
+\begin{serbian}
+	{\addfontfeature{Language=Serbian,LetterSpace=10.0,RawFeature=+ss01}%
+	абвгдђежзијклљмнњопрстћуфхцчџш}
+\end{serbian}\\
+\textsc{абвгд%
+	{\addfontfeature{RawFeature=+ss01}д}%
+	ђежзийјкл%
+	{\addfontfeature{RawFeature=+ss01}л}%
+	љ%
+	{\addfontfeature{RawFeature=+ss01}љ}%
+	мнњопрстћуфхцчџшщъыьэюя}\\
 {\Huge \char"2619 {\addfontfeature{RawFeature=+cv91}¶}\char"2767}\\
 ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ\\
 αβγδεζηθικλμνξοπρσςτυφχψω\\
@@ -399,7 +419,8 @@ Text{\addfontfeature{RawFeature=+sinf}abcdefghijklmnopqrstuvwxyz0123456789}x}\\
 ÂĂÅÉÈ%Ẽ
 ĘËĚÊĔÍÌĨĮÏ%Ǐ
 ÎĬİ\\
-ÓÒÕǪÖ{\addfontfeature{Language=German}Ö}ǑÔŎŐØÚÙŨŲÜ{\addfontfeature{Language=German}Ü}ǓÛŬŮŰ\\
+ÓÒÕǪÖ{\addfontfeature{%
+Language=German}Ö}ǑÔŎŐØÚÙŨŲÜ{\addfontfeature{Language=German}Ü}ǓÛŬŮŰ\\
 áàãąä%ǎ
 âăåéè%ẽ
 ęëěêĕíìĩįï%ǐ
