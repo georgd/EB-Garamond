@@ -38,29 +38,29 @@ web: $(WOF) $(EOT)
 pdfs: $(PDF)
 
 $(BLD):
-	@mkdir -p $(BLD)
+	@mkdir $@
 $(WEB):
-	@mkdir -p $(WEB)
+	@mkdir -p $@
 $(SPEC):
-	@mkdir -p $(SPEC)
+	@mkdir $@
 
-$(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT) $(BLD)
+$(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION) 
 
-$(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT) $(BLD)
+$(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION) 
 	@echo "Autohinting	$@"
 	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
 	@mv $@.tmp $@
 
-$(WEB)/%.woff: $(BLD)/%.ttf $(WEB)
+$(WEB)/%.woff: $(BLD)/%.ttf | $(BLD)
 	@echo "Generating	$@"
 	@$(SFNTTOOL) -w $< $@
 #	@sfnt2woff $<
 
-$(WEB)/%.eot: $(BLD)/%.ttf $(WEB)
+$(WEB)/%.eot: $(BLD)/%.ttf | $(BLD)
 	@echo "Generating	$@"
 	@$(SFNTTOOL) -e -x $< $@
 #	@ttf2eot $< > $@
