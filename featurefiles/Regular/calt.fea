@@ -43,3 +43,24 @@ feature calt {
     lookup caltLAT;
     lookup UC_hyphen;
 } calt;
+
+lookup xtex_sub1 {
+    sub X e' T e X by e.xtex2;
+    sub X e' L a T e X by e.xtex2;
+    sub L a' T e X by a.sc;
+    sub T e' X by e.xtex1;
+    sub L a.sc T e.xtex1 X [two two.lnum two.taboldstyle two.tablining] e' by e.xtex3;
+} xtex_sub1;
+
+lookup xtex_pos1 {
+    pos X e.xtex2' <-130 -180 -320 0> T;
+    pos X e.xtex2' <-130 -180 -200 0> L;
+    pos X [two two.lnum two.taboldstyle two.tablining] e.xtex3' <0 -180 0 0>;
+    pos L a.sc' <-330 210 -490 0> T e.xtex1 X;
+    pos T e.xtex1' <-180 -180 -280 0> X;
+}xtex_pos1;
+
+feature xtex {
+    lookup xtex_sub1;
+    lookup xtex_pos1;
+} xtex;
