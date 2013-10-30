@@ -809,5 +809,13 @@ glyphComponents = {
     'uni1FEE': ('space.stack', 'uni0308.grkstack', 'acutecomb.grk'),
     'uni1FEF': ('space.stack', 'gravecomb.grk'),
     'uni1FFD': ('space.stack', 'acutecomb.grk'),
-    'uni1FFE': ('space.stack', 'uni0314')
-}
+    'uni1FFE': ('space.stack', 'uni0314'),
+
+#---alternate glyphs-----------------------------------------------------
+    'hcircumflex.01': ('h.01', 'uni0302.flat'),
+    'uni01E9.01': 	 ('k.01', 'uni030C.flat'),
+    'uni021F.01': 	 ('h.01', 'uni030C.flat'),
+    'uni1E23.01': 	 ('h.01', 'uni0307'),
+    'uni1E27.01': 	 ('h.01', 'uni0308'),
+    'uni1E31.01': 	 ('k.01', 'acutecomb.flat'),
+    }
