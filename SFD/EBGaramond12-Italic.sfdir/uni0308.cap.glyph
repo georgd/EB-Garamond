@@ -1,27 +1,26 @@
 StartChar: uni0308.cap
 Encoding: 66383 -1 2080
 Width: 0
-Flags: MW
-AnchorPoint: "top_stack" 152 689 mark 0
-AnchorPoint: "top_stack" 152 825 basemark 0
-AnchorPoint: "gravestack" 182 814 basemark 0
-AnchorPoint: "acutestack" 90 816 basemark 0
-AnchorPoint: "top_accent" 151 710 mark 0
+Flags: HMW
+AnchorPoint: "top_stack" 136 689 mark 0
+AnchorPoint: "acutestack" 120 816 basemark 0
+AnchorPoint: "gravestack" 186 814 basemark 0
+AnchorPoint: "top_stack" 179 825 basemark 0
+AnchorPoint: "top_accent" 146 710 mark 0
 AnchorPoint: "grk_uc_top" 152 720 mark 0
 LayerCount: 2
 Fore
 SplineSet
-250 800 m 0
- 278 800 300 778 300 750 c 0
- 300 722 278 700 250 700 c 0
- 222 700 200 722 200 750 c 0
- 200 778 222 800 250 800 c 0
-55 800 m 0
- 83 800 105 778 105 750 c 0
- 105 722 83 700 55 700 c 0
- 27 700 5 722 5 750 c 0
- 5 778 27 800 55 800 c 0
+264 800 m 16
+ 285 800 300 779 300 757 c 16
+ 300 727 273 700 243 700 c 8
+ 222 700 206 719 206 739 c 8
+ 206 772 231 800 264 800 c 16
+63 800 m 16
+ 84 800 99 779 99 757 c 16
+ 99 727 72 700 42 700 c 8
+ 21 700 5 719 5 739 c 8
+ 5 772 30 800 63 800 c 16
 EndSplineSet
-Validated: 1
 Substitution2: "c2sc subtable" uni0308.sc
 EndChar

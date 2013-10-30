@@ -3,7 +3,7 @@ Encoding: 122 122 65
 Width: 381
 VWidth: 0
 Flags: MW
-AnchorPoint: "below_accent" 188 -100 basechar 0
+AnchorPoint: "below_accent" 134 -100 basechar 0
 AnchorPoint: "top_accent" 282 550 basechar 0
 LayerCount: 2
 Fore
@@ -38,7 +38,6 @@ SplineSet
  367 389 377 396 392 410 c 0
  399 417 412 428 422 428 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps1 subtable" z.sc
 Substitution2: "sups subtable" z.sups
 Substitution2: "sinf subtable" z.sinf

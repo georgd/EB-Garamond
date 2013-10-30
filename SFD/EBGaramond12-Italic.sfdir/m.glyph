@@ -2,7 +2,7 @@ StartChar: m
 Encoding: 109 109 7
 Width: 755
 Flags: MW
-AnchorPoint: "below_accent" 425 -100 basechar 0
+AnchorPoint: "below_accent" 287 -100 basechar 0
 AnchorPoint: "top_accent" 491 550 basechar 0
 LayerCount: 2
 Fore
@@ -46,7 +46,6 @@ SplineSet
  289 23 297 46 311 84 c 2
  396 309 l 2
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps1 subtable" m.sc
 Substitution2: "sups subtable" m.sups
 Substitution2: "sinf subtable" m.sinf

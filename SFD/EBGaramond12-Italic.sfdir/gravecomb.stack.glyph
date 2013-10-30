@@ -2,20 +2,19 @@ StartChar: gravecomb.stack
 Encoding: 66407 -1 2108
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "gravestack" 92 456 mark 0
+Flags: HMW
+AnchorPoint: "gravestack" 76 456 mark 0
 AnchorPoint: "top_accent" 90 550 mark 0
 LayerCount: 2
 Fore
 SplineSet
-56 487 m 0
- 44 521 10 616 10 621 c 0
- 10 645 39 667 55 667 c 0
- 67 667 71 650 73 627 c 0
- 76 586 84 493 84 483 c 0
- 84 475 81 470 76 470 c 0
- 67 470 61 473 56 487 c 0
+56 480 m 0
+ 44 514 17 579 17 584 c 0
+ 17 608 46 630 62 630 c 0
+ 74 630 78 613 80 590 c 0
+ 83 549 84 486 84 476 c 0
+ 84 468 81 463 76 463 c 0
+ 67 463 61 466 56 480 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "Smallcaps1 subtable" gravecomb.stacksc
 EndChar

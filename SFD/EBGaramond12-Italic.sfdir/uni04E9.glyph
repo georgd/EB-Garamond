@@ -5,7 +5,7 @@ VWidth: 0
 Flags: MW
 AnchorPoint: "ogonek" 337 18 basechar 0
 AnchorPoint: "below_accent" 246 -100 basechar 0
-AnchorPoint: "top_accent" 246 550 basechar 0
+AnchorPoint: "top_accent" 397 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -27,5 +27,4 @@ SplineSet
  354 102 372 150 384 189 c 0
  384 190 385 191 385 191 c 2
 EndSplineSet
-Validated: 33
 EndChar

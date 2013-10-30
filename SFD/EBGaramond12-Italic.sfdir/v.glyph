@@ -1,8 +1,8 @@
 StartChar: v
 Encoding: 118 118 22
-Width: 415
+Width: 395
 Flags: HMW
-AnchorPoint: "below_accent" 253 -100 basechar 0
+AnchorPoint: "below_accent" 121 -100 basechar 0
 AnchorPoint: "top_accent" 337 550 basechar 0
 LayerCount: 2
 Back
@@ -4235,25 +4235,26 @@ f@SX%dF$V!f\YKAiSibMgY:TAhVd>Mi8EPMhVQu?g=4X%d*U.bcHb+rg"P06f\"j4h;-f=g=Os.
 EndImage
 Fore
 SplineSet
-157 133 m 2
- 137 74 152 43 182 43 c 0
- 271 43 378 179 378 288 c 0
- 378 310 365 328 341 353 c 0
- 335 359 335 368 335 373 c 0
- 335 381 369 418 396 418 c 0
- 410 418 425 395 425 349 c 0
- 425 261 399 172 322 81 c 0
- 268 18 207 -14 153 -14 c 0
- 82 -14 77 80 104 151 c 10
- 148 270 l 2
- 156 293 169 334 156 334 c 0
- 147 334 116 307 88 280 c 0
- 85 277 75 279 75 283 c 0
- 75 288 76 298 87 313 c 0
- 137 380 196 418 225 418 c 0
- 245 418 251 406 240 373 c 2
- 157 133 l 2
+137 133 m 2
+ 117 74 132 43 162 43 c 0
+ 251 43 358 179 358 288 c 0
+ 358 310 345 328 321 353 c 0
+ 315 359 315 368 315 373 c 0
+ 315 381 349 418 376 418 c 0
+ 390 418 405 395 405 349 c 0
+ 405 261 379 172 302 81 c 0
+ 248 18 187 -14 133 -14 c 0
+ 62 -14 57 80 84 151 c 10
+ 128 270 l 2
+ 136 293 149 334 136 334 c 0
+ 127 334 96 307 68 280 c 0
+ 65 277 55 279 55 283 c 0
+ 55 288 56 298 67 313 c 0
+ 117 380 176 418 205 418 c 0
+ 225 418 231 406 220 373 c 2
+ 137 133 l 2
 EndSplineSet
+Substitution2: "Single Substitution lookup 86 subtable" v.init
 Substitution2: "Smallcaps1 subtable" v.sc
 Substitution2: "sups subtable" v.sups
 Substitution2: "sinf subtable" v.sinf

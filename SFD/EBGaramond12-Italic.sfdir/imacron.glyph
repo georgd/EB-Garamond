@@ -2,12 +2,11 @@ StartChar: imacron
 Encoding: 299 299 218
 Width: 274
 VWidth: 0
-Flags: HMW
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 980 772 N 1 0 0 1 108 0 2
-Refer: 76 305 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 2484 -1 N 1 0 0 1 0 0 3
 Substitution2: "Smallcaps1 subtable" imacron.sc
 MultipleSubs2: "CCMP_Precomp subtable" i.dotless uni0304
 EndChar

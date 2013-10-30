@@ -4,7 +4,7 @@ Width: 504
 Flags: MW
 AnchorPoint: "cedilla" 67 8 basechar 0
 AnchorPoint: "below_accent" 201 -100 basechar 0
-AnchorPoint: "top_accent" 288 812 basechar 0
+AnchorPoint: "top_accent" 423 812 basechar 0
 LayerCount: 2
 Back
 Image: 238 209 2 714 0 ffffffff -945 951 6.37815 6.32536 0
@@ -2523,10 +2523,10 @@ SplineSet
  504 213 402 -14 265 -14 c 0
  242 -14 222 1 222 23 c 16
 EndSplineSet
-Validated: 33
 Substitution2: "Smallcaps1 subtable" h.sc
 Substitution2: "sups subtable" h.sups
 Substitution2: "sinf subtable" h.sinf
 Substitution2: "ordn subtable" h.ordn
 Substitution2: "subs subtable" h.subs
+Substitution2: "alternate_h subtable" h.01
 EndChar

@@ -1,19 +1,18 @@
 StartChar: uni0307.cap
 Encoding: 66382 -1 2079
 Width: 0
-Flags: MW
-AnchorPoint: "top_stack" 60 725 mark 0
-AnchorPoint: "top_stack" 60 830 basemark 0
-AnchorPoint: "top_accent" 60 710 mark 0
+Flags: HMW
+AnchorPoint: "top_stack" 54 725 mark 0
+AnchorPoint: "top_stack" 76 830 basemark 0
+AnchorPoint: "top_accent" 48 710 mark 0
 LayerCount: 2
 Fore
 SplineSet
-60 810 m 0
- 90 810 115 785 115 755 c 0
- 115 725 90 700 60 700 c 0
- 30 700 5 725 5 755 c 0
- 5 785 30 810 60 810 c 0
+67 807 m 16
+ 89 807 105 785 105 761 c 16
+ 105 729 76 700 44 700 c 8
+ 22 700 5 721 5 742 c 8
+ 5 777 32 807 67 807 c 16
 EndSplineSet
-Validated: 1
 Substitution2: "c2sc subtable" uni0307.sc
 EndChar

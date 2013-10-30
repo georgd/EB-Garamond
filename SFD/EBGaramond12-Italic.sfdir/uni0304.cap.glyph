@@ -1,8 +1,8 @@
 StartChar: uni0304.cap
 Encoding: 66380 -1 2077
 Width: 0
-Flags: MW
-AnchorPoint: "top_stack" 155 706 mark 0
+Flags: HMW
+AnchorPoint: "top_stack" 140 706 mark 0
 AnchorPoint: "top_stack" 155 819 basemark 0
 AnchorPoint: "top_accent" 133 710 mark 0
 AnchorPoint: "grk_uc_top" 165 720 mark 0
@@ -17,6 +17,5 @@ SplineSet
  12 723 5 729 5 735 c 0
  5 744 10 772 29 772 c 2
 EndSplineSet
-Validated: 1
 Substitution2: "c2sc subtable" uni0304.sc
 EndChar

@@ -2,12 +2,11 @@ StartChar: itilde
 Encoding: 297 297 216
 Width: 274
 VWidth: 0
-Flags: HMW
+Flags: HM
 LayerCount: 2
 Fore
 Refer: 111 771 N 1 0 0 1 80 0 2
-Refer: 76 305 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 2484 -1 N 1 0 0 1 0 0 3
 Substitution2: "Smallcaps1 subtable" itilde.sc
 MultipleSubs2: "CCMP_Precomp subtable" i.dotless tildecomb
 EndChar
