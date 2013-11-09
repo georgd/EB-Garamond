@@ -1,0 +1,130 @@
+\documentclass{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage{xunicode}
+\usepackage{xltxtra}
+
+\usepackage{unicode-math}
+
+\setmathfont{Asana Math} % base font
+% \setmathfont{EB Garamond} % To use in the future?
+
+\setmathfont[range=\mathup/{num,latin,Latin,greek,Greek},
+             Ligatures=TeX, Numbers={Lining},
+             SizeFeatures={
+               {Size=-8, OpticalSize=8},
+               {Size= 8-, OpticalSize=12}}]{EB Garamond}
+
+\setmathfont[range=\mathit/{num,latin,Latin,greek,Greek},
+             Ligatures=TeX, Numbers={Lining},
+             SizeFeatures={
+               {Size=-8, OpticalSize=8},
+               {Size= 8-, OpticalSize=12}}]{EBGaramond12-Italic}
+
+\setmathfont[range=\mathbfup/{num,latin,Latin,greek,Greek},
+             Ligatures=TeX, Numbers={Lining}, FakeBold=1.5,
+             SizeFeatures={
+               {Size=-8, OpticalSize=8},
+               {Size= 8-, OpticalSize=12}}]{EB Garamond}
+
+\setmainfont[Mapping=tex-text,Numbers={OldStyle}]{EB Garamond}
+
+\setsansfont[Numbers={OldStyle,Proportional},Scale=MatchLowercase]{Linux Biolinum O}
+\setmonofont[Scale=MatchLowercase]{DejaVu Sans Mono}
+
+\newcommand{\texto}{Este é um teste. 123456789. Aa Ee Ii Oo Uu ãÃ çÇ üÜ
+  äÄ ëË õÕ © ðÐ ß§ Åå ® £€ ¼½¾}
+
+\usepackage{polyglossia}
+%\setdefaultlanguage{english}
+\setdefaultlanguage{brazil}
+
+
+\title{Multilingual Math Test}
+\author{Rogério Theodoro de Brito}
+
+
+\begin{document}
+\maketitle
+\section{Teste}
+
+Um teste. Este é um teste. Paul Erdös. Paul Erd\H{o}s. Otakar Borůvka. 1234567890
+
+\begin{itemize}
+  \item \emph{\texto}
+  \item \textbf{\texto}
+  \item \textsl{\texto}
+  \item \texttt{\texto}
+  \item \texttt{\emph{\texto}}
+  \item \textsc{\texto}
+\end{itemize}
+
+\section{Projective Planes}
+
+\emph{Projective planes} are a special case of block designs, where we
+have $v > 0$ points and, as they are symmetric designs, $ b = v$ (which
+is the limit case of Fisher's inequality), from the first basic equation
+we get
+\[
+k = r,
+\]
+and since $\lambda = 1$ by definition, the second equation gives us
+\[
+v-1 = k(k-1).
+\]
+
+Now, given an integer $ n \geq 1$, called the \emph{order of the
+  projective plane}, we can put $k = n + 1$ and, from the displayed
+equation above, we have $v = (n+1)n + 1 = n^2 + n + 1$ points in a
+projective plane of order $n$.
+
+Since a projective plane is symmetric, we have that $b = v$, which means
+that $b = n^2 + n + 1$ also. The number $b$ is usually called the number
+of \emph{lines} of the projective plane.
+
+This means, as a corollary, that in a projective plane, the number of
+lines and the number of points are always the same. For a projective
+plane, $k$ is the number of lines and it is equal to $n + 1$, where $n$
+is the order of the plane. Similarly, $r = n + 1$ is the number of lines
+to which the a given point is incident.
+
+For $n = 2$ we get a projective plane of order $2$, also called the
+\emph{Fano plane}, with $v = 4 + 2 + 1 = 7$ points and $7$ lines. In the
+Fano plane, each line has $n + 1 = 3$ points and each point belongs to
+$n + 1 = 3$ lines.
+
+\section{Extensão de Corpos}
+
+Seja $a$ um número complexo que satisfaça $x^3 - x + 1 = 0$. Seja $b =
+a^2$.  Então nós temos que $a^3 + 1 = a$, isto é, $a^3 = a - 1$.  Como
+$a^3 + 1 = a$ nós temos que
+\begin{align*}
+  (a^2)^3 - 2(a^2)^2 + a^2 - 1 &= a^6 -2a^4 + a^2 -1\\
+  &= (a^3)^2 - 2a a^3 + a^2 - 1\\
+  &= (a-1)^2 - 2a(a-1) + a^2 -1\\
+  &= a^2 -2a + 1 - 2a^2 + 2a + a^2 -1\\
+  &= 0.
+\end{align*}
+Portanto $b = a^2$ é raiz de
+\begin{equation}
+  \label{eq:b-req}
+  x^2 - 2x + x -1.
+\end{equation}
+Como $b = a^2$, então $b$ está em $\mathbb Q(a)$. Logo, $\mathbb Q(b)
+\subseteq \mathbb Q(a)$. Além disso, $\mathbb Q \subseteq \mathbb
+Q(b)$. Agora $\mathbb Q = \mathbb Q(b)$? Não, pois \eqref{eq:b-req} não
+possui raiz racional. Logo $\mathbb Q \subsetneq \mathbb Q(b) \subseteq
+\mathbb Q(a)$. Como $\mathbb Q(a)$ tem grau $3$ sobre $\mathbb Q$, então
+pelo teorema de Dedekind de graus (multiplicativos) de corpos, o grau
+$[\mathbb Q:\mathbb Q(b)][\mathbb Q:\mathbb Q(a)] = 3$.  Como $\mathbb Q \ne
+\mathbb Q(b)$, nós temos que $[\mathbb Q:\mathbb Q(b)] = 3$, de onde segue
+que $\mathbb Q(b) = \mathbb Q(a)$.
+
+Alternativamente, observe-se que $a^2 - a^4 = b - b^2$, pela definição
+de $b$.  Como $a^3 = a - 1$, nós temos que $a^4 = a a^3 = a(a-1) = a^2
+-a$.  Logo, $a^4 = a^2 - a$, isto é, $a^2 - a^4 = a$, de onde segue que
+$a = b - b^2 \in \mathbb Q(b)$ e, portanto, $\mathbb Q(a) \subseteq
+\mathbb Q(b)$, ou seja, $\mathbb Q(a) = \mathbb Q(b)$.
+\end{document}
