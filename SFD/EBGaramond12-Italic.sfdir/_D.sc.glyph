@@ -1,11 +1,13 @@
 StartChar: D.sc
 Encoding: 66050 -1 1642
-Width: 519
+Width: 587
 VWidth: 0
 Flags: HMW
+AnchorPoint: "cedilla" 309 10 basechar 0
+AnchorPoint: "below_accent" 228 -100 basechar 0
+AnchorPoint: "top_accent" 415 580 basechar 0
 LayerCount: 2
 Fore
 Refer: 1674 -1 N 1 0 0 1 0 0 2
-Validated: 1
 Comment: "." 
 EndChar

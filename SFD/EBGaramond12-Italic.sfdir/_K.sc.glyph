@@ -1,11 +1,12 @@
 StartChar: K.sc
 Encoding: 66057 -1 1649
-Width: 524
+Width: 590
 VWidth: 0
 Flags: HMW
+AnchorPoint: "below_accent" 270 -100 basechar 0
+AnchorPoint: "top_accent" 446 580 basechar 0
 LayerCount: 2
 Fore
 Refer: 1681 -1 N 1 0 0 1 0 0 2
-Validated: 1
 Comment: "." 
 EndChar

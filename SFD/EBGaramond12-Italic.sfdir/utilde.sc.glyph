@@ -1,22 +1,11 @@
 StartChar: utilde.sc
 Encoding: 66302 -1 1894
-Width: 483
+Width: 579
 VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-SplineSet
-274 501 m 0
- 264 501 260 511 260 521 c 0
- 260 531 323 599 348 599 c 0
- 373 599 430 591 455 591 c 0
- 490 591 504 625 512 625 c 0
- 522 625 528 618 528 608 c 0
- 528 598 468 531 443 531 c 0
- 418 531 356 538 331 538 c 0
- 306 538 282 501 274 501 c 0
-EndSplineSet
+Refer: 111 771 N 1 0 0 1 270 30 2
 Refer: 1691 -1 N 1 0 0 1 0 0 3
-Validated: 1
 Comment: "." 
 EndChar

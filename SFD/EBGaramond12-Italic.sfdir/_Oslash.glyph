@@ -2,7 +2,7 @@ StartChar: Oslash
 Encoding: 216 216 1009
 Width: 712
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "cedilla" 341 8 basechar 0
 AnchorPoint: "ogonek" 463 18 basechar 0
 AnchorPoint: "below_accent" 304 -100 basechar 0
@@ -54,11 +54,10 @@ SplineSet
  106 -14 89 -6 89 4 c 0
  89 14 96 23 105 33 c 2
  680 650 l 2
- 686 657 701 663 711 663 c 0
- 721 663 724 659 724 649 c 0
- 724 639 718 624 707 612 c 2
+ 686 657 696 666 706 666 c 0
+ 716 666 726 659 726 649 c 0
+ 726 639 718 624 707 612 c 2
  143 7 l 2
 EndSplineSet
-Validated: 5
 Substitution2: "c2sc subtable" Oslash.sc
 EndChar

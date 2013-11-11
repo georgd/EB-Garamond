@@ -1,11 +1,12 @@
 StartChar: R.sc
 Encoding: 66064 -1 1656
-Width: 547
+Width: 553
 VWidth: 0
 Flags: HMW
+AnchorPoint: "below_accent" 270 -100 basechar 0
+AnchorPoint: "top_accent" 387 580 basechar 0
 LayerCount: 2
 Fore
 Refer: 1688 -1 N 1 0 0 1 0 0 2
-Validated: 1
 Comment: "." 
 EndChar

@@ -1,11 +1,19 @@
 StartChar: hbar.sc
 Encoding: 66236 -1 1828
-Width: 605
+Width: 667
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
+SplineSet
+129 345 m 26
+ 709 345 l 18
+ 714 345 718 340 718 335 c 0
+ 718 318 697 307 678 307 c 26
+ 109 307 l 18
+ 104 307 100 311 100 316 c 0
+ 100 327 113 345 129 345 c 26
+EndSplineSet
 Refer: 1678 -1 N 1 0 0 1 0 0 2
-Validated: 1
 Comment: "." 
 EndChar

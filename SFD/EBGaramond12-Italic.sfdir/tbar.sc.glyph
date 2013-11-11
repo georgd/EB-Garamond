@@ -1,11 +1,19 @@
 StartChar: tbar.sc
 Encoding: 66300 -1 1892
-Width: 489
+Width: 486
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
+SplineSet
+148 251 m 26
+ 423 251 l 18
+ 428 251 432 246 432 241 c 0
+ 432 224 411 213 392 213 c 26
+ 128 213 l 18
+ 123 213 119 217 119 222 c 0
+ 119 233 132 251 148 251 c 26
+EndSplineSet
 Refer: 1690 -1 N 1 0 0 1 0 0 2
-Validated: 1
 Comment: "." 
 EndChar

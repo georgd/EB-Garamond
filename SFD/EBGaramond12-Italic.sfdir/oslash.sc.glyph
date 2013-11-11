@@ -1,11 +1,21 @@
 StartChar: oslash.sc
 Encoding: 66189 -1 1781
-Width: 605
+Width: 524
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
+SplineSet
+108 -7 m 2
+ 100 -15 87 -28 81 -28 c 0
+ 71 -28 54 -20 54 -10 c 0
+ 54 0 60 9 70 19 c 2
+ 496 460 l 2
+ 502 467 512 476 522 476 c 0
+ 532 476 542 469 542 459 c 0
+ 542 449 534 434 523 422 c 2
+ 108 -7 l 2
+EndSplineSet
 Refer: 1685 -1 N 1 0 0 1 0 0 2
-Validated: 1
 Comment: "." 
 EndChar

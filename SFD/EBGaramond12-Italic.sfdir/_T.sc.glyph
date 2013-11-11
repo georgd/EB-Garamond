@@ -1,11 +1,14 @@
 StartChar: T.sc
 Encoding: 66066 -1 1658
-Width: 489
+Width: 486
 VWidth: 0
 Flags: HMW
+AnchorPoint: "cedilla" 241 8 basechar 0
+AnchorPoint: "ogonek" 262 18 basechar 0
+AnchorPoint: "below_accent" 186 -100 basechar 0
+AnchorPoint: "top_accent" 373 580 basechar 0
 LayerCount: 2
 Fore
 Refer: 1690 -1 N 1 0 0 1 0 0 2
-Validated: 1
 Comment: "." 
 EndChar

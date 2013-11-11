@@ -1,11 +1,13 @@
 StartChar: Q.sc
 Encoding: 66063 -1 1655
-Width: 602
+Width: 518
 VWidth: 0
 Flags: HMW
+AnchorPoint: "top_accent" 400 580 basechar 0
 LayerCount: 2
 Fore
 Refer: 1687 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Substitution2: "Single Substitution lookup 78 subtable" Q.longsc
+Substitution2: "Single Substitution lookup 77 subtable" Q.longsc
 Comment: "." 
 EndChar
