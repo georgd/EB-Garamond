@@ -95,7 +95,7 @@ feature cv47 {
 } cv47;
 
 lookup VW_alts {
-    sub [ V W ] by [V.01 W.01];
+    sub [ V W V.sc W.sc v.sc w.sc ] by [V.01 W.01 V.01sc W.01sc v.01sc w.01sc];
 } VW_alts;
 
 feature ss10 {

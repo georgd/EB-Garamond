@@ -3,18 +3,23 @@
 lookup kern {
   lookupflag 0;
     @first_A = [\A ];
-    @first_asc = [\A.sc \a.sc ];
+    @first_asc = [\A.sc \a.sc Aogonek.sc aogonek.sc ];
+    @second_ascdiac = [Agrave.sc Aacute.sc Atilde.sc Acircumflex.sc \Adieresis.sc Aring.sc Amacron.sc Abreve.sc agrave.sc aacute.sc atilde.sc acircumflex.sc adieresis.sc aring.sc amacron.sc abreve.sc ];
     @first_E = [\E \Eacute \Ebreve \Ecaron \Ecircumflex \Edieresis \Edotaccent \Egrave \Emacron 
 	\Eogonek \uni1EBC ];
     @first_F = [\F ];
     @first_L = [\L ];
+    @first_lsc = [ L.sc l.sc Lslash.sc lslash.sc  uni013B.sc uni013C.sc Lacute.sc lacute.sc ];
     @first_M = [\M ];
     @first_O = [\O \V.sw \W.sw ];
     @first_T = [\T ];
+    @first_tsc = [T.sc t.sc];
     @first_V = [\V \W ];
     @first_Y = [\Y ];
     @first_vsc = [\V.sc \W.sc \v.sc \w.sc ];
+    @first_v01sc = [\V.01sc \W.01sc \v.01sc \w.01sc ];
     @first_V01 = [\V.01 W.01 ];
+    @first_ysc = [Y.sc y.sc]
     @first_f = [\f \f_f ];
     @first_fshort = [\f.short \f_f.short ];
     @first_g = [\g \g_g ];
@@ -22,11 +27,21 @@ lookup kern {
     @first_r = [\r ];
     @first_v = [\v \w \y ];
     
-    @second_A = [\A ];
-    @second_asc = [\A.sc \a.sc ];
-    @second_C = [\C \O \Ohorn \Q \Q.long \Q.sw Q.swlong ];
+    @second_A = [\A AE Aogonek ];
+    @second_asc = [\A.sc \a.sc AE.sc ae.sc Aogonek.sc aogonek.sc ];
+    @second_ascdiac = [Agrave.sc Aacute.sc Atilde.sc Acircumflex.sc \Adieresis.sc Aring.sc Amacron.sc Abreve.sc agrave.sc aacute.sc atilde.sc acircumflex.sc adieresis.sc aring.sc amacron.sc abreve.sc ];
+    @second_bsc = [B.sc D.sc-F.sc H.sc-N.sc P.sc R.sc b.sc d.sc-f.sc h.sc-n.sc p.sc r.sc Iogonek.sc iogonek.sc dotlessi.sc IJ.sc ij.sc uni0136.sc uni0137.sc uni031B.sc uni031C.sc Lcaron.sc lcaron.sc Ldot.sc ldot.sc Lslash.sc lslash.sc uni0145.sc uni0146.sc uni0156.sc uni0157.sc Eth.sc eth.sc Dcroat.sc dcroat.sc ];
+    @second_bscdiac = [ Dcaron.sc Egrave.sc Eacute.sc Ecircumflex.sc Edieresis.sc Emacron.sc Ebreve.sc Edotaccent.sc Eogonek.sc Ecaron.sc Hcircumflex.sc Igrave.sc Iacute.sc Icircumflex.sc Idieresis.sc Itilde.sc Imacron.sc Ibreve.sc Idotaccent.sc Jcircumflex.sc Lacute.sc Ntilde.sc Nacute.sc Ncaron.sc Eng.sc Racute.sc Rcaron.sc
+    dcaron.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc emacron.sc ebreve.sc edotaccent.sc eogonek.sc ecaron.sc hcircumflex.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc itilde.sc imacron.sc ibreve.sc idotaccent.sc jcircumflex.sc lacute.sc ntilde.sc nacute.sc ncaron.sc eng.sc racute.sc rcaron.sc ];
+    @second_C = [\C G \O \Ohorn \Q \Q.long \Q.sw Q.swlong ];
+    @second_csc = [\C.sc c.sc Ccedilla ccedilla G.sc g.sc uni0122.sc uni0123.sc \O.sc o.sc \Ohorn.sc ohorn.sc OE.sc oe.sc \Q.sc q.sc \Q.longsc q.longsc  ];
+    @second_cscdiac = [ Cacute.sc Ccirumflex.sc Cdotaccent.sc Ccaron.sc Gcircumflex.sc Gbreve.sc Gdotaccent.sc Ograve.sc Oacute.sc Ocircumflex.sc Otilde.sc Odieresis.sc Omacron.sc Obreve.sc Ohungarumlaut.sc cacute.sc ccirumflex.sc cdotaccent.sc ccaron.sc gcircumflex.sc gbreve.sc gdotaccent.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc omacron.sc obreve.sc ohungarumlaut.sc];
+    @second_T = [@first_T];
+    @second_tsc = [@first_tsc];
     @second_V = [\V \W \Y ];
     @second_vsc = [\V.sc \W.sc \v.sc \w.sc ];
+    @second_v01sc = [\V.01sc \W.01sc \v.01sc \w.01sc ];
+    @second_ysc = [Y.sc y.sc]
     @second_a = [\a \ae \aogonek \a_s ];
     @second_c = [\c \ccedilla \d \dcaron \dcroat \e \e_s \eogonek \g \o \oe \ohorn \uni01EB \q \s \scedilla ];
     @second_f = [\f \f_f \f_i \f_f_i \f_l \f.short \f.DEU \uniFB01 \uniFB02 \uniFB03 \uniFB04 ];
@@ -66,7 +81,8 @@ lookup kern {
 
     pos @first_A @second_v -50;
 
-    pos @first_asc @second_vsc -75;
+    pos @first_asc @second_vsc -35;
+    pos @first_asc @second_v01sc -25;
 
     pos @first_E @second_a -25;
     pos @first_E @second_c -25;
@@ -316,7 +332,10 @@ lookup kern {
     pos @first_V01 zdotaccent     -70;
     pos @first_V01 @second_eth    -45;
 
-    pos @first_vsc @second_asc -75;
+    pos @first_vsc   @second_asc  -200;
+    pos @first_vsc   @second_csc  -200;
+    pos @first_v01sc @second_asc  -220;
+    pos @first_v01sc @second_csc  -220;
 
     pos @first_Y @second_A       -200;
     pos @first_Y @second_a       -150;

@@ -24,10 +24,10 @@ lookup mkmk {
   markClass [\acutecomb.grk ] <anchor 36 523> @top_stack;
   markClass [\uni0308.sc ] <anchor 116 474> @top_stack;
   markClass [\acutecomb.cap ] <anchor 52 710> @top_stack;
-  markClass [\acutecomb.stack ] <anchor 18 456> @acutestack;
-  markClass [\acutecomb.capstack ] <anchor 0 710> @acutestack;
   markClass [\gravecomb.stack ] <anchor 76 456> @gravestack;
   markClass [\gravecomb.capstack ] <anchor 170 710> @gravestack;
+  markClass [\acutecomb.stack ] <anchor 18 456> @acutestack;
+  markClass [\acutecomb.capstack ] <anchor 0 710> @acutestack;
   markClass [\hookabovecomb.stack ] <anchor 140 501> @hookstack;
   markClass [\hookabovecomb.cap ] <anchor 42 743> @hookstack;
   markClass [\gravecomb.grk \acutecomb.grk \gravecomb.grkstack \acutecomb.grkstack ] <anchor 5 640> @grk_hstack;
