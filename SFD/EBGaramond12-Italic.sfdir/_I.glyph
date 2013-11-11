@@ -9,7 +9,7 @@ AnchorPoint: "top_accent" 359 710 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-275 550 m 6
+275 550 m 2
  289 597 278 613 234 622 c 0
  214 626 210 633 210 642 c 0
  210 650 224 653 240 653 c 0
@@ -27,7 +27,7 @@ SplineSet
  13 -5 5 -2 5 6 c 0
  5 15 18 20 41 24 c 0
  90 33 123 51 137 98 c 2
- 275 550 l 6
+ 275 550 l 2
 EndSplineSet
 Validated: 33
 Substitution2: "Swash subtable" I.sw

@@ -4255,13 +4255,13 @@ SplineSet
  137 133 l 2
 EndSplineSet
 Substitution2: "Single Substitution lookup 86 subtable" v.init
+AlternateSubs2: "v_alternates subtable" v.init v.alt v.initalt
+Substitution2: "ss03 subtable" v.alt
+Substitution2: "Single Substitution lookup 45 subtable" v.LATmedi
 Substitution2: "Smallcaps1 subtable" v.sc
 Substitution2: "sups subtable" v.sups
 Substitution2: "sinf subtable" v.sinf
 Substitution2: "ordn subtable" v.ordn
 Substitution2: "subs subtable" v.subs
-AlternateSubs2: "v_alternates subtable" v.init v.alt v.initalt
-Substitution2: "ss03 subtable" v.alt
-Substitution2: "Single Substitution lookup 28 subtable" v.LATmedi
 Substitution2: "loclLAT subtable" v.LAT
 EndChar
