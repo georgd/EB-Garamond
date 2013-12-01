@@ -9,13 +9,12 @@ SplineSet
 266 104 m 2
  271 104 278 108 278 112 c 2
  278 281 l 2
- 278 284 271 285 268 282 c 24
- 206 218 174 180 116 113 c 24
- 114 110 112 104 116 104 c 2
+ 278 284 271 285 268 282 c 18
+ 116 113 l 2
+ 113.323477575 110.027420698 117 104 121 104 c 2
  266 104 l 2
-311 377 m 24
- 326 394 343 420 350 421 c 1
- 351 421 l 2
+311 377 m 2
+ 325.635067802 393.42604001 348 421 351 421 c 0
  357 421 354 414 354 409 c 8
  354 292 350 226 350 109 c 24
  350 106 352 103 355 103 c 16
@@ -33,10 +32,9 @@ SplineSet
  278 47 264 50 263 50 c 0
  181 50 139 44 34 43 c 0
  29 43 21 43 21 48 c 0
- 21 49 24 55 25 56 c 0
- 91 134 199 252 311 377 c 24
+ 21 49 24 55 25 56 c 2
+ 311 377 l 2
 EndSplineSet
-Validated: 1
 Substitution2: "'tnum' Tabular Numbers lookup 35 subtable" four.taboldstyle
 Substitution2: "'lnum' Lining Figures lookup 33 subtable" four.lnum
 Substitution2: "Single Substitution lookup 32 subtable" four.ordn
