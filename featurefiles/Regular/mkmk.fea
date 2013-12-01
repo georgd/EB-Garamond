@@ -84,19 +84,6 @@ lookup mkmk {
 } mkmk;
 
 feature mkmk {
-  script DFLT;
-     language dflt ;
-      lookup mkmk;
-  script cyrl;
-     language dflt ;
-      lookup mkmk;
-     language SRB  exclude_dflt;
-      lookup mkmk;
-     language MKD  exclude_dflt;
-      lookup mkmk;
-  script grek;
-     language dflt ;
-      lookup mkmk;
   script latn;
      language dflt ;
       lookup mkmk;
@@ -111,6 +98,19 @@ feature mkmk {
      language CAT  exclude_dflt;
       lookup mkmk;
      language LAT  exclude_dflt;
+      lookup mkmk;
+  script grek;
+     language dflt ;
+      lookup mkmk;
+  script cyrl;
+     language dflt ;
+      lookup mkmk;
+     language SRB  exclude_dflt;
+      lookup mkmk;
+     language MKD  exclude_dflt;
+      lookup mkmk;
+  script DFLT;
+     language dflt ;
       lookup mkmk;
 
 } mkmk;
