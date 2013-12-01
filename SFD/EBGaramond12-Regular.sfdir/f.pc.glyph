@@ -2,7 +2,7 @@ StartChar: f.pc
 Encoding: 1115205 -1 3025
 Width: 371
 VWidth: 0
-Flags: HW
+Flags: MW
 LayerCount: 3
 Fore
 SplineSet
@@ -15,7 +15,7 @@ SplineSet
  82 360 70 374 45 378 c 0
  33 380 22 386 22 396 c 0
  22 404 35 405 42 405 c 0
- 82 405 79 400 113 401 c 0
+ 70 405 85 401 113 401 c 0
  201 401 293 404 339 404 c 0
  343 404 351 403 351 398 c 0
  353 347 361 324 361 311 c 0
