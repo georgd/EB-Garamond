@@ -24,13 +24,13 @@ lookup Smallcaps2 {
 } Smallcaps2;
 
 feature smcp {
-    lookup CCMP_Precomp;
+#    lookup CCMP_Precomp;
     lookup Smallcaps1;
     lookup Smallcaps2;
 } smcp;
 
 feature c2sc {
-    lookup CCMP_Precomp;
+#    lookup CCMP_Precomp;
     lookup c2sc;
     lookup Smallcaps2;
 } c2sc;
