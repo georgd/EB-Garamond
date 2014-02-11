@@ -1,55 +1,88 @@
 \documentclass[pagesize,DIV14]{scrartcl}
+
+%% Fontspec provides an interface to system fonts and Opentype features
 \usepackage{fontspec}
+
+ %% Load default features. An asterisk means they are supposed to be
+ %% enabled by default, but engines may behave differently.
+ \defaultfontfeatures{%
+  RawFeature={%
+    %+calt   % *Contextual alternates
+    %,+clig  % *contextual ligatures
+    %,+ccmp  % *composition & decomposition
+    %,+tlig  % 'tex-ligatures': `` '' -- --- !` ?` << >>
+    ,+cv06  % narrow guillemets
+    }%
+  }
+
+ %% Finally set the main font
+ \setmainfont{EB Garamond}
+
+%% Load Microtype with default settings. This will use the
+%% EB-Garamond protrusion definitions if present.
 \usepackage{microtype}
-%\usepackage{xltxtra}
-\usepackage[babelshorthands]{polyglossia}
-\setdefaultlanguage{english}
-\setotherlanguages{%
-french,czech,polish,latin,italian,catalan,german,romanian,%
-portuges,swedish,finnish,dutch,russian,serbian,ukrainian,%
-bulgarian,slovenian,vietnamese,greek%
-}
+
+%% Use polyglossia to handle different languages.
+\usepackage[%
+  babelshorthands % needed to access "| as a ZWNJ symbol
+  ]{polyglossia}
+ \setdefaultlanguage{english}
+ \setotherlanguages{%
+  french,czech,polish,latin,italian,catalan,german,romanian,%
+  portuges,swedish,finnish,dutch,russian,serbian,ukrainian,%
+  bulgarian,slovenian,vietnamese,greek%
+  }
+
+%% csquotes provides an intelligent for quotation marks
 \usepackage{csquotes}
-\defaultfontfeatures{RawFeature={+calt,%+clig,
-+tlig,+ccmp,+cv06}}%,Numbers={Proportional,OldStyle}}
 
-\setmainfont{EB Garamond}
-
+%% Realscripts allows to easily access the font’s own sub-/superscripts
+%% with \textsuperscript and \textsubscript as well as \textsubsuperscript
 \usepackage{realscripts}
 
+%% Multicol for the two-column samples
 \usepackage{multicol}
-\usepackage{sectsty}
-\allsectionsfont{\rmfamily}
-\subsectionfont{\sc}
-\paragraphfont{\normalsize\sc}
+
+%% Format the headings in smallcaps
+\setkomafont{disposition}{\normalcolor\normalfont\rmfamily\scshape}
+
 \begin{document}
 {\pagestyle{empty}
-\begin{center}
-\pagestyle{empty}
-\vspace*{5cm}
-\fontsize{48}{48}{\addfontfeature{Color=980000}
-EB Garamond}\\
-\vspace*{2cm}
-{\fontsize{24}{24}\addfontfeature{Color=000000}\textit{Claude {\addfontfeature{RawFeature=+swsh}G}aramont’s designs go open source}
-\vfill\vfill
-\today\\\vspace*{2cm}}
-\fontsize{48}{48}{\addfontfeature{Color=980000}
-\char"E001 \char"E002
+ \begin{center}
+  \pagestyle{empty}
+  \vspace*{5cm}
+  \fontsize{48}{48}{\addfontfeature{Color=980000}
+   EB Garamond}\\
+  \vspace*{2cm}
+  {\fontsize{24}{24}\addfontfeature{Color=000000}\textit{Claude {\addfontfeature{RawFeature=+swsh}G}aramont’s designs go open source}
+  \vfill\vfill
+  \today\\\vspace*{2cm}}%<-- superfluous brace. Don’t know, why it’s needed.
+  \fontsize{48}{48}{\addfontfeature{Color=980000}
+  \char"E001 \char"E002}
+ \end{center}\clearpage
 }
-\end{center}\clearpage}
+
 \section{Samples}
+%% Samples that show the font used in different languages.
 \begin{multicols}{2}
+
+%% English
 \paragraph*{Claude Garamond} (ca. 1480 – 1561) was a Parisian publisher. He was one of the leading type designers  of his time, and is credited with the introduction of the apostrophe, the accent and the cedilla to the French language. Several contemporary typefaces, including those currently known as Garamond, Granjon, and Sabon, reflect his influence. Garamond was an apprentice of Simon de Colines; later, he was an assistant to Geoffroy Tory, whose interests in humanist typography and the ancient Greek capital letterforms, or majuscules, may have informed Garamond’s later work.
 
 \textit{Garamond came to prominence in 1541, when three of his Greek typefaces (e.g. the Grecs du roi (1541)) were requested for a royally-ordered book series by Robert Estienne. Garamond based these types on the handwriting of Angelo Vergecio, the King’s Librarian at Fontainebleau, as well as that of his ten-year-old pupil, Henri Estienne. According to Arthur Tilley, the resulting books are “among the most finished specimens of typography that exist.” Shortly thereafter, Garamond created the Roman types for which […]}\\
 {\scriptsize From Wikipedia, the free encyclopedia}
+
+%% Catalan
 \begin{catalan}
 \paragraph*{Claude Garamond}\addfontfeature{Language=Catalan} (París, 1490 - 1561) va ser un tipògraf, impressor i gravador de matrius francès. La seva obra tipogràfica es considera clàssica dins de l’estil antic i d'inspiració per a composicions modernes.
 El 1510 va començar el seu aprenentatge amb el tipògraf i impressor Antoine Augereau. Durant la primera meitat del segle XVI els impressors compartien totes les instàncies en l’elaboració d’un llibre des del disseny tipogràfic fins a l’enquadernació. Claude Garamond va ser el primer que es va especialitzar en el disseny, gravat i foneria de tipus com a servei a altres impressors ajudat pel seu aprenent Jacques Sabon.\par
 \textit{Les referències tipogràfiques de Garamond inclouen els treballs de Conrad Sweynheym, Arnold Pannartz, Erhard Ratdolt, Nicholas Jenson, Aldo Manuzio, Francesco Griffo, Henri, Robert, Ludovicio degli Arrighi de Venècia, Giovani Antonio Tagliente i Giovanbattista Palatino, una llista eclèctica d’experts coneguts per la seva excel·lència tipogràfica. A finals del 1520 Garamond va ser comissionat per a subministrar els seus tipus al famós impressor escolar Robert Estienne.}\\
 {\scriptsize De Viquipèdia}
 \end{catalan}
+
+%% German
 \begin{german}
+%% Use the "locl" feature from the font:
 \addfontfeature{Language=German}
 \paragraph*{Claude Garamond,} auch Garamont, (*1499 (oder 1490) in Paris; †\,1561 in Paris) war ein französischer Schriftgießer, Typograf, Stempelschneider und Verleger. Er schuf die noch heute verwendete Schriftart Garamond.
 
@@ -59,6 +92,7 @@ Claude Garamond lernte das Handwerk des Schriftschneidens bei Geoffroy Tory, er 
 {\scriptsize Aus Wikipedia, der freien Enzyklopädie}
 \end{german}
 
+%% French
 \begin{french}
 \paragraph*{Claude Garamont,} souvent orthographié Garamond (à cause de son pseudonyme Garamondus), né en 1499 à Paris où il est mort en 1561, est un tailleur et fondeur de caractères et un imprimeur français.
 
@@ -70,56 +104,75 @@ Il a appris son métier en étant l’élève d’Antoine Augereau, un tailleur 
 {\scriptsize De Wikipédia, l'encyclopédie libre.}
 \end{french}
 
+%% Portuguese
 \begin{portuges}
 \paragraph*{Claude Garamond} (1480-1561) foi um editor francês. As fontes criadas por Claude Garamond em Paris, a partir de 1530, refinadas dos tipos usados por Aldus Manutius, de 1455, são ainda hoje um referencial tipográfico forte, influenciando diversas interpretações em famílias de letras contemporâneas.
 
 \textit{Como ficou provado no início deste século (1925) por Beatrice Warde (sob a pseudônimo Paul Beaujon), seriam todas essas “descendentes”, em verdade, baseadas nos caracteres da "l’université in the imprimerie royale" de paris.}\\
 {\scriptsize Origem: Wikipédia, a enciclopédia livre.}
 \end{portuges}
+
+%% Italian
 \begin{italian}
 \paragraph*{Claude Garamond} (Parigi, 1499 – Parigi, 1561) è stato un tipografo francese, conosciuto anche con il nome italianizzato di Claudio Garamontio.
 
 Si tratta forse del più famoso incisore di caratteri mobili francese. Creò il grec du Roi (greco del re), cioè il carattere greco con cui erano pubblicate le edizioni dei classici dedicati al re di Francia. Creò inoltre il "romano" una serie di caratteri latini che porta il suo nome (Garamond) e che sarà abbondantemente copiato durante la storia.\\
 {\scriptsize Da Wikipedia, l'enciclopedia libera.}
 \end{italian}
+
+%% Dutch
 \begin{dutch}
 \paragraph*{Claude Garamond} (Parijs, ca. 1480 - aldaar, 1561) was een Parijse graveur van druklettermodellen, uitgever en één van de toonaangevende letterontwerpers van zijn tijd. Sommige van zijn lettertypen zijn nog in gebruik, in het bijzonder het naar hemzelf genoemde Garamond. Ca. 1510 werd Claude Garamond leerlinggraveur bij de drukker Antoine Augereau en rond 1520 werkte hij bij Geoffroy Tory de professor, vertaler, schrijver, boekverkoper, drukker, ontwerper en illustrator. Vanaf ongeveer 1530 werkte Garamond voor zichzelf en vervaardigde hij kant en klare drukletters voor drukkers.\\
 {\scriptsize Uit Wikipedia, de vrije encyclopedie.}
 \end{dutch}
+
+%% Swedish
 \begin{swedish}
 \paragraph*{Claude Garamond} född ca 1490, död 1561, var en fransk typsnittsskapare.
 
 Claude Garamond var troligen lärling hos stämpelskäraren Antoine Augereau. Sent 1520-tal blev Claude kontaktad av parisaren och tryckaren Robert Estienne som önskade en uppsättning antikvor. Dessa typer sågs för första gången i Paraphrasis in Elegantiarum Libros Laurentii Vallae. Många[vem?] anser att ursprunget till Claude Garamonds former kommer ifrån typer skurna åt Aldus Manutius av Francesco da Bologna med släktnamnet Griffo. Återstoden av Claude Garamonds matriser och patris finns numera i Plantin-Moretus Museum i Antwerpen, samt vid Imprimerie Nationale i Paris. Claude Garamond dog 1561.\\
 {\scriptsize Från Wikipedia}
 \end{swedish}
+
+%% Finnish
 \begin{finnish}
 \paragraph*{Claude Garamond} (n.1480–1561) oli ranskalainen kustantaja ja aikansa huomattavimpia kirjainmuotoilijoita.
 
 Yhä edelleen on käytössä useita antiikva-kirjasintyyppejä, jotka perustuvat hänen suunnittelemilleen kirjaimille. Näihin kuuluvat esimerkiksi Garamond No. 3, Garamond No. 5, Adobe Garamond, Simoncini Garamond, ITC Garamond ja Granjon.
 {\scriptsize Wikipedia}
-
 \end{finnish}
-\begin{latin} \addfontfeature{Language=Latin}
+
+%% Latin
+\begin{latin}
+%% Use the "locl" feature from the font:
+\addfontfeature{Language=Latin}
 \paragraph*{\addfontfeature{Language=Latin}Claudius Garamond} (etiam Garamont natus Lutetiae anno 1499 (aut anno 1490) - ibidem mortuus est anno 1561) fuit typographus et editor Francicus, qui clarus est praecipue quia scripturam quae eius nomen Garamond fert creavit.\\
 {\scriptsize E Vicipaedia}
 \end{latin}
 %\clearpage
+
+%% Czech
 \begin{czech}
 \paragraph*{Sazba (od „sázeti“)} je původně tisková forma pro tisk z výšky (knihtisk), tvořená jednotlivými literami, případně obrázky. V širším slova smyslu hotová předloha pro tisk, zejména textová. Řemeslník, který vytvářel „horkou“ sazbu, se nazýval sazeč; s přechodem na modernější tiskové techniky, zejména ofset, pracuje grafik se sázecím programem na počítači.\par
 \textit{Sestavování tiskové formy z pohyblivých kovových liter se objevilo už ve 12.-13. století v Číně, nejstarší dochovaný exemplář je korejská kniha Jikji z roku 1377. Ruční zhotovování liter však bylo nesmírně pracné a technika se užívala jen sporadicky. Kolem roku 1440 udělal mohučský zlatník Johannes Gutenberg několik převratných vynálezů, mezi něž patřilo i odlévání liter. Ručně vyrobený ocelový model litery se zakalil a vyrazil do ocelové matrice, do níž se pak odléval libovolný počet shodných liter. Už Gutenberg také objevil liteřinu, slitinu olova a antimonu, která spojuje nízký bod tání s větší pevností.}\\
 {\scriptsize Z Wikipedie, otevřené encyklopedie.}
 \end{czech}
+
+%% Polish
 \begin{polish}
 \paragraph*{Skład} – termin zecerski (dziś już historyczny) oznaczający tekst, który powstał fizycznie, czyli został ułożony z czcionek lub wierszy linotypowych (a także innych elementów, jak monotypy, linie czy justunek). Skład ma postać szpalty i będzie dopiero łamany. Składem jest także tabela, już złożona, ale jeszcze nie włamana w kolumnę.\par
 \textit{Czynność, w wyniku której powstawał tekst uformowany w taki sposób, nazywano składaniem, i to niezależnie od tego, czy odbywała się ona całkowicie ręcznie, czy też pomagały w niej w pierwszej fazie maszyny odlewające linotypy i monotypy.}\\
 {\scriptsize Z Wikipedii, wolnej encyklopedii.}
 \end{polish}
+
+%% Slovenian
 \begin{slovenian}
 \paragraph*{Johannes Gensfleisch zur Laden zum Gutenberg,} nemški izumitelj, * okoli 1398, Mainz, Nemčija, † 3. februar 1468.\par
 Gutenberg je postal slaven zaradi svojih prispevkov k tehnologiji tiskanja na sredini 15. stoletja. Velja za izumitelja tiska s premičnimi kovinskimi črkami. Izpopolnil je črnilo, zlitine za črke, šablono za natančnejše vstavljanje črk, naredil pa je tudi novo vrsto tiskarske stiskalnice, zasnovane na stiskalnici za grozdje.
 {\scriptsize Iz Wikipedije, proste enciklopedije}
 \end{slovenian}
 
+%% Vietnamese
 \begin{vietnamese}
 \paragraph*{Johannes Gutenberg} (khoảng năm 1390 – 3 tháng 2 năm 1468), là một công nhân đồng thời là một nhà phát minh người Đức. Ông trở nên nổi tiếng vì phát minh ra phương pháp in dấu vào năm những năm 1450.
 
@@ -128,12 +181,20 @@ Gutenberg sinh ở Mainz, nước Đức. Ông là con trai của một thương
 \textit{Gutenberg đã phát minh ra một loại hợp kim dùng cho việc in ấn; mực; và cách cố định chữ in (chữ kim loại) rất chính xác; và một loại máy in mới. Nhiều người cho rằng Gutenberg đã phát minh ra loại bản in mẫu trượt ở châu Âu, nhưng thực ra nó đã được phát minh ra ở Triều Tiên trước đó.}\\
 {\scriptsize Bách khoa toàn thư mở Wikipedia}
 \end{vietnamese}
+
+%% Serbian
 \begin{serbian}
+%% Switch to triangular shaped д, л and љ
 \addfontfeature{RawFeature=+ss01}
-\paragraph*{\addfontfeature{RawFeature=+ss01}\addfontfeature{Language=Serbian}Јохан Гутенберг} (нем. Johannes Gensfleisch zur Laden zum Gutenberg) (око 1400, Мајнц – 3.~фебруар 1468), је био немачки металски радник и сматра се проналазачем технике штампања металним помичним словима. Идеја те технике је била већ дуже позната али до тада није била усавршена у тој мери. Познати су и наводи да је та техника већ раније била реализована у Кини, Кореји и Јапану. Најстарија још учувана штампана књига датира из 868. године. Године 1041. се у Кини појављују и први примерци штампаних књига техником металних покретних слова и као проналазач се наводи извесни Би Шенг. Гутенбергова заслуга, као оца модерног штампарства, се састоји у усавршавању појединачних покретних слова, легура олова, антимона и калаја у техници високе штампе, али и тадашњи проналазак штампарске пресе.\par
+\paragraph*{%\addfontfeature{RawFeature=+ss01}
+ %% Use the "locl" feature from the font
+ \addfontfeature{Language=Serbian}%
+ Јохан Гутенберг} (нем. Johannes Gensfleisch zur Laden zum Gutenberg) (око 1400, Мајнц – 3.~фебруар 1468), је био немачки металски радник и сматра се проналазачем технике штампања металним помичним словима. Идеја те технике је била већ дуже позната али до тада није била усавршена у тој мери. Познати су и наводи да је та техника већ раније била реализована у Кини, Кореји и Јапану. Најстарија још учувана штампана књига датира из 868. године. Године 1041. се у Кини појављују и први примерци штампаних књига техником металних покретних слова и као проналазач се наводи извесни Би Шенг. Гутенбергова заслуга, као оца модерног штампарства, се састоји у усавршавању појединачних покретних слова, легура олова, антимона и калаја у техници високе штампе, али и тадашњи проналазак штампарске пресе.\par
 \textit{О његовом животу је веома мало познато и велики дио информација су само претпоставке. Његов брат Фриле Генсфлајш (нем. Friele Gensfleisch) је рођен у Елтвилу где је вероватно, са Гутенбергом основао малу штампарију и где је провео цели свој животни век (1434.-1447.).}\\
 {\scriptsize Из Википедије, слободне енциклопедије}
 \end{serbian}
+
+%% Russian
 \begin{russian}
 \paragraph*{Клод Гарамо́н} (ок. 1500—1561) — парижский пуансонист, печатник, одна из важнейших фигур французского ренессанса. Он был учеником печатников Антуана Ожеро и Симона де Колина. Позже основал небольшую книгопечатню неподалеку от Сорбонны.\par
 Впервые известность к Гарамону пришла в 1540-х гг., когда он вырезал grecs du roi — три греческих курсива для издания классиков, поддержанного королём. Позже Гарамон вырезал и другие шрифты, в том числе прямой. Его шрифты, основаны в первую очередь на альдовых, но достаточно оригинальны. В курсивах Гарамона впервые появляются наклонные прописные, а также т. н. росчерки (swash).\par
@@ -141,11 +202,14 @@ Gutenberg sinh ở Mainz, nước Đức. Ông là con trai của một thương
 \\
 {\scriptsize из Википедии — свободной энциклопедии}
 \end{russian}
+
+%% Bulgarian
 \begin{bulgarian}
 \paragraph*{Йоханес Генсфлайш цур Ладен цум Гутенберг} (на немски: Johannes Gensfleisch zur Laden zum Gutenberg) е германски златар и печатар, основоположник на съвременното книгопечатане. Изобретеният от него машинен печат с подвижен набор поставя началото на революция в печатането и често е определяно като едно от най-важните събития на Новото време. Изобретението му оказва силно влияние върху развитието на Ренесанса, Реформацията и Научната революция и поставя материалните основи на съвременната икономика на знанието и демократизация на образованието.\\
 {\scriptsize от Уикипедия, свободната енциклопедия}
 \end{bulgarian}
 
+%% Ukrainian
 \begin{ukrainian}
 \paragraph*{Йо́ганн Гутенбе́рг} (Johann Gutenberg) (* 1397-1400,
 Майнц (Німеччина) — † 3 лютого 1468) — європей-
@@ -161,6 +225,7 @@ Gutenberg sinh ở Mainz, nước Đức. Ông là con trai của một thương
 {\scriptsize з Вікіпедії — вільної енциклопедії.}
 \end{ukrainian}
 
+%% Mongolian
 \paragraph*{Иоханнэс Гутэнбэрг} (Герман хэл: Johannes Gensfleisch
 zur Laden zum Gutenberg; 1398 онд төрж 1468
 оны 2 дугаар сарын 3-нд нас барсан) нь 1439 оны
@@ -172,6 +237,7 @@ zur Laden zum Gutenberg; 1398 онд төрж 1468
 техникийн чанараараа үнэлэгдсээр ирсэн.\\
 {\scriptsize Чөлөөт нэвтэрхий толь, Википедиагаас}
 
+%% Mari
 \paragraph*{Ио́ганн Генсфляйш цур Ладен цум Гу́тенберг} (нем.
 Johannes Gensfleisch zur Laden zum Gutenberg, 1397
 и дон 1400 и лошты, Майнц — 3 февраль 1468,
@@ -179,18 +245,22 @@ Johannes Gensfleisch zur Laden zum Gutenberg, 1397
 книгӓм пецӓтлӹмӹ станым шанен лыкшы.\\
 {\scriptsize Ирӹкӓн энциклопеди Википеди гӹц материал}
 
-
+%% Rusyn
 \paragraph*{Йоганн Ґутенберґ} (1397/1400, Могуч – 3. února
 1468, Могуч) быв вынаходником технолоґії
 механічного книгтиску помочов рушаючіх ся писмен.\\
 {\scriptsize Матеріал з Вікіпедії}
+
+%% Greek
 \begin{greek}
 \paragraph*{Ο Ιωάννης Γουτεμβέργιος} (πλήρες γερμ. όνομα Johannes Gensfleisch zur Laden zum Gutenberg) γεννήθηκε κατά την επικρατέστερη εκδοχή το 1397 και απεβίωσε στις 3 Φεβρουαρίου του 1468 σε ηλικία 71 ετών. Τόπος γέννησής του είναι το Μάιντς (Mainz) της Γερμανίας και θεωρείται ο «πατέρας» της τυπογραφίας. Περίπου στα 1430 εγκαταστάθηκε στο Στρασβούργο. Τον Μάρτιο του 1434, ένα γράμμα του υποδεικνύει ότι εκείνη την εποχή διέμενε εκεί, όπου είχε κάποιους συγγενείς από την πλευρά της μητέρας του. Στο Στρασβούργο άρχισε να πειραματίζεται στη μεταλλουργία και στα 1434 έκανε τα πρώτα του βήματα στην τυπογραφία.\par
 \textit{Ο Γουτεμβέργιος θεωρείται ο «πατέρας» της μηχανικής εκτύπωσης μολονότι είχαν ήδη κατασκευαστεί κινητά τυπογραφικά στοιχεία από τον Ολλανδό Λαυρέντιο Κοστέρ στο Χάρλεμ, γιατί εκείνος συνέλαβε πρώτος την ιδέα της τυπογραφικής μεθόδου στο σύνολό της.}
 \\
 {\scriptsize Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια}
 \end{greek}\\
-%\begin{greek}[variant=ancient]
+
+%% Ancient Greek
+\begin{greek}[variant=ancient]
     Μῆνιν ἄειδε, θεά, Πηληϊάδεω Ἀχιλῆος
     οὐλομένην, ἣ μυρί' Ἀχαιοῖς ἄλγε' ἔθηκε,
     πολλὰς δ' ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν
@@ -212,23 +282,28 @@ Johannes Gensfleisch zur Laden zum Gutenberg, 1397
     τῶν ἁμόθεν γε, θεά, θύγατερ Διός, εἶπε καὶ ἡμῖν. \par
 
 }
-%\end{greek}
-
+\end{greek}
 
 \end{multicols}
-%\end{landscape}
+
 \clearpage
+
+%% Documentation of the Opentype features
 \section{Features}
+
+The Opentype specs recommend some features to be enabled by default. As this is not mandatory, engines may decide to leave it to the user to activate them. Features that should be on by default are marked with an asterisk (*). All other features have to be enabled when they are required.
+
 \subsection{Locals}
-\paragraph*{German} prevents f-ligatures that are usually not allowed like fb, fh, fj, ffb, etc. because they would only occur at \enquote{Wortfugen}: {\addfontfeature{Language=German}Laufband, aufjagen, Sauerstoffflasche,…}
+\paragraph*{German} prevents f-ligatures that are usually not allowed like fb, fh, fj, ffb, etc. because they would only occur at \enquote{Wortfugen}: {\addfontfeature{Language=German}Laufband, aufjagen, Sauerstoffflasche,…}\par
+In general it has to be noted that in German typography, ligatures are a complex matter, tied to the language’s morphology. There’s no way to apply them automatically without manual intervention. Efforts have been made to alleviate this task, like Mico Loretan’s \textsc{selnolig}\footnote{https://github.com/micoloretan/selnolig} for LuaLaTeX. Still, if in doubt, better leave the ligatures away!
 \paragraph*{Turkish, Azerbaijani, Crimtatar} correct replacement of i/ı as smallcaps etc.
 \paragraph*{Latin} replaces U by V, initial u by v and non-initial v by u: universalis → {\addfontfeature{Language=Latin} universalis}
 \paragraph*{Catalan} Correct positioning of “·” between two “l”s: {\addfontfeature{Language=Catalan}PARAL·LEL, paral·lel, \textsc{paral·lel}, \textit{PARAL·LEL, paral·lel, \textsc{paral·lel}}\\{\scriptsize PARAL·LEL, paral·lel, \textit{paral·lel}, \textsc{paral·lel}}}
 \paragraph*{Serbian/Macedonian} replaces б by \begin{serbian}б\end{serbian} and italic \textit{б, д, г, п, т, ш, ѓ} by \begin{serbian}\itshape б, д, г, п, т, ш, ѓ\end{serbian}
 
 \subsection{Character Composition and Decomposition}
-\paragraph*{ccmp} contains rules for composing characters with combining diacritics.
-\paragraph*{ss20} decomposes precomposed characters into combinations of base characters and combining diacritics (or special variants thereof) conforming to the Unicode Normalization Charts.
+\paragraph*{ccmp*} contains rules for composing characters with combining diacritics like suppressing the tittle on i and j when they take an above diacritic: i + \textasciicircum → i\char"302, or to use flatter version when stacking diacritics: a\char"302\char"300, e\char"304\char"301, u\char"308\char"301\ and flatter diacritics on glyphs with ascenders: l\char"301.
+\paragraph*{ss20} decomposes precomposed characters into combinations of base characters and combining diacritics (or special variants thereof) conforming to the Unicode Normalization Charts. This is useful in cases when the desired precomposed forms don’t exist in the font but their components do (see smallcaps). This feature can be used to exchange a diacritic with an alternate form (see Greek variants).
 
 \subsection{Figures}
 This font is primarily intended for texts. Thus default figures are oldstyle proportional so they fit best in a text setting. For many purposes though, tabular (all figures have the same width) and/or lining figures (they are about caps height) are preferred. They can be accessed using the features \texttt{tnum} and \texttt{lnum}.
@@ -261,15 +336,15 @@ The features \texttt{smcp} and \texttt{c2sc} replace lower and uppercase glyphs 
 \paragraph*{c2sc+scmp:} \textsc{\addfontfeature{RawFeature=+c2sc}Tramway, Straßenbahn, Métro}
 
 \subsection{Ligatures}
-\paragraph*{Standard Ligatures} (feature \texttt{liga}, on by default): f and ſ + letter with ascender and f/ſ+i get replaced by a ligature: fluffy, ſhy, official;\\
+\paragraph*{Standard Ligatures*} (feature \texttt{liga}): f and ſ + letter with ascender and f/ſ+i get replaced by a ligature: fluffy, ſhy, official;\\
 Additionally in italic: Q and g + descending character: \textit{egg, nagy, gjuha, Qyteti} 
-\paragraph*{Historical Ligatures} (feature \texttt{hlig}, off by default): historical ligatures for s+t and c+t and for s+p and s+k (the latter two italic only): {\addfontfeature{RawFeature=+hlig}standard, acta, \textit{speak, skies, standard, select}}
-\paragraph*{Contextual Ligatures} (feature \texttt{clig}, on by default, italic only): ligatures for final s after a, e, i and u: \textit{%\addfontfeature{RawFeature=+clig}
+\paragraph*{Historical Ligatures} (feature \texttt{hlig}): historical ligatures for s+t and c+t and for s+p and s+k (the latter two italic only): {\addfontfeature{RawFeature=+hlig}standard, acta, \textit{speak, skies, standard, select}}
+\paragraph*{Contextual Ligatures*} (feature \texttt{clig}, italic only): ligatures for final s after a, e, i and u: \textit{%\addfontfeature{RawFeature=+clig}
 finalis, ligatures, humus, rosas}
 \paragraph*{Discretionary Ligatures} (feature \texttt{dlig}): T+h ligature: \addfontfeature{RawFeature=+dlig} Théatre, \textit{Theorie}
 
-\subsection{Contextual Alternates}
-The feature \texttt{calt} (should be on by default) controls the behaviour of contextually conditioned lettershapes. This allows to have a long-bowed \enquote{f} and \enquote{ſ} like in the original font wherever the bow doesn’t collide with the next letter or cover an empty space: gefährlich fahren, ſüße Weſen;\\
+\subsection{Contextual Alternates*}
+The feature \texttt{calt} controls the behaviour of contextually conditioned lettershapes. This allows to have a long-bowed \enquote{f} and \enquote{ſ} like in the original font wherever the bow doesn’t collide with the next letter or cover an empty space: gefährlich fahren ſüße Weſen;\\
 The long tailed Q is managed by this feature too: Qui, Quis, Quo, \textsc{Shqipëria}, IRAQ, 
 
 \subsection{Swash}
@@ -292,9 +367,15 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 \paragraph*{cv04:} Alternate ampersand (only italic): \textit{\&} → \textit{\addfontfeature{RawFeature=+cv04}\&}
 
 \paragraph*{cv05:} Alternate forms of v (only italic): 
-\textit{v → {\addfontfeature{CharacterVariant=5:1}v}}, \textit{\addfontfeature{CharacterVariant=5:2}v}, \textit{\addfontfeature{CharacterVariant=5:3}v}
+%% due to a bug in fontspec this doesn’t work as expected:
+%\textit{v → {\addfontfeature{CharacterVariant=5:0}\addfontfeature{CharacterVariant=5:1}v}}, \textit{\addfontfeature{CharacterVariant=5:2}v}, \textit{\addfontfeature{CharacterVariant=5:3}v}
+{\fontspec{EB Garamond 12 Italic} v →
+\addfontfeature{CharacterVariant=5:0} v,
+\addfontfeature{CharacterVariant=5:1} v,
+\addfontfeature{CharacterVariant=5:2} v,
+\addfontfeature{CharacterVariant=5:3} v}
 
-\paragraph*{cv06:} Alternate forms of guillemets (narrower): « ‹ › » → {\addfontfeature{RawFeature=+cv06}« ‹ › »}
+\paragraph*{cv06:} Alternate forms of guillemets (narrower): {\addfontfeature{RawFeature=-cv06}« ‹ › »} → {\addfontfeature{RawFeature=+cv06}« ‹ › »}
 
 \paragraph*{cv11:} Variants for the numeral one: some publishers prefer a numeral one that’s clearly different from small cap i: \textsc{i123} vs. {\addfontfeature{RawFeature={+cv11,+smcp}}i123}
 
@@ -324,6 +405,8 @@ Planned: alternate β, ε, θ, κ, π, ρ, σ, φ;\\
 \paragraph*{ss06:} variants of greek letters that fit better with the other (latin) letters used in the IPA: β, θ, λ, χ → {\addfontfeature{RawFeature=+ss06}β, θ, λ, χ}
 
 \clearpage
+
+%% Show the glyphs
 \section{Glyphs}
 \fontsize{16}{16}
 \begin{center}
