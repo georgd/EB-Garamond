@@ -2,7 +2,9 @@ StartChar: Ohorn.sc
 Encoding: 66506 -1 2509
 Width: 524
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -14 35<190.135 317.929 190.135 317.929> 375 40<529.771 582.462 529.771 582.462> 424 36<274.653 411.3 274.653 411.3>
+VStem: 56 82<76.2706 257.752 76.2706 257.752> 456 82<199.331 378.118 199.331 378.118> 586 59<422.222 494 422.222 494>
 AnchorPoint: "below_accent" 215 -100 basechar 0
 AnchorPoint: "top_accent" 393 580 basechar 0
 LayerCount: 2
