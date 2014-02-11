@@ -80,11 +80,13 @@ Agrave.sc Aacute.sc Acircumflex.sc Atilde.sc Adieresis.sc Aring.sc AE.sc Egrave.
     f f_f f_i f_l f_f_i f_f_l longs_t s_t f_f.short f.short f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.long longs_longs.long f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t  f.DEU
 ];
 
-@SMALLCAPS_BASIS = [ @letters ];
+@SMALLCAPS_BASIS = [ @letters 
+	i.dotless j.dotless ];
 @SMALLCAPS = [ a.sc-z.sc 
 	 agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc ae.sc ccedilla.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc eth.sc ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc multiply.sc oslash.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc yacute.sc thorn.sc germandbls.sc divide.sc amacron.sc abreve.sc aogonek.sc cacute.sc ccircumflex.sc cdotaccent.sc ccaron.sc dcaron.sc dcroat.sc emacron.sc ebreve.sc edotaccent.sc eogonek.sc ecaron.sc gcircumflex.sc gbreve.sc gdotaccent.sc uni0123.sc hcircumflex.sc hbar.sc itilde.sc imacron.sc ibreve.sc iogonek.sc i.TRKsc dotlessi.sc ij.sc jcircumflex.sc uni0137.sc kgreenlandic.sc lacute.sc uni013C.sc lcaron.sc ldot.sc lslash.sc nacute.sc uni0146.sc ncaron.sc eng.sc omacron.sc obreve.sc ohungarumlaut.sc oe.sc racute.sc uni0157.sc rcaron.sc sacute.sc scircumflex.sc scedilla.sc scaron.sc uni0163.sc tcaron.sc tbar.sc utilde.sc umacron.sc ubreve.sc uring.sc uhungarumlaut.sc uogonek.sc wcircumflex.sc ycircumflex.sc ydieresis.sc zacute.sc zdotaccent.sc zcaron.sc s.sc 
 	ohorn.sc uhorn.sc
-	f.sc f.sc u.sc v.sc s.sc ];
+	f.sc f.sc u.sc v.sc s.sc 
+	i.sc j.sc ];
 @C2SC_BASIS = [ @LETTERS ];
 @C2SC = [ A.sc-Z.sc
 	Agrave.sc Aacute.sc Acircumflex.sc Atilde.sc Adieresis.sc Aring.sc AE.sc Ccedilla.sc Egrave.sc Eacute.sc Ecircumflex.sc Edieresis.sc Igrave.sc Iacute.sc Icircumflex.sc Idieresis.sc Eth.sc Ntilde.sc Ograve.sc Oacute.sc Ocircumflex.sc Otilde.sc Odieresis.sc Oslash.sc Ugrave.sc Uacute.sc Ucircumflex.sc Udieresis.sc Yacute.sc Thorn.sc 
