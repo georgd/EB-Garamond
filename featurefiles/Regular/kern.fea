@@ -14,8 +14,9 @@
 @first_Ohorn = [ Ohorn ];
 @first_osc = [ O.sc o.sc D.sc d.sc Eth.sc eth.sc ];
 @first_P   = [ P ];
+@first_R   = [ R Rcaron Racute uni0156 ];
 @first_rsc = [ R.sc r.sc ];
-@first_T   = [ T uni01AC uni01AE uni023E ];
+@first_T   = [ T uni0162 Tcaron Tbar uni01AC uni01AE uni023E ];
 @first_tsc = [ T.sc t.sc ];
 @first_usc = [ U.sc u.sc ];
 @first_V   = [ V W uni0194 ];
@@ -43,11 +44,13 @@
 @second_A_topacc = @first_A_topacc;
 @second_A_botacc = @first_A_botacc;
 @second_asc = @first_asc;
+@second_B   = [ B D E F H I J K L M N P R 
+	Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex uni0136 Lacute uni013B Lcaron Ldot Lslash Nacute uni0145 Ncaron Eng Racute uni0156 Rcaron ];
 @second_bsc = [ B.sc b.sc D.sc d.sc E.sc e.sc F.sc f.sc H.sc h.sc K.sc k.sc L.sc l.sc M.sc m.sc N.sc n.sc P.sc p.sc R.sc r.sc U.sc u.sc ];
 @second_csc = [ C.sc c.sc G.sc g.sc O.sc o.sc Q.sc q.sc S.sc s.sc ];
 @second_isc = [ I.sc i.sc dotlessi.sc ];
 @second_O   = [ C G O Ohorn Q ];
-@second_T   = [ T ];
+@second_T   = [ T uni0162 Tcaron Tbar ];
 @second_tsc = @first_tsc;
 @second_usc = [ U.sc u.sc ];
 @second_V   = @first_V;
@@ -117,15 +120,15 @@
 @all_A = [ @first_A @first_A_topacc @first_A_botacc ];
 
 lookup kern {
-    pos @all_A @second_O -50;
-    pos @all_A @second_T -85;
-    pos @all_A @second_V -150;
-    pos @all_A @second_Y -65;
+    pos @all_A @second_O -60;
+    pos @all_A @second_T -95;
+    pos @all_A @second_V -160;
+    pos @all_A @second_Y -75;
     pos @all_A @second_v -70;
     pos @all_A @second_tsc -35;
     pos @all_A @second_vsc -70;
-    pos @all_A @second_quoteright -35;
-    pos @all_A @second_halfring -70;
+    pos @all_A @second_quoteright -45;
+    pos @all_A @second_halfring -80;
 
     pos @first_asc @second_csc -25;
     pos @first_asc @second_tsc -30;
@@ -189,6 +192,12 @@ lookup kern {
     pos @first_P @second_period -75;
 #   pos @first_P @second_colon -25;
 
+	pos @first_R @second_A		40;
+	pos @first_R @second_O	   -60;
+	pos @first_R @second_T	  -100;
+	pos @first_R @second_V	  -115;
+	pos @first_R @second_Y	   -80;
+
     pos @first_rsc @second_csc -30;
     pos @first_rsc @second_tsc -40;
     pos @first_rsc @second_vsc -60;
@@ -196,6 +205,7 @@ lookup kern {
 
     pos @first_T @all_A         -85;
     pos @first_T @second_O      -30;
+    pos @first_T @second_V		 40;
     pos @first_T @second_asc    -60;
     pos @first_T [ @second_bsc @second_isc ] -90;
     pos @first_T @second_csc    -135;
@@ -416,7 +426,9 @@ lookup kern {
     pos @first_V @second_colon  -100;
     
     pos @first_Y @all_A         -50;
+    pos @first_Y @second_B		 60;
     pos @first_Y @second_O      -25;
+    pos @first_Y @second_T		 40;
     pos @first_Y @second_asc    -90;
     pos @first_Y [ @second_bsc @second_isc ] -50;
     pos @first_Y @second_csc    -85;
