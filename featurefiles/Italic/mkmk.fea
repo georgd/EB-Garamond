@@ -24,83 +24,68 @@ lookup mkmk {
   markClass [\acutecomb.grk ] <anchor 36 523> @top_stack;
   markClass [\uni0308.sc ] <anchor 116 474> @top_stack;
   markClass [\acutecomb.cap ] <anchor 52 710> @top_stack;
-  markClass [\gravecomb.stack ] <anchor 76 456> @gravestack;
-  markClass [\gravecomb.capstack ] <anchor 170 710> @gravestack;
   markClass [\acutecomb.stack ] <anchor 18 456> @acutestack;
   markClass [\acutecomb.capstack ] <anchor 0 710> @acutestack;
+  markClass [\gravecomb.stack ] <anchor 76 456> @gravestack;
+  markClass [\gravecomb.capstack ] <anchor 170 710> @gravestack;
   markClass [\hookabovecomb.stack ] <anchor 140 501> @hookstack;
   markClass [\hookabovecomb.cap ] <anchor 42 743> @hookstack;
   markClass [\gravecomb.grk \acutecomb.grk \gravecomb.grkstack \acutecomb.grkstack ] <anchor 5 640> @grk_hstack;
   pos mark [\tildecomb ] <anchor 193 644> mark @top_stack;
-  pos mark [\uni0308 ] <anchor 122 579> mark @acutestack
+  pos mark [\uni0308 ] <anchor 141 579> mark @gravestack
 	<anchor 136 636> mark @top_stack
-	<anchor 141 579> mark @gravestack;
-  pos mark [\uni0302.cap ] <anchor 187 830> mark @top_stack
-	<anchor 53 758> mark @gravestack
+	<anchor 122 579> mark @acutestack;
+  pos mark [\uni0302.cap ] <anchor 285 775> mark @hookstack
 	<anchor 277 758> mark @acutestack
-	<anchor 285 775> mark @hookstack;
+	<anchor 53 758> mark @gravestack
+	<anchor 187 830> mark @top_stack;
   pos mark [\tildecomb.cap ] <anchor 159 820> mark @top_stack;
   pos mark [\uni0304.cap ] <anchor 155 819> mark @top_stack;
-  pos mark [\uni0306.cap ] <anchor 142 851> mark @top_stack
-	<anchor 89 811> mark @acutestack
+  pos mark [\uni0306.cap ] <anchor 189 807> mark @gravestack
 	<anchor 85 822> mark @hookstack
-	<anchor 189 807> mark @gravestack;
+	<anchor 89 811> mark @acutestack
+	<anchor 142 851> mark @top_stack;
   pos mark [\uni0307.cap ] <anchor 76 830> mark @top_stack;
-  pos mark [\uni0308.cap ] <anchor 179 825> mark @top_stack
+  pos mark [\uni0308.cap ] <anchor 120 816> mark @acutestack
 	<anchor 186 814> mark @gravestack
-	<anchor 120 816> mark @acutestack;
+	<anchor 179 825> mark @top_stack;
   pos mark [\uni030A.cap ] <anchor 94 873> mark @top_stack;
   pos mark [\uni030C.cap ] <anchor 151 850> mark @top_stack;
   pos mark [\uni0342 ] <anchor 152 632> mark @top_stack;
   pos mark [\uni0307.stack ] <anchor 68 640> mark @top_stack;
   pos mark [\uni030A.stack ] <anchor 129 639> mark @top_stack;
   pos mark [\acutecomb.flat ] <anchor 98 649> mark @top_stack;
-  pos mark [\uni0304.stack ] <anchor 188 590> mark @top_stack
+  pos mark [\uni0304.stack ] <anchor 182 570> mark @acutestack
 	<anchor 186 570> mark @gravestack
-	<anchor 182 570> mark @acutestack;
+	<anchor 188 590> mark @top_stack;
   pos mark [\gravecomb.flat ] <anchor 123 650> mark @top_stack;
-  pos mark [\uni0302.stack ] <anchor 70 558> mark @gravestack
-	<anchor 167 640> mark @top_stack
+  pos mark [\uni0302.stack ] <anchor 216 564> mark @hookstack
 	<anchor 202 558> mark @acutestack
-	<anchor 216 564> mark @hookstack;
-  pos mark [\uni030C.stack ] <anchor 108 635> mark @top_stack
+	<anchor 167 640> mark @top_stack
+	<anchor 70 558> mark @gravestack;
+  pos mark [\uni030C.stack ] <anchor 93 580> mark @gravestack
 	<anchor 99 580> mark @acutestack
-	<anchor 93 580> mark @gravestack;
-  pos mark [\tildecomb.stack ] <anchor 169 600> mark @top_stack
+	<anchor 108 635> mark @top_stack;
+  pos mark [\tildecomb.stack ] <anchor 185 590> mark @acutestack
 	<anchor 180 590> mark @gravestack
-	<anchor 185 590> mark @acutestack;
-  pos mark [\uni0306.stack ] <anchor 190 565> mark @hookstack
-	<anchor 178 566> mark @acutestack
+	<anchor 169 600> mark @top_stack;
+  pos mark [\uni0306.stack ] <anchor 205 617> mark @top_stack
 	<anchor 194 566> mark @gravestack
-	<anchor 205 617> mark @top_stack;
+	<anchor 178 566> mark @acutestack
+	<anchor 190 565> mark @hookstack;
   pos mark [\uni0308.grkstack ] <anchor 148 551> mark @top_stack;
   pos mark [\uni0313.grk \uni0314.grk ] <anchor 130 640> mark @grk_hstack;
   pos mark [\uni0313.grkstack ] <anchor 55 650> mark @top_stack;
   pos mark [\uni0314.grkstack ] <anchor 65 650> mark @top_stack;
-  pos mark [\tildecomb.capstack ] <anchor 201 818> mark @gravestack
-	<anchor 93 818> mark @acutestack;
-  pos mark [\uni0308.sc ] <anchor 148 636> mark @top_stack
+  pos mark [\tildecomb.capstack ] <anchor 93 818> mark @acutestack
+	<anchor 201 818> mark @gravestack;
+  pos mark [\uni0308.sc ] <anchor 152 570> mark @acutestack
 	<anchor 143 570> mark @gravestack
-	<anchor 152 570> mark @acutestack;
+	<anchor 148 636> mark @top_stack;
   pos mark [\uni033E ] <anchor 148 711> mark @top_stack;
 } mkmk;
 
 feature mkmk {
-  script DFLT;
-     language dflt ;
-      lookup mkmk;
-  script cyrl;
-     language dflt ;
-      lookup mkmk;
-     language SRB  exclude_dflt;
-      lookup mkmk;
-     language MKD  exclude_dflt;
-      lookup mkmk;
-     language BGR  exclude_dflt;
-      lookup mkmk;
-  script grek;
-     language dflt ;
-      lookup mkmk;
   script latn;
      language dflt ;
       lookup mkmk;
@@ -115,6 +100,21 @@ feature mkmk {
      language CAT  exclude_dflt;
       lookup mkmk;
      language LAT  exclude_dflt;
+      lookup mkmk;
+  script grek;
+     language dflt ;
+      lookup mkmk;
+  script cyrl;
+     language dflt ;
+      lookup mkmk;
+     language SRB  exclude_dflt;
+      lookup mkmk;
+     language MKD  exclude_dflt;
+      lookup mkmk;
+     language BGR  exclude_dflt;
+      lookup mkmk;
+  script DFLT;
+     language dflt ;
       lookup mkmk;
 
 } mkmk;
