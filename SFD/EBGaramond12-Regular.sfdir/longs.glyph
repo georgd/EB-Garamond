@@ -1,5 +1,5 @@
 StartChar: longs
-Encoding: 318 383 19
+Encoding: 383 383 19
 Width: 261
 VWidth: 0
 Flags: HMW
@@ -1487,6 +1487,7 @@ EndSplineSet
 Fore
 Refer: 1126 -1 N 1 0 0 1 0 0 2
 Validated: 1
+Substitution2: "Single Substitution lookup 105 subtable" longs.short
 Substitution2: "Single Substitution lookup 104 subtable" longs.short
 Substitution2: "Single Substitution lookup 103 subtable" longs.short
 Substitution2: "Single Substitution lookup 89 subtable" longs._longs

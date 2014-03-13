@@ -1,5 +1,5 @@
 StartChar: uni1E9D
-Encoding: 1211 7837 2229
+Encoding: 7837 7837 2229
 Width: 295
 VWidth: 0
 Flags: HMW
@@ -41,6 +41,7 @@ SplineSet
  418 630 411 606 384 606 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "Single Substitution lookup 105 subtable" uni1E9D.short
 Substitution2: "Single Substitution lookup 104 subtable" uni1E9D.short
 Substitution2: "Single Substitution lookup 103 subtable" uni1E9D.short
 EndChar

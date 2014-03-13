@@ -1,5 +1,5 @@
 StartChar: longs_longs
-Encoding: 2009 -1 1127
+Encoding: 65616 -1 1127
 Width: 516
 VWidth: 0
 Flags: HMW
@@ -7,6 +7,7 @@ LayerCount: 3
 Fore
 Refer: 1049 -1 N 1 0 0 1 0 0 2
 Validated: 1
+Substitution2: "Single Substitution lookup 105 subtable" longs_longs.short
 Substitution2: "Single Substitution lookup 104 subtable" longs_longs.short
 Substitution2: "Single Substitution lookup 103 subtable" longs_longs.short
 LCarets2: 1 0 
