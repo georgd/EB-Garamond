@@ -3,8 +3,8 @@ Encoding: 66090 -1 1682
 Width: 497
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top_right" 531 450 basechar 0
 AnchorPoint: "top_right1" 539 457 basechar 0
+AnchorPoint: "top_right" 531 450 basechar 0
 AnchorPoint: "ogonek" 173 18 basechar 0
 AnchorPoint: "below_accent" 222 -100 basechar 0
 AnchorPoint: "top_accent" 311 580 basechar 0
@@ -35,5 +35,6 @@ SplineSet
  194 58 193 33 232 32 c 2
  343 30 l 2
 EndSplineSet
+Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=65 dv=0
 Comment: "." 
 EndChar

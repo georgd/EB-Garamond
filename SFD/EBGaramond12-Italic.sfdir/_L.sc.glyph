@@ -3,13 +3,14 @@ Encoding: 66058 -1 1650
 Width: 497
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top_right" 531 450 basechar 0
 AnchorPoint: "top_right1" 539 457 basechar 0
+AnchorPoint: "top_right" 531 450 basechar 0
 AnchorPoint: "ogonek" 173 18 basechar 0
 AnchorPoint: "below_accent" 222 -100 basechar 0
 AnchorPoint: "top_accent" 311 580 basechar 0
 LayerCount: 2
 Fore
 Refer: 1682 -1 N 1 0 0 1 0 0 2
+Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=65 dv=0
 Comment: "." 
 EndChar
