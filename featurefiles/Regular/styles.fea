@@ -127,6 +127,14 @@ feature cv82 {
     lookup cv82;
 } cv82;
 
+lookup chi_alts {
+	 sub  chi from [ chi.a1 chi.a2 chi.a3 chi.a4 chi.a5 chi.a6 ] ;
+} chi_alts;
+
+feature cv83 {
+	 lookup chi_alts;
+ } cv83;
+
 lookup salt {
     sub [ uni019F uni0275 ] by [ uni019F.alt uni0275.alt ];
 } salt;
