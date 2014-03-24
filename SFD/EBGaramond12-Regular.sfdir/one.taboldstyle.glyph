@@ -26,8 +26,27 @@ SplineSet
  145 24 201 27 201 68 c 6
 EndSplineSet
 Fore
-Refer: 50 49 N 1 0 0 1 93 0 2
-Validated: 1
+SplineSet
+202 68 m 2
+ 202 333 l 2
+ 202 380 151 380 124 384 c 0
+ 119 384 117 390 117 395 c 0
+ 117 401 119 406 124 406 c 0
+ 184 406 193.524414062 403 238 403 c 24
+ 281.6953125 403 292 406 350 406 c 0
+ 356 406 358 401 358 396 c 0
+ 358 391 355 385 350 384 c 0
+ 322 378 274 379 274 333 c 2
+ 274 68 l 2
+ 274 29 316 28 360 22 c 0
+ 368 21 372 15 372 9 c 0
+ 372 3 368 -3 360 -3 c 0
+ 303 -3 285.620117188 2 238 2 c 24
+ 189.600585938 2 168 -3 114 -3 c 0
+ 107 -3 103 4 103 11 c 0
+ 103 17 106 22 114 22 c 0
+ 141 24 202 27 202 68 c 2
+EndSplineSet
 Substitution2: "one_variants subtable" one.taboldstyle01
 Substitution2: "'pnum' Proportionalziffern lookup 36 subtable" one
 Substitution2: "'lnum' Lining Figures lookup 33 subtable" one.tablining

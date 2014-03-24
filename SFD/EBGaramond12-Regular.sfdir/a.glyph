@@ -3,10 +3,10 @@ Encoding: 97 97 0
 Width: 399
 VWidth: 0
 Flags: HMW
-AnchorPoint: "cedilla" 303 8 basechar 0
-AnchorPoint: "ogonek" 341 18 basechar 0
 AnchorPoint: "below_accent" 178 -100 basechar 0
 AnchorPoint: "top_accent" 191 550 basechar 0
+AnchorPoint: "cedilla" 303 8 basechar 0
+AnchorPoint: "ogonek" 341 18 basechar 0
 LayerCount: 3
 Back
 Image: 92 136 2 276 0 ffffffff -42 548.036 5.22826 5.2135 0
@@ -702,7 +702,7 @@ SplineSet
  306 70 313 32 342 32 c 0
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 115 subtable" a.sc
+Substitution2: "Single Substitution lookup 116 subtable" a.sc
 Substitution2: "Smallcaps1 subtable" a.sc
 AlternateSubs2: "alternate_a subtable" a.01
 Substitution2: "sups subtable" a.sups
