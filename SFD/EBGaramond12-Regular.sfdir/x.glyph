@@ -810,7 +810,7 @@ SplineSet
  60 1 48 -4 30 -4 c 0
  22 -4 10 -3 10 5 c 0
  10 16 22 20 33 23 c 0
- 53 29 69 43 100 80 c 1
+ 53 29 69.9883524959 42.5393404478 100 80 c 2
  185 186 l 2
  194 197 192 201 187 209 c 2
  106 335 l 2
@@ -844,7 +844,6 @@ SplineSet
  292 0 266 -1 243 -1 c 0
  238 -1 220 -2 220 8 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "Smallcaps1 subtable" x.sc
 Substitution2: "sups subtable" x.sups
 Substitution2: "sinf subtable" x.sinf
