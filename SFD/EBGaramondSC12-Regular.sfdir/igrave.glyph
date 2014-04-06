@@ -1,0 +1,12 @@
+StartChar: igrave
+Encoding: 236 236 127
+Width: 315
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 2374 768 N 1 0 0 1 25 65 2
+Refer: 2481 -1 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" igrave.sc
+MultipleSubs2: "CCMP_Precomp subtable" i.dotless gravecomb
+EndChar

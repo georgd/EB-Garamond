@@ -1,0 +1,22 @@
+StartChar: uni030C.alt1
+Encoding: 65545 -1 933
+Width: 0
+VWidth: 0
+Flags: HMW
+AnchorPoint: "top_right1" 35 650 mark 0
+AnchorPoint: "top_left" 22 650 mark 0
+LayerCount: 3
+Fore
+SplineSet
+17 646 m 0
+ 7.78059771688 653.681316394 0 662 0 675 c 0
+ 0 693 16 705 34 705 c 0
+ 63 705 79 674 79 644 c 0
+ 79 582 29 535 14 535 c 0
+ 4 535 4.28626379702e-16 536 0 543 c 0
+ -4.28626379702e-16 550 8.63603896932 556.636038969 15 563 c 0
+ 26.313708499 574.313708499 34 591 34 611 c 0
+ 34 624 26.9876858067 637.678573907 17 646 c 0
+EndSplineSet
+Substitution2: "Single Substitution lookup 66 subtable" uni030C
+EndChar

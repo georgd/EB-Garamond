@@ -1,0 +1,12 @@
+StartChar: uni021F
+Encoding: 543 543 290
+Width: 640
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 930 -1 N 1 0 0 1 194 -87 2
+Refer: 1521 104 N 1 0 0 1 0 0 3
+Substitution2: "alternate_h subtable" uni021F.01
+MultipleSubs2: "CCMP_Precomp subtable" h uni030C.flat
+EndChar

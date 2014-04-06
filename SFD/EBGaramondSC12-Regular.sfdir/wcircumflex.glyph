@@ -1,0 +1,14 @@
+StartChar: wcircumflex
+Encoding: 373 373 238
+Width: 790
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 2376 770 N 1 0 0 1 284 65 2
+Refer: 1536 119 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" wcircumflex.sc
+MultipleSubs2: "CCMP_Precomp subtable" w uni0302
+Position2: "rtbd subtable" dx=0 dy=0 dh=-22 dv=0
+Position2: "lfbd subtable" dx=-22 dy=0 dh=-22 dv=0
+EndChar

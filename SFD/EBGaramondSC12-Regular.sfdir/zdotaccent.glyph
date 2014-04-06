@@ -1,0 +1,12 @@
+StartChar: zdotaccent
+Encoding: 380 380 245
+Width: 510
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 2380 775 N 1 0 0 1 131 65 2
+Refer: 1539 122 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" zdotaccent.sc
+MultipleSubs2: "CCMP_Precomp subtable" z uni0307
+EndChar

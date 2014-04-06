@@ -1,0 +1,42 @@
+StartChar: florin
+Encoding: 402 402 1716
+Width: 317
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+162 478 m 2
+ 162 422 l 2
+ 162 404 174 400 187 400 c 10
+ 305 400 l 18
+ 308 400 309 395 309 389 c 0
+ 309 375 303 352 296 352 c 10
+ 202 352 l 18
+ 166 352 162 345 162 335 c 2
+ 162 82 l 2
+ 162 -21 158 -128 143 -173 c 0
+ 114 -259 55 -288 1 -288 c 0
+ -39 -288 -97 -272 -97 -249 c 0
+ -97 -219 -81 -193 -59 -193 c 0
+ -35 -193 -27 -251 16 -251 c 0
+ 41 -251 68 -234 78 -199 c 0
+ 90 -158 90 -43 90 60 c 2
+ 90 350 l 1
+ 77 350 59 350 38 352 c 0
+ 32 353 23 374 31 376 c 0
+ 61 384 70 392 89 402 c 1
+ 89 633 222 706 309 706 c 0
+ 354 706 374 705 403 681 c 16
+ 414 672 419 659 419 646 c 0
+ 419 624 403 606 385 606 c 0
+ 358 606 344 665 267 665 c 0
+ 205 665 162 610 162 478 c 2
+EndSplineSet
+Validated: 1
+Position2: "Single Positioning lookup 111 subtable" dx=0 dy=0 dh=80 dv=0
+Position2: "Single Positioning lookup 110 subtable" dx=0 dy=0 dh=75 dv=0
+Position2: "Single Positioning lookup 109 subtable" dx=0 dy=0 dh=95 dv=0
+Position2: "Single Positioning lookup 108 subtable" dx=0 dy=0 dh=95 dv=0
+Position2: "Single Positioning lookup 107 subtable" dx=0 dy=0 dh=25 dv=0
+EndChar

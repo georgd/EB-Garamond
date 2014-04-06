@@ -1,0 +1,12 @@
+StartChar: Scaron
+Encoding: 352 352 220
+Width: 465
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 927 -1 N 1 0 0 1 89 0 2
+Refer: 21 83 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Scaron.sc
+MultipleSubs2: "CCMP_Precomp subtable" S uni030C.cap
+EndChar

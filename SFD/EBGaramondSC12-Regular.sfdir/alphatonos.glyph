@@ -1,0 +1,12 @@
+StartChar: alphatonos
+Encoding: 940 940 2030
+Width: 549
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 2311 -1 N 1 0 0 1 246 80 2
+Refer: 2325 945 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" alphatonos.sc
+MultipleSubs2: "CCMP_Precomp subtable" alpha acutecomb.grk
+EndChar

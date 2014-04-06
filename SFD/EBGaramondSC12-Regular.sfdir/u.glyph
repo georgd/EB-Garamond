@@ -1,0 +1,43 @@
+StartChar: u
+Encoding: 117 117 1534
+Width: 600
+VWidth: 0
+Flags: HMW
+AnchorPoint: "cedilla" 338 8 basechar 0
+AnchorPoint: "ogonek" 380 18 basechar 0
+AnchorPoint: "below_accent" 316 -100 basechar 0
+AnchorPoint: "top_accent" 313 615 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+496 354 m 0
+ 496 303 496 293 496 231 c 8
+ 496 108 444 -14 299 -14 c 0
+ 160 -14 110 69 110 192 c 2
+ 110 352 l 2
+ 110 392 96 415 54 422 c 0
+ 42 424 30 431 30 441 c 0
+ 30 449 43 453 50 453 c 0
+ 89 453 113 448 149 448 c 0
+ 184 448 201 453 240 453 c 0
+ 247 453 260 449 260 441 c 0
+ 260 431 248 424 236 422 c 0
+ 194 415 185 392 185 352 c 2
+ 185 209 l 2
+ 185 88 228 31 320 31 c 0
+ 391 31 452 76 452 199 c 2
+ 452 352 l 2
+ 452 393 446 415 404 422 c 0
+ 392 424 380 431 380 441 c 0
+ 380 449 393 453 400 453 c 0
+ 439 453 436 448 472 448 c 0
+ 507 448 511 453 550 453 c 0
+ 557 453 570 449 570 441 c 0
+ 570 431 558 424 546 422 c 0
+ 504 415 496 388 496 354 c 0
+EndSplineSet
+Validated: 1
+Position2: "Single Positioning lookup 106 subtable" dx=0 dy=0 dh=-10 dv=0
+Substitution2: "Single Substitution lookup 42 subtable" u.LATsc
+Comment: "." 
+EndChar

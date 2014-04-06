@@ -1,0 +1,12 @@
+StartChar: cdotaccent
+Encoding: 267 267 152
+Width: 560
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 2380 775 N 1 0 0 1 211 65 2
+Refer: 1516 99 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" cdotaccent.sc
+MultipleSubs2: "CCMP_Precomp subtable" c uni0307
+EndChar

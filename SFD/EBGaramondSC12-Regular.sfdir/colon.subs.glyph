@@ -1,0 +1,21 @@
+StartChar: colon.subs
+Encoding: 65622 -1 1135
+Width: 162
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+81 70 m 24
+ 103 70 120 53 120 31 c 24
+ 120 9 103 -8 81 -8 c 24
+ 59 -8 42 9 42 31 c 24
+ 42 53 59 70 81 70 c 24
+81 224 m 24
+ 103 224 120 207 120 185 c 24
+ 120 163 103 146 81 146 c 24
+ 59 146 42 163 42 185 c 24
+ 42 207 59 224 81 224 c 24
+EndSplineSet
+Validated: 1
+EndChar

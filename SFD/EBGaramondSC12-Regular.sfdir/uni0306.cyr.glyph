@@ -1,0 +1,23 @@
+StartChar: uni0306.cyr
+Encoding: 66004 -1 1590
+Width: 0
+VWidth: 0
+Flags: HMW
+AnchorPoint: "top_accent" 125 533 mark 0
+LayerCount: 3
+Fore
+SplineSet
+127 493 m 16
+ 177 493 206 541 212 570 c 0
+ 217 593 227 595 232 595 c 0
+ 238 595 242 585 242 575 c 8
+ 242 510 187 461 121 461 c 8
+ 64 461 5 498 5 551 c 0
+ 5 584 34 600 50 600 c 0
+ 65 600 97 586 97 565 c 0
+ 97 550 72 543 72 530 c 0
+ 72 512 101 493 127 493 c 16
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni0306.cyrcap
+EndChar

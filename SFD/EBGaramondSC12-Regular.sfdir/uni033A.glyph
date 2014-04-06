@@ -1,0 +1,25 @@
+StartChar: uni033A
+Encoding: 826 826 1916
+Width: 0
+VWidth: 0
+Flags: HMW
+AnchorPoint: "below_accent" 125 -100 mark 0
+LayerCount: 3
+Fore
+SplineSet
+18 -250 m 10
+ 12 -250 5 -246 5 -240 c 2
+ 5 -165 l 10
+ 5 -151 24 -141 33 -141 c 0
+ 39 -141 45 -148 45 -155 c 26
+ 45 -210 l 25
+ 205 -210 l 25
+ 205 -165 l 10
+ 205 -151 224 -141 233 -141 c 0
+ 239 -141 245 -148 245 -155 c 18
+ 245 -222 l 2
+ 245 -232 236 -250 221 -250 c 10
+ 18 -250 l 10
+EndSplineSet
+Validated: 1
+EndChar

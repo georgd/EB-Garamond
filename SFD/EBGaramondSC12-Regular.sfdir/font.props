@@ -1,0 +1,1958 @@
+SplineFontDB: 3.0
+FontName: EBGaramondSC12-Regular
+FullName: EB Garamond SmallCaps 12 Regular
+FamilyName: EB Garamond SC 12
+Weight: Regular
+Copyright: Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)
+UComments: "2010-5-17: Created." 
+Version: 000.015
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 710
+Descent: 290
+LayerCount: 3
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Zeichenebene"  0
+Layer: 2 0 "Tests"  0
+XUID: [1021 114 2024522534 13590131]
+FSType: 0
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1274079135
+ModificationTime: 1396818551
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 2 5 2 6 2 6 2 4 3
+OS2TypoAscent: 710
+OS2TypoAOffset: 0
+OS2TypoDescent: -290
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 910
+OS2WinAOffset: 0
+OS2WinDescent: 324
+OS2WinDOffset: 0
+HheadAscent: 710
+HheadAOffset: 0
+HheadDescent: -290
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 699
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 650
+OS2SupYSize: 699
+OS2SupXOff: 0
+OS2SupYOff: 479
+OS2StrikeYSize: 49
+OS2StrikeYPos: 258
+OS2FamilyClass: 258
+OS2Vendor: 'PfEd'
+OS2LowerOpticalPointSize: 9.5
+OS2UpperOpticalPointSize: 120
+Lookup: 1 0 0 "loclDEU"  {"loclDEU subtable"  } ['locl' ('latn' <'DEU ' > ) ]
+Lookup: 1 0 0 "loclTRK"  {"loclTRK subtable"  } ['locl' ('latn' <'TRK ' 'AZE ' 'CRT ' > ) ]
+Lookup: 6 0 0 "loclCAT"  {"loclCAT contextual 0"  "loclCAT contextual 1"  } ['locl' ('latn' <'CAT ' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 3"  {"Single Substitution lookup 3 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 4"  {"Single Substitution lookup 4 subtable"  } []
+Lookup: 1 0 0 "loclSRB"  {"loclSRB subtable"  } ['locl' ('cyrl' <'SRB ' 'MKD ' > ) ]
+Lookup: 1 0 0 "loclLAT"  {"loclLAT subtable"  } ['locl' ('latn' <'LAT ' > ) ]
+Lookup: 1 0 0 "'case' Case-Sensitive Forms lookup 8"  {"'case' Case-Sensitive Forms lookup 8 subtable"  } ['case' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 2 0 0 "CCMP_Precomp"  {"CCMP_Precomp subtable"  } ['cv81' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) 'cv80' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) 'cv27' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) 'cv21' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) 'ss20' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "CCMP_contextual"  {"CCMP_contextual contextual 0"  "CCMP_contextual contextual 1"  "CCMP_contextual contextual 2"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 11"  {"Single Substitution lookup 11 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 12"  {"Single Substitution lookup 12 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 13"  {"Single Substitution lookup 13 subtable"  } []
+Lookup: 6 0 0 "CCMP_stacking1"  {"CCMP_stacking1 subtable"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 15"  {"Single Substitution lookup 15 subtable"  } []
+Lookup: 6 0 0 "CCMP_stacking2"  {"CCMP_stacking2 subtable"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 17"  {"Single Substitution lookup 17 subtable"  } []
+Lookup: 6 0 0 "CCMP_stackgrk1"  {"CCMP_stackgrk1 contextual 0"  "CCMP_stackgrk1 contextual 1"  "CCMP_stackgrk1 contextual 2"  "CCMP_stackgrk1 contextual 3"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 19"  {"Single Substitution lookup 19 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 20"  {"Single Substitution lookup 20 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 21"  {"Single Substitution lookup 21 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 22"  {"Single Substitution lookup 22 subtable"  } []
+Lookup: 6 0 0 "CCMP_stackgrk2"  {"CCMP_stackgrk2 subtable"  } ['ccmp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 24"  {"Single Substitution lookup 24 subtable"  } []
+Lookup: 1 0 0 "subs"  {"subs subtable" ("inferior" ) } ['dnom' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) 'subs' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "ordn"  {"ordn subtable"  } ['numr' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) 'ordn' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "sinf"  {"sinf subtable"  } ['sinf' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "sups"  {"sups subtable" ("superior" ) } ['sups' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "frac_slash"  {"frac_slash subtable"  } ['frac' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "frac"  {"frac contextual 0"  "frac contextual 1"  } ['frac' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 31"  {"Single Substitution lookup 31 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 32"  {"Single Substitution lookup 32 subtable"  } []
+Lookup: 1 0 0 "'lnum' Lining Figures lookup 33"  {"'lnum' Lining Figures lookup 33 subtable"  } ['lnum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'onum' Minuskelziffern lookup 34"  {"'onum' Minuskelziffern lookup 34 subtable" ("oldstyle" ) } ['onum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 35"  {"'tnum' Tabular Numbers lookup 35 subtable"  } ['tnum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'pnum' Proportionalziffern lookup 36"  {"'pnum' Proportionalziffern lookup 36 subtable"  } ['pnum' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "cyrillic_DLLj"  {"cyrillic_DLLj subtable"  } ['ss01' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "historic_u"  {"historic_u contextual 0"  "historic_u contextual 1"  "historic_u contextual 2"  "historic_u contextual 3"  "historic_u contextual 4"  } ['ss02' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 39"  {"Single Substitution lookup 39 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 40"  {"Single Substitution lookup 40 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 41"  {"Single Substitution lookup 41 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 42"  {"Single Substitution lookup 42 subtable"  } []
+Lookup: 6 0 0 "longs_replacement"  {"longs_replacement subtable"  } ['cv01' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 44"  {"Single Substitution lookup 44 subtable"  } []
+Lookup: 1 0 0 "at_alternates"  {"at_alternates subtable"  } ['cv02' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "historic_j"  {"historic_j subtable"  } ['cv03' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "historic_apostrophe"  {"historic_apostrophe subtable"  } ['ss05' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 48"  {"Single Substitution lookup 48 subtable"  } []
+Lookup: 1 0 0 "alternate_h"  {"alternate_h subtable"  } ['ss07' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "guillemet_var"  {"guillemet_var subtable"  } ['cv06' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "one_variants"  {"one_variants subtable"  } ['cv11' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 3 0 0 "alternate_a"  {"alternate_a subtable"  } ['cv21' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 3 0 0 "alternate_g"  {"alternate_g subtable"  } ['cv27' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 3 0 0 "germandbls_variants"  {"germandbls_variants subtable"  } ['cv47' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 2 0 0 "cv82_decomp"  {"cv82_decomp subtable"  } ['cv82' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "cv82"  {"cv82 subtable"  } ['cv82' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "salt"  {"salt subtable"  } ['salt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "perispomeni_alt"  {"perispomeni_alt subtable"  } ['cv80' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 3 0 0 "prosgegrammeni_alt"  {"prosgegrammeni_alt subtable"  } ['cv81' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "floralhearts_variants"  {"floralhearts_variants subtable"  } ['cv90' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "pilcrow_variants"  {"pilcrow_variants subtable"  } ['cv91' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "ipa_variants"  {"ipa_variants subtable"  } ['ss06' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Smallcaps1"  {"Smallcaps1 subtable"  } ['smcp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "c2sc"  {"c2sc subtable"  } ['c2sc' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "Smallcaps2"  {"Smallcaps2 contextual 0"  "Smallcaps2 contextual 1"  } ['c2sc' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) 'smcp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 66"  {"Single Substitution lookup 66 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 67"  {"Single Substitution lookup 67 subtable"  } []
+Lookup: 4 0 0 "'hlig' Historic Ligatures lookup 68"  {"'hlig' Historic Ligatures lookup 68 subtable"  } ['hlig' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "liga_f"  {"liga_f contextual 0"  "liga_f contextual 1"  "liga_f contextual 2"  "liga_f contextual 3"  "liga_f contextual 4"  "liga_f contextual 5"  "liga_f contextual 6"  "liga_f contextual 7"  "liga_f contextual 8"  "liga_f contextual 9"  "liga_f contextual 10"  "liga_f contextual 11"  "liga_f contextual 12"  "liga_f contextual 13"  "liga_f contextual 14"  "liga_f contextual 15"  "liga_f contextual 16"  "liga_f contextual 17"  "liga_f contextual 18"  "liga_f contextual 19"  "liga_f contextual 20"  "liga_f contextual 21"  "liga_f contextual 22"  "liga_f contextual 23"  } ['liga' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 70"  {"Single Substitution lookup 70 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 71"  {"Single Substitution lookup 71 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 72"  {"Single Substitution lookup 72 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 73"  {"Single Substitution lookup 73 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 74"  {"Single Substitution lookup 74 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 75"  {"Single Substitution lookup 75 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 76"  {"Single Substitution lookup 76 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 77"  {"Single Substitution lookup 77 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 78"  {"Single Substitution lookup 78 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 79"  {"Single Substitution lookup 79 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 80"  {"Single Substitution lookup 80 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 81"  {"Single Substitution lookup 81 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 82"  {"Single Substitution lookup 82 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 83"  {"Single Substitution lookup 83 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 84"  {"Single Substitution lookup 84 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 85"  {"Single Substitution lookup 85 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 86"  {"Single Substitution lookup 86 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 87"  {"Single Substitution lookup 87 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 88"  {"Single Substitution lookup 88 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 89"  {"Single Substitution lookup 89 subtable"  } []
+Lookup: 4 0 1 "liga_standard"  {"liga_standard subtable"  } ['liga' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 1 "liga_regionals"  {"liga_regionals subtable"  } ['liga' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "Th_lig"  {"Th_lig subtable"  } ['dlig' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "Q_alts"  {"Q_alts contextual 0"  "Q_alts contextual 1"  "Q_alts contextual 2"  "Q_alts contextual 3"  "Q_alts contextual 4"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 94"  {"Single Substitution lookup 94 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 95"  {"Single Substitution lookup 95 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 96"  {"Single Substitution lookup 96 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 97"  {"Single Substitution lookup 97 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 98"  {"Single Substitution lookup 98 subtable"  } []
+Lookup: 6 0 0 "f_long1"  {"f_long1 contextual 0"  "f_long1 contextual 1"  "f_long1 contextual 2"  "f_long1 contextual 3"  "f_long1 contextual 4"  "f_long1 contextual 5"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 100"  {"Single Substitution lookup 100 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 101"  {"Single Substitution lookup 101 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 102"  {"Single Substitution lookup 102 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 103"  {"Single Substitution lookup 103 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 104"  {"Single Substitution lookup 104 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 105"  {"Single Substitution lookup 105 subtable"  } []
+Lookup: 6 0 0 "f_long2"  {"f_long2 subtable"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 107"  {"Single Substitution lookup 107 subtable"  } []
+Lookup: 6 0 0 "caltLAT"  {"caltLAT subtable"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 109"  {"Single Substitution lookup 109 subtable"  } []
+Lookup: 6 0 0 "UC_hyphen"  {"UC_hyphen subtable"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 111"  {"Single Substitution lookup 111 subtable"  } []
+Lookup: 6 0 0 "xtex_sub1"  {"xtex_sub1 contextual 0"  "xtex_sub1 contextual 1"  "xtex_sub1 contextual 2"  "xtex_sub1 contextual 3"  "xtex_sub1 contextual 4"  } ['xtex' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 113"  {"Single Substitution lookup 113 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 114"  {"Single Substitution lookup 114 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 115"  {"Single Substitution lookup 115 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 116"  {"Single Substitution lookup 116 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 117"  {"Single Substitution lookup 117 subtable"  } []
+Lookup: 258 0 0 "kern"  {"kern per glyph data 0"  "kern kerning class 1"  "kern kerning class 2"  "kern kerning class 3"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 264 0 0 "ckern1"  {"ckern1 contextual 0"  "ckern1 contextual 1"  "ckern1 contextual 2"  "ckern1 contextual 3"  "ckern1 contextual 4"  "ckern1 contextual 5"  "ckern1 contextual 6"  "ckern1 contextual 7"  "ckern1 contextual 8"  "ckern1 contextual 9"  "ckern1 contextual 10"  "ckern1 contextual 11"  "ckern1 contextual 12"  "ckern1 contextual 13"  "ckern1 contextual 14"  "ckern1 contextual 15"  "ckern1 contextual 16"  "ckern1 contextual 17"  "ckern1 contextual 18"  "ckern1 contextual 19"  "ckern1 contextual 20"  "ckern1 contextual 21"  "ckern1 contextual 22"  "ckern1 contextual 23"  "ckern1 contextual 24"  "ckern1 contextual 25"  "ckern1 contextual 26"  "ckern1 contextual 27"  "ckern1 contextual 28"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 257 0 0 "Single Positioning lookup 2"  {"Single Positioning lookup 2 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 3"  {"Single Positioning lookup 3 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 4"  {"Single Positioning lookup 4 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 5"  {"Single Positioning lookup 5 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 6"  {"Single Positioning lookup 6 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 7"  {"Single Positioning lookup 7 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 8"  {"Single Positioning lookup 8 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 9"  {"Single Positioning lookup 9 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 10"  {"Single Positioning lookup 10 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 11"  {"Single Positioning lookup 11 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 12"  {"Single Positioning lookup 12 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 13"  {"Single Positioning lookup 13 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 14"  {"Single Positioning lookup 14 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 15"  {"Single Positioning lookup 15 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 16"  {"Single Positioning lookup 16 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 17"  {"Single Positioning lookup 17 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 18"  {"Single Positioning lookup 18 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 19"  {"Single Positioning lookup 19 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 20"  {"Single Positioning lookup 20 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 21"  {"Single Positioning lookup 21 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 22"  {"Single Positioning lookup 22 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 23"  {"Single Positioning lookup 23 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 24"  {"Single Positioning lookup 24 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 25"  {"Single Positioning lookup 25 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 26"  {"Single Positioning lookup 26 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 27"  {"Single Positioning lookup 27 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 28"  {"Single Positioning lookup 28 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 29"  {"Single Positioning lookup 29 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 30"  {"Single Positioning lookup 30 subtable"  } []
+Lookup: 264 0 0 "ckern2"  {"ckern2 contextual 0"  "ckern2 contextual 1"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 257 0 0 "Single Positioning lookup 32"  {"Single Positioning lookup 32 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 33"  {"Single Positioning lookup 33 subtable"  } []
+Lookup: 264 0 0 "ckern3"  {"ckern3 contextual 0"  "ckern3 contextual 1"  "ckern3 contextual 2"  "ckern3 contextual 3"  "ckern3 contextual 4"  "ckern3 contextual 5"  "ckern3 contextual 6"  "ckern3 contextual 7"  "ckern3 contextual 8"  "ckern3 contextual 9"  "ckern3 contextual 10"  "ckern3 contextual 11"  "ckern3 contextual 12"  "ckern3 contextual 13"  "ckern3 contextual 14"  "ckern3 contextual 15"  "ckern3 contextual 16"  "ckern3 contextual 17"  "ckern3 contextual 18"  "ckern3 contextual 19"  "ckern3 contextual 20"  "ckern3 contextual 21"  "ckern3 contextual 22"  "ckern3 contextual 23"  "ckern3 contextual 24"  "ckern3 contextual 25"  "ckern3 contextual 26"  "ckern3 contextual 27"  "ckern3 contextual 28"  "ckern3 contextual 29"  "ckern3 contextual 30"  "ckern3 contextual 31"  "ckern3 contextual 32"  "ckern3 contextual 33"  "ckern3 contextual 34"  "ckern3 contextual 35"  "ckern3 contextual 36"  "ckern3 contextual 37"  "ckern3 contextual 38"  "ckern3 contextual 39"  "ckern3 contextual 40"  "ckern3 contextual 41"  "ckern3 contextual 42"  "ckern3 contextual 43"  "ckern3 contextual 44"  "ckern3 contextual 45"  "ckern3 contextual 46"  "ckern3 contextual 47"  "ckern3 contextual 48"  "ckern3 contextual 49"  "ckern3 contextual 50"  "ckern3 contextual 51"  "ckern3 contextual 52"  "ckern3 contextual 53"  "ckern3 contextual 54"  "ckern3 contextual 55"  "ckern3 contextual 56"  "ckern3 contextual 57"  "ckern3 contextual 58"  "ckern3 contextual 59"  "ckern3 contextual 60"  "ckern3 contextual 61"  "ckern3 contextual 62"  "ckern3 contextual 63"  "ckern3 contextual 64"  "ckern3 contextual 65"  "ckern3 contextual 66"  "ckern3 contextual 67"  "ckern3 contextual 68"  "ckern3 contextual 69"  "ckern3 contextual 70"  "ckern3 contextual 71"  "ckern3 contextual 72"  "ckern3 contextual 73"  "ckern3 contextual 74"  "ckern3 contextual 75"  "ckern3 contextual 76"  "ckern3 contextual 77"  "ckern3 contextual 78"  "ckern3 contextual 79"  "ckern3 contextual 80"  "ckern3 contextual 81"  "ckern3 contextual 82"  "ckern3 contextual 83"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 257 0 0 "Single Positioning lookup 35"  {"Single Positioning lookup 35 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 36"  {"Single Positioning lookup 36 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 37"  {"Single Positioning lookup 37 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 38"  {"Single Positioning lookup 38 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 39"  {"Single Positioning lookup 39 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 40"  {"Single Positioning lookup 40 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 41"  {"Single Positioning lookup 41 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 42"  {"Single Positioning lookup 42 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 43"  {"Single Positioning lookup 43 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 44"  {"Single Positioning lookup 44 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 45"  {"Single Positioning lookup 45 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 46"  {"Single Positioning lookup 46 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 47"  {"Single Positioning lookup 47 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 48"  {"Single Positioning lookup 48 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 49"  {"Single Positioning lookup 49 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 50"  {"Single Positioning lookup 50 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 51"  {"Single Positioning lookup 51 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 52"  {"Single Positioning lookup 52 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 53"  {"Single Positioning lookup 53 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 54"  {"Single Positioning lookup 54 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 55"  {"Single Positioning lookup 55 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 56"  {"Single Positioning lookup 56 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 57"  {"Single Positioning lookup 57 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 58"  {"Single Positioning lookup 58 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 59"  {"Single Positioning lookup 59 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 60"  {"Single Positioning lookup 60 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 61"  {"Single Positioning lookup 61 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 62"  {"Single Positioning lookup 62 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 63"  {"Single Positioning lookup 63 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 64"  {"Single Positioning lookup 64 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 65"  {"Single Positioning lookup 65 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 66"  {"Single Positioning lookup 66 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 67"  {"Single Positioning lookup 67 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 68"  {"Single Positioning lookup 68 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 69"  {"Single Positioning lookup 69 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 70"  {"Single Positioning lookup 70 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 71"  {"Single Positioning lookup 71 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 72"  {"Single Positioning lookup 72 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 73"  {"Single Positioning lookup 73 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 74"  {"Single Positioning lookup 74 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 75"  {"Single Positioning lookup 75 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 76"  {"Single Positioning lookup 76 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 77"  {"Single Positioning lookup 77 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 78"  {"Single Positioning lookup 78 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 79"  {"Single Positioning lookup 79 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 80"  {"Single Positioning lookup 80 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 81"  {"Single Positioning lookup 81 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 82"  {"Single Positioning lookup 82 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 83"  {"Single Positioning lookup 83 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 84"  {"Single Positioning lookup 84 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 85"  {"Single Positioning lookup 85 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 86"  {"Single Positioning lookup 86 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 87"  {"Single Positioning lookup 87 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 88"  {"Single Positioning lookup 88 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 89"  {"Single Positioning lookup 89 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 90"  {"Single Positioning lookup 90 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 91"  {"Single Positioning lookup 91 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 92"  {"Single Positioning lookup 92 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 93"  {"Single Positioning lookup 93 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 94"  {"Single Positioning lookup 94 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 95"  {"Single Positioning lookup 95 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 96"  {"Single Positioning lookup 96 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 97"  {"Single Positioning lookup 97 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 98"  {"Single Positioning lookup 98 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 99"  {"Single Positioning lookup 99 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 100"  {"Single Positioning lookup 100 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 101"  {"Single Positioning lookup 101 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 102"  {"Single Positioning lookup 102 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 103"  {"Single Positioning lookup 103 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 104"  {"Single Positioning lookup 104 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 105"  {"Single Positioning lookup 105 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 106"  {"Single Positioning lookup 106 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 107"  {"Single Positioning lookup 107 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 108"  {"Single Positioning lookup 108 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 109"  {"Single Positioning lookup 109 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 110"  {"Single Positioning lookup 110 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 111"  {"Single Positioning lookup 111 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 112"  {"Single Positioning lookup 112 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 113"  {"Single Positioning lookup 113 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 114"  {"Single Positioning lookup 114 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 115"  {"Single Positioning lookup 115 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 116"  {"Single Positioning lookup 116 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 117"  {"Single Positioning lookup 117 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 118"  {"Single Positioning lookup 118 subtable"  } []
+Lookup: 260 0 0 "mark"  {"mark anchor 0"  "mark anchor 1"  "mark anchor 2"  "mark anchor 3"  "mark anchor 4"  "mark anchor 5"  "mark anchor 6"  "mark anchor 7"  "mark anchor 8"  "mark anchor 9"  } ['mark' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 262 0 0 "mkmk"  {"mkmk anchor 0"  "mkmk anchor 1"  "mkmk anchor 2"  "mkmk anchor 3"  "mkmk anchor 4"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'grek' <'dflt' > 'latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > ) ]
+Lookup: 257 0 0 "lfbd"  {"lfbd subtable"  } ['lfbd' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 257 0 0 "rtbd"  {"rtbd subtable"  } ['rtbd' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 264 0 0 "xtex_pos1"  {"xtex_pos1 contextual 0"  "xtex_pos1 contextual 1"  "xtex_pos1 contextual 2"  "xtex_pos1 contextual 3"  "xtex_pos1 contextual 4"  } ['xtex' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 257 0 0 "Single Positioning lookup 124"  {"Single Positioning lookup 124 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 125"  {"Single Positioning lookup 125 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 126"  {"Single Positioning lookup 126 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 127"  {"Single Positioning lookup 127 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 128"  {"Single Positioning lookup 128 subtable"  } []
+MarkAttachClasses: 1
+DEI: 91125
+KernClass2: 4 2 "kern kerning class 3" 
+ 5 Gamma
+ 3 Tau
+ 68 Upsilon Upsilondieresis Upsilontonos uni1F59 uni1F5B uni1F5D uni1F5F
+ 114 alpha chi epsilon eta gamma iota kappa mu nu omega omicron pi rho sigma sigma1 tau uni1FB3 uni1FC3 uni1FF3 upsilon
+ 0 {} 0 {} 0 {} -100 {} 0 {} -90 {} 0 {} -50 {}
+KernClass2: 3 9 "kern kerning class 2" 
+ 15 uni0413 uni0490
+ 7 uni0422
+ 79 uni0430 uni0435 uni0437 uni043E uni0441 uni044D uni044F uni0454 uni0455 uni04E9
+ 155 uni0432 uni0433 uni0434.alt uni0438 uni043A uni043B.alt uni043C uni043D uni043F uni0446 uni0448 uni0449 uni044B uni044C uni044E uni0459.alt uni045A uni045F
+ 23 uni0434 uni043B uni0459
+ 15 uni0436 uni0445
+ 15 uni0442 uni044A
+ 7 uni0443
+ 7 uni0444
+ 7 uni0447
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -130 {} -100 {} -140 {} -105 {} -130 {} -115 {} -70 {} -115 {} 0 {} -125 {} -95 {} -135 {} -100 {} -130 {} -110 {} -65 {} -110 {}
+KernClass2: 39 139 "kern kerning class 1" 
+ 81 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni0245
+ 6 A.sc a
+ 6 C.sc c
+ 39 D Eth O uni0186 uni018F uni019F uni01B2
+ 24 D.sc Eth.sc O.sc d eth o
+ 94 E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek uni0246 uni1EBC
+ 9 F uni0191
+ 6 F.sc f
+ 1 L
+ 6 L.sc l
+ 1 M
+ 1 P
+ 23 R Racute Rcaron uni0156
+ 6 R.sc r
+ 45 T Tbar Tcaron uni0162 uni01AC uni01AE uni023E
+ 6 T.sc t
+ 6 U.sc u
+ 11 V W uni0194
+ 13 V.sc W.sc v w
+ 17 Y uni01B3 uni024E
+ 6 Y.sc y
+ 1 a
+ 139 ae b b.f_ c e o oe p thorn thorn.f_ uni0252 uni0253 uni0254 uni0255 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0275 uni0277
+ 40 comma period quotedblbase quotesinglbase
+ 8 d l l.f_
+ 34 f f.DEU f.long f_f f_f.long florin
+ 13 f._i longs._i
+ 17 f.short f_f.short
+ 34 h h.f_ m n uni0271 uni0272 uni0273
+ 45 longs longs.long longs_longs longs_longs.long
+ 71 longs.short longs_longs.short uni1E9B.short uni1E9C.short uni1E9D.short
+ 22 quotedblleft quoteleft
+ 24 quotedblright quoteright
+ 1 s
+ 5 slash
+ 37 uni01B4 uni0240 uni024F uni0263 v w y
+ 7 uni0283
+ 15 uni02BE uni02BF
+ 81 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni0245
+ 6 A.sc a
+ 326 B D Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eng Eogonek Eth F H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K L Lacute Lcaron Ldot Lslash M N Nacute Ncaron Ntilde P R Racute Rcaron uni0136 uni013B uni0145 uni0156
+ 96 B.sc D.sc E.sc F.sc H.sc I.sc K.sc L.sc M.sc N.sc P.sc R.sc b d dotlessi.sc e f h i k l m n p r 
+ 13 C G O Ohorn Q
+ 34 C.sc G.sc O.sc Q.sc S.sc c g o q s
+ 21 T Tbar Tcaron uni0162
+ 6 T.sc t
+ 11 V W uni0194
+ 13 V.sc W.sc v w
+ 6 X.sc x
+ 17 Y uni01B3 uni024E
+ 6 Y.sc y
+ 181 a aogonek c ccedilla d e eogonek g s scedilla uni01C6 uni01F3 uni0238 uni0247 uni0254 uni0255 uni0256 uni0257 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0260 uni1EB9
+ 6 aacute
+ 418 agrave germandbls hbar hcircumflex lacute lcaron ldot longs lslash scaron uni0137 uni013C uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E7B uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA6 uni1EA8 uni1EAB uni1EC5 uni1EC9 uni1ECB uni1EF3 uni1EFB 
+ 12 acircumflex 
+ 9 adieresis
+ 63 ae o oe ohorn q uni01EB uni024B uni0251 uni0261 uni0275 uni1EE3
+ 7 amacron
+ 8 asterisk
+ 6 atilde
+ 13 b h k l thorn
+ 42 braceright bracketright parenright uni2E29
+ 6 cacute
+ 11 ccircumflex
+ 10 cdotaccent
+ 15 colon semicolon
+ 40 comma period quotedblbase quotesinglbase
+ 6 eacute
+ 35 ecircumflex uni1EBF uni1EC3 uni1EC7
+ 10 edotaccent
+ 7 emacron
+ 24 exclam exclamdbl uni2049
+ 4 five
+ 4 four
+ 6 gcaron
+ 11 gcircumflex
+ 10 gdotaccent
+ 20 i i.TRK ij iogonek j
+ 6 ncaron
+ 4 nine
+ 6 ntilde
+ 14 oacute uni1EDB
+ 6 obreve
+ 35 ocircumflex uni1ED1 uni1ED5 uni1ED9
+ 9 odieresis
+ 13 ohungarumlaut
+ 7 omacron
+ 3 one
+ 14 otilde uni1EE1
+ 32 question uni203D uni2047 uni2048
+ 22 quotedblleft quoteleft
+ 24 quotedblright quoteright
+ 6 sacute
+ 5 slash
+ 8 t tcaron
+ 5 three
+ 3 two
+ 14 uacute uni1EE9
+ 6 ubreve
+ 11 ucircumflex
+ 9 udieresis
+ 13 uhungarumlaut
+ 7 umacron
+ 7 uni0123
+ 25 uni01B4 uni024F uni0263 y
+ 7 uni01D2
+ 7 uni01D4
+ 7 uni01F0
+ 7 uni01F5
+ 7 uni01F9
+ 7 uni0227
+ 7 uni022F
+ 7 uni0233
+ 15 uni02BE uni02BF
+ 7 uni1E21
+ 7 uni1E59
+ 7 uni1E61
+ 7 uni1E7D
+ 57 uni1E87 uni1E89 v w wacute wcircumflex wdieresis wgrave x
+ 7 uni1E8B
+ 7 uni1E8F
+ 7 uni1E91
+ 7 uni1E99
+ 7 uni1EBD
+ 14 uni1EEF utilde
+ 7 uni1EF9
+ 5 uring
+ 6 yacute
+ 11 ycircumflex
+ 9 ydieresis
+ 6 ygrave
+ 6 zacute
+ 10 zdotaccent
+ 6 U.sc u
+ 46 abreve uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7
+ 23 uni1EA5 uni1EA9 uni1EAD
+ 5 aring
+ 6 ccaron
+ 6 ebreve
+ 6 ecaron
+ 9 edieresis
+ 6 egrave
+ 3 eth
+ 6 gbreve
+ 6 iacute
+ 6 ibreve
+ 11 icircumflex
+ 9 idieresis
+ 7 imacron
+ 6 itilde
+ 11 jcircumflex
+ 14 ograve uni1EDD
+ 6 rcaron
+ 11 scircumflex
+ 14 ugrave uni1EEB
+ 7 uni1E6B
+ 7 uni1E8D
+ 7 uni1EA3
+ 7 uni1EA7
+ 7 uni1EBB
+ 7 uni1EC1
+ 15 uni1ECF uni1EDF
+ 7 uni1ED3
+ 7 uni1ED7
+ 15 uni1EE7 uni1EED
+ 7 uni1EF7
+ 6 zcaron
+ 248 dotlessi eng i.dotless m n p r u uhorn uni0146 uni01B6 uni01BA uni01BF uni021D uni024D uni0250 uni0252 uni025F uni0269 uni026A uni026F uni0270 uni0271 uni0272 uni0273 uni0274 uni1E3F uni1E41 uni1E43 uni1E47 uni1E49 uni1E4B uni1EE5 uni1EF1 uogonek z
+ 6 nacute
+ 6 racute
+ 7 uni1E45
+ 7 uni1E55
+ 7 uni1E57
+ 7 uni01D0
+ 6 igrave
+ 9 j.dotless
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} -95 {} -35 {} -160 {} -70 {} 0 {} -75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} -60 {} 0 {} -75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -95 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} -50 {} 0 {} 0 {} -25 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -75 {} -85 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} -45 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -120 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -75 {} 0 {} -60 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -100 {} -120 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 40 {} 0 {} 0 {} 0 {} -60 {} 0 {} -100 {} 0 {} -115 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 0 {} 0 {} 0 {} -30 {} 0 {} -40 {} 0 {} -60 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -85 {} -60 {} 0 {} -90 {} -30 {} -135 {} 0 {} 0 {} 40 {} 0 {} 0 {} 0 {} 0 {} -105 {} -95 {} 0 {} -25 {} 0 {} -105 {} 0 {} 0 {} -10 {} 0 {} 0 {} -105 {} -59 {} -105 {} -75 {} -75 {} -105 {} -40 {} -90 {} -10 {} 0 {} 0 {} 0 {} -25 {} -35 {} -85 {} 0 {} -77 {} 0 {} -77 {} -105 {} -65 {} -75 {} -45 {} -90 {} -45 {} 0 {} -65 {} 0 {} 0 {} 0 {} -90 {} 0 {} -100 {} 0 {} 0 {} -90 {} -70 {} -80 {} -50 {} -90 {} -50 {} -50 {} -100 {} -65 {} -70 {} 0 {} -5 {} -85 {} -60 {} -105 {} -33 {} 0 {} -5 {} -65 {} -55 {} -37 {} -100 {} -100 {} -100 {} -30 {} -73 {} -30 {} -70 {} -53 {} -90 {} 0 {} -43 {} -33 {} -33 {} -95 {} -80 {} -90 {} -10 {} -25 {} -25 {} -49 {} -30 {} -30 {} -10 {} -10 {} -5 {} -25 {} -45 {} 50 {} 35 {} 65 {} 60 {} 40 {} 50 {} -45 {} -10 {} -20 {} -50 {} -20 {} -34 {} -20 {} 35 {} -40 {} 35 {} -75 {} 20 {} -10 {} -80 {} 0 {} -20 {} -90 {} -90 {} -90 {} -90 {} -90 {} -90 {} 40 {} 65 {} -90 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -120 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -150 {} -130 {} 0 {} -50 {} -70 {} -85 {} 0 {} -80 {} 0 {} -80 {} -50 {} 0 {} -70 {} -100 {} -100 {} 0 {} -60 {} -20 {} -100 {} -65 {} 0 {} -70 {} 0 {} 0 {} -100 {} -100 {} -100 {} -100 {} -100 {} -100 {} -80 {} -100 {} -75 {} 0 {} 0 {} 0 {} -20 {} -75 {} -100 {} 0 {} -72 {} 0 {} -90 {} -100 {} -65 {} -75 {} -45 {} -100 {} -45 {} 0 {} -65 {} 0 {} 0 {} 0 {} -100 {} -115 {} -80 {} 0 {} 0 {} -90 {} -70 {} -90 {} -70 {} -90 {} -80 {} -65 {} -100 {} -65 {} -45 {} 70 {} -100 {} -65 {} -90 {} -100 {} -100 {} 0 {} -70 {} -90 {} -100 {} -100 {} -100 {} -100 {} -100 {} -75 {} -85 {} -90 {} -90 {} -100 {} -90 {} -100 {} -100 {} -63 {} -25 {} -100 {} -100 {} -50 {} 0 {} -60 {} -45 {} -44 {} -30 {} -25 {} -40 {} 0 {} -25 {} -25 {} -55 {} 50 {} 0 {} 25 {} 0 {} 0 {} 0 {} -45 {} 0 {} -60 {} -35 {} -55 {} -64 {} -5 {} 40 {} -25 {} 40 {} -75 {} 20 {} -30 {} -60 {} -55 {} -15 {} -90 {} -90 {} -90 {} -90 {} -90 {} -90 {} 55 {} 65 {} -90 {} 0 {} 0 {} -75 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} -90 {} 60 {} -50 {} -25 {} -85 {} 40 {} -65 {} 0 {} -65 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -120 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -140 {} 0 {} -100 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -75 {} -120 {} -100 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} -25 {} 70 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 70 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 15 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 120 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 20 {} 70 {} 70 {} 20 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 60 {} 60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 165 {} 0 {} 0 {} 195 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 135 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 140 {} 160 {} 165 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 125 {} 0 {} 0 {} 150 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 95 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 90 {} 110 {} 115 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -130 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -130 {} -120 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} 0 {} 0 {} 0 {} 0 {} -90 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -110 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -95 {} -115 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 55 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 80 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+ChainPos2: glyph "xtex_pos1 contextual 4"  0 0 0 1
+ String: 7 e.xtex1
+ BString: 1 T
+ FString: 1 X
+ 1
+  SeqLookup: 0 "Single Positioning lookup 128" 
+EndFPST
+ChainPos2: glyph "xtex_pos1 contextual 3"  0 0 0 1
+ String: 1 a
+ BString: 1 L
+ FString: 11 T e.xtex1 X
+ 1
+  SeqLookup: 0 "Single Positioning lookup 127" 
+EndFPST
+ChainPos2: coverage "xtex_pos1 contextual 2"  0 0 0 1
+ 1 2 0
+  Coverage: 7 e.xtex3
+  BCoverage: 42 two two.lnum two.taboldstyle two.tablining
+  BCoverage: 1 X
+ 1
+  SeqLookup: 0 "Single Positioning lookup 126" 
+EndFPST
+ChainPos2: glyph "xtex_pos1 contextual 1"  0 0 0 1
+ String: 7 e.xtex2
+ BString: 1 X
+ FString: 1 L
+ 1
+  SeqLookup: 0 "Single Positioning lookup 125" 
+EndFPST
+ChainPos2: glyph "xtex_pos1 contextual 0"  0 0 0 1
+ String: 7 e.xtex2
+ BString: 1 X
+ FString: 1 T
+ 1
+  SeqLookup: 0 "Single Positioning lookup 124" 
+EndFPST
+ChainSub2: coverage "xtex_sub1 contextual 4"  0 0 0 1
+ 1 6 0
+  Coverage: 1 e
+  BCoverage: 42 two two.lnum two.taboldstyle two.tablining
+  BCoverage: 1 X
+  BCoverage: 7 e.xtex1
+  BCoverage: 1 T
+  BCoverage: 1 a
+  BCoverage: 1 L
+ 1
+  SeqLookup: 0 "Single Substitution lookup 117" 
+EndFPST
+ChainSub2: glyph "xtex_sub1 contextual 3"  0 0 0 1
+ String: 1 e
+ BString: 1 T
+ FString: 1 X
+ 1
+  SeqLookup: 0 "Single Substitution lookup 116" 
+EndFPST
+ChainSub2: glyph "xtex_sub1 contextual 2"  0 0 0 1
+ String: 1 a
+ BString: 1 L
+ FString: 5 T e X
+ 1
+  SeqLookup: 0 "Single Substitution lookup 115" 
+EndFPST
+ChainSub2: glyph "xtex_sub1 contextual 1"  0 0 0 1
+ String: 1 e
+ BString: 1 X
+ FString: 9 L a T e X
+ 1
+  SeqLookup: 0 "Single Substitution lookup 114" 
+EndFPST
+ChainSub2: glyph "xtex_sub1 contextual 0"  0 0 0 1
+ String: 1 e
+ BString: 1 X
+ FString: 5 T e X
+ 1
+  SeqLookup: 0 "Single Substitution lookup 113" 
+EndFPST
+ChainSub2: coverage "UC_hyphen subtable"  0 0 0 1
+ 1 1 1
+  Coverage: 47 hyphen uni2010 uni2011 figuredash endash emdash
+  BCoverage: 861 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent uni0122 Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex uni0136 Lacute uni013B Lcaron Ldot Lslash Nacute uni0145 Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron Q.long U.LAT Adieresis.deu Odieresis.deu Udieresis.deu
+  FCoverage: 861 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent uni0122 Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex uni0136 Lacute uni013B Lcaron Ldot Lslash Nacute uni0145 Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron Q.long U.LAT Adieresis.deu Odieresis.deu Udieresis.deu
+ 1
+  SeqLookup: 0 "Single Substitution lookup 111" 
+EndFPST
+ChainSub2: coverage "caltLAT subtable"  0 0 0 1
+ 1 1 0
+  Coverage: 11 u.LAT v.LAT
+  BCoverage: 1396 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent uni0122 Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex uni0136 Lacute uni013B Lcaron Ldot Lslash Nacute uni0145 Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron Q.long U.LAT Adieresis.deu Odieresis.deu Udieresis.deu a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde uni1EBD otilde utilde oe f.DEU f.long i.TRK u.LAT u.LATmedi v.LAT v.LATmedi longs.long f.long germandbls.alt f_f f_i f_l f_f_i f_f_l longs_t s_t longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s c_t f_f.long t_t f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.long U.LAT u.LAT u.LATmedi v.LATmedi
+ 1
+  SeqLookup: 0 "Single Substitution lookup 109" 
+EndFPST
+ChainSub2: coverage "f_long2 subtable"  0 0 0 1
+ 1 0 2
+  Coverage: 19 f f_f f.DEU uni1E1F
+  FCoverage: 7 uni200C
+  FCoverage: 39 f.short f_f.short f.short uni1E1F.short
+ 1
+  SeqLookup: 0 "Single Substitution lookup 107" 
+EndFPST
+ChainSub2: coverage "f_long1 contextual 5"  0 0 0 1
+ 1 0 2
+  Coverage: 41 longs longs_longs uni1E9B uni1E9C uni1E9D
+  FCoverage: 120 a c e g n r s v x z ccedilla aogonek eogonek dotlessi eng uni0157 scedilla uni01DD uni01E5 uni0219 uni0229 uni0237 v.LAT
+  FCoverage: 255 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr
+ 1
+  SeqLookup: 0 "Single Substitution lookup 105" 
+EndFPST
+ChainSub2: coverage "f_long1 contextual 4"  0 0 0 1
+ 1 0 2
+  Coverage: 41 longs longs_longs uni1E9B uni1E9C uni1E9D
+  FCoverage: 7 uni200C
+  FCoverage: 1140 b h i j k l agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute thorn amacron abreve cacute ccircumflex ccaron emacron ebreve ecaron gcircumflex gbreve uni0123 hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex uni0137 lacute uni013C lcaron ldot lslash nacute ncaron omacron obreve ohungarumlaut racute rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent zcaron uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED uni1EF3 uni1EF7 uni1EFB i.TRK
+ 1
+  SeqLookup: 0 "Single Substitution lookup 104" 
+EndFPST
+ChainSub2: coverage "f_long1 contextual 3"  0 0 0 1
+ 1 0 1
+  Coverage: 41 longs longs_longs uni1E9B uni1E9C uni1E9D
+  FCoverage: 3415 b h i j k l agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute thorn amacron abreve cacute ccircumflex ccaron emacron ebreve ecaron gcircumflex gbreve uni0123 hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex uni0137 lacute uni013C lcaron ldot lslash nacute ncaron omacron obreve ohungarumlaut racute rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent zcaron uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED uni1EF3 uni1EF7 uni1EFB i.TRK exclam quotedbl dollar percent quotesingle parenleft parenright asterisk question bracketleft backslash bracketright braceleft bar braceright registered quoteleft quoteright quotedblleft quotedblright minute second uni2034 exclamdbl uni203D uni2047 uni2048 uni2049 exclam.ordn quotedbl.ordn numbersign.ordn dollar.ordn percent.ordn ampersand.ordn quotesingle.ordn parenleft.ordn parenright.ordn asterisk.ordn plus.ordn comma.ordn hyphen.ordn period.ordn slash.ordn zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn colon.ordn semicolon.ordn less.ordn equal.ordn greater.ordn question.ordn at.ordn A.ordn B.ordn C.ordn D.ordn E.ordn F.ordn G.ordn H.ordn I.ordn J.ordn K.ordn L.ordn M.ordn N.ordn O.ordn P.ordn Q.ordn R.ordn S.ordn T.ordn U.ordn V.ordn W.ordn X.ordn Y.ordn Z.ordn bracketleft.ordn backslash.ordn bracketright.ordn asciicircum.ordn underscore.ordn grave.ordn a.ordn b.ordn c.ordn d.ordn e.ordn f.ordn g.ordn h.ordn i.ordn j.ordn k.ordn l.ordn m.ordn n.ordn o.ordn p.ordn q.ordn r.ordn s.ordn t.ordn u.ordn v.ordn w.ordn x.ordn y.ordn z.ordn braceleft.ordn bar.ordn braceright.ordn asciitilde.ordn brokenbar.ordn section.ordn paragraph.ordn egrave.ordn uni2016.ordn dagger.ordn daggerdbl.ordn f.ordn i.ordn exclam.sups quotedbl.sups numbersign.sups dollar.sups percent.sups ampersand.sups quotesingle.sups parenleft.sups parenright.sups asterisk.sups plus.sups comma.sups hyphen.sups period.sups slash.sups zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups colon.sups semicolon.sups less.sups equal.sups greater.sups question.sups at.sups A.sups B.sups C.sups D.sups E.sups F.sups G.sups H.sups I.sups J.sups K.sups L.sups M.sups N.sups O.sups P.sups Q.sups R.sups S.sups T.sups U.sups V.sups W.sups X.sups Y.sups Z.sups bracketleft.sups backslash.sups bracketright.sups asciicircum.sups underscore.sups grave.sups a.sups b.sups c.sups d.sups e.sups f.sups g.sups h.sups i.sups j.sups k.sups l.sups m.sups n.sups o.sups p.sups q.sups r.sups s.sups t.sups u.sups v.sups w.sups x.sups y.sups z.sups braceleft.sups bar.sups braceright.sups asciitilde.sups brokenbar.sups section.sups paragraph.sups egrave.sups uni2016.sups dagger.sups daggerdbl.sups f.sups i.sups
+ 1
+  SeqLookup: 0 "Single Substitution lookup 103" 
+EndFPST
+ChainSub2: coverage "f_long1 contextual 2"  0 0 0 1
+ 1 0 2
+  Coverage: 19 f f_f f.DEU uni1E1F
+  FCoverage: 120 a c e g n r s v x z ccedilla aogonek eogonek dotlessi eng uni0157 scedilla uni01DD uni01E5 uni0219 uni0229 uni0237 v.LAT
+  FCoverage: 255 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr
+ 1
+  SeqLookup: 0 "Single Substitution lookup 102" 
+EndFPST
+ChainSub2: coverage "f_long1 contextual 1"  0 0 0 1
+ 1 0 2
+  Coverage: 19 f f_f f.DEU uni1E1F
+  FCoverage: 7 uni200C
+  FCoverage: 889 b h i j k l agrave adieresis aring uni01CE abreve egrave edieresis ecaron ebreve igrave iacute icircumflex itilde idieresis uni01D0 imacron ibreve iogonek eth ograve ugrave ygrave thorn germandbls ccaron gcaron gbreve hcircumflex hbar dotlessi ij jcircumflex uni01F0 uni0137 lacute uni013C lcaron ldot lslash rcaron scircumflex scaron uni1E97 uni1E6B uni1E8D zcaron longs uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED uni1EF3 uni1EF7 uni1EFB i.TRK
+ 1
+  SeqLookup: 0 "Single Substitution lookup 101" 
+EndFPST
+ChainSub2: coverage "f_long1 contextual 0"  0 0 0 1
+ 1 0 1
+  Coverage: 19 f f_f f.DEU uni1E1F
+  FCoverage: 3164 b h i j k l agrave adieresis aring uni01CE abreve egrave edieresis ecaron ebreve igrave iacute icircumflex itilde idieresis uni01D0 imacron ibreve iogonek eth ograve ugrave ygrave thorn germandbls ccaron gcaron gbreve hcircumflex hbar dotlessi ij jcircumflex uni01F0 uni0137 lacute uni013C lcaron ldot lslash rcaron scircumflex scaron uni1E97 uni1E6B uni1E8D zcaron longs uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED uni1EF3 uni1EF7 uni1EFB i.TRK exclam quotedbl dollar percent quotesingle parenleft parenright asterisk question bracketleft backslash bracketright braceleft bar braceright registered quoteleft quoteright quotedblleft quotedblright minute second uni2034 exclamdbl uni203D uni2047 uni2048 uni2049 exclam.ordn quotedbl.ordn numbersign.ordn dollar.ordn percent.ordn ampersand.ordn quotesingle.ordn parenleft.ordn parenright.ordn asterisk.ordn plus.ordn comma.ordn hyphen.ordn period.ordn slash.ordn zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn colon.ordn semicolon.ordn less.ordn equal.ordn greater.ordn question.ordn at.ordn A.ordn B.ordn C.ordn D.ordn E.ordn F.ordn G.ordn H.ordn I.ordn J.ordn K.ordn L.ordn M.ordn N.ordn O.ordn P.ordn Q.ordn R.ordn S.ordn T.ordn U.ordn V.ordn W.ordn X.ordn Y.ordn Z.ordn bracketleft.ordn backslash.ordn bracketright.ordn asciicircum.ordn underscore.ordn grave.ordn a.ordn b.ordn c.ordn d.ordn e.ordn f.ordn g.ordn h.ordn i.ordn j.ordn k.ordn l.ordn m.ordn n.ordn o.ordn p.ordn q.ordn r.ordn s.ordn t.ordn u.ordn v.ordn w.ordn x.ordn y.ordn z.ordn braceleft.ordn bar.ordn braceright.ordn asciitilde.ordn brokenbar.ordn section.ordn paragraph.ordn egrave.ordn uni2016.ordn dagger.ordn daggerdbl.ordn f.ordn i.ordn exclam.sups quotedbl.sups numbersign.sups dollar.sups percent.sups ampersand.sups quotesingle.sups parenleft.sups parenright.sups asterisk.sups plus.sups comma.sups hyphen.sups period.sups slash.sups zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups colon.sups semicolon.sups less.sups equal.sups greater.sups question.sups at.sups A.sups B.sups C.sups D.sups E.sups F.sups G.sups H.sups I.sups J.sups K.sups L.sups M.sups N.sups O.sups P.sups Q.sups R.sups S.sups T.sups U.sups V.sups W.sups X.sups Y.sups Z.sups bracketleft.sups backslash.sups bracketright.sups asciicircum.sups underscore.sups grave.sups a.sups b.sups c.sups d.sups e.sups f.sups g.sups h.sups i.sups j.sups k.sups l.sups m.sups n.sups o.sups p.sups q.sups r.sups s.sups t.sups u.sups v.sups w.sups x.sups y.sups z.sups braceleft.sups bar.sups braceright.sups asciitilde.sups brokenbar.sups section.sups paragraph.sups egrave.sups uni2016.sups dagger.sups daggerdbl.sups f.sups i.sups
+ 1
+  SeqLookup: 0 "Single Substitution lookup 100" 
+EndFPST
+ChainSub2: coverage "Q_alts contextual 4"  0 0 0 1
+ 1 0 1
+  Coverage: 6 Q.sc q
+  FCoverage: 1165 a b c d e f g h i j k l m n o p q r s t u v w x y z agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc ae ccedilla.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc eth ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc multiply.sc oslash ugrave.sc uacute.sc ucircumflex.sc udieresis.sc yacute.sc thorn germandbls divide.sc amacron.sc abreve.sc aogonek.sc cacute.sc ccircumflex.sc cdotaccent.sc ccaron.sc dcaron.sc dcroat emacron.sc ebreve.sc edotaccent.sc eogonek.sc ecaron.sc gcircumflex.sc gbreve.sc gdotaccent.sc uni0123.sc hcircumflex.sc hbar.sc itilde.sc imacron.sc ibreve.sc iogonek.sc i.TRKsc dotlessi.sc ij.sc jcircumflex.sc uni0137.sc kgreenlandic.sc lacute uni013C.sc lcaron.sc ldot.sc lslash nacute.sc uni0146.sc ncaron.sc eng.sc omacron.sc obreve.sc ohungarumlaut.sc oe racute.sc uni0157.sc rcaron.sc sacute.sc scircumflex.sc scedilla.sc scaron.sc uni0163.sc tcaron tbar utilde.sc umacron.sc ubreve.sc uring.sc uhungarumlaut.sc uogonek.sc wcircumflex.sc ycircumflex.sc ydieresis.sc zacute.sc zdotaccent.sc zcaron.sc s.sc f.sc v.sc germandbls.sc1 germandbls.sc2 i.sc j.sc
+ 1
+  SeqLookup: 0 "Single Substitution lookup 98" 
+EndFPST
+ChainSub2: coverage "Q_alts contextual 3"  0 0 0 1
+ 1 0 1
+  Coverage: 1 Q
+  FCoverage: 52 J comma semicolon parenright bracketright braceright
+ 1
+  SeqLookup: 0 "Single Substitution lookup 97" 
+EndFPST
+ChainSub2: coverage "Q_alts contextual 2"  0 0 0 1
+ 1 0 1
+  Coverage: 1 Q
+  FCoverage: 7 g j p y
+ 1
+  SeqLookup: 0 "Single Substitution lookup 96" 
+EndFPST
+ChainSub2: coverage "Q_alts contextual 1"  0 0 0 1
+ 1 0 3
+  Coverage: 1 Q
+  FCoverage: 2041 A B C D E F G H I K L M N O P R S T U V W X Y Z a b c d e f h k m n o r s t u v w x z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae egrave eacute ecircumflex edieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis Amacron amacron Abreve abreve Cacute cacute Ccircumflex ccircumflex Cdotaccent cdotaccent Ccaron ccaron Dcaron dcaron Dcroat dcroat Emacron emacron Ebreve ebreve Edotaccent edotaccent Ecaron ecaron Gcircumflex Gbreve Gdotaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Idotaccent kgreenlandic Lacute Lcaron Ldot Lslash Nacute nacute Ncaron ncaron napostrophe Omacron omacron Obreve obreve Ohungarumlaut ohungarumlaut OE oe Racute racute Rcaron rcaron Sacute sacute Scircumflex scircumflex Scaron scaron Tcaron tcaron Tbar tbar Utilde utilde Umacron umacron Ubreve ubreve Uring uring Uhungarumlaut uhungarumlaut Wcircumflex wcircumflex Ycircumflex Ydieresis Zacute zacute Zdotaccent zdotaccent Zcaron zcaron longs Ohorn ohorn Uhorn uhorn uni01C4 uni01C5 uni01C6 uni01CD uni01CE uni01CF uni01D1 uni01D2 uni01D3 uni01D4 uni01D5 uni01D6 uni01D7 uni01D8 uni01D9 uni01DA uni01DB uni01DC uni01DE uni01DF uni01E0 uni01E1 uni01E2 uni01E3 Gcaron uni01E8 uni01E9 uni01F1 uni01F2 uni01F3 uni01F4 uni01F8 uni01F9 Aringacute aringacute AEacute aeacute Oslashacute oslashacute uni0202 uni0203 uni0206 uni0207 uni020A uni020B uni020E uni020F uni0212 uni0213 uni0216 uni0217 uni021E uni021F uni0226 uni0227 uni022A uni022B uni022C uni022D uni022E uni022F uni0230 uni0231 uni0232 f.DEU u.LAT v.LATmedi f_f f_i f_l f_f_i f_f_l longs_t s_t f_f.long f.long f_h f_k f_b f_t longs_b longs_h longs_k longs.long longs_longs.long f_f_h f_f_k f_f_b f_f_t longs_longs_b longs_longs_h longs_longs_k longs_longs_t longs_s c_t germandbls.alt
+  FCoverage: 2196 A B C D E F G H I K L M N O P R S T U V W X Y Z a b c d e f h k m n o r s t u v w x z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae egrave eacute ecircumflex edieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis Amacron amacron Abreve abreve Cacute cacute Ccircumflex ccircumflex Cdotaccent cdotaccent Ccaron ccaron Dcaron dcaron Dcroat dcroat Emacron emacron Ebreve ebreve Edotaccent edotaccent Ecaron ecaron Gcircumflex Gbreve Gdotaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Idotaccent kgreenlandic Lacute Lcaron Ldot Lslash Nacute nacute Ncaron ncaron napostrophe Omacron omacron Obreve obreve Ohungarumlaut ohungarumlaut OE oe Racute racute Rcaron rcaron Sacute sacute Scircumflex scircumflex Scaron scaron Tcaron tcaron Tbar tbar Utilde utilde Umacron umacron Ubreve ubreve Uring uring Uhungarumlaut uhungarumlaut Wcircumflex wcircumflex Ycircumflex Ydieresis Zacute zacute Zdotaccent zdotaccent Zcaron zcaron longs Ohorn ohorn Uhorn uhorn uni01C4 uni01C5 uni01C6 uni01CD uni01CE uni01CF uni01D1 uni01D2 uni01D3 uni01D4 uni01D5 uni01D6 uni01D7 uni01D8 uni01D9 uni01DA uni01DB uni01DC uni01DE uni01DF uni01E0 uni01E1 uni01E2 uni01E3 Gcaron uni01E8 uni01E9 uni01F1 uni01F2 uni01F3 uni01F4 uni01F8 uni01F9 Aringacute aringacute AEacute aeacute Oslashacute oslashacute uni0202 uni0203 uni0206 uni0207 uni020A uni020B uni020E uni020F uni0212 uni0213 uni0216 uni0217 uni021E uni021F uni0226 uni0227 uni022A uni022B uni022C uni022D uni022E uni022F uni0230 uni0231 uni0232 f.DEU u.LAT v.LATmedi f_f f_i f_l f_f_i f_f_l longs_t s_t f_f.long f.long f_h f_k f_b f_t longs_b longs_h longs_k longs.long longs_longs.long f_f_h f_f_k f_f_b f_f_t longs_longs_b longs_longs_h longs_longs_k longs_longs_t longs_s c_t germandbls.alt i l igrave iacute icircumflex idieresis itilde imacron ibreve dotlessi lacute lcaron ldot lslash uni01D0 uni0209 uni020B i.TRK j.hist quoteleft quoteright
+  FCoverage: 2209 A B C D E F G H I K L M N O P R S T U V W X Y Z a b c d e f h k m n o r s t u v w x z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae egrave eacute ecircumflex edieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis Amacron amacron Abreve abreve Cacute cacute Ccircumflex ccircumflex Cdotaccent cdotaccent Ccaron ccaron Dcaron dcaron Dcroat dcroat Emacron emacron Ebreve ebreve Edotaccent edotaccent Ecaron ecaron Gcircumflex Gbreve Gdotaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Idotaccent kgreenlandic Lacute Lcaron Ldot Lslash Nacute nacute Ncaron ncaron napostrophe Omacron omacron Obreve obreve Ohungarumlaut ohungarumlaut OE oe Racute racute Rcaron rcaron Sacute sacute Scircumflex scircumflex Scaron scaron Tcaron tcaron Tbar tbar Utilde utilde Umacron umacron Ubreve ubreve Uring uring Uhungarumlaut uhungarumlaut Wcircumflex wcircumflex Ycircumflex Ydieresis Zacute zacute Zdotaccent zdotaccent Zcaron zcaron longs Ohorn ohorn Uhorn uhorn uni01C4 uni01C5 uni01C6 uni01CD uni01CE uni01CF uni01D1 uni01D2 uni01D3 uni01D4 uni01D5 uni01D6 uni01D7 uni01D8 uni01D9 uni01DA uni01DB uni01DC uni01DE uni01DF uni01E0 uni01E1 uni01E2 uni01E3 Gcaron uni01E8 uni01E9 uni01F1 uni01F2 uni01F3 uni01F4 uni01F8 uni01F9 Aringacute aringacute AEacute aeacute Oslashacute oslashacute uni0202 uni0203 uni0206 uni0207 uni020A uni020B uni020E uni020F uni0212 uni0213 uni0216 uni0217 uni021E uni021F uni0226 uni0227 uni022A uni022B uni022C uni022D uni022E uni022F uni0230 uni0231 uni0232 f.DEU u.LAT v.LATmedi f_f f_i f_l f_f_i f_f_l longs_t s_t f_f.long f.long f_h f_k f_b f_t longs_b longs_h longs_k longs.long longs_longs.long f_f_h f_f_k f_f_b f_f_t longs_longs_b longs_longs_h longs_longs_k longs_longs_t longs_s c_t germandbls.alt i l igrave iacute icircumflex idieresis itilde imacron ibreve dotlessi lacute lcaron ldot lslash uni01D0 uni0209 uni020B i.TRK j.hist q f_j longs_j f_f_j longs_longs_j
+ 1
+  SeqLookup: 0 "Single Substitution lookup 95" 
+EndFPST
+ChainSub2: coverage "Q_alts contextual 0"  0 0 0 1
+ 1 0 2
+  Coverage: 1 Q
+  FCoverage: 2041 A B C D E F G H I K L M N O P R S T U V W X Y Z a b c d e f h k m n o r s t u v w x z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae egrave eacute ecircumflex edieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis Amacron amacron Abreve abreve Cacute cacute Ccircumflex ccircumflex Cdotaccent cdotaccent Ccaron ccaron Dcaron dcaron Dcroat dcroat Emacron emacron Ebreve ebreve Edotaccent edotaccent Ecaron ecaron Gcircumflex Gbreve Gdotaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Idotaccent kgreenlandic Lacute Lcaron Ldot Lslash Nacute nacute Ncaron ncaron napostrophe Omacron omacron Obreve obreve Ohungarumlaut ohungarumlaut OE oe Racute racute Rcaron rcaron Sacute sacute Scircumflex scircumflex Scaron scaron Tcaron tcaron Tbar tbar Utilde utilde Umacron umacron Ubreve ubreve Uring uring Uhungarumlaut uhungarumlaut Wcircumflex wcircumflex Ycircumflex Ydieresis Zacute zacute Zdotaccent zdotaccent Zcaron zcaron longs Ohorn ohorn Uhorn uhorn uni01C4 uni01C5 uni01C6 uni01CD uni01CE uni01CF uni01D1 uni01D2 uni01D3 uni01D4 uni01D5 uni01D6 uni01D7 uni01D8 uni01D9 uni01DA uni01DB uni01DC uni01DE uni01DF uni01E0 uni01E1 uni01E2 uni01E3 Gcaron uni01E8 uni01E9 uni01F1 uni01F2 uni01F3 uni01F4 uni01F8 uni01F9 Aringacute aringacute AEacute aeacute Oslashacute oslashacute uni0202 uni0203 uni0206 uni0207 uni020A uni020B uni020E uni020F uni0212 uni0213 uni0216 uni0217 uni021E uni021F uni0226 uni0227 uni022A uni022B uni022C uni022D uni022E uni022F uni0230 uni0231 uni0232 f.DEU u.LAT v.LATmedi f_f f_i f_l f_f_i f_f_l longs_t s_t f_f.long f.long f_h f_k f_b f_t longs_b longs_h longs_k longs.long longs_longs.long f_f_h f_f_k f_f_b f_f_t longs_longs_b longs_longs_h longs_longs_k longs_longs_t longs_s c_t germandbls.alt
+  FCoverage: 2041 A B C D E F G H I K L M N O P R S T U V W X Y Z a b c d e f h k m n o r s t u v w x z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae egrave eacute ecircumflex edieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis Amacron amacron Abreve abreve Cacute cacute Ccircumflex ccircumflex Cdotaccent cdotaccent Ccaron ccaron Dcaron dcaron Dcroat dcroat Emacron emacron Ebreve ebreve Edotaccent edotaccent Ecaron ecaron Gcircumflex Gbreve Gdotaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Idotaccent kgreenlandic Lacute Lcaron Ldot Lslash Nacute nacute Ncaron ncaron napostrophe Omacron omacron Obreve obreve Ohungarumlaut ohungarumlaut OE oe Racute racute Rcaron rcaron Sacute sacute Scircumflex scircumflex Scaron scaron Tcaron tcaron Tbar tbar Utilde utilde Umacron umacron Ubreve ubreve Uring uring Uhungarumlaut uhungarumlaut Wcircumflex wcircumflex Ycircumflex Ydieresis Zacute zacute Zdotaccent zdotaccent Zcaron zcaron longs Ohorn ohorn Uhorn uhorn uni01C4 uni01C5 uni01C6 uni01CD uni01CE uni01CF uni01D1 uni01D2 uni01D3 uni01D4 uni01D5 uni01D6 uni01D7 uni01D8 uni01D9 uni01DA uni01DB uni01DC uni01DE uni01DF uni01E0 uni01E1 uni01E2 uni01E3 Gcaron uni01E8 uni01E9 uni01F1 uni01F2 uni01F3 uni01F4 uni01F8 uni01F9 Aringacute aringacute AEacute aeacute Oslashacute oslashacute uni0202 uni0203 uni0206 uni0207 uni020A uni020B uni020E uni020F uni0212 uni0213 uni0216 uni0217 uni021E uni021F uni0226 uni0227 uni022A uni022B uni022C uni022D uni022E uni022F uni0230 uni0231 uni0232 f.DEU u.LAT v.LATmedi f_f f_i f_l f_f_i f_f_l longs_t s_t f_f.long f.long f_h f_k f_b f_t longs_b longs_h longs_k longs.long longs_longs.long f_f_h f_f_k f_f_b f_f_t longs_longs_b longs_longs_h longs_longs_k longs_longs_t longs_s c_t germandbls.alt
+ 1
+  SeqLookup: 0 "Single Substitution lookup 94" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 23"  0 0 0 1
+ 1 0 2
+  Coverage: 5 longs
+  FCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
+  FCoverage: 5 longs
+ 1
+  SeqLookup: 0 "Single Substitution lookup 89" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 22"  0 0 0 1
+ 1 2 0
+  Coverage: 13 b h k l thorn
+  BCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
+  BCoverage: 17 f._asc longs._asc
+ 1
+  SeqLookup: 0 "Single Substitution lookup 88" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 21"  0 0 0 1
+ 1 0 2
+  Coverage: 7 f longs
+  FCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
+  FCoverage: 13 b h k l thorn
+ 1
+  SeqLookup: 0 "Single Substitution lookup 87" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 20"  0 0 0 1
+ 1 2 0
+  Coverage: 3 i j
+  BCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
+  BCoverage: 13 f._i longs._i
+ 1
+  SeqLookup: 0 "Single Substitution lookup 86" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 19"  0 0 0 1
+ 1 0 2
+  Coverage: 5 f.DEU
+  FCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
+  FCoverage: 1 l
+ 1
+  SeqLookup: 0 "Single Substitution lookup 85" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 18"  0 0 0 1
+ 1 0 2
+  Coverage: 13 f f.DEU longs
+  FCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
+  FCoverage: 3 i j
+ 1
+  SeqLookup: 0 "Single Substitution lookup 84" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 17"  0 0 0 1
+ 1 2 0
+  Coverage: 1 t
+  BCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
+  BCoverage: 7 f f.DEU
+ 1
+  SeqLookup: 0 "Single Substitution lookup 83" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 16"  0 0 0 1
+ 1 0 2
+  Coverage: 7 f f.DEU
+  FCoverage: 687 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0323 uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0353 uni037A
+  FCoverage: 7 f f.DEU
+ 1
+  SeqLookup: 0 "Single Substitution lookup 82" 
+EndFPST
+ChainSub2: glyph "liga_f contextual 15"  0 0 0 1
+ String: 5 longs
+ BString: 0 
+ FString: 5 longs
+ 1
+  SeqLookup: 0 "Single Substitution lookup 81" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 14"  0 0 0 1
+ 1 1 0
+  Coverage: 13 b h k l thorn
+  BCoverage: 17 f._asc longs._asc
+ 1
+  SeqLookup: 0 "Single Substitution lookup 80" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 13"  0 0 0 1
+ 1 2 2
+  Coverage: 5 f.DEU
+  BCoverage: 1 a
+  BCoverage: 3 K k
+  FCoverage: 1 k
+  FCoverage: 1 a
+ 1
+  SeqLookup: 0 "Single Substitution lookup 79" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 12"  0 0 0 1
+ 1 0 1
+  Coverage: 7 f longs
+  FCoverage: 13 b h k l thorn
+ 1
+  SeqLookup: 0 "Single Substitution lookup 78" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 11"  0 0 0 1
+ 1 1 0
+  Coverage: 3 i j
+  BCoverage: 13 f._i longs._i
+ 1
+  SeqLookup: 0 "Single Substitution lookup 77" 
+EndFPST
+ChainSub2: glyph "liga_f contextual 10"  0 0 0 1
+ String: 5 f.DEU
+ BString: 0 
+ FString: 1 l
+ 1
+  SeqLookup: 0 "Single Substitution lookup 76" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 9"  0 0 0 1
+ 1 0 4
+  Coverage: 5 f.DEU
+  FCoverage: 1 j
+  FCoverage: 1 e
+  FCoverage: 1 l
+  FCoverage: 1 l
+ 1
+  SeqLookup: 0 "Single Substitution lookup 75" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 8"  0 0 0 1
+ 1 0 4
+  Coverage: 5 f.DEU
+  FCoverage: 1 j
+  FCoverage: 1 o
+  FCoverage: 1 r
+  FCoverage: 1 d
+ 1
+  SeqLookup: 0 "Single Substitution lookup 74" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 7"  0 0 0 1
+ 1 0 1
+  Coverage: 7 f longs
+  FCoverage: 1 j
+ 1
+  SeqLookup: 0 "Single Substitution lookup 73" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 6"  0 0 0 1
+ 1 0 1
+  Coverage: 13 f f.DEU longs
+  FCoverage: 1 i
+ 1
+  SeqLookup: 0 "Single Substitution lookup 72" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 5"  0 0 0 1
+ 1 1 0
+  Coverage: 1 t
+  BCoverage: 7 f f.DEU
+ 1
+  SeqLookup: 0 "Single Substitution lookup 71" 
+EndFPST
+ChainSub2: coverage "liga_f contextual 4"  0 0 0 1
+ 1 0 1
+  Coverage: 7 f f.DEU
+  FCoverage: 7 f f.DEU
+ 1
+  SeqLookup: 0 "Single Substitution lookup 70" 
+EndFPST
+ChainSub2: glyph "liga_f contextual 3"  0 0 0 1
+ String: 1 t
+ BString: 7 uni200C
+ FString: 0 
+ 0
+EndFPST
+ChainSub2: coverage "liga_f contextual 2"  0 0 0 1
+ 1 0 1
+  Coverage: 13 f f.DEU longs
+  FCoverage: 7 uni200C
+ 0
+EndFPST
+ChainSub2: glyph "liga_f contextual 1"  0 0 0 1
+ String: 5 longs
+ BString: 12 longs._longs
+ FString: 5 longs
+ 0
+EndFPST
+ChainSub2: coverage "liga_f contextual 0"  0 0 0 1
+ 1 1 1
+  Coverage: 7 f f.DEU
+  BCoverage: 4 f._f
+  FCoverage: 7 f f.DEU
+ 0
+EndFPST
+ChainSub2: coverage "Smallcaps2 contextual 1"  0 0 0 1
+ 1 1 0
+  Coverage: 7 uni0312
+  BCoverage: 1 g
+ 1
+  SeqLookup: 0 "Single Substitution lookup 67" 
+EndFPST
+ChainSub2: coverage "Smallcaps2 contextual 0"  0 0 0 1
+ 1 1 0
+  Coverage: 24 uni030C.alt uni030C.alt1
+  BCoverage: 13 D.sc d T.sc t
+ 1
+  SeqLookup: 0 "Single Substitution lookup 66" 
+EndFPST
+ChainSub2: coverage "historic_apostrophe subtable"  0 0 0 1
+ 1 0 1
+  Coverage: 10 quoteright
+  FCoverage: 191 a c e g n r s v x z ccedilla aogonek eogonek dotlessi eng uni0157 scedilla uni01DD uni01E5 uni0219 uni0229 uni0237 v.LAT m o p q u w ae oe uogonek uni01EB u.LAT u.LATmedi v.LAT germandbls.alt
+ 1
+  SeqLookup: 0 "Single Substitution lookup 48" 
+EndFPST
+ChainSub2: coverage "longs_replacement subtable"  0 0 0 1
+ 1 0 1
+  Coverage: 1 s
+  FCoverage: 319 a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde uni1EBD otilde utilde oe f.DEU f.long i.TRK u.LAT u.LATmedi v.LAT v.LATmedi longs.long f.long germandbls.alt hyphen uni200D
+ 1
+  SeqLookup: 0 "Single Substitution lookup 44" 
+EndFPST
+ChainSub2: coverage "historic_u contextual 4"  0 0 0 1
+ 1 0 0
+  Coverage: 6 U.sc u
+ 1
+  SeqLookup: 0 "Single Substitution lookup 42" 
+EndFPST
+ChainSub2: glyph "historic_u contextual 3"  0 0 0 1
+ String: 1 U
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 41" 
+EndFPST
+ChainSub2: coverage "historic_u contextual 2"  0 0 0 1
+ 1 1 0
+  Coverage: 1 v
+  BCoverage: 1389 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent uni0122 Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex uni0136 Lacute uni013B Lcaron Ldot Lslash Nacute uni0145 Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron Q.long U.LAT Adieresis.deu Odieresis.deu Udieresis.deu a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde uni1EBD otilde utilde oe f.DEU f.long i.TRK u.LAT u.LATmedi v.LAT v.LATmedi longs.long f.long germandbls.alt f_f f_i f_l f_f_i f_f_l longs_t s_t longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s c_t f_f.long t_t f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.long quoteright quoteright.01
+ 1
+  SeqLookup: 0 "Single Substitution lookup 40" 
+EndFPST
+ChainSub2: glyph "historic_u contextual 1"  0 0 0 1
+ String: 1 u
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 39" 
+EndFPST
+ChainSub2: coverage "historic_u contextual 0"  0 0 0 1
+ 1 1 0
+  Coverage: 1 u
+  BCoverage: 1389 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent uni0122 Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex uni0136 Lacute uni013B Lcaron Ldot Lslash Nacute uni0145 Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron Q.long U.LAT Adieresis.deu Odieresis.deu Udieresis.deu a b c d e f g h i j k l m n o p q r s t u v w x y z longs germandbls adieresis edieresis odieresis udieresis idieresis aacute eacute iacute oacute uacute agrave egrave igrave ograve ugrave atilde uni1EBD otilde utilde oe f.DEU f.long i.TRK u.LAT u.LATmedi v.LAT v.LATmedi longs.long f.long germandbls.alt f_f f_i f_l f_f_i f_f_l longs_t s_t longs_longs_l longs_longs_i longs_i longs_longs longs_l T_h c_h c_k longs_s c_t f_f.long t_t f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs_longs.long quoteright quoteright.01
+ 0
+EndFPST
+ChainSub2: coverage "frac contextual 1"  0 0 0 1
+ 1 0 1
+  Coverage: 49 zero one two three four five six seven eight nine
+  FCoverage: 164 slash fraction zero one two three four five six seven eight nine zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn
+ 1
+  SeqLookup: 0 "Single Substitution lookup 32" 
+EndFPST
+ChainSub2: coverage "frac contextual 0"  0 0 0 1
+ 1 1 0
+  Coverage: 49 zero one two three four five six seven eight nine
+  BCoverage: 164 slash fraction zero one two three four five six seven eight nine zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs
+ 1
+  SeqLookup: 0 "Single Substitution lookup 31" 
+EndFPST
+ChainSub2: coverage "CCMP_stackgrk2 subtable"  0 0 0 1
+ 1 1 0
+  Coverage: 19 gravecomb acutecomb
+  BCoverage: 23 uni0313.grk uni0314.grk
+ 1
+  SeqLookup: 0 "Single Substitution lookup 24" 
+EndFPST
+ChainSub2: coverage "CCMP_stackgrk1 contextual 3"  0 0 0 1
+ 1 1 0
+  Coverage: 19 gravecomb acutecomb
+  BCoverage: 91 alpha epsilon eta iota omicron upsilon omega Alpha Epsilon Eta Iota Omicron Upsilon uni03A9
+ 1
+  SeqLookup: 0 "Single Substitution lookup 22" 
+EndFPST
+ChainSub2: coverage "CCMP_stackgrk1 contextual 2"  0 0 0 1
+ 1 1 1
+  Coverage: 15 uni0313 uni0314
+  BCoverage: 91 alpha epsilon eta iota omicron upsilon omega Alpha Epsilon Eta Iota Omicron Upsilon uni03A9
+  FCoverage: 19 uni0342 uni0342.alt
+ 1
+  SeqLookup: 0 "Single Substitution lookup 21" 
+EndFPST
+ChainSub2: coverage "CCMP_stackgrk1 contextual 1"  0 0 0 1
+ 1 1 1
+  Coverage: 15 uni0313 uni0314
+  BCoverage: 91 alpha epsilon eta iota omicron upsilon omega Alpha Epsilon Eta Iota Omicron Upsilon uni03A9
+  FCoverage: 19 gravecomb acutecomb
+ 1
+  SeqLookup: 0 "Single Substitution lookup 20" 
+EndFPST
+ChainSub2: coverage "CCMP_stackgrk1 contextual 0"  0 0 0 1
+ 1 1 1
+  Coverage: 7 uni0308
+  BCoverage: 91 alpha epsilon eta iota omicron upsilon omega Alpha Epsilon Eta Iota Omicron Upsilon uni03A9
+  FCoverage: 19 gravecomb acutecomb
+ 1
+  SeqLookup: 0 "Single Substitution lookup 19" 
+EndFPST
+ChainSub2: coverage "CCMP_stacking2 subtable"  0 0 0 1
+ 1 1 0
+  Coverage: 91 acutecomb gravecomb uni0302 tildecomb uni0304 uni0306 uni0307 hookabovecomb uni030A uni030C
+  BCoverage: 175 acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack uni0302.flat uni030C.flat
+ 1
+  SeqLookup: 0 "Single Substitution lookup 17" 
+EndFPST
+ChainSub2: coverage "CCMP_stacking1 subtable"  0 0 0 1
+ 1 0 1
+  Coverage: 91 acutecomb gravecomb uni0302 tildecomb uni0304 uni0306 uni0307 hookabovecomb uni030A uni030C
+  FCoverage: 255 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr
+ 1
+  SeqLookup: 0 "Single Substitution lookup 15" 
+EndFPST
+ChainSub2: coverage "CCMP_contextual contextual 2"  0 0 0 1
+ 1 1 0
+  Coverage: 35 gravecomb acutecomb uni0302 uni030C
+  BCoverage: 17 b d f h k l thorn
+ 1
+  SeqLookup: 0 "Single Substitution lookup 13" 
+EndFPST
+ChainSub2: coverage "CCMP_contextual contextual 1"  0 0 0 1
+ 1 1 0
+  Coverage: 7 uni030C
+  BCoverage: 5 l d t
+ 1
+  SeqLookup: 0 "Single Substitution lookup 12" 
+EndFPST
+ChainSub2: coverage "CCMP_contextual contextual 0"  0 0 0 1
+ 1 0 1
+  Coverage: 3 i j
+  FCoverage: 255 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni0340 uni0341 uni0351 uni0357 uni0364 uni1DD3 uni0306.cyr
+ 1
+  SeqLookup: 0 "Single Substitution lookup 11" 
+EndFPST
+ChainSub2: coverage "loclCAT contextual 1"  0 0 0 1
+ 1 1 1
+  Coverage: 14 periodcentered
+  BCoverage: 1 L
+  FCoverage: 3 L l
+ 1
+  SeqLookup: 0 "Single Substitution lookup 4" 
+EndFPST
+ChainSub2: glyph "loclCAT contextual 0"  0 0 0 1
+ String: 14 periodcentered
+ BString: 1 l
+ FString: 1 l
+ 1
+  SeqLookup: 0 "Single Substitution lookup 3" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 83"  0 0 0 1
+ 1 0 2
+  Coverage: 7 f.short
+  FCoverage: 52 dotlessi i.dotless j.dotless uni025F uni0269 uni026A
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 118" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 82"  0 0 0 1
+ 1 0 2
+  Coverage: 7 uni0283
+  FCoverage: 52 dotlessi i.dotless j.dotless uni025F uni0269 uni026A
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 117" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 81"  0 0 0 1
+ 1 0 2
+  Coverage: 7 uni0283
+  FCoverage: 181 a aogonek c ccedilla d uni01C6 uni01F3 uni0238 uni0247 uni0254 uni0255 uni0256 uni0257 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0260 g e eogonek uni1EB9 s scedilla
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 116" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 80"  0 0 0 1
+ 1 0 2
+  Coverage: 7 uni0283
+  FCoverage: 63 ae o uni01EB oe ohorn uni1EE3 q uni024B uni0251 uni0261 uni0275
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 115" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 79"  0 0 0 1
+ 1 0 2
+  Coverage: 7 uni0283
+  FCoverage: 52 dotlessi i.dotless j.dotless uni025F uni0269 uni026A
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 114" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 78"  0 0 0 1
+ 1 0 2
+  Coverage: 7 uni0283
+  FCoverage: 181 a aogonek c ccedilla d uni01C6 uni01F3 uni0238 uni0247 uni0254 uni0255 uni0256 uni0257 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0260 g e eogonek uni1EB9 s scedilla
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 113" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 77"  0 0 0 1
+ 1 0 2
+  Coverage: 7 uni0283
+  FCoverage: 63 ae o uni01EB oe ohorn uni1EE3 q uni024B uni0251 uni0261 uni0275
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 112" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 76"  0 0 0 1
+ 1 0 2
+  Coverage: 34 f f_f f.long f.DEU f_f.long florin
+  FCoverage: 52 dotlessi i.dotless j.dotless uni025F uni0269 uni026A
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 111" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 75"  0 0 0 1
+ 1 0 2
+  Coverage: 34 f f_f f.long f.DEU f_f.long florin
+  FCoverage: 181 a aogonek c ccedilla d uni01C6 uni01F3 uni0238 uni0247 uni0254 uni0255 uni0256 uni0257 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0260 g e eogonek uni1EB9 s scedilla
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 110" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 74"  0 0 0 1
+ 1 0 2
+  Coverage: 34 f f_f f.long f.DEU f_f.long florin
+  FCoverage: 52 dotlessi i.dotless j.dotless uni025F uni0269 uni026A
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 109" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 73"  0 0 0 1
+ 1 0 2
+  Coverage: 34 f f_f f.long f.DEU f_f.long florin
+  FCoverage: 181 a aogonek c ccedilla d uni01C6 uni01F3 uni0238 uni0247 uni0254 uni0255 uni0256 uni0257 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0260 g e eogonek uni1EB9 s scedilla
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 108" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 72"  0 0 0 1
+ 1 0 2
+  Coverage: 34 f f_f f.long f.DEU f_f.long florin
+  FCoverage: 63 ae o uni01EB oe ohorn uni1EE3 q uni024B uni0251 uni0261 uni0275
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 107" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 71"  0 0 0 1
+ 1 0 2
+  Coverage: 6 U.sc u
+  FCoverage: 335 acutecomb acutecomb uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311 uni0302 uni030C uni0302 uni030C gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308 uni030F
+  FCoverage: 6 A.sc a
+ 1
+  SeqLookup: 0 "Single Positioning lookup 106" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 70"  0 0 0 1
+ 1 0 2
+  Coverage: 24 O.sc o D.sc d Eth.sc eth
+  FCoverage: 335 acutecomb acutecomb uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311 uni0302 uni030C uni0302 uni030C gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308 uni030F
+  FCoverage: 6 Y.sc y
+ 1
+  SeqLookup: 0 "Single Positioning lookup 105" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 69"  0 0 0 1
+ 1 0 2
+  Coverage: 24 O.sc o D.sc d Eth.sc eth
+  FCoverage: 335 acutecomb acutecomb uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311 uni0302 uni030C uni0302 uni030C gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308 uni030F
+  FCoverage: 13 V.sc v W.sc w
+ 1
+  SeqLookup: 0 "Single Positioning lookup 104" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 68"  0 0 0 1
+ 1 0 2
+  Coverage: 24 O.sc o D.sc d Eth.sc eth
+  FCoverage: 335 acutecomb acutecomb uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311 uni0302 uni030C uni0302 uni030C gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308 uni030F
+  FCoverage: 6 A.sc a
+ 1
+  SeqLookup: 0 "Single Positioning lookup 103" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 67"  0 0 0 1
+ 1 0 2
+  Coverage: 6 A.sc a
+  FCoverage: 335 acutecomb acutecomb uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311 uni0302 uni030C uni0302 uni030C gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308 uni030F
+  FCoverage: 24 quoteright quotedblright
+ 1
+  SeqLookup: 0 "Single Positioning lookup 102" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 66"  0 0 0 1
+ 1 0 2
+  Coverage: 6 A.sc a
+  FCoverage: 335 acutecomb acutecomb uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311 uni0302 uni030C uni0302 uni030C gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308 uni030F
+  FCoverage: 13 V.sc v W.sc w
+ 1
+  SeqLookup: 0 "Single Positioning lookup 101" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 65"  0 0 0 1
+ 1 0 2
+  Coverage: 6 A.sc a
+  FCoverage: 335 acutecomb acutecomb uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311 uni0302 uni030C uni0302 uni030C gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308 uni030F
+  FCoverage: 6 U.sc u
+ 1
+  SeqLookup: 0 "Single Positioning lookup 100" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 64"  0 0 0 1
+ 1 0 2
+  Coverage: 6 A.sc a
+  FCoverage: 335 acutecomb acutecomb uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311 uni0302 uni030C uni0302 uni030C gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308 uni030F
+  FCoverage: 6 T.sc t
+ 1
+  SeqLookup: 0 "Single Positioning lookup 99" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 63"  0 0 0 1
+ 1 0 2
+  Coverage: 6 A.sc a
+  FCoverage: 335 acutecomb acutecomb uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311 uni0302 uni030C uni0302 uni030C gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308 uni030F
+  FCoverage: 34 C.sc c G.sc g O.sc o Q.sc q S.sc s
+ 1
+  SeqLookup: 0 "Single Positioning lookup 98" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 62"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 7 uni030F
+ 1
+  SeqLookup: 0 "Single Positioning lookup 97" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 61"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 87 gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308
+ 1
+  SeqLookup: 0 "Single Positioning lookup 96" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 60"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 31 uni0302 uni030C uni0302 uni030C
+ 1
+  SeqLookup: 0 "Single Positioning lookup 95" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 59"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 75 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311
+ 1
+  SeqLookup: 0 "Single Positioning lookup 94" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 58"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 111 uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314
+ 1
+  SeqLookup: 0 "Single Positioning lookup 93" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 57"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 19 acutecomb acutecomb
+ 1
+  SeqLookup: 0 "Single Positioning lookup 92" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 56"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 34 C.sc c G.sc g O.sc o Q.sc q S.sc s
+  FCoverage: 7 uni030F
+ 1
+  SeqLookup: 0 "Single Positioning lookup 91" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 55"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 34 C.sc c G.sc g O.sc o Q.sc q S.sc s
+  FCoverage: 87 gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308
+ 1
+  SeqLookup: 0 "Single Positioning lookup 90" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 54"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 34 C.sc c G.sc g O.sc o Q.sc q S.sc s
+  FCoverage: 31 uni0302 uni030C uni0302 uni030C
+ 1
+  SeqLookup: 0 "Single Positioning lookup 89" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 53"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 6 A.sc a
+  FCoverage: 7 uni030F
+ 1
+  SeqLookup: 0 "Single Positioning lookup 88" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 52"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 6 A.sc a
+  FCoverage: 87 gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308
+ 1
+  SeqLookup: 0 "Single Positioning lookup 87" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 51"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 6 A.sc a
+  FCoverage: 31 uni0302 uni030C uni0302 uni030C
+ 1
+  SeqLookup: 0 "Single Positioning lookup 86" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 50"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 6 A.sc a
+  FCoverage: 75 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311
+ 1
+  SeqLookup: 0 "Single Positioning lookup 85" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 49"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 6 A.sc a
+  FCoverage: 111 uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314
+ 1
+  SeqLookup: 0 "Single Positioning lookup 84" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 48"  0 0 0 1
+ 1 0 2
+  Coverage: 17 Y uni01B3 uni024E
+  FCoverage: 6 A.sc a
+  FCoverage: 19 acutecomb acutecomb
+ 1
+  SeqLookup: 0 "Single Positioning lookup 83" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 47"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 7 uni030F
+ 1
+  SeqLookup: 0 "Single Positioning lookup 82" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 46"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 87 gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308
+ 1
+  SeqLookup: 0 "Single Positioning lookup 81" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 45"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 31 uni0302 uni030C uni0302 uni030C
+ 1
+  SeqLookup: 0 "Single Positioning lookup 80" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 44"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 75 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311
+ 1
+  SeqLookup: 0 "Single Positioning lookup 79" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 43"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 111 uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314
+ 1
+  SeqLookup: 0 "Single Positioning lookup 78" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 42"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 19 acutecomb acutecomb
+ 1
+  SeqLookup: 0 "Single Positioning lookup 77" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 41"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 34 C.sc c G.sc g O.sc o Q.sc q S.sc s
+  FCoverage: 7 uni030F
+ 1
+  SeqLookup: 0 "Single Positioning lookup 76" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 40"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 34 C.sc c G.sc g O.sc o Q.sc q S.sc s
+  FCoverage: 87 gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308
+ 1
+  SeqLookup: 0 "Single Positioning lookup 75" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 39"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 34 C.sc c G.sc g O.sc o Q.sc q S.sc s
+  FCoverage: 31 uni0302 uni030C uni0302 uni030C
+ 1
+  SeqLookup: 0 "Single Positioning lookup 74" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 38"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 6 A.sc a
+  FCoverage: 7 uni030F
+ 1
+  SeqLookup: 0 "Single Positioning lookup 73" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 37"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 6 A.sc a
+  FCoverage: 87 gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308
+ 1
+  SeqLookup: 0 "Single Positioning lookup 72" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 36"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 6 A.sc a
+  FCoverage: 31 uni0302 uni030C uni0302 uni030C
+ 1
+  SeqLookup: 0 "Single Positioning lookup 71" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 35"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 6 A.sc a
+  FCoverage: 75 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311
+ 1
+  SeqLookup: 0 "Single Positioning lookup 70" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 34"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 6 A.sc a
+  FCoverage: 111 uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314
+ 1
+  SeqLookup: 0 "Single Positioning lookup 69" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 33"  0 0 0 1
+ 1 0 2
+  Coverage: 11 V W uni0194
+  FCoverage: 6 A.sc a
+  FCoverage: 19 acutecomb acutecomb
+ 1
+  SeqLookup: 0 "Single Positioning lookup 68" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 32"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 7 uni030F
+ 1
+  SeqLookup: 0 "Single Positioning lookup 67" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 31"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 87 gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308
+ 1
+  SeqLookup: 0 "Single Positioning lookup 66" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 30"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 31 uni0302 uni030C uni0302 uni030C
+ 1
+  SeqLookup: 0 "Single Positioning lookup 65" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 29"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 75 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311
+ 1
+  SeqLookup: 0 "Single Positioning lookup 64" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 28"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 111 uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314
+ 1
+  SeqLookup: 0 "Single Positioning lookup 63" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 27"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 18 I.sc i dotlessi.sc
+  FCoverage: 19 acutecomb acutecomb
+ 1
+  SeqLookup: 0 "Single Positioning lookup 62" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 26"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 34 C.sc c G.sc g O.sc o Q.sc q S.sc s
+  FCoverage: 7 uni030F
+ 1
+  SeqLookup: 0 "Single Positioning lookup 61" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 25"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 34 C.sc c G.sc g O.sc o Q.sc q S.sc s
+  FCoverage: 87 gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308
+ 1
+  SeqLookup: 0 "Single Positioning lookup 60" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 24"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 34 C.sc c G.sc g O.sc o Q.sc q S.sc s
+  FCoverage: 31 uni0302 uni030C uni0302 uni030C
+ 1
+  SeqLookup: 0 "Single Positioning lookup 59" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 23"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 34 C.sc c G.sc g O.sc o Q.sc q S.sc s
+  FCoverage: 75 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311
+ 1
+  SeqLookup: 0 "Single Positioning lookup 58" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 22"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 83 B.sc b D.sc d E.sc e F.sc f H.sc h K.sc k L.sc l M.sc m N.sc n P.sc p R.sc r U.sc u
+  FCoverage: 7 uni030F
+ 1
+  SeqLookup: 0 "Single Positioning lookup 57" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 21"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 83 B.sc b D.sc d E.sc e F.sc f H.sc h K.sc k L.sc l M.sc m N.sc n P.sc p R.sc r U.sc u
+  FCoverage: 87 gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308
+ 1
+  SeqLookup: 0 "Single Positioning lookup 56" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 20"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 83 B.sc b D.sc d E.sc e F.sc f H.sc h K.sc k L.sc l M.sc m N.sc n P.sc p R.sc r U.sc u
+  FCoverage: 31 uni0302 uni030C uni0302 uni030C
+ 1
+  SeqLookup: 0 "Single Positioning lookup 55" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 19"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 52 dotlessi i.dotless j.dotless uni025F uni0269 uni026A
+  FCoverage: 7 uni030F
+ 1
+  SeqLookup: 0 "Single Positioning lookup 54" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 18"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 52 dotlessi i.dotless j.dotless uni025F uni0269 uni026A
+  FCoverage: 87 gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308
+ 1
+  SeqLookup: 0 "Single Positioning lookup 53" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 17"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 52 dotlessi i.dotless j.dotless uni025F uni0269 uni026A
+  FCoverage: 31 uni0302 uni030C uni0302 uni030C
+ 1
+  SeqLookup: 0 "Single Positioning lookup 52" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 16"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 52 dotlessi i.dotless j.dotless uni025F uni0269 uni026A
+  FCoverage: 75 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311
+ 1
+  SeqLookup: 0 "Single Positioning lookup 51" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 15"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 52 dotlessi i.dotless j.dotless uni025F uni0269 uni026A
+  FCoverage: 111 uni0307 uni030B uni030D uni0312 uni0313 uni0314 uni033D uni0351 uni0357 uni0307 uni030B uni0312 uni0313 uni0314
+ 1
+  SeqLookup: 0 "Single Positioning lookup 50" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 14"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 52 dotlessi i.dotless j.dotless uni025F uni0269 uni026A
+  FCoverage: 19 acutecomb acutecomb
+ 1
+  SeqLookup: 0 "Single Positioning lookup 49" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 13"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 57 v w wgrave wacute wcircumflex wdieresis uni1E87 uni1E89 x
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 48" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 12"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 8 t tcaron
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 47" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 11"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 205 m uni1E3F uni1E41 uni1E43 n uni0146 uni1E47 uni1E49 uni1E4B p r u uogonek uni1EE5 uhorn uni1EF1 z uni01BF uni01B6 uni01BA uni021D uni024D uni0250 uni0252 uni026F uni0270 uni0271 uni0272 uni0273 uni0274 eng
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 46" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 10"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 63 ae o uni01EB oe ohorn uni1EE3 q uni024B uni0251 uni0261 uni0275
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 45" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 9"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 181 a aogonek c ccedilla d uni01C6 uni01F3 uni0238 uni0247 uni0254 uni0255 uni0256 uni0257 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0260 g e eogonek uni1EB9 s scedilla
+  FCoverage: 73 acutecomb uni0302 uni030B uni0311 uni0307 uni030D uni033E uni0351 uni0357
+ 1
+  SeqLookup: 0 "Single Positioning lookup 44" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 8"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 57 v w wgrave wacute wcircumflex wdieresis uni1E87 uni1E89 x
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 43" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 7"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 8 t tcaron
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 42" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 6"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 205 m uni1E3F uni1E41 uni1E43 n uni0146 uni1E47 uni1E49 uni1E4B p r u uogonek uni1EE5 uhorn uni1EF1 z uni01BF uni01B6 uni01BA uni021D uni024D uni0250 uni0252 uni026F uni0270 uni0271 uni0272 uni0273 uni0274 eng
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 41" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 5"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 63 ae o uni01EB oe ohorn uni1EE3 q uni024B uni0251 uni0261 uni0275
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 40" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 4"  0 0 0 1
+ 1 0 2
+  Coverage: 45 T uni0162 Tcaron Tbar uni01AC uni01AE uni023E
+  FCoverage: 181 a aogonek c ccedilla d uni01C6 uni01F3 uni0238 uni0247 uni0254 uni0255 uni0256 uni0257 uni0258 uni0259 uni025A uni025B uni025C uni025D uni025E uni0260 g e eogonek uni1EB9 s scedilla
+  FCoverage: 137 gravecomb uni0306 hookabovecomb uni030C uni030F tildecomb uni0304 uni0305 uni0308 uni030A uni030E uni0312 uni0313 uni0314 uni033D uni0364
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 3"  0 0 0 1
+ 1 0 2
+  Coverage: 1 P
+  FCoverage: 6 A.sc a
+  FCoverage: 7 uni030F
+ 1
+  SeqLookup: 0 "Single Positioning lookup 38" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 2"  0 0 0 1
+ 1 0 2
+  Coverage: 1 P
+  FCoverage: 6 A.sc a
+  FCoverage: 87 gravecomb tildecomb uni0304 uni0306 uni0308 gravecomb tildecomb uni0304 uni0306 uni0308
+ 1
+  SeqLookup: 0 "Single Positioning lookup 37" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 1"  0 0 0 1
+ 1 0 2
+  Coverage: 1 P
+  FCoverage: 6 A.sc a
+  FCoverage: 31 uni0302 uni030C uni0302 uni030C
+ 1
+  SeqLookup: 0 "Single Positioning lookup 36" 
+EndFPST
+ChainPos2: coverage "ckern3 contextual 0"  0 0 0 1
+ 1 0 2
+  Coverage: 1 P
+  FCoverage: 6 A.sc a
+  FCoverage: 75 hookabovecomb uni030A uni030E uni0311 uni0364 hookabovecomb uni030A uni0311
+ 1
+  SeqLookup: 0 "Single Positioning lookup 35" 
+EndFPST
+ChainPos2: coverage "ckern2 contextual 1"  0 0 0 1
+ 1 0 2
+  Coverage: 68 Upsilon Upsilontonos Upsilondieresis uni1F59 uni1F5B uni1F5D uni1F5F
+  FCoverage: 392 uni0308 uni0313 uni0314 uni0342 uni0342.alt gravecomb.grk acutecomb.grk uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308.grkstack uni0313.grkstack uni0314.grkstack uni0308 uni0313 uni0314 uni0342.sc gravecomb.grksc acutecomb.grksc uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308.grkstacksc uni0313.grkstacksc uni0314.grkstacksc uni0342.altsc
+  FCoverage: 114 alpha uni1FB3 gamma epsilon eta uni1FC3 iota kappa mu nu omicron pi rho sigma sigma1 tau upsilon chi omega uni1FF3
+ 1
+  SeqLookup: 0 "Single Positioning lookup 33" 
+EndFPST
+ChainPos2: coverage "ckern2 contextual 0"  0 0 0 1
+ 1 0 3
+  Coverage: 68 Upsilon Upsilontonos Upsilondieresis uni1F59 uni1F5B uni1F5D uni1F5F
+  FCoverage: 392 uni0308 uni0313 uni0314 uni0342 uni0342.alt gravecomb.grk acutecomb.grk uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308.grkstack uni0313.grkstack uni0314.grkstack uni0308 uni0313 uni0314 uni0342.sc gravecomb.grksc acutecomb.grksc uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308.grkstacksc uni0313.grkstacksc uni0314.grkstacksc uni0342.altsc
+  FCoverage: 392 uni0308 uni0313 uni0314 uni0342 uni0342.alt gravecomb.grk acutecomb.grk uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308.grkstack uni0313.grkstack uni0314.grkstack uni0308 uni0313 uni0314 uni0342.sc gravecomb.grksc acutecomb.grksc uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308.grkstacksc uni0313.grkstacksc uni0314.grkstacksc uni0342.altsc
+  FCoverage: 114 alpha uni1FB3 gamma epsilon eta uni1FC3 iota kappa mu nu omicron pi rho sigma sigma1 tau upsilon chi omega uni1FF3
+ 1
+  SeqLookup: 0 "Single Positioning lookup 32" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 28"  0 0 0 1
+ 1 0 1
+  Coverage: 42 Alpha.sc Eta.sc uni03A9.sc alpha eta omega
+  FCoverage: 11 uni0345.sc1
+ 1
+  SeqLookup: 0 "Single Positioning lookup 30" 
+EndFPST
+ChainPos2: glyph "ckern1 contextual 27"  0 0 0 1
+ String: 7 uni03A9
+ BString: 0 
+ FString: 11 uni0345.sc1
+ 1
+  SeqLookup: 0 "Single Positioning lookup 29" 
+EndFPST
+ChainPos2: glyph "ckern1 contextual 26"  0 0 0 1
+ String: 7 uni03A9
+ BString: 0 
+ FString: 12 uni0345.cap2
+ 1
+  SeqLookup: 0 "Single Positioning lookup 28" 
+EndFPST
+ChainPos2: glyph "ckern1 contextual 25"  0 0 0 1
+ String: 7 uni03A9
+ BString: 0 
+ FString: 12 uni0345.cap1
+ 1
+  SeqLookup: 0 "Single Positioning lookup 27" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 24"  0 0 0 1
+ 1 0 2
+  Coverage: 7 uni03A9
+  FCoverage: 11 uni0345.sc1
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 26" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 23"  0 0 0 1
+ 1 0 2
+  Coverage: 7 uni03A9
+  FCoverage: 12 uni0345.cap2
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 25" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 22"  0 0 0 1
+ 1 0 2
+  Coverage: 7 uni03A9
+  FCoverage: 12 uni0345.cap1
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 24" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 21"  0 0 0 1
+ 1 0 2
+  Coverage: 7 uni03A9
+  FCoverage: 11 uni0345.cap
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 23" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 20"  0 0 0 1
+ 1 0 1
+  Coverage: 7 uni03A9
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 22" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 19"  0 0 0 1
+ 1 0 1
+  Coverage: 7 Upsilon
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 21" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 18"  0 0 0 1
+ 1 0 1
+  Coverage: 7 Upsilon
+  FCoverage: 91 uni0313 uni0314 gravecomb.grk acutecomb.grk uni0313 uni0314 gravecomb.grksc acutecomb.grksc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 20" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 17"  0 0 0 1
+ 1 0 1
+  Coverage: 7 Omicron
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 19" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 16"  0 0 0 1
+ 1 0 1
+  Coverage: 7 Omicron
+  FCoverage: 91 uni0313 uni0314 gravecomb.grk acutecomb.grk uni0313 uni0314 gravecomb.grksc acutecomb.grksc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 18" 
+EndFPST
+ChainPos2: glyph "ckern1 contextual 15"  0 0 0 1
+ String: 3 Eta
+ BString: 0 
+ FString: 11 uni0345.sc1
+ 1
+  SeqLookup: 0 "Single Positioning lookup 17" 
+EndFPST
+ChainPos2: glyph "ckern1 contextual 14"  0 0 0 1
+ String: 3 Eta
+ BString: 0 
+ FString: 12 uni0345.cap2
+ 1
+  SeqLookup: 0 "Single Positioning lookup 16" 
+EndFPST
+ChainPos2: glyph "ckern1 contextual 13"  0 0 0 1
+ String: 3 Eta
+ BString: 0 
+ FString: 12 uni0345.cap1
+ 1
+  SeqLookup: 0 "Single Positioning lookup 15" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 12"  0 0 0 1
+ 1 0 2
+  Coverage: 3 Eta
+  FCoverage: 11 uni0345.sc1
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 14" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 11"  0 0 0 1
+ 1 0 2
+  Coverage: 3 Eta
+  FCoverage: 11 uni0345.sc1
+  FCoverage: 91 uni0313 uni0314 gravecomb.grk acutecomb.grk uni0313 uni0314 gravecomb.grksc acutecomb.grksc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 13" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 10"  0 0 0 1
+ 1 0 2
+  Coverage: 3 Eta
+  FCoverage: 12 uni0345.cap2
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 12" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 9"  0 0 0 1
+ 1 0 2
+  Coverage: 3 Eta
+  FCoverage: 12 uni0345.cap2
+  FCoverage: 91 uni0313 uni0314 gravecomb.grk acutecomb.grk uni0313 uni0314 gravecomb.grksc acutecomb.grksc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 11" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 8"  0 0 0 1
+ 1 0 2
+  Coverage: 3 Eta
+  FCoverage: 12 uni0345.cap1
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 10" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 7"  0 0 0 1
+ 1 0 2
+  Coverage: 3 Eta
+  FCoverage: 12 uni0345.cap1
+  FCoverage: 91 uni0313 uni0314 gravecomb.grk acutecomb.grk uni0313 uni0314 gravecomb.grksc acutecomb.grksc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 9" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 6"  0 0 0 1
+ 1 0 2
+  Coverage: 3 Eta
+  FCoverage: 11 uni0345.cap
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 8" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 5"  0 0 0 1
+ 1 0 2
+  Coverage: 3 Eta
+  FCoverage: 11 uni0345.cap
+  FCoverage: 91 uni0313 uni0314 gravecomb.grk acutecomb.grk uni0313 uni0314 gravecomb.grksc acutecomb.grksc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 7" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 4"  0 0 0 1
+ 1 0 1
+  Coverage: 16 Epsilon Eta Iota
+  FCoverage: 264 uni0313.grk uni0314.grk gravecomb.grkstack acutecomb.grkstack uni0308 uni0313.grkstack uni0314.grkstack uni0342 uni0342.alt uni0313.grksc uni0314.grksc gravecomb.grkstacksc acutecomb.grkstacksc uni0308 uni0313.grkstacksc uni0314.grkstacksc uni0342.sc uni0342.altsc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 6" 
+EndFPST
+ChainPos2: coverage "ckern1 contextual 3"  0 0 0 1
+ 1 0 1
+  Coverage: 20 Epsilon Eta Iota Rho
+  FCoverage: 91 uni0313 uni0314 gravecomb.grk acutecomb.grk uni0313 uni0314 gravecomb.grksc acutecomb.grksc
+ 1
+  SeqLookup: 0 "Single Positioning lookup 5" 
+EndFPST
+ChainPos2: glyph "ckern1 contextual 2"  0 0 0 1
+ String: 5 Alpha
+ BString: 0 
+ FString: 11 uni0345.sc1
+ 1
+  SeqLookup: 0 "Single Positioning lookup 4" 
+EndFPST
+ChainPos2: glyph "ckern1 contextual 1"  0 0 0 1
+ String: 5 Alpha
+ BString: 0 
+ FString: 12 uni0345.cap2
+ 1
+  SeqLookup: 0 "Single Positioning lookup 3" 
+EndFPST
+ChainPos2: glyph "ckern1 contextual 0"  0 0 0 1
+ String: 5 Alpha
+ BString: 0 
+ FString: 12 uni0345.cap1
+ 1
+  SeqLookup: 0 "Single Positioning lookup 2" 
+EndFPST
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright 2010-2013, Georg A. Duffner (<http://www.georgduffner.at/ebgaramond|g.duffner@gmail.com>),+AAoA-2013 Siva Kalyan+AAoACgAK-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or sinftituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "EB Garamond SC" "12 Regular" "EB Garamond SC 12 Regular" 
+DesignSize: 120 95-1200 1 1033 "Regular" 
+OtfFeatName: 'ss01' 2057 "Cyrillic alternate de, el and elj" 1031 "Kyrillische alternative de, el und elj" 
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -128
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 32 8 2
+BeginPrivate: 9
+BlueValues 55 [-22 0 268 287 400 430 450 464 616 630 650 664 700 705]
+OtherBlues 21 [-290 -285 -181 -167]
+StdHW 4 [41]
+StdVW 4 [70]
+StemSnapH 7 [41 50]
+StemSnapV 7 [70 80]
+BlueFuzz 1 0
+BlueScale 1 8
+ExpansionFactor 4 0.06
+EndPrivate
+TeXData: 1 12582912 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "top_left"  "mark anchor 0" "grk_uc_top_left"  "mark anchor 1" "grk_uc_top"  "mark anchor 1" "grk_uc_right"  "mark anchor 2" "grk_bottom"  "mark anchor 3" "grk_top"  "mark anchor 4" "top_accent"  "mark anchor 5" "below_accent"  "mark anchor 6" "ogonek"  "mark anchor 7" "cedilla"  "mark anchor 8" "top_right"  "mark anchor 9" "top_right1"  "mark anchor 9" "top_stack"  "mkmk anchor 0" "acutestack"  "mkmk anchor 1" "gravestack"  "mkmk anchor 2" "hookstack"  "mkmk anchor 3" "grk_hstack"  "mkmk anchor 4" 
+EndSplineFont

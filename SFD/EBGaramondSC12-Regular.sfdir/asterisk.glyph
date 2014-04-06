@@ -1,0 +1,44 @@
+StartChar: asterisk
+Encoding: 42 42 958
+Width: 340
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+34 577 m 0
+ 34 587 42 591 51 591 c 0
+ 54 591 56 591 59 590 c 0
+ 91 576 120 566 146 555 c 1
+ 143 583 141 613 140 648 c 0
+ 140 659 145 670 157 670 c 0
+ 166 670 173 661 174 652 c 2
+ 187 560 l 1
+ 210 576 236 592 266 610 c 1
+ 269 613 273 614 277 614 c 0
+ 285 614 295 610 295 600 c 0
+ 295 594 291 588 286 583 c 2
+ 213 525 l 1
+ 239 513 264 501 295 483 c 0
+ 302 480 307 472 307 465 c 0
+ 307 455 299 451 290 451 c 0
+ 287 451 285 451 282 452 c 0
+ 250 466 221 476 195 487 c 1
+ 198 459 200 429 201 394 c 0
+ 201 383 196 372 184 372 c 0
+ 175 372 168 381 167 390 c 2
+ 154 482 l 1
+ 131 466 105 450 75 432 c 1
+ 72 429 68 428 64 428 c 0
+ 56 428 46 432 46 442 c 0
+ 46 448 50 454 55 459 c 2
+ 128 517 l 1
+ 102 529 77 541 46 559 c 0
+ 39 562 34 570 34 577 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" asterisk.sups
+Substitution2: "sinf subtable" asterisk.sinf
+Substitution2: "ordn subtable" asterisk.ordn
+Substitution2: "subs subtable" asterisk.subs
+EndChar

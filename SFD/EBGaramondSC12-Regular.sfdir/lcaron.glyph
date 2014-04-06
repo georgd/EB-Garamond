@@ -1,0 +1,25 @@
+StartChar: lcaron
+Encoding: 318 318 193
+Width: 470
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Back
+SplineSet
+192 657 m 0
+ 192 683 224 705 245 705 c 0
+ 257 705 261 691 261 675 c 0
+ 261 670 261 666 260 661 c 0
+ 250 592 237 568 222 537 c 0
+ 216 525 205 512 200 512 c 0
+ 196 512 194 522 194 535 c 0
+ 194 554 197 578 197 584 c 0
+ 197 601 192 624 192 657 c 0
+EndSplineSet
+Fore
+Refer: 2495 -1 N 1 0 0 1 345 -170 2
+Refer: 1525 108 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" lcaron.sc
+MultipleSubs2: "cv82_decomp subtable" l uni030C.alt
+MultipleSubs2: "CCMP_Precomp subtable" l uni030C.alt
+EndChar

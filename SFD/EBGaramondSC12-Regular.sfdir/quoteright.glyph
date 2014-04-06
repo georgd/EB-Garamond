@@ -1,0 +1,23 @@
+StartChar: quoteright
+Encoding: 8217 8217 35
+Width: 240
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+111 602 m 0
+ 82 605 64 622 64 644 c 0
+ 64 671 90 690 119 690 c 0
+ 167 690 202 649 202 593 c 0
+ 202 492 111 428 60 426 c 1
+ 58 426 l 2
+ 46 426 40 431 40 437 c 0
+ 40 442 45 447 54 449 c 0
+ 97 458 150 488 150 558 c 0
+ 150 574 133 600 111 602 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 48 subtable" quoteright.01
+Position2: "rtbd subtable" dx=0 dy=0 dh=-120 dv=0
+Position2: "lfbd subtable" dx=-72 dy=0 dh=-72 dv=0
+EndChar

@@ -1,0 +1,12 @@
+StartChar: zcaron
+Encoding: 382 382 247
+Width: 510
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 2385 780 N 1 0 0 1 103 82 2
+Refer: 1539 122 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" zcaron.sc
+MultipleSubs2: "CCMP_Precomp subtable" z uni030C
+EndChar

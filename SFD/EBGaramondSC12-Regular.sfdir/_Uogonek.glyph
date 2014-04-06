@@ -1,0 +1,12 @@
+StartChar: Uogonek
+Encoding: 370 370 235
+Width: 738
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 1006 -1 N 1 0 0 1 302 0 2
+Refer: 24 85 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Uogonek.sc
+MultipleSubs2: "CCMP_Precomp subtable" U uni0328.cap
+EndChar

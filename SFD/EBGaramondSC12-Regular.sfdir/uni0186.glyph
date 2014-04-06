@@ -1,0 +1,31 @@
+StartChar: uni0186
+Encoding: 390 390 1787
+Width: 639
+Flags: HMW
+AnchorPoint: "cedilla" 300 8 basechar 0
+AnchorPoint: "ogonek" 392 18 basechar 0
+AnchorPoint: "below_accent" 275 -100 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+266 664 m 0
+ 440 664 594 532 594 335 c 0
+ 594 155 478 -12 255 -12 c 0
+ 169 -12 115 17 71 43 c 0
+ 59 50 52 57 50 62 c 0
+ 39 85 32 141 32 177 c 0
+ 32 186 42 206 53 206 c 0
+ 62 206 69 171 83 140 c 0
+ 113 74 209 22 268 23 c 0
+ 421 25 497 134 497 305 c 0
+ 497 495 399 625 251 625 c 0
+ 139 625 95 545 69 494 c 0
+ 64 485 51 475 42 475 c 0
+ 38 475 35 484 35 493 c 0
+ 35 496 36 499 36 501 c 0
+ 40 526 54 582 69 605 c 0
+ 74 613 93 616 118 626 c 0
+ 154 640 202 664 266 664 c 0
+EndSplineSet
+Validated: 33
+EndChar

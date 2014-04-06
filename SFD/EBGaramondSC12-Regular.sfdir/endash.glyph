@@ -1,0 +1,22 @@
+StartChar: endash
+Encoding: 8211 8211 74
+Width: 550
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+74 239 m 26
+ 487 239 l 18
+ 493 239 500 233 500 227 c 0
+ 500 207 485 185 469 185 c 26
+ 64 185 l 26
+ 57 185 50 191 50 197 c 0
+ 50 206 55 239 74 239 c 26
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 111 subtable" endash.cap
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" endash.cap
+Position2: "rtbd subtable" dx=0 dy=0 dh=-165 dv=0
+Position2: "lfbd subtable" dx=-165 dy=0 dh=-165 dv=0
+EndChar

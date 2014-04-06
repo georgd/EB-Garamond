@@ -1,0 +1,13 @@
+StartChar: Wgrave
+Encoding: 7808 7808 441
+Width: 916
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 932 -1 N 1 0 0 1 346 0 2
+Refer: 14 87 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" W gravecomb.cap
+Position2: "rtbd subtable" dx=0 dy=0 dh=-34 dv=0
+Position2: "lfbd subtable" dx=-34 dy=0 dh=-34 dv=0
+EndChar

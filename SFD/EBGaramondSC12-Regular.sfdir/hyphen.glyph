@@ -1,0 +1,25 @@
+StartChar: hyphen
+Encoding: 45 45 64
+Width: 274
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+35 170 m 0
+ 30 170 29 172 29 176 c 0
+ 29 198 35 229 45 230 c 0
+ 109 239 173 248 237 255 c 0
+ 241 255 245 253 245 249 c 0
+ 245 224 240 197 224 195 c 0
+ 164 186 103 176 35 170 c 0
+EndSplineSet
+Substitution2: "Single Substitution lookup 111 subtable" hyphen.cap
+Substitution2: "sups subtable" hyphen.sups
+Substitution2: "sinf subtable" hyphen.sinf
+Substitution2: "ordn subtable" hyphen.ordn
+Substitution2: "subs subtable" hyphen.subs
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" hyphen.cap
+Position2: "rtbd subtable" dx=0 dy=0 dh=-137 dv=0
+Position2: "lfbd subtable" dx=-82 dy=0 dh=-82 dv=0
+EndChar

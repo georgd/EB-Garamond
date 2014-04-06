@@ -1,0 +1,16 @@
+StartChar: egrave
+Encoding: 232 232 123
+Width: 480
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 2374 768 N 1 0 0 1 114 65 2
+Refer: 1518 101 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" egrave.sc
+Substitution2: "sups subtable" egrave.sups
+Substitution2: "sinf subtable" egrave.sinf
+Substitution2: "ordn subtable" egrave.ordn
+Substitution2: "subs subtable" egrave.subs
+MultipleSubs2: "CCMP_Precomp subtable" e gravecomb
+EndChar

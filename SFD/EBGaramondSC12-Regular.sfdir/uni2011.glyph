@@ -1,0 +1,21 @@
+StartChar: uni2011
+Encoding: 8209 8209 722
+Width: 274
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+39 170 m 1
+ 35 170 l 2
+ 30 170 29 172 29 176 c 8
+ 31 198 35 229 45 230 c 0
+ 109 239 173 248 237 255 c 0
+ 241 255 245 253 245 249 c 0
+ 243 224 240 197 224 195 c 0
+ 164 186 103 177 39 170 c 1
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 111 subtable" uni2011.cap
+Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni2011.cap
+EndChar

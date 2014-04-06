@@ -1,0 +1,14 @@
+StartChar: uni1ED4
+Encoding: 7892 7892 1629
+Width: 763
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 2315 -1 N 1 0 0 1 439 32 2
+Refer: 928 -1 N 1 0 0 1 232 0 2
+Refer: 22 79 N 1 0 0 1 0 0 3
+MultipleSubs2: "CCMP_Precomp subtable" O uni0302.cap hookabovecomb.cap
+Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
+Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+EndChar

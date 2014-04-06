@@ -1,0 +1,23 @@
+StartChar: uni0345.cap1
+Encoding: 66071 -1 2321
+Width: 0
+Flags: HMW
+AnchorPoint: "grk_uc_right" 25 290 mark 0
+LayerCount: 3
+Fore
+SplineSet
+150 343 m 0
+ 150 307 125 155 125 95 c 0
+ 125 70 139 64 153 64 c 0
+ 174 64 185 78 188 78 c 0
+ 197 78 198 73 198 62 c 0
+ 198 28 171 -14 121 -14 c 0
+ 87 -14 68 19 67 86 c 2
+ 65 332 l 2
+ 63 374 73 418 111 418 c 16
+ 140 418 150 391 150 343 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "c2sc subtable" uni0345.sc1
+Substitution2: "Smallcaps1 subtable" uni0345.sc1
+EndChar

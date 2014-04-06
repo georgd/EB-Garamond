@@ -1,0 +1,42 @@
+StartChar: four.taboldstyle
+Encoding: 65575 -1 1025
+Width: 475
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Back
+SplineSet
+292 74 m 2xb8
+ 297 74 304 78 304 82 c 2
+ 304 281 l 2
+ 304 284 297 285 294 282 c 24
+ 220 206 181 162 111 83 c 24
+ 109 80 107 74 111 74 c 2xd8
+ 292 74 l 2xb8
+406 24 m 0
+ 401 24 377 20 377 16 c 2
+ 377 -133 l 2
+ 377 -158 326 -181 319 -181 c 0
+ 311 -181 304 -178 304 -168 c 2
+ 304 11 l 2
+ 304 17 290 20 289 20 c 0
+ 207 20 134 14 29 13 c 0xd8
+ 24 13 19 19 19 23 c 0
+ 19 24 19 25 20 26 c 0
+ 94 115 176 196 254 282 c 2
+ 352 391 l 26
+ 361 400 369 412 376 413 c 1
+ 377 413 l 2
+ 383 413 380 406 380 401 c 8
+ 380 275 376 205 376 79 c 16
+ 376 73 386 71 399 71 c 0
+ 414 71 432 73 444 74 c 0
+ 450 74 455 70 455 66 c 0
+ 455 48 438 23 434 23 c 0xb8
+ 419 23 412 24 406 24 c 0
+EndSplineSet
+Fore
+Refer: 52 52 N 1 0 0 1 -5 0 2
+Substitution2: "'pnum' Proportionalziffern lookup 36 subtable" four
+Substitution2: "'lnum' Lining Figures lookup 33 subtable" four.tablining
+EndChar

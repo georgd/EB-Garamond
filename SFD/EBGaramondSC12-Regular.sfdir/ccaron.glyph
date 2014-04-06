@@ -1,0 +1,12 @@
+StartChar: ccaron
+Encoding: 269 269 154
+Width: 560
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 2385 780 N 1 0 0 1 183 82 2
+Refer: 1516 99 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" ccaron.sc
+MultipleSubs2: "CCMP_Precomp subtable" c uni030C
+EndChar

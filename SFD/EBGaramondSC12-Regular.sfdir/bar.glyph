@@ -1,0 +1,22 @@
+StartChar: bar
+Encoding: 124 124 76
+Width: 260
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+100 676 m 14
+ 100 698 140 707 146 707 c 4
+ 153 707 160 701 160 694 c 22
+ 160 -265 l 14
+ 160 -286 121 -289 112 -289 c 4
+ 106 -289 100 -282 100 -275 c 22
+ 100 676 l 14
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" bar.sups
+Substitution2: "sinf subtable" bar.sinf
+Substitution2: "ordn subtable" bar.ordn
+Substitution2: "subs subtable" bar.subs
+EndChar

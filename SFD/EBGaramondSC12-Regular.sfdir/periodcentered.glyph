@@ -1,0 +1,18 @@
+StartChar: periodcentered
+Encoding: 183 183 82
+Width: 200
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+100 260 m 24
+ 130 260 155 235 155 205 c 24
+ 155 175 130 150 100 150 c 24
+ 70 150 45 175 45 205 c 24
+ 45 235 70 260 100 260 c 24
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 4 subtable" periodcentered.CATuc
+Substitution2: "Single Substitution lookup 3 subtable" periodcentered.CAT
+EndChar

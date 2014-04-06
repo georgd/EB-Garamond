@@ -1,0 +1,27 @@
+StartChar: uni030C.cap
+Encoding: 65539 -1 927
+Width: 0
+VWidth: 0
+Flags: HMW
+AnchorPoint: "top_stack" 151 720 mark 0
+AnchorPoint: "top_stack" 151 850 basemark 0
+AnchorPoint: "top_accent" 151 710 mark 0
+LayerCount: 3
+Fore
+SplineSet
+20 822 m 0
+ 33 822 115 782 141 767 c 0
+ 150 762 152 762 161 767 c 0
+ 187 782 269 823 282 823 c 0
+ 291 823 296 818 296 812 c 0
+ 296 808 295 804 290 800 c 2
+ 192 722 l 2
+ 172 706 166 700 151 700 c 0
+ 136 700 130 706 110 722 c 2
+ 12 800 l 2
+ 7 804 5 808 5 812 c 0
+ 5 818 11 822 20 822 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "c2sc subtable" uni030C
+EndChar

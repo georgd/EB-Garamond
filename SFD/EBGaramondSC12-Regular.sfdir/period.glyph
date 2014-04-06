@@ -1,0 +1,21 @@
+StartChar: period
+Encoding: 46 46 15
+Width: 230
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+115 96 m 24
+ 145 96 170 71 170 41 c 24
+ 170 11 145 -14 115 -14 c 24
+ 85 -14 60 11 60 41 c 24
+ 60 71 85 96 115 96 c 24
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" period.sups
+Substitution2: "sinf subtable" period.sinf
+Substitution2: "ordn subtable" period.ordn
+Substitution2: "subs subtable" period.subs
+Position2: "rtbd subtable" dx=0 dy=0 dh=-161 dv=0
+EndChar

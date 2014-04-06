@@ -1,0 +1,22 @@
+StartChar: uni030C.alt
+Encoding: 66156 -1 2495
+Width: 0
+VWidth: 0
+Flags: MW
+AnchorPoint: "top_right" 35 660 mark 0
+AnchorPoint: "top_left" 22 643 mark 0
+LayerCount: 3
+Fore
+SplineSet
+5 657 m 0
+ 5 678 34 705 55 705 c 0
+ 67 705 68 691 68 675 c 0
+ 68 638 53 574 35 537 c 0
+ 27 520 20 512 14 512 c 0
+ 10 512 7 522 7 535 c 0
+ 7 540 10 569 10 584 c 0
+ 10 621 5 641 5 657 c 0
+EndSplineSet
+Substitution2: "Single Substitution lookup 66 subtable" uni030C
+Substitution2: "cv82 subtable" uni030C.alt1
+EndChar

@@ -1,0 +1,12 @@
+StartChar: Racute
+Encoding: 340 340 208
+Width: 713
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 931 -1 N 1 0 0 1 239 0 2
+Refer: 5 82 N 1 0 0 1 0 0 3
+Substitution2: "c2sc subtable" Racute.sc
+MultipleSubs2: "CCMP_Precomp subtable" R acutecomb.cap
+EndChar

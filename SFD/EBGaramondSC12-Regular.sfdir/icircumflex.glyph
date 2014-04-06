@@ -1,0 +1,12 @@
+StartChar: icircumflex
+Encoding: 238 238 129
+Width: 315
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Fore
+Refer: 2376 770 N 1 0 0 1 20 65 2
+Refer: 2481 -1 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" icircumflex.sc
+MultipleSubs2: "CCMP_Precomp subtable" i.dotless uni0302
+EndChar
