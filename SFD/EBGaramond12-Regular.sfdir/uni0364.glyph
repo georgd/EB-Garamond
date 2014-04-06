@@ -3,7 +3,7 @@ Encoding: 868 868 2388
 Width: 0
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top_accent" 108 550 mark 0
+AnchorPoint: "top_accent" 100 550 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -18,12 +18,11 @@ SplineSet
  167 542 176 539 176 533 c 0
  176 518 147 490 104 490 c 0
  58 490 23 526 23 572 c 0
-65 612 m 0
- 65 608 69 608 72 608 c 2
- 134 608 l 2
- 144 608 144 620 144 625 c 8
- 144 642 124 648 107 648 c 16
- 92 648 65 634 65 612 c 0
+66 612 m 0
+ 66 608 70 608 73 608 c 2
+ 137 608 l 2
+ 147 608 144 620 144 625 c 8
+ 144 641.991210938 123.991210938 648 107 648 c 16
+ 92 648 66 634 66 612 c 0
 EndSplineSet
-Validated: 1
 EndChar
