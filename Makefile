@@ -19,7 +19,7 @@ SFNTTOOL=java -jar sfnttool.jar
 #SIZES=08 12
 #STYLES=Regular SC Allsc Italic Bold
 #SPECIAL=Initials InitialsF1 InitialsF2
-FONTS=08-Regular 08-SC 08-Italic 12-Regular 12-SC 12-AllSC 12-Italic  -Initials -InitialsF1 -InitialsF2  #12-Bold
+FONTS=08-Regular 08-Italic 12-Regular SC12-Regular 12-AllSC 12-Italic  -Initials -InitialsF1 -InitialsF2 SC08-Regular # SC12-Italic 12-Bold
 
 SFD=$(FONTS:%=$(SRC)/$(NAME)%.sfdir)
 OTF=$(FONTS:%=$(BLD)/$(NAME)%.otf)
