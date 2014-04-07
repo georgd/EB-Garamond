@@ -128,7 +128,7 @@ feature cv82 {
 } cv82;
 
 lookup chi_alts {
-	 sub  chi from [ chi.a1 chi.a2 chi.a3 chi.a4 chi.a5 chi.a6 ] ;
+	 sub  chi from [ chi.a1 chi.a2 chi.a3 chi.a4 chi.a5 chi.a6 chi.a7 chi.a8 ] ;
 } chi_alts;
 
 feature cv83 {

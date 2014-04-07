@@ -17,7 +17,7 @@ feature cv91 {
 } cv91;
 
 lookup ipa_variants {
-    sub [ beta theta lambda chi ] by [ beta.ipa theta.ipa lambda.ipa chi.ipa ];
+    sub [ beta theta lambda chi ] by [ beta.ipa theta.ipa lambda.ipa chi.a7 ];
 } ipa_variants;
 
 feature ss06 {
