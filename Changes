@@ -1,0 +1,38 @@
+EB Garamond 0.016  (2014-04-07)
+===============================
+* License
+ - No reserved font name any more
+
+* New Features:
+ - [12-It] fina for e.fina (more shall come)
+ - [12-It] ss07: h and k with alternate accent placement above the stem
+ - [12-Re] Smallcaps now don’t enable ss20 any longer
+ - OS/2 Optical Size settings
+ - Change the naming scheme for the small-caps-fonts: they now relate to the preferred family “EB Garamond SC”, hence they are named “EBGaramondSCXX-Style” where XX is the design size and Style is Regular (Italic, Bold, … once they exist).
+
+* New and redrawn Glyphs:
+ - [08-Re] Half-ring modifiers
+ - [12-Re] Redraw esh (with Siva Kalyan)
+ - [12-Re] Regional identifiers 1F1E6 ­— 1F1FF (Tim Larson)
+ - [12-Re] Arrows and mathematical symbols (Tim Larson): arrowdbldown, arrowdblleft, arrowdblright, arrowdblup, gradient, product, uni210E, uni214B, uni219E — uni21A2, uni21DA — uni21DD, uni2210, uni2B45, uni2B46, uniFFFD
+ - [12-Re] e less round
+ - [12-Re] exclam more delicate
+ - [12-Re] Missing glyphs in Latin Extended C and D (Capillatus)
+ - [12-Re] uni1DC4 (more shall come)
+ - [12-Re] find a latin chi
+ - [12-Re] ditto mark
+ - [12-It] Fully redraw the small-caps
+ - [12-It] Redraw the Euro
+ - [12-It] Redraw the asterisk
+
+* Fixes:
+ - Caron and alternate caron position on l.sc, dcaron.sc and tcaron.sc
+ - Lots of kerning and spacing
+ - Lots of anchors freshly positioned
+ - Fix f-ligatures for German locale
+ - c2sc + German umlauts
+ - extended IPA small-caps are petite-caps now
+
+EB Garamond 0.015d (2013-06-28) and older
+=========================================
+Please have a look at the git sources.
