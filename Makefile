@@ -1,5 +1,5 @@
 NAME=EBGaramond
-VERSION=0.015d+
+VERSION=0.016
 
 SRC=SFD
 BLD=build
@@ -42,7 +42,7 @@ $(BLD):
 $(WEB):
 	@mkdir -p $@
 $(SPEC):
-	@mkdir $@
+	@mkdir -p $@
 
 $(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 	@echo "Generating	$@"
@@ -80,7 +80,7 @@ dpack: $(OTF) $(TTF)
 	@cp $(TTF) $(PACK)/ttf
 #	@cp $(PDF) $(PACK)/specimen        #Temporarily out of order
 	@cp $(SPEC)/Specimen.pdf  $(PACK)/specimen
-	@cp README.markdown README.xelualatex COPYING $(PACK)
+	@cp Changes README.markdown README.xelualatex COPYING $(PACK)
 	@zip -r $(PACK).zip $(PACK)
 
 wpack: $(WOF) $(EOT)
@@ -101,7 +101,7 @@ dist: $(OTF) $(TTF)
 	@cp $(WOF) $(EOT) $(DIST)/$(WEB)
 	@cp $(PDF) $(SPEC)/Specimen.pdf $(DIST)/$(SPEC)
 	@cp $(SCRIPT) $(DIST)/tools
-	@cp Makefile README.markdown README.xelualatex COPYING $(DIST)
+	@cp Changes Makefile README.markdown README.xelualatex COPYING $(DIST)
 	@zip -r $(DIST).zip $(DIST)
 
 cleanpack:
