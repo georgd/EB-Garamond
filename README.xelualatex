@@ -17,3 +17,5 @@ If you wish to use a specific font file, e.g. EB Garamond Italic:
 N.B. It is preferable to use the +c2sc and +scmp features for Small Caps, rather than the SC or ALLSC font files. 
 
 \newfontfamily{\smallcaps}[RawFeature={+c2sc,+scmp}]{EB Garamond}
+
+The specimen’s preamble may be a good guide too.
