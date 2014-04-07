@@ -15,8 +15,10 @@ lookup mark {
   markClass [\uni0304.cap ] <anchor 165 720> @grk_uc_top;
   pos base [\Alpha ] <anchor 373 720> mark @grk_uc_top
 	<anchor 186 665> mark @grk_uc_top_left;
-  pos base [\Epsilon \Eta \Iota \Rho ] <anchor -36 665> mark @grk_uc_top_left
+  pos base [\Epsilon \Eta \Rho ] <anchor -36 665> mark @grk_uc_top_left
 	<anchor 297 720> mark @grk_uc_top;
+  pos base [\Iota ] <anchor -36 665> mark @grk_uc_top_left
+	<anchor 176 720> mark @grk_uc_top;
   pos base [\Omicron ] <anchor 25 665> mark @grk_uc_top_left
 	<anchor 393 720> mark @grk_uc_top;
   pos base [\Upsilon \Upsilon1 ] <anchor -41 665> mark @grk_uc_top_left
@@ -130,12 +132,11 @@ lookup mark {
   markClass [\uni0310 ] <anchor 165 533> @top_accent;
   markClass [\uni0351 ] <anchor 89 531> @top_accent;
   markClass [\uni0357 ] <anchor 99 531> @top_accent;
-  markClass [\uni031A ] <anchor 100 550> @top_accent;
+  markClass [\uni031A \uni0364 ] <anchor 100 550> @top_accent;
   markClass [\gravecomb.flat ] <anchor 127 550> @top_accent;
   markClass [\acutecomb.flat ] <anchor 89 550> @top_accent;
   markClass [\uni030F.cap ] <anchor 197 710> @top_accent;
   markClass [\uni033D ] <anchor 102 533> @top_accent;
-  markClass [\uni0364 ] <anchor 108 550> @top_accent;
   markClass [\acutecomb \acutecomb.sc ] <anchor 46 550> @top_accent;
   markClass [\hookabovecomb.cap ] <anchor 90 710> @top_accent;
   markClass [\uni1DD3 ] <anchor 237 533> @top_accent;
@@ -262,7 +263,7 @@ lookup mark {
   pos base [\uni01B7 ] <anchor 250 710> mark @top_accent;
   pos base [\uni0263 ] <anchor 247 550> mark @top_accent;
   pos base [\uniA727 ] <anchor 253 550> mark @top_accent;
-  pos base [\uniA731 ] <anchor 193 570> mark @top_accent;
+  pos base [\uniA731 \s.pc ] <anchor 193 570> mark @top_accent;
   pos base [\uni0269 ] <anchor 107 572> mark @top_accent;
   pos base [\Q_y \Q.short \Q.low ] <anchor 405 700> mark @top_accent;
   pos base [\longs.short \f.short ] <anchor 225 805> mark @top_accent;
