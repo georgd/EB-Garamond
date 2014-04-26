@@ -1,5 +1,5 @@
 # EB Garamond
-## Claude Garamont’s designs go opensource.
+*Claude Garamont’s designs go open source*
 
 This project aims at providing a free version of the Garamond types, based on the Designs of the Berner specimen from 1592.
 
