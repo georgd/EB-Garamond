@@ -1,0 +1,25 @@
+StartChar: u1D40E
+Encoding: 119822 119822 3241
+Width: 718
+Flags: HW
+HStem: -14 44<305.168 440.071> 620 44<290.863 421.728>
+VStem: 44 148<201.961 450.258> 526 148<204.038 457.764>
+AnchorPoint: "cedilla" 380 10 basechar 0
+AnchorPoint: "ogonek" 456 20 basechar 0
+AnchorPoint: "below_accent" 351 -98 basechar 0
+AnchorPoint: "top_accent" 360 708 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+354 620 m 0
+ 250 620 192 486 192 350 c 0
+ 192 183 264 30 368 30 c 0
+ 473 30 526 138 526 305 c 0
+ 526 491 466 620 354 620 c 0
+44 320 m 0
+ 44 503 158 664 367 664 c 0
+ 529 664 674 534 674 335 c 0
+ 674 153 563 -14 359 -14 c 0
+ 194 -14 44 128 44 320 c 0
+EndSplineSet
+EndChar

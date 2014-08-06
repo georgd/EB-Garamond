@@ -1,0 +1,23 @@
+StartChar: u1D6F0
+Encoding: 120560 120560 3293
+Width: 763
+Flags: HW
+HStem: -14 35<264.006 414.248> 628 36<391.576 555.605>
+VStem: 89 82<128.393 340.569> 642 82<325.945 533.828>
+AnchorPoint: "grk_uc_top" 508 710 basechar 0
+AnchorPoint: "grk_uc_top_left" 47 665 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+479 628 m 0
+ 279 628 171 386 171 186 c 8
+ 171 95 245 21 336 21 c 16
+ 536 21 642 284 642 484 c 0
+ 642 569 564 628 479 628 c 0
+484 664 m 16
+ 611 664 724 571 724 444 c 8
+ 724 208 565 -14 329 -14 c 8
+ 197 -14 89 94 89 226 c 16
+ 89 456 254 664 484 664 c 16
+EndSplineSet
+EndChar
