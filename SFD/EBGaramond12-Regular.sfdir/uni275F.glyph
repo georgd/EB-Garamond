@@ -1,7 +1,7 @@
 StartChar: uni275F
-Encoding: 10079 10079 3366
+Encoding: 10079 10079 3351
 Width: 221
-Flags: HW
+Flags: WO
 HStem: -150 28<17.0051 52.3782> 26 94<42.5558 88.662>
 VStem: 94 80<-62.7925 23.4748>
 LayerCount: 3
@@ -17,4 +17,5 @@ SplineSet
  138 120 174 79 174 20 c 0
  174 -85 84 -150 35 -150 c 0
 EndSplineSet
+Validated: 1
 EndChar
