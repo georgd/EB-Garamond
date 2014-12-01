@@ -34,3 +34,17 @@ Due to Github deciding not to provide a download area any more, this project res
 
 
 For more infos please visit http://www.georgduffner.at/ebgaramond/
+
+## Build fonts
+
+If you are using a debian or ubuntu os, you can install dependencies with `apt-get` command:
+
+	sudo apt-get install fontforge python-fontforge tthautohint fntsample
+
+Then you can use the makefile to build the font files:
+
+- `make` builds `ttf` and `otf` files in build directoy and `woff` and `eot` files in web directory.
+- `make pdfs` builds `pdf` files with Glyphs table of every font.
+
+See `Makfile` to see alla available commands.
+

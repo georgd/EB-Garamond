@@ -1,5 +1,5 @@
 NAME=EBGaramond
-VERSION=0.016
+VERSION=0.016.1
 
 SRC=SFD
 BLD=build
@@ -38,8 +38,6 @@ pdfs: $(PDF)
 
 $(BLD):
 	@mkdir $@
-$(WEB):
-	@mkdir -p $@
 $(SPEC):
 	@mkdir -p $@
 
@@ -54,13 +52,15 @@ $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
 	@mv $@.tmp $@
 
-$(WEB)/%.woff: $(BLD)/%.ttf | $(BLD)
+$(WEB)/%.woff: $(BLD)/%.ttf
 	@echo "Generating	$@"
+	@mkdir -p $(WEB)
 	@$(SFNTTOOL) -w $< $@
 #	@sfnt2woff $<
 
-$(WEB)/%.eot: $(BLD)/%.ttf | $(BLD)
+$(WEB)/%.eot: $(BLD)/%.ttf
 	@echo "Generating	$@"
+	@mkdir -p $(WEB)
 	@$(SFNTTOOL) -e -x $< $@
 #	@ttf2eot $< > $@
 
@@ -79,13 +79,13 @@ dpack: $(OTF) $(TTF)
 	@cp $(TTF) $(PACK)/ttf
 #	@cp $(PDF) $(PACK)/specimen        #Temporarily out of order
 	@cp $(SPEC)/Specimen.pdf  $(PACK)/specimen
-	@cp Changes README.markdown README.xelualatex COPYING $(PACK)
+	@cp Changes README.md README.xelualatex COPYING $(PACK)
 	@zip -r $(PACK).zip $(PACK)
 
 wpack: $(WOF) $(EOT)
 	@echo "Packing webfonts to zipfile"
 	@mkdir -p $(WPCK)
-	@cp $(WOF) $(EOT) README.markdown COPYING $(WPCK)
+	@cp $(WOF) $(EOT) README.md COPYING $(WPCK)
 	@zip -r $(WPCK).zip $(WPCK)
 
 dist: $(OTF) $(TTF)
@@ -100,7 +100,7 @@ dist: $(OTF) $(TTF)
 	@cp $(WOF) $(EOT) $(DIST)/$(WEB)
 	@cp $(PDF) $(SPEC)/Specimen.pdf $(DIST)/$(SPEC)
 	@cp $(SCRIPT) $(DIST)/tools
-	@cp Changes Makefile README.markdown README.xelualatex COPYING $(DIST)
+	@cp Changes Makefile README.md README.xelualatex COPYING $(DIST)
 	@zip -r $(DIST).zip $(DIST)
 
 cleanpack:
