@@ -14,7 +14,7 @@ DIST=$(NAME)-$(VERSION)-complete
 #Return to python because we don’t scale the font any longer.
 PY=python
 SCRIPT=tools/makefont.py
-SFNTTOOL=java -jar sfnttool.jar
+SFNTTOOL=java -jar tools/sfntly/sfnttool.jar
 
 #SIZES=08 12
 #STYLES=Regular SC Allsc Italic Bold
