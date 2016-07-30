@@ -1,0 +1,32 @@
+StartChar: uni0275
+Encoding: 629 629 1993
+Width: 495
+VWidth: 0
+Flags: HMW
+AnchorPoint: "cedilla" 300 8 basechar 0
+AnchorPoint: "ogonek" 337 18 basechar 0
+AnchorPoint: "below_accent" 246 -100 basechar 0
+AnchorPoint: "top_accent" 246 550 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+254 414 m 0
+ 370 414 460 321 460 213 c 0
+ 460 96 384 -14 234 -14 c 0
+ 122 -14 35 70 35 187 c 0
+ 35 298 131 414 254 414 c 0
+118 228 m 1
+ 118 228 333 228 375 228 c 1
+ 362 309 310 383 237 383 c 0
+ 201 383 173 374 149 343 c 0
+ 125 313 118 270 118 228 c 1
+378 191 m 1
+ 118 191 l 1
+ 125 99 180 16 255 16 c 0
+ 300 16 338 32 358 71 c 0
+ 374 102 378 150 378 189 c 2
+ 378 191 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "salt subtable" uni0275.alt
+EndChar

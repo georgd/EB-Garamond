@@ -1,0 +1,27 @@
+StartChar: u1D18D
+Encoding: 119181 119181 3141
+Width: 276
+Flags: MW
+AnchorPoint: "cedilla" 119 8 basechar 0
+AnchorPoint: "below_accent" 47 -100 basechar 0
+AnchorPoint: "top_accent" 267 550 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+243 414 m 0
+ 274 414 294 388 294 377 c 0
+ 294 365 278 335 266 335 c 0
+ 251 335 243 368 207 368 c 0
+ 185 368 167 348 167 319 c 0
+ 167 302 184 254 200 227 c 0
+ 216 200 230 153 230 123 c 0
+ 230 44 124 -14 44 -14 c 0
+ 10 -14 -10 10 -10 30 c 0
+ -10 45 8 76 18 76 c 0
+ 34 76 52 34 109 34 c 0
+ 143 34 165 62 166 94 c 0
+ 167 132 156 164 142 190 c 0
+ 123 225 110 255 110 275 c 0
+ 110 355 206 414 243 414 c 0
+EndSplineSet
+EndChar

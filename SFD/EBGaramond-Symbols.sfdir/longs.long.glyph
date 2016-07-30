@@ -1,0 +1,34 @@
+StartChar: longs.long
+Encoding: 1114191 -1 1126
+Width: 318
+VWidth: 0
+Flags: HMW
+AnchorPoint: "below_accent" 134 -100 basechar 0
+AnchorPoint: "top_accent" 281 800 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+90 68 m 2
+ 90 350 l 1
+ 77 350 59 350 38 352 c 0
+ 34 353 25 362 25 369 c 0
+ 25 372 29 375 31 376 c 0
+ 61 384 71 392 90 402 c 1
+ 90 633 221 706 308 706 c 0
+ 353 706 373 705 402 681 c 16
+ 413 672 418 660 418 647 c 0
+ 418 630 411 606 384 606 c 0
+ 355 606 345 665 266 665 c 0
+ 204 665 160 610 160 475 c 2
+ 160 68 l 2
+ 160 42 183 30 203 24 c 0
+ 214 20 226 16 226 6 c 0
+ 226 -2 214 -3 206 -3 c 0
+ 166 -3 162 2 127 2 c 0
+ 92 2 84 -3 44 -3 c 0
+ 36 -3 24 -2 24 6 c 0
+ 24 16 36 20 47 24 c 0
+ 67 30 90 41 90 68 c 2
+EndSplineSet
+Validated: 1
+EndChar

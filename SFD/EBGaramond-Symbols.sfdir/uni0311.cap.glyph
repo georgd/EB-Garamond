@@ -1,0 +1,22 @@
+StartChar: uni0311.cap
+Encoding: 1114128 -1 1003
+Width: 0
+VWidth: 0
+Flags: HMW
+AnchorPoint: "top_accent" 142 710 mark 0
+LayerCount: 3
+Fore
+SplineSet
+245 713 m 0
+ 218 745 185 760 142 760 c 0
+ 99 760 66 745 39 713 c 0
+ 33 705 25 692 15 692 c 0
+ 5 692 5 703 5 716 c 0
+ 5 756 57 820 142 820 c 0
+ 227 820 279 756 279 716 c 0
+ 279 703 279 692 269 692 c 0
+ 259 692 251 705 245 713 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "c2sc subtable" uni0311.sc
+EndChar

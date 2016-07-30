@@ -1,0 +1,89 @@
+StartChar: Tbar
+Encoding: 358 358 998
+Width: 670
+VWidth: 0
+Flags: HMW
+AnchorPoint: "cedilla" 356 18 basechar 0
+AnchorPoint: "below_accent" 334 -100 basechar 0
+AnchorPoint: "top_accent" 341 700 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+296 105 m 2
+ 296 362 l 1
+ 171 362 l 2
+ 162 362 157 374 157 380 c 0
+ 157 389 169 398 181 398 c 2
+ 296 398 l 1
+ 296 557 l 2
+ 296 575 294 597 278 600 c 0
+ 259 604 237 604 202 604 c 2
+ 157 604 l 2
+ 125 604 89 591 75 565 c 0
+ 69 554 49 527 34 527 c 0
+ 29 527 27 533 27 540 c 0
+ 27 546 29 554 32 560 c 0
+ 50 598 57 629 63 671 c 0
+ 66 693 75 694 80 694 c 0
+ 85 694 99 673 105 662 c 0
+ 113 648 147 643 175 642 c 0
+ 237 640 288 639 337 639 c 0
+ 406 639 471 641 558 645 c 0
+ 588 646 621 650 631 664 c 0
+ 642 679 651 686 658 686 c 0
+ 663 686 670 680 670 672 c 0
+ 670 634 654 592 654 557 c 2
+ 654 552 l 2
+ 654 542 650 527 641 527 c 2
+ 639 527 l 1
+ 627 529 624 549 620 558 c 0
+ 611 577 608 604 544 604 c 0
+ 492 604 410 602 392 600 c 0
+ 378 598 376 575 376 557 c 2
+ 376 398 l 1
+ 508 398 l 2
+ 515 398 524 391 521 384 c 0
+ 514 371 505 362 490 362 c 2
+ 376 362 l 1
+ 376 105 l 2
+ 376 54 405 33 455 24 c 0
+ 478 20 488 15 488 6 c 0
+ 488 -2 476 -5 459 -5 c 0
+ 405 -5 388 0 342 0 c 24
+ 292 0 268 -5 214 -5 c 0
+ 197 -5 185 -2 185 6 c 0
+ 185 15 195 20 218 24 c 0
+ 268 33 296 54 296 105 c 2
+EndSplineSet
+Validated: 1
+Substitution2: "c2sc subtable" Tbar.sc
+Position2: "Single Positioning lookup 67 subtable" dx=0 dy=0 dh=170 dv=0
+Position2: "Single Positioning lookup 66 subtable" dx=0 dy=0 dh=135 dv=0
+Position2: "Single Positioning lookup 65 subtable" dx=0 dy=0 dh=115 dv=0
+Position2: "Single Positioning lookup 64 subtable" dx=0 dy=0 dh=100 dv=0
+Position2: "Single Positioning lookup 63 subtable" dx=0 dy=0 dh=80 dv=0
+Position2: "Single Positioning lookup 62 subtable" dx=0 dy=0 dh=50 dv=0
+Position2: "Single Positioning lookup 61 subtable" dx=0 dy=0 dh=95 dv=0
+Position2: "Single Positioning lookup 60 subtable" dx=0 dy=0 dh=60 dv=0
+Position2: "Single Positioning lookup 59 subtable" dx=0 dy=0 dh=40 dv=0
+Position2: "Single Positioning lookup 58 subtable" dx=0 dy=0 dh=25 dv=0
+Position2: "Single Positioning lookup 57 subtable" dx=0 dy=0 dh=60 dv=0
+Position2: "Single Positioning lookup 56 subtable" dx=0 dy=0 dh=25 dv=0
+Position2: "Single Positioning lookup 55 subtable" dx=0 dy=0 dh=10 dv=0
+Position2: "Single Positioning lookup 54 subtable" dx=0 dy=0 dh=180 dv=0
+Position2: "Single Positioning lookup 53 subtable" dx=0 dy=0 dh=145 dv=0
+Position2: "Single Positioning lookup 52 subtable" dx=0 dy=0 dh=125 dv=0
+Position2: "Single Positioning lookup 51 subtable" dx=0 dy=0 dh=110 dv=0
+Position2: "Single Positioning lookup 50 subtable" dx=0 dy=0 dh=90 dv=0
+Position2: "Single Positioning lookup 49 subtable" dx=0 dy=0 dh=60 dv=0
+Position2: "Single Positioning lookup 48 subtable" dx=0 dy=0 dh=80 dv=0
+Position2: "Single Positioning lookup 47 subtable" dx=0 dy=0 dh=80 dv=0
+Position2: "Single Positioning lookup 46 subtable" dx=0 dy=0 dh=100 dv=0
+Position2: "Single Positioning lookup 45 subtable" dx=0 dy=0 dh=115 dv=0
+Position2: "Single Positioning lookup 44 subtable" dx=0 dy=0 dh=115 dv=0
+Position2: "Single Positioning lookup 43 subtable" dx=0 dy=0 dh=100 dv=0
+Position2: "Single Positioning lookup 42 subtable" dx=0 dy=0 dh=100 dv=0
+Position2: "Single Positioning lookup 41 subtable" dx=0 dy=0 dh=120 dv=0
+Position2: "Single Positioning lookup 40 subtable" dx=0 dy=0 dh=135 dv=0
+Position2: "Single Positioning lookup 39 subtable" dx=0 dy=0 dh=135 dv=0
+EndChar

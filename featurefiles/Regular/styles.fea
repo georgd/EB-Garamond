@@ -78,6 +78,7 @@ feature cv11 {
 
 lookup alternate_a {
     sub a from [ a.01 ];
+    sub uni0430 from [ uni0430.alt ];
 } alternate_a;
 
 feature cv21 {

@@ -1,0 +1,22 @@
+StartChar: uni0328.cap
+Encoding: 1114153 -1 1076
+Width: 0
+VWidth: 0
+Flags: HMW
+AnchorPoint: "ogonek" 188 18 mark 0
+LayerCount: 3
+Fore
+SplineSet
+119 -287 m 8
+ 56 -287 5 -237 5 -174 c 16
+ 5 -73 176 18 176 18 c 9
+ 202 18 l 17
+ 202 18 90 -55 90 -155 c 0
+ 90 -190 121 -216 156 -216 c 16
+ 191 -216 229 -181 238 -176 c 8
+ 243 -173 250 -174 250 -182 c 0
+ 250 -225 173 -287 119 -287 c 8
+EndSplineSet
+Validated: 1
+Substitution2: "c2sc subtable" uni0328
+EndChar

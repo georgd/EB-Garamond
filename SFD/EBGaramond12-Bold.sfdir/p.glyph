@@ -2,6 +2,7 @@ StartChar: p
 Encoding: 112 112 8
 Width: 516
 Flags: HMW
+AnchorPoint: "top_accent" 281 550 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -31,7 +32,7 @@ SplineSet
  175 24 174 -21 174 -27 c 2
  174 -215 l 2
  174 -242 208 -247 223 -253 c 0
- 231 -258 245 -262 245 -274 c 4
+ 231 -258 245 -262 245 -274 c 0
  245 -283 226 -285 218 -285 c 0
  179 -285 154 -279 119 -279 c 0
  84 -279 79 -285 40 -285 c 0

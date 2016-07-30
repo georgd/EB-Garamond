@@ -1,0 +1,25 @@
+StartChar: uni0342.sc
+Encoding: 1115081 -1 2806
+Width: 0
+VWidth: 0
+Flags: HMW
+AnchorPoint: "top_stack" 152 474 mark 0
+AnchorPoint: "top_stack" 152 632 basemark 0
+AnchorPoint: "top_accent" 152 533 mark 0
+AnchorPoint: "grk_top" 152 507 mark 0
+AnchorPoint: "grk_uc_top_left" 213 517 mark 0
+LayerCount: 3
+Fore
+SplineSet
+40 448 m 0
+ 30 448 26 453 26 463 c 0
+ 26 473 71 548 114 548 c 0
+ 139 548 196 523 221 523 c 0
+ 250 523 270 549 278 549 c 0
+ 288 549 294 542 294 532 c 0
+ 294 522 251 465 209 465 c 0
+ 184 465 126 489 101 489 c 0
+ 77 489 48 448 40 448 c 0
+EndSplineSet
+Validated: 1
+EndChar

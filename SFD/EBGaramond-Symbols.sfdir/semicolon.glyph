@@ -1,0 +1,30 @@
+StartChar: semicolon
+Encoding: 59 59 71
+Width: 228
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+36 -147 m 0
+ 24 -147 18 -142 18 -136 c 0
+ 18 -131 23 -126 32 -124 c 0
+ 75 -115 128 -85 128 -15 c 0
+ 128 1 111 27 89 29 c 0
+ 60 32 42 49 42 71 c 0
+ 42 98 68 117 97 117 c 0
+ 145 117 180 76 180 20 c 0
+ 180 -81 87 -147 36 -147 c 0
+106 373 m 24
+ 136 373 161 348 161 318 c 24
+ 161 288 136 263 106 263 c 24
+ 76 263 51 288 51 318 c 24
+ 51 348 76 373 106 373 c 24
+EndSplineSet
+Validated: 1
+Substitution2: "sups subtable" semicolon.sups
+Substitution2: "sinf subtable" semicolon.sinf
+Substitution2: "ordn subtable" semicolon.ordn
+Substitution2: "subs subtable" semicolon.subs
+Position2: "rtbd subtable" dx=0 dy=0 dh=-68 dv=0
+EndChar

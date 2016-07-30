@@ -1,0 +1,44 @@
+StartChar: Oslash
+Encoding: 216 216 1009
+Width: 773
+VWidth: 0
+Flags: HMW
+AnchorPoint: "cedilla" 412 8 basechar 0
+AnchorPoint: "below_accent" 370 -100 basechar 0
+AnchorPoint: "top_accent" 383 710 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+380 625 m 0
+ 232 625 147 490 147 350 c 0
+ 147 281 161 215 191 161 c 1
+ 568 529 l 1
+ 527 590 463 625 380 625 c 0
+77 -14 m 0
+ 63 -14 49 -4 49 6 c 0
+ 49 13 53 20 59 26 c 2
+ 134 100 l 1
+ 82 158 50 234 50 320 c 0
+ 50 501 171 664 395 664 c 0
+ 479 664 559 633 619 579 c 1
+ 699 658 l 2
+ 706 665 720 663 723 654 c 0
+ 724 650 726 644 726 639 c 0
+ 726 632 724 626 719 621 c 2
+ 647 549 l 1
+ 694 494 723 420 723 335 c 0
+ 723 155 606 -14 387 -14 c 0
+ 305 -14 227 17 166 69 c 1
+ 86 -11 l 2
+ 84 -13 81 -14 77 -14 c 0
+589 492 m 1
+ 216 123 l 1
+ 261 64 327 25 400 25 c 0
+ 550 25 626 134 626 305 c 0
+ 626 377 614 441 589 492 c 1
+EndSplineSet
+Validated: 1
+Substitution2: "c2sc subtable" Oslash.sc
+Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
+Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+EndChar

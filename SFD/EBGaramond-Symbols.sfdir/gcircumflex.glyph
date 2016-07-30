@@ -1,0 +1,12 @@
+StartChar: gcircumflex
+Encoding: 285 285 205
+Width: 435
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+Refer: 91 770 N 1 0 0 1 68 0 2
+Refer: 25 103 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" gcircumflex.sc
+MultipleSubs2: "CCMP_Precomp subtable" g uni0302
+EndChar

@@ -1,0 +1,34 @@
+StartChar: Odieresis.deu
+Encoding: 1114113 -1 978
+Width: 763
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+110 710 m 0
+ 135 710 160 685 160 660 c 0
+ 160 635 135 610 110 610 c 0
+ 85 610 60 635 60 660 c 0
+ 60 685 85 710 110 710 c 0
+664 710 m 0
+ 689 710 714 685 714 660 c 0
+ 714 635 689 610 664 610 c 0
+ 639 610 614 635 614 660 c 0
+ 614 685 639 710 664 710 c 0
+45 320 m 0
+ 45 501 166 664 390 664 c 0
+ 564 664 718 532 718 335 c 0
+ 718 155 601 -14 382 -14 c 0
+ 205 -14 45 130 45 320 c 0
+375 625 m 0
+ 227 625 142 490 142 350 c 0
+ 142 179 247 25 395 25 c 0
+ 545 25 621 134 621 305 c 0
+ 621 495 535 625 375 625 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "c2sc subtable" Odieresis.sc
+Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
+Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+EndChar

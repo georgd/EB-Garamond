@@ -1,0 +1,29 @@
+StartChar: uni026D
+Encoding: 621 621 2194
+Width: 226
+VWidth: 0
+Flags: HMW
+AnchorPoint: "below_accent" 195 -400 basechar 0
+AnchorPoint: "top_accent" 88 790 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+73 -104 m 2
+ 73 566 l 2
+ 73 605 60 632 27 639 c 0
+ 22 640 19 646 19 652 c 0
+ 19 658 22 663 26 664 c 0
+ 77 676 110 692 142 704 c 0
+ 143 704 143 705 144 705 c 0
+ 147 705 150 701 150 698 c 0
+ 150 686 143 652 143 562 c 2
+ 143 -44 l 2
+ 143 -210 168 -260 212 -260 c 0
+ 248 -260 262 -238 262 -219 c 0
+ 262 -201 304 -169 325 -169 c 0
+ 333 -169 334 -182 334 -195 c 0
+ 334 -258 271 -288 192 -288 c 0
+ 114 -288 73 -211 73 -104 c 2
+EndSplineSet
+Validated: 1
+EndChar

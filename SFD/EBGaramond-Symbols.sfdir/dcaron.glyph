@@ -1,0 +1,25 @@
+StartChar: dcaron
+Encoding: 271 271 193
+Width: 506
+VWidth: 0
+Flags: HM
+LayerCount: 3
+Back
+SplineSet
+458 657 m 0x2f
+ 458 678 490 705 511 705 c 0
+ 523 705 527 691 527 675 c 0
+ 527 638 505.844 573.913 488 537 c 0
+ 479.731 519.894 473 512 467 512 c 0
+ 463 512 460 522 460 535 c 0
+ 460 540 463 569 463 584 c 0
+ 463 621 458 641 458 657 c 0x2f
+EndSplineSet
+Refer: 11 100 N 1 0 0 1 0 0 2
+Fore
+Refer: 2939 -1 N 1 0 0 1 454 0 2
+Refer: 11 100 N 1 0 0 1 0 0 3
+Substitution2: "Smallcaps1 subtable" dcaron.sc
+MultipleSubs2: "cv82_decomp subtable" d uni030C.alt
+MultipleSubs2: "CCMP_Precomp subtable" d uni030C.alt
+EndChar
