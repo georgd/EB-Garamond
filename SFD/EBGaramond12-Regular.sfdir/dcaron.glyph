@@ -1,5 +1,6 @@
 StartChar: dcaron
 Encoding: 271 271 193
+GlifName: dcaron
 Width: 506
 VWidth: 0
 Flags: HM
@@ -19,6 +20,7 @@ Refer: 11 100 N 1 0 0 1 0 0 2
 Fore
 Refer: 2926 -1 N 1 0 0 1 454 0 2
 Refer: 11 100 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "Smallcaps1 subtable" dcaron.sc
 MultipleSubs2: "cv82_decomp subtable" d uni030C.alt
 MultipleSubs2: "CCMP_Precomp subtable" d uni030C.alt

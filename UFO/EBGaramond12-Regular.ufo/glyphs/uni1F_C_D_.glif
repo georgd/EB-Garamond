@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCD" format="1">
+  <advance width="303"/>
+  <unicode hex="1FCD"/>
+  <outline>
+    <component base="gravecomb.grkstack" xOffset="155" yOffset="-20"/>
+    <component base="uni0313.grk" xOffset="30" yOffset="-20"/>
+    <component base="space.stack" xOffset="-5"/>
+  </outline>
+</glyph>

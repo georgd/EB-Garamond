@@ -1,5 +1,6 @@
 StartChar: tcaron
 Encoding: 357 357 263
+GlifName: tcaron
 Width: 314
 VWidth: 0
 Flags: HM
@@ -20,6 +21,7 @@ Refer: 1 116 N 1 0 0 1 0 0 2
 Fore
 Refer: 2926 -1 N 1 0 0 1 214 -60 2
 Refer: 1 116 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "Smallcaps1 subtable" tcaron.sc
 MultipleSubs2: "cv82_decomp subtable" t uni030C.alt
 MultipleSubs2: "CCMP_Precomp subtable" t uni030C.alt

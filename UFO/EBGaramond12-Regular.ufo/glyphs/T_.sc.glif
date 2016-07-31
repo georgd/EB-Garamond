@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T.sc" format="1">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="290" y="18" type="move" name="cedilla"/>
+    </contour>
+    <contour>
+      <point x="271" y="-100" type="move" name="below_accent"/>
+    </contour>
+    <contour>
+      <point x="270" y="615" type="move" name="top_accent"/>
+    </contour>
+    <component base="t.sc"/>
+  </outline>
+</glyph>

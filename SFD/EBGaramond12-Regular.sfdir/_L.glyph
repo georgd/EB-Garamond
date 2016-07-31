@@ -1,5 +1,6 @@
 StartChar: L
 Encoding: 76 76 36
+GlifName: L_
 Width: 584
 VWidth: 0
 Flags: HMW
@@ -2355,6 +2356,7 @@ SplineSet
  332 633 322 626 299 622 c 0
  249 613 210 606 210 567 c 2
 EndSplineSet
+Validated: 1
 Substitution2: "c2sc subtable" L.sc
 Substitution2: "sups subtable" L.sups
 Substitution2: "sinf subtable" L.sinf

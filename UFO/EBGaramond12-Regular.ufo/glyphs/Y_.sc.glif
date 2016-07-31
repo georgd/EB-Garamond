@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y.sc" format="1">
+  <advance width="510"/>
+  <outline>
+    <contour>
+      <point x="286" y="18" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="266" y="615" type="move" name="top_accent"/>
+    </contour>
+    <component base="y.sc"/>
+  </outline>
+</glyph>

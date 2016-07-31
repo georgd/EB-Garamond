@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs" format="1">
+  <advance width="261"/>
+  <unicode hex="017F"/>
+  <outline>
+    <contour>
+      <point x="140" y="8" type="move" name="cedilla"/>
+    </contour>
+    <contour>
+      <point x="134" y="-100" type="move" name="below_accent"/>
+    </contour>
+    <contour>
+      <point x="281" y="800" type="move" name="top_accent"/>
+    </contour>
+    <component base="longs.long"/>
+  </outline>
+</glyph>

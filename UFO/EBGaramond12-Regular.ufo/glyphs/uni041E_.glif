@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni041E" format="1">
+  <advance width="763"/>
+  <unicode hex="041E"/>
+  <outline>
+    <contour>
+      <point x="412" y="8" type="move" name="cedilla"/>
+    </contour>
+    <contour>
+      <point x="370" y="-100" type="move" name="below_accent"/>
+    </contour>
+    <contour>
+      <point x="383" y="710" type="move" name="top_accent"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+</glyph>

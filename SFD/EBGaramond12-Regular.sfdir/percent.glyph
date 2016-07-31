@@ -1,5 +1,6 @@
 StartChar: percent
 Encoding: 37 37 1015
+GlifName: percent
 Width: 735
 VWidth: 0
 Flags: HMW
@@ -36,6 +37,7 @@ SplineSet
  144 -26 135 -20 135 -14 c 0
  135 -13 135 -12 136 -11 c 10
 EndSplineSet
+Validated: 1
 Substitution2: "'onum' Minuskelziffern lookup 35 subtable" percent.sc
 Substitution2: "sups subtable" percent.sups
 Substitution2: "sinf subtable" percent.sinf

@@ -1,5 +1,6 @@
 StartChar: ugrave
 Encoding: 249 249 173
+GlifName: ugrave
 Width: 527
 VWidth: 0
 Flags: HMW
@@ -7,6 +8,7 @@ LayerCount: 3
 Fore
 Refer: 968 768 N 1 0 0 1 118 0 2
 Refer: 15 117 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "Smallcaps1 subtable" ugrave.sc
 MultipleSubs2: "CCMP_Precomp subtable" u gravecomb
 EndChar

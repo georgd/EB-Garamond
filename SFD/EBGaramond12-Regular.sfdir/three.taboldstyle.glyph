@@ -1,5 +1,6 @@
 StartChar: three.taboldstyle
 Encoding: 1114164 -1 1098
+GlifName: three.taboldstyle
 Width: 475
 VWidth: 0
 Flags: HMW
@@ -35,6 +36,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 84 51 N 1 0 0 1 51 0 2
+Validated: 1
 Substitution2: "'pnum' Proportionalziffern lookup 37 subtable" three
 Substitution2: "'lnum' Lining Figures lookup 34 subtable" three.tablining
 EndChar

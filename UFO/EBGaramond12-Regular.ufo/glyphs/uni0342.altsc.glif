@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0342.altsc" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="112" y="521" type="move" name="_top_stack"/>
+    </contour>
+    <contour>
+      <point x="112" y="533" type="move" name="_grk_top"/>
+    </contour>
+    <contour>
+      <point x="37" y="498" type="curve" smooth="yes"/>
+      <point x="34" y="489"/>
+      <point x="30" y="477"/>
+      <point x="20" y="477" type="curve" smooth="yes"/>
+      <point x="10" y="477"/>
+      <point x="5" y="488"/>
+      <point x="5" y="501" type="curve" smooth="yes"/>
+      <point x="5" y="545"/>
+      <point x="42" y="601"/>
+      <point x="112" y="601" type="curve" smooth="yes"/>
+      <point x="182" y="601"/>
+      <point x="219" y="546"/>
+      <point x="219" y="501" type="curve" smooth="yes"/>
+      <point x="219" y="488"/>
+      <point x="214" y="477"/>
+      <point x="204" y="477" type="curve" smooth="yes"/>
+      <point x="194" y="477"/>
+      <point x="190" y="488"/>
+      <point x="187" y="498" type="curve" smooth="yes"/>
+      <point x="180" y="519"/>
+      <point x="153" y="541"/>
+      <point x="112" y="541" type="curve" smooth="yes"/>
+      <point x="71" y="541"/>
+      <point x="45" y="519"/>
+    </contour>
+  </outline>
+</glyph>

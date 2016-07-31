@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030C.stacksc" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="117" y="507" type="move" name="_top_stack"/>
+    </contour>
+    <contour>
+      <point x="114" y="580" type="move" name="gravestack"/>
+    </contour>
+    <contour>
+      <point x="120" y="580" type="move" name="acutestack"/>
+    </contour>
+    <contour>
+      <point x="117" y="635" type="move" name="top_stack"/>
+    </contour>
+    <contour>
+      <point x="116" y="550" type="move" name="_top_accent"/>
+    </contour>
+    <contour>
+      <point x="124" y="529" type="curve" smooth="yes"/>
+      <point x="193" y="595" type="line" smooth="yes"/>
+      <point x="201" y="603"/>
+      <point x="211" y="608"/>
+      <point x="219" y="608" type="curve" smooth="yes"/>
+      <point x="228" y="608"/>
+      <point x="228" y="604"/>
+      <point x="228" y="595" type="curve" smooth="yes"/>
+      <point x="228" y="580"/>
+      <point x="139" y="465"/>
+      <point x="139" y="465" type="curve" smooth="yes"/>
+      <point x="133" y="457"/>
+      <point x="125" y="447"/>
+      <point x="117" y="447" type="curve" smooth="yes"/>
+      <point x="109" y="447"/>
+      <point x="101" y="457"/>
+      <point x="95" y="465" type="curve" smooth="yes"/>
+      <point x="95" y="465"/>
+      <point x="5" y="580"/>
+      <point x="5" y="595" type="curve" smooth="yes"/>
+      <point x="5" y="604"/>
+      <point x="5" y="608"/>
+      <point x="14" y="608" type="curve" smooth="yes"/>
+      <point x="22" y="608"/>
+      <point x="31" y="603"/>
+      <point x="40" y="595" type="curve" smooth="yes"/>
+      <point x="109" y="529" type="line" smooth="yes"/>
+      <point x="114" y="524"/>
+      <point x="119" y="524"/>
+    </contour>
+  </outline>
+</glyph>

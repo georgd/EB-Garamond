@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicron.sc" format="1">
+  <advance width="616"/>
+  <outline>
+    <contour>
+      <point x="300" y="590" type="move" name="grk_top"/>
+    </contour>
+    <contour>
+      <point x="300" y="-147" type="move" name="grk_bottom"/>
+    </contour>
+    <contour>
+      <point x="616" y="190" type="move" name="grk_uc_right"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+</glyph>

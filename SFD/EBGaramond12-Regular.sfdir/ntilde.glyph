@@ -1,5 +1,6 @@
 StartChar: ntilde
 Encoding: 241 241 168
+GlifName: ntilde
 Width: 528
 VWidth: 0
 Flags: HM
@@ -7,6 +8,7 @@ LayerCount: 3
 Fore
 Refer: 110 771 N 1 0 0 1 106 17 2
 Refer: 6 110 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "Smallcaps1 subtable" ntilde.sc
 MultipleSubs2: "CCMP_Precomp subtable" n tildecomb
 EndChar

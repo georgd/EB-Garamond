@@ -1,5 +1,6 @@
 StartChar: lacute
 Encoding: 314 314 227
+GlifName: lacute
 Width: 240
 VWidth: 0
 Flags: HM
@@ -7,6 +8,7 @@ LayerCount: 3
 Fore
 Refer: 2297 -1 N 1 0 0 1 30 240 2
 Refer: 2 108 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "Smallcaps1 subtable" lacute.sc
 MultipleSubs2: "CCMP_Precomp subtable" l acutecomb.flat
 EndChar

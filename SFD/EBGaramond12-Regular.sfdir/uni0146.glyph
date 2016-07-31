@@ -1,5 +1,6 @@
 StartChar: uni0146
 Encoding: 326 326 237
+GlifName: uni0146
 Width: 528
 VWidth: 0
 Flags: HMW
@@ -7,6 +8,7 @@ LayerCount: 3
 Fore
 Refer: 128 806 N 1 0 0 1 159 0 2
 Refer: 6 110 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "Smallcaps1 subtable" uni0146.sc
 MultipleSubs2: "CCMP_Precomp subtable" n uni0326
 EndChar

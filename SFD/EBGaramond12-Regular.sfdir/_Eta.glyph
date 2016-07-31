@@ -1,5 +1,6 @@
 StartChar: Eta
 Encoding: 919 919 633
+GlifName: E_ta
 Width: 810
 VWidth: 0
 Flags: HMW
@@ -10,6 +11,7 @@ AnchorPoint: "grk_uc_top_left" -36 665 basechar 0
 LayerCount: 3
 Fore
 Refer: 47 72 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "c2sc subtable" Eta.sc
 Position2: "Single Positioning lookup 17 subtable" dx=0 dy=0 dh=315 dv=0
 Position2: "Single Positioning lookup 16 subtable" dx=0 dy=0 dh=340 dv=0

@@ -1,5 +1,6 @@
 StartChar: question
 Encoding: 63 63 86
+GlifName: question
 Width: 387
 VWidth: 0
 Flags: HMW
@@ -27,6 +28,7 @@ SplineSet
  121 569 100 598 100 625 c 0
  100 644 123 661 140 661 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "sups subtable" question.sups
 Substitution2: "sinf subtable" question.sinf
 Substitution2: "ordn subtable" question.ordn

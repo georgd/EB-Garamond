@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0413" format="1">
+  <advance width="517"/>
+  <unicode hex="0413"/>
+  <outline>
+    <contour>
+      <point x="322" y="8" type="move" name="cedilla"/>
+    </contour>
+    <contour>
+      <point x="450" y="18" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="280" y="-100" type="move" name="below_accent"/>
+    </contour>
+    <contour>
+      <point x="287" y="710" type="move" name="top_accent"/>
+    </contour>
+    <component base="Gamma"/>
+  </outline>
+</glyph>

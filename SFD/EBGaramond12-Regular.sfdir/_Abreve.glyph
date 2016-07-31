@@ -1,5 +1,6 @@
 StartChar: Abreve
 Encoding: 258 258 180
+GlifName: A_breve
 Width: 692
 VWidth: 0
 Flags: HMW
@@ -7,6 +8,7 @@ LayerCount: 3
 Fore
 Refer: 988 -1 N 1 0 0 1 221 0 2
 Refer: 31 65 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "c2sc subtable" Abreve.sc
 MultipleSubs2: "CCMP_Precomp subtable" A uni0306.cap
 Position2: "rtbd subtable" dx=0 dy=0 dh=-34 dv=0

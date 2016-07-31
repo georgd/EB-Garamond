@@ -1,5 +1,6 @@
 StartChar: eng
 Encoding: 331 331 1031
+GlifName: eng
 Width: 513
 VWidth: 0
 Flags: HMW
@@ -44,5 +45,6 @@ SplineSet
  171 323 161 309 161 268 c 2
  161 69 l 2
 EndSplineSet
+Validated: 1
 Substitution2: "Smallcaps1 subtable" eng.sc
 EndChar

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iota" format="1">
+  <advance width="340"/>
+  <unicode hex="0399"/>
+  <outline>
+    <contour>
+      <point x="170" y="-100" type="move" name="grk_bottom"/>
+    </contour>
+    <contour>
+      <point x="340" y="290" type="move" name="grk_uc_right"/>
+    </contour>
+    <contour>
+      <point x="297" y="720" type="move" name="grk_uc_top"/>
+    </contour>
+    <contour>
+      <point x="-36" y="665" type="move" name="grk_uc_top_left"/>
+    </contour>
+    <component base="I"/>
+  </outline>
+</glyph>

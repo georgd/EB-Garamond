@@ -1,5 +1,6 @@
 StartChar: g
 Encoding: 103 103 25
+GlifName: g
 Width: 435
 VWidth: 0
 Flags: HMW
@@ -1306,6 +1307,7 @@ SplineSet
  369 349 378 343 364 341 c 1
  360 330 360 310 360 295 c 0
 EndSplineSet
+Validated: 524289
 Kerns2: 16 25 "kern per glyph data 0"
 Substitution2: "Smallcaps1 subtable" g.sc
 AlternateSubs2: "alternate_g subtable" g.01

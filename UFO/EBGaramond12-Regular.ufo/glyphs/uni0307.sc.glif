@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0307.sc" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="111" y="550" type="move" name="_top_accent"/>
+    </contour>
+    <contour>
+      <point x="113" y="597" type="curve" smooth="yes"/>
+      <point x="143" y="597"/>
+      <point x="167" y="572"/>
+      <point x="167" y="542" type="curve" smooth="yes"/>
+      <point x="167" y="512"/>
+      <point x="143" y="487"/>
+      <point x="113" y="487" type="curve" smooth="yes"/>
+      <point x="83" y="487"/>
+      <point x="57" y="512"/>
+      <point x="57" y="542" type="curve" smooth="yes"/>
+      <point x="57" y="572"/>
+      <point x="83" y="597"/>
+    </contour>
+  </outline>
+</glyph>

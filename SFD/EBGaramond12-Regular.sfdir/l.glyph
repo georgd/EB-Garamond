@@ -1,5 +1,6 @@
 StartChar: l
 Encoding: 108 108 2
+GlifName: l
 Width: 240
 VWidth: 0
 Flags: HMW
@@ -30,6 +31,7 @@ SplineSet
  162 686 155 652 155 562 c 2
  155 62 l 2
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 90 subtable" l.f_
 Substitution2: "Single Substitution lookup 82 subtable" l.f_
 Substitution2: "Smallcaps1 subtable" l.sc

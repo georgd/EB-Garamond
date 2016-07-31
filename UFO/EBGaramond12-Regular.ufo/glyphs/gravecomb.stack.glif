@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.stack" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="92" y="456" type="move" name="_gravestack"/>
+    </contour>
+    <contour>
+      <point x="72" y="550" type="move" name="_top_accent"/>
+    </contour>
+    <contour>
+      <point x="92" y="471" type="curve" smooth="yes"/>
+      <point x="85" y="478"/>
+      <point x="10" y="581"/>
+      <point x="10" y="593" type="curve" smooth="yes"/>
+      <point x="10" y="608"/>
+      <point x="43" y="623"/>
+      <point x="53" y="623" type="curve" smooth="yes"/>
+      <point x="63" y="623"/>
+      <point x="70" y="615"/>
+      <point x="76" y="605" type="curve" smooth="yes"/>
+      <point x="81" y="596"/>
+      <point x="119" y="479"/>
+      <point x="119" y="464" type="curve" smooth="yes"/>
+      <point x="119" y="459"/>
+      <point x="119" y="456"/>
+      <point x="114" y="456" type="curve" smooth="yes"/>
+      <point x="109" y="456"/>
+      <point x="98" y="465"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,5 +1,6 @@
 StartChar: Aacute
 Encoding: 193 193 130
+GlifName: A_acute
 Width: 692
 VWidth: 0
 Flags: HMW
@@ -7,6 +8,7 @@ LayerCount: 3
 Fore
 Refer: 984 -1 N 1 0 0 1 319 0 2
 Refer: 31 65 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "c2sc subtable" Aacute.sc
 MultipleSubs2: "CCMP_Precomp subtable" A acutecomb.cap
 Position2: "rtbd subtable" dx=0 dy=0 dh=-34 dv=0

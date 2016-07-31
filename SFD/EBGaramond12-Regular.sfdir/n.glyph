@@ -1,5 +1,6 @@
 StartChar: n
 Encoding: 110 110 6
+GlifName: n
 Width: 528
 VWidth: 0
 Flags: HMW
@@ -1377,6 +1378,7 @@ SplineSet
  369 272 l 2
  369 330 333 365 279 366 c 0
 EndSplineSet
+Validated: 524321
 Substitution2: "Smallcaps1 subtable" n.sc
 Substitution2: "sups subtable" n.sups
 Substitution2: "sinf subtable" n.sinf

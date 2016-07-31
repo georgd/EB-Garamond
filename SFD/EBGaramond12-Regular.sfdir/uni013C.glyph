@@ -1,5 +1,6 @@
 StartChar: uni013C
 Encoding: 316 316 229
+GlifName: uni013C_
 Width: 240
 VWidth: 0
 Flags: HMW
@@ -37,6 +38,7 @@ EndSplineSet
 Fore
 Refer: 128 806 N 1 0 0 1 14 0 2
 Refer: 2 108 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "Smallcaps1 subtable" uni013C.sc
 MultipleSubs2: "CCMP_Precomp subtable" l uni0326
 EndChar

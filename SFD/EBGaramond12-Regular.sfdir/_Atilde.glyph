@@ -1,5 +1,6 @@
 StartChar: Atilde
 Encoding: 195 195 132
+GlifName: A_tilde
 Width: 692
 VWidth: 0
 Flags: HMW
@@ -7,6 +8,7 @@ LayerCount: 3
 Fore
 Refer: 987 -1 N 1 0 0 1 220 0 2
 Refer: 31 65 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "c2sc subtable" Atilde.sc
 MultipleSubs2: "CCMP_Precomp subtable" A tildecomb.cap
 Position2: "rtbd subtable" dx=0 dy=0 dh=-34 dv=0

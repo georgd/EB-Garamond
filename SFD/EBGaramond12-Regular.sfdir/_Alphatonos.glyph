@@ -1,5 +1,6 @@
 StartChar: Alphatonos
 Encoding: 902 902 2437
+GlifName: A_lphatonos
 Width: 692
 VWidth: 0
 Flags: HMW
@@ -7,6 +8,7 @@ LayerCount: 3
 Fore
 Refer: 2704 -1 N 1 0 0 1 109 35 2
 Refer: 629 913 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "c2sc subtable" Alphatonos.sc
 MultipleSubs2: "CCMP_Precomp subtable" Alpha acutecomb.grk
 EndChar

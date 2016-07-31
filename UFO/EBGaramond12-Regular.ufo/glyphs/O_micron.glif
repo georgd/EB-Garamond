@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicron" format="1">
+  <advance width="763"/>
+  <unicode hex="039F"/>
+  <outline>
+    <contour>
+      <point x="370" y="-100" type="move" name="grk_bottom"/>
+    </contour>
+    <contour>
+      <point x="763" y="290" type="move" name="grk_uc_right"/>
+    </contour>
+    <contour>
+      <point x="393" y="720" type="move" name="grk_uc_top"/>
+    </contour>
+    <contour>
+      <point x="25" y="665" type="move" name="grk_uc_top_left"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+</glyph>

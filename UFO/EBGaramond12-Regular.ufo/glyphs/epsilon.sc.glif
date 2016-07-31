@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilon.sc" format="1">
+  <advance width="480"/>
+  <outline>
+    <contour>
+      <point x="228" y="590" type="move" name="grk_top"/>
+    </contour>
+    <contour>
+      <point x="244" y="-147" type="move" name="grk_bottom"/>
+    </contour>
+    <contour>
+      <point x="468" y="190" type="move" name="grk_uc_right"/>
+    </contour>
+    <component base="e.sc"/>
+  </outline>
+</glyph>

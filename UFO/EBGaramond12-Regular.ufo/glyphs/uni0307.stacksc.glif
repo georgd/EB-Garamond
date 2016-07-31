@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0307.stacksc" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="111" y="500" type="move" name="_top_stack"/>
+    </contour>
+    <contour>
+      <point x="111" y="640" type="move" name="top_stack"/>
+    </contour>
+    <contour>
+      <point x="111" y="550" type="move" name="_top_accent"/>
+    </contour>
+    <contour>
+      <point x="62" y="543" type="curve" smooth="yes"/>
+      <point x="62" y="572"/>
+      <point x="84" y="594"/>
+      <point x="112" y="594" type="curve" smooth="yes"/>
+      <point x="141" y="594"/>
+      <point x="163" y="572"/>
+      <point x="163" y="543" type="curve" smooth="yes"/>
+      <point x="163" y="515"/>
+      <point x="141" y="493"/>
+      <point x="112" y="493" type="curve" smooth="yes"/>
+      <point x="84" y="493"/>
+      <point x="62" y="515"/>
+    </contour>
+  </outline>
+</glyph>

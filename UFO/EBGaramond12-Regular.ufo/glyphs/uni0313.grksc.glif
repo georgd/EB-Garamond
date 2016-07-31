@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0313.grksc" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="130" y="640" type="move" name="grk_hstack"/>
+    </contour>
+    <contour>
+      <point x="130" y="550" type="move" name="_grk_top"/>
+    </contour>
+    <contour>
+      <point x="202" y="630" type="move" name="_grk_uc_top_left"/>
+    </contour>
+    <contour>
+      <point x="42" y="578" type="curve" smooth="yes"/>
+      <point x="19" y="582"/>
+      <point x="0" y="595"/>
+      <point x="0" y="618" type="curve" smooth="yes"/>
+      <point x="0" y="641"/>
+      <point x="23" y="656"/>
+      <point x="47" y="656" type="curve" smooth="yes"/>
+      <point x="94" y="656"/>
+      <point x="120" y="607"/>
+      <point x="120" y="559" type="curve" smooth="yes"/>
+      <point x="120" y="506"/>
+      <point x="76" y="462"/>
+      <point x="24" y="462" type="curve" smooth="yes"/>
+      <point x="11" y="462"/>
+      <point x="4" y="467"/>
+      <point x="4" y="472" type="curve" smooth="yes"/>
+      <point x="4" y="479"/>
+      <point x="13" y="482"/>
+      <point x="21" y="486" type="curve" smooth="yes"/>
+      <point x="48" y="499"/>
+      <point x="68" y="517"/>
+      <point x="68" y="546" type="curve" smooth="yes"/>
+      <point x="68" y="562"/>
+      <point x="58" y="575"/>
+    </contour>
+  </outline>
+</glyph>

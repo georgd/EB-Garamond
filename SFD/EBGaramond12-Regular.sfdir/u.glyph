@@ -1,5 +1,6 @@
 StartChar: u
 Encoding: 117 117 15
+GlifName: u
 Width: 527
 VWidth: 0
 Flags: HMW
@@ -1133,6 +1134,7 @@ SplineSet
  280 394 299.004775451 396.804600921 303 397 c 0
  402.880613734 401.88497698 417 415 434 415 c 0
 EndSplineSet
+Validated: 524289
 Substitution2: "Smallcaps1 subtable" u.sc
 Substitution2: "Single Substitution lookup 40 subtable" u.LAT
 Substitution2: "sups subtable" u.sups

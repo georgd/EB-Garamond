@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01EA" format="1">
+  <advance width="763"/>
+  <unicode hex="01EA"/>
+  <outline>
+    <contour>
+      <point x="383" y="700" type="move" name="top_accent"/>
+    </contour>
+    <component base="uni0328.cap" xOffset="332"/>
+    <component base="O"/>
+  </outline>
+</glyph>
