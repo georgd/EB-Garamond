@@ -1,0 +1,14 @@
+feature case {
+# sub @capdiacritics0 by @capdiacritics1;
+  sub [ hyphen uni2010 uni2011 figuredash endash emdash ] by [ hyphen.cap uni2010.cap uni2011.cap figuredash.cap endash.cap emdash.cap ];
+  sub [ zero zero.tf zero.tosf ] by zero.lf;
+  sub [ one one.tf one.tosf ] by one.lf;
+  sub [ two two.tf two.tosf ] by two.lf;
+  sub [ three three.tf three.tosf ] by three.lf;
+  sub [ four four.tf four.tosf ] by four.lf;
+  sub [ five five.tf five.tosf ] by five.lf;
+  sub [ six six.tf six.tosf ] by six.lf;
+  sub [ seven seven.tf seven.tosf ] by seven.lf;
+  sub [ eight eight.tf eight.tosf ] by eight.lf;
+  sub [ nine nine.tf nine.tosf ] by nine.lf;
+} case;

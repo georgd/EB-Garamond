@@ -1,0 +1,38 @@
+include (ccmpcomp.fea)
+
+lookup CCMP_contextual {
+    sub [ i j ]' @abovediacritics by [ i.dotless j.dotless ];
+    sub [ l d t ] \uni030C' by uni030C.alt;
+    sub [ b d f h k l thorn ] [ gravecomb acutecomb uni0302 uni030C ]' by [ gravecomb.flat acutecomb.flat uni0302.flat uni030C.flat ];
+} CCMP_contextual;
+
+lookup CCMP_stacking1 {
+    sub [ acutecomb gravecomb uni0302 tildecomb uni0304 uni0306 uni0307 hookabovecomb uni030A  uni030C ]' @abovediacritics by [ acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack  uni030C.stack ];
+} CCMP_stacking1;
+
+lookup CCMP_stacking2 {
+    sub [ acutecomb.flat gravecomb.flat uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack  uni030C.stack uni0302.flat uni030C.flat ] [ acutecomb gravecomb uni0302 tildecomb uni0304 uni0306 uni0307 hookabovecomb uni030A  uni030C ]' by [acutecomb.stack gravecomb.stack uni0302.stack tildecomb.stack uni0304.stack uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack  uni030C.stack ];
+} CCMP_stacking2;
+
+lookup CCMP_stackgrk1 {
+    sub [ @VocalsGRK ] uni0308' [ gravecomb acutecomb ] by uni0308.grkstack;
+    sub [ @VocalsGRK ] [ uni0313 uni0314 ]' [ gravecomb acutecomb ] by [ uni0313.grk uni0314.grk ];
+    sub [ @VocalsGRK ] [ uni0313 uni0314 ]' [ uni0342 uni0342.alt ] by [ uni0313.grkstack uni0314.grkstack ];
+    sub [ @VocalsGRK ] [ gravecomb acutecomb ]' by [ gravecomb.grk acutecomb.grk ];
+} CCMP_stackgrk1;
+
+lookup CCMP_stackgrk2 {
+    sub [ uni0313.grk uni0314.grk ] [ gravecomb acutecomb ]' by [ gravecomb.grkstack acutecomb.grkstack ];
+} CCMP_stackgrk2;
+
+feature ss20 {
+  lookup CCMP_Precomp;
+} ss20;
+
+feature ccmp {
+  lookup CCMP_contextual;
+  lookup CCMP_stacking1;
+  lookup CCMP_stacking2;
+  lookup CCMP_stackgrk1;
+  lookup CCMP_stackgrk2;
+} ccmp;

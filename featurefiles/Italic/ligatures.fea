@@ -1,18 +1,18 @@
 feature hlig {
-    sub s t  by uniFB06; # needs repair!
+    sub s t  by s_t; # needs repair!
     sub c t  by c_t;
     sub s p by s_p;
     sub s k by s_k;
 } hlig;
 
 lookup liga_standard {
-    sub [ f f.DEU ] i  by uniFB01; # f_i #### all f-ligs need repair!
-    sub [ f f.DEU ] [ f f.DEU ] i  by uniFB03; # f_f_i
+    sub [ f f.DEU ] i  by f_i; # f_i #### all f-ligs need repair!
+    sub [ f f.DEU ] [ f f.DEU ] i  by f_f_i; # f_f_i
     sub longs i  by longs_i;
     sub f f by f_f;
     sub f.DEU f.DEU by f_f;
-    sub [f f.DEU] l  by uniFB02; #f_l
-    sub f f l  by uniFB04; #f_f_l
+    sub [f f.DEU] l  by f_l; #f_l
+    sub f f l  by f_f_l; #f_f_l
     sub f h  by f_h;
     sub f k  by f_k;
     sub f b  by f_b;
@@ -21,7 +21,7 @@ lookup liga_standard {
     sub f f k  by f_f_k;
     sub f f b  by f_f_b;
     sub f f j  by f_f_j;
-    sub longs t  by uniFB05; # needs repair
+    sub longs t  by longs_t; # needs repair
     sub longs longs l  by longs_longs_l;
     sub longs longs i  by longs_longs_i;
     sub longs longs  by longs_longs;

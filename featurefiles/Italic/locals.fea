@@ -1,25 +1,18 @@
 lookup loclDEU {
-    sub \Adieresis by \Adieresis.deu ;
-    sub \Odieresis by \Odieresis.deu ;
-    sub \Udieresis by \Udieresis.deu ;
+    sub Adieresis by Adieresis.deu ;
+    sub Odieresis by Odieresis.deu ;
+    sub Udieresis by Udieresis.deu ;
     sub f by f.DEU;
 } loclDEU;
 
-#lookup loclPLK {
-#    sub [ Cacute Nacute Oacute Sacute Zacute acutecomb.cap ] by [ Cacute.PLK Nacute.PLK Oacute.PLK Sacute.PLK Zacute.PLK acute.PLKcap ];
-#}loclPLK;
-## polish lookup not used any longer because uppercase acute is now even less shallow than acute.plk
 
 lookup loclTRK {
-# cf. http://typophile.com/node/17787
     sub i by i.TRK;
 } loclTRK;
 
 lookup loclCAT {
     sub l periodcentered' l by periodcentered.CAT;
     sub L periodcentered' [L l] by periodcentered.CATuc;
-#    sub L by L.CAT;
-#    sub l by l.CAT;
 } loclCAT;
 
 lookup loclSRB {
@@ -37,30 +30,25 @@ lookup LATliga {
     sub o e by oe;
 } LATliga;
 
-#lookup loclENG {
-#    sub t h by thorn;
-#    sub T h by Thorn;
-#} loclENG;
 
 feature locl {
   script latn;
      language DEU  exclude_dflt;
       lookup loclDEU;
-#     language PLK  exclude_dflt;
-#      lookup loclPLK;
      language TRK  exclude_dflt;
       lookup loclTRK;
      language AZE  exclude_dflt;
       lookup loclTRK;
      language CRT  exclude_dflt;
       lookup loclTRK;
+     language KAZ  exclude_dflt;
+      lookup loclTRK;
+     language TAT  exclude_dflt;
+      lookup loclTRK;
      language CAT  exclude_dflt;
       lookup loclCAT;
      language LAT  exclude_dflt;
       lookup loclLAT;
-#      lookup LATliga;
-#     language ENG  exclude_dflt;
-#      lookup loclENG;      
   script cyrl;
      language SRB  exclude_dflt;
       lookup loclSRB;

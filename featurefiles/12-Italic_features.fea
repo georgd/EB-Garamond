@@ -9,20 +9,18 @@ languagesystem latn DEU ;
 languagesystem latn TRK ;
 languagesystem latn AZE ;
 languagesystem latn CRT ;
+languagesystem latn KAZ ;
+languagesystem latn TAT ;
 languagesystem latn CAT ;
 languagesystem latn LAT ;
-#languagesystem latn PLK ;
-#languagesystem latn ROM ; not used; see discussion at https://bugs.launchpad.net/ubuntu-font-family/+bug/615565
-#languagesystem latn MOL ;
-#languagesystem latn ENG ; # for testing only
 
 
 include (Italic/classes.fea)
 include (Italic/locals.fea)
-include (Regular/case.fea)
-include (Regular/ccmp.fea)
-include (Regular/figures.fea)
-include (Regular/smallcaps.fea)
+include (Italic/ccmp.fea)
+include (Italic/figures.fea)
+include (Italic/smallcaps.fea)
+include (Italic/case.fea)
 include (Italic/styles.fea)
 include (Italic/ligatures.fea)
 include (Italic/calt.fea)
