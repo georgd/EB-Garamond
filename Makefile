@@ -1,5 +1,5 @@
 NAME=EBGaramond
-VERSION=0.016
+VERSION=0.016.1
 
 SRC=SFD
 BLD=build
@@ -14,7 +14,7 @@ DIST=$(NAME)-$(VERSION)-complete
 #Return to python because we don’t scale the font any longer.
 PY=python
 SCRIPT=tools/makefont.py
-SFNTTOOL=java -jar sfnttool.jar
+SFNTTOOL=java -jar tools/sfntly/sfnttool.jar
 
 #SIZES=08 12
 #STYLES=Regular SC Allsc Italic Bold
@@ -24,7 +24,6 @@ FONTS=08-Regular 08-Italic 12-Regular SC12-Regular 12-AllSC 12-Italic  -Initials
 SFD=$(FONTS:%=$(SRC)/$(NAME)%.sfdir)
 OTF=$(FONTS:%=$(BLD)/$(NAME)%.otf)
 TTF=$(FONTS:%=$(BLD)/$(NAME)%.ttf)
-WTT=$(FONTS:%=$(WEB)/$(NAME)%.ttf)
 WOF=$(FONTS:%=$(WEB)/$(NAME)%.woff)
 EOT=$(FONTS:%=$(WEB)/$(NAME)%.eot)
 PDF=$(FONTS:%=$(SPEC)/$(NAME)%-Glyphs.pdf)
@@ -39,8 +38,6 @@ pdfs: $(PDF)
 
 $(BLD):
 	@mkdir $@
-$(WEB):
-	@mkdir -p $@
 $(SPEC):
 	@mkdir -p $@
 
@@ -55,13 +52,15 @@ $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
 	@mv $@.tmp $@
 
-$(WEB)/%.woff: $(BLD)/%.ttf | $(BLD)
+$(WEB)/%.woff: $(BLD)/%.ttf
 	@echo "Generating	$@"
+	@mkdir -p $(WEB)
 	@$(SFNTTOOL) -w $< $@
 #	@sfnt2woff $<
 
-$(WEB)/%.eot: $(BLD)/%.ttf | $(BLD)
+$(WEB)/%.eot: $(BLD)/%.ttf
 	@echo "Generating	$@"
+	@mkdir -p $(WEB)
 	@$(SFNTTOOL) -e -x $< $@
 #	@ttf2eot $< > $@
 
@@ -80,13 +79,13 @@ dpack: $(OTF) $(TTF)
 	@cp $(TTF) $(PACK)/ttf
 #	@cp $(PDF) $(PACK)/specimen        #Temporarily out of order
 	@cp $(SPEC)/Specimen.pdf  $(PACK)/specimen
-	@cp Changes README.markdown README.xelualatex COPYING $(PACK)
+	@cp Changes README.md README.xelualatex COPYING $(PACK)
 	@zip -r $(PACK).zip $(PACK)
 
 wpack: $(WOF) $(EOT)
 	@echo "Packing webfonts to zipfile"
 	@mkdir -p $(WPCK)
-	@cp $(WOF) $(EOT) README.markdown COPYING $(WPCK)
+	@cp $(WOF) $(EOT) README.md COPYING $(WPCK)
 	@zip -r $(WPCK).zip $(WPCK)
 
 dist: $(OTF) $(TTF)
@@ -101,11 +100,11 @@ dist: $(OTF) $(TTF)
 	@cp $(WOF) $(EOT) $(DIST)/$(WEB)
 	@cp $(PDF) $(SPEC)/Specimen.pdf $(DIST)/$(SPEC)
 	@cp $(SCRIPT) $(DIST)/tools
-	@cp Changes Makefile README.markdown README.xelualatex COPYING $(DIST)
+	@cp Changes Makefile README.md README.xelualatex COPYING $(DIST)
 	@zip -r $(DIST).zip $(DIST)
 
 cleanpack:
 	@rm -rf $(PACK) $(PACK).zip  $(WPCK) $(WPCK).zip
 
 clean:
-	@rm -rf $(OTF) $(TTF) $(WTT) $(WOF) $(EOT) $(PDF) $(PACK) $(PACK).zip $(WPCK) $(WPCK).zip $(DIST) $(DIST).zip
+	@rm -rf $(OTF) $(TTF) $(WOF) $(EOT) $(PDF) $(PACK) $(PACK).zip $(WPCK) $(WPCK).zip $(DIST) $(DIST).zip
