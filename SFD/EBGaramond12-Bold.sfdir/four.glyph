@@ -7,7 +7,7 @@ LayerCount: 3
 Fore
 SplineSet
 342 51 m 0
- 329.422 51 317.746 49.7463 312 44 c 1
+ 329 51 318 50 312 44 c 1
  312 -134 l 2
  312 -163 234 -184 224 -184 c 0
  213 -184 200 -181 200 -168 c 2
@@ -29,11 +29,11 @@ SplineSet
  366 50 353 51 342 51 c 0
 192 106 m 0
  195 106 199 110 200 112 c 1
- 200 278 l 1
- 199 280 195 280 194 278 c 0
- 151 214 129 176 88 110 c 0
- 87 109 86 107 86 106 c 1
- 121.333 106 156.667 106 192 106 c 0
+ 200 221 l 1
+ 199 223 195 223 194 221 c 0
+ 161 179 144 154 113 110 c 0
+ 112 109 111 107 111 106 c 1
+ 138 106 165 106 192 106 c 0
 EndSplineSet
 Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" four.taboldstyle
 Substitution2: "'lnum' Lining Figures lookup 30 subtable" four.lnum
