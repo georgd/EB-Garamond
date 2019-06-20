@@ -12,7 +12,7 @@ DIST=$(NAME)-$(VERSION)-complete
 #Call script through fontforge, not python. https://github.com/fontforge/fontforge/issues/528
 #FF=fontforge
 #Return to python because we don’t scale the font any longer.
-PY=python
+PYTHON?=python
 SCRIPT=tools/makefont.py
 SFNTTOOL=java -jar sfnttool.jar
 
@@ -46,11 +46,11 @@ $(SPEC):
 
 $(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 	@echo "Generating	$@"
-	@$(PY) $(SCRIPT) $< $@ $(VERSION) 
+	@$(PYTHON) $(SCRIPT) $< $@ $(VERSION)
 
 $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 	@echo "Generating	$@"
-	@$(PY) $(SCRIPT) $< $@ $(VERSION) 
+	@$(PYTHON) $(SCRIPT) $< $@ $(VERSION)
 	@echo "Autohinting	$@"
 	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
 	@mv $@.tmp $@
