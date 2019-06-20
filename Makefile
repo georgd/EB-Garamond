@@ -29,12 +29,12 @@ WOF=$(FONTS:%=$(WEB)/$(NAME)%.woff)
 EOT=$(FONTS:%=$(WEB)/$(NAME)%.eot)
 PDF=$(FONTS:%=$(SPEC)/$(NAME)%-Glyphs.pdf)
 
-all: otf ttf web # pdfs
+all: otf ttf webfonts # pdfs
 pack: dpack wpack
 
 otf: $(OTF)
 ttf: $(TTF)
-web: $(WOF) $(EOT)
+webfonts: $(WOF) $(EOT)
 pdfs: $(PDF)
 
 $(BLD):
@@ -55,12 +55,12 @@ $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
 	@mv $@.tmp $@
 
-$(WEB)/%.woff: $(BLD)/%.ttf | $(BLD)
+$(WEB)/%.woff: $(BLD)/%.ttf | $(WEB) $(BLD)
 	@echo "Generating	$@"
 	@$(SFNTTOOL) -w $< $@
 #	@sfnt2woff $<
 
-$(WEB)/%.eot: $(BLD)/%.ttf | $(BLD)
+$(WEB)/%.eot: $(BLD)/%.ttf | $(WEB) $(BLD)
 	@echo "Generating	$@"
 	@$(SFNTTOOL) -e -x $< $@
 #	@ttf2eot $< > $@
