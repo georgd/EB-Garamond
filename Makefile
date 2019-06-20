@@ -89,7 +89,7 @@ wpack: $(WOF) $(EOT)
 	@cp $(WOF) $(EOT) README.markdown COPYING $(WPCK)
 	@zip -r $(WPCK).zip $(WPCK)
 
-dist: $(OTF) $(TTF)
+dist: $(OTF) $(TTF) $(WOF) $(EOT)
 	@echo "Making dist tarball"
 	@mkdir -p $(DIST)/$(SRC)
 	@mkdir -p $(DIST)/$(BLD)
@@ -99,9 +99,10 @@ dist: $(OTF) $(TTF)
 	@cp -r $(SFD) $(DIST)/$(SRC)
 	@cp $(OTF) $(TTF) $(DIST)/$(BLD)
 	@cp $(WOF) $(EOT) $(DIST)/$(WEB)
-	@cp $(PDF) $(SPEC)/Specimen.pdf $(DIST)/$(SPEC)
+#	@cp $(PDF) $(SPEC)/Specimen.pdf $(DIST)/$(SPEC) #Temporarily out of order
+	@cp $(SPEC)/Specimen.pdf $(DIST)/$(SPEC)
 	@cp $(SCRIPT) $(DIST)/tools
-	@cp Changes Makefile README.markdown README.xelualatex COPYING $(DIST)
+	@cp Changes Makefile README.md README.xelualatex COPYING $(DIST)
 	@zip -r $(DIST).zip $(DIST)
 
 cleanpack:
