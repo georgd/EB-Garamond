@@ -3,6 +3,7 @@
 # invoked by the Makefile
 
 from __future__ import absolute_import, print_function, unicode_literals
+import glob
 import os
 import re
 import sys
@@ -56,6 +57,10 @@ font.encoding = 'UnicodeFull'
 font.selection.all()
 font.removeOverlap()
 font.autoHint()
+
+for svg in glob.glob(args.input + "/*svg"):
+    letter = os.path.splitext(os.path.basename(svg))[0]
+    font.createMappedChar(letter).importOutlines(svg)
 
 if args.reloadgpos:
     for lookup in font.gpos_lookups:
