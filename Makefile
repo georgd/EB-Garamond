@@ -12,7 +12,7 @@ DIST=$(NAME)-$(VERSION)-complete
 #Call script through fontforge, not python. https://github.com/fontforge/fontforge/issues/528
 #FF=fontforge
 #Return to python because we don’t scale the font any longer.
-PY=python
+PYTHON?=python
 SCRIPT=tools/makefont.py
 SFNTTOOL=java -jar sfnttool.jar
 
@@ -29,12 +29,12 @@ WOF=$(FONTS:%=$(WEB)/$(NAME)%.woff)
 EOT=$(FONTS:%=$(WEB)/$(NAME)%.eot)
 PDF=$(FONTS:%=$(SPEC)/$(NAME)%-Glyphs.pdf)
 
-all: otf ttf web # pdfs
+all: otf ttf webfonts # pdfs
 pack: dpack wpack
 
 otf: $(OTF)
 ttf: $(TTF)
-web: $(WOF) $(EOT)
+webfonts: $(WOF) $(EOT)
 pdfs: $(PDF)
 
 $(BLD):
@@ -46,21 +46,21 @@ $(SPEC):
 
 $(BLD)/%.otf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 	@echo "Generating	$@"
-	@$(PY) $(SCRIPT) $< $@ $(VERSION) 
+	@$(PYTHON) $(SCRIPT) $< $@ $(VERSION)
 
 $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 	@echo "Generating	$@"
-	@$(PY) $(SCRIPT) $< $@ $(VERSION) 
+	@$(PYTHON) $(SCRIPT) $< $@ $(VERSION)
 	@echo "Autohinting	$@"
-	@ttfautohint -x 0 -w 'gGD' $@ $@.tmp
+	@ttfautohint -x 0 -a sss $@ $@.tmp
 	@mv $@.tmp $@
 
-$(WEB)/%.woff: $(BLD)/%.ttf | $(BLD)
+$(WEB)/%.woff: $(BLD)/%.ttf | $(WEB) $(BLD)
 	@echo "Generating	$@"
 	@$(SFNTTOOL) -w $< $@
 #	@sfnt2woff $<
 
-$(WEB)/%.eot: $(BLD)/%.ttf | $(BLD)
+$(WEB)/%.eot: $(BLD)/%.ttf | $(WEB) $(BLD)
 	@echo "Generating	$@"
 	@$(SFNTTOOL) -e -x $< $@
 #	@ttf2eot $< > $@
@@ -89,7 +89,7 @@ wpack: $(WOF) $(EOT)
 	@cp $(WOF) $(EOT) README.markdown COPYING $(WPCK)
 	@zip -r $(WPCK).zip $(WPCK)
 
-dist: $(OTF) $(TTF)
+dist: $(OTF) $(TTF) $(WOF) $(EOT)
 	@echo "Making dist tarball"
 	@mkdir -p $(DIST)/$(SRC)
 	@mkdir -p $(DIST)/$(BLD)
@@ -99,9 +99,10 @@ dist: $(OTF) $(TTF)
 	@cp -r $(SFD) $(DIST)/$(SRC)
 	@cp $(OTF) $(TTF) $(DIST)/$(BLD)
 	@cp $(WOF) $(EOT) $(DIST)/$(WEB)
-	@cp $(PDF) $(SPEC)/Specimen.pdf $(DIST)/$(SPEC)
+#	@cp $(PDF) $(SPEC)/Specimen.pdf $(DIST)/$(SPEC) #Temporarily out of order
+	@cp $(SPEC)/Specimen.pdf $(DIST)/$(SPEC)
 	@cp $(SCRIPT) $(DIST)/tools
-	@cp Changes Makefile README.markdown README.xelualatex COPYING $(DIST)
+	@cp Changes Makefile README.md README.xelualatex COPYING $(DIST)
 	@zip -r $(DIST).zip $(DIST)
 
 cleanpack:
