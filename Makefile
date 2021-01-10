@@ -14,7 +14,6 @@ FF=fontforge
 #Return to python because we don’t scale the font any longer.
 PYTHON?=python
 SCRIPT=tools/makefont.py
-SFNTTOOL=java -jar sfnttool.jar
 
 #SIZES=08 12
 #STYLES=Regular SC Allsc Italic Bold
@@ -25,7 +24,6 @@ SFD=$(FONTS:%=$(SRC)/$(NAME)%.sfdir)
 OTF=$(FONTS:%=$(BLD)/$(NAME)%.otf)
 TTF=$(FONTS:%=$(BLD)/$(NAME)%.ttf)
 WOF=$(FONTS:%=$(WEB)/$(NAME)%.woff)
-EOT=$(FONTS:%=$(WEB)/$(NAME)%.eot)
 PDF=$(FONTS:%=$(SPEC)/$(NAME)%-Glyphs.pdf)
 
 all: otf ttf webfonts # pdfs
@@ -33,7 +31,7 @@ pack: dpack wpack
 
 otf: $(OTF)
 ttf: $(TTF)
-webfonts: $(WOF) $(EOT)
+webfonts: $(WOF)
 pdfs: $(PDF)
 
 $(BLD):
@@ -58,11 +56,6 @@ $(WEB)/%.woff: $(BLD)/%.ttf | $(WEB) $(BLD)
 	@echo "Generating	$@"
 	@fontforge -lang=ff -c 'Open($$1); Generate($$2)' $< $@
 
-$(WEB)/%.eot: $(BLD)/%.ttf | $(WEB) $(BLD)
-	@echo "Generating	$@"
-	@$(SFNTTOOL) -e -x $< $@
-#	@ttf2eot $< > $@
-
 $(SPEC)/%-Glyphs.pdf: $(BLD)/%.ttf $(SPEC)
 	@echo "Generating	$@"
 	@fntsample -f $< -o $@ -l > $@.outline
@@ -81,13 +74,13 @@ dpack: $(OTF) $(TTF)
 	@cp Changes README.markdown README.xelualatex COPYING $(PACK)
 	@zip -r $(PACK).zip $(PACK)
 
-wpack: $(WOF) $(EOT)
+wpack: $(WOF)
 	@echo "Packing webfonts to zipfile"
 	@mkdir -p $(WPCK)
-	@cp $(WOF) $(EOT) README.markdown COPYING $(WPCK)
+	@cp $(WOF) README.markdown COPYING $(WPCK)
 	@zip -r $(WPCK).zip $(WPCK)
 
-dist: $(OTF) $(TTF) $(WOF) $(EOT)
+dist: $(OTF) $(TTF) $(WOF)
 	@echo "Making dist tarball"
 	@mkdir -p $(DIST)/$(SRC)
 	@mkdir -p $(DIST)/$(BLD)
@@ -96,7 +89,6 @@ dist: $(OTF) $(TTF) $(WOF) $(EOT)
 	@mkdir -p $(DIST)/$(SPEC)
 	@cp -r $(SFD) $(DIST)/$(SRC)
 	@cp $(OTF) $(TTF) $(DIST)/$(BLD)
-	@cp $(WOF) $(EOT) $(DIST)/$(WEB)
 #	@cp $(PDF) $(SPEC)/Specimen.pdf $(DIST)/$(SPEC) #Temporarily out of order
 	@cp $(SPEC)/Specimen.pdf $(DIST)/$(SPEC)
 	@cp $(SCRIPT) $(DIST)/tools
@@ -107,4 +99,4 @@ cleanpack:
 	@rm -rf $(PACK) $(PACK).zip  $(WPCK) $(WPCK).zip
 
 clean:
-	@rm -rf $(OTF) $(TTF) $(WOF) $(EOT) $(PDF) $(PACK) $(PACK).zip $(WPCK) $(WPCK).zip $(DIST) $(DIST).zip
+	@rm -rf $(OTF) $(TTF) $(WOF) $(PDF) $(PACK) $(PACK).zip $(WPCK) $(WPCK).zip $(DIST) $(DIST).zip
