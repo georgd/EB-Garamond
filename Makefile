@@ -10,7 +10,7 @@ WPCK=$(NAME)-$(VERSION)-web
 DIST=$(NAME)-$(VERSION)-complete
 
 #Call script through fontforge, not python. https://github.com/fontforge/fontforge/issues/528
-#FF=fontforge
+FF=fontforge
 #Return to python because we don’t scale the font any longer.
 PYTHON?=python
 SCRIPT=tools/makefont.py
@@ -56,8 +56,7 @@ $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 
 $(WEB)/%.woff: $(BLD)/%.ttf | $(WEB) $(BLD)
 	@echo "Generating	$@"
-	@$(SFNTTOOL) -w $< $@
-#	@sfnt2woff $<
+	@fontforge -lang=ff -c 'Open($$1); Generate($$2)' $< $@
 
 $(WEB)/%.eot: $(BLD)/%.ttf | $(WEB) $(BLD)
 	@echo "Generating	$@"
