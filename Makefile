@@ -24,7 +24,6 @@ FONTS=08-Regular 08-Italic 12-Regular SC12-Regular 12-AllSC 12-Italic  -Initials
 SFD=$(FONTS:%=$(SRC)/$(NAME)%.sfdir)
 OTF=$(FONTS:%=$(BLD)/$(NAME)%.otf)
 TTF=$(FONTS:%=$(BLD)/$(NAME)%.ttf)
-WTT=$(FONTS:%=$(WEB)/$(NAME)%.ttf)
 WOF=$(FONTS:%=$(WEB)/$(NAME)%.woff)
 EOT=$(FONTS:%=$(WEB)/$(NAME)%.eot)
 PDF=$(FONTS:%=$(SPEC)/$(NAME)%-Glyphs.pdf)
@@ -109,4 +108,4 @@ cleanpack:
 	@rm -rf $(PACK) $(PACK).zip  $(WPCK) $(WPCK).zip
 
 clean:
-	@rm -rf $(OTF) $(TTF) $(WTT) $(WOF) $(EOT) $(PDF) $(PACK) $(PACK).zip $(WPCK) $(WPCK).zip $(DIST) $(DIST).zip
+	@rm -rf $(OTF) $(TTF) $(WOF) $(EOT) $(PDF) $(PACK) $(PACK).zip $(WPCK) $(WPCK).zip $(DIST) $(DIST).zip
