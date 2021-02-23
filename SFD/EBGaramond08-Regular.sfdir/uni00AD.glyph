@@ -1,7 +1,17 @@
 StartChar: uni00AD
 Encoding: 173 173 2136
-Width: 0
-VWidth: 0
-Flags: MW
+Width: 386
+VWidth: 982
+Flags: HMW
 LayerCount: 2
+Fore
+SplineSet
+320 271 m 6
+ 334 272 351 266 351 243 c 12
+ 351 220 341 195 318 194 c 6
+ 99 176 l 6
+ 65 173 45 175 45 195 c 4
+ 45 214 56 249 82 252 c 6
+ 320 271 l 6
+EndSplineSet
 EndChar
