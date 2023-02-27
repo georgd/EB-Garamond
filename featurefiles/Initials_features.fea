@@ -19,3 +19,14 @@ lookup ss01 {
 feature ss01 {
     lookup ss01;
     } ss01;
+
+lookup contextual_positioning {
+    pos guillemotright' 140 exclamdown;
+    pos guillemotleft' 140 exclamdown;
+    pos guillemotright' 210 questiondown;
+    pos guillemotleft' 210 questiondown;
+} contextual_positioning;
+
+feature kern {
+    lookup contextual_positioning;
+} kern;
