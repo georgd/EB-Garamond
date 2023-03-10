@@ -21,10 +21,10 @@ feature ss01 {
     } ss01;
 
 lookup contextual_positioning {
-    pos guillemotright' 140 exclamdown;
-    pos guillemotleft' 140 exclamdown;
-    pos guillemotright' 210 questiondown;
-    pos guillemotleft' 210 questiondown;
+    pos guillemotright' <-140 0 0 0> exclamdown;
+    pos guillemotleft' <-140 0 0 0> exclamdown;
+    pos guillemotright' <-210 0 0 0> questiondown;
+    pos guillemotleft' <-210 0 0 0> questiondown;
 } contextual_positioning;
 
 feature kern {
