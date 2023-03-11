@@ -1,0 +1,31 @@
+name: CI
+on:
+  - push
+  - pull_request
+
+permissions:
+  contents: read
+
+jobs:
+  linux-build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Updates
+      run: sudo apt-get update
+
+    - name: Dependencies
+      run: sudo apt-get install python3-fontforge ttfautohint
+
+    - name: Build
+      run: make -j$(nproc)
+
+    - name: Upload to Github Artifacts
+      if: github.event_name == 'push'
+      uses: actions/upload-artifact@v3
+      with:
+        name: EBGaramond
+        path: build/EBGaramond*
+
