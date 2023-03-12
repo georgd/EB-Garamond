@@ -7,9 +7,6 @@ VERSION := $(TAG:v%=%)
 ifneq ($(COMMIT), $(TAG_COMMIT))
 	VERSION := $(VERSION)-next-$(COMMIT)-$(DATE)
 endif
-ifeq $(VERSION,)
-	VERSION := $(COMMIT)-$(DATE)
-endif
 
 SRC=SFD
 BLD=build
