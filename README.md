@@ -9,28 +9,29 @@ For the use with Xe- and LuaLaTeX I’m working on a configuration for mycrotype
 
 ## Fonts in this repository:
 
-- EBGaramond12-Regular: Regular font for design size 12pt
-- EBGaramond12-Italic: Italic font for design size 12pt
-- EBGaramond12-Bold: Bold font for design size 12pt (very rough/unusable; not included in releases)
-- EBGaramond08-Regular: Regular font for design size 8pt
-- EBGaramond08-Italic: Italic font for design size 8pt (very rough spacing!)
-- EBGaramond12-SC: Smallcaps font for programs that ignore opentype features (12pt)
-- EBGaramond12-AllSC: All smallcaps font for programs that ignore opentype features
-- EBGaramond08-SC: Smallcaps font for programs that ignore opentype features (8pt)
-- EBGaramond-Initials: Initials
-- EBGaramond-InitialsF1: Background (the ornament) of initials
-- EBGaramond-InitialsF2: Foreground (the letter) of initials
-- EBGaramond-Lettrines: Workbench for Initials fonts (not included in releases)
+| Font | Description |
+|------|-------------|
+| EBGaramond-Initials | Initials
+| EBGaramond-InitialsF1 | Background (the ornament) of initials
+| EBGaramond-InitialsF2 | Foreground (the letter) of initials
+| EBGaramond-Lettrines | Workbench for Initials fonts (not included in releases)
+| EBGaramond08-Italic | Italic font for design size 8pt (very rough spacing!)
+| EBGaramond08-Regular | Regular font for design size 8pt
+| EBGaramond12-AllSC | All smallcaps font for programs that ignore opentype features
+| EBGaramond12-Italic | Italic font for design size 12pt
+| EBGaramond12-Regular | Regular font for design size 12pt
+| EBGaramond12-Bold | Bold font for design size 12pt (very rough/unusable; not included in releases)
+| EBGaramondSC08-Regular | Smallcaps font for programs that ignore opentype features (12pt)
+| EBGaramondSC08-Regular | Smallcaps font for programs that ignore opentype features (12pt)
+
 
 This is a work in progress, so expect bugs! The quality of the fonts still varies widely! You can see every font’s current state in its *-Glyphs.pdf file in the specimen section.
 
-## Mirrors:
+## Downloads:
 
-Due to Github deciding not to provide a download area any more, this project resides in two mirrored repositories on Github (https://github.com/georgd/EB-Garamond) and Bitbucket (https://bitbucket.org/georgd/eb-garamond). 
-
-- Downloadable zip-files are at https://bitbucket.org/georgd/eb-garamond/downloads
-- The issue tracker continues to live at https://github.com/georgd/EB-Garamond/issues
-- Forks and pull requests should be possible on both platforms
-
+| Type | URL |
+|------|-----|
+| Nightly build | https://github.com/georgd/EB-Garamond/releases/download/nightly/EBGaramond.zip |
+| Releases | https://bitbucket.org/georgd/eb-garamond/downloads/ |
 
 For more infos please visit http://www.georgduffner.at/ebgaramond/
