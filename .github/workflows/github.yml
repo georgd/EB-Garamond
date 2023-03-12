@@ -4,7 +4,7 @@ on:
   - pull_request
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   linux-build:
@@ -30,4 +30,13 @@ jobs:
       with:
         name: EBGaramond
         path: build/EBGaramond*
+
+    - name: Update nightly release
+      if: success()
+      uses: pyTooling/Actions/releaser@main
+      with:
+        tag: nightly
+        rm: true
+        token: ${{ secrets.GITHUB_TOKEN }}
+        files: build/EBGaramond*
 
