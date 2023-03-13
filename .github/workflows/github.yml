@@ -35,6 +35,9 @@ jobs:
       with:
         name: EBGaramond
         path: EBGaramond.zip
+        
+    - name: Tree
+      run: tree
 
     - name: Update nightly release
       if: success()
