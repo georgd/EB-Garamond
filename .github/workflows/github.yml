@@ -31,10 +31,10 @@ jobs:
         name: EBGaramond
         path: build/EBGaramond*
 
-  - uses: actions/download-artifact@v3
-    with:
-      name: EBGaramond
-      path: EBGaramond.zip
+    - uses: actions/download-artifact@v3
+      with:
+        name: EBGaramond
+        path: EBGaramond.zip
 
     - name: Update nightly release
       if: success()
