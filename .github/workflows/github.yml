@@ -43,5 +43,5 @@ jobs:
         tag: nightly
         rm: true
         token: ${{ secrets.GITHUB_TOKEN }}
-        files: EBGaramond
+        files: EBGaramond.zip
 
