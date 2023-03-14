@@ -4,7 +4,7 @@ on:
   - pull_request
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   linux-build:
@@ -22,12 +22,23 @@ jobs:
       run: sudo apt-get install python3-fontforge ttfautohint
 
     - name: Build
-      run: make -j$(nproc)
+      run: |
+          make -j$(nproc)
+          cd build
+          zip ../EBGaramond.zip *
 
     - name: Upload to Github Artifacts
       if: github.event_name == 'push'
       uses: actions/upload-artifact@v3
       with:
         name: EBGaramond
-        path: build/EBGaramond*
+        path: build/
 
+    - name: Update nightly release
+      if: success()
+      uses: pyTooling/Actions/releaser@main
+      with:
+        tag: nightly
+        rm: true
+        token: ${{ secrets.GITHUB_TOKEN }}
+        files: EBGaramond.zip
