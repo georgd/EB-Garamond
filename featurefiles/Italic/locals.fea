@@ -5,6 +5,9 @@ lookup loclDEU {
     sub f by f.DEU;
 } loclDEU;
 
+lookup loclDEU_no_fReplacement {
+    sub f.DEU by f;
+} loclDEU_no_fReplacement;
 
 lookup loclTRK {
     sub i by i.TRK;
@@ -55,3 +58,7 @@ feature locl {
      language MKD  exclude_dflt;
       lookup loclSRB;
 } locl;
+
+feature cv08 {
+    lookup loclDEU_no_fReplacement;
+} cv08;
