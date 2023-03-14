@@ -76,18 +76,18 @@ lookup liga_standard {
     sub q uniA76B by q_uniA76B;
 } liga_standard;
 
-lookup liga_regionals {
-    sub u1F1E8 u1F1F3 by u1F1E8_u1F1F3; #CN
-    sub u1F1EA u1F1F8 by u1F1EA_u1F1F8; #ES
-    sub u1F1EB u1F1F7 by u1F1EB_u1F1F7; #FR
-    sub u1F1EC u1F1E7 by u1F1EC_u1F1E7; #GB
-    sub u1F1F3 u1F1F4 by u1F1F3_u1F1F4; #NO
-} liga_regionals;
+# lookup liga_regionals {
+#     sub u1F1E8 u1F1F3 by u1F1E8_u1F1F3;
+#     sub u1F1EA u1F1F8 by u1F1EA_u1F1F8;
+#     sub u1F1EB u1F1F7 by u1F1EB_u1F1F7;
+#     sub u1F1EC u1F1E7 by u1F1EC_u1F1E7;
+#     sub u1F1F3 u1F1F4 by u1F1F3_u1F1F4;
+# } liga_regionals;
 
 feature liga {
     lookup liga_f;
     lookup liga_standard;
-    lookup liga_regionals;
+    # lookup liga_regionals;
 } liga;
 
 lookup Th_lig {
