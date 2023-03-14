@@ -28,6 +28,6 @@ SplineSet
  393 541 l 2
 EndSplineSet
 Validated: 1
-Substitution2: "'pnum' Proportionalziffern lookup 37 subtable" seven.lnum
-Substitution2: "'onum' Minuskelziffern lookup 35 subtable" seven.taboldstyle
+Substitution2: "'pnum' Proportional Numbers lookup 36 subtable" seven.lnum
+Substitution2: "'onum' Oldstyle Figures lookup 34 subtable" seven.taboldstyle
 EndChar

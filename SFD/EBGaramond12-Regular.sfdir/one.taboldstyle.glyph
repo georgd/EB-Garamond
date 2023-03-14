@@ -48,8 +48,8 @@ SplineSet
  103 17 106 22 114 22 c 0
  141 24 202 27 202 68 c 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "one_variants subtable" one.taboldstyle01
-Substitution2: "'pnum' Proportionalziffern lookup 37 subtable" one
-Substitution2: "'lnum' Lining Figures lookup 34 subtable" one.tablining
+Substitution2: "'pnum' Proportional Numbers lookup 36 subtable" one
+Substitution2: "'lnum' Lining Figures lookup 33 subtable" one.tablining
 EndChar

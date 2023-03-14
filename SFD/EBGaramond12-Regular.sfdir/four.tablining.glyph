@@ -46,6 +46,6 @@ SplineSet
  92 240 l 2
 EndSplineSet
 Validated: 1
-Substitution2: "'pnum' Proportionalziffern lookup 37 subtable" four.lnum
-Substitution2: "'onum' Minuskelziffern lookup 35 subtable" four.taboldstyle
+Substitution2: "'pnum' Proportional Numbers lookup 36 subtable" four.lnum
+Substitution2: "'onum' Oldstyle Figures lookup 34 subtable" four.taboldstyle
 EndChar
