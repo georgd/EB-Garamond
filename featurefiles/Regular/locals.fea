@@ -5,6 +5,10 @@ lookup loclDEU {
     sub f by f.DEU;
 } loclDEU;
 
+lookup loclDEU_no_fReplacement {
+    sub f.DEU by f;
+} loclDEU_no_fReplacement;
+
 #lookup loclPLK {
 #    sub [ Cacute Nacute Oacute Sacute Zacute acutecomb.cap ] by [ Cacute.PLK Nacute.PLK Oacute.PLK Sacute.PLK Zacute.PLK acute.PLKcap ];
 #}loclPLK;
@@ -64,6 +68,10 @@ feature locl {
      language MKD  exclude_dflt;
       lookup loclSRB;
 } locl;
+
+feature cv08 {
+    lookup loclDEU_no_fReplacement;
+} cv08;
 
 feature ss08 {
 #  script cyrl;
