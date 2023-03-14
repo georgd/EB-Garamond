@@ -30,16 +30,16 @@ lookup  loclBGR {
 	 sub [ uni0416 uni041A uni041B uni0432 uni0433 uni0434 uni0436 uni0438 uni0439 uni043A uni043B uni043D uni043F uni0442 uni0446 uni0447 uni0448 uni0449 uni044E ] by [ uni0416.BGR uni041A.BGR uni041B.alt uni0432.BGR uni0433.BGR uni0434.BGR uni0436.BGR uni0438.BGR uni0439.BGR uni043A.BGR uni043B.alt uni043D.BGR uni043F.BGR uni0442.BGR uni0446.BGR uni0447.BGR uni0448.BGR uni0449.BGR uni044E.BGR ];
 } loclBGR;
 
-lookup loclLAT {
-    sub u by u.LAT;
-    sub v by v.LAT;
-    sub U by U.LAT;
-} loclLAT;
-
-lookup LATliga {
-    sub a e by ae;
-    sub o e by oe;
-} LATliga;
+# lookup loclLAT {
+#     sub u by u.LAT;
+#     sub v by v.LAT;
+#     sub U by U.LAT;
+# } loclLAT;
+# 
+# lookup LATliga {
+#     sub a e by ae;
+#     sub o e by oe;
+# } LATliga;
 
 feature locl {
   script latn;
@@ -55,9 +55,9 @@ feature locl {
       lookup loclTRK;
      language CAT  exclude_dflt;
       lookup loclCAT;
-     language LAT  exclude_dflt;
-      lookup loclLAT;
-#     lookup LATliga;
+#     language LAT  exclude_dflt;
+#      lookup loclLAT;
+#      lookup LATliga;
   script cyrl;
      language SRB  exclude_dflt;
       lookup loclSRB;

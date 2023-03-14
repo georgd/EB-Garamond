@@ -21,16 +21,16 @@ lookup loclSRB {
     sub uni0431 by uni0431.SRB;
 } loclSRB;
 
-lookup loclLAT {
-    sub u by u.LAT;
-    sub v by v.LAT;
-    sub U by U.LAT;
-} loclLAT;
-
-lookup LATliga {
-    sub a e by ae;
-    sub o e by oe;
-} LATliga;
+# lookup loclLAT {
+#     sub u by u.LAT;
+#     sub v by v.LAT;
+#     sub U by U.LAT;
+# } loclLAT;
+# 
+# lookup LATliga {
+#     sub a e by ae;
+#     sub o e by oe;
+# } LATliga;
 
 feature locl {
   script latn;
@@ -44,9 +44,9 @@ feature locl {
       lookup loclTRK;
      language CAT  exclude_dflt;
       lookup loclCAT;
-     language LAT  exclude_dflt;
-      lookup loclLAT;
-#     lookup LATliga;
+#      language LAT  exclude_dflt;
+#       lookup loclLAT;
+#       lookup LATliga;
   script cyrl;
      language SRB  exclude_dflt;
       lookup loclSRB;
