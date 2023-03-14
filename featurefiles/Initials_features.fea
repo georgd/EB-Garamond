@@ -12,13 +12,13 @@ languagesystem latn CRT ;
 languagesystem latn CAT ;
 languagesystem latn LAT ;
 
-lookup ss01 {
-    sub G by G.threeline;
-    } ss01;
-
-feature ss01 {
-    lookup ss01;
-    } ss01;
+# lookup ss01 {
+#     sub G by G.threeline;
+#     } ss01;
+# 
+# feature ss01 {
+#     lookup ss01;
+#     } ss01;
 
 lookup contextual_positioning {
     pos guillemotright' <-140 0 0 0> exclamdown;
