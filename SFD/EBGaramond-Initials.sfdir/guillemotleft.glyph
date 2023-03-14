@@ -1,5 +1,5 @@
 StartChar: guillemotleft
-Encoding: 171 171 5
+Encoding: 171 171 41
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -34,4 +34,6 @@ SplineSet
  -91.9462890625 122.794921875 -91.4404296875 121.278320312 -91.4404296875 119.76171875 c 0
  -91.4404296875 116.728515625 -93.462890625 113.6953125 -95.990234375 113.6953125 c 0
 EndSplineSet
+Position2: "Einzelne Positionierung Nachschlagetabelle 4 Subtabelle" dx=-210 dy=0 dh=0 dv=0
+Position2: "Einzelne Positionierung Nachschlagetabelle 2 Subtabelle" dx=-140 dy=0 dh=0 dv=0
 EndChar
