@@ -35,3 +35,17 @@ This is a work in progress, so expect bugs! The quality of the fonts still varie
 | Releases | https://bitbucket.org/georgd/eb-garamond/downloads/ |
 
 For more infos please visit http://www.georgduffner.at/ebgaramond/
+
+## Build instructions
+
+To build the fonts from source on the latest Debian or Ubuntu, you will need the FontForge python libraries and the Freetype TTF auto hinter installed:
+```
+sudo apt-get install python3-fontforge ttfautohint
+```
+
+Then run make, and the fonts should appear in a `build` subdirectory:
+```
+make
+```
+
+**Note:** You may need to run `make clean` first, to remove any leftover files from previous builds.
