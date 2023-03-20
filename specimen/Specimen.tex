@@ -295,7 +295,8 @@ The Opentype specs recommend some features to be enabled by default. As this is 
 
 \subsection{Locals}
 \paragraph*{German} prevents f-ligatures that are usually not allowed like fb, fh, fj, ffb, etc. because they would only occur at \enquote{Wortfugen}: {\addfontfeature{Language=German}Laufband, aufjagen, Sauerstoffflasche,…}\par
-In general it has to be noted that in German typography, ligatures are a complex matter, tied to the language’s morphology. There’s no way to apply them automatically without manual intervention. Efforts have been made to alleviate this task, like Mico Loretan’s \textsc{selnolig}\footnote{https://github.com/micoloretan/selnolig} for LuaLaTeX. Still, if in doubt, better leave the ligatures away!
+In general it has to be noted that in German typography, ligatures are a complex matter, tied to the language’s morphology. There’s no way to apply them automatically without manual intervention. Efforts have been made to alleviate this task, like Mico Loretan’s \textsc{selnolig}\footnote{https://github.com/micoloretan/selnolig} for LuaLaTeX. Still, if in doubt, better leave the ligatures away!\par
+This special treatment of f-ligatures can be switched off by enabling feature \texttt{cv08}. Beware, you’ll get all sorts of ligatures:  {\addfontfeature{Language=German, CharacterVariant=8}Laufband, aufjagen, Sauerstoffflasche,…}
 \paragraph*{Turkish, Azerbaijani, Crimtatar} correct replacement of i/ı as smallcaps etc.
 \paragraph*{Latin} replaces U by V, initial u by v and non-initial v by u: universalis → {\addfontfeature{Language=Latin} universalis}
 \paragraph*{Catalan} Correct positioning of “·” between two “l”s: {\addfontfeature{Language=Catalan}PARAL·LEL, paral·lel, \textsc{paral·lel}, \textit{PARAL·LEL, paral·lel, \textsc{paral·lel}}\\{\scriptsize PARAL·LEL, paral·lel, \textit{paral·lel}, \textsc{paral·lel}}}
