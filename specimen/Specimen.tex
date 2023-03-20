@@ -367,7 +367,7 @@ At Claude Garamont’s times some conventions were still closer to latin orthogr
 \paragraph*{cv04:} Alternate ampersand (only italic): \textit{\&} → \textit{\addfontfeature{RawFeature=+cv04}\&}
 
 \paragraph*{cv05:} Alternate forms of v (only italic): 
-%% due to a bug in fontspec this doesn’t work as expected:
+%% due to a bug in fontspec this doesn’t work as expected in XeLaTeX while it does in LuaLaTeX:
 %\textit{v → {\addfontfeature{CharacterVariant=5:0}\addfontfeature{CharacterVariant=5:1}v}}, \textit{\addfontfeature{CharacterVariant=5:2}v}, \textit{\addfontfeature{CharacterVariant=5:3}v}
 {\fontspec{EB Garamond 12 Italic} v →
 \addfontfeature{CharacterVariant=5:0} v,
