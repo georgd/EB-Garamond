@@ -1,12 +1,10 @@
 lookup Smallcaps1 {
     sub @SMALLCAPS_BASIS by @SMALLCAPS;
-    sub @SC_DIAC_BASIS by @SC_DIAC;
     sub periodcentered.CAT by periodcentered.CATsc;
 } Smallcaps1;
 
 lookup c2sc {
     sub @C2SC_BASIS by @C2SC;
-    sub @capdiacritics1 by @capdiacritics_sc;
     sub periodcentered.CATuc by periodcentered.CATsc;
 } c2sc;
 
@@ -16,19 +14,13 @@ lookup Smallcaps2 {
 } Smallcaps2;
 
 feature smcp {
+#    lookup CCMP_Precomp;
     lookup Smallcaps1;
     lookup Smallcaps2;
 } smcp;
 
 feature c2sc {
+#    lookup CCMP_Precomp;
     lookup c2sc;
     lookup Smallcaps2;
 } c2sc;
-
-feature c2pc {
-  sub [ A-Z ] by [ A.pc-Z.pc ];
-} c2pc;
-
-feature pcap {
-  sub [ a-z ] by [ a.pc-z.pc ];
-} pcap;

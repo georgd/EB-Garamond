@@ -1,8 +1,6 @@
 lookup Q_longtail {
-    ignore sub Q' @NO_DESC [i l dotlessi] [ y g j p thorn germandbls f ];
-    ignore sub Q' [i l dotlessi] @NO_DESC [ y g j p thorn germandbls f ];
     sub [Q Q.sc q.sc]' @NO_DESC @NO_DESC by [Q.long Q.longsc q.longsc];
-#    sub [Q Q.sc q.sc]' @NO_DESC @NO_DESC @RIGHT_DESC  by [Q.long Q.longsc q.longsc];
+    sub [Q Q.sc q.sc]' @NO_DESC @NO_DESC @RIGHT_DESC  by [Q.long Q.longsc q.longsc];
 } Q_longtail;
 
 lookup f_short {

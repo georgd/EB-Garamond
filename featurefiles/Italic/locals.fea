@@ -1,7 +1,7 @@
 lookup loclDEU {
-    sub Adieresis by Adieresis.deu ;
-    sub Odieresis by Odieresis.deu ;
-    sub Udieresis by Udieresis.deu ;
+    sub \Adieresis by \Adieresis.deu ;
+    sub \Odieresis by \Odieresis.deu ;
+    sub \Udieresis by \Udieresis.deu ;
     sub f by f.DEU;
 } loclDEU;
 
@@ -22,18 +22,6 @@ lookup loclSRB {
     sub [ uni0431 uni0433 uni0434 uni043F uni0442 uni0453 ] by [ uni0431.SRB uni0433.SRB uni0434.SRB uni043F.SRB uni0442.SRB uni0453.SRB ];
 } loclSRB;
 
-# lookup loclLAT {
-#     sub u by u.LAT;
-#     sub v by v.LAT;
-#     sub U by U.LAT;
-# } loclLAT;
-# 
-# lookup LATliga {
-#     sub a e by ae;
-#     sub o e by oe;
-# } LATliga;
-
-
 feature locl {
   script latn;
      language DEU  exclude_dflt;
@@ -50,8 +38,6 @@ feature locl {
       lookup loclTRK;
      language CAT  exclude_dflt;
       lookup loclCAT;
-#      language LAT  exclude_dflt;
-#       lookup loclLAT;
   script cyrl;
      language SRB  exclude_dflt;
       lookup loclSRB;

@@ -77,15 +77,6 @@ feature cv05 {
     lookup v_alternates;
 } cv05;
 
-lookup one_variants {
-    sub one by one.01;
-    sub one.taboldstyle by one.taboldstyle01;
-} one_variants;
-
-feature cv11 {
-    lookup one_variants;
-} cv11;
-
 lookup alternate_g {
     sub g from [ g.01 ];
 } alternate_g;
@@ -139,18 +130,3 @@ lookup salt_lig {
 feature salt {
     lookup salt_lig;
 } salt;
-
-feature init {
-  sub v by v.init;
-  sub w by w.init;
-} init;
-
-feature fina {
-  sub e by e.fina;
-} fina;
-
-feature hist {
-  sub J by J.hist;
-  sub j by j.hist;
-  sub s by longs;
-} hist;

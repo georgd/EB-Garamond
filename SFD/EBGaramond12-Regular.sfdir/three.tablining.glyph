@@ -30,6 +30,6 @@ SplineSet
  104 -38 55 -20 55 0 c 0
 EndSplineSet
 Validated: 1
-Substitution2: "'pnum' Proportionalziffern lookup 37 subtable" three.lnum
-Substitution2: "'onum' Minuskelziffern lookup 35 subtable" three.taboldstyle
+Substitution2: "'pnum' Proportional Numbers lookup 36 subtable" three.lnum
+Substitution2: "'onum' Oldstyle Figures lookup 34 subtable" three.taboldstyle
 EndChar
