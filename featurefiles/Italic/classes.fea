@@ -61,6 +61,31 @@
 @NO_DESC = [A-I K-P R-Z a-e h i k-o r-x z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn agrave aacute acircumflex atilde adieresis aring ae egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis Amacron amacron Abreve abreve Cacute cacute Ccircumflex ccircumflex Cdotaccent cdotaccent Ccaron ccaron Dcaron dcaron Dcroat dcroat Emacron emacron Ebreve ebreve Edotaccent edotaccent Ecaron ecaron Gcircumflex Gbreve Gdotaccent Hcircumflex hcircumflex Hbar hbar Itilde itilde Imacron imacron Ibreve ibreve Idotaccent dotlessi kgreenlandic Lacute lacute Lcaron lcaron Ldot ldot Lslash lslash Nacute nacute Ncaron ncaron napostrophe Omacron omacron Obreve obreve Ohungarumlaut ohungarumlaut OE oe Racute racute Rcaron rcaron Sacute sacute Scircumflex scircumflex Scaron scaron Tcaron tcaron Tbar tbar Utilde utilde Umacron umacron Ubreve ubreve Uring uring Uhungarumlaut uhungarumlaut Wcircumflex wcircumflex Ycircumflex Ydieresis Zacute zacute Zdotaccent zdotaccent Zcaron zcaron Ohorn ohorn Uhorn uhorn uni01C4 uni01C5 uni01C6 uni01CD uni01CE uni01CF uni01D0 uni01D1 uni01D2 uni01D3 uni01D4 uni01D5 uni01D6 uni01D7 uni01D8 uni01D9 uni01DA uni01DB uni01DC uni01DE uni01DF uni01E0 uni01E1 uni01E2 uni01E3 Gcaron uni01E8 uni01E9 uni01F1 uni01F2 uni01F3 uni01F4 uni01F8 uni01F9 Aringacute aringacute AEacute aeacute Oslashacute oslashacute uni0202 uni0203 uni0206 uni0207 uni020A uni020B uni020E uni020F uni0212 uni0213 uni0216 uni0217 uni021E uni021F uni0226 uni0227 uni022A uni022B uni022C uni022D uni022E uni022F uni0230 uni0231 uni0232 
 A.sc-I.sc K.sc-P.sc R.sc-Z.sc a.sc-i.sc k.sc-p.sc r.sc-z.sc
 Agrave.sc Aacute.sc Acircumflex.sc Atilde.sc Adieresis.sc Aring.sc AE.sc Egrave.sc Eacute.sc Ecircumflex.sc Edieresis.sc Igrave.sc Iacute.sc Icircumflex.sc Idieresis.sc Eth.sc Ntilde.sc Ograve.sc Oacute.sc Ocircumflex.sc Otilde.sc Odieresis.sc Oslash.sc Ugrave.sc Uacute.sc Ucircumflex.sc Udieresis.sc Yacute.sc Thorn.sc agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc ae.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc eth.sc ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc oslash.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc Amacron.sc amacron.sc Abreve.sc abreve.sc Cacute.sc cacute.sc Ccircumflex.sc ccircumflex.sc Cdotaccent.sc cdotaccent.sc Ccaron.sc ccaron.sc Dcaron.sc dcaron.sc Dcroat.sc dcroat.sc Emacron.sc emacron.sc Ebreve.sc ebreve.sc Edotaccent.sc edotaccent.sc Ecaron.sc ecaron.sc Gcircumflex.sc Gbreve.sc Gdotaccent.sc Hcircumflex.sc hcircumflex.sc Hbar.sc hbar.sc Itilde.sc itilde.sc Imacron.sc imacron.sc Ibreve.sc ibreve.sc Idotaccent.sc dotlessi.sc kgreenlandic.sc Lacute.sc lacute.sc Lcaron.sc lcaron.sc Ldot.sc ldot.sc Lslash.sc lslash.sc Nacute.sc nacute.sc Ncaron.sc ncaron.sc napostrophe.sc Omacron.sc omacron.sc Obreve.sc obreve.sc Ohungarumlaut.sc ohungarumlaut.sc OE.sc oe.sc Racute.sc racute.sc Rcaron.sc rcaron.sc Sacute.sc sacute.sc Scircumflex.sc scircumflex.sc Scaron.sc scaron.sc Tcaron.sc tcaron.sc Tbar.sc tbar.sc Utilde.sc utilde.sc Umacron.sc umacron.sc Ubreve.sc ubreve.sc Uring.sc uring.sc Uhungarumlaut.sc uhungarumlaut.sc Wcircumflex.sc wcircumflex.sc Ycircumflex.sc Ydieresis.sc Zacute.sc zacute.sc Zdotaccent.sc zdotaccent.sc Zcaron.sc zcaron.sc Ohorn.sc ohorn.sc Uhorn.sc uhorn.sc
+  c_h
+  c_k
+  s_s
+  t_t
+  u.LATmedi
+  v.LAT
+  u.LAT
+  v.LATmedi
+  v.init
+  v.alt
+  w.init
+  w.init1
+  w.alt
+  J.hist
+  j.hist
+  v.initalt
+  u.LATinit
+  a_s
+  e_s
+  i_s
+  u_s
+  s_k
+  eacute_s
+  i.dotless
+  e.fina
 ];
 
 @RIGHT_DESC = [@NO_DESC q];
