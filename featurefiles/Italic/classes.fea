@@ -95,23 +95,26 @@ Agrave.sc Aacute.sc Acircumflex.sc Atilde.sc Adieresis.sc Aring.sc AE.sc Egrave.
     Adieresis.sc Odieresis.sc Udieresis.sc
     ];
 	
-@capdiacritics0 = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0311 uni0316 uni0317 dotbelowcomb uni0324 uni0325 uni0327 uni0328 uni032C uni032D uni032E uni032F uni0330 uni0331 uni0306.cyr uni0345 ];
+@capdiacritics0 = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0311 uni0316 uni0317 dotbelowcomb uni0324 uni0325 uni0327 uni0328 uni032C uni032D uni032E uni032F uni0330 uni0331 uni0306.cyr #uni0345
+];
 
-@capdiacritics1 = [ gravecomb.cap acutecomb.cap uni0302.cap tildecomb.cap uni0304.cap uni0306.cap uni0307.cap uni0308.cap uni030A.cap uni030B.cap uni030C.cap uni030F.cap uni0311.cap uni0316.cap uni0317.cap dotbelowcomb.cap uni0324.cap uni0325.cap uni0327.cap uni0328.cap uni032C.cap uni032D.cap uni032E.cap uni032F.cap uni0330.cap uni0331.cap uni0306.cyrcap uni0345.cap ];
+@capdiacritics1 = [ gravecomb.cap acutecomb.cap uni0302.cap tildecomb.cap uni0304.cap uni0306.cap uni0307.cap uni0308.cap uni030A.cap uni030B.cap uni030C.cap uni030F.cap uni0311.cap uni0316.cap uni0317.cap dotbelowcomb.cap uni0324.cap uni0325.cap uni0327.cap uni0328.cap uni032C.cap uni032D.cap uni032E.cap uni032F.cap uni0330.cap uni0331.cap uni0306.cyrcap #uni0345.cap
+];
 
-@capdiacritics_sc = [ gravecomb.sc acutecomb.sc uni0302.sc tildecomb.sc uni0304.sc uni0306.sc uni0307.sc uni0308.sc uni030A.sc uni030B.sc uni030C.sc uni030F uni0311.sc uni0316 uni0317 dotbelowcomb uni0324 uni0325 uni0327 uni0328 uni032C uni032D uni032E uni032F uni0330 uni0331 uni0306.cyr uni0345.sc ];
+@capdiacritics_sc = [ gravecomb.sc acutecomb.sc uni0302.sc tildecomb.sc uni0304.sc uni0306.sc uni0307.sc uni0308.sc uni030A.sc uni030B.sc uni030C.sc uni030F uni0311.sc uni0316 uni0317 dotbelowcomb uni0324 uni0325 uni0327 uni0328 uni032C uni032D uni032E uni032F uni0330 uni0331 uni0306.cyr #uni0345.sc
+];
 
 @abovediacritics = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni0309 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 ];
 
 @SWASH_BASIS = [ A-Z Q.long V.01 W.01 ];
 @SWASH = [ A.sw-Z.sw Q.swlong V.sw W.sw ];
 
-@SC_DIAC_BASIS = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni0311 uni0312 uni0313 uni0314 uni0315 uni0342 uni0345
+@SC_DIAC_BASIS = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni0311 uni0312 uni0313 uni0314 uni0315 uni0342 #uni0345
 gravecomb.stack acutecomb.stack uni0302.stack tildecomb.stack uni0304.stack  uni0306.stack uni0307.stack hookabovecomb.stack uni030A.stack uni030C.stack 
 gravecomb.grk acutecomb.grk uni0313.grk uni0314.grk 
 gravecomb.grkstack acutecomb.grkstack uni0308.grkstack uni0313.grkstack uni0314.grkstack uni0342.alt ];
 
-@SC_DIAC = [ gravecomb.sc acutecomb.sc uni0302.sc tildecomb.sc uni0304.sc uni0306.sc uni0307.sc uni0308.sc hookabovecomb.sc uni030A.sc uni030B.sc uni030C.sc uni0311.sc uni0312.sc uni0313.sc uni0314.sc uni0315.sc uni0342.sc uni0345.sc 
+@SC_DIAC = [ gravecomb.sc acutecomb.sc uni0302.sc tildecomb.sc uni0304.sc uni0306.sc uni0307.sc uni0308.sc hookabovecomb.sc uni030A.sc uni030B.sc uni030C.sc uni0311.sc uni0312.sc uni0313.sc uni0314.sc uni0315.sc uni0342.sc #uni0345.sc 
 gravecomb.stacksc acutecomb.stacksc uni0302.stacksc tildecomb.stacksc uni0304.stacksc  uni0306.stacksc uni0307.stacksc hookabovecomb.stacksc uni030A.stacksc uni030C.stacksc 
 gravecomb.grksc acutecomb.grksc uni0313.grksc uni0314.grksc 
 gravecomb.grkstacksc acutecomb.grkstacksc uni0308.grkstacksc uni0313.grkstacksc uni0314.grkstacksc uni0342.altsc ];
