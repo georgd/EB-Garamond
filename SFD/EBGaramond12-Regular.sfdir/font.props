@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1678837749
+ModificationTime: 1679410194
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56,7 +56,7 @@ OS2StrikeYPos: 258
 OS2FamilyClass: 258
 OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "loclDEU" { "loclDEU subtable"  } ['locl' ('latn' <'DEU ' > ) ]
-Lookup: 1 0 0 "loclDEU_no_fReplacement" { "loclDEU_no_fReplacement subtable"  } ['cv08' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "loclDEU_no_fReplacement" { "loclDEU_no_fReplacement subtable"  } ['ss10' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "loclTRK" { "loclTRK subtable"  } ['locl' ('latn' <'TRK ' 'AZE ' 'CRT ' > ) ]
 Lookup: 6 0 0 "loclCAT" { "loclCAT contextual 0"  "loclCAT contextual 1"  } ['locl' ('latn' <'CAT ' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 4" { "Single Substitution lookup 4 subtable"  } []
@@ -501,42 +501,6 @@ KernClass2: 4 2 "kern kerning class 3"
  68 Upsilon Upsilondieresis Upsilontonos uni1F59 uni1F5B uni1F5D uni1F5F
  114 alpha chi epsilon eta gamma iota kappa mu nu omega omicron pi rho sigma sigma1 tau uni1FB3 uni1FC3 uni1FF3 upsilon
  0 {} 0 {} 0 {} -100 {} 0 {} -90 {} 0 {} -50 {}
-ChainPos2: glyph "xtex_pos1 contextual 4" 0 0 0 1
- String: 7 e.xtex1
- BString: 1 T
- FString: 1 X
- 1
-  SeqLookup: 0 "Single Positioning lookup 128"
-EndFPST
-ChainPos2: glyph "xtex_pos1 contextual 3" 0 0 0 1
- String: 4 a.sc
- BString: 1 L
- FString: 11 T e.xtex1 X
- 1
-  SeqLookup: 0 "Single Positioning lookup 127"
-EndFPST
-ChainPos2: coverage "xtex_pos1 contextual 2" 0 0 0 1
- 1 2 0
-  Coverage: 7 e.xtex3
-  BCoverage: 42 two two.lnum two.taboldstyle two.tablining
-  BCoverage: 1 X
- 1
-  SeqLookup: 0 "Single Positioning lookup 126"
-EndFPST
-ChainPos2: glyph "xtex_pos1 contextual 1" 0 0 0 1
- String: 7 e.xtex2
- BString: 1 X
- FString: 1 L
- 1
-  SeqLookup: 0 "Single Positioning lookup 125"
-EndFPST
-ChainPos2: glyph "xtex_pos1 contextual 0" 0 0 0 1
- String: 7 e.xtex2
- BString: 1 X
- FString: 1 T
- 1
-  SeqLookup: 0 "Single Positioning lookup 124"
-EndFPST
 ChainSub2: coverage "xtex_sub1 contextual 4" 0 0 0 1
  1 6 0
   Coverage: 1 e
@@ -1028,6 +992,42 @@ ChainSub2: glyph "loclCAT contextual 0" 0 0 0 1
  FString: 1 l
  1
   SeqLookup: 0 "Single Substitution lookup 4"
+EndFPST
+ChainPos2: glyph "xtex_pos1 contextual 4" 0 0 0 1
+ String: 7 e.xtex1
+ BString: 1 T
+ FString: 1 X
+ 1
+  SeqLookup: 0 "Single Positioning lookup 128"
+EndFPST
+ChainPos2: glyph "xtex_pos1 contextual 3" 0 0 0 1
+ String: 4 a.sc
+ BString: 1 L
+ FString: 11 T e.xtex1 X
+ 1
+  SeqLookup: 0 "Single Positioning lookup 127"
+EndFPST
+ChainPos2: coverage "xtex_pos1 contextual 2" 0 0 0 1
+ 1 2 0
+  Coverage: 7 e.xtex3
+  BCoverage: 42 two two.lnum two.taboldstyle two.tablining
+  BCoverage: 1 X
+ 1
+  SeqLookup: 0 "Single Positioning lookup 126"
+EndFPST
+ChainPos2: glyph "xtex_pos1 contextual 1" 0 0 0 1
+ String: 7 e.xtex2
+ BString: 1 X
+ FString: 1 L
+ 1
+  SeqLookup: 0 "Single Positioning lookup 125"
+EndFPST
+ChainPos2: glyph "xtex_pos1 contextual 0" 0 0 0 1
+ String: 7 e.xtex2
+ BString: 1 X
+ FString: 1 T
+ 1
+  SeqLookup: 0 "Single Positioning lookup 124"
 EndFPST
 ChainPos2: coverage "ckern3 contextual 83" 0 0 0 1
  1 0 2

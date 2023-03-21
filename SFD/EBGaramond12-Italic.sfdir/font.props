@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1679271458
+ModificationTime: 1679409884
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ OS2StrikeYPos: 258
 OS2FamilyClass: 258
 OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "loclDEU" { "loclDEU subtable"  } ['locl' ('latn' <'DEU ' > ) ]
-Lookup: 1 0 0 "loclDEU_no_fReplacement" { "loclDEU_no_fReplacement subtable"  } ['cv08' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "loclDEU_no_fReplacement" { "loclDEU_no_fReplacement subtable"  } ['ss10' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "loclTRK" { "loclTRK subtable"  } ['locl' ('latn' <'TRK ' 'AZE ' 'CRT ' 'KAZ ' 'TAT ' > ) ]
 Lookup: 6 0 0 "loclCAT" { "loclCAT contextual 0"  "loclCAT contextual 1"  } ['locl' ('latn' <'CAT ' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 4" { "Single Substitution lookup 4 subtable"  } []
