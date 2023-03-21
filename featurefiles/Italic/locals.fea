@@ -45,6 +45,6 @@ feature locl {
       lookup loclSRB;
 } locl;
 
-feature cv08 {
+feature ss10 {
     lookup loclDEU_no_fReplacement;
-} cv08;
+} ss10;
