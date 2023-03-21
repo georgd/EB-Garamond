@@ -1,3 +1,17 @@
+@UC_I_NO_DESC = [ I Igrave Iacute Icircumflex Idieresis Itilde Imacron Ibreve Idotaccent uni01CF uni0208 uni020A uni1E2E uni1EC8 J.hist ];
+
+@LC_C_NO_DESC = [ c cacute ccircumflex cdotaccent ccaron ];
+@LC_E_NO_DESC = [ e egrave eacute ecircumflex edieresis emacron ebreve edotaccent ecaron uni0205 uni0207 uni1E15 uni1E17 uni1EBB uni1EBD uni1EBF uni1EC1 uni1EC3 uni1EC5 ];
+@LC_I_NO_DESC = [ i dotlessi igrave iacute icircumflex idieresis itilde imacron ibreve uni01D0 uni0209 uni020B uni1E2F uni1EC9 i.dotless i.TRK j.hist ];
+@LC_L_NO_DESC = [ l lacute lcaron ldot lslash ];
+@LC_O_NO_DESC = [ o ograve oacute ocircumflex otilde odieresis oslash omacron obreve ohungarumlaut uni01D2 uni022B uni022D uni022F uni0231 uni1E4D uni1E4F uni1E51 uni1E53 uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1EDB uni1EDD uni1EDF uni1EE1 ];
+@LC_R_NO_DESC = [ r racute rcaron uni0211 uni0213 uni1E59 ];
+@LC_S_NO_DESC = [ s sacute scircumflex scaron uni1E61 uni1E65 uni1E67 ];
+@LC_T_NO_DESC = [ t tcaron tbar uni1E6B uni1E97 ];
+@LC_V_NO_DESC = [ v uni1E7D ];
+@LC_Z_NO_DESC = [ z zacute zdotaccent zcaron uni1E91 ];
+
+
 @letters = [ a-z 
 	 agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis multiply oslash ugrave uacute ucircumflex udieresis yacute thorn germandbls divide amacron abreve aogonek cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent eogonek ecaron gcircumflex gbreve gdotaccent uni0123 hcircumflex hbar itilde imacron ibreve iogonek i.TRK dotlessi ij jcircumflex uni0137 kgreenlandic lacute uni013C lcaron ldot lslash nacute uni0146 ncaron eng omacron obreve ohungarumlaut oe racute uni0157 rcaron sacute scircumflex scedilla scaron uni0163 tcaron tbar utilde umacron ubreve uring uhungarumlaut uogonek wcircumflex ycircumflex ydieresis zacute zdotaccent zcaron longs 
 	ohorn uhorn
@@ -58,7 +72,7 @@
 @HIGH_PUNCT = [ exclam quotedbl dollar percent quotesingle parenleft parenright asterisk question bracketleft backslash bracketright braceleft bar braceright registered quoteleft quoteright quotedblleft quotedblright minute second uni2034 exclamdbl uni203D uni2047 uni2048 uni2049 ];
 
 
-@NO_DESC = [A-I K-P R-Z a-e h i k-o r-x z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn agrave aacute acircumflex atilde adieresis aring ae egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis Amacron amacron Abreve abreve Cacute cacute Ccircumflex ccircumflex Cdotaccent cdotaccent Ccaron ccaron Dcaron dcaron Dcroat dcroat Emacron emacron Ebreve ebreve Edotaccent edotaccent Ecaron ecaron Gcircumflex Gbreve Gdotaccent Hcircumflex hcircumflex Hbar hbar Itilde itilde Imacron imacron Ibreve ibreve Idotaccent dotlessi kgreenlandic Lacute lacute Lcaron lcaron Ldot ldot Lslash lslash Nacute nacute Ncaron ncaron napostrophe Omacron omacron Obreve obreve Ohungarumlaut ohungarumlaut OE oe Racute racute Rcaron rcaron Sacute sacute Scircumflex scircumflex Scaron scaron Tcaron tcaron Tbar tbar Utilde utilde Umacron umacron Ubreve ubreve Uring uring Uhungarumlaut uhungarumlaut Wcircumflex wcircumflex Ycircumflex Ydieresis Zacute zacute Zdotaccent zdotaccent Zcaron zcaron Ohorn ohorn Uhorn uhorn uni01C4 uni01C5 uni01C6 uni01CD uni01CE uni01CF uni01D0 uni01D1 uni01D2 uni01D3 uni01D4 uni01D5 uni01D6 uni01D7 uni01D8 uni01D9 uni01DA uni01DB uni01DC uni01DE uni01DF uni01E0 uni01E1 uni01E2 uni01E3 Gcaron uni01E8 uni01E9 uni01F1 uni01F2 uni01F3 uni01F4 uni01F8 uni01F9 Aringacute aringacute AEacute aeacute Oslashacute oslashacute uni0202 uni0203 uni0206 uni0207 uni020A uni020B uni020E uni020F uni0212 uni0213 uni0216 uni0217 uni021E uni021F uni0226 uni0227 uni022A uni022B uni022C uni022D uni022E uni022F uni0230 uni0231 uni0232 
+@NO_DESC_1 = [A-H K-P R-Z a b d h k m n u w x Agrave Aacute Acircumflex Atilde Adieresis Aring AE Egrave Eacute Ecircumflex Edieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn agrave aacute acircumflex atilde adieresis aring ae eth ntilde ugrave uacute ucircumflex udieresis Amacron amacron Abreve abreve Cacute Ccircumflex Cdotaccent Ccaron Dcaron dcaron Dcroat dcroat Emacron Ebreve Edotaccent Ecaron Gcircumflex Gbreve Gdotaccent Hcircumflex hcircumflex Hbar hbar dotlessi kgreenlandic Lacute Lcaron Ldot Lslash Nacute nacute Ncaron ncaron napostrophe Omacron Obreve Ohungarumlaut OE oe Racute Rcaron Sacute Scircumflex Scaron Tcaron Tbar Utilde utilde Umacron umacron Ubreve ubreve Uring uring Uhungarumlaut uhungarumlaut Wcircumflex wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron Ohorn ohorn Uhorn uhorn uni01C4 uni01C5 uni01C6 uni01CD uni01CE   uni01D1 uni01D3 uni01D4 uni01D5 uni01D6 uni01D7 uni01D8 uni01D9 uni01DA uni01DB uni01DC uni01DE uni01DF uni01E0 uni01E1 uni01E2 uni01E3 Gcaron uni01E8 uni01E9 uni01F1 uni01F2 uni01F3 uni01F4 uni01F8 uni01F9 Aringacute aringacute AEacute aeacute Oslashacute oslashacute uni0202 uni0203 uni0206    uni020E uni020F uni0212 uni0216 uni0217 uni021E uni021F uni0226 uni0227 uni022A uni022C uni022E uni0230 uni0232 
 A.sc-I.sc K.sc-P.sc R.sc-Z.sc a.sc-i.sc k.sc-p.sc r.sc-z.sc
 Agrave.sc Aacute.sc Acircumflex.sc Atilde.sc Adieresis.sc Aring.sc AE.sc Egrave.sc Eacute.sc Ecircumflex.sc Edieresis.sc Igrave.sc Iacute.sc Icircumflex.sc Idieresis.sc Eth.sc Ntilde.sc Ograve.sc Oacute.sc Ocircumflex.sc Otilde.sc Odieresis.sc Oslash.sc Ugrave.sc Uacute.sc Ucircumflex.sc Udieresis.sc Yacute.sc Thorn.sc agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc ae.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc eth.sc ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc oslash.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc Amacron.sc amacron.sc Abreve.sc abreve.sc Cacute.sc cacute.sc Ccircumflex.sc ccircumflex.sc Cdotaccent.sc cdotaccent.sc Ccaron.sc ccaron.sc Dcaron.sc dcaron.sc Dcroat.sc dcroat.sc Emacron.sc emacron.sc Ebreve.sc ebreve.sc Edotaccent.sc edotaccent.sc Ecaron.sc ecaron.sc Gcircumflex.sc Gbreve.sc Gdotaccent.sc Hcircumflex.sc hcircumflex.sc Hbar.sc hbar.sc Itilde.sc itilde.sc Imacron.sc imacron.sc Ibreve.sc ibreve.sc Idotaccent.sc dotlessi.sc kgreenlandic.sc Lacute.sc lacute.sc Lcaron.sc lcaron.sc Ldot.sc ldot.sc Lslash.sc lslash.sc Nacute.sc nacute.sc Ncaron.sc ncaron.sc napostrophe.sc Omacron.sc omacron.sc Obreve.sc obreve.sc Ohungarumlaut.sc ohungarumlaut.sc OE.sc oe.sc Racute.sc racute.sc Rcaron.sc rcaron.sc Sacute.sc sacute.sc Scircumflex.sc scircumflex.sc Scaron.sc scaron.sc Tcaron.sc tcaron.sc Tbar.sc tbar.sc Utilde.sc utilde.sc Umacron.sc umacron.sc Ubreve.sc ubreve.sc Uring.sc uring.sc Uhungarumlaut.sc uhungarumlaut.sc Wcircumflex.sc wcircumflex.sc Ycircumflex.sc Ydieresis.sc Zacute.sc zacute.sc Zdotaccent.sc zdotaccent.sc Zcaron.sc zcaron.sc Ohorn.sc ohorn.sc Uhorn.sc uhorn.sc
   c_h
@@ -74,8 +88,6 @@ Agrave.sc Aacute.sc Acircumflex.sc Atilde.sc Adieresis.sc Aring.sc AE.sc Egrave.
   w.init
   w.init1
   w.alt
-  J.hist
-  j.hist
   v.initalt
   u.LATinit
   a_s
@@ -84,15 +96,25 @@ Agrave.sc Aacute.sc Acircumflex.sc Atilde.sc Adieresis.sc Aring.sc AE.sc Egrave.
   u_s
   s_k
   eacute_s
-  i.dotless
   e.fina
 ];
+
+
+@NO_DESC_2 = [ @LC_C_NO_DESC @LC_I_NO_DESC @LC_L_NO_DESC @LC_S_NO_DESC @LC_T_NO_DESC ];
+
+@NO_DESC_3 = [ @UC_I_NO_DESC @LC_E_NO_DESC @LC_O_NO_DESC @LC_R_NO_DESC @LC_V_NO_DESC @LC_Z_NO_DESC ];
+
+@NO_DESC = [ @NO_DESC_1 @NO_DESC_2 @NO_DESC_3 ];
 
 @RIGHT_DESC = [@NO_DESC q];
 
 @LONG_F = [f f_f f.DEU longs longs_longs];
 
 @SHORT_F = [f.short f_f.short f.short longs.short longs_longs.short];
+
+@ALL_LC_F_AND_LONGS = [ @LONG_F @SHORT_F];
+
+@LEFT_DESC_1 = [ @ALL_LC_F_AND_LONGS g j y ];
 
 @HIGH_ASC = [b f h-l adieresis edieresis idieresis odieresis udieresis dotlessi thorn eth longs bracketright braceright question exclam parenright i i.TRK f.DEU f_f uniFB01 uniFB02 uniFB03 uniFB04 uniFB05 uniFB06 f_f.short f.short f_h f_k f_b f_t f_j longs_j longs_b longs_h longs_k longs.short longs_longs.short f_f_h f_f_k f_f_b f_f_t f_f_j longs_longs_j longs_longs_b longs_longs_h longs_longs_k longs_longs_t ];
 
