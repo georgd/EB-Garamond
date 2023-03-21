@@ -1,5 +1,6 @@
 lookup Q_longtail {
-    sub [Q Q.sc q.sc]' @NO_DESC @NO_DESC by [Q.long Q.longsc q.longsc];
+    ignore sub [Q Q.sc q.sc]' @NO_DESC_1 @NO_DESC_3 @LEFT_DESC_1;
+    sub [Q Q.sc q.sc]' @NO_DESC_1 [@NO_DESC_1 @NO_DESC_3] by [Q.long Q.longsc q.longsc];
     sub [Q Q.sc q.sc]' @NO_DESC @NO_DESC @RIGHT_DESC  by [Q.long Q.longsc q.longsc];
 } Q_longtail;
 
