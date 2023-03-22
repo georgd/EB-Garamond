@@ -1,16 +1,16 @@
 languagesystem DFLT dflt;
-languagesystem cyrl dflt;
-languagesystem cyrl SRB ;
-languagesystem cyrl MKD ;
-languagesystem cyrl BGR ;
-languagesystem grek dflt;
+# languagesystem cyrl dflt;
+# languagesystem cyrl SRB ;
+# languagesystem cyrl MKD ;
+# languagesystem cyrl BGR ;
+# languagesystem grek dflt;
 languagesystem latn dflt;
-languagesystem latn DEU ;
-languagesystem latn TRK ;
-languagesystem latn AZE ;
-languagesystem latn CRT ;
-languagesystem latn CAT ;
-languagesystem latn LAT ;
+# languagesystem latn DEU ;
+# languagesystem latn TRK ;
+# languagesystem latn AZE ;
+# languagesystem latn CRT ;
+# languagesystem latn CAT ;
+# languagesystem latn LAT ;
 
 # lookup ss01 {
 #     sub G by G.threeline;
@@ -19,6 +19,11 @@ languagesystem latn LAT ;
 # feature ss01 {
 #     lookup ss01;
 #     } ss01;
+
+@INITIALS = [ A-Z Adieresis Odieresis Udieresis ];
+@BACKGROUND = [ A.bg-Z.bg Adieresis.bg Odieresis.bg Udieresis.bg ];
+@FOREGROUND = [ A.fg-Z.fg Adieresis.fg Odieresis.fg Udieresis.fg ];
+
 
 lookup contextual_positioning {
     pos guillemotright' <-140 0 0 0> exclamdown;
@@ -30,3 +35,19 @@ lookup contextual_positioning {
 feature kern {
     lookup contextual_positioning;
 } kern;
+
+lookup use_background {
+    sub @INITIALS by @BACKGROUND;
+} use_background;
+
+feature ss01 {
+    lookup use_background;
+} ss01;
+
+lookup use_foreground {
+    sub @INITIALS by @FOREGROUND;
+} use_foreground;
+
+feature ss02 {
+    lookup use_foreground;
+} ss02;

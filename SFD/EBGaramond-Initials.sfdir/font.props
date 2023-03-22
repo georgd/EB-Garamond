@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1312907347
-ModificationTime: 1677194007
+ModificationTime: 1679522868
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -43,49 +43,52 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2FamilyClass: 258
 OS2Vendor: 'PfEd'
-Lookup: 264 0 0 "contextual_positioning" { "contextual_positioning kontextuelle 0"  "contextual_positioning kontextuelle 1"  "contextual_positioning kontextuelle 2"  "contextual_positioning kontextuelle 3"  } ['kern' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'CAT ' 'LAT ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'SRB ' 'MKD ' 'BGR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 257 0 0 "Einzelne Positionierung Nachschlagetabelle 1" { "Einzelne Positionierung Nachschlagetabelle 1 Subtabelle"  } []
-Lookup: 257 0 0 "Einzelne Positionierung Nachschlagetabelle 2" { "Einzelne Positionierung Nachschlagetabelle 2 Subtabelle"  } []
-Lookup: 257 0 0 "Einzelne Positionierung Nachschlagetabelle 3" { "Einzelne Positionierung Nachschlagetabelle 3 Subtabelle"  } []
-Lookup: 257 0 0 "Einzelne Positionierung Nachschlagetabelle 4" { "Einzelne Positionierung Nachschlagetabelle 4 Subtabelle"  } []
+Lookup: 1 0 0 "use_background" { "use_background subtable"  } ['ss01' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "use_foreground" { "use_foreground subtable"  } ['ss02' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 264 0 0 "contextual_positioning" { "contextual_positioning contextual 0"  "contextual_positioning contextual 1"  "contextual_positioning contextual 2"  "contextual_positioning contextual 3"  } ['kern' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 257 0 0 "Single Positioning lookup 1" { "Single Positioning lookup 1 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 2" { "Single Positioning lookup 2 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 3" { "Single Positioning lookup 3 subtable"  } []
+Lookup: 257 0 0 "Single Positioning lookup 4" { "Single Positioning lookup 4 subtable"  } []
 MarkAttachClasses: 1
 DEI: 91125
-ChainPos2: glyph "contextual_positioning kontextuelle 3" 0 0 0 1
+ChainPos2: glyph "contextual_positioning contextual 3" 0 0 0 1
  String: 13 guillemotleft
  BString: 0 
  FString: 12 questiondown
  1
-  SeqLookup: 0 "Einzelne Positionierung Nachschlagetabelle 4"
+  SeqLookup: 0 "Single Positioning lookup 4"
 EndFPST
-ChainPos2: glyph "contextual_positioning kontextuelle 2" 0 0 0 1
+ChainPos2: glyph "contextual_positioning contextual 2" 0 0 0 1
  String: 14 guillemotright
  BString: 0 
  FString: 12 questiondown
  1
-  SeqLookup: 0 "Einzelne Positionierung Nachschlagetabelle 3"
+  SeqLookup: 0 "Single Positioning lookup 3"
 EndFPST
-ChainPos2: glyph "contextual_positioning kontextuelle 1" 0 0 0 1
+ChainPos2: glyph "contextual_positioning contextual 1" 0 0 0 1
  String: 13 guillemotleft
  BString: 0 
  FString: 10 exclamdown
  1
-  SeqLookup: 0 "Einzelne Positionierung Nachschlagetabelle 2"
+  SeqLookup: 0 "Single Positioning lookup 2"
 EndFPST
-ChainPos2: glyph "contextual_positioning kontextuelle 0" 0 0 0 1
+ChainPos2: glyph "contextual_positioning contextual 0" 0 0 0 1
  String: 14 guillemotright
  BString: 0 
  FString: 10 exclamdown
  1
-  SeqLookup: 0 "Einzelne Positionierung Nachschlagetabelle 1"
+  SeqLookup: 0 "Single Positioning lookup 1"
 EndFPST
 LangName: 1033
-Encoding: UnicodeBmp
+Encoding: Custom
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 8 2
+WinInfo: 88 8 2
 BeginPrivate: 0
 EndPrivate
 EndSplineFont
