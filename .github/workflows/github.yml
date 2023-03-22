@@ -28,14 +28,15 @@ jobs:
           zip ../EBGaramond.zip *
 
     - name: Upload to Github Artifacts
-      if: github.event_name == 'push'
+      if: github.event_name == 'push' || github.event_name == 'pull_request'
       uses: actions/upload-artifact@v3
       with:
         name: EBGaramond
         path: build/
 
     - name: Update nightly release
-      if: success()
+      # https://stackoverflow.com/a/66206183/2278742
+      if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request' && success()
       uses: pyTooling/Actions/releaser@main
       with:
         tag: nightly
