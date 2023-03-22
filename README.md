@@ -7,7 +7,7 @@ In the end, the fonts shall cover extended latin, greek and cyrillic scripts in 
 
 For the use with Xe- and LuaLaTeX I’m working on a configuration for mycrotype. For the use on the web via @fontface, the make-script produces eot and woff files which can be found in the web section. But be aware that they are not subset but contain the whole fonts, which might result in undesirably big files. Webfont hosters like googlefonts or fontsquirrel might provide better solutions.
 
-## Fonts in this repository:
+## Fonts in this repository
 
 | Font | Description |
 |------|-------------|
@@ -27,7 +27,7 @@ For the use with Xe- and LuaLaTeX I’m working on a configuration for mycrotype
 
 This is a work in progress, so expect bugs! The quality of the fonts still varies widely! You can see every font’s current state in its *-Glyphs.pdf file in the specimen section.
 
-## Downloads:
+## Downloads
 
 | Type | URL |
 |------|-----|
