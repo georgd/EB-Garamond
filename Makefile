@@ -19,7 +19,11 @@ DIST=$(NAME)-$(VERSION)-complete
 #Call script through fontforge, not python. https://github.com/fontforge/fontforge/issues/528
 FF=fontforge
 #Return to python because we don’t scale the font any longer.
-PYTHON?=python
+ifeq ($(OS),Windows_NT)
+    PYTHON?=ffpython
+else
+    PYTHON?=python3
+endif
 SCRIPT=tools/makefont.py
 
 #SIZES=08 12
