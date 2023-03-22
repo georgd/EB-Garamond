@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1312907347
-ModificationTime: 1679522868
+ModificationTime: 1679524552
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -43,6 +43,7 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2FamilyClass: 258
 OS2Vendor: 'PfEd'
+Lookup: 3 0 0 "L_variants" { "L_variants subtable"  } ['cv12' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "use_background" { "use_background subtable"  } ['ss01' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "use_foreground" { "use_foreground subtable"  } ['ss02' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 264 0 0 "contextual_positioning" { "contextual_positioning contextual 0"  "contextual_positioning contextual 1"  "contextual_positioning contextual 2"  "contextual_positioning contextual 3"  } ['kern' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
@@ -81,14 +82,14 @@ ChainPos2: glyph "contextual_positioning contextual 0" 0 0 0 1
   SeqLookup: 0 "Single Positioning lookup 1"
 EndFPST
 LangName: 1033
-Encoding: Custom
+Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 88 8 2
+WinInfo: 72 8 2
 BeginPrivate: 0
 EndPrivate
 EndSplineFont

@@ -20,9 +20,9 @@ languagesystem latn dflt;
 #     lookup ss01;
 #     } ss01;
 
-@INITIALS = [ A-Z Adieresis Odieresis Udieresis ];
-@BACKGROUND = [ A.bg-Z.bg Adieresis.bg Odieresis.bg Udieresis.bg ];
-@FOREGROUND = [ A.fg-Z.fg Adieresis.fg Odieresis.fg Udieresis.fg ];
+@INITIALS = [ A-Z Adieresis Odieresis Udieresis L.01 ];
+@BACKGROUND = [ A.bg-Z.bg Adieresis.bg Odieresis.bg Udieresis.bg L.01bg ];
+@FOREGROUND = [ A.fg-Z.fg Adieresis.fg Odieresis.fg Udieresis.fg L.01fg ];
 
 
 lookup contextual_positioning {
@@ -35,6 +35,14 @@ lookup contextual_positioning {
 feature kern {
     lookup contextual_positioning;
 } kern;
+
+lookup L_variants {
+ sub L from [L.01];
+} L_variants;
+
+feature cv12 {
+    lookup L_variants;
+} cv12;
 
 lookup use_background {
     sub @INITIALS by @BACKGROUND;
