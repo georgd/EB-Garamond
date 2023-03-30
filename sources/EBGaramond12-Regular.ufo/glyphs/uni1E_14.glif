@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E14" format="2">
+  <advance width="535"/>
+  <unicode hex="1E14"/>
+  <note>
+uni1E14
+</note>
+  <guideline x="347" y="804" angle="0"/>
+  <anchor x="293" y="-30" name="bottom.cap"/>
+  <anchor x="298" y="675" name="top.cap"/>
+  <outline>
+    <component base="Emacron"/>
+    <component base="gravecomb.flat" xOffset="279" yOffset="305"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Emacron</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>gravecomb.flat</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

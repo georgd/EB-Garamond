@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncaron" format="2">
+  <advance width="792"/>
+  <unicode hex="0147"/>
+  <note>
+Ncaron
+</note>
+  <anchor x="415" y="-30" name="bottom.cap"/>
+  <anchor x="406" y="675" name="top.cap"/>
+  <outline>
+    <component base="N"/>
+    <component base="uni030C.cap" xOffset="406"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

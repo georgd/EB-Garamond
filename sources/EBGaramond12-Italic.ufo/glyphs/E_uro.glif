@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro" format="2">
+  <advance width="627"/>
+  <unicode hex="20AC"/>
+  <note>
+Euro
+</note>
+  <anchor x="484" y="675" name="top.cap"/>
+  <outline>
+    <contour>
+      <point x="60" y="354" type="curve" smooth="yes"/>
+      <point x="527" y="361" type="line" smooth="yes"/>
+      <point x="544" y="361"/>
+      <point x="551" y="375"/>
+      <point x="558" y="391" type="curve" smooth="yes"/>
+      <point x="561" y="398"/>
+      <point x="552" y="405"/>
+      <point x="545" y="405" type="curve" smooth="yes"/>
+      <point x="70" y="392" type="line" smooth="yes"/>
+      <point x="56" y="392"/>
+      <point x="46" y="375"/>
+      <point x="46" y="366" type="curve" smooth="yes"/>
+      <point x="46" y="360"/>
+      <point x="53" y="354"/>
+    </contour>
+    <contour>
+      <point x="7" y="249" type="curve" smooth="yes"/>
+      <point x="474" y="256" type="line" smooth="yes"/>
+      <point x="491" y="256"/>
+      <point x="499" y="270"/>
+      <point x="505" y="286" type="curve"/>
+      <point x="508" y="293"/>
+      <point x="499" y="300"/>
+      <point x="492" y="300" type="curve" smooth="yes"/>
+      <point x="17" y="287" type="line" smooth="yes"/>
+      <point x="3" y="287"/>
+      <point x="-7" y="270"/>
+      <point x="-7" y="261" type="curve" smooth="yes"/>
+      <point x="-7" y="255"/>
+      <point x="0" y="249"/>
+    </contour>
+    <component base="C" xOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C</string>
+    </dict>
+  </lib>
+</glyph>

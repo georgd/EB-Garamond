@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflex" format="2">
+  <advance width="766"/>
+  <unicode hex="00C2"/>
+  <note>
+Acircumflex
+</note>
+  <anchor x="248" y="-30" name="bottom.cap"/>
+  <anchor x="839" y="823" name="top.cap"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni0302.cap" xOffset="510"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadieresis" format="2">
+  <advance width="319"/>
+  <unicode hex="03CA"/>
+  <note>
+iotadieresis
+</note>
+  <anchor x="226" y="440" name="topgreek"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dieresis" xOffset="-104"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

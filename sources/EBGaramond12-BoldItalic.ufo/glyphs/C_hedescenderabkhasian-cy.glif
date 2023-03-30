@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chedescenderabkhasian-cy" format="2">
+  <advance width="865"/>
+  <unicode hex="04BE"/>
+  <anchor x="704" y="828" name="top.cap"/>
+  <outline>
+    <contour>
+      <point x="420" y="-139" type="line"/>
+      <point x="478" y="-139" type="line"/>
+      <point x="528" y="15" type="line"/>
+      <point x="470" y="15" type="line"/>
+    </contour>
+    <component base="Cheabkhasian-cy"/>
+    <component base="uni0308.cap" xOffset="519"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

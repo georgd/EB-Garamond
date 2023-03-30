@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft.sc" format="2">
+  <advance width="239"/>
+  <note>
+parenleft.sc
+</note>
+  <outline>
+    <contour>
+      <point x="170" y="-128" type="curve" smooth="yes"/>
+      <point x="195" y="-149"/>
+      <point x="228" y="-134"/>
+      <point x="229" y="-108" type="curve" smooth="yes"/>
+      <point x="229" y="-100"/>
+      <point x="225" y="-91"/>
+      <point x="218" y="-82" type="curve" smooth="yes"/>
+      <point x="178" y="-34"/>
+      <point x="144" y="94"/>
+      <point x="144" y="184" type="curve" smooth="yes"/>
+      <point x="144" y="313"/>
+      <point x="180" y="398"/>
+      <point x="219" y="448" type="curve" smooth="yes"/>
+      <point x="238" y="472"/>
+      <point x="228" y="500"/>
+      <point x="204" y="500" type="curve" smooth="yes"/>
+      <point x="189" y="500"/>
+      <point x="174" y="494"/>
+      <point x="165" y="487" type="curve" smooth="yes"/>
+      <point x="111" y="438"/>
+      <point x="35" y="346"/>
+      <point x="35" y="177" type="curve" smooth="yes"/>
+      <point x="35" y="48"/>
+      <point x="116" y="-80"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>parenleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>parenleft</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

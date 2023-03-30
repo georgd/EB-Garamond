@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash.sc" format="2">
+  <advance width="320"/>
+  <note>
+backslash.sc
+</note>
+  <outline>
+    <contour>
+      <point x="196" y="-63" type="curve" smooth="yes"/>
+      <point x="210" y="-67"/>
+      <point x="224" y="-62"/>
+      <point x="222" y="-51" type="curve" smooth="yes"/>
+      <point x="153" y="434" type="line" smooth="yes"/>
+      <point x="150" y="456"/>
+      <point x="136" y="464"/>
+      <point x="115" y="471" type="curve" smooth="yes"/>
+      <point x="98" y="477"/>
+      <point x="86" y="466"/>
+      <point x="87" y="456" type="curve" smooth="yes"/>
+      <point x="157" y="-29" type="line" smooth="yes"/>
+      <point x="160" y="-49"/>
+      <point x="177" y="-58"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

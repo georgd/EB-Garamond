@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hastroke-cy" format="2">
+  <advance width="750"/>
+  <unicode hex="04FE"/>
+  <anchor x="248" y="-30" name="bottom.cap"/>
+  <anchor x="527" y="675" name="top.cap"/>
+  <outline>
+    <contour>
+      <point x="118" y="315" type="curve" smooth="yes"/>
+      <point x="672" y="315" type="line" smooth="yes"/>
+      <point x="695" y="315"/>
+      <point x="716" y="336"/>
+      <point x="726" y="353" type="curve"/>
+      <point x="726" y="355"/>
+      <point x="728" y="356"/>
+      <point x="728" y="358" type="curve" smooth="yes"/>
+      <point x="728" y="368"/>
+      <point x="724" y="377"/>
+      <point x="711" y="377" type="curve" smooth="yes"/>
+      <point x="142" y="377" type="line" smooth="yes"/>
+      <point x="125" y="377"/>
+      <point x="109" y="364"/>
+      <point x="104" y="346" type="curve" smooth="yes"/>
+      <point x="100" y="332"/>
+      <point x="101" y="315"/>
+    </contour>
+    <component base="X" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=X+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=X+10</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

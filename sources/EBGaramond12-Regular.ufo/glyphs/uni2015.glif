@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2015" format="2">
+  <advance width="2000"/>
+  <unicode hex="2015"/>
+  <note>
+uni2015
+</note>
+  <outline>
+    <contour>
+      <point x="64" y="185" type="curve" smooth="yes"/>
+      <point x="1919" y="185" type="line" smooth="yes"/>
+      <point x="1935" y="185"/>
+      <point x="1950" y="207"/>
+      <point x="1950" y="227" type="curve" smooth="yes"/>
+      <point x="1950" y="233"/>
+      <point x="1943" y="239"/>
+      <point x="1937" y="239" type="curve" smooth="yes"/>
+      <point x="74" y="239" type="line" smooth="yes"/>
+      <point x="55" y="239"/>
+      <point x="50" y="206"/>
+      <point x="50" y="197" type="curve" smooth="yes"/>
+      <point x="50" y="191"/>
+      <point x="57" y="185"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

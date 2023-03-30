@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot.sc" format="2">
+  <advance width="586"/>
+  <note>
+logicalnot.sc
+</note>
+  <outline>
+    <contour>
+      <point x="457" y="111" type="curve" smooth="yes"/>
+      <point x="475" y="111"/>
+      <point x="516" y="120"/>
+      <point x="516" y="145" type="curve"/>
+      <point x="516" y="368" type="line"/>
+      <point x="516" y="380"/>
+      <point x="512" y="389"/>
+      <point x="498" y="389" type="curve" smooth="yes"/>
+      <point x="65" y="389" type="line"/>
+      <point x="40" y="389"/>
+      <point x="30" y="348"/>
+      <point x="30" y="330" type="curve" smooth="yes"/>
+      <point x="30" y="323"/>
+      <point x="40" y="315"/>
+      <point x="50" y="315" type="curve" smooth="yes"/>
+      <point x="427" y="315" type="line" smooth="yes"/>
+      <point x="438" y="315"/>
+      <point x="442" y="308"/>
+      <point x="442" y="299" type="curve" smooth="yes"/>
+      <point x="442" y="131" type="line" smooth="yes"/>
+      <point x="442" y="120"/>
+      <point x="450" y="111"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>logicalnot</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>logicalnot</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

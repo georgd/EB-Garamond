@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Racute.sc" format="2">
+  <advance width="540"/>
+  <note>
+Racute.sc
+</note>
+  <anchor x="289" y="-30" name="bottom"/>
+  <anchor x="251" y="503" name="top"/>
+  <outline>
+    <component base="R.sc"/>
+    <component base="acutecomb.sc" xOffset="295" yOffset="63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

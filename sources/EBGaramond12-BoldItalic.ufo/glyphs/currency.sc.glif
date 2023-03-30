@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency.sc" format="2">
+  <advance width="496"/>
+  <note>
+currency.sc
+</note>
+  <outline>
+    <component base="currency" xScale="0.838" yScale="0.838" xOffset="29" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

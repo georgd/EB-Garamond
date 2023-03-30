@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20B2" format="2">
+  <advance width="687"/>
+  <unicode hex="20B2"/>
+  <note>
+uni20B2
+</note>
+  <anchor x="383" y="-30" name="bottom.cap"/>
+  <anchor x="510" y="675" name="top"/>
+  <anchor x="515" y="675" name="top.cap"/>
+  <outline>
+    <contour>
+      <point x="372" y="-96" type="curve" smooth="yes"/>
+      <point x="381" y="-96"/>
+      <point x="420" y="-93"/>
+      <point x="420" y="-72" type="curve" smooth="yes"/>
+      <point x="420" y="706" type="line" smooth="yes"/>
+      <point x="420" y="713"/>
+      <point x="413" y="719"/>
+      <point x="406" y="719" type="curve" smooth="yes"/>
+      <point x="400" y="719"/>
+      <point x="360" y="710"/>
+      <point x="360" y="688" type="curve" smooth="yes"/>
+      <point x="360" y="-82" type="line" smooth="yes"/>
+      <point x="360" y="-89"/>
+      <point x="366" y="-96"/>
+    </contour>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>G</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>G</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>G</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

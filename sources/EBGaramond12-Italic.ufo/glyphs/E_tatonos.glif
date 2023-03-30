@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etatonos" format="2">
+  <advance width="847"/>
+  <unicode hex="0389"/>
+  <note>
+Etatonos
+</note>
+  <anchor x="401" y="-30" name="bottom.cap"/>
+  <anchor x="406" y="-30" name="bottomgreek"/>
+  <anchor x="607" y="675" name="top.cap"/>
+  <anchor x="104" y="460" name="topgreek"/>
+  <outline>
+    <component base="Eta" xOffset="96"/>
+    <component base="tonos" xOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Eta</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

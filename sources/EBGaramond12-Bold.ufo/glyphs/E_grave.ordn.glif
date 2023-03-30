@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Egrave.ordn" format="2">
+  <advance width="451"/>
+  <note>
+Egrave.ordn
+</note>
+  <outline>
+    <contour>
+      <point x="298" y="740" type="curve" smooth="yes"/>
+      <point x="304" y="740"/>
+      <point x="307" y="743"/>
+      <point x="307" y="747" type="curve" smooth="yes"/>
+      <point x="307" y="752"/>
+      <point x="304" y="757"/>
+      <point x="296" y="765" type="curve" smooth="yes"/>
+      <point x="265" y="796"/>
+      <point x="240" y="827"/>
+      <point x="210" y="861" type="curve" smooth="yes"/>
+      <point x="203" y="869"/>
+      <point x="193" y="870"/>
+      <point x="182" y="867" type="curve" smooth="yes"/>
+      <point x="171" y="864"/>
+      <point x="123" y="838"/>
+      <point x="123" y="826" type="curve" smooth="yes"/>
+      <point x="123" y="820"/>
+      <point x="128" y="815"/>
+      <point x="139" y="810" type="curve" smooth="yes"/>
+      <point x="183" y="790"/>
+      <point x="234" y="766"/>
+      <point x="276" y="745" type="curve" smooth="yes"/>
+      <point x="286" y="740"/>
+      <point x="295" y="740"/>
+    </contour>
+    <component base="E.ordn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>E.ordn</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E.ordn</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

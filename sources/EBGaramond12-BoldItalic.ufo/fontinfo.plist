@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>691</integer>
+    <key>capHeight</key>
+    <integer>650</integer>
+    <key>copyright</key>
+    <string>Copyright 2017 The EB Garamond Project Authors (https://github.com/octaviopardo/EBGaramond12)</string>
+    <key>descender</key>
+    <integer>-281</integer>
+    <key>familyName</key>
+    <string>EB Garamond 12</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>646</integer>
+        <key>y</key>
+        <integer>437</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>-31</integer>
+        <key>y</key>
+        <integer>-14</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>38</integer>
+        <key>y</key>
+        <integer>457</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>275</integer>
+        <key>y</key>
+        <integer>705</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>-188</integer>
+        <key>y</key>
+        <integer>-290</integer>
+      </dict>
+    </array>
+    <key>italicAngle</key>
+    <real>-17.2</real>
+    <key>openTypeHeadCreated</key>
+    <string>2017/10/25 16:56:27</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1007</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-298</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Georg Duffner and Octavio Pardo</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://georgduffner.at/</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Georg Duffner</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://georgduffner.at/</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1007</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-298</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>PfEd</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1047</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>390</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-15</integer>
+      <integer>0</integer>
+      <integer>423</integer>
+      <integer>438</integer>
+      <integer>453</integer>
+      <integer>459</integer>
+      <integer>650</integer>
+      <integer>665</integer>
+      <integer>710</integer>
+      <integer>726</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-306</integer>
+      <integer>-290</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleName</key>
+    <string>Bold Italic</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+    <key>xHeight</key>
+    <integer>423</integer>
+  </dict>
+</plist>

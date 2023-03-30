@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2176" format="2">
+  <advance width="897"/>
+  <unicode hex="2176"/>
+  <note>
+uni2176
+</note>
+  <anchor x="220" y="-30" name="bottom"/>
+  <anchor x="539" y="-30" name="bottom_1"/>
+  <anchor x="768" y="-30" name="bottom_2"/>
+  <anchor x="218" y="440" name="top"/>
+  <anchor x="547" y="440" name="top_1"/>
+  <anchor x="776" y="440" name="top_2"/>
+  <outline>
+    <component base="v"/>
+    <component base="uni2171" xOffset="423"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni2171</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

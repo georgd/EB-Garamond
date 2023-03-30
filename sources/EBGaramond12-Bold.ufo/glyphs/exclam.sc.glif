@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam.sc" format="2">
+  <advance width="299"/>
+  <note>
+exclam.sc
+</note>
+  <outline>
+    <contour>
+      <point x="147" y="138" type="curve" smooth="yes"/>
+      <point x="164" y="138"/>
+      <point x="174" y="155"/>
+      <point x="179" y="178" type="curve" smooth="yes"/>
+      <point x="204" y="294"/>
+      <point x="229" y="360"/>
+      <point x="229" y="424" type="curve" smooth="yes"/>
+      <point x="229" y="464"/>
+      <point x="198" y="501"/>
+      <point x="152" y="501" type="curve" smooth="yes"/>
+      <point x="105" y="501"/>
+      <point x="70" y="462"/>
+      <point x="71" y="422" type="curve" smooth="yes"/>
+      <point x="73" y="359"/>
+      <point x="90" y="296"/>
+      <point x="114" y="178" type="curve" smooth="yes"/>
+      <point x="120" y="149"/>
+      <point x="129" y="138"/>
+    </contour>
+    <contour>
+      <point x="145" y="-46" type="curve" smooth="yes"/>
+      <point x="186" y="-46"/>
+      <point x="220" y="-12"/>
+      <point x="220" y="29" type="curve" smooth="yes"/>
+      <point x="220" y="70"/>
+      <point x="186" y="104"/>
+      <point x="145" y="104" type="curve" smooth="yes"/>
+      <point x="104" y="104"/>
+      <point x="70" y="70"/>
+      <point x="70" y="29" type="curve" smooth="yes"/>
+      <point x="70" y="-12"/>
+      <point x="104" y="-46"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>exclam</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

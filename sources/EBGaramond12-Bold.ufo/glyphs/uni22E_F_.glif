@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni22EF" format="2">
+  <advance width="687"/>
+  <unicode hex="22EF"/>
+  <note>
+uni22EF
+</note>
+  <outline>
+    <component base="periodcentered" xOffset="420"/>
+    <component base="periodcentered"/>
+    <component base="periodcentered" xOffset="209"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>periodcentered</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>periodcentered</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

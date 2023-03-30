@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EC3" format="2">
+  <advance width="423"/>
+  <unicode hex="1EC3"/>
+  <note>
+uni1EC3
+</note>
+  <anchor x="226" y="-30" name="bottom"/>
+  <anchor x="238" y="440" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni0302.stack" xOffset="225" yOffset="-6"/>
+    <component base="hookabovecomb.stack" xOffset="353" yOffset="128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

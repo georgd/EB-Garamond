@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01D6" format="2">
+  <advance width="527"/>
+  <unicode hex="01D6"/>
+  <note>
+uni01D6
+</note>
+  <anchor x="257" y="-30" name="bottom"/>
+  <anchor x="252" y="440" name="top"/>
+  <outline>
+    <component base="udieresis"/>
+    <component base="macron" xOffset="108" yOffset="152"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>macron</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

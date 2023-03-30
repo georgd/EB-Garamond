@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni019F" format="2">
+  <advance width="759"/>
+  <unicode hex="019F"/>
+  <note>
+uni019F
+</note>
+  <anchor x="382" y="-30" name="bottom.cap"/>
+  <anchor x="392" y="675" name="top.cap"/>
+  <outline>
+    <component base="uni04E8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

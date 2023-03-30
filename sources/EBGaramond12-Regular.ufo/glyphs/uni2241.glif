@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2241" format="2">
+  <advance width="500"/>
+  <unicode hex="2241"/>
+  <note>
+uni2241
+</note>
+  <outline>
+    <contour>
+      <point x="95" y="53" type="curve" smooth="yes"/>
+      <point x="111" y="53"/>
+      <point x="125" y="54"/>
+      <point x="133" y="68" type="curve" smooth="yes"/>
+      <point x="406" y="558" type="line"/>
+      <point x="410" y="564"/>
+      <point x="406" y="575"/>
+      <point x="399" y="575" type="curve" smooth="yes"/>
+      <point x="382" y="575"/>
+      <point x="367" y="573"/>
+      <point x="358" y="558" type="curve" smooth="yes"/>
+      <point x="85" y="68" type="line"/>
+      <point x="81" y="62"/>
+      <point x="88" y="53"/>
+    </contour>
+    <component base="asciitilde"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>asciitilde</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>asciitilde</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

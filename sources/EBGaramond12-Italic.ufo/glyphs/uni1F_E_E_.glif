@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FEE" format="2">
+  <advance width="300"/>
+  <unicode hex="1FEE"/>
+  <note>
+uni1FEE
+</note>
+  <guideline x="249" y="494" angle="0"/>
+  <guideline x="278" y="420" angle="0"/>
+  <anchor x="233" y="420" name="_top"/>
+  <outline>
+    <component base="dieresis" xOffset="9" yOffset="-19"/>
+    <component base="acute" xScale="0.99" xyScale="0.139" yxScale="-0.139" yScale="0.99" xOffset="169" yOffset="19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

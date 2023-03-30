@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.grkstack" format="2">
+  <note>
+gravecomb.grkstack
+</note>
+  <outline>
+    <contour>
+      <point x="110" y="437" type="curve" smooth="yes"/>
+      <point x="120" y="437"/>
+      <point x="128" y="455"/>
+      <point x="132" y="471" type="curve" smooth="yes"/>
+      <point x="138" y="493"/>
+      <point x="153" y="570"/>
+      <point x="166" y="618" type="curve" smooth="yes"/>
+      <point x="173" y="644"/>
+      <point x="171" y="664"/>
+      <point x="154" y="664" type="curve" smooth="yes"/>
+      <point x="132" y="664"/>
+      <point x="73" y="627"/>
+      <point x="73" y="611" type="curve" smooth="yes"/>
+      <point x="73" y="584"/>
+      <point x="86" y="506"/>
+      <point x="91" y="467" type="curve" smooth="yes"/>
+      <point x="93" y="451"/>
+      <point x="98" y="437"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

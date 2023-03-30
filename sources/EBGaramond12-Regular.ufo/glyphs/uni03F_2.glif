@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03F2" format="2">
+  <advance width="422"/>
+  <unicode hex="03F2"/>
+  <note>
+uni03F2
+</note>
+  <outline>
+    <contour>
+      <point x="227" y="-14" type="curve" smooth="yes"/>
+      <point x="309" y="-14"/>
+      <point x="361" y="21"/>
+      <point x="397" y="73" type="curve"/>
+      <point x="386" y="81" type="line"/>
+      <point x="356" y="47"/>
+      <point x="303" y="29"/>
+      <point x="264" y="29" type="curve" smooth="yes"/>
+      <point x="178" y="29"/>
+      <point x="117" y="103"/>
+      <point x="117" y="210" type="curve" smooth="yes"/>
+      <point x="117" y="319"/>
+      <point x="174" y="386"/>
+      <point x="248" y="384" type="curve" smooth="yes"/>
+      <point x="297" y="383"/>
+      <point x="331" y="365"/>
+      <point x="369" y="325" type="curve"/>
+      <point x="388" y="338" type="line"/>
+      <point x="357" y="384"/>
+      <point x="305" y="414"/>
+      <point x="246" y="414" type="curve" smooth="yes"/>
+      <point x="120" y="414"/>
+      <point x="35" y="317"/>
+      <point x="35" y="187" type="curve" smooth="yes"/>
+      <point x="35" y="69"/>
+      <point x="117" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>omicron</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

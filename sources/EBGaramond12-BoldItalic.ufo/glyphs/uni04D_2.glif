@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04D2" format="2">
+  <advance width="766"/>
+  <unicode hex="04D2"/>
+  <note>
+uni04D2
+</note>
+  <anchor x="248" y="-30" name="bottom.cap"/>
+  <anchor x="697" y="828" name="top.cap"/>
+  <outline>
+    <component base="Adieresis"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

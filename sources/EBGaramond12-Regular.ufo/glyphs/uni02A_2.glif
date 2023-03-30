@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02A2" format="2">
+  <advance width="387"/>
+  <unicode hex="02A2"/>
+  <note>
+uni02A2
+</note>
+  <outline>
+    <contour>
+      <point x="113" y="178" type="curve"/>
+      <point x="323" y="178" type="line"/>
+      <point x="340" y="178"/>
+      <point x="354" y="198"/>
+      <point x="354" y="208" type="curve" smooth="yes"/>
+      <point x="354" y="214"/>
+      <point x="347" y="220"/>
+      <point x="341" y="220" type="curve"/>
+      <point x="123" y="220" type="line"/>
+      <point x="108" y="220"/>
+      <point x="99" y="199"/>
+      <point x="99" y="190" type="curve" smooth="yes"/>
+      <point x="99" y="184"/>
+      <point x="106" y="178"/>
+    </contour>
+    <component base="uni0295" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=uni0295+5</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=uni0295+5</string>
+    </dict>
+  </lib>
+</glyph>

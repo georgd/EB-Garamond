@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni024D" format="2">
+  <advance width="397"/>
+  <unicode hex="024D"/>
+  <note>
+uni024D
+</note>
+  <anchor x="125" y="-30" name="bottom"/>
+  <anchor x="279" y="440" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="135" type="curve"/>
+      <point x="260" y="135" type="line"/>
+      <point x="275" y="135"/>
+      <point x="284" y="143"/>
+      <point x="291" y="156" type="curve"/>
+      <point x="291" y="157"/>
+      <point x="292" y="158"/>
+      <point x="292" y="159" type="curve" smooth="yes"/>
+      <point x="292" y="164"/>
+      <point x="284" y="169"/>
+      <point x="278" y="169" type="curve"/>
+      <point x="50" y="169" type="line"/>
+      <point x="38" y="169"/>
+      <point x="26" y="161"/>
+      <point x="26" y="152" type="curve" smooth="yes"/>
+      <point x="26" y="146"/>
+      <point x="31" y="135"/>
+    </contour>
+    <component base="r" xOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>r</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

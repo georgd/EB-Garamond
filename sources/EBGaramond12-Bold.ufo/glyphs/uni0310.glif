@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0310" format="2">
+  <unicode hex="0310"/>
+  <note>
+uni0310
+</note>
+  <outline>
+    <contour>
+      <point x="-7" y="442" type="curve" smooth="yes"/>
+      <point x="118" y="442"/>
+      <point x="182" y="544"/>
+      <point x="182" y="564" type="curve" smooth="yes"/>
+      <point x="182" y="577"/>
+      <point x="178" y="583"/>
+      <point x="166" y="583" type="curve" smooth="yes"/>
+      <point x="151" y="583"/>
+      <point x="146" y="579"/>
+      <point x="130" y="564" type="curve" smooth="yes"/>
+      <point x="103" y="538"/>
+      <point x="59" y="513"/>
+      <point x="13" y="513" type="curve" smooth="yes"/>
+      <point x="-39" y="513"/>
+      <point x="-63" y="537"/>
+      <point x="-84" y="558" type="curve" smooth="yes"/>
+      <point x="-100" y="574"/>
+      <point x="-114" y="589"/>
+      <point x="-137" y="589" type="curve" smooth="yes"/>
+      <point x="-154" y="589"/>
+      <point x="-182" y="573"/>
+      <point x="-182" y="545" type="curve" smooth="yes"/>
+      <point x="-182" y="519"/>
+      <point x="-139" y="442"/>
+    </contour>
+    <component base="dotaccent" xScale="0.846" yScale="0.846" xOffset="-93" yOffset="142"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotaccent</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

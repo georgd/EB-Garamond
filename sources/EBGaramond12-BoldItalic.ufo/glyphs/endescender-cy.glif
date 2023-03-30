@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endescender-cy" format="2">
+  <advance width="588"/>
+  <unicode hex="04A3"/>
+  <anchor x="366" y="440" name="top"/>
+  <outline>
+    <contour>
+      <point x="230" y="-276" type="curve" smooth="yes"/>
+      <point x="240" y="-276"/>
+      <point x="326" y="-258"/>
+      <point x="368" y="-233" type="curve" smooth="yes"/>
+      <point x="428" y="-197"/>
+      <point x="443" y="-139"/>
+      <point x="456" y="-74" type="curve" smooth="yes"/>
+      <point x="469" y="-7"/>
+      <point x="485" y="64"/>
+      <point x="523" y="103" type="curve"/>
+      <point x="431" y="39" type="line"/>
+      <point x="444" y="19" type="line"/>
+      <point x="432" y="12"/>
+      <point x="378" y="-28"/>
+      <point x="361" y="-50" type="curve" smooth="yes"/>
+      <point x="329" y="-91"/>
+      <point x="313" y="-124"/>
+      <point x="300" y="-168" type="curve" smooth="yes"/>
+      <point x="283" y="-227"/>
+      <point x="255" y="-242"/>
+      <point x="224" y="-253" type="curve"/>
+      <point x="218" y="-256"/>
+      <point x="213" y="-258"/>
+      <point x="213" y="-264" type="curve" smooth="yes"/>
+      <point x="213" y="-273"/>
+      <point x="222" y="-276"/>
+    </contour>
+    <component base="uni043D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>uni043D</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>uni043D</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

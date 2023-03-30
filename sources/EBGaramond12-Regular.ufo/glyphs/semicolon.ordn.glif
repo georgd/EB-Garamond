@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon.ordn" format="2">
+  <advance width="168"/>
+  <note>
+semicolon.ordn
+</note>
+  <outline>
+    <component base="period.ordn" xOffset="-2" yOffset="154"/>
+    <component base="comma.ordn" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

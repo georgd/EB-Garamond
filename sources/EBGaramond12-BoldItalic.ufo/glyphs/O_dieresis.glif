@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresis" format="2">
+  <advance width="692"/>
+  <unicode hex="00D6"/>
+  <note>
+Odieresis
+</note>
+  <anchor x="278" y="-30" name="bottom.cap"/>
+  <anchor x="544" y="828" name="top.cap"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0308.cap" xOffset="359"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

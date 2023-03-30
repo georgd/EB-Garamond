@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash.ordn" format="2">
+  <advance width="261"/>
+  <note>
+slash.ordn
+</note>
+  <outline>
+    <component base="backslash.ordn" xScale="-1" xOffset="261"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

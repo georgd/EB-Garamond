@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rcaron.sc" format="2">
+  <advance width="540"/>
+  <note>
+Rcaron.sc
+</note>
+  <anchor x="289" y="-30" name="bottom"/>
+  <anchor x="251" y="503" name="top"/>
+  <outline>
+    <component base="R.sc"/>
+    <component base="uni030C.sc" xOffset="251" yOffset="84"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

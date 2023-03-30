@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni24B5" format="2">
+  <advance width="1025"/>
+  <unicode hex="24B5"/>
+  <note>
+uni24B5
+</note>
+  <anchor x="496" y="-30" name="bottom"/>
+  <anchor x="518" y="440" name="top"/>
+  <outline>
+    <component base="z" xOffset="317"/>
+    <component base="parenleft"/>
+    <component base="parenright" xOffset="705"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>z</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>parenleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>parenright</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

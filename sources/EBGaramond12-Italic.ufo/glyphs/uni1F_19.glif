@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F19" format="2">
+  <advance width="700"/>
+  <unicode hex="1F19"/>
+  <note>
+uni1F19
+</note>
+  <anchor x="412" y="-30" name="bottom.cap"/>
+  <anchor x="379" y="-30" name="bottomgreek"/>
+  <anchor x="550" y="675" name="top.cap"/>
+  <anchor x="118" y="470" name="topgreek"/>
+  <outline>
+    <component base="Epsilon" xOffset="124"/>
+    <component base="uni1FFE" xOffset="-50" yOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Epsilon</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Epsilon</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

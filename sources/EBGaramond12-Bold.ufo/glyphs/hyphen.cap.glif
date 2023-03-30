@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen.cap" format="2">
+  <advance width="336"/>
+  <note>
+hyphen.cap
+</note>
+  <outline>
+    <contour>
+      <point x="37" y="287" type="curve" smooth="yes"/>
+      <point x="115" y="296"/>
+      <point x="208" y="308"/>
+      <point x="289" y="320" type="curve" smooth="yes"/>
+      <point x="307" y="323"/>
+      <point x="311" y="335"/>
+      <point x="311" y="382" type="curve" smooth="yes"/>
+      <point x="311" y="395"/>
+      <point x="308" y="402"/>
+      <point x="292" y="401" type="curve" smooth="yes"/>
+      <point x="219" y="395"/>
+      <point x="132" y="382"/>
+      <point x="51" y="369" type="curve" smooth="yes"/>
+      <point x="34" y="366"/>
+      <point x="25" y="347"/>
+      <point x="25" y="298" type="curve" smooth="yes"/>
+      <point x="25" y="291"/>
+      <point x="27" y="286"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

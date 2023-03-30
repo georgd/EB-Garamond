@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni203E" format="2">
+  <advance width="583"/>
+  <unicode hex="203E"/>
+  <note>
+uni203E
+</note>
+  <outline>
+    <contour>
+      <point x="157" y="558" type="curve" smooth="yes"/>
+      <point x="627" y="558" type="line" smooth="yes"/>
+      <point x="644" y="558"/>
+      <point x="667" y="590"/>
+      <point x="670" y="605" type="curve" smooth="yes"/>
+      <point x="672" y="614"/>
+      <point x="667" y="620"/>
+      <point x="654" y="620" type="curve" smooth="yes"/>
+      <point x="186" y="620" type="line" smooth="yes"/>
+      <point x="167" y="620"/>
+      <point x="151" y="583"/>
+      <point x="146" y="571" type="curve" smooth="yes"/>
+      <point x="144" y="566"/>
+      <point x="149" y="558"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>endash</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>endash</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

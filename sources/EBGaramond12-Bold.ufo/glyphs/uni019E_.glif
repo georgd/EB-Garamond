@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni019E" format="2">
+  <advance width="563"/>
+  <unicode hex="019E"/>
+  <note>
+uni019E
+</note>
+  <outline>
+    <contour>
+      <point x="313" y="-285" type="curve" smooth="yes"/>
+      <point x="353" y="-285"/>
+      <point x="388" y="-280"/>
+      <point x="423" y="-280" type="curve" smooth="yes"/>
+      <point x="458" y="-280"/>
+      <point x="495" y="-285"/>
+      <point x="535" y="-285" type="curve" smooth="yes"/>
+      <point x="543" y="-285"/>
+      <point x="552" y="-279"/>
+      <point x="552" y="-270" type="curve" smooth="yes"/>
+      <point x="552" y="-259"/>
+      <point x="543" y="-253"/>
+      <point x="532" y="-249" type="curve" smooth="yes"/>
+      <point x="512" y="-243"/>
+      <point x="495" y="-239"/>
+      <point x="495" y="-212" type="curve" smooth="yes"/>
+      <point x="495" y="292" type="line" smooth="yes"/>
+      <point x="495" y="373"/>
+      <point x="448" y="437"/>
+      <point x="386" y="437" type="curve" smooth="yes"/>
+      <point x="324" y="437"/>
+      <point x="277" y="409"/>
+      <point x="230" y="367" type="curve"/>
+      <point x="229" y="368"/>
+      <point x="228" y="376"/>
+      <point x="228" y="382" type="curve" smooth="yes"/>
+      <point x="228" y="401"/>
+      <point x="233" y="427"/>
+      <point x="233" y="438" type="curve" smooth="yes"/>
+      <point x="233" y="444"/>
+      <point x="232" y="451"/>
+      <point x="223" y="451" type="curve" smooth="yes"/>
+      <point x="218" y="451"/>
+      <point x="209" y="445"/>
+      <point x="203" y="442" type="curve" smooth="yes"/>
+      <point x="163" y="422"/>
+      <point x="94" y="402"/>
+      <point x="49" y="392" type="curve"/>
+      <point x="42" y="390"/>
+      <point x="39" y="383"/>
+      <point x="39" y="374" type="curve" smooth="yes"/>
+      <point x="39" y="362"/>
+      <point x="45" y="356"/>
+      <point x="50" y="355" type="curve" smooth="yes"/>
+      <point x="72" y="351"/>
+      <point x="80" y="329"/>
+      <point x="80" y="303" type="curve" smooth="yes"/>
+      <point x="80" y="71" type="line" smooth="yes"/>
+      <point x="80" y="44"/>
+      <point x="63" y="39"/>
+      <point x="43" y="33" type="curve" smooth="yes"/>
+      <point x="32" y="29"/>
+      <point x="20" y="23"/>
+      <point x="20" y="12" type="curve" smooth="yes"/>
+      <point x="20" y="3"/>
+      <point x="32" y="-3"/>
+      <point x="40" y="-3" type="curve" smooth="yes"/>
+      <point x="80" y="-3"/>
+      <point x="120" y="2"/>
+      <point x="155" y="2" type="curve" smooth="yes"/>
+      <point x="190" y="2"/>
+      <point x="222" y="-3"/>
+      <point x="262" y="-3" type="curve" smooth="yes"/>
+      <point x="270" y="-3"/>
+      <point x="278" y="4"/>
+      <point x="278" y="12" type="curve" smooth="yes"/>
+      <point x="278" y="22"/>
+      <point x="270" y="29"/>
+      <point x="259" y="33" type="curve" smooth="yes"/>
+      <point x="240" y="40"/>
+      <point x="225" y="43"/>
+      <point x="225" y="70" type="curve" smooth="yes"/>
+      <point x="225" y="267" type="line" smooth="yes"/>
+      <point x="225" y="299"/>
+      <point x="229" y="318"/>
+      <point x="240" y="327" type="curve" smooth="yes"/>
+      <point x="258" y="341"/>
+      <point x="275" y="347"/>
+      <point x="295" y="346" type="curve" smooth="yes"/>
+      <point x="328" y="345"/>
+      <point x="350" y="316"/>
+      <point x="350" y="267" type="curve" smooth="yes"/>
+      <point x="350" y="-212" type="line" smooth="yes"/>
+      <point x="350" y="-239"/>
+      <point x="336" y="-243"/>
+      <point x="316" y="-249" type="curve" smooth="yes"/>
+      <point x="305" y="-253"/>
+      <point x="297" y="-259"/>
+      <point x="297" y="-270" type="curve" smooth="yes"/>
+      <point x="297" y="-279"/>
+      <point x="305" y="-285"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=n-4</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

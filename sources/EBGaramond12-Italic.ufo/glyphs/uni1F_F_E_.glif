@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FFE" format="2">
+  <advance width="200"/>
+  <unicode hex="1FFE"/>
+  <note>
+uni1FFE
+</note>
+  <anchor x="168" y="440" name="_topgreek"/>
+  <outline>
+    <contour>
+      <point x="210" y="447" type="curve" smooth="yes"/>
+      <point x="225" y="447"/>
+      <point x="230" y="452"/>
+      <point x="230" y="458" type="curve" smooth="yes"/>
+      <point x="230" y="464"/>
+      <point x="226" y="468"/>
+      <point x="215" y="473" type="curve" smooth="yes"/>
+      <point x="194" y="483"/>
+      <point x="183" y="496"/>
+      <point x="183" y="512" type="curve" smooth="yes"/>
+      <point x="183" y="540"/>
+      <point x="207" y="560"/>
+      <point x="249" y="566" type="curve" smooth="yes"/>
+      <point x="279" y="570"/>
+      <point x="295" y="582"/>
+      <point x="295" y="607" type="curve" smooth="yes"/>
+      <point x="295" y="625"/>
+      <point x="283" y="639"/>
+      <point x="252" y="639" type="curve" smooth="yes"/>
+      <point x="195" y="639"/>
+      <point x="135" y="593"/>
+      <point x="135" y="524" type="curve" smooth="yes"/>
+      <point x="135" y="477"/>
+      <point x="170" y="447"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

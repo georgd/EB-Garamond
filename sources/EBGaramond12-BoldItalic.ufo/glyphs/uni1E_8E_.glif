@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E8E" format="2">
+  <advance width="669"/>
+  <unicode hex="1E8E"/>
+  <note>
+uni1E8E
+</note>
+  <anchor x="288" y="-30" name="bottom.cap"/>
+  <anchor x="507" y="675" name="top.cap"/>
+  <outline>
+    <component base="Y"/>
+    <component base="uni0307.cap" xOffset="366"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

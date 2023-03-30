@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EAB" format="2">
+  <advance width="447"/>
+  <unicode hex="1EAB"/>
+  <note>
+uni1EAB
+</note>
+  <anchor x="199" y="-30" name="bottom"/>
+  <anchor x="227" y="440" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni0302.stack" xOffset="228" yOffset="-18"/>
+    <component base="tildecomb.stack" xOffset="235" yOffset="166"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>tildecomb.stack</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

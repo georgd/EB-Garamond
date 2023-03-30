@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ECE" format="2">
+  <advance width="694"/>
+  <unicode hex="1ECE"/>
+  <note>
+uni1ECE
+</note>
+  <anchor x="298" y="-30" name="bottom.cap"/>
+  <anchor x="489" y="675" name="top.cap"/>
+  <outline>
+    <component base="O"/>
+    <component base="hookabovecomb.cap" xOffset="327"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

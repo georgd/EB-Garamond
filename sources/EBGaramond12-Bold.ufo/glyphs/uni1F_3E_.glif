@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F3E" format="2">
+  <advance width="608"/>
+  <unicode hex="1F3E"/>
+  <note>
+uni1F3E
+</note>
+  <anchor x="422" y="-30" name="bottom.cap"/>
+  <anchor x="427" y="675" name="top.cap"/>
+  <outline>
+    <component base="Iota" xOffset="239"/>
+    <component base="uni1FCF" xOffset="-53" yOffset="-36"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Iota</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>I</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FBB" format="2">
+  <advance width="766"/>
+  <unicode hex="1FBB"/>
+  <note>
+uni1FBB
+</note>
+  <anchor x="248" y="-30" name="bottom.cap"/>
+  <anchor x="321" y="-30" name="bottomgreek"/>
+  <anchor x="654" y="675" name="top.cap"/>
+  <anchor x="254" y="460" name="topgreek"/>
+  <outline>
+    <component base="Alpha"/>
+    <component base="acutecomb.grk" xOffset="212" yOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign" format="2">
+  <advance width="709"/>
+  <unicode hex="20A1"/>
+  <anchor x="412" y="-30" name="bottom.cap"/>
+  <anchor x="405" y="675" name="top.cap"/>
+  <outline>
+    <contour>
+      <point x="99" y="-102" type="curve" smooth="yes"/>
+      <point x="118" y="-102"/>
+      <point x="138" y="-100"/>
+      <point x="146" y="-82" type="curve" smooth="yes"/>
+      <point x="501" y="719" type="line" smooth="yes"/>
+      <point x="505" y="728"/>
+      <point x="497" y="741"/>
+      <point x="479" y="741" type="curve" smooth="yes"/>
+      <point x="457" y="741"/>
+      <point x="440" y="738"/>
+      <point x="432" y="719" type="curve" smooth="yes"/>
+      <point x="78" y="-82" type="line" smooth="yes"/>
+      <point x="74" y="-92"/>
+      <point x="84" y="-102"/>
+    </contour>
+    <contour>
+      <point x="246" y="-102" type="curve" smooth="yes"/>
+      <point x="265" y="-102"/>
+      <point x="285" y="-100"/>
+      <point x="293" y="-82" type="curve" smooth="yes"/>
+      <point x="648" y="719" type="line" smooth="yes"/>
+      <point x="652" y="728"/>
+      <point x="644" y="741"/>
+      <point x="626" y="741" type="curve" smooth="yes"/>
+      <point x="604" y="741"/>
+      <point x="587" y="738"/>
+      <point x="579" y="719" type="curve" smooth="yes"/>
+      <point x="225" y="-82" type="line" smooth="yes"/>
+      <point x="221" y="-92"/>
+      <point x="231" y="-102"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

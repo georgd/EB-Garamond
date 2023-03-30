@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01B6" format="2">
+  <advance width="407"/>
+  <unicode hex="01B6"/>
+  <note>
+uni01B6
+</note>
+  <anchor x="165" y="-30" name="bottom"/>
+  <anchor x="257" y="440" name="top"/>
+  <outline>
+    <contour>
+      <point x="230" y="237" type="line"/>
+      <point x="198" y="203" type="line"/>
+      <point x="315" y="203" type="line" smooth="yes"/>
+      <point x="330" y="203"/>
+      <point x="339" y="211"/>
+      <point x="346" y="224" type="curve"/>
+      <point x="346" y="225"/>
+      <point x="347" y="226"/>
+      <point x="347" y="227" type="curve" smooth="yes"/>
+      <point x="347" y="232"/>
+      <point x="339" y="237"/>
+      <point x="333" y="237" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="168" y="163" type="line"/>
+      <point x="200" y="197" type="line"/>
+      <point x="76" y="197" type="line" smooth="yes"/>
+      <point x="64" y="197"/>
+      <point x="52" y="189"/>
+      <point x="52" y="180" type="curve" smooth="yes"/>
+      <point x="52" y="174"/>
+      <point x="57" y="163"/>
+      <point x="66" y="163" type="curve"/>
+    </contour>
+    <component base="z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

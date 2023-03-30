@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FCB" format="2">
+  <advance width="811"/>
+  <unicode hex="1FCB"/>
+  <note>
+uni1FCB
+</note>
+  <anchor x="365" y="-30" name="bottom.cap"/>
+  <anchor x="370" y="-30" name="bottomgreek"/>
+  <anchor x="571" y="675" name="top.cap"/>
+  <anchor x="68" y="460" name="topgreek"/>
+  <outline>
+    <component base="Eta" xOffset="60"/>
+    <component base="acutecomb.grk" xOffset="26" yOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Eta</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb.grk</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

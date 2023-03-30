@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2127" format="2">
+  <advance width="814"/>
+  <unicode hex="2127"/>
+  <note>
+uni2127
+</note>
+  <anchor x="477" y="680" name="bottomgreek"/>
+  <anchor x="778" y="240" name="topgreek"/>
+  <outline>
+    <component base="uni03A9" xScale="-1" yScale="-1" xOffset="814" yOffset="650"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni03A9</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|uni03A9</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|uni03A9</string>
+    </dict>
+  </lib>
+</glyph>

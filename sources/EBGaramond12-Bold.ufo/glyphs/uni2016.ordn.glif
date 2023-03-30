@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2016.ordn" format="2">
+  <advance width="297"/>
+  <note>
+uni2016.ordn
+</note>
+  <outline>
+    <contour>
+      <point x="185" y="169" type="curve" smooth="yes"/>
+      <point x="197" y="169"/>
+      <point x="247" y="173"/>
+      <point x="247" y="200" type="curve" smooth="yes"/>
+      <point x="247" y="665" type="line" smooth="yes"/>
+      <point x="247" y="674"/>
+      <point x="238" y="682"/>
+      <point x="229" y="682" type="curve" smooth="yes"/>
+      <point x="221" y="682"/>
+      <point x="169" y="670"/>
+      <point x="169" y="642" type="curve" smooth="yes"/>
+      <point x="169" y="187" type="line" smooth="yes"/>
+      <point x="169" y="178"/>
+      <point x="176" y="169"/>
+    </contour>
+    <contour>
+      <point x="67" y="169" type="curve" smooth="yes"/>
+      <point x="78" y="169"/>
+      <point x="129" y="173"/>
+      <point x="129" y="200" type="curve" smooth="yes"/>
+      <point x="129" y="665" type="line" smooth="yes"/>
+      <point x="129" y="674"/>
+      <point x="120" y="682"/>
+      <point x="111" y="682" type="curve" smooth="yes"/>
+      <point x="103" y="682"/>
+      <point x="51" y="670"/>
+      <point x="51" y="642" type="curve" smooth="yes"/>
+      <point x="51" y="187" type="line" smooth="yes"/>
+      <point x="51" y="178"/>
+      <point x="58" y="169"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

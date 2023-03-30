@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacron.sc" format="2">
+  <advance width="480"/>
+  <note>
+Emacron.sc
+</note>
+  <anchor x="325" y="503" name="top"/>
+  <outline>
+    <component base="E.sc"/>
+    <component base="macron.sc" xOffset="106" yOffset="84"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestrokehook-cy" format="2">
+  <advance width="554"/>
+  <unicode hex="04FA"/>
+  <outline>
+    <contour>
+      <point x="62" y="-200" type="curve" smooth="yes"/>
+      <point x="114" y="-200"/>
+      <point x="168" y="-155"/>
+      <point x="211" y="-97" type="curve" smooth="yes"/>
+      <point x="259" y="-33"/>
+      <point x="292" y="47"/>
+      <point x="292" y="94" type="curve" smooth="yes"/>
+      <point x="292" y="525" type="line"/>
+      <point x="292" y="592"/>
+      <point x="314" y="608"/>
+      <point x="349" y="608" type="curve" smooth="yes"/>
+      <point x="407" y="608" type="line" smooth="yes"/>
+      <point x="433" y="608"/>
+      <point x="455" y="598"/>
+      <point x="474" y="581" type="curve" smooth="yes"/>
+      <point x="495" y="560"/>
+      <point x="511" y="528"/>
+      <point x="520" y="489" type="curve" smooth="yes"/>
+      <point x="523" y="477"/>
+      <point x="532" y="473"/>
+      <point x="541" y="473" type="curve" smooth="yes"/>
+      <point x="548" y="473"/>
+      <point x="554" y="479"/>
+      <point x="554" y="492" type="curve" smooth="yes"/>
+      <point x="554" y="528"/>
+      <point x="550" y="591"/>
+      <point x="548" y="640" type="curve" smooth="yes"/>
+      <point x="548" y="651"/>
+      <point x="540" y="655"/>
+      <point x="523" y="655" type="curve" smooth="yes"/>
+      <point x="510" y="655"/>
+      <point x="493" y="650"/>
+      <point x="446" y="650" type="curve" smooth="yes"/>
+      <point x="205" y="650" type="line"/>
+      <point x="165" y="650"/>
+      <point x="105" y="655"/>
+      <point x="61" y="655" type="curve" smooth="yes"/>
+      <point x="49" y="655"/>
+      <point x="41" y="648"/>
+      <point x="41" y="639" type="curve" smooth="yes"/>
+      <point x="41" y="631"/>
+      <point x="46" y="622"/>
+      <point x="62" y="618" type="curve" smooth="yes"/>
+      <point x="109" y="607"/>
+      <point x="122" y="594"/>
+      <point x="122" y="551" type="curve"/>
+      <point x="122" y="9" type="line" smooth="yes"/>
+      <point x="122" y="-112"/>
+      <point x="98" y="-158"/>
+      <point x="60" y="-158" type="curve" smooth="yes"/>
+      <point x="45" y="-158"/>
+      <point x="36" y="-136"/>
+      <point x="10" y="-103" type="curve" smooth="yes"/>
+      <point x="-2" y="-88"/>
+      <point x="-17" y="-80"/>
+      <point x="-31" y="-80" type="curve" smooth="yes"/>
+      <point x="-55" y="-80"/>
+      <point x="-85" y="-112"/>
+      <point x="-85" y="-140" type="curve" smooth="yes"/>
+      <point x="-85" y="-178"/>
+      <point x="-37" y="-200"/>
+    </contour>
+    <contour>
+      <point x="29" y="298" type="curve"/>
+      <point x="418" y="298" type="line"/>
+      <point x="439" y="298"/>
+      <point x="452" y="311"/>
+      <point x="462" y="329" type="curve"/>
+      <point x="462" y="331"/>
+      <point x="463" y="332"/>
+      <point x="463" y="333" type="curve" smooth="yes"/>
+      <point x="463" y="342"/>
+      <point x="452" y="349"/>
+      <point x="443" y="349" type="curve"/>
+      <point x="43" y="349" type="line"/>
+      <point x="26" y="349"/>
+      <point x="9" y="336"/>
+      <point x="9" y="324" type="curve" smooth="yes"/>
+      <point x="9" y="315"/>
+      <point x="16" y="298"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>J</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ghestroke-cy</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

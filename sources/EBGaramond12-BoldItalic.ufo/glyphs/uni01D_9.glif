@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01D9" format="2">
+  <advance width="715"/>
+  <unicode hex="01D9"/>
+  <note>
+uni01D9
+</note>
+  <anchor x="302" y="-30" name="bottom.cap"/>
+  <anchor x="586" y="828" name="top.cap"/>
+  <outline>
+    <component base="Udieresis"/>
+    <component base="uni030C.cap" xOffset="421" yOffset="131"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni030C.cap</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

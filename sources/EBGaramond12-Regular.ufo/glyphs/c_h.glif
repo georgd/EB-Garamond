@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c_h" format="2">
+  <advance width="874"/>
+  <note>
+c_h
+</note>
+  <anchor x="611" y="-30" name="bottom"/>
+  <anchor x="237" y="440" name="top"/>
+  <outline>
+    <component base="c"/>
+    <component base="h" xOffset="359"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>h</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>

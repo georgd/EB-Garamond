@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling" format="2">
+  <advance width="490"/>
+  <unicode hex="00A3"/>
+  <note>
+sterling
+</note>
+  <outline>
+    <contour>
+      <point x="45" y="297" type="curve" smooth="yes"/>
+      <point x="333" y="317" type="line" smooth="yes"/>
+      <point x="348" y="318"/>
+      <point x="364" y="332"/>
+      <point x="364" y="339" type="curve" smooth="yes"/>
+      <point x="364" y="344"/>
+      <point x="358" y="351"/>
+      <point x="351" y="351" type="curve" smooth="yes"/>
+      <point x="55" y="331" type="line" smooth="yes"/>
+      <point x="42" y="330"/>
+      <point x="31" y="318"/>
+      <point x="31" y="309" type="curve" smooth="yes"/>
+      <point x="31" y="303"/>
+      <point x="38" y="297"/>
+    </contour>
+    <component base="L.script"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

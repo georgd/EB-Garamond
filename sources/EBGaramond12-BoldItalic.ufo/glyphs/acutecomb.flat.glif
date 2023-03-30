@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.flat" format="2">
+  <note>
+acutecomb.flat
+</note>
+  <outline>
+    <contour>
+      <point x="1" y="505" type="curve" smooth="yes"/>
+      <point x="14" y="505"/>
+      <point x="30" y="509"/>
+      <point x="41" y="511" type="curve" smooth="yes"/>
+      <point x="102" y="522"/>
+      <point x="155" y="541"/>
+      <point x="216" y="561" type="curve" smooth="yes"/>
+      <point x="225" y="564"/>
+      <point x="227" y="571"/>
+      <point x="227" y="580" type="curve" smooth="yes"/>
+      <point x="227" y="593"/>
+      <point x="210" y="648"/>
+      <point x="175" y="648" type="curve" smooth="yes"/>
+      <point x="168" y="648"/>
+      <point x="161" y="646"/>
+      <point x="155" y="643" type="curve"/>
+      <point x="108" y="616"/>
+      <point x="42" y="574"/>
+      <point x="1" y="544" type="curve" smooth="yes"/>
+      <point x="-15" y="532"/>
+      <point x="-18" y="526"/>
+      <point x="-18" y="519" type="curve" smooth="yes"/>
+      <point x="-18" y="510"/>
+      <point x="-9" y="505"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E67" format="2">
+  <advance width="368"/>
+  <unicode hex="1E67"/>
+  <note>
+uni1E67
+</note>
+  <anchor x="188" y="-30" name="bottom"/>
+  <anchor x="202" y="440" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="uni030C.stack" xOffset="188"/>
+    <component base="dotaccent" xOffset="66" yOffset="149"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotaccent</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.lf" format="2">
+  <advance width="467"/>
+  <note>
+nine.lnum
+</note>
+  <outline>
+    <contour>
+      <point x="-8" y="-31" type="curve" smooth="yes"/>
+      <point x="201" y="-31"/>
+      <point x="503" y="267"/>
+      <point x="503" y="471" type="curve" smooth="yes"/>
+      <point x="503" y="558"/>
+      <point x="454" y="629"/>
+      <point x="383" y="629" type="curve" smooth="yes"/>
+      <point x="270" y="629"/>
+      <point x="126" y="501"/>
+      <point x="126" y="396" type="curve" smooth="yes"/>
+      <point x="126" y="342"/>
+      <point x="172" y="298"/>
+      <point x="225" y="298" type="curve" smooth="yes"/>
+      <point x="259" y="298"/>
+      <point x="304" y="323"/>
+      <point x="321" y="334" type="curve" smooth="yes"/>
+      <point x="334" y="342"/>
+      <point x="350" y="356"/>
+      <point x="360" y="369" type="curve" smooth="yes"/>
+      <point x="361" y="370"/>
+      <point x="363" y="378"/>
+      <point x="363" y="380" type="curve" smooth="yes"/>
+      <point x="363" y="383"/>
+      <point x="360" y="385"/>
+      <point x="356" y="383" type="curve" smooth="yes"/>
+      <point x="329" y="371"/>
+      <point x="312" y="357"/>
+      <point x="274" y="357" type="curve" smooth="yes"/>
+      <point x="236" y="357"/>
+      <point x="210" y="396"/>
+      <point x="210" y="443" type="curve" smooth="yes"/>
+      <point x="210" y="513"/>
+      <point x="275" y="593"/>
+      <point x="341" y="593" type="curve" smooth="yes"/>
+      <point x="391" y="593"/>
+      <point x="420" y="534"/>
+      <point x="420" y="465" type="curve" smooth="yes"/>
+      <point x="420" y="286"/>
+      <point x="166" y="-8"/>
+      <point x="-1" y="-9" type="curve" smooth="yes"/>
+      <point x="-12" y="-9"/>
+      <point x="-19" y="-15"/>
+      <point x="-19" y="-21" type="curve" smooth="yes"/>
+      <point x="-19" y="-25"/>
+      <point x="-18" y="-31"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|six.lf</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|six.lf</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

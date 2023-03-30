@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ED4" format="2">
+  <advance width="713"/>
+  <unicode hex="1ED4"/>
+  <note>
+uni1ED4
+</note>
+  <anchor x="298" y="-30" name="bottom.cap"/>
+  <anchor x="642" y="823" name="top.cap"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0302.cap" xOffset="343"/>
+    <component base="hookabovecomb.cap" xOffset="497" yOffset="48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0302.cap</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>hookabovecomb.cap</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

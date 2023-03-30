@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AEacute" format="2">
+  <advance width="917"/>
+  <unicode hex="01FC"/>
+  <note>
+AEacute
+</note>
+  <anchor x="576" y="675" name="top.cap"/>
+  <outline>
+    <component base="AE"/>
+    <component base="acutecomb.cap" xOffset="629"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

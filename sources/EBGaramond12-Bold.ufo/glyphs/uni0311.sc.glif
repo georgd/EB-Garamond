@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0311.sc" format="2">
+  <note>
+uni0311.sc
+</note>
+  <outline>
+    <contour>
+      <point x="-105" y="426" type="curve" smooth="yes"/>
+      <point x="-93" y="426"/>
+      <point x="-86" y="434"/>
+      <point x="-83" y="447" type="curve" smooth="yes"/>
+      <point x="-73" y="491"/>
+      <point x="-47" y="514"/>
+      <point x="0" y="514" type="curve" smooth="yes"/>
+      <point x="47" y="514"/>
+      <point x="73" y="491"/>
+      <point x="83" y="447" type="curve" smooth="yes"/>
+      <point x="86" y="434"/>
+      <point x="93" y="426"/>
+      <point x="105" y="426" type="curve" smooth="yes"/>
+      <point x="117" y="426"/>
+      <point x="130" y="437"/>
+      <point x="130" y="462" type="curve" smooth="yes"/>
+      <point x="130" y="510"/>
+      <point x="103" y="596"/>
+      <point x="0" y="596" type="curve" smooth="yes"/>
+      <point x="-103" y="596"/>
+      <point x="-130" y="510"/>
+      <point x="-130" y="462" type="curve" smooth="yes"/>
+      <point x="-130" y="437"/>
+      <point x="-117" y="426"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

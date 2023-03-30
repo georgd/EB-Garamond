@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonos" format="2">
+  <advance width="245"/>
+  <unicode hex="0384"/>
+  <note>
+tonos
+</note>
+  <anchor x="157" y="460" name="_topgreek"/>
+  <outline>
+    <contour>
+      <point x="165" y="481" type="curve" smooth="yes"/>
+      <point x="177" y="481"/>
+      <point x="192" y="492"/>
+      <point x="201" y="501" type="curve" smooth="yes"/>
+      <point x="237" y="537"/>
+      <point x="322" y="641"/>
+      <point x="322" y="657" type="curve" smooth="yes"/>
+      <point x="322" y="671"/>
+      <point x="290" y="714"/>
+      <point x="265" y="714" type="curve" smooth="yes"/>
+      <point x="249" y="714"/>
+      <point x="246" y="710"/>
+      <point x="236" y="694" type="curve" smooth="yes"/>
+      <point x="214" y="658"/>
+      <point x="154" y="520"/>
+      <point x="152" y="498" type="curve" smooth="yes"/>
+      <point x="151" y="488"/>
+      <point x="154" y="481"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

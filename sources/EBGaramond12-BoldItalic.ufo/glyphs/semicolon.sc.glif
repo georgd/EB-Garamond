@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon.sc" format="2">
+  <advance width="250"/>
+  <note>
+semicolon.sc
+</note>
+  <outline>
+    <component base="semicolon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

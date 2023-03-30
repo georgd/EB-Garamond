@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="figuredash" format="2">
+  <advance width="493"/>
+  <unicode hex="2012"/>
+  <note>
+figuredash
+</note>
+  <outline>
+    <contour>
+      <point x="19" y="181" type="curve" smooth="yes"/>
+      <point x="442" y="181" type="line" smooth="yes"/>
+      <point x="462" y="181"/>
+      <point x="473" y="206"/>
+      <point x="485" y="227" type="curve" smooth="yes"/>
+      <point x="489" y="234"/>
+      <point x="485" y="241"/>
+      <point x="478" y="241" type="curve" smooth="yes"/>
+      <point x="47" y="241" type="line" smooth="yes"/>
+      <point x="27" y="241"/>
+      <point x="13" y="202"/>
+      <point x="10" y="193" type="curve" smooth="yes"/>
+      <point x="8" y="187"/>
+      <point x="12" y="181"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

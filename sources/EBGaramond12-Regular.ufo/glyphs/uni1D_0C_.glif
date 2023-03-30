@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D0C" format="2">
+  <advance width="415"/>
+  <unicode hex="1D0C"/>
+  <note>
+uni1D0C
+</note>
+  <anchor x="205.7856" y="-26.496" name="bottom"/>
+  <anchor x="139.5456" y="444.2496" name="top"/>
+  <outline>
+    <component base="Lslash.sc" xScale="0.8832" yScale="0.8832"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

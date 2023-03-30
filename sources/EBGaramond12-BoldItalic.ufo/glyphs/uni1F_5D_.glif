@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F5D" format="2">
+  <advance width="1031"/>
+  <unicode hex="1F5D"/>
+  <note>
+uni1F5D
+</note>
+  <anchor x="597" y="-30" name="bottomgreek"/>
+  <anchor x="817" y="675" name="top.cap"/>
+  <anchor x="268" y="400" name="topgreek"/>
+  <outline>
+    <component base="Upsilon" xOffset="299"/>
+    <component base="uni1FDE" xOffset="-70" yOffset="-40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Upsilon</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FDE</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Upsilon</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

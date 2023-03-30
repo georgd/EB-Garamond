@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.pc" format="2">
+  <advance width="588"/>
+  <note>
+r.pc
+</note>
+  <anchor x="281.656" y="-28.254" name="bottom"/>
+  <anchor x="255.286" y="473.725" name="top"/>
+  <outline>
+    <component base="R.pc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

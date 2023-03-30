@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilontonos.sc" format="2">
+  <advance width="570"/>
+  <note>
+Upsilontonos.sc
+</note>
+  <anchor x="286" y="503" name="top"/>
+  <outline>
+    <component base="Upsilon.sc"/>
+    <component base="tonos" xOffset="193" yOffset="64"/>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Atilde.sc" format="2">
+  <advance width="611"/>
+  <note>
+Atilde.sc
+</note>
+  <anchor x="311" y="503" name="top"/>
+  <outline>
+    <component base="A.sc"/>
+    <component base="tildecomb.sc" xOffset="333" yOffset="84"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

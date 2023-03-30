@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft.sc" format="2">
+  <advance width="376"/>
+  <note>
+braceleft.sc
+</note>
+  <outline>
+    <contour>
+      <point x="335" y="-122" type="curve" smooth="yes"/>
+      <point x="344" y="-122"/>
+      <point x="353" y="-112"/>
+      <point x="353" y="-105" type="curve" smooth="yes"/>
+      <point x="353" y="-98"/>
+      <point x="338" y="-98"/>
+      <point x="327" y="-97" type="curve" smooth="yes"/>
+      <point x="263" y="-91"/>
+      <point x="218" y="-80"/>
+      <point x="218" y="-27" type="curve" smooth="yes"/>
+      <point x="218" y="22"/>
+      <point x="231" y="54"/>
+      <point x="231" y="96" type="curve" smooth="yes"/>
+      <point x="231" y="145"/>
+      <point x="174" y="187"/>
+      <point x="125" y="189" type="curve"/>
+      <point x="122" y="189"/>
+      <point x="119" y="190"/>
+      <point x="123" y="192" type="curve"/>
+      <point x="186" y="198"/>
+      <point x="231" y="234"/>
+      <point x="231" y="284" type="curve" smooth="yes"/>
+      <point x="231" y="325"/>
+      <point x="218" y="359"/>
+      <point x="218" y="407" type="curve" smooth="yes"/>
+      <point x="218" y="460"/>
+      <point x="266" y="470"/>
+      <point x="330" y="476" type="curve" smooth="yes"/>
+      <point x="341" y="477"/>
+      <point x="356" y="482"/>
+      <point x="356" y="490" type="curve" smooth="yes"/>
+      <point x="356" y="499"/>
+      <point x="347" y="503"/>
+      <point x="338" y="503" type="curve" smooth="yes"/>
+      <point x="244" y="503"/>
+      <point x="153" y="475"/>
+      <point x="153" y="407" type="curve" smooth="yes"/>
+      <point x="153" y="357"/>
+      <point x="166" y="324"/>
+      <point x="166" y="279" type="curve" smooth="yes"/>
+      <point x="166" y="233"/>
+      <point x="124" y="215"/>
+      <point x="71" y="205" type="curve" smooth="yes"/>
+      <point x="56" y="202"/>
+      <point x="50" y="195"/>
+      <point x="50" y="191" type="curve" smooth="yes"/>
+      <point x="50" y="185"/>
+      <point x="60" y="180"/>
+      <point x="69" y="179" type="curve" smooth="yes"/>
+      <point x="114" y="174"/>
+      <point x="166" y="148"/>
+      <point x="166" y="101" type="curve" smooth="yes"/>
+      <point x="166" y="56"/>
+      <point x="153" y="23"/>
+      <point x="153" y="-28" type="curve" smooth="yes"/>
+      <point x="153" y="-96"/>
+      <point x="241" y="-122"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>braceleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>braceleft</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni21AE" format="2">
+  <advance width="1008"/>
+  <unicode hex="21AE"/>
+  <note>
+uni21AE
+</note>
+  <outline>
+    <component base="arrowboth"/>
+    <component base="slash" xOffset="354"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>arrowboth</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>arrowboth</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

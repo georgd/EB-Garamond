@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F98" format="2">
+  <advance width="918"/>
+  <unicode hex="1F98"/>
+  <note>
+uni1F98
+</note>
+  <anchor x="450" y="-30" name="bottom.cap"/>
+  <anchor x="452" y="-30" name="bottomgreek"/>
+  <anchor x="669" y="675" name="top.cap"/>
+  <anchor x="93" y="390" name="topgreek"/>
+  <outline>
+    <component base="uni1F28"/>
+    <component base="uni0345" xOffset="546"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

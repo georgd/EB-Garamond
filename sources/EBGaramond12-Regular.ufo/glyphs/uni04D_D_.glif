@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04DD" format="2">
+  <advance width="701"/>
+  <unicode hex="04DD"/>
+  <note>
+uni04DD
+</note>
+  <anchor x="346" y="440" name="top"/>
+  <outline>
+    <component base="uni0436"/>
+    <component base="dieresis" xOffset="196"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

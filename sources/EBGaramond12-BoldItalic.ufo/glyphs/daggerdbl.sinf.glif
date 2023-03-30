@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl.sinf" format="2">
+  <advance width="372"/>
+  <note>
+daggerdbl.sinf
+</note>
+  <outline>
+    <component base="daggerdbl.ordn" xOffset="-131" yOffset="-424"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>daggerdbl.ordn</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>daggerdbl.ordn</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

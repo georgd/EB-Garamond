@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreve.sc" format="2">
+  <advance width="544"/>
+  <note>
+Abreve.sc
+</note>
+  <anchor x="273" y="503" name="top"/>
+  <outline>
+    <component base="A.sc"/>
+    <component base="breve" xOffset="123" yOffset="63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

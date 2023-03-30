@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadieresistonos" format="2">
+  <advance width="238"/>
+  <unicode hex="0390"/>
+  <note>
+iotadieresistonos
+</note>
+  <anchor x="130" y="440" name="top"/>
+  <outline>
+    <component base="uni1FD3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

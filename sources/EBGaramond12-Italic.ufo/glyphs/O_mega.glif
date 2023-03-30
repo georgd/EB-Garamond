@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omega" format="2">
+  <advance width="797"/>
+  <unicode hex="2126"/>
+  <note>
+Omega
+</note>
+  <anchor x="327" y="-30" name="bottomgreek"/>
+  <anchor x="56" y="460" name="topgreek"/>
+  <outline>
+    <component base="uni03A9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

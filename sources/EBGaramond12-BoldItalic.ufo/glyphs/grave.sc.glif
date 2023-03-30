@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.sc" format="2">
+  <advance width="245"/>
+  <note>
+grave.sc
+</note>
+  <outline>
+    <component base="acute.sc" xScale="-1" xOffset="466"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

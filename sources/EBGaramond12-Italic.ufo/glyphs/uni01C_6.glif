@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C6" format="2">
+  <advance width="923"/>
+  <unicode hex="01C6"/>
+  <note>
+uni01C6
+</note>
+  <anchor x="179" y="-30" name="bottom_1"/>
+  <anchor x="681" y="-30" name="bottom_2"/>
+  <anchor x="773" y="440" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="zcaron" xOffset="516"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

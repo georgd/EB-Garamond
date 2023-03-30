@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FFA" format="2">
+  <advance width="843"/>
+  <unicode hex="1FFA"/>
+  <note>
+uni1FFA
+</note>
+  <anchor x="373" y="-30" name="bottomgreek"/>
+  <anchor x="102" y="460" name="topgreek"/>
+  <outline>
+    <component base="Omega" xOffset="46"/>
+    <component base="gravecomb.grk" xOffset="36" yOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>gravecomb.grk</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omega</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

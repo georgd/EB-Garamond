@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zeta" format="2">
+  <advance width="635"/>
+  <unicode hex="0396"/>
+  <note>
+Zeta
+</note>
+  <anchor x="266" y="-30" name="bottom.cap"/>
+  <anchor x="423" y="675" name="top.cap"/>
+  <outline>
+    <component base="Z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

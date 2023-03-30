@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U.LAT" format="2">
+  <advance width="683"/>
+  <note>
+U.LAT
+</note>
+  <anchor x="177" y="-30" name="bottom.cap"/>
+  <anchor x="495" y="675" name="top.cap"/>
+  <outline>
+    <component base="V"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

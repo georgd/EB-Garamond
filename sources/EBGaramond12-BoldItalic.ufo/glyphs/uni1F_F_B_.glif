@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FFB" format="2">
+  <advance width="834"/>
+  <unicode hex="1FFB"/>
+  <note>
+uni1FFB
+</note>
+  <anchor x="357" y="-30" name="bottomgreek"/>
+  <anchor x="56" y="410" name="topgreek"/>
+  <outline>
+    <component base="Omega" xOffset="20"/>
+    <component base="acutecomb.grk" xOffset="14" yOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omega</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

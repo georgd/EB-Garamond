@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni025F" format="2">
+  <advance width="276"/>
+  <unicode hex="025F"/>
+  <note>
+uni025F
+</note>
+  <guideline x="-31" y="31" angle="90"/>
+  <anchor x="136" y="440" name="top"/>
+  <outline>
+    <contour>
+      <point x="11" y="163" type="curve" smooth="yes"/>
+      <point x="238" y="163" type="line" smooth="yes"/>
+      <point x="261" y="163"/>
+      <point x="276" y="184"/>
+      <point x="280" y="201" type="curve"/>
+      <point x="280" y="203"/>
+      <point x="281" y="204"/>
+      <point x="281" y="206" type="curve" smooth="yes"/>
+      <point x="281" y="216"/>
+      <point x="271" y="225"/>
+      <point x="258" y="225" type="curve" smooth="yes"/>
+      <point x="16" y="225" type="line" smooth="yes"/>
+      <point x="-1" y="225"/>
+      <point x="-13" y="212"/>
+      <point x="-13" y="194" type="curve" smooth="yes"/>
+      <point x="-13" y="180"/>
+      <point x="-6" y="163"/>
+    </contour>
+    <component base="j.dotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

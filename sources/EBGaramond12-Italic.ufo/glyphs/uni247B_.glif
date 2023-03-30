@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni247B" format="2">
+  <advance width="1024"/>
+  <unicode hex="247B"/>
+  <note>
+uni247B
+</note>
+  <outline>
+    <component base="parenleft"/>
+    <component base="eight.osf" xOffset="308"/>
+    <component base="parenright" xOffset="715"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

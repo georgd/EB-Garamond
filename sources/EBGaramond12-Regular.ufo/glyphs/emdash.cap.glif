@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash.cap" format="2">
+  <advance width="950"/>
+  <note>
+emdash.cap
+</note>
+  <outline>
+    <component base="emdash" yOffset="110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

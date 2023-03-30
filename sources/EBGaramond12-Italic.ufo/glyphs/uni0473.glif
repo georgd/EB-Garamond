@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0473" format="2">
+  <advance width="380"/>
+  <unicode hex="0473"/>
+  <note>
+uni0473
+</note>
+  <anchor x="104" y="-30" name="bottom"/>
+  <anchor x="278" y="440" name="top"/>
+  <outline>
+    <contour>
+      <point x="85" y="177" type="line"/>
+      <point x="293" y="193" type="line"/>
+      <point x="292" y="234" type="line"/>
+      <point x="85" y="218" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

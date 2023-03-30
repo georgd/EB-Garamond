@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FBC" format="2">
+  <advance width="726"/>
+  <unicode hex="1FBC"/>
+  <note>
+uni1FBC
+</note>
+  <anchor x="322" y="-30" name="bottom"/>
+  <anchor x="322" y="-30" name="bottom.cap"/>
+  <anchor x="76" y="404" name="top"/>
+  <anchor x="380" y="675" name="top.cap"/>
+  <outline>
+    <component base="Alpha"/>
+    <component base="uni0345" xOffset="343"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

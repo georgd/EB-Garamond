@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilon1" format="2">
+  <advance width="732"/>
+  <unicode hex="03D2"/>
+  <note>
+Upsilon1
+</note>
+  <anchor x="298" y="-30" name="bottomgreek"/>
+  <anchor x="518" y="675" name="top.cap"/>
+  <anchor x="-31" y="400" name="topgreek"/>
+  <outline>
+    <component base="Upsilon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

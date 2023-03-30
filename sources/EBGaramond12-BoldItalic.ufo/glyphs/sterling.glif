@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling" format="2">
+  <advance width="649"/>
+  <unicode hex="00A3"/>
+  <note>
+sterling
+</note>
+  <outline>
+    <contour>
+      <point x="109" y="287" type="curve" smooth="yes"/>
+      <point x="479" y="312" type="line" smooth="yes"/>
+      <point x="500" y="313"/>
+      <point x="522" y="338"/>
+      <point x="522" y="348" type="curve" smooth="yes"/>
+      <point x="522" y="355"/>
+      <point x="514" y="366"/>
+      <point x="504" y="365" type="curve" smooth="yes"/>
+      <point x="122" y="340" type="line" smooth="yes"/>
+      <point x="104" y="339"/>
+      <point x="89" y="316"/>
+      <point x="89" y="304" type="curve" smooth="yes"/>
+      <point x="89" y="295"/>
+      <point x="99" y="286"/>
+    </contour>
+    <component base="L.script"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>L.script</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>L.script</string>
+    </dict>
+  </lib>
+</glyph>

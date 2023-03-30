@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2497" format="2">
+  <advance width="1081"/>
+  <unicode hex="2497"/>
+  <note>
+uni2497
+</note>
+  <outline>
+    <component base="one.osf"/>
+    <component base="six.osf" xOffset="338"/>
+    <component base="period" xOffset="801"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>one.osf</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>period</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01CB" format="2">
+  <advance width="1018"/>
+  <unicode hex="01CB"/>
+  <note>
+uni01CB
+</note>
+  <anchor x="415" y="-30" name="bottom.cap"/>
+  <anchor x="908" y="440" name="top"/>
+  <anchor x="406" y="675" name="top.cap"/>
+  <outline>
+    <component base="N"/>
+    <component base="j" xOffset="792"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>j</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

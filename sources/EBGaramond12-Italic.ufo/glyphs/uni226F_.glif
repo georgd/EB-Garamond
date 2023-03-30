@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni226F" format="2">
+  <advance width="590"/>
+  <unicode hex="226F"/>
+  <note>
+uni226F
+</note>
+  <outline>
+    <component base="greater"/>
+    <component base="uni2215" xOffset="131" yOffset="-70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>greater</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>greater</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0313.grkstack" format="2">
+  <note>
+uni0313.grkstack
+</note>
+  <outline>
+    <contour>
+      <point x="39" y="436" type="curve" smooth="yes"/>
+      <point x="110" y="436"/>
+      <point x="165" y="494"/>
+      <point x="165" y="545" type="curve" smooth="yes"/>
+      <point x="165" y="586"/>
+      <point x="137" y="608"/>
+      <point x="101" y="608" type="curve" smooth="yes"/>
+      <point x="74" y="608"/>
+      <point x="54" y="593"/>
+      <point x="54" y="570" type="curve" smooth="yes"/>
+      <point x="54" y="555"/>
+      <point x="65" y="548"/>
+      <point x="76" y="542" type="curve" smooth="yes"/>
+      <point x="87" y="536"/>
+      <point x="98" y="528"/>
+      <point x="98" y="511" type="curve" smooth="yes"/>
+      <point x="98" y="487"/>
+      <point x="79" y="473"/>
+      <point x="40" y="461" type="curve" smooth="yes"/>
+      <point x="30" y="458"/>
+      <point x="25" y="448"/>
+      <point x="25" y="445" type="curve" smooth="yes"/>
+      <point x="25" y="441"/>
+      <point x="30" y="436"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

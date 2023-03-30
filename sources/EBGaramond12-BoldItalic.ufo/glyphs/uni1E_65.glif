@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E65" format="2">
+  <advance width="326"/>
+  <unicode hex="1E65"/>
+  <note>
+uni1E65
+</note>
+  <anchor x="97" y="-30" name="bottom"/>
+  <anchor x="238" y="440" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="acutecomb.flat" xOffset="233" yOffset="-29"/>
+    <component base="dotaccent" xOffset="-34" yOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotaccent</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

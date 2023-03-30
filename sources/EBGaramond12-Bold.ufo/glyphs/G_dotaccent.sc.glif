@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdotaccent.sc" format="2">
+  <advance width="604"/>
+  <note>
+Gdotaccent.sc
+</note>
+  <anchor x="308" y="-30" name="bottom"/>
+  <anchor x="342" y="503" name="top"/>
+  <outline>
+    <component base="G.sc"/>
+    <component base="uni0307.sc" xOffset="342" yOffset="64"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

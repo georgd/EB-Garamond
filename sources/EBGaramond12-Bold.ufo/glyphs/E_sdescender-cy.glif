@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Esdescender-cy" format="2">
+  <advance width="709"/>
+  <unicode hex="04AA"/>
+  <anchor x="412" y="-30" name="bottom.cap"/>
+  <anchor x="405" y="675" name="top.cap"/>
+  <outline>
+    <component base="Ccedilla"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

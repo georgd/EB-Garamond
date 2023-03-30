@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresis.deu" format="2">
+  <advance width="700"/>
+  <note>
+Udieresis.deu
+</note>
+  <anchor x="368" y="-30" name="bottom.cap"/>
+  <anchor x="504" y="675" name="top.cap"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni0307.cap" xOffset="254" yOffset="-99"/>
+    <component base="uni0307.cap" xOffset="418" yOffset="-99"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0307.cap</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni0307.cap</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

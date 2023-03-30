@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F73" format="2">
+  <advance width="342"/>
+  <unicode hex="1F73"/>
+  <note>
+uni1F73
+</note>
+  <anchor x="252" y="440" name="topgreek"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="acutecomb.grk" xOffset="175"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

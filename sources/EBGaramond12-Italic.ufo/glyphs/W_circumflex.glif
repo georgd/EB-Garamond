@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wcircumflex" format="2">
+  <advance width="1067"/>
+  <unicode hex="0174"/>
+  <note>
+Wcircumflex
+</note>
+  <anchor x="426" y="-30" name="bottom.cap"/>
+  <anchor x="851" y="823" name="top.cap"/>
+  <outline>
+    <component base="W"/>
+    <component base="uni0302.cap" xOffset="552"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

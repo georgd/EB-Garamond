@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02D0" format="2">
+  <advance width="245"/>
+  <unicode hex="02D0"/>
+  <note>
+uni02D0
+</note>
+  <outline>
+    <component base="uni02D1" yScale="-1" yOffset="371"/>
+    <component base="uni02D1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>uni02D1</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>uni02D1</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresis.deu.01" format="2">
+  <advance width="746"/>
+  <note>
+Udieresis.deu
+</note>
+  <anchor x="387" y="-30" name="bottom.cap"/>
+  <outline>
+    <contour>
+      <point x="373" y="-14" type="curve" smooth="yes"/>
+      <point x="523" y="-14"/>
+      <point x="646" y="100"/>
+      <point x="646" y="265" type="curve" smooth="yes"/>
+      <point x="646" y="352"/>
+      <point x="647" y="433"/>
+      <point x="651" y="530" type="curve" smooth="yes"/>
+      <point x="653" y="580"/>
+      <point x="665" y="604"/>
+      <point x="712" y="618" type="curve" smooth="yes"/>
+      <point x="729" y="623"/>
+      <point x="738" y="630"/>
+      <point x="738" y="640" type="curve" smooth="yes"/>
+      <point x="738" y="652"/>
+      <point x="727" y="655"/>
+      <point x="713" y="655" type="curve" smooth="yes"/>
+      <point x="671" y="655"/>
+      <point x="657" y="651"/>
+      <point x="619" y="651" type="curve"/>
+      <point x="613" y="651"/>
+      <point x="607" y="651"/>
+      <point x="601" y="651" type="curve" smooth="yes"/>
+      <point x="585" y="651"/>
+      <point x="578" y="643"/>
+      <point x="577" y="625" type="curve" smooth="yes"/>
+      <point x="579" y="567"/>
+      <point x="577" y="350"/>
+      <point x="577" y="296" type="curve" smooth="yes"/>
+      <point x="577" y="151"/>
+      <point x="527" y="81"/>
+      <point x="410" y="81" type="curve" smooth="yes"/>
+      <point x="328" y="81"/>
+      <point x="258" y="140"/>
+      <point x="258" y="272" type="curve" smooth="yes"/>
+      <point x="258" y="622" type="line" smooth="yes"/>
+      <point x="258" y="641"/>
+      <point x="246" y="652"/>
+      <point x="229" y="652" type="curve" smooth="yes"/>
+      <point x="188" y="652"/>
+      <point x="210" y="650"/>
+      <point x="171" y="650" type="curve" smooth="yes"/>
+      <point x="131" y="650"/>
+      <point x="78" y="655"/>
+      <point x="34" y="655" type="curve" smooth="yes"/>
+      <point x="19" y="655"/>
+      <point x="8" y="649"/>
+      <point x="8" y="640" type="curve" smooth="yes"/>
+      <point x="8" y="630"/>
+      <point x="16" y="623"/>
+      <point x="35" y="618" type="curve" smooth="yes"/>
+      <point x="71" y="608"/>
+      <point x="87" y="570"/>
+      <point x="87" y="536" type="curve" smooth="yes"/>
+      <point x="87" y="256" type="line" smooth="yes"/>
+      <point x="87" y="94"/>
+      <point x="183" y="-14"/>
+    </contour>
+    <component base="uni0307.cap" xScale="0.784" yScale="0.784" xOffset="337" yOffset="45"/>
+    <component base="uni0307.cap" xScale="0.784" yScale="0.784" xOffset="496" yOffset="47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni0307.cap</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0307.cap</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA742" format="2">
+  <advance width="699"/>
+  <unicode hex="A742"/>
+  <note>
+uniA742
+</note>
+  <anchor x="321" y="-30" name="bottom.cap"/>
+  <anchor x="477" y="675" name="top.cap"/>
+  <outline>
+    <contour>
+      <point x="304" y="118" type="curve"/>
+      <point x="503" y="318" type="line" smooth="yes"/>
+      <point x="514" y="328"/>
+      <point x="514" y="341"/>
+      <point x="509" y="355" type="curve"/>
+      <point x="509" y="356"/>
+      <point x="509" y="357"/>
+      <point x="508" y="358" type="curve" smooth="yes"/>
+      <point x="504" y="362"/>
+      <point x="495" y="360"/>
+      <point x="490" y="356" type="curve"/>
+      <point x="285" y="151" type="line"/>
+      <point x="277" y="142"/>
+      <point x="275" y="127"/>
+      <point x="281" y="121" type="curve" smooth="yes"/>
+      <point x="285" y="117"/>
+      <point x="297" y="112"/>
+    </contour>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>K</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

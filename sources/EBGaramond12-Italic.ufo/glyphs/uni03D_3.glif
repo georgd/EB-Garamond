@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03D3" format="2">
+  <advance width="824"/>
+  <unicode hex="03D3"/>
+  <note>
+uni03D3
+</note>
+  <anchor x="410" y="-30" name="bottomgreek"/>
+  <anchor x="620" y="675" name="top.cap"/>
+  <anchor x="104" y="460" name="topgreek"/>
+  <outline>
+    <component base="Upsilontonos"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

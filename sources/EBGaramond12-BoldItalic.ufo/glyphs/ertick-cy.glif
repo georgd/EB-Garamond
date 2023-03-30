@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ertick-cy" format="2">
+  <advance width="548"/>
+  <unicode hex="048F"/>
+  <anchor x="399" y="440" name="top"/>
+  <outline>
+    <contour>
+      <point x="348" y="-103" type="curve" smooth="yes"/>
+      <point x="357" y="-100"/>
+      <point x="362" y="-92"/>
+      <point x="362" y="-81" type="curve"/>
+      <point x="313" y="139" type="line" smooth="yes"/>
+      <point x="308" y="162"/>
+      <point x="291" y="176"/>
+      <point x="277" y="174" type="curve" smooth="yes"/>
+      <point x="261" y="172"/>
+      <point x="255" y="160"/>
+      <point x="258" y="145" type="curve" smooth="yes"/>
+      <point x="306" y="-73" type="line"/>
+      <point x="310" y="-91"/>
+      <point x="334" y="-108"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>p</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

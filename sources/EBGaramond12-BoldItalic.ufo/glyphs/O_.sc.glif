@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O.sc" format="2">
+  <advance width="601"/>
+  <note>
+O.sc
+</note>
+  <anchor x="389" y="503" name="top"/>
+  <outline>
+    <contour>
+      <point x="260" y="-14" type="curve" smooth="yes"/>
+      <point x="448" y="-14"/>
+      <point x="587" y="126"/>
+      <point x="568" y="279" type="curve" smooth="yes"/>
+      <point x="555" y="385"/>
+      <point x="459" y="457"/>
+      <point x="349" y="457" type="curve" smooth="yes"/>
+      <point x="160" y="457"/>
+      <point x="23" y="317"/>
+      <point x="41" y="164" type="curve" smooth="yes"/>
+      <point x="54" y="58"/>
+      <point x="150" y="-14"/>
+    </contour>
+    <contour>
+      <point x="258" y="17" type="curve" smooth="yes"/>
+      <point x="214" y="17"/>
+      <point x="190" y="63"/>
+      <point x="184" y="120" type="curve" smooth="yes"/>
+      <point x="172" y="229"/>
+      <point x="252" y="429"/>
+      <point x="349" y="429" type="curve" smooth="yes"/>
+      <point x="393" y="429"/>
+      <point x="419" y="380"/>
+      <point x="426" y="322" type="curve" smooth="yes"/>
+      <point x="437" y="214"/>
+      <point x="356" y="17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

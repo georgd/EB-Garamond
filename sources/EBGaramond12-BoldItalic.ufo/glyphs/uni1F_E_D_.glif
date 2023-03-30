@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FED" format="2">
+  <advance width="367"/>
+  <unicode hex="1FED"/>
+  <note>
+uni1FED
+</note>
+  <anchor x="261" y="419" name="_top"/>
+  <outline>
+    <component base="dieresis" xOffset="-57"/>
+    <component base="grave" xScale="0.966" xyScale="-0.259" yxScale="0.259" yScale="0.966" xOffset="-115" yOffset="242"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D2D" format="2">
+  <advance width="560"/>
+  <unicode hex="1D2D"/>
+  <note>
+uni1D2D
+</note>
+  <outline>
+    <contour>
+      <point x="57" y="278" type="curve" smooth="yes"/>
+      <point x="75" y="278"/>
+      <point x="107" y="281"/>
+      <point x="132" y="281" type="curve" smooth="yes"/>
+      <point x="152" y="281"/>
+      <point x="170" y="280"/>
+      <point x="180" y="280" type="curve" smooth="yes"/>
+      <point x="190" y="280"/>
+      <point x="197" y="283"/>
+      <point x="197" y="288" type="curve" smooth="yes"/>
+      <point x="197" y="295"/>
+      <point x="191" y="299"/>
+      <point x="183" y="302" type="curve" smooth="yes"/>
+      <point x="168" y="308"/>
+      <point x="152" y="312"/>
+      <point x="178" y="342" type="curve" smooth="yes"/>
+      <point x="250" y="424" type="line" smooth="yes"/>
+      <point x="258" y="433"/>
+      <point x="264" y="434"/>
+      <point x="276" y="434" type="curve" smooth="yes"/>
+      <point x="322" y="435" type="line" smooth="yes"/>
+      <point x="333" y="435"/>
+      <point x="342" y="431"/>
+      <point x="339" y="420" type="curve"/>
+      <point x="355" y="472" type="line" smooth="yes"/>
+      <point x="351" y="460"/>
+      <point x="342" y="456"/>
+      <point x="334" y="456" type="curve" smooth="yes"/>
+      <point x="292" y="455" type="line" smooth="yes"/>
+      <point x="270" y="454"/>
+      <point x="274" y="460"/>
+      <point x="280" y="468" type="curve" smooth="yes"/>
+      <point x="414" y="637" type="line"/>
+      <point x="398" y="650" type="line"/>
+      <point x="141" y="345" type="line"/>
+      <point x="121" y="323"/>
+      <point x="96" y="306"/>
+      <point x="63" y="299" type="curve" smooth="yes"/>
+      <point x="49" y="296"/>
+      <point x="41" y="291"/>
+      <point x="42" y="285" type="curve" smooth="yes"/>
+      <point x="43" y="280"/>
+      <point x="47" y="278"/>
+    </contour>
+    <component base="E.ordn" xOffset="174"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E.ordn</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>uni1D2C</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>uni1D31</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

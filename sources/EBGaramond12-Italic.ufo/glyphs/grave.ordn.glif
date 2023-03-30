@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.ordn" format="2">
+  <advance width="200"/>
+  <note>
+grave.ordn
+</note>
+  <outline>
+    <contour>
+      <point x="264" y="547" type="curve" smooth="yes"/>
+      <point x="267" y="546"/>
+      <point x="271" y="550"/>
+      <point x="272" y="552" type="curve" smooth="yes"/>
+      <point x="273" y="555"/>
+      <point x="272" y="559"/>
+      <point x="271" y="564" type="curve" smooth="yes"/>
+      <point x="264" y="597"/>
+      <point x="247" y="629"/>
+      <point x="235" y="661" type="curve" smooth="yes"/>
+      <point x="232" y="669"/>
+      <point x="225" y="672"/>
+      <point x="218" y="674" type="curve" smooth="yes"/>
+      <point x="208" y="677"/>
+      <point x="184" y="675"/>
+      <point x="181" y="666" type="curve" smooth="yes"/>
+      <point x="179" y="660"/>
+      <point x="181" y="655"/>
+      <point x="186" y="649" type="curve" smooth="yes"/>
+      <point x="210" y="620"/>
+      <point x="230" y="584"/>
+      <point x="253" y="556" type="curve" smooth="yes"/>
+      <point x="258" y="550"/>
+      <point x="261" y="548"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

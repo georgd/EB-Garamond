@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccaron.sc" format="2">
+  <advance width="550"/>
+  <note>
+Ccaron.sc
+</note>
+  <anchor x="334" y="503" name="top"/>
+  <outline>
+    <component base="C.sc"/>
+    <component base="uni030C.sc" xOffset="334" yOffset="84"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

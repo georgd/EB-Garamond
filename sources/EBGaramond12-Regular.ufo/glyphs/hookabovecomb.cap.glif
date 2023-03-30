@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb.cap" format="2">
+  <note>
+hookabovecomb.cap
+</note>
+  <anchor x="0" y="675" name="_top.cap"/>
+  <outline>
+    <contour>
+      <point x="6" y="701" type="curve" smooth="yes"/>
+      <point x="16" y="701"/>
+      <point x="29" y="703"/>
+      <point x="24" y="712" type="curve" smooth="yes"/>
+      <point x="21" y="718"/>
+      <point x="19" y="723"/>
+      <point x="19" y="727" type="curve" smooth="yes"/>
+      <point x="19" y="737"/>
+      <point x="35" y="743"/>
+      <point x="51" y="750" type="curve" smooth="yes"/>
+      <point x="69" y="759"/>
+      <point x="87" y="769"/>
+      <point x="87" y="789" type="curve" smooth="yes"/>
+      <point x="87" y="827"/>
+      <point x="51" y="849"/>
+      <point x="9" y="849" type="curve" smooth="yes"/>
+      <point x="-29" y="849"/>
+      <point x="-52" y="837"/>
+      <point x="-72" y="826" type="curve" smooth="yes"/>
+      <point x="-78" y="823"/>
+      <point x="-85" y="811"/>
+      <point x="-85" y="802" type="curve" smooth="yes"/>
+      <point x="-85" y="792"/>
+      <point x="-70" y="768"/>
+      <point x="-62" y="768" type="curve" smooth="yes"/>
+      <point x="-56" y="768"/>
+      <point x="-50" y="774"/>
+      <point x="-47" y="780" type="curve" smooth="yes"/>
+      <point x="-34" y="806"/>
+      <point x="-18" y="822"/>
+      <point x="1" y="822" type="curve" smooth="yes"/>
+      <point x="13" y="822"/>
+      <point x="26" y="813"/>
+      <point x="26" y="800" type="curve" smooth="yes"/>
+      <point x="26" y="779"/>
+      <point x="15" y="774"/>
+      <point x="1" y="767" type="curve" smooth="yes"/>
+      <point x="-21" y="756"/>
+      <point x="-22" y="748"/>
+      <point x="-22" y="736" type="curve" smooth="yes"/>
+      <point x="-22" y="722"/>
+      <point x="-7" y="701"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

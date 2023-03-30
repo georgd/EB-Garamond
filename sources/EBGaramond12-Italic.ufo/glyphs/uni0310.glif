@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0310" format="2">
+  <unicode hex="0310"/>
+  <note>
+uni0310
+</note>
+  <outline>
+    <contour>
+      <point x="95" y="461" type="curve" smooth="yes"/>
+      <point x="177" y="461"/>
+      <point x="240" y="536"/>
+      <point x="240" y="552" type="curve" smooth="yes"/>
+      <point x="240" y="560"/>
+      <point x="236" y="564"/>
+      <point x="230" y="564" type="curve" smooth="yes"/>
+      <point x="226" y="564"/>
+      <point x="220" y="561"/>
+      <point x="213" y="556" type="curve" smooth="yes"/>
+      <point x="186" y="535"/>
+      <point x="141" y="509"/>
+      <point x="105" y="509" type="curve" smooth="yes"/>
+      <point x="76" y="509"/>
+      <point x="49" y="524"/>
+      <point x="38" y="544" type="curve" smooth="yes"/>
+      <point x="29" y="560"/>
+      <point x="15" y="567"/>
+      <point x="3" y="567" type="curve" smooth="yes"/>
+      <point x="-13" y="567"/>
+      <point x="-26" y="555"/>
+      <point x="-26" y="533" type="curve" smooth="yes"/>
+      <point x="-26" y="501"/>
+      <point x="11" y="461"/>
+    </contour>
+    <component base="dotaccent" xScale="0.915" yScale="0.915" xOffset="-55" yOffset="87"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

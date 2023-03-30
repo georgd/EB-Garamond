@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="egrave.ordn" format="2">
+  <advance width="347"/>
+  <note>
+egrave.ordn
+</note>
+  <outline>
+    <contour>
+      <point x="307" y="614" type="curve" smooth="yes"/>
+      <point x="312" y="614"/>
+      <point x="321" y="617"/>
+      <point x="321" y="625" type="curve" smooth="yes"/>
+      <point x="321" y="628"/>
+      <point x="320" y="633"/>
+      <point x="316" y="643" type="curve" smooth="yes"/>
+      <point x="302" y="679"/>
+      <point x="291" y="715"/>
+      <point x="275" y="756" type="curve" smooth="yes"/>
+      <point x="271" y="767"/>
+      <point x="260" y="774"/>
+      <point x="240" y="774" type="curve" smooth="yes"/>
+      <point x="214" y="774"/>
+      <point x="181" y="762"/>
+      <point x="181" y="751" type="curve" smooth="yes"/>
+      <point x="181" y="745"/>
+      <point x="184" y="738"/>
+      <point x="192" y="730" type="curve" smooth="yes"/>
+      <point x="220" y="693"/>
+      <point x="257" y="662"/>
+      <point x="287" y="628" type="curve" smooth="yes"/>
+      <point x="293" y="621"/>
+      <point x="302" y="614"/>
+    </contour>
+    <component base="e.ordn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegatonos.sc" format="2">
+  <advance width="660"/>
+  <note>
+Omegatonos.sc
+</note>
+  <anchor x="324" y="503" name="top"/>
+  <outline>
+    <component base="omega.sc"/>
+    <component base="tonos" xOffset="246" yOffset="63"/>
+  </outline>
+</glyph>

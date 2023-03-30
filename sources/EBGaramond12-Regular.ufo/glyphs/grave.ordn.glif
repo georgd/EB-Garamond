@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.ordn" format="2">
+  <advance width="200"/>
+  <note>
+grave.ordn
+</note>
+  <outline>
+    <contour>
+      <point x="136" y="571" type="curve" smooth="yes"/>
+      <point x="144" y="571"/>
+      <point x="147" y="576"/>
+      <point x="147" y="584" type="curve" smooth="yes"/>
+      <point x="147" y="593"/>
+      <point x="129" y="655"/>
+      <point x="116" y="676" type="curve" smooth="yes"/>
+      <point x="109" y="687"/>
+      <point x="99" y="693"/>
+      <point x="78" y="693" type="curve" smooth="yes"/>
+      <point x="58" y="693"/>
+      <point x="54" y="682"/>
+      <point x="54" y="674" type="curve" smooth="yes"/>
+      <point x="54" y="662"/>
+      <point x="113" y="591"/>
+      <point x="118" y="584" type="curve" smooth="yes"/>
+      <point x="121" y="580"/>
+      <point x="131" y="571"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

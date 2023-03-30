@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FBA" format="2">
+  <advance width="658"/>
+  <unicode hex="1FBA"/>
+  <note>
+uni1FBA
+</note>
+  <anchor x="256" y="-30" name="bottom.cap"/>
+  <anchor x="275" y="-30" name="bottomgreek"/>
+  <anchor x="598" y="675" name="top.cap"/>
+  <anchor x="244" y="470" name="topgreek"/>
+  <outline>
+    <component base="Alpha"/>
+    <component base="gravecomb.grk" xOffset="128" yOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>gravecomb.grk</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

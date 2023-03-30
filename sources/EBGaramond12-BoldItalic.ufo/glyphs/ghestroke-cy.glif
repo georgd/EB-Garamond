@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy" format="2">
+  <advance width="423"/>
+  <unicode hex="0493"/>
+  <anchor x="255" y="440" name="top"/>
+  <outline>
+    <contour>
+      <point x="42" y="165" type="curve" smooth="yes"/>
+      <point x="345" y="165" type="line" smooth="yes"/>
+      <point x="367" y="165"/>
+      <point x="388" y="190"/>
+      <point x="388" y="208" type="curve" smooth="yes"/>
+      <point x="388" y="218"/>
+      <point x="378" y="227"/>
+      <point x="365" y="227" type="curve" smooth="yes"/>
+      <point x="53" y="227" type="line" smooth="yes"/>
+      <point x="36" y="227"/>
+      <point x="20" y="204"/>
+      <point x="20" y="186" type="curve" smooth="yes"/>
+      <point x="20" y="174"/>
+      <point x="27" y="165"/>
+    </contour>
+    <component base="uni0433" xOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2225" format="2">
+  <advance width="380"/>
+  <unicode hex="2225"/>
+  <note>
+uni2225
+</note>
+  <outline>
+    <component base="uni2223"/>
+    <component base="uni2223" xOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>uni2223</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>uni2223</string>
+    </dict>
+  </lib>
+</glyph>

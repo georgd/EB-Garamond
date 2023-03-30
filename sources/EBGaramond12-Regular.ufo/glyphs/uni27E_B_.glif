@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni27EB" format="2">
+  <advance width="490"/>
+  <unicode hex="27EB"/>
+  <note>
+uni27EB
+</note>
+  <outline>
+    <component base="uni300A" xScale="-1" yScale="-1" xOffset="490" yOffset="491"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>angleright</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>angleright</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

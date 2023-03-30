@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="289"/>
+  <unicode hex="003A"/>
+  <note>
+colon
+</note>
+  <outline>
+    <component base="period" xOffset="10" yOffset="276"/>
+    <component base="period" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

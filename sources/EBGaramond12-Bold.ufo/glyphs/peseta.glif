@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="681"/>
+  <unicode hex="20A7"/>
+  <anchor x="192" y="-30" name="bottom.cap"/>
+  <anchor x="328" y="675" name="top.cap"/>
+  <outline>
+    <contour>
+      <point x="25" y="426" type="curve" smooth="yes"/>
+      <point x="632" y="429" type="line"/>
+      <point x="653" y="430"/>
+      <point x="675" y="453"/>
+      <point x="676" y="463" type="curve"/>
+      <point x="676" y="470"/>
+      <point x="668" y="481"/>
+      <point x="658" y="481" type="curve"/>
+      <point x="39" y="479" type="line"/>
+      <point x="21" y="478"/>
+      <point x="6" y="456"/>
+      <point x="5" y="444" type="curve"/>
+      <point x="5" y="435"/>
+      <point x="15" y="426"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

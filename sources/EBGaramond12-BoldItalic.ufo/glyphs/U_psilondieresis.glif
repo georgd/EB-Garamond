@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilondieresis" format="2">
+  <advance width="732"/>
+  <unicode hex="03AB"/>
+  <note>
+Upsilondieresis
+</note>
+  <anchor x="298" y="-30" name="bottomgreek"/>
+  <anchor x="561" y="828" name="top.cap"/>
+  <anchor x="-31" y="400" name="topgreek"/>
+  <outline>
+    <component base="Upsilon"/>
+    <component base="uni0308.cap" xOffset="376"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

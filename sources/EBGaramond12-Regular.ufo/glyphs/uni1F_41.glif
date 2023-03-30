@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F41" format="2">
+  <advance width="400"/>
+  <unicode hex="1F41"/>
+  <note>
+uni1F41
+</note>
+  <anchor x="217" y="440" name="top"/>
+  <outline>
+    <component base="omicron"/>
+    <component base="uni1FFE" xOffset="109"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

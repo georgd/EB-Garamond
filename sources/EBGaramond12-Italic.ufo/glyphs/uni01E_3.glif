@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01E3" format="2">
+  <advance width="521"/>
+  <unicode hex="01E3"/>
+  <note>
+uni01E3
+</note>
+  <anchor x="358" y="440" name="top"/>
+  <outline>
+    <component base="ae"/>
+    <component base="macron" xOffset="128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

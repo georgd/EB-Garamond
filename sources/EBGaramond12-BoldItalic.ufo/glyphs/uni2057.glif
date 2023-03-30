@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2057" format="2">
+  <advance width="558"/>
+  <unicode hex="2057"/>
+  <note>
+uni2057
+</note>
+  <outline>
+    <component base="minute"/>
+    <component base="minute" xOffset="138"/>
+    <component base="minute" xOffset="276"/>
+    <component base="minute" xOffset="414"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>minute</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>minute</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

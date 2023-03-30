@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni019C" format="2">
+  <outline>
+    <contour>
+      <point x="478" y="280" type="move"/>
+      <point x="419" y="88"/>
+      <point x="471" y="-13"/>
+      <point x="591" y="-13" type="curve" smooth="yes"/>
+      <point x="675" y="-13"/>
+      <point x="745" y="26"/>
+      <point x="794" y="87" type="curve" smooth="yes"/>
+      <point x="798" y="92"/>
+      <point x="805" y="95"/>
+      <point x="809" y="95" type="curve" smooth="yes"/>
+      <point x="813" y="95"/>
+      <point x="818" y="92"/>
+      <point x="820" y="87" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="876" y="371" type="move"/>
+      <point x="819" y="190"/>
+      <point x="743" y="85"/>
+      <point x="686" y="85" type="curve" smooth="yes"/>
+      <point x="610" y="85"/>
+      <point x="616" y="174"/>
+      <point x="641" y="255" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

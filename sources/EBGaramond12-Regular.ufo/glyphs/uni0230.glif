@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0230" format="2">
+  <advance width="763"/>
+  <unicode hex="0230"/>
+  <note>
+uni0230
+</note>
+  <anchor x="372" y="-30" name="bottom.cap"/>
+  <anchor x="391" y="675" name="top.cap"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0307.cap" xOffset="391"/>
+    <component base="uni0304.cap" xOffset="390" yOffset="119"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni0304.cap</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

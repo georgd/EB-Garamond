@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2A74" format="2">
+  <advance width="1151"/>
+  <unicode hex="2A74"/>
+  <note>
+uni2A74
+</note>
+  <outline>
+    <component base="equal" xOffset="508"/>
+    <component base="colon" xOffset="253" yOffset="77"/>
+    <component base="colon" xOffset="24" yOffset="77"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>colon</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>equal</string>
+    </dict>
+  </lib>
+</glyph>

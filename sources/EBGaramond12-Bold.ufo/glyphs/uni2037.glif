@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2037" format="2">
+  <advance width="466"/>
+  <unicode hex="2037"/>
+  <note>
+uni2037
+</note>
+  <outline>
+    <component base="uni2035"/>
+    <component base="uni2035" xOffset="138"/>
+    <component base="uni2035" xOffset="276"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>uni2035</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>uni2035</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

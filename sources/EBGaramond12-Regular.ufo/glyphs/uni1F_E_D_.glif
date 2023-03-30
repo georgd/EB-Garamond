@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FED" format="2">
+  <advance width="300"/>
+  <unicode hex="1FED"/>
+  <note>
+uni1FED
+</note>
+  <guideline x="45" y="440" angle="0"/>
+  <anchor x="152" y="440" name="_top"/>
+  <outline>
+    <component base="uni0308.grkstacksc" xOffset="151" yOffset="19"/>
+    <component base="gravecomb.grksc" xOffset="123" yOffset="47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

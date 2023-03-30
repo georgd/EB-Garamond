@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="800" default="400">
+      <map input="400" output="0"/>
+      <map input="500" output="29"/>
+      <map input="600" output="55"/>
+      <map input="700" output="82"/>
+      <map input="800" output="100"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="EBGaramond12-Italic.ufo" name="EB Garamond 12 Italic" familyname="EB Garamond 12" stylename="Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="EBGaramond12-BoldItalic.ufo" name="EB Garamond 12 Bold Italic" familyname="EB Garamond 12" stylename="Bold Italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="EB Garamond 12 Italic" familyname="EB Garamond 12" stylename="Italic" filename="instance_ufos/EBGaramond12-Italic.ufo">
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <integer>0</integer>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>AF3431CD-2B38-495F-BE2A-536EC1708E47</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="EB Garamond 12 Medium Italic" familyname="EB Garamond 12" stylename="Medium Italic" filename="instance_ufos/EBGaramond12-MediumItalic.ufo" stylemapfamilyname="EB Garamond 12 Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="29"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <integer>0</integer>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>AF3431CD-2B38-495F-BE2A-536EC1708E47</key>
+            <real>0.71</real>
+            <key>CC5123BC-A5CE-40A4-A652-290389CE47A0</key>
+            <real>0.29</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="EB Garamond 12 SemiBold Italic" familyname="EB Garamond 12" stylename="SemiBold Italic" filename="instance_ufos/EBGaramond12-SemiBoldItalic.ufo" stylemapfamilyname="EB Garamond 12 SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="55"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <integer>0</integer>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>AF3431CD-2B38-495F-BE2A-536EC1708E47</key>
+            <real>0.45</real>
+            <key>CC5123BC-A5CE-40A4-A652-290389CE47A0</key>
+            <real>0.55</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="EB Garamond 12 Bold Italic" familyname="EB Garamond 12" stylename="Bold Italic" filename="instance_ufos/EBGaramond12-BoldItalic.ufo">
+      <location>
+        <dimension name="Weight" xvalue="82"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <integer>0</integer>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>AF3431CD-2B38-495F-BE2A-536EC1708E47</key>
+            <real>0.18</real>
+            <key>CC5123BC-A5CE-40A4-A652-290389CE47A0</key>
+            <real>0.82</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="EB Garamond 12 ExtraBold Italic" familyname="EB Garamond 12" stylename="ExtraBold Italic" filename="instance_ufos/EBGaramond12-ExtraBoldItalic.ufo" stylemapfamilyname="EB Garamond 12 ExtraBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <integer>0</integer>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>CC5123BC-A5CE-40A4-A652-290389CE47A0</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="EB Garamond Italic" familyname="EB Garamond" stylename="Italic" filename="instance_ufos/EBGaramond-Italic.ufo">
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>AF3431CD-2B38-495F-BE2A-536EC1708E47</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="EB Garamond Medium Italic" familyname="EB Garamond" stylename="Medium Italic" filename="instance_ufos/EBGaramond-MediumItalic.ufo" stylemapfamilyname="EB Garamond Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="29"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>AF3431CD-2B38-495F-BE2A-536EC1708E47</key>
+            <real>0.71</real>
+            <key>CC5123BC-A5CE-40A4-A652-290389CE47A0</key>
+            <real>0.29</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="EB Garamond SemiBold Italic" familyname="EB Garamond" stylename="SemiBold Italic" filename="instance_ufos/EBGaramond-SemiBoldItalic.ufo" stylemapfamilyname="EB Garamond SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="55"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>AF3431CD-2B38-495F-BE2A-536EC1708E47</key>
+            <real>0.45</real>
+            <key>CC5123BC-A5CE-40A4-A652-290389CE47A0</key>
+            <real>0.55</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="EB Garamond Bold Italic" familyname="EB Garamond" stylename="Bold Italic" filename="instance_ufos/EBGaramond-BoldItalic.ufo">
+      <location>
+        <dimension name="Weight" xvalue="82"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>AF3431CD-2B38-495F-BE2A-536EC1708E47</key>
+            <real>0.18</real>
+            <key>CC5123BC-A5CE-40A4-A652-290389CE47A0</key>
+            <real>0.82</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="EB Garamond ExtraBold Italic" familyname="EB Garamond" stylename="ExtraBold Italic" filename="instance_ufos/EBGaramond-ExtraBoldItalic.ufo" stylemapfamilyname="EB Garamond ExtraBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>CC5123BC-A5CE-40A4-A652-290389CE47A0</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>AF3431CD-2B38-495F-BE2A-536EC1708E47</key>
+        <dict>
+          <key>HH</key>
+          <integer>38</integer>
+          <key>HV</key>
+          <integer>80</integer>
+          <key>OH</key>
+          <integer>33</integer>
+          <key>OV</key>
+          <string>84</string>
+          <key>nV</key>
+          <integer>70</integer>
+          <key>nd</key>
+          <integer>30</integer>
+          <key>oH</key>
+          <integer>30</integer>
+          <key>oV</key>
+          <integer>82</integer>
+          <key>tH</key>
+          <integer>48</integer>
+        </dict>
+        <key>CC5123BC-A5CE-40A4-A652-290389CE47A0</key>
+        <dict>
+          <key>HH</key>
+          <integer>48</integer>
+          <key>HV</key>
+          <integer>170</integer>
+          <key>OH</key>
+          <integer>57</integer>
+          <key>OV</key>
+          <integer>182</integer>
+          <key>nV</key>
+          <integer>145</integer>
+          <key>nd</key>
+          <integer>55</integer>
+          <key>oH</key>
+          <integer>40</integer>
+          <key>oV</key>
+          <integer>155</integer>
+          <key>tH</key>
+          <integer>52</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

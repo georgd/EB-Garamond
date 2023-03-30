@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E53" format="2">
+  <advance width="505"/>
+  <unicode hex="1E53"/>
+  <note>
+uni1E53
+</note>
+  <anchor x="250" y="-30" name="bottom"/>
+  <anchor x="259" y="440" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="macron" xOffset="84" yOffset="-10"/>
+    <component base="acutecomb.stack" xOffset="293" yOffset="159"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>macron</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

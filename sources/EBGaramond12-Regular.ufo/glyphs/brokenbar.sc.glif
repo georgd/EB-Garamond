@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar.sc" format="2">
+  <advance width="260"/>
+  <note>
+brokenbar.sc
+</note>
+  <outline>
+    <contour>
+      <point x="112" y="-127" type="curve" smooth="yes"/>
+      <point x="121" y="-127"/>
+      <point x="160" y="-124"/>
+      <point x="160" y="-103" type="curve" smooth="yes"/>
+      <point x="160" y="172" type="line" smooth="yes"/>
+      <point x="160" y="182"/>
+      <point x="153" y="194"/>
+      <point x="146" y="194" type="curve" smooth="yes"/>
+      <point x="140" y="194"/>
+      <point x="100" y="181"/>
+      <point x="100" y="171" type="curve" smooth="yes"/>
+      <point x="100" y="-113" type="line" smooth="yes"/>
+      <point x="100" y="-120"/>
+      <point x="106" y="-127"/>
+    </contour>
+    <contour>
+      <point x="112" y="261" type="curve" smooth="yes"/>
+      <point x="121" y="261"/>
+      <point x="160" y="272"/>
+      <point x="160" y="282" type="curve" smooth="yes"/>
+      <point x="160" y="536" type="line" smooth="yes"/>
+      <point x="160" y="543"/>
+      <point x="153" y="549"/>
+      <point x="146" y="549" type="curve" smooth="yes"/>
+      <point x="140" y="549"/>
+      <point x="100" y="540"/>
+      <point x="100" y="518" type="curve" smooth="yes"/>
+      <point x="100" y="284" type="line" smooth="yes"/>
+      <point x="100" y="274"/>
+      <point x="106" y="261"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>brokenbar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>brokenbar</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

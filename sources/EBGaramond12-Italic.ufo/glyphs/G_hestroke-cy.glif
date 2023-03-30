@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghestroke-cy" format="2">
+  <advance width="519"/>
+  <unicode hex="0492"/>
+  <anchor x="441" y="675" name="top.cap"/>
+  <outline>
+    <contour>
+      <point x="105" y="298" type="curve"/>
+      <point x="420" y="298" type="line"/>
+      <point x="435" y="298"/>
+      <point x="447" y="307"/>
+      <point x="458" y="320" type="curve"/>
+      <point x="459" y="321"/>
+      <point x="460" y="322"/>
+      <point x="460" y="323" type="curve" smooth="yes"/>
+      <point x="460" y="329"/>
+      <point x="456" y="334"/>
+      <point x="450" y="334" type="curve"/>
+      <point x="127" y="334" type="line"/>
+      <point x="115" y="334"/>
+      <point x="100" y="325"/>
+      <point x="97" y="316" type="curve" smooth="yes"/>
+      <point x="95" y="310"/>
+      <point x="96" y="298"/>
+    </contour>
+    <component base="uni0413"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>uni0413</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>uni0413</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

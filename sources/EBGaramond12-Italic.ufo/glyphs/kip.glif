@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="699"/>
+  <unicode hex="20AD"/>
+  <anchor x="321" y="-30" name="bottom.cap"/>
+  <anchor x="477" y="675" name="top.cap"/>
+  <outline>
+    <contour>
+      <point x="104" y="316" type="curve" smooth="yes"/>
+      <point x="684" y="323" type="line" smooth="yes"/>
+      <point x="701" y="323"/>
+      <point x="709" y="337"/>
+      <point x="715" y="353" type="curve"/>
+      <point x="718" y="360"/>
+      <point x="709" y="367"/>
+      <point x="702" y="367" type="curve" smooth="yes"/>
+      <point x="114" y="354" type="line" smooth="yes"/>
+      <point x="100" y="354"/>
+      <point x="90" y="337"/>
+      <point x="90" y="328" type="curve" smooth="yes"/>
+      <point x="90" y="322"/>
+      <point x="97" y="316"/>
+    </contour>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>K</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>K</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

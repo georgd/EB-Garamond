@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="510"/>
+  <unicode hex="04FF"/>
+  <anchor x="347" y="440" name="top"/>
+  <outline>
+    <contour>
+      <point x="72" y="184" type="curve" smooth="yes"/>
+      <point x="404" y="184" type="line" smooth="yes"/>
+      <point x="426" y="184"/>
+      <point x="455" y="209"/>
+      <point x="460" y="227" type="curve" smooth="yes"/>
+      <point x="463" y="237"/>
+      <point x="457" y="246"/>
+      <point x="444" y="246" type="curve" smooth="yes"/>
+      <point x="103" y="246" type="line" smooth="yes"/>
+      <point x="86" y="246"/>
+      <point x="62" y="223"/>
+      <point x="56" y="205" type="curve" smooth="yes"/>
+      <point x="52" y="193"/>
+      <point x="57" y="184"/>
+    </contour>
+    <component base="x"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>x</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
