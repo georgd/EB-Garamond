@@ -1,13 +1,19 @@
 StartChar: uni0430
-Encoding: 1072 1072 668
-Width: 451
+Encoding: 1978 1072 1977
+GlifName: uni0430
+Width: 491
 VWidth: 0
-Flags: MW
-AnchorPoint: "ogonek" 369 18 basechar 0
-AnchorPoint: "below_accent" 148 -100 basechar 0
-AnchorPoint: "top_accent" 370 550 basechar 0
+Flags: W
+AnchorPoint: "bottom" 167 -30 basechar 0
+AnchorPoint: "top" 335 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 0 97 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 496 97 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0430+AAoA"
 EndChar

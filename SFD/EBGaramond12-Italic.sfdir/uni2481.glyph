@@ -1,13 +1,20 @@
 StartChar: uni2481
-Encoding: 9345 9345 900
-Width: 1403
+Encoding: 2796 9345 2795
+GlifName: uni2481
+Width: 1376
 VWidth: 0
-Flags: M
+Flags: W
 LayerCount: 2
 Fore
-Refer: 109 41 N 1 0 0 1 1111 0 2
-Refer: 79 52 N 1 0 0 1 629 0 2
-Refer: 50 49 N 1 0 0 1 291 0 2
-Refer: 108 40 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1201 40 N 1 0 0 1 0 0 2
+Refer: 1164 -1 N 1 0 0 1 308 0 2
+Refer: 863 -1 N 1 0 0 1 606 0 2
+Refer: 1207 41 N 1 0 0 1 1067 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2481+AAoA"
 EndChar

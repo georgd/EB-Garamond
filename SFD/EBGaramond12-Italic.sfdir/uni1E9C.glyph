@@ -1,7 +1,31 @@
 StartChar: uni1E9C
-Encoding: 7836 7836 2490
-Width: 1000
+Encoding: 2299 7836 2298
+GlifName: uni1E_9C_
+Width: 311
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+84 297 m 258
+ 177 340 l 257
+ 193 343 l 257
+ 278 383 l 258
+ 288 388 297 395 297 402 c 256
+ 297 417 293 423 287 423 c 256
+ 285 423 282 422 280 421 c 258
+ 185 377 l 257
+ 169 374 l 257
+ 78 331 l 257
+ 73 329 65 323 64 314 c 256
+ 63 306 75 293 84 297 c 258
+EndSplineSet
+Refer: 1053 383 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E9C+AAoA"
 EndChar

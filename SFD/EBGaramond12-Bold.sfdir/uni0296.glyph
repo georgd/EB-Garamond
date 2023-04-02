@@ -1,0 +1,44 @@
+StartChar: uni0296
+Encoding: 1847 662 1846
+GlifName: uni0296
+Width: 493
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+221 -14 m 256
+ 364 -14 463 65 463 180 c 256
+ 463 247 422 285 382 323 c 256
+ 341 361 300 399 300 464 c 258
+ 299 638 l 257
+ 300 657 304 682 304 692 c 256
+ 304 698 302 705 293 705 c 256
+ 289 705 285 704 279 702 c 256
+ 248 691 166 659 116 649 c 256
+ 110 648 106 643 106 634 c 256
+ 106 624 110 619 117 618 c 256
+ 150 611 155 582 155 546 c 257
+ 155 449 l 258
+ 155 353 197 315 238 281 c 256
+ 274 250 309 222 309 154 c 256
+ 309 94 268 50 209 50 c 256
+ 175 50 150 68 108 128 c 256
+ 102 137 88 146 77 146 c 256
+ 64 146 15 116 15 88 c 256
+ 15 80 18 74 23 66 c 257
+ 72 4 151 -14 221 -14 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|uni0295
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|uni0295
+p4
+s."
+Comment: "+AAoA-uni0296+AAoA"
+EndChar

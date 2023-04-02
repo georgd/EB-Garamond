@@ -1,12 +1,76 @@
 StartChar: ij
-Encoding: 307 307 580
-Width: 427
+Encoding: 985 307 984
+GlifName: ij
+Width: 533
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 88 -30 basechar 0
+AnchorPoint: "top_1" 220 440 basechar 0
+AnchorPoint: "top_2" 474 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+494 613 m 256
+ 462 613 438 584 438 552 c 256
+ 438 532 453 513 473 513 c 256
+ 503 513 528 540 528 570 c 256
+ 528 591 515 613 494 613 c 256
+374 270 m 258
+ 252 -144 l 258
+ 235 -202 212 -242 176 -242 c 256
+ 131 -242 123 -201 99 -201 c 256
+ 85 -201 63 -232 63 -245 c 256
+ 63 -264 90 -283 137 -283 c 256
+ 208 -283 301 -205 332 -102 c 258
+ 473 370 l 258
+ 478 387 483 400 483 414 c 256
+ 483 425 470 421 464 418 c 257
+ 403 384 367 362 301 315 c 256
+ 293 309 292 305 292 300 c 256
+ 292 296 303 293 307 295 c 256
+ 337 309 363 318 374 318 c 256
+ 387 318 381 293 374 270 c 258
+260 613 m 256
+ 228 613 204 584 204 552 c 256
+ 204 532 219 513 239 513 c 256
+ 269 513 294 540 294 570 c 256
+ 294 591 281 613 260 613 c 256
+133 270 m 258
+ 61 76 l 258
+ 52 53 49 44 49 21 c 256
+ 49 2 60 -14 92 -14 c 256
+ 127 -14 256 38 256 115 c 256
+ 256 118 253 120 250 120 c 256
+ 248 120 247 119 246 118 c 256
+ 236 108 166 41 134 41 c 256
+ 127 41 122 47 122 57 c 256
+ 122 65 125 75 129 86 c 258
+ 232 370 l 258
+ 238 387 242 400 242 414 c 256
+ 242 425 229 421 223 418 c 257
+ 162 384 126 362 60 315 c 256
+ 52 309 51 305 51 300 c 256
+ 51 296 62 293 66 295 c 256
+ 96 309 122 318 133 318 c 256
+ 146 318 141 293 133 270 c 258
+EndSplineSet
 Fore
-Refer: 16 106 N 1 0 0 1 238 0 2
-Refer: 5 105 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Smallcaps1 subtable" ij.sc
+Refer: 962 105 N 1 0 0 1 0 0 2
+Refer: 998 106 N 1 0 0 1 274 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vi
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vj
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" ij.sc
+Comment: "+AAoA-ij+AAoA"
 EndChar

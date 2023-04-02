@@ -1,11 +1,38 @@
 StartChar: uni1ECC
-Encoding: 7884 7884 540
-Width: 712
+Encoding: 2347 7884 2346
+GlifName: uni1E_C_C_
+Width: 694
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 489 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+311 -90 m 256
+ 276 -90 249 -120 249 -155 c 256
+ 249 -176 266 -197 288 -197 c 256
+ 320 -197 349 -168 349 -136 c 256
+ 349 -112 333 -90 311 -90 c 256
+484 664 m 256
+ 254 664 89 456 89 226 c 256
+ 89 94 197 -14 329 -14 c 256
+ 565 -14 724 208 724 444 c 256
+ 724 571 611 664 484 664 c 256
+479 628 m 256
+ 564 628 642 569 642 484 c 256
+ 642 284 536 21 336 21 c 256
+ 245 21 171 95 171 186 c 256
+ 171 386 279 628 479 628 c 256
+EndSplineSet
 Fore
-Refer: 2086 -1 N 1 0 0 1 244 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" O dotbelowcomb.cap
+Refer: 277 79 N 1 0 0 1 0 0 2
+Refer: 732 -1 N 1 0 0 1 369 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1ECC+AAoA"
 EndChar

@@ -1,26 +1,25 @@
 StartChar: guilsinglright.alt
-Encoding: 1114984 -1 2683
+Encoding: 959 -1 958
 GlifName: guilsinglright.alt
-Width: 430
+Width: 351
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-226 202 m 0
- 233 209 233 209 226 216 c 0
- 184 259 142 314 106 379 c 0
- 104 382 102 388 102 391 c 0
- 102 397 107 400 112 400 c 0
- 125 400 137 387 142 382 c 0
- 187 335 245 282 312 237 c 0
- 321 231 330 217 330 208 c 0
- 330 205 329 202 327 201 c 0
- 250 149 199 101 134 31 c 0
- 129 26 120 19 108 19 c 0
- 104 19 100 22 100 27 c 0
- 100 32 103 38 106 43 c 0
- 162 128 189 162 226 202 c 0
-EndSplineSet
-Validated: 1
+Refer: 956 -1 N -1 0 0 1 351 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|guilsinglleft.alt
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|guilsinglleft.alt
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-guilsinglright.alt+AAoA"
 EndChar

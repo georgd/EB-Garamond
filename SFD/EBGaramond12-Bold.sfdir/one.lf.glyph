@@ -1,0 +1,60 @@
+StartChar: one.lf
+Encoding: 1211 -1 1210
+GlifName: one.lf
+Width: 399
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+41 -3 m 256
+ 95 -3 126 2 180 2 c 256
+ 233 2 258 -3 315 -3 c 256
+ 323 -3 329 2 329 8 c 256
+ 329 14 320 19 312 21 c 256
+ 230 40 218 46 218 97 c 258
+ 218 557 l 258
+ 218 585 219 608 222 628 c 257
+ 223 633 216 637 210 637 c 256
+ 208 637 206 637 205 636 c 256
+ 155 596 126 581 66 574 c 256
+ 52 572 41 565 41 556 c 256
+ 41 545 54 540 67 539 c 256
+ 110 536 140 529 140 491 c 258
+ 140 109 l 258
+ 140 50 118 38 41 22 c 256
+ 33 20 26 14 26 9 c 256
+ 26 3 31 -3 41 -3 c 256
+EndSplineSet
+Fore
+SplineSet
+48 -3 m 256
+ 92 -3 158 2 198 2 c 256
+ 237 2 311 -2 353 -2 c 256
+ 363 -2 369 3 369 13 c 256
+ 369 26 362 30 350 34 c 257
+ 298 49 285 61 285 98 c 258
+ 285 552 l 258
+ 285 589 291 609 291 625 c 256
+ 291 632 279 636 269 636 c 256
+ 264 636 259 633 257 632 c 256
+ 195 593 138 578 55 573 c 256
+ 38 572 23 564 23 546 c 256
+ 23 530 38 524 49 522 c 256
+ 93 513 115 505 115 455 c 258
+ 115 97 l 258
+ 115 56 100 45 49 34 c 256
+ 37 31 30 24 30 12 c 256
+ 30 3 40 -3 48 -3 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'onum' Oldstyle Figures lookup 19 subtable" one.osf
+Substitution2: "'tnum' Tabular Numbers lookup 18 subtable" one
+Comment: "+AAoA-one.lnum+AAoA"
+EndChar

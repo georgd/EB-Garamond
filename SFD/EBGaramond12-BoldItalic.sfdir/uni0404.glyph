@@ -1,0 +1,52 @@
+StartChar: uni0404
+Encoding: 1931 1028 1930
+GlifName: uni0404
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 537 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+443 277 m 256
+ 470 277 553 330 570 363 c 256
+ 573 370 558 386 543 386 c 256
+ 536 386 508 366 474 366 c 256
+ 451 366 431 375 411 384 c 256
+ 388 395 365 407 337 407 c 256
+ 308 407 242 373 212 343 c 257
+ 187 278 l 257
+ 217 305 261 317 290 317 c 256
+ 313 317 334 311 358 300 c 256
+ 380 291 410 277 443 277 c 256
+EndSplineSet
+Fore
+SplineSet
+443 277 m 256
+ 498 277 558 343 573 377 c 256
+ 576 384 572 395 557 395 c 256
+ 550 395 528 366 474 366 c 256
+ 451 366 431 375 411 384 c 256
+ 388 395 365 407 337 407 c 256
+ 308 407 244 369 216 337 c 257
+ 192 279 l 257
+ 222 306 261 322 290 322 c 256
+ 313 322 334 311 358 300 c 256
+ 380 291 410 277 443 277 c 256
+EndSplineSet
+Refer: 43 67 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VC
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uni0404+AAoA"
+EndChar

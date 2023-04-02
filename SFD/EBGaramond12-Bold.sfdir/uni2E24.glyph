@@ -1,0 +1,50 @@
+StartChar: uni2E24
+Encoding: 3070 11812 3069
+GlifName: uni2E_24
+Width: 358
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+137 -201 m 258
+ 327 -200 l 258
+ 337 -200 347 -195 347 -179 c 256
+ 347 -162 329 -155 318 -154 c 258
+ 251 -148 l 258
+ 217 -145 202 -114 202 -87 c 258
+ 202 140 l 257
+ 95 140 l 257
+ 95 -145 l 258
+ 95 -201 102 -201 137 -201 c 258
+EndSplineSet
+Fore
+SplineSet
+152 -201 m 258
+ 328 -200 l 258
+ 338 -200 348 -195 348 -179 c 256
+ 348 -167 327 -161 309 -158 c 258
+ 233 -146 l 258
+ 221 -144 216 -134 216 -125 c 258
+ 216 141 l 257
+ 110 141 l 257
+ 110 -145 l 258
+ 110 -201 117 -201 152 -201 c 258
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbracketleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbracketleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni2E24+AAoA"
+EndChar

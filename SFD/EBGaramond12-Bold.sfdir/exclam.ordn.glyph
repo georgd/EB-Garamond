@@ -1,0 +1,31 @@
+StartChar: exclam.ordn
+Encoding: 834 -1 833
+GlifName: exclam.ordn
+Width: 192
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+94 382 m 256
+ 105 382 112 396 115 415 c 256
+ 130 510 147 567 147 620 c 256
+ 147 649 127 671 97 671 c 256
+ 66 671 44 646 44 618 c 256
+ 44 566 56 512 72 415 c 256
+ 76 391 82 382 94 382 c 256
+92 274 m 256
+ 119 274 141 295 141 320 c 256
+ 141 346 119 367 92 367 c 256
+ 66 367 44 346 44 320 c 256
+ 44 295 66 274 92 274 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-exclam.ordn+AAoA"
+EndChar

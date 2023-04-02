@@ -1,0 +1,37 @@
+StartChar: equal
+Encoding: 801 61 800
+GlifName: equal
+Width: 643
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+64 316 m 258
+ 589 316 l 258
+ 606 316 621 342 621 358 c 256
+ 621 367 611 374 598 374 c 258
+ 76 374 l 258
+ 55 374 48 341 48 329 c 256
+ 48 324 55 316 64 316 c 258
+64 133 m 258
+ 589 133 l 258
+ 606 133 621 159 621 175 c 256
+ 621 184 611 191 598 191 c 258
+ 76 191 l 258
+ 55 191 48 158 48 146 c 256
+ 48 141 55 133 64 133 c 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" equal.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" equal.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" equal.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" equal.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" equal.subs
+Comment: "+AAoA-equal+AAoA"
+EndChar

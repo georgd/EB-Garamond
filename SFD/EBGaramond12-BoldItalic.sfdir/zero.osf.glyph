@@ -1,0 +1,45 @@
+StartChar: zero.osf
+Encoding: 3049 -1 3048
+GlifName: zero.osf
+Width: 445
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+142 -14 m 256
+ 333 -14 431 167 435 299 c 256
+ 437 375 379 437 303 437 c 256
+ 112 437 14 256 10 124 c 256
+ 8 48 66 -14 142 -14 c 256
+163 27 m 256
+ 142 27 135 43 138 76 c 256
+ 146 197 231 399 283 399 c 256
+ 307 399 311 383 309 350 c 256
+ 300 228 223 27 163 27 c 256
+EndSplineSet
+Fore
+SplineSet
+142 -14 m 256
+ 325 -14 431 172 435 291 c 256
+ 437 375 379 437 303 437 c 256
+ 124 437 14 245 11 134 c 256
+ 8 48 66 -14 142 -14 c 256
+163 27 m 256
+ 142 27 135 43 138 76 c 256
+ 146 197 231 399 283 399 c 256
+ 307 399 311 383 309 350 c 256
+ 300 228 223 27 163 27 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 3025 -80 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" zero.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" zero.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" zero.lf
+Comment: "+AAoA-zero+AAoA"
+EndChar

@@ -1,0 +1,59 @@
+StartChar: tildecomb
+Encoding: 1414 771 1413
+GlifName: tildecomb
+Width: 0
+VWidth: 0
+AnchorPoint: "top" 70 440 mark 0
+AnchorPoint: "topstack" 79 440 mark 0
+AnchorPoint: "comb" 103 421 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-50 475 m 256
+ -39 475 -5 511 13 511 c 256
+ 38 511 136 502 163 502 c 256
+ 194 502 268 575 273 594 c 256
+ 277 608 270 615 258 615 c 256
+ 240 615 214 581 190 581 c 256
+ 165 581 80 590 55 590 c 256
+ 30 590 -58 521 -66 498 c 256
+ -71 483 -63 475 -50 475 c 256
+-50 475 m 256
+ -44 475 -30 487 -16 497 c 256
+ -6 504 5 511 13 511 c 256
+ 38 511 148 502 175 502 c 256
+ 208 502 274 574 274 601 c 256
+ 274 610 268 615 258 615 c 256
+ 250 615 240 608 230 601 c 256
+ 217 591 203 581 190 581 c 256
+ 165 581 68 590 43 590 c 256
+ 13 590 -68 513 -68 490 c 256
+ -68 480 -60 475 -50 475 c 256
+EndSplineSet
+Fore
+SplineSet
+-30 467 m 256
+ -25 467 -19 476 -2 500 c 256
+ 3 507 8 511 17 511 c 256
+ 42 511 147 502 170 502 c 256
+ 179 502 193 504 201 516 c 256
+ 213 534 229 561 244 583 c 256
+ 256 600 265 610 265 616 c 256
+ 265 622 248 636 242 636 c 256
+ 237 636 232 627 219 611 c 256
+ 208 598 196 591 184 591 c 256
+ 172 591 145 593 114 595 c 256
+ 69 598 55 603 42 603 c 256
+ 25 603 -53 502 -53 487 c 256
+ -53 481 -35 467 -30 467 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" tildecomb.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" tildecomb.sc
+Comment: "+AAoA-tildecomb+AAoA"
+EndChar

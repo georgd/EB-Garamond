@@ -1,11 +1,67 @@
 StartChar: c_k
-Encoding: 65547 -1 1055
-Width: 840
+Encoding: 653 -1 652
+GlifName: c_k
+Width: 782
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom" 107 -30 basechar 0
+AnchorPoint: "top" 231 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 62 107 N 1 0 0 1 340 0 2
-Refer: 14 99 N 1 0 0 1 5 0 2
-LCarets2: 1 390
+SplineSet
+616 -21 m 256
+ 647 -21 729 56 729 98 c 256
+ 729 103 725 110 723 110 c 256
+ 718 110 714 109 707 97 c 256
+ 690 68 662 39 637 39 c 256
+ 622 39 610 54 604 68 c 258
+ 558 177 l 258
+ 555 184 556 186 563 188 c 256
+ 631 207 767 300 767 370 c 256
+ 767 400 735 415 708 415 c 256
+ 641 415 554 353 486 258 c 256
+ 481 251 472 247 477 262 c 257
+ 581 566 l 257
+ 619 579 654 616 654 638 c 256
+ 654 661 644 670 615 670 c 256
+ 571 670 542 636 527 598 c 257
+ 468 598 403 619 338 619 c 256
+ 266 619 234 571 234 507 c 256
+ 234 468 246 423 269 376 c 257
+ 281 395 l 257
+ 274 436 270 468 270 492 c 256
+ 270 556 288 579 355 579 c 256
+ 423 579 467 565 517 565 c 257
+ 351 49 l 258
+ 345 29 343 13 343 7 c 256
+ 343 -5 359 -15 369 -15 c 256
+ 385 -15 387 -6 395 16 c 256
+ 402 35 434 117 442 136 c 256
+ 448 150 460 178 469 178 c 256
+ 491 178 507 156 515 134 c 258
+ 553 28 l 258
+ 565 -5 584 -21 616 -21 c 256
+501 203 m 256
+ 493 203 489 212 489 220 c 256
+ 489 248 595 372 651 372 c 256
+ 675 372 687 360 687 340 c 256
+ 687 296 584 203 501 203 c 256
+EndSplineSet
+Refer: 644 99 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vk
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'dlig' Discretionary Ligatures in Latin lookup 39 subtable" c k
+Comment: "+AAoA-c_k+AAoA"
 EndChar

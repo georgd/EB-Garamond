@@ -1,11 +1,18 @@
 StartChar: arrowdbldown
-Encoding: 8659 8659 2945
+Encoding: 552 8659 551
 GlifName: arrowdbldown
 Width: 438
 VWidth: 0
-Flags: MW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2943 8657 N -1 0 0 -1 438 480 2
-Validated: 9
+Refer: 554 8657 N -1 0 0 -1 438 480 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Ligature2: "'ss03' Style Set 3 lookup 32 subtable" a r r o w d o w n two
+Comment: "+AAoA-arrowdbldown+AAoA"
 EndChar

@@ -1,38 +1,65 @@
 StartChar: one
-Encoding: 49 49 50
-Width: 338
+Encoding: 1159 49 1158
+GlifName: one
+Width: 480
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+44 -3 m 256
+ 94 -3 147 2 197 2 c 256
+ 242 2 275 -3 328 -3 c 256
+ 335 -3 342 2 344 8 c 256
+ 346 14 340 20 333 22 c 256
+ 277 38 244 37 259 86 c 258
+ 404 557 l 258
+ 413 585 421 608 430 628 c 257
+ 432 633 427 637 422 637 c 256
+ 418 637 413 635 409 633 c 256
+ 366 612 296 579 241 574 c 256
+ 231 573 218 567 218 556 c 256
+ 218 549 226 544 233 543 c 256
+ 286 535 321 524 306 477 c 258
+ 190 103 l 258
+ 174 52 118 35 51 22 c 256
+ 41 20 32 15 32 6 c 256
+ 32 1 39 -3 44 -3 c 256
+EndSplineSet
 Fore
 SplineSet
-122 68 m 2
- 203 333 l 2
- 217 380 184 380 160 384 c 0
- 157 384 144 393 144 396 c 0
- 144 403 161 406 166 406 c 0
- 222 406 222 403 258 403 c 24
- 294 403 296 406 350 406 c 0
- 354 406 364 399 364 396 c 0
- 364 390 350 385 343 384 c 0
- 315 378 286 380 271 333 c 0
- 242 244 203 115 190 68 c 0
- 179 29 203 28 242 22 c 0
- 248 21 263 14 263 10 c 0
- 263 3 243 -3 234 -3 c 0
- 181 -3 174 2 136 2 c 24
- 95 2 82 -3 32 -3 c 0
- 28 -3 14 2 14 7 c 0
- 14 14 30 21 40 22 c 0
- 66 24 109 27 122 68 c 2
+44 -3 m 256
+ 94 -3 147 2 197 2 c 256
+ 242 2 288 -3 341 -3 c 256
+ 348 -3 355 2 357 8 c 256
+ 359 14 353 20 346 22 c 256
+ 290 38 244 37 259 86 c 258
+ 404 557 l 258
+ 413 585 421 608 430 628 c 257
+ 432 633 427 637 422 637 c 256
+ 418 637 413 635 409 633 c 256
+ 366 612 296 579 241 574 c 256
+ 231 573 218 567 218 556 c 256
+ 218 549 226 544 233 543 c 256
+ 286 535 321 524 306 477 c 258
+ 190 103 l 258
+ 174 52 118 35 51 22 c 256
+ 41 20 32 15 32 6 c 256
+ 32 1 39 -3 44 -3 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" one.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 32 subtable" one.lnum
-Substitution2: "Single Substitution lookup 31 subtable" one.ordn
-Substitution2: "Single Substitution lookup 30 subtable" one.subs
-Substitution2: "sups subtable" one.sups
-Substitution2: "sinf subtable" one.sinf
-Substitution2: "ordn subtable" one.ordn
-Substitution2: "subs subtable" one.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" one.lf
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" one.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" one.sc
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" one.tosf
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 16 subtable" one.lf
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" onesuperior
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" oneinferior
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" one.subs
+Comment: "+AAoA-one.tablining+AAoA"
 EndChar

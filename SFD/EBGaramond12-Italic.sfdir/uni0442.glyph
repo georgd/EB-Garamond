@@ -1,10 +1,19 @@
 StartChar: uni0442
-Encoding: 1090 1090 1931
-Width: 755
+Encoding: 2000 1090 1999
+GlifName: uni0442
+Width: 789
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom" 311 -30 basechar 0
+AnchorPoint: "top" 487 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 7 109 N 1 0 0 1 0 0 2
-Substitution2: "loclSRB subtable" uni0442.SRB
+Refer: 1076 109 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0442+AAoA"
 EndChar

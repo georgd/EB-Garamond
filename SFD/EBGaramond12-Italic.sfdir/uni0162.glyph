@@ -1,13 +1,86 @@
 StartChar: uni0162
-Encoding: 354 354 261
-Width: 635
+Encoding: 1520 354 1519
+GlifName: uni0162
+Width: 632
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 280 -30 basechar 0
+AnchorPoint: "top.cap" 455 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+169 -98 m 256
+ 169 -148 228 -163 228 -205 c 256
+ 228 -215 215 -233 200 -233 c 256
+ 138 -233 135 -188 123 -188 c 256
+ 112 -188 106 -200 106 -208 c 256
+ 106 -217 126 -271 175 -271 c 256
+ 214 -271 294 -224 294 -177 c 256
+ 294 -144 235 -99 235 -78 c 256
+ 235 -60 258 -22 320 27 c 257
+ 290 27 l 257
+ 232 -3 169 -65 169 -98 c 256
+327 102 m 258
+ 457 557 l 257
+ 463 575 474 607 488 607 c 258
+ 630 607 l 258
+ 697 607 681 525 681 520 c 256
+ 681 506 686 497 695 497 c 256
+ 700 497 704 500 706 511 c 256
+ 714 565 734 614 741 627 c 256
+ 745 634 749 643 749 650 c 256
+ 749 658 746 666 743 666 c 256
+ 733 666 720 642 691 642 c 258
+ 223 642 l 258
+ 184 642 184 666 174 666 c 256
+ 169 666 164 655 161 646 c 256
+ 143 596 115 522 115 517 c 256
+ 115 506 115 506 123 506 c 256
+ 131 506 135 511 142 524 c 256
+ 161 560 194 607 250 607 c 258
+ 379 607 l 258
+ 393 607 389 575 383 557 c 257
+ 253 102 l 258
+ 239 54 206 31 157 22 c 256
+ 134 18 120 15 120 6 c 256
+ 120 -2 128 -5 144 -5 c 256
+ 194 -5 218 0 265 0 c 256
+ 307 0 322 -5 372 -5 c 256
+ 388 -5 402 -2 402 6 c 256
+ 402 15 397 18 377 22 c 256
+ 333 31 313 54 327 102 c 258
+EndSplineSet
 Fore
-Refer: 2089 -1 N 1 0 0 1 105 2 2
-Refer: 34 84 N 1 0 0 1 0 0 3
-Validated: 5
-Substitution2: "c2sc subtable" uni0162.sc
-MultipleSubs2: "CCMP_Precomp subtable" T uni0327.cap
+Refer: 372 84 N 1 0 0 1 0 0 2
+Refer: 1861 -1 N 1 0 0 1 325 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VT
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0327.cap
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" uni0162.sc
+Comment: "+AAoA-uni0162+AAoA"
 EndChar

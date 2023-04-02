@@ -1,0 +1,30 @@
+StartChar: chedescenderabkhasian-cy
+Encoding: 676 1215 675
+GlifName: chedescenderabkhasian-cy
+Width: 471
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 300 -30 basechar 0
+AnchorPoint: "top" 308 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+279 -141 m 257
+ 319 -141 l 257
+ 319 15 l 257
+ 279 15 l 257
+ 279 -141 l 257
+EndSplineSet
+Refer: 673 1213 N 1 0 0 1 0 0 2
+Refer: 732 168 N 1 0 0 1 153 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vcheabkhasian-cy
+p2
+sVpublic.markColor
+p3
+V0.97,1,0,1
+p4
+s."
+EndChar

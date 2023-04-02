@@ -1,0 +1,21 @@
+StartChar: Dcroat
+Encoding: 78 272 78
+GlifName: D_croat
+Width: 769
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 364 -30 basechar 0
+AnchorPoint: "top.cap" 381 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 131 208 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Dcroat.sc
+Comment: "+AAoA-Dcroat+AAoA"
+EndChar

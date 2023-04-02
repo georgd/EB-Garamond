@@ -1,15 +1,57 @@
 StartChar: Ccircumflex
-Encoding: 264 264 186
+Encoding: 58 264 58
 GlifName: C_circumflex
-Width: 640
+Width: 710
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 392 -30 basechar 0
+AnchorPoint: "top.cap" 401 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+250 681 m 256
+ 263 681 345 721 371 736 c 256
+ 380 741 382 741 391 736 c 256
+ 417 721 499 680 512 680 c 256
+ 521 680 526 685 526 691 c 256
+ 526 695 525 699 520 703 c 258
+ 422 786 l 258
+ 403 803 396 808 381 808 c 256
+ 366 808 359 803 340 786 c 258
+ 242 703 l 258
+ 237 699 235 695 235 691 c 256
+ 235 685 241 681 250 681 c 256
+586 137 m 256
+ 560 86 512 16 400 16 c 256
+ 244 16 146 184 146 347 c 256
+ 146 494 247 632 394 632 c 256
+ 486 632 531 591 541 581 c 257
+ 553 570 571 548 576 508 c 257
+ 580 485 591 472 602 471 c 256
+ 612 470 614 485 613 494 c 257
+ 612 546 609 572 605 603 c 257
+ 604 617 600 632 592 633 c 256
+ 572 636 534 645 516 651 c 256
+ 498 657 442 663 410 663 c 256
+ 216 663 46 517 46 323 c 256
+ 46 141 187 -15 369 -15 c 256
+ 429 -15 502 -6 537 5 c 256
+ 562 13 581 18 586 26 c 256
+ 601 49 615 105 619 130 c 257
+ 619 132 620 135 620 138 c 256
+ 620 147 617 157 613 157 c 256
+ 612 157 612 157 611 156 c 257
+ 606 152 592 148 586 137 c 256
+EndSplineSet
 Fore
-Refer: 981 -1 N 1 0 0 1 230 0 2
-Refer: 32 67 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Ccircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" C uni0302.cap
-Position2: "lfbd subtable" dx=-32 dy=0 dh=-32 dv=0
+Refer: 44 67 N 1 0 0 1 0 0 2
+Refer: 1906 -1 N 1 0 0 1 400 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Ccircumflex.sc
+Comment: "+AAoA-Ccircumflex+AAoA"
 EndChar

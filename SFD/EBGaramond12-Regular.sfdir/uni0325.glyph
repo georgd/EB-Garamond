@@ -1,24 +1,30 @@
 StartChar: uni0325
-Encoding: 805 805 2115
+Encoding: 1994 805 1993
 GlifName: uni0325
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 111 -100 mark 0
-LayerCount: 3
-Fore
+AnchorPoint: "bottom" 0 -30 mark 0
+LayerCount: 2
+Back
 SplineSet
-115 -82 m 0
- 159 -82 196 -116 196 -160 c 0
- 196 -211 153 -249 109 -249 c 0
- 65 -249 28 -210 28 -166 c 0
- 28 -122 71 -82 115 -82 c 0
-66 -161 m 0
- 66 -194 88 -221 116 -221 c 0
- 144 -221 158 -195 158 -167 c 0
- 158 -139 134 -110 106 -110 c 0
- 78 -110 66 -133 66 -161 c 0
+66 -161 m 256
+ 66 -133 78 -110 106 -110 c 256
+ 134 -110 158 -139 158 -167 c 256
+ 158 -195 144 -221 116 -221 c 256
+ 88 -221 66 -194 66 -161 c 256
+115 -82 m 256
+ 71 -82 28 -122 28 -166 c 256
+ 28 -210 65 -249 109 -249 c 256
+ 153 -249 196 -211 196 -160 c 256
+ 196 -116 159 -82 115 -82 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni0325.cap
+Fore
+Refer: 1934 778 N 1 0 0 1 0 -729 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0325+AAoA"
 EndChar

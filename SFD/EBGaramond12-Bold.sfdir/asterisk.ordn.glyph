@@ -1,0 +1,44 @@
+StartChar: asterisk.ordn
+Encoding: 574 -1 573
+GlifName: asterisk.ordn
+Width: 210
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+61 529 m 256
+ 71 526 88 561 96 584 c 257
+ 115 568 146 544 153 552 c 256
+ 160 560 132 588 113 604 c 257
+ 133 617 162 636 157 645 c 256
+ 152 654 117 636 97 623 c 257
+ 91 646 79 682 69 679 c 256
+ 59 676 66 640 72 617 c 257
+ 48 618 10 616 10 606 c 256
+ 10 596 50 592 74 591 c 257
+ 66 568 51 532 61 529 c 256
+EndSplineSet
+Fore
+SplineSet
+75 509 m 256
+ 88 505 106 525 123 566 c 257
+ 158 536 182 527 191 537 c 257
+ 200 548 188 572 154 603 c 257
+ 191 627 202 644 196 654 c 256
+ 190 665 161 664 124 639 c 257
+ 114 680 100 697 85 697 c 256
+ 73 697 67 670 76 627 c 257
+ 32 628 12 618 12 605 c 256
+ 12 592 36 581 82 580 c 257
+ 67 536 63 513 75 509 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-asterisk.ordn+AAoA"
+EndChar

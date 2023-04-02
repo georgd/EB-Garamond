@@ -1,12 +1,19 @@
 StartChar: iotatonos
-Encoding: 943 943 2190
-Width: 189
+Encoding: 996 943 995
+GlifName: iotatonos
+Width: 261
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "topgreek" 192 444 basechar 0
 LayerCount: 2
 Fore
-Refer: 2367 -1 S 1 0 0 1 154 11 2
-Refer: 2169 953 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" iota acutecomb.grk
+Refer: 992 953 N 1 0 0 1 0 0 2
+Refer: 1419 900 N 1 0 0 1 53 -16 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-iotatonos+AAoA"
 EndChar

@@ -1,28 +1,37 @@
 StartChar: divide
-Encoding: 247 247 1023
-Width: 590
-Flags: MW
+Encoding: 722 247 721
+GlifName: divide
+Width: 586
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-295 161 m 0
- 320 161 341 140 341 115 c 0
- 341 90 320 69 295 69 c 0
- 270 69 249 90 249 115 c 0
- 249 140 270 161 295 161 c 0
-295 445 m 0
- 320 445 340 424 340 399 c 0
- 340 374 319 353 294 353 c 0
- 269 353 248 374 248 399 c 0
- 248 425 269 445 295 445 c 0
-64 232 m 2
- 57 232 50 238 50 244 c 0
- 50 253 56 282 74 282 c 2
- 527 282 l 2
- 534 282 543 275 540 268 c 0
- 534 251 528 232 509 232 c 2
- 64 232 l 2
+80 231 m 258
+ 524 231 l 258
+ 542 231 554 253 554 272 c 256
+ 554 277 547 282 542 282 c 258
+ 89 282 l 258
+ 69 282 66 249 66 241 c 256
+ 66 236 73 231 80 231 c 258
+310 67 m 256
+ 336 67 357 88 357 114 c 256
+ 357 140 336 161 310 161 c 256
+ 285 161 263 140 263 114 c 256
+ 263 88 285 67 310 67 c 256
+309 352 m 256
+ 335 352 356 373 356 399 c 256
+ 356 425 335 446 309 446 c 256
+ 284 446 262 425 262 399 c 256
+ 262 373 284 352 309 352 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" divide.sc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" divide.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" divide.sc
+Comment: "+AAoA-divide+AAoA"
 EndChar

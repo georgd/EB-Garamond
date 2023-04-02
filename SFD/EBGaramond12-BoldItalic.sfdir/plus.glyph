@@ -1,0 +1,44 @@
+StartChar: plus
+Encoding: 1240 43 1239
+GlifName: plus
+Width: 599
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+294 -12 m 256
+ 309 -12 344 -4 344 17 c 258
+ 344 206 l 258
+ 344 215 348 219 357 219 c 258
+ 550 219 l 258
+ 569 219 584 249 584 266 c 256
+ 584 276 573 282 561 282 c 258
+ 357 282 l 258
+ 348 282 344 286 344 296 c 258
+ 344 489 l 258
+ 344 501 338 512 328 512 c 256
+ 311 512 281 497 281 478 c 258
+ 281 296 l 258
+ 281 286 280 282 267 282 c 258
+ 69 282 l 258
+ 48 282 40 247 40 232 c 256
+ 40 226 48 219 57 219 c 258
+ 268 219 l 258
+ 278 219 281 213 281 206 c 258
+ 281 5 l 258
+ 281 -4 288 -12 294 -12 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" plus.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" plus.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" plus.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" plus.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" plus.subs
+Comment: "+AAoA-plus+AAoA"
+EndChar

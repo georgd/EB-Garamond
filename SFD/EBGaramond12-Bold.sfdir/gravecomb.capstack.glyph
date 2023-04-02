@@ -1,0 +1,39 @@
+StartChar: gravecomb.capstack
+Encoding: 934 -1 933
+GlifName: gravecomb.capstack
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+175 710 m 256
+ 183 710 192 711 192 718 c 256
+ 192 726 186 733 173 749 c 256
+ 161 762 123 796 97 817 c 256
+ 89 823 83 825 76 825 c 256
+ 58 825 0 789 0 768 c 256
+ 0 758 9 750 33 742 c 256
+ 74 729 99 725 143 715 c 256
+ 153 713 167 710 175 710 c 256
+EndSplineSet
+Fore
+SplineSet
+91 710 m 256
+ 99 710 108 711 108 718 c 256
+ 108 726 102 733 89 749 c 256
+ 78 763 9 816 -18 836 c 256
+ -26 842 -32 844 -39 844 c 256
+ -57 844 -107 802 -107 781 c 256
+ -107 771 -98 763 -74 755 c 256
+ -33 741 15 724 59 715 c 256
+ 69 713 83 710 91 710 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gravecomb.capstack+AAoA"
+EndChar

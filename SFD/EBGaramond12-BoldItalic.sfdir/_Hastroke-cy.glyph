@@ -1,0 +1,36 @@
+StartChar: Hastroke-cy
+Encoding: 172 1278 172
+GlifName: H_astroke-cy
+Width: 750
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 248 -30 basechar 0
+AnchorPoint: "top.cap" 527 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+118 315 m 258
+ 672 315 l 258
+ 695 315 716 336 726 353 c 257
+ 726 355 728 356 728 358 c 256
+ 728 368 724 377 711 377 c 258
+ 142 377 l 258
+ 125 377 109 364 104 346 c 256
+ 100 332 101 315 118 315 c 258
+EndSplineSet
+Refer: 454 88 N 1 0 0 1 10 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=X+10
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=X+10
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+EndChar

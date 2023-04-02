@@ -1,0 +1,38 @@
+StartChar: greater
+Encoding: 917 62 916
+GlifName: greater
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+85 5 m 257
+ 512 197 l 257
+ 538 209 554 240 554 250 c 256
+ 554 257 524 273 502 282 c 257
+ 85 474 l 258
+ 83 475 80 476 78 476 c 256
+ 65 476 61 464 61 452 c 256
+ 61 432 76 412 98 402 c 258
+ 451 244 l 258
+ 456 242 458 237 451 234 c 258
+ 98 77 l 258
+ 76 67 61 47 61 27 c 256
+ 61 6 74 -1 85 5 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss04' Style Set 4 in Latin lookup 35 subtable" uni2767.01
+Substitution2: "'ss02' Style Set 2 in Latin lookup 32 subtable" bullet.01
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" greater.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" greater.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" greater.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" greater.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" greater.subs
+Comment: "+AAoA-greater+AAoA"
+EndChar

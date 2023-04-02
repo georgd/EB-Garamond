@@ -1,0 +1,20 @@
+StartChar: gbreve
+Encoding: 884 287 883
+GlifName: gbreve
+Width: 480
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 341 605 basechar 0
+LayerCount: 2
+Fore
+Refer: 871 103 N 1 0 0 1 0 0 2
+Refer: 633 728 N 1 0 0 1 42 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" gbreve.sc
+Comment: "+AAoA-gbreve+AAoA"
+EndChar

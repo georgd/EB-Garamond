@@ -1,0 +1,63 @@
+StartChar: nine.osf
+Encoding: 1112 -1 1111
+GlifName: nine.osf
+Width: 463
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+-64 -239 m 256
+ 179 -220 449 35 449 263 c 256
+ 449 369 399 437 282 437 c 256
+ 124 437 21 286 21 150 c 256
+ 21 54 57 -6 138 -6 c 256
+ 159 -6 173 -5 199 5 c 256
+ 207 8 205 3 202 0 c 256
+ 123 -79 43 -166 -67 -203 c 256
+ -94 -212 -116 -214 -116 -230 c 256
+ -116 -241 -90 -241 -64 -239 c 256
+187 42 m 256
+ 163 42 154 67 154 103 c 256
+ 154 226 220 395 288 395 c 256
+ 301 395 317 381 317 345 c 256
+ 317 232 271 42 187 42 c 256
+EndSplineSet
+Fore
+SplineSet
+-64 -239 m 256
+ 179 -220 449 35 449 263 c 256
+ 449 357 394 437 297 437 c 256
+ 135 437 21 284 21 150 c 256
+ 21 54 57 -6 138 -6 c 256
+ 159 -6 173 -5 199 5 c 256
+ 207 8 205 3 202 0 c 256
+ 123 -79 43 -166 -67 -203 c 256
+ -94 -212 -116 -214 -116 -230 c 256
+ -116 -241 -90 -241 -64 -239 c 256
+187 42 m 256
+ 163 42 154 67 154 103 c 256
+ 154 226 220 395 288 395 c 256
+ 301 395 317 381 317 345 c 256
+ 317 232 271 42 187 42 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|six.osf
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|six.osf
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Kerns2: 3025 -55 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" nine.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" nine.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" nine.lf
+Comment: "+AAoA-nine+AAoA"
+EndChar

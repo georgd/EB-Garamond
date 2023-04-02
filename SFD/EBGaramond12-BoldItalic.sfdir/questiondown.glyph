@@ -1,0 +1,27 @@
+StartChar: questiondown
+Encoding: 1265 191 1264
+GlifName: questiondown
+Width: 404
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1258 63 N -1 0 0 -1 423 483 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|question
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|question
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" questiondown.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" questiondown.sc
+Comment: "+AAoA-questiondown+AAoA"
+EndChar

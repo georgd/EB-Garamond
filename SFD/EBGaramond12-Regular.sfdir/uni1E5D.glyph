@@ -1,15 +1,64 @@
 StartChar: uni1E5D
-Encoding: 7773 7773 445
+Encoding: 2404 7773 2403
 GlifName: uni1E_5D_
 Width: 334
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 133 -30 basechar 0
+AnchorPoint: "top" 191 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+297 555 m 258
+ 94 555 l 258
+ 75 555 70 521 70 512 c 256
+ 70 506 77 500 84 500 c 258
+ 279 500 l 258
+ 300 500 310 521 310 543 c 256
+ 310 549 303 555 297 555 c 258
+81 -142 m 256
+ 81 -170 103 -192 131 -192 c 256
+ 160 -192 182 -170 182 -142 c 256
+ 182 -113 160 -91 131 -91 c 256
+ 103 -91 81 -113 81 -142 c 256
+160 67 m 257
+ 160 264 l 258
+ 160 331 198 348 230 348 c 256
+ 250 348 273 330 290 330 c 256
+ 310 330 329 362 329 382 c 256
+ 329 400 309 414 281 414 c 256
+ 257 414 220 399 189 371 c 256
+ 182 365 169 346 165 346 c 256
+ 164 346 164 346 164 348 c 257
+ 166 380 167 416 167 423 c 257
+ 166 426 164 430 161 430 c 256
+ 160 430 160 429 159 429 c 257
+ 132 413 99 386 48 374 c 256
+ 44 373 39 368 39 362 c 256
+ 39 356 44 350 49 349 c 256
+ 82 342 90 313 90 277 c 258
+ 90 62 l 257
+ 89 35 72 30 52 24 c 257
+ 41 20 29 16 29 6 c 256
+ 29 -2 42 -3 49 -3 c 256
+ 89 -3 95 2 130 2 c 256
+ 165 2 177 -3 217 -3 c 256
+ 224 -3 237 -2 237 6 c 256
+ 237 16 225 20 214 24 c 257
+ 194 30 161 40 160 67 c 257
+EndSplineSet
 Fore
-Refer: 967 772 N 1 0 0 1 10 10 2
-Refer: 2019 803 N 1 0 0 1 81 0 2
-Refer: 12 114 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" r dotbelowcomb uni0304
-Position2: "rtbd subtable" dx=0 dy=0 dh=-17 dv=0
+Refer: 1127 175 N 1 0 0 1 41 0 2
+Refer: 2401 7771 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+Vr
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni1E5D+AAoA"
 EndChar

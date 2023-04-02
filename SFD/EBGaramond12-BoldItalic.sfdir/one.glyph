@@ -1,0 +1,65 @@
+StartChar: one
+Encoding: 1159 49 1158
+GlifName: one
+Width: 540
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+59 -3 m 256
+ 103 -3 170 2 210 2 c 256
+ 249 2 322 -2 364 -2 c 256
+ 374 -2 387 3 389 13 c 256
+ 392 26 383 30 372 34 c 256
+ 325 49 316 61 327 98 c 258
+ 468 552 l 258
+ 479 589 491 609 496 625 c 256
+ 499 632 494 637 484 637 c 256
+ 481 637 473 634 466 631 c 256
+ 389 598 329 578 244 573 c 256
+ 227 572 208 562 204 545 c 256
+ 200 530 212 524 222 522 c 256
+ 246 517 280 495 265 445 c 258
+ 157 97 l 258
+ 144 56 126 45 71 34 c 256
+ 58 31 49 24 46 12 c 256
+ 43 3 51 -3 59 -3 c 256
+EndSplineSet
+Fore
+SplineSet
+44 -3 m 256
+ 88 -3 170 2 210 2 c 256
+ 249 2 337 -2 379 -2 c 256
+ 389 -2 402 3 404 13 c 256
+ 407 26 398 30 387 34 c 256
+ 341 51 316 61 327 98 c 258
+ 468 552 l 258
+ 479 589 491 609 496 625 c 256
+ 499 632 494 637 484 637 c 256
+ 481 637 473 634 466 631 c 256
+ 389 598 314 578 229 573 c 256
+ 212 572 193 562 189 545 c 256
+ 185 530 197 524 207 522 c 256
+ 250 513 281 498 265 445 c 258
+ 157 97 l 258
+ 144 56 111 47 56 34 c 256
+ 43 31 34 24 31 12 c 256
+ 29 3 36 -3 44 -3 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" one.lf
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" one.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" one.sc
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" one.tosf
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 16 subtable" one.lf
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" onesuperior
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" oneinferior
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" one.subs
+Comment: "+AAoA-one.tablining+AAoA"
+EndChar

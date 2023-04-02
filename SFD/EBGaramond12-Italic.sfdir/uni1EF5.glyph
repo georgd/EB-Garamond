@@ -1,11 +1,41 @@
 StartChar: uni1EF5
-Encoding: 7925 7925 563
+Encoding: 2386 7925 2385
+GlifName: uni1E_F_5
 Width: 420
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "top" 239 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2019 803 N 1 0 0 1 159.522 -86 2
-Refer: 24 121 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" y dotbelowcomb
+Refer: 3012 121 N 1 0 0 1 0 0 2
+Refer: 731 803 N 1 0 0 1 319 -63 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vy
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vdotbelowcomb
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1EF5+AAoA"
 EndChar

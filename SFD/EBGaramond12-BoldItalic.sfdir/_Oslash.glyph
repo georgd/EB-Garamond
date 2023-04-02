@@ -1,0 +1,53 @@
+StartChar: Oslash
+Encoding: 309 216 308
+GlifName: O_slash
+Width: 692
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 512 675 basechar 0
+AnchorPoint: "bottom.cap" 278 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+7 -13 m 256
+ 16 -13 21 -10 26 -5 c 257
+ 773 585 l 257
+ 785 594 792 607 795 619 c 256
+ 797 628 797 639 797 647 c 257
+ 795 664 771 668 756 653 c 257
+ -6 61 l 257
+ -19 50 -30 37 -34 23 c 256
+ -39 4 -18 -13 7 -13 c 256
+EndSplineSet
+Fore
+SplineSet
+18 -14 m 256
+ 27 -14 35 -11 43 -4 c 258
+ 144 79 l 257
+ 183 103 l 257
+ 592 446 l 257
+ 667 499 l 257
+ 777 587 l 258
+ 787 595 794 609 794 629 c 256
+ 794 648 782 664 765 664 c 256
+ 757 664 747 660 737 652 c 258
+ 623 562 l 257
+ 581 537 l 257
+ 172 199 l 257
+ 116 162 l 257
+ -8 63 l 257
+ -20 54 -26 41 -26 27 c 256
+ -26 10 -7 -14 18 -14 c 256
+EndSplineSet
+Refer: 277 79 N 1 0 0 1 0 0 2
+Guideline: "" "" 856 828 73 0 0
+Guideline: "" "" 228 864 73 0 0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Oslash.sc
+Comment: "+AAoA-Oslash+AAoA"
+EndChar

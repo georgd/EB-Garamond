@@ -1,14 +1,49 @@
 StartChar: ccaron
-Encoding: 269 269 191
+Encoding: 661 269 660
 GlifName: ccaron
-Width: 377
+Width: 407
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 237 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+226 550 m 256
+ 204 580 173 620 160 635 c 256
+ 152 644 138 657 130 657 c 256
+ 121 657 121 653 121 644 c 256
+ 121 631 189 521 209 490 c 256
+ 214 482 221 472 229 472 c 256
+ 237 472 244 482 249 490 c 256
+ 269 521 337 631 337 644 c 256
+ 337 653 337 657 328 657 c 256
+ 320 657 307 644 299 635 c 256
+ 286 620 255 580 233 550 c 256
+ 230 546 229 546 226 550 c 256
+333 319 m 256
+ 343 319 371 336 371 353 c 256
+ 371 357 369 361 366 365 c 257
+ 336 402 289 413 246 413 c 256
+ 123 413 35 303 35 180 c 256
+ 35 77 105 -14 206 -14 c 256
+ 292 -14 372 42 372 79 c 256
+ 372 86 366 93 360 93 c 256
+ 357 93 354 91 351 88 c 257
+ 325 54 305 38 263 38 c 256
+ 167 38 104 130 104 226 c 256
+ 104 299 141 376 214 376 c 256
+ 264 376 275 365 308 329 c 257
+ 313 324 324 319 333 319 c 256
+EndSplineSet
 Fore
-Refer: 92 780 N 1 0 0 1 91 17 2
-Refer: 14 99 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" ccaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" c uni030C
+Refer: 647 99 N 1 0 0 1 0 0 2
+Refer: 659 711 N 1 0 0 1 87 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" ccaron.sc
+Comment: "+AAoA-ccaron+AAoA"
 EndChar

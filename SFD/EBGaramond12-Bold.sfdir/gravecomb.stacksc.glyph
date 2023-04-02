@@ -1,0 +1,36 @@
+StartChar: gravecomb.stacksc
+Encoding: 942 -1 941
+GlifName: gravecomb.stacksc
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+92 471 m 256
+ 98 465 109 456 114 456 c 256
+ 119 456 119 459 119 464 c 256
+ 119 479 81 596 76 605 c 256
+ 70 615 63 623 53 623 c 256
+ 43 623 10 608 10 593 c 256
+ 10 581 85 478 92 471 c 256
+112 457 m 256
+ 118 457 124 459 124 469 c 256
+ 124 474 123 482 120 492 c 256
+ 108 531 78 610 65 641 c 256
+ 55 663 43 669 18 670 c 256
+ -15 672 -44 666 -45 649 c 256
+ -45 642 -43 633 -36 623 c 256
+ 1 572 47 522 87 473 c 256
+ 97 463 105 457 112 457 c 256
+EndSplineSet
+Fore
+Refer: 940 -1 N 1 0 0 1 7 0 2
+Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gravecomb.stacksc+AAoA"
+EndChar

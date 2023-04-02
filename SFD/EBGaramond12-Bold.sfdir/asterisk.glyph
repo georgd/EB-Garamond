@@ -1,45 +1,53 @@
 StartChar: asterisk
-Encoding: 42 42 107
-Width: 306
+Encoding: 573 42 572
+GlifName: asterisk
+Width: 361
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-42 557 m 0
- 37 560 33 567 33 577 c 0
- 33 590 40 593 46 593 c 0
- 48 593 50 593 52 592 c 0
- 75 578 96 569 115 558 c 1
- 111 585 108 614 107 647 c 1
- 107 648 l 2
- 107 661 116 672 134 672 c 0
- 147 672 158 663 160 652 c 0
- 166.284 622.284 172.321 592.321 179 563 c 1
- 198 579 217 594 241 612 c 0
- 244 615 247 616 250 616 c 0
- 256 616 266 614 266 600 c 0
- 266 592 262 586 259 581 c 1
- 211 526 l 1
- 228 515 244 503 265 486 c 0
- 270 483 274 475 274 465 c 0
- 274 452 267 449 261 449 c 0
- 259 449 257 449 255 450 c 0
- 232 464 211 473 192 484 c 1
- 196 457 199 428 200 394 c 0
- 200 381 191 369 173 369 c 0
- 160 369 149 378 147 389 c 2
- 128 479 l 1
- 109 463 90 447 66 429 c 0
- 63 426 60 425 57 425 c 0
- 51 425 41 428 41 442 c 0
- 41 450 45 456 48 461 c 2
- 96 517 l 1
- 94 518 92 519 90 521 c 0
- 75 531 60 542 42 557 c 0
+199 348 m 256
+ 222 348 231 367 231 386 c 256
+ 231 411 227 449 227 458 c 257
+ 248 451 270 443 291 436 c 257
+ 320 430 341 441 341 466 c 256
+ 341 480 330 492 316 499 c 256
+ 294 510 262 523 254 528 c 257
+ 306 572 l 258
+ 315 580 321 592 321 603 c 256
+ 321 621 307 634 291 634 c 256
+ 282 634 273 630 265 625 c 256
+ 244 612 216 591 208 587 c 257
+ 199 654 l 258
+ 197 672 183 688 165 689 c 257
+ 142 688 132 668 132 648 c 256
+ 132 623 132 603 134 579 c 257
+ 113 587 92 596 71 604 c 256
+ 42 614 20 602 20 578 c 256
+ 20 563 30 550 43 543 c 256
+ 65 531 97 516 104 510 c 257
+ 51 468 l 257
+ 41 461 34 448 34 436 c 256
+ 34 418 48 407 64 407 c 256
+ 73 407 81 410 89 414 c 256
+ 111 427 142 447 151 450 c 257
+ 164 382 l 257
+ 167 362 181 348 199 348 c 256
 EndSplineSet
-Substitution2: "sups subtable" asterisk.sups
-Substitution2: "sinf subtable" asterisk.sinf
-Substitution2: "ordn subtable" asterisk.ordn
-Substitution2: "subs subtable" asterisk.subs
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss04' Style Set 4 lookup 33 subtable" uni2766
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" asterisk.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" asterisk.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" asterisk.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" asterisk.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" asterisk.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" asterisk.subs
+Comment: "+AAoA-asterisk+AAoA"
 EndChar

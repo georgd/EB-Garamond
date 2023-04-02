@@ -1,0 +1,48 @@
+StartChar: uni04D9
+Encoding: 2060 1241 2059
+GlifName: uni04D_9
+Width: 389
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 261 440 basechar 0
+AnchorPoint: "bottom" 247 453 basechar 0
+LayerCount: 2
+Back
+SplineSet
+279 437 m 256
+ 179 437 114 365 76 291 c 257
+ 73 287 73 280 73 276 c 256
+ 73 270 75 265 82 265 c 256
+ 87 265 92 269 99 277 c 257
+ 131 310 160 329 195 329 c 256
+ 250 329 277 286 276 239 c 257
+ 275 233 275 227 273 221 c 257
+ 272 216 270 213 264 212 c 256
+ 167 191 27 156 27 63 c 256
+ 27 22 61 -15 145 -15 c 256
+ 277 -15 416 139 416 311 c 256
+ 416 383 335 437 279 437 c 256
+257 174 m 256
+ 261 175 265 174 264 168 c 256
+ 251 88 206 23 161 23 c 256
+ 141 23 132 42 133 56 c 256
+ 139 131 195 156 257 174 c 256
+EndSplineSet
+Fore
+Refer: 1722 601 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|e
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|e
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni04D9+AAoA"
+EndChar

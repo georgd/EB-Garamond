@@ -1,30 +1,41 @@
 StartChar: zero
-Encoding: 48 48 83
+Encoding: 3205 48 3204
 GlifName: zero
-Width: 507
+Width: 480
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-259 372 m 0
- 177 372 118 301 118 204 c 0
- 118 119 165 26 247 26 c 0
- 329 26 389 78 389 203 c 0
- 389 286 343 372 259 372 c 0
-252 413 m 0
- 370 413 467 320 467 203 c 16
- 467 84 372 -15 254 -15 c 0
- 134 -15 40 85 40 204 c 16
- 40 320 136 413 252 413 c 0
-EndSplineSet
-Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 35 subtable" zero.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 33 subtable" zero.lnum
-Substitution2: "Single Substitution lookup 32 subtable" zero.ordn
-Substitution2: "Single Substitution lookup 31 subtable" zero.subs
-Substitution2: "sups subtable" zero.sups
-Substitution2: "sinf subtable" zero.sinf
-Substitution2: "ordn subtable" zero.ordn
-Substitution2: "subs subtable" zero.subs
+Refer: 3206 -1 N 1 0 0 1 -3 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vzero.lf
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" zero.lf
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" zero.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" zero.sc
+Substitution2: "'onum' Oldstyle Figures lookup 19 subtable" zero.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 17 subtable" zero.lf
+Substitution2: "'ordn' Ordinals lookup 15 subtable" zero.ordn
+Substitution2: "UP subtable" zero.numr
+Substitution2: "'sups' Superscript lookup 9 subtable" zerosuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" zeroinferior
+Substitution2: "'subs' Subscript lookup 7 subtable" zero.subs
+Comment: "+AAoA-zero.tablining+AAoA"
 EndChar

@@ -1,26 +1,40 @@
 StartChar: guilsinglleft.alt
-Encoding: 1114983 -1 2682
+Encoding: 957 -1 956
 GlifName: guilsinglleft.alt
-Width: 430
+Width: 351
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-204 217 m 0
- 197 210 197 210 204 203 c 0
- 246 160 288 105 324 40 c 0
- 326 37 328 31 328 28 c 0
- 328 22 323 19 318 19 c 0
- 305 19 293 32 288 37 c 0
- 243 84 185 137 118 182 c 0
- 109 188 100 202 100 211 c 0
- 100 214 101 217 103 218 c 0
- 180 270 231 318 296 388 c 0
- 301 393 310 400 322 400 c 0
- 326 400 330 397 330 392 c 0
- 330 387 327 381 324 376 c 0
- 268 291 241 257 204 217 c 0
+279 19 m 256
+ 286 19 289 22 289 28 c 256
+ 289 32 288 36 285 40 c 256
+ 251 102 211 156 165 203 c 256
+ 160 208 161 212 165 217 c 256
+ 200 255 240 308 285 376 c 257
+ 289 383 291 388 291 392 c 256
+ 291 397 288 400 283 400 c 256
+ 274 400 265 396 257 388 c 257
+ 191 317 127 261 74 225 c 256
+ 62 217 60 214 60 205 c 256
+ 60 200 67 190 79 182 c 256
+ 137 143 194 94 249 37 c 256
+ 261 25 271 19 279 19 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vguilsinglleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vguilsinglleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-guilsinglleft.alt+AAoA"
 EndChar

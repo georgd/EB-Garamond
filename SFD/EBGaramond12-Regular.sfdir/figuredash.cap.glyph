@@ -1,19 +1,17 @@
 StartChar: figuredash.cap
-Encoding: 1115125 -1 2837
+Encoding: 873 -1 872
 GlifName: figuredash.cap
 Width: 528
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-36 351 m 26
- 499 351 l 18
- 505 351 512 345 512 339 c 0
- 512 317 499 291 481 291 c 26
- 26 291 l 26
- 19 291 12 297 12 303 c 0
- 12 312 15 351 36 351 c 26
-EndSplineSet
-Validated: 1
+Refer: 871 8210 N 1 0 0 1 0 110 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.99,0.62,0.11,1
+p2
+s."
+Comment: "+AAoA-figuredash.cap+AAoA"
 EndChar

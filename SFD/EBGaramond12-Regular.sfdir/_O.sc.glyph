@@ -1,19 +1,29 @@
 StartChar: O.sc
-Encoding: 1114650 -1 1649
+Encoding: 282 -1 281
 GlifName: O_.sc
 Width: 616
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 350 8 basechar 0
-AnchorPoint: "ogonek" 403 18 basechar 0
-AnchorPoint: "below_accent" 312 -100 basechar 0
-AnchorPoint: "top_accent" 308 615 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 312 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1681 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Position2: "Single Positioning lookup 105 subtable" dx=0 dy=0 dh=-15 dv=0
-Position2: "Single Positioning lookup 104 subtable" dx=0 dy=0 dh=-25 dv=0
-Position2: "Single Positioning lookup 103 subtable" dx=0 dy=0 dh=-25 dv=0
-Comment: "."
+SplineSet
+302 -14 m 256
+ 466 -14 556 103 556 226 c 256
+ 556 360 433 458 302 458 c 256
+ 175 458 60 342 60 222 c 256
+ 60 93 169 -14 302 -14 c 256
+318 22 m 256
+ 206 22 150 120 150 237 c 256
+ 150 332 202 426 296 426 c 256
+ 400 426 466 318 466 217 c 256
+ 466 138 433 22 318 22 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-O.sc+AAoA"
 EndChar

@@ -1,33 +1,45 @@
 StartChar: l
-Encoding: 108 108 2
-Width: 243
-Flags: HMW
-LayerCount: 3
+Encoding: 1062 108 1061
+GlifName: l
+Width: 295
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 146 -30 basechar 0
+LayerCount: 2
 Fore
 SplineSet
-174 67 m 2
- 174 40 192 35 207 29 c 0
- 215 24 224 20 224 8 c 0
- 224 -1 211 -3 204 -3 c 0
- 164 -3 158 3 122 3 c 0
- 86 3 79 -3 39 -3 c 0
- 32 -3 19 -1 19 8 c 0
- 19 20 28 24 36 29 c 0
- 51 35 69 40 69 67 c 2
- 69 567 l 2
- 69 606 59 632 34 639 c 0
- 30 640 28 646 28 652 c 0
- 28 658 31 663 36 664 c 0
- 95 676 133 692 170 704 c 0
- 171 704 171 705 172 705 c 0
- 175 705 179 701 179 698 c 0
- 179 686 174 652 174 563 c 2
- 174 67 l 2
+35 -3 m 256
+ 75 -3 109 2 144 2 c 256
+ 179 2 220 -1 260 -1 c 257
+ 273 -1 280 5 280 14 c 256
+ 280 24 272 30 257 35 c 256
+ 237 42 220 44 220 73 c 257
+ 220 638 l 257
+ 221 657 225 682 225 692 c 256
+ 225 698 223 705 214 705 c 256
+ 210 705 206 704 200 702 c 256
+ 169 691 86 659 36 649 c 256
+ 30 648 26 643 26 634 c 256
+ 26 624 30 619 37 618 c 256
+ 70 611 75 582 75 546 c 258
+ 75 71 l 258
+ 75 42 58 40 38 33 c 256
+ 23 28 15 22 15 12 c 256
+ 15 3 22 -3 35 -3 c 256
 EndSplineSet
-Substitution2: "Smallcaps subtable" l.sc
-Substitution2: "sups subtable" l.sups
-Substitution2: "sinf subtable" l.sinf
-Substitution2: "ordn subtable" l.ordn
-Substitution2: "subs subtable" l.subs
-Substitution2: "loclCAT subtable" l.CAT
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss01' Style Set 1 lookup 29 subtable" L.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals lookup 24 subtable" l.pc
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" l.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" l.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" l.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" l.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" l.subs
+Comment: "+AAoA-l+AAoA"
 EndChar

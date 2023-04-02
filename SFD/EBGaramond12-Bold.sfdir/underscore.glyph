@@ -1,23 +1,66 @@
 StartChar: underscore
-Encoding: 95 95 87
-Width: 349
+Encoding: 1547 95 1546
+GlifName: underscore
+Width: 610
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+487 -132 m 258
+ 24 -132 l 258
+ 6 -132 0 -161 0 -170 c 256
+ 0 -176 7 -182 14 -182 c 258
+ 469 -182 l 258
+ 488 -182 494 -163 500 -146 c 257
+ 500 -145 501 -144 501 -143 c 256
+ 501 -137 493 -132 487 -132 c 258
+226 -563 m 256
+ 306 -563 380 -508 380 -496 c 256
+ 380 -484 376 -474 369 -474 c 256
+ 366 -474 364 -475 362 -476 c 256
+ 347 -482 334 -492 297 -492 c 256
+ 258 -492 233 -463 233 -400 c 258
+ 233 -213 l 258
+ 233 -196 244 -188 273 -188 c 258
+ 365 -188 l 258
+ 372 -188 378 -166 378 -145 c 256
+ 378 -138 373 -126 370 -126 c 258
+ 250 -126 l 258
+ 234 -126 223 -121 225 -104 c 258
+ 232 -53 l 258
+ 234 -35 229 -31 216 -31 c 256
+ 205 -31 199 -37 189 -45 c 256
+ 155 -75 80 -125 31 -141 c 256
+ 26 -143 25 -147 25 -150 c 256
+ 25 -163 33 -185 42 -185 c 258
+ 57 -185 l 258
+ 79 -186 88 -191 88 -203 c 258
+ 88 -433 l 258
+ 88 -516 133 -563 226 -563 c 256
+EndSplineSet
 Fore
 SplineSet
-16 -129 m 2
- 341 -129 l 2
- 345 -129 351 -133 351 -143 c 0
- 351 -147 350 -146 350 -146 c 1
- 350 -147 l 1
- 346 -164 342 -185 328 -185 c 2
- 9 -185 l 2
- 4 -185 -1 -180 -1 -170 c 0
- -1 -159 3 -129 16 -129 c 2
+585 -127 m 258
+ 29 -127 l 258
+ 8 -127 0 -162 0 -174 c 256
+ 0 -180 8 -188 17 -188 c 258
+ 575 -188 l 258
+ 594 -188 609 -160 609 -143 c 256
+ 609 -134 599 -127 585 -127 c 258
 EndSplineSet
-Substitution2: "sups subtable" underscore.sups
-Substitution2: "sinf subtable" underscore.sinf
-Substitution2: "ordn subtable" underscore.ordn
-Substitution2: "subs subtable" underscore.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" underscore.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" underscore.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" underscore.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" underscore.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" underscore.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" underscore.subs
+Comment: "+AAoA-underscore+AAoA"
 EndChar

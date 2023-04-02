@@ -1,0 +1,35 @@
+StartChar: asciitilde
+Encoding: 567 126 566
+GlifName: asciitilde
+Width: 555
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+95 254 m 256
+ 101 254 154 299 207 299 c 256
+ 242 299 281 286 319 274 c 256
+ 351 264 382 254 408 254 c 256
+ 478 254 557 357 557 373 c 256
+ 557 380 544 406 534 406 c 256
+ 525 406 517 395 497 384 c 256
+ 476 373 449 361 422 361 c 256
+ 384 361 351 371 320 381 c 256
+ 284 393 252 406 221 406 c 256
+ 151 406 72 303 72 287 c 256
+ 72 280 85 254 95 254 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" asciitilde.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" asciitilde.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" asciitilde.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" asciitilde.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" asciitilde.subs
+Comment: "+AAoA-asciitilde+AAoA"
+EndChar

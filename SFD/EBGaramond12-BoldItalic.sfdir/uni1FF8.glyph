@@ -1,0 +1,48 @@
+StartChar: uni1FF8
+Encoding: 2623 8184 2622
+GlifName: uni1F_F_8
+Width: 843
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 429 -30 basechar 0
+AnchorPoint: "bottomgreek" 427 -30 basechar 0
+AnchorPoint: "top.cap" 652 675 basechar 0
+AnchorPoint: "topgreek" 83 400 basechar 0
+LayerCount: 2
+Fore
+Refer: 306 927 N 1 0 0 1 151 0 2
+Refer: 909 -1 N 1 0 0 1 24 -40 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOmicron
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vgravecomb.grk
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VOmicron
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1FF8+AAoA"
+EndChar

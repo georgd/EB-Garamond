@@ -1,14 +1,45 @@
 StartChar: upsilontonos
-Encoding: 973 973 2426
+Encoding: 3133 973 3132
 GlifName: upsilontonos
-Width: 424
+Width: 434
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 227 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+225 498 m 256
+ 246 534 296 632 296 642 c 256
+ 296 658 277 683 258 683 c 256
+ 250 683 236 677 233 665 c 256
+ 223 629 192 507 192 489 c 256
+ 192 480 192 476 201 476 c 256
+ 209 476 219 488 225 498 c 256
+120 256 m 256
+ 120 204 82 132 82 106 c 256
+ 82 45 129 -14 198 -14 c 256
+ 297 -14 389 109 389 227 c 256
+ 389 300 347 424 300 424 c 256
+ 296 424 292 421 292 416 c 256
+ 292 409 334 343 334 249 c 256
+ 334 155 264 62 194 62 c 256
+ 148 62 131 81 131 140 c 256
+ 131 166 165 255 165 307 c 256
+ 165 376 142 414 93 414 c 256
+ 58 414 15 359 15 327 c 256
+ 15 317 18 315 25 315 c 256
+ 32 315 41 328 72 328 c 256
+ 118 328 120 277 120 256 c 256
+EndSplineSet
 Fore
-Refer: 2704 -1 N 1 0 0 1 178 20 2
-Refer: 2418 965 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" upsilontonos.sc
-MultipleSubs2: "CCMP_Precomp subtable" upsilon acutecomb.grk
+Refer: 3126 965 N 1 0 0 1 0 0 2
+Refer: 1476 900 N 1 0 0 1 149 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" upsilontonos.sc
+Comment: "+AAoA-upsilontonos+AAoA"
 EndChar

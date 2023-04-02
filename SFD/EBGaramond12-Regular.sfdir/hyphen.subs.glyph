@@ -1,19 +1,25 @@
 StartChar: hyphen.subs
-Encoding: 1114212 -1 1211
+Encoding: 990 -1 989
 GlifName: hyphen.subs
-Width: 178
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-22 102 m 0
- 19 102 19 104 19 106 c 0
- 19 119 23 147 29 148 c 0
- 71 153 150 163 154 163 c 0
- 158 163 159 161 159 159 c 0
- 159 145 156 118 146 117 c 0
- 107 112 26 102 22 102 c 0
-EndSplineSet
-Validated: 1
+Refer: 986 -1 N 1 0 0 1 0 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vhyphen.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vhyphen.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-hyphen.subs+AAoA"
 EndChar

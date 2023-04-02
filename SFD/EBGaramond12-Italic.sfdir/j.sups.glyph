@@ -1,11 +1,39 @@
 StartChar: j.sups
-Encoding: 65986 -1 1578
-Width: 151
-VWidth: 167
-Flags: MW
+Encoding: 1007 -1 1006
+GlifName: j.sups
+Width: 163
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1272 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 1001 -1 N 1 0 0 1 50 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vj.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vj.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vj.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-j.sups+AAoA"
 EndChar

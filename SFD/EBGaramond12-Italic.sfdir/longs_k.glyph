@@ -1,55 +1,44 @@
 StartChar: longs_k
-Encoding: 65597 -1 1125
-Width: 692
-Flags: MW
+Encoding: 1061 -1 1060
+GlifName: longs_k
+Width: 740
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 432 -30 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-613 346 m 0
- 613 368 594 372 574 372 c 0
- 518 372 415 248 415 220 c 0
- 415 212 419 203 427 203 c 0
- 510 203 613 296 613 346 c 0
-514 673 m 2
- 393 266 l 2
- 389 251 397 255 402 262 c 0
- 474 357 564 414 612 414 c 0
- 651 414 682 404 682 371 c 0
- 682 296 547 207 479 188 c 0
- 472 186 471 184 474 177 c 2
- 520 68 l 2
- 526 54 538 39 553 39 c 0
- 578 39 607 66 625 95 c 0
- 632 107 636 110 641 110 c 0
- 643 110 646 105 646 100 c 0
- 646 35 562 -21 532 -21 c 0
- 517 -21 488 -15 469 28 c 2
- 431 134 l 2
- 423 156 407 178 385 178 c 0
- 376 178 362 150 358 136 c 0
- 352 117 326 35 319 16 c 0
- 311 -6 309 -15 293 -15 c 0
- 283 -15 268 3 268 15 c 0
- 268 21 270 35 281 74 c 2
- 422 557 l 2
- 428 579 433 599 433 616 c 0
- 433 638 420 665 370 665 c 0
- 317 664 264 580 244 532 c 8
- 161 332 128 172 87 0 c 0
- 37 -216 -68 -288 -121 -288 c 0
- -171 -288 -217 -266 -217 -244 c 0
- -217 -220 -195 -191 -181 -191 c 0
- -155 -191 -135 -240 -93 -240 c 0
- -58 -240 -29 -206 7 -58 c 0
- 39 69 93 318 129 411 c 0
- 210 621 285 704 404 704 c 0
- 427 704 439 700 451 689 c 0
- 455 686 462 685 466 688 c 0
- 482 700 505 707 512 707 c 0
- 518 707 519 707 519 697 c 0
- 519 686 517 684 514 673 c 2
+-111 -290 m 256
+ -5 -290 68 -186 108 -42 c 258
+ 168 172 l 258
+ 236 413 281 663 421 663 c 256
+ 472 663 502 640 528 579 c 257
+ 564 626 l 257
+ 564 667 523 705 453 705 c 256
+ 263 705 172 436 106 184 c 258
+ 48 -38 l 258
+ 14 -161 -21 -250 -71 -250 c 256
+ -95 -250 -111 -239 -123 -226 c 256
+ -136 -212 -145 -198 -155 -198 c 256
+ -168 -198 -194 -220 -194 -240 c 256
+ -194 -273 -161 -290 -111 -290 c 256
 EndSplineSet
-Validated: 1
-Ligature2: "liga_standard subtable" longs k
-LCarets2: 1 218
+Refer: 1009 107 N 1 0 0 1 285 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vlongs
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vk
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'dlig' Discretionary Ligatures in Latin lookup 39 subtable" longs k
+Ligature2: "'hlig' Historic Ligatures in Latin lookup 28 subtable" longs k
+Comment: "+AAoA-longs_k+AAoA"
 EndChar

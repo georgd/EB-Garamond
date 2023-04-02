@@ -1,13 +1,45 @@
 StartChar: uni22EF
-Encoding: 8943 8943 873
+Encoding: 2944 8943 2943
 GlifName: uni22E_F_
-Width: 630
+Width: 620
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+520 260 m 256
+ 490 260 465 235 465 205 c 256
+ 465 175 490 150 520 150 c 256
+ 550 150 575 175 575 205 c 256
+ 575 235 550 260 520 260 c 256
+310 260 m 256
+ 280 260 255 235 255 205 c 256
+ 255 175 280 150 310 150 c 256
+ 340 150 365 175 365 205 c 256
+ 365 235 340 260 310 260 c 256
+100 260 m 256
+ 70 260 45 235 45 205 c 256
+ 45 175 70 150 100 150 c 256
+ 130 150 155 175 155 205 c 256
+ 155 235 130 260 100 260 c 256
+EndSplineSet
 Fore
-Refer: 112 183 N 1 0 0 1 420 0 2
-Refer: 112 183 N 1 0 0 1 210 0 2
-Refer: 112 183 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1277 183 N 1 0 0 1 420 0 2
+Refer: 1277 183 N 1 0 0 1 0 0 2
+Refer: 1277 183 N 1 0 0 1 209 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vperiodcentered
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vperiodcentered
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni22EF+AAoA"
 EndChar

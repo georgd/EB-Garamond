@@ -1,10 +1,22 @@
 StartChar: uni01C4
-Encoding: 452 452 585
-Width: 1379
+Encoding: 1588 452 1587
+GlifName: uni01C_4
+Width: 1387
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap_1" 301 -30 basechar 0
+AnchorPoint: "bottom.cap_2" 1018 -30 basechar 0
+AnchorPoint: "top.cap_1" 475 675 basechar 0
+AnchorPoint: "top.cap_2" 1175 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 286 381 N 1 0 0 1 776 0 2
-Refer: 43 68 N 1 0 0 1 0 0 2
+Refer: 68 68 N 1 0 0 1 0 0 2
+Refer: 489 381 N 1 0 0 1 752 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni01C4+AAoA"
 EndChar

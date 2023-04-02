@@ -1,0 +1,67 @@
+StartChar: uni04B1
+Encoding: 2047 1201 2046
+GlifName: uni04B_1
+Width: 543
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+70 -1 m 257
+ 352 -1 l 257
+ 370 -1 378 13 386 29 c 257
+ 389 36 380 43 373 43 c 257
+ 83 43 l 257
+ 67 43 56 20 56 11 c 256
+ 56 5 63 -1 70 -1 c 257
+260 -383 m 256
+ 340 -383 414 -328 414 -316 c 256
+ 414 -304 410 -294 403 -294 c 256
+ 400 -294 398 -295 396 -296 c 256
+ 381 -302 368 -312 331 -312 c 256
+ 292 -312 267 -283 267 -220 c 258
+ 267 -33 l 258
+ 267 -16 278 -8 307 -8 c 258
+ 399 -8 l 258
+ 406 -8 412 14 412 35 c 256
+ 412 42 407 54 404 54 c 258
+ 284 54 l 258
+ 268 54 257 59 259 76 c 258
+ 266 127 l 258
+ 268 145 263 149 250 149 c 256
+ 239 149 233 143 223 135 c 256
+ 189 105 114 55 65 39 c 256
+ 60 37 59 33 59 30 c 256
+ 59 17 67 -5 76 -5 c 258
+ 91 -5 l 258
+ 113 -6 122 -11 122 -23 c 258
+ 122 -253 l 258
+ 122 -336 167 -383 260 -383 c 256
+EndSplineSet
+Fore
+SplineSet
+36 -8 m 258
+ 349 -8 l 258
+ 371 -8 392 17 392 35 c 256
+ 392 45 382 54 369 54 c 258
+ 47 54 l 258
+ 30 54 14 31 14 13 c 256
+ 14 1 21 -8 36 -8 c 258
+EndSplineSet
+Refer: 2044 1199 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni04AF
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni04AF
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni04B1+AAoA"
+EndChar

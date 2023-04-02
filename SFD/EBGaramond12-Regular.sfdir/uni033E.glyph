@@ -1,23 +1,30 @@
 StartChar: uni033E
-Encoding: 830 830 2385
+Encoding: 2029 830 2028
 GlifName: uni033E_
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 148 711 basemark 0
-AnchorPoint: "top_accent" 152 533 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-177 688 m 0
- 182 688 191 686 191 678 c 0
- 191 670 161 650 161 628 c 0
- 161 598 189 583 189 555 c 0
- 189 525 135 472 120 472 c 0
- 114 472 105 477 105 486 c 0
- 105 493 133 504 133 529 c 0
- 133 563 105 573 105 604 c 0
- 105 637 159 688 177 688 c 0
+-28 472 m 256
+ -13 472 41 525 41 555 c 256
+ 41 569 34 580 27 591 c 256
+ 20 602 13 613 13 628 c 256
+ 13 641 24 654 33 664 c 256
+ 38 670 43 675 43 678 c 256
+ 43 686 34 688 29 688 c 256
+ 11 688 -43 637 -43 604 c 256
+ -43 589 -36 579 -29 568 c 256
+ -22 557 -15 546 -15 529 c 256
+ -15 516 -23 506 -30 499 c 256
+ -37 492 -43 489 -43 486 c 256
+ -43 477 -34 472 -28 472 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni033E+AAoA"
 EndChar

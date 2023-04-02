@@ -1,12 +1,28 @@
 StartChar: O.ordn
-Encoding: 1114448 -1 1447
+Encoding: 280 -1 279
 GlifName: O_.ordn
-Width: 508
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+Width: 535
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1245 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+267 272 m 256
+ 409 272 490 373 490 481 c 256
+ 490 600 385 678 271 678 c 256
+ 135 675 45 591 45 472 c 256
+ 45 358 152 272 267 272 c 256
+275 298 m 256
+ 179 299 121 387 121 490 c 256
+ 121 574 166 652 262 652 c 256
+ 366 652 417 554 417 465 c 256
+ 417 371 361 298 275 298 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-O.ordn+AAoA"
 EndChar

@@ -1,45 +1,41 @@
 StartChar: eight
-Encoding: 56 56 85
+Encoding: 781 56 780
 GlifName: eight
-Width: 452
+Width: 480
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-265 340 m 0
- 308 375 319 416 319 472 c 16
- 319 519 284 565 237 565 c 8
- 189 565 142 532 142 486 c 8
- 142 414 188 393 253 340 c 0
- 257 337 261 337 265 340 c 0
-286 315 m 0
- 356 269 403 232 403 157 c 8
- 403 60 314 -13 222 -13 c 8
- 137 -13 61 47 61 132 c 16
- 61 214 135 256 183 282 c 0
- 192 287 188 289 180 295 c 0
- 123 342 72 388 72 467 c 16
- 72 543 160 589 242 589 c 16
- 316 589 389 540 389 465 c 16
- 389 420 363 393 341 374 c 0
- 323 358 313 351 291 335 c 0
- 275 323 276 322 286 315 c 0
-197 261 m 0
- 157 229 131 207 131 147 c 8
- 131 84 173 24 236 24 c 16
- 292 24 333 65 333 118 c 16
- 333 176 277 222 223 259 c 0
- 216 264 213 267 208 267 c 0
- 205 267 202 265 197 261 c 0
-EndSplineSet
-Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 35 subtable" eight.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 33 subtable" eight.lnum
-Substitution2: "Single Substitution lookup 32 subtable" eight.ordn
-Substitution2: "Single Substitution lookup 31 subtable" eight.subs
-Substitution2: "sups subtable" eight.sups
-Substitution2: "sinf subtable" eight.sinf
-Substitution2: "ordn subtable" eight.ordn
-Substitution2: "subs subtable" eight.subs
+Refer: 782 -1 N 1 0 0 1 10 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Veight.lf
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" eight.lf
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" eight.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" eight.sc
+Substitution2: "'onum' Oldstyle Figures lookup 19 subtable" eight.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 17 subtable" eight.lf
+Substitution2: "'ordn' Ordinals lookup 15 subtable" eight.ordn
+Substitution2: "UP subtable" eight.numr
+Substitution2: "'sups' Superscript lookup 9 subtable" eightsuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" eightinferior
+Substitution2: "'subs' Subscript lookup 7 subtable" eight.subs
+Comment: "+AAoA-eight.tablining+AAoA"
 EndChar

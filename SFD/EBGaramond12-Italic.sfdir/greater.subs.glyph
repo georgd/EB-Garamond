@@ -1,25 +1,25 @@
 StartChar: greater.subs
-Encoding: 65636 -1 1228
-Width: 328
+Encoding: 921 -1 920
+GlifName: greater.subs
+Width: 370
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-307 140 m 2
- 110 245 l 10
- 100 250 103 269 105 274 c 0
- 106 277 109 281 113 281 c 0
- 114 281 114 281 115 281 c 10
- 338 161 l 26
- 347 156 358 149 357 145 c 0
- 355 140 343 122 329 117 c 26
- 28 -3 l 18
- 27 -3 27 -3 26 -3 c 0
- 22 -3 20 2 22 5 c 8
- 30 18 37 28 51 33 c 18
- 307 137 l 2
- 309 138 309 139 307 140 c 2
-EndSplineSet
-Validated: 1
+Refer: 917 -1 N 1 0 0 1 -87 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vgreater.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vgreater.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-greater.subs+AAoA"
 EndChar

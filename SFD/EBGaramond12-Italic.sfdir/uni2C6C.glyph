@@ -1,0 +1,46 @@
+StartChar: uni2C6C
+Encoding: 2884 11372 2883
+GlifName: uni2C_6C_
+Width: 407
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 165 -30 basechar 0
+AnchorPoint: "top" 257 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+149 -220 m 256
+ 158 -220 217 -204 252 -180 c 256
+ 302 -146 321 -78 334 0 c 256
+ 338 24 354 67 378 96 c 257
+ 337 66 l 257
+ 341 60 l 257
+ 314 23 294 -6 280 -29 c 256
+ 266 -53 258 -68 247 -100 c 256
+ 223 -170 184 -187 142 -201 c 257
+ 137 -203 133 -205 133 -210 c 256
+ 133 -218 142 -220 149 -220 c 256
+EndSplineSet
+Fore
+SplineSet
+149 -220 m 256
+ 158 -220 217 -204 252 -180 c 256
+ 302 -146 321 -78 334 0 c 256
+ 338 23 359 65 359 92 c 257
+ 337 66 l 257
+ 341 60 l 257
+ 314 23 294 -6 280 -29 c 256
+ 266 -53 258 -68 247 -100 c 256
+ 223 -170 184 -187 142 -201 c 257
+ 137 -203 133 -205 133 -210 c 256
+ 133 -218 142 -220 149 -220 c 256
+EndSplineSet
+Refer: 3029 122 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2C6C+AAoA"
+EndChar

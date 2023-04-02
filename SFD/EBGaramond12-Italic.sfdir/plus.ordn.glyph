@@ -1,11 +1,39 @@
 StartChar: plus.ordn
-Encoding: 65821 -1 1413
-Width: 390
-VWidth: 280
-Flags: MW
+Encoding: 1241 -1 1240
+GlifName: plus.ordn
+Width: 393
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1209 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+209 275 m 256
+ 215 275 238 277 242 290 c 258
+ 279 411 l 257
+ 280 413 281 413 283 413 c 258
+ 394 413 l 258
+ 407 413 415 428 423 441 c 257
+ 425 445 422 449 417 449 c 258
+ 294 449 l 258
+ 292 449 291 449 292 453 c 257
+ 327 567 l 257
+ 328 571 326 575 321 575 c 256
+ 317 575 293 570 289 557 c 258
+ 257 454 l 257
+ 256 450 255 449 251 449 c 258
+ 137 449 l 258
+ 124 449 115 425 113 420 c 257
+ 112 416 115 413 120 413 c 258
+ 242 413 l 258
+ 244 413 245 412 244 410 c 257
+ 205 284 l 257
+ 204 280 205 275 209 275 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-plus.ordn+AAoA"
 EndChar

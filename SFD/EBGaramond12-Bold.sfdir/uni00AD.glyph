@@ -1,20 +1,28 @@
 StartChar: uni00AD
-Encoding: 173 173 98
-Width: 382
+Encoding: 1553 173 1552
+GlifName: uni00A_D_
+Width: 325
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-44 168 m 1
- 38 168 l 2
- 31 168 28 170 28 176 c 2
- 28 177 l 1
- 31 199 37 231 53 232 c 0
- 149 241 245 251 341 258 c 0
- 346 258 354 257 354 249 c 1
- 331 54 354 249 354 249 c 1
- 351 224 346 195 321 193 c 0
- 231 184 140 175 44 168 c 1
-EndSplineSet
+Refer: 984 45 N 1 0 0 1 0 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vhyphen
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vhyphen
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni00AD.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni00AD.sc
+Comment: "+AAoA-uni00AD+AAoA"
 EndChar

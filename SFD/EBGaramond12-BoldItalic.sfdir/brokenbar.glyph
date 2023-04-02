@@ -1,0 +1,37 @@
+StartChar: brokenbar
+Encoding: 635 166 634
+GlifName: brokenbar
+Width: 281
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+103 -290 m 256
+ 121 -290 198 -284 198 -242 c 258
+ 198 159 l 258
+ 198 173 184 185 170 185 c 256
+ 158 185 79 167 79 124 c 258
+ 79 -262 l 258
+ 79 -276 90 -290 103 -290 c 256
+101 251 m 256
+ 119 251 196 257 196 299 c 258
+ 196 679 l 258
+ 196 693 182 705 168 705 c 256
+ 156 705 77 687 77 644 c 258
+ 77 279 l 258
+ 77 265 88 251 101 251 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" brokenbar.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" brokenbar.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" brokenbar.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" brokenbar.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" brokenbar.subs
+Comment: "+AAoA-brokenbar+AAoA"
+EndChar

@@ -1,0 +1,40 @@
+StartChar: seven.osf
+Encoding: 1344 -1 1343
+GlifName: seven.osf
+Width: 430
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+19 -186 m 256
+ 28 -186 44 -178 52 -166 c 258
+ 390 323 l 258
+ 403 342 430 384 430 394 c 256
+ 430 401 426 407 424 407 c 256
+ 409 407 396 401 313 401 c 256
+ 276 401 223 401 196 402 c 256
+ 173 403 141 406 138 406 c 256
+ 135 406 130 404 125 395 c 256
+ 120 386 86 337 70 307 c 256
+ 65 297 62 289 62 285 c 256
+ 62 281 63 272 70 272 c 256
+ 78 272 95 290 100 297 c 256
+ 120 321 141 336 160 336 c 256
+ 185 336 304 336 356 336 c 256
+ 367 336 366 331 362 326 c 258
+ 35 -126 l 258
+ 17 -151 3 -168 3 -173 c 256
+ 3 -178 7 -186 19 -186 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" seven.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" seven.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" seven.lf
+Comment: "+AAoA-seven+AAoA"
+EndChar

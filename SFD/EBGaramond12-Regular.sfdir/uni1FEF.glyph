@@ -1,13 +1,41 @@
 StartChar: uni1FEF
-Encoding: 8175 8175 743
+Encoding: 2782 8175 2781
 GlifName: uni1F_E_F_
-Width: 164
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+101 498 m 256
+ 107 488 117 476 125 476 c 256
+ 134 476 134 480 134 489 c 256
+ 134 507 103 629 93 665 c 256
+ 90 677 76 683 68 683 c 256
+ 49 683 30 658 30 642 c 256
+ 30 632 80 534 101 498 c 256
+EndSplineSet
 Fore
-Refer: 2695 -1 N 1 0 0 1 16 20 2
-Refer: 2713 -1 N 1 0 0 1 -73 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" space.stack gravecomb.grk
+Refer: 1476 900 N -1 0 0 1 200 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vtonos
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni1FEF+AAoA"
 EndChar

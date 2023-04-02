@@ -1,0 +1,29 @@
+StartChar: egrave.ordn
+Encoding: 776 -1 775
+GlifName: egrave.ordn
+Width: 337
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+153 571 m 256
+ 162 571 165 576 165 585 c 256
+ 165 594 147 661 132 683 c 256
+ 125 694 114 701 92 701 c 256
+ 70 701 66 689 66 681 c 256
+ 66 668 129 592 134 585 c 256
+ 137 581 148 571 153 571 c 256
+EndSplineSet
+Fore
+Refer: 753 -1 N 1 0 0 1 0 0 2
+Refer: 926 -1 N 1.07 0 0 1.07 -3 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-egrave.ordn+AAoA"
+EndChar

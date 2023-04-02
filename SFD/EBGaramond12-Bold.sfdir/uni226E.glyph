@@ -1,0 +1,45 @@
+StartChar: uni226E
+Encoding: 2942 8814 2941
+GlifName: uni226E_
+Width: 537
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+128 -82 m 256
+ 143 -82 158 -81 164 -67 c 258
+ 413 515 l 258
+ 417 524 413 532 400 532 c 256
+ 383 532 367 530 361 515 c 258
+ 112 -67 l 258
+ 109 -75 115 -82 128 -82 c 256
+EndSplineSet
+Fore
+SplineSet
+128 -82 m 256
+ 147 -82 167 -80 175 -62 c 258
+ 436 530 l 258
+ 440 539 432 552 414 552 c 256
+ 392 552 375 549 367 530 c 258
+ 107 -62 l 258
+ 103 -72 113 -82 128 -82 c 256
+EndSplineSet
+Refer: 1080 60 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vless
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vless
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni226E+AAoA"
+EndChar

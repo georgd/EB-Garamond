@@ -1,17 +1,13 @@
 StartChar: i.TRK
-Encoding: 1114194 -1 1189
+Encoding: 993 -1 992
 GlifName: i.T_R_K_
 Width: 245
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 116 -30 basechar 0
+AnchorPoint: "top" 124 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 5 105 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Smallcaps1 subtable" i.TRKsc
-Substitution2: "sups subtable" i.sups
-Substitution2: "sinf subtable" i.sinf
-Substitution2: "ordn subtable" i.ordn
-Substitution2: "subs subtable" i.subs
-LCarets2: 1 0
+Refer: 991 105 N 1 0 0 1 0 0 2
+Comment: "+AAoA-i.TRK+AAoA"
 EndChar

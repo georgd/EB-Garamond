@@ -1,0 +1,59 @@
+StartChar: guilsinglleft.alt
+Encoding: 957 -1 956
+GlifName: guilsinglleft.alt
+Width: 361
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+176 217 m 257
+ 211 255 251 308 296 376 c 257
+ 300 383 302 388 302 392 c 256
+ 302 397 299 400 294 400 c 256
+ 285 400 276 396 268 388 c 257
+ 202 317 138 261 75 218 c 257
+ 73 217 72 214 72 211 c 256
+ 72 200 78 190 90 182 c 256
+ 148 143 205 94 260 37 c 256
+ 272 25 282 19 290 19 c 256
+ 297 19 300 22 300 28 c 256
+ 300 32 299 36 296 40 c 257
+ 262 102 222 156 176 203 c 256
+ 173 206 171 209 171 210 c 256
+ 171 211 173 214 176 217 c 257
+EndSplineSet
+Fore
+SplineSet
+314 25 m 256
+ 318 25 321 30 321 37 c 256
+ 321 42 318 48 315 53 c 257
+ 240 156 217 183 199 203 c 256
+ 182 222 181 229 198 248 c 256
+ 223 276 251 309 315 405 c 256
+ 319 411 321 416 321 422 c 256
+ 321 428 318 433 314 433 c 256
+ 304 433 290 425 278 412 c 256
+ 209 337 141 284 73 253 c 256
+ 51 243 45 233 45 225 c 256
+ 45 210 55 201 76 189 c 256
+ 162 140 196 128 278 46 c 256
+ 284 40 299 25 314 25 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vguilsinglleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vguilsinglleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-guilsinglleft.alt+AAoA"
+EndChar

@@ -1,12 +1,20 @@
 StartChar: uni013C
-Encoding: 316 316 230
-Width: 252
+Encoding: 1510 316 1509
+GlifName: uni013C_
+Width: 286
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 67 -30 basechar 0
 LayerCount: 2
 Fore
-Refer: 129 806 N 1 0 0 1 2 0 2
-Refer: 2 108 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" uni013C.sc
-MultipleSubs2: "CCMP_Precomp subtable" l uni0326
+Refer: 1026 108 N 1 0 0 1 0 0 2
+Refer: 1859 806 N 1 0 0 1 140 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" uni013C.sc
+Comment: "+AAoA-uni013C+AAoA"
 EndChar

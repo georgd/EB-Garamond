@@ -1,26 +1,16 @@
 StartChar: uni0308.grkstack
-Encoding: 1114993 -1 2700
+Encoding: 1932 -1 1931
 GlifName: uni0308.grkstack
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 148 551 basemark 0
-AnchorPoint: "top_accent" 148 531 mark 0
-AnchorPoint: "grk_top" 147 520 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
-SplineSet
-251 572 m 0
- 276 572 299 549 299 524 c 0
- 299 499 276 476 251 476 c 0
- 226 476 205 499 205 524 c 0
- 205 549 226 572 251 572 c 0
-54 572 m 0
- 79 572 100 549 100 524 c 0
- 100 499 79 476 54 476 c 0
- 29 476 6 499 6 524 c 0
- 6 549 29 572 54 572 c 0
-EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" uni0308.grkstacksc
+Refer: 1932 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0308.grkstack+AAoA"
 EndChar

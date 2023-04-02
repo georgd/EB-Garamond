@@ -1,12 +1,23 @@
 StartChar: uni217B
-Encoding: 8571 8571 866
-Width: 842
+Encoding: 2745 8571 2744
+GlifName: uni217B_
+Width: 1026
 VWidth: 0
-Flags: M
+Flags: W
+AnchorPoint: "bottom_1" 526 -30 basechar 0
+AnchorPoint: "bottom_2" 820 -30 basechar 0
+AnchorPoint: "top" 280 440 basechar 0
+AnchorPoint: "top_1" 658 440 basechar 0
+AnchorPoint: "top_2" 952 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 5 105 N 1 0 0 1 613 0 2
-Refer: 5 105 N 1 0 0 1 384 0 2
-Refer: 53 120 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 3004 120 N 1 0 0 1 0 0 2
+Refer: 2734 8561 N 1 0 0 1 438 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni217B+AAoA"
 EndChar

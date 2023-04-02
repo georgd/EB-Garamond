@@ -1,0 +1,39 @@
+StartChar: uni031B
+Encoding: 1984 795 1983
+GlifName: uni031B_
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+60 414 m 256
+ 36 414 24 398 24 383 c 256
+ 24 373 48 373 57 373 c 256
+ 127 373 188 425 188 483 c 256
+ 188 506 179 534 148 534 c 256
+ 119 534 93 526 93 501 c 256
+ 93 483 100 477 115 467 c 256
+ 126 460 130 456 130 442 c 256
+ 130 424 93 414 60 414 c 256
+EndSplineSet
+Fore
+SplineSet
+-78 352 m 256
+ 34 352 109 399 109 477 c 256
+ 109 521 82 550 34 550 c 256
+ -10 550 -38 532 -38 506 c 256
+ -38 477 -24 468 -10 460 c 256
+ 2 453 16 446 16 429 c 256
+ 16 403 -45 401 -89 394 c 256
+ -101 392 -109 381 -109 371 c 256
+ -109 361 -99 352 -78 352 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni031B+AAoA"
+EndChar

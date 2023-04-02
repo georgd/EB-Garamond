@@ -1,12 +1,20 @@
 StartChar: yacute
-Encoding: 253 253 177
-Width: 420
+Encoding: 3020 253 3019
+GlifName: yacute
+Width: 405
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 239 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 623 769 N 1 0 0 1 252 0 2
-Refer: 24 121 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" yacute.sc
-MultipleSubs2: "CCMP_Precomp subtable" y acutecomb
+Refer: 3012 121 N 1 0 0 1 0 0 2
+Refer: 512 769 N 1 0 0 1 205 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" yacute.sc
+Comment: "+AAoA-yacute+AAoA"
 EndChar

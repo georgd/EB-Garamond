@@ -1,12 +1,25 @@
 StartChar: less.ordn
-Encoding: 1114429 -1 1428
+Encoding: 1082 -1 1081
 GlifName: less.ordn
-Width: 354
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+Width: 385
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1226 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+Refer: 943 -1 N -1 0 0 1 385 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|greater.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|greater.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-less.ordn+AAoA"
 EndChar

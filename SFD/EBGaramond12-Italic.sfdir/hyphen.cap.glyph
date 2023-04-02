@@ -1,19 +1,36 @@
 StartChar: hyphen.cap
-Encoding: 66456 -1 2440
-Width: 253
-VWidth: 140
-Flags: MW
+Encoding: 957 -1 956
+GlifName: hyphen.cap
+Width: 268
+VWidth: 0
+Flags: W
 LayerCount: 2
-Fore
+Back
 SplineSet
-88 310 m 0
- 87 310 85 310 84 310 c 0
- 79 310 79 312 80 316 c 8
- 89 338 102 369 112 370 c 0
- 174 379 236 388 298 395 c 0
- 302 395 304 393 303 389 c 0
- 293 364 282 337 267 335 c 0
- 208 326 150 317 88 310 c 0
+78 310 m 258
+ 82 310 l 257
+ 144 317 202 326 261 335 c 256
+ 276 337 287 364 297 389 c 257
+ 298 393 296 395 292 395 c 257
+ 230 388 168 379 106 370 c 257
+ 96 369 83 338 74 316 c 257
+ 73 312 73 310 78 310 c 258
 EndSplineSet
-Validated: 1
+Fore
+Refer: 955 45 N 1 0 0 1 44 141 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vhyphen
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vhyphen
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-hyphen.cap+AAoA"
 EndChar

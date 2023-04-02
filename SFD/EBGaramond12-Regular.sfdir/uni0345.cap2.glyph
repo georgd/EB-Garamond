@@ -1,13 +1,50 @@
 StartChar: uni0345.cap2
-Encoding: 1115004 -1 2716
+Encoding: 2041 -1 2040
 GlifName: uni0345.cap2
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "grk_uc_right" 15 290 mark 0
-LayerCount: 3
+AnchorPoint: "bottom.cap" 170 -30 basechar 0
+AnchorPoint: "top.cap" 170 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+130 550 m 258
+ 130 98 l 258
+ 130 51 102 33 52 24 c 256
+ 29 20 19 15 19 6 c 256
+ 19 -2 31 -5 48 -5 c 256
+ 102 -5 126 0 176 0 c 256
+ 222 0 239 -5 293 -5 c 256
+ 310 -5 322 -2 322 6 c 256
+ 322 15 312 20 289 24 c 256
+ 239 33 210 51 210 98 c 258
+ 210 550 l 258
+ 210 597 231 613 281 622 c 256
+ 304 626 314 633 314 642 c 256
+ 314 650 302 653 285 653 c 256
+ 231 653 219 650 176 650 c 256
+ 130 650 113 653 59 653 c 256
+ 42 653 30 650 30 642 c 256
+ 30 633 40 626 63 622 c 256
+ 113 613 130 597 130 550 c 258
+EndSplineSet
 Fore
-Refer: 33 73 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "c2sc subtable" uni0345.sc1
+Refer: 177 73 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VI
+p7
+sas."
+Comment: "+AAoA-uni0345.cap2+AAoA"
 EndChar

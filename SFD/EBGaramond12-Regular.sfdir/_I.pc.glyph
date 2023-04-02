@@ -1,11 +1,39 @@
 StartChar: I.pc
-Encoding: 1115177 -1 2955
+Encoding: 179 -1 179
 GlifName: I_.pc
-Width: 234
+Width: 282
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2981 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1801 618 N 1 0 0 1 16 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni026A
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VH.pc
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VH.pc
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-I.pc+AAoA"
 EndChar

@@ -1,12 +1,34 @@
 StartChar: uni022D
-Encoding: 557 557 338
-Width: 400
+Encoding: 1685 557 1684
+GlifName: uni022D_
+Width: 380
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 104 -30 basechar 0
+AnchorPoint: "top" 278 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2102 -1 N 1 0 0 1 156 109 2
-Refer: 2112 -1 N 1 0 0 1 157 0 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" o tildecomb.stack uni0304.stack
+Refer: 1184 245 N 1 0 0 1 0 0 2
+Refer: 1083 175 N 1 0 0 1 94 119 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vmacron
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni022D+AAoA"
 EndChar

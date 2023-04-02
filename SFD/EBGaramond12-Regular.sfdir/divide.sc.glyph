@@ -1,31 +1,43 @@
 StartChar: divide.sc
-Encoding: 1114777 -1 1776
+Encoding: 737 -1 736
 GlifName: divide.sc
-Width: 590
+Width: 500
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-295 161 m 24
- 320 161 341 140 341 115 c 24
- 341 90 320 69 295 69 c 24
- 270 69 249 90 249 115 c 24
- 249 140 270 161 295 161 c 24
-295 445 m 24
- 320 445 340 424 340 399 c 24
- 340 374 319 353 294 353 c 24
- 269 353 248 374 248 399 c 24
- 248 425 269 445 295 445 c 24
-64 232 m 10
- 57 232 50 238 50 244 c 0
- 50 253 56 282 74 282 c 18
- 527 282 l 2
- 533 282 541 277 541 271 c 0
- 541 270 540 269 540 268 c 8
- 534 251 528 232 509 232 c 18
- 64 232 l 10
+84 231 m 258
+ 403 231 l 258
+ 421 231 433 253 433 272 c 256
+ 433 277 426 282 421 282 c 258
+ 93 282 l 258
+ 73 282 70 249 70 241 c 256
+ 70 236 77 231 84 231 c 258
+254 67 m 256
+ 280 67 301 88 301 114 c 256
+ 301 140 280 161 254 161 c 256
+ 229 161 207 140 207 114 c 256
+ 207 88 229 67 254 67 c 256
+253 352 m 256
+ 279 352 300 373 300 399 c 256
+ 300 425 279 446 253 446 c 256
+ 228 446 206 425 206 399 c 256
+ 206 373 228 352 253 352 c 256
 EndSplineSet
-Validated: 1
-Comment: "."
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vdivide
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vdivide
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-divide.sc+AAoA"
 EndChar

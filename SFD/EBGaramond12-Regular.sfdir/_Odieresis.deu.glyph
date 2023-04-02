@@ -1,35 +1,66 @@
 StartChar: Odieresis.deu
-Encoding: 1114113 -1 978
+Encoding: 295 -1 294
 GlifName: O_dieresis.deu
 Width: 763
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 391 675 basechar 0
+LayerCount: 2
+Back
 SplineSet
-110 710 m 0
- 135 710 160 685 160 660 c 0
- 160 635 135 610 110 610 c 0
- 85 610 60 635 60 660 c 0
- 60 685 85 710 110 710 c 0
-664 710 m 0
- 689 710 714 685 714 660 c 0
- 714 635 689 610 664 610 c 0
- 639 610 614 635 614 660 c 0
- 614 685 639 710 664 710 c 0
-45 320 m 0
- 45 501 166 664 390 664 c 0
- 564 664 718 532 718 335 c 0
- 718 155 601 -14 382 -14 c 0
- 205 -14 45 130 45 320 c 0
-375 625 m 0
- 227 625 142 490 142 350 c 0
- 142 179 247 25 395 25 c 0
- 545 25 621 134 621 305 c 0
- 621 495 535 625 375 625 c 0
+375 625 m 256
+ 535 625 621 495 621 305 c 256
+ 621 134 545 25 395 25 c 256
+ 247 25 142 179 142 350 c 256
+ 142 490 227 625 375 625 c 256
+45 320 m 256
+ 45 130 205 -14 382 -14 c 256
+ 601 -14 718 155 718 335 c 256
+ 718 532 564 664 390 664 c 256
+ 166 664 45 501 45 320 c 256
+664 710 m 256
+ 639 710 614 685 614 660 c 256
+ 614 635 639 610 664 610 c 256
+ 689 610 714 635 714 660 c 256
+ 714 685 689 710 664 710 c 256
+110 710 m 256
+ 85 710 60 685 60 660 c 256
+ 60 635 85 610 110 610 c 256
+ 135 610 160 635 160 660 c 256
+ 160 685 135 710 110 710 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "c2sc subtable" Odieresis.sc
-Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+Fore
+Refer: 278 79 N 1 0 0 1 0 0 2
+Refer: 1925 -1 N 1 0 0 1 121 -90 2
+Refer: 1925 -1 N 1 0 0 1 641 -88 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vuni0307.cap
+p7
+sa(dp8
+g4
+I-1
+sg5
+I2
+sg6
+Vuni0307.cap
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-Odieresis.deu+AAoA"
 EndChar

@@ -1,20 +1,37 @@
 StartChar: uni02D0
-Encoding: 720 720 2259
+Encoding: 1898 720 1897
 GlifName: uni02D_0
-Width: 220
-VWidth: 2048
-Flags: HMW
-LayerCount: 3
-Fore
+Width: 200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
 SplineSet
-110 120 m 1
- 185 0 l 1
- 35 0 l 1
- 110 120 l 1
-110 250 m 1
- 35 370 l 1
- 185 370 l 1
- 110 250 l 1
+35 370 m 257
+ 110 250 l 257
+ 185 370 l 257
+ 35 370 l 257
+185 0 m 257
+ 110 120 l 257
+ 35 0 l 257
+ 185 0 l 257
 EndSplineSet
-Validated: 1
+Fore
+Refer: 1898 721 N 1 0 0 -1 0 371 2
+Refer: 1898 721 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni02D1
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni02D1
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni02D0+AAoA"
 EndChar

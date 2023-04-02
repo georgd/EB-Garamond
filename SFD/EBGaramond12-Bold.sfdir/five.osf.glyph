@@ -1,0 +1,58 @@
+StartChar: five.osf
+Encoding: 879 -1 878
+GlifName: five.osf
+Width: 372
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+80 -175 m 256
+ 199 -175 342 -93 342 44 c 256
+ 342 123 247 205 146 251 c 256
+ 133 257 116 263 116 271 c 256
+ 116 283 123 286 134 288 c 256
+ 154 291 218 301 260 307 c 256
+ 290 312 318 375 318 419 c 256
+ 318 430 311 440 300 440 c 256
+ 282 440 167 420 119 404 c 256
+ 105 399 89 390 77 370 c 257
+ 68 353 36 270 36 198 c 256
+ 36 168 54 149 93 129 c 256
+ 155 99 209 54 209 2 c 256
+ 209 -86 146 -109 73 -127 c 256
+ 53 -132 24 -140 24 -156 c 256
+ 24 -171 55 -175 80 -175 c 256
+EndSplineSet
+Fore
+SplineSet
+80 -175 m 256
+ 199 -175 342 -93 342 44 c 256
+ 342 123 227 211 126 258 c 256
+ 113 264 92 273 92 280 c 256
+ 92 288 99 291 110 292 c 256
+ 133 295 218 301 260 307 c 256
+ 290 312 318 375 318 419 c 256
+ 318 430 311 440 300 440 c 256
+ 282 440 167 420 119 404 c 256
+ 105 399 89 390 77 370 c 257
+ 68 353 36 270 36 198 c 256
+ 36 168 54 149 93 129 c 256
+ 155 99 209 54 209 2 c 256
+ 209 -77 157 -111 60 -130 c 256
+ 40 -134 24 -143 24 -156 c 256
+ 24 -171 55 -175 80 -175 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 1394 -20 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" five.lf
+Substitution2: "'tnum' Tabular Numbers lookup 18 subtable" five.tosf
+Substitution2: "'lnum' Lining Figures lookup 16 subtable" five.lf
+Comment: "+AAoA-five+AAoA"
+EndChar

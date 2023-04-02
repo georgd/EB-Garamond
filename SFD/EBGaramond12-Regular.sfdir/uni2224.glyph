@@ -1,12 +1,44 @@
 StartChar: uni2224
-Encoding: 8740 8740 864
+Encoding: 2935 8740 2934
 GlifName: uni2224
 Width: 260
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 95 47 N 1 0 0 1 -75 -59 2
-Refer: 863 8739 N 1 0 0 1 0 0 3
-Validated: 5
+SplineSet
+-37 -122 m 256
+ -22 -122 -7 -121 -1 -107 c 258
+ 134 209 l 257
+ 149 214 l 257
+ 296 557 l 258
+ 300 566 296 574 283 574 c 256
+ 266 574 250 572 244 557 c 258
+ 122 271 l 257
+ 109 272 l 257
+ -53 -107 l 258
+ -57 -115 -50 -122 -37 -122 c 256
+EndSplineSet
+Refer: 2933 8739 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni2223
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni2224+AAoA"
 EndChar

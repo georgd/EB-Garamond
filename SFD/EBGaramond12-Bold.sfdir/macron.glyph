@@ -1,17 +1,31 @@
 StartChar: macron
-Encoding: 175 175 95
-Width: 250
+Encoding: 1128 175 1127
+GlifName: macron
+Width: 367
 VWidth: 0
-Flags: MW
-LayerCount: 3
-Fore
+Flags: W
+AnchorPoint: "top" 182 440 mark 0
+LayerCount: 2
+Back
 SplineSet
-242 55 m 2
- -80 55 l 2
- -90 55 -102 60 -102 70 c 0
- -102 81 -93 111 -65 111 c 2
- 269 111 l 2
- 277 111 290 107 290 97 c 0
- 290 85 269 55 242 55 c 2
+257 556 m 258
+ 54 556 l 258
+ 35 556 30 522 30 513 c 256
+ 30 507 37 501 44 501 c 258
+ 239 501 l 258
+ 260 501 270 522 270 544 c 256
+ 270 550 263 556 257 556 c 258
 EndSplineSet
+Fore
+Refer: 1911 772 N 1 0 0 1 183 13 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" macron.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" macron.sc
+Comment: "+AAoA-macron+AAoA"
 EndChar

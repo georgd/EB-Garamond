@@ -1,13 +1,20 @@
 StartChar: uni1EDB
-Encoding: 7899 7899 549
+Encoding: 2527 7899 2526
 GlifName: uni1E_D_B_
 Width: 506
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -30 basechar 0
+AnchorPoint: "top" 248 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 2705 769 N 1 0 0 1 200 0 2
-Refer: 288 417 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" ohorn acutecomb
+Refer: 1192 417 N 1 0 0 1 0 0 2
+Refer: 511 769 N 1 0 0 1 294 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1EDB+AAoA"
 EndChar

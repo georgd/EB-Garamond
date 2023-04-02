@@ -1,0 +1,22 @@
+StartChar: Yacute
+Encoding: 471 221 470
+GlifName: Y_acute
+Width: 671
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 352 -30 basechar 0
+AnchorPoint: "top.cap" 384 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 463 89 N 1 0 0 1 0 0 2
+Refer: 512 -1 N 1 0 0 1 437 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Yacute.sc
+Comment: "+AAoA-Yacute+AAoA"
+EndChar

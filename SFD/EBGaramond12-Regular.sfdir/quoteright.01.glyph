@@ -1,20 +1,26 @@
 StartChar: quoteright.01
-Encoding: 1114963 -1 2377
+Encoding: 1329 -1 1328
 GlifName: quoteright.01
 Width: 0
-Flags: HMW
-LayerCount: 3
+VWidth: 0
+LayerCount: 2
 Fore
 SplineSet
-55 595 m 0
- 26 598 8 615 8 637 c 0
- 8 664 34 683 63 683 c 0
- 111 683 146 649 146 593 c 0
- 146 492 71 458 20 456 c 0
- 7 456 0 460 0 467 c 0
- 0 472 5 477 14 479 c 0
- 57 488 94 506 94 558 c 0
- 94 574 77 593 55 595 c 0
+20 456 m 256
+ 83 456 146 502 146 593 c 256
+ 146 648 112 683 63 683 c 256
+ 34 683 8 664 8 637 c 256
+ 8 614 26 599 55 595 c 256
+ 76 592 94 574 94 558 c 256
+ 94 510 63 490 14 479 c 256
+ 5 477 0 473 0 467 c 256
+ 0 460 7 456 20 456 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-quoteright.01+AAoA"
 EndChar

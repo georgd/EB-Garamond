@@ -1,0 +1,44 @@
+StartChar: uni045F
+Encoding: 2032 1119 2031
+GlifName: uni045F_
+Width: 592
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 233 -30 basechar 0
+AnchorPoint: "top" 395 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+32 -276 m 256
+ 42 -276 128 -258 170 -233 c 256
+ 230 -197 245 -139 258 -74 c 256
+ 271 -7 287 64 325 103 c 257
+ 233 39 l 257
+ 245 27 l 257
+ 233 20 176 -20 160 -43 c 256
+ 130 -86 113 -119 100 -165 c 256
+ 83 -226 56 -242 26 -253 c 257
+ 20 -256 15 -258 15 -264 c 256
+ 15 -273 24 -276 32 -276 c 256
+EndSplineSet
+Fore
+SplineSet
+32 -276 m 256
+ 42 -276 130 -260 177 -229 c 256
+ 230 -193 235 -139 242 -92 c 256
+ 249 -32 266 6 266 19 c 256
+ 266 25 263 30 254 30 c 256
+ 209 30 137 -71 115 -126 c 256
+ 85 -196 89 -230 26 -253 c 257
+ 20 -256 15 -258 15 -264 c 256
+ 15 -273 24 -276 32 -276 c 256
+EndSplineSet
+Refer: 1435 117 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni045F+AAoA"
+EndChar

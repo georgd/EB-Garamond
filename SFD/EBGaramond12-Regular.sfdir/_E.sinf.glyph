@@ -1,12 +1,86 @@
 StartChar: E.sinf
-Encoding: 1114337 -1 1336
+Encoding: 85 -1 85
 GlifName: E_.sinf
-Width: 369
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 415
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+130 80 m 256
+ 130 109 132 204 133 209 c 257
+ 134 219 146 227 153 227 c 258
+ 239 227 l 258
+ 255 227 270 224 282 211 c 257
+ 288 205 292 194 297 181 c 257
+ 298 177 299 175 304 175 c 256
+ 308 175 313 177 313 181 c 257
+ 312 202 311 219 306 242 c 256
+ 305 246 299 248 294 248 c 258
+ 285 248 l 258
+ 261 248 204 246 148 246 c 256
+ 131 246 115 247 99 247 c 257
+ 73 248 67 248 32 248 c 256
+ 21 248 13 246 13 241 c 256
+ 13 236 19 231 34 229 c 256
+ 66 224 78 214 78 185 c 258
+ 78 -85 l 258
+ 78 -114 62 -125 30 -130 c 256
+ 15 -132 8 -135 8 -140 c 256
+ 8 -145 16 -147 27 -147 c 256
+ 62 -147 73 -143 102 -143 c 256
+ 167 -143 232 -147 315 -147 c 256
+ 321 -147 323 -142 324 -137 c 257
+ 329 -119 335 -97 335 -75 c 256
+ 335 -71 330 -68 326 -68 c 256
+ 322 -68 320 -69 317 -74 c 257
+ 312 -84 302 -104 290 -112 c 257
+ 282 -118 243 -123 240 -123 c 258
+ 173 -123 l 258
+ 144 -123 133 -107 132 -76 c 256
+ 131 -42 130 -6 130 31 c 257
+ 129 45 146 48 166 48 c 256
+ 183 48 203 45 213 44 c 256
+ 223 43 237 40 243 21 c 257
+ 244 17 250 7 258 7 c 256
+ 263 7 264 12 264 17 c 257
+ 263 34 262 45 262 57 c 256
+ 262 67 263 77 264 91 c 257
+ 265 96 258 101 255 101 c 256
+ 252 101 245 94 244 91 c 257
+ 238 76 223 67 204 67 c 258
+ 136 67 l 258
+ 130 67 130 73 130 80 c 256
+EndSplineSet
 Fore
-Refer: 1235 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 82 -1 N 1 0 0 1 0 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VE.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+V=E.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+V=E.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-E.sinf+AAoA"
 EndChar

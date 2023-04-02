@@ -1,37 +1,18 @@
 StartChar: q.sc
-Encoding: 66095 -1 1687
-Width: 518
+Encoding: 1255 -1 1254
+GlifName: q.sc
+Width: 568
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 400 580 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-211 -1 m 0
- 225.893554688 5.2705078125 229.958984375 10.4580078125 213 12 c 0
- 125 20 56 88 56 177 c 0
- 56 338 194 460 355 460 c 0
- 451 460 532 385 532 289 c 0
- 532 155 440 79 320 19 c 0
- 299.470703125 8.6298828125 251 -18 190 -41 c 0
- 183.721679688 -43.3671875 181 -49 188 -51 c 0
- 266 -70 363 -180 443 -180 c 0
- 484 -180 513 -168 534 -158 c 0
- 540 -156 544 -154 550 -154 c 0
- 556 -154 555 -163 552 -165 c 0
- 530 -192 480 -230 413 -230 c 0
- 307 -230 203 -90 97 -89 c 0
- 64 -89 21 -113 -1 -113 c 0
- -11 -113 -24 -113 -24 -98 c 0
- -24 -85 -11 -76 1 -72 c 0
- 56 -58 154 -25 211 -1 c 0
-347 424 m 0
- 214 424 138 287 138 154 c 0
- 138 86 207 39 269 39 c 0
- 364 39 451 183 451 311 c 0
- 451 371 407 424 347 424 c 0
-EndSplineSet
-Substitution2: "Single Substitution lookup 77 subtable" q.longsc
-Substitution2: "Single Substitution lookup 76 subtable" q.longsc
-Comment: "."
+Refer: 331 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss06' Style Set 6 in Latin lookup 37 subtable" q.longsc
+Comment: "+AAoA-q.sc+AAoA"
 EndChar

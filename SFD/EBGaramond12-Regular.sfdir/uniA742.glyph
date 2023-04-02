@@ -1,12 +1,37 @@
 StartChar: uniA742
-Encoding: 42818 42818 2392
+Encoding: 3094 42818 3093
 GlifName: uniA_742
-Width: 681
+Width: 687
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 354 -30 basechar 0
+AnchorPoint: "top.cap" 348 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 61 75 N 1 0 0 1 0 0 2
-Validated: 1
-Position2: "rtbd subtable" dx=0 dy=0 dh=-34 dv=0
+SplineSet
+310 118 m 257
+ 509 318 l 258
+ 520 328 520 341 515 355 c 257
+ 515 356 515 357 514 358 c 256
+ 510 362 501 360 496 356 c 257
+ 291 151 l 257
+ 283 142 281 127 287 121 c 256
+ 291 117 303 112 310 118 c 257
+EndSplineSet
+Refer: 221 75 N 1 0 0 1 6 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VK
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uniA742+AAoA"
 EndChar

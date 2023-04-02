@@ -1,0 +1,44 @@
+StartChar: zero.lf
+Encoding: 3046 -1 3045
+GlifName: zero.lf
+Width: 620
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+179 -14 m 256
+ 332 -14 480 120 541 317 c 256
+ 593 487 543 631 391 631 c 256
+ 227 631 87 486 30 302 c 256
+ -25 125 32 -14 179 -14 c 256
+209 35 m 256
+ 143 35 157 181 199 319 c 256
+ 242 457 300 579 359 579 c 256
+ 424 579 415 437 372 299 c 256
+ 329 160 267 35 209 35 c 256
+EndSplineSet
+Fore
+SplineSet
+234 -14 m 256
+ 387 -14 535 120 596 317 c 256
+ 649 487 598 631 446 631 c 256
+ 282 631 142 486 85 302 c 256
+ 30 125 87 -14 234 -14 c 256
+263 29 m 256
+ 197 29 212 181 254 319 c 256
+ 296 457 359 585 418 585 c 256
+ 483 585 470 437 427 299 c 256
+ 384 160 321 29 263 29 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 768 -20 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" zero.osf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" zero
+Comment: "+AAoA-zero.lnum+AAoA"
+EndChar

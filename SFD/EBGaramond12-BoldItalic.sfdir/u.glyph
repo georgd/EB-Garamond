@@ -1,0 +1,88 @@
+StartChar: u
+Encoding: 1436 117 1435
+GlifName: u
+Width: 615
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 233 -30 basechar 0
+AnchorPoint: "top" 395 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+108 -14 m 256
+ 208 -14 293 110 357 206 c 256
+ 363 215 373 214 369 204 c 256
+ 344 142 324 98 310 67 c 256
+ 306 58 303 50 303 44 c 256
+ 303 21 327 -14 354 -14 c 256
+ 423 -14 579 104 579 153 c 256
+ 579 161 573 169 565 169 c 256
+ 563 169 562 167 561 166 c 256
+ 535 140 469 94 456 94 c 256
+ 449 94 450 105 453 113 c 258
+ 546 364 l 258
+ 557 395 524 437 480 437 c 256
+ 454 437 437 406 412 366 c 256
+ 387 327 359 280 330 240 c 256
+ 279 169 228 92 208 92 c 256
+ 194 92 192 106 201 125 c 256
+ 249 227 287 305 308 353 c 256
+ 322 384 285 437 253 437 c 256
+ 183 437 113 385 53 313 c 256
+ 43 301 34 288 34 273 c 256
+ 34 260 47 258 67 278 c 256
+ 81 292 133 328 146 328 c 256
+ 156 328 159 319 150 299 c 258
+ 73 127 l 258
+ 33 38 58 -14 108 -14 c 256
+EndSplineSet
+Fore
+SplineSet
+124 -14 m 256
+ 201 -14 293 110 357 206 c 256
+ 363 215 373 214 369 204 c 256
+ 344 142 324 98 310 67 c 256
+ 306 58 303 50 303 44 c 256
+ 303 21 327 -14 354 -14 c 256
+ 423 -14 579 104 579 153 c 256
+ 579 161 573 169 565 169 c 256
+ 563 169 562 167 561 166 c 256
+ 535 140 469 94 456 94 c 256
+ 449 94 450 105 453 113 c 258
+ 546 364 l 258
+ 557 395 524 437 480 437 c 256
+ 454 437 437 406 412 366 c 256
+ 387 327 359 280 330 240 c 256
+ 279 169 228 92 208 92 c 256
+ 194 92 192 106 201 125 c 256
+ 249 227 287 305 308 353 c 256
+ 322 384 285 437 253 437 c 256
+ 183 437 113 385 53 313 c 256
+ 43 301 34 288 34 273 c 256
+ 34 260 47 258 67 278 c 256
+ 81 292 133 328 146 328 c 256
+ 156 328 159 319 150 299 c 258
+ 59 96 l 258
+ 40 54 79 -14 124 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vi
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" U.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" u.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" u.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" u.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" u.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" u.subs
+Comment: "+AAoA-u+AAoA"
+EndChar

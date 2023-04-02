@@ -1,12 +1,34 @@
 StartChar: seven.ordn
-Encoding: 1114424 -1 1423
+Encoding: 1394 -1 1393
 GlifName: seven.ordn
 Width: 300
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1221 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+91 270 m 256
+ 98 270 105 286 111 297 c 258
+ 260 552 l 257
+ 269 569 283 588 283 604 c 256
+ 283 611 276 614 269 614 c 258
+ 50 614 l 258
+ 41 614 38 611 36 603 c 257
+ 34 597 17 549 17 527 c 256
+ 17 521 22 515 26 515 c 256
+ 30 515 36 523 43 533 c 256
+ 54 547 68 564 79 564 c 258
+ 212 564 l 258
+ 227 564 224 559 222 555 c 257
+ 88 330 l 258
+ 75 309 67 291 67 287 c 256
+ 67 276 76 270 91 270 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-seven.ordn+AAoA"
 EndChar

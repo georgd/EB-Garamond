@@ -1,0 +1,61 @@
+StartChar: uni1D2D
+Encoding: 2103 7469 2102
+GlifName: uni1D_2D_
+Width: 693
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+36 274 m 256
+ 63 274 100 279 126 279 c 256
+ 152 279 193 276 222 276 c 256
+ 231 276 243 280 243 285 c 256
+ 243 293 235 298 227 300 c 256
+ 189 310 178 331 215 370 c 258
+ 259 417 l 258
+ 262 421 268 428 276 428 c 258
+ 366 428 l 258
+ 373 428 377 424 375 417 c 257
+ 391 472 l 257
+ 390 467 387 466 380 466 c 258
+ 316 466 l 258
+ 302 466 301 468 309 477 c 258
+ 479 665 l 257
+ 439 674 l 257
+ 127 343 l 257
+ 105 318 63 305 39 300 c 256
+ 30 298 24 294 21 285 c 256
+ 18 276 26 274 36 274 c 256
+EndSplineSet
+Refer: 82 -1 N 1 0 0 1 228 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I1
+sVindex
+p5
+I0
+sVname
+p6
+VE.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vuni1D2C
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vuni1D31
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1D2D+AAoA"
+EndChar

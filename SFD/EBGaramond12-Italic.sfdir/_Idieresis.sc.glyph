@@ -1,10 +1,19 @@
 StartChar: Idieresis.sc
-Encoding: 66148 -1 1740
-Width: 327
+Encoding: 194 -1 194
+GlifName: I_dieresis.sc
+Width: 315
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 252 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1772 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 180 -1 N 1 0 0 1 0 0 2
+Refer: 719 -1 N 1 0 0 1 23 84 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Idieresis.sc+AAoA"
 EndChar

@@ -1,10 +1,19 @@
 StartChar: Itilde.sc
-Encoding: 66237 -1 1829
-Width: 321
+Encoding: 208 -1 208
+GlifName: I_tilde.sc
+Width: 315
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 252 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1830 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 180 -1 N 1 0 0 1 0 0 2
+Refer: 1416 -1 N 1 0 0 1 187 84 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Itilde.sc+AAoA"
 EndChar

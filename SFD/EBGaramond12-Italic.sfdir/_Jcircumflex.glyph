@@ -1,13 +1,53 @@
 StartChar: Jcircumflex
-Encoding: 308 308 223
-Width: 335
+Encoding: 218 308 218
+GlifName: J_circumflex
+Width: 293
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top.cap" 448 823 basechar 0
 LayerCount: 2
+Back
+SplineSet
+210 689 m 256
+ 223 689 326 733 353 744 c 256
+ 363 748 373 751 381 744 c 256
+ 403 726 459 688 472 688 c 256
+ 481 688 486 693 486 699 c 256
+ 486 703 484 706 480 711 c 257
+ 408 793 l 258
+ 398 804 381 815 371 815 c 256
+ 361 815 351 809 326 793 c 258
+ 202 711 l 257
+ 197 707 195 703 195 699 c 256
+ 195 693 201 689 210 689 c 256
+-10 -158 m 256
+ -26 -158 -38 -152 -45 -129 c 256
+ -51 -111 -59 -103 -83 -103 c 256
+ -100 -103 -133 -130 -133 -158 c 256
+ -133 -180 -110 -200 -50 -200 c 256
+ 5 -200 47 -173 84 -134 c 256
+ 122 -94 154 -68 218 142 c 258
+ 343 551 l 258
+ 358 597 369 613 418 622 c 256
+ 441 626 454 633 454 642 c 256
+ 454 650 447 653 431 653 c 256
+ 381 653 376 650 342 650 c 256
+ 299 650 285 653 235 653 c 256
+ 219 653 204 650 204 642 c 256
+ 204 633 209 626 229 622 c 256
+ 273 613 283 597 268 551 c 258
+ 100 0 l 258
+ 70 -97 34 -158 -10 -158 c 256
+EndSplineSet
 Fore
-Refer: 2075 -1 N 1 0 0 1 190 0 2
-Refer: 42 74 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Jcircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" J uni0302.cap
+Refer: 209 74 N 1 0 0 1 0 0 2
+Refer: 1770 -1 N 1 0 0 1 149 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Jcircumflex.sc
+Comment: "+AAoA-Jcircumflex+AAoA"
 EndChar

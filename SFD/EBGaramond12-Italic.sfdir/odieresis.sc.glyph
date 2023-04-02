@@ -1,11 +1,18 @@
 StartChar: odieresis.sc
-Encoding: 66187 -1 1779
-Width: 524
+Encoding: 1142 -1 1141
+GlifName: odieresis.sc
+Width: 585
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 385 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2438 -1 N 1 0 0 1 266 30 2
-Refer: 1685 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 295 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-odieresis.sc+AAoA"
 EndChar

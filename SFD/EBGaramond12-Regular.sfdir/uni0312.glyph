@@ -1,23 +1,29 @@
 StartChar: uni0312
-Encoding: 786 786 124
+Encoding: 1961 786 1960
 GlifName: uni0312
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 107 550 mark 0
-LayerCount: 3
+AnchorPoint: "top" 1 440 mark 0
+LayerCount: 2
 Fore
 SplineSet
-115 547 m 0
- 144 547 162 527 162 505 c 0
- 162 489 144 469 115 469 c 0
- 67 469 32 510 32 566 c 0
- 32 630 106 689 158 689 c 0
- 170 689 176 684 176 679 c 0
- 176 675 171 670 162 668 c 0
- 118 659 84 626 84 592 c 0
- 84 571 96 547 115 547 c 0
+11 469 m 256
+ 40 469 58 489 58 505 c 256
+ 58 527 40 547 11 547 c 256
+ -8 547 -20 571 -20 592 c 256
+ -20 626 14 658 58 668 c 256
+ 67 670 72 675 72 679 c 256
+ 72 684 66 689 54 689 c 256
+ 2 689 -72 630 -72 566 c 256
+ -72 510 -37 469 11 469 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" uni0312.sc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni0312.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni0312.sc
+Comment: "+AAoA-uni0312+AAoA"
 EndChar

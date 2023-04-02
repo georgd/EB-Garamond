@@ -1,24 +1,87 @@
 StartChar: exclamdown
-Encoding: 161 161 67
+Encoding: 840 161 839
 GlifName: exclamdown
-Width: 275
+Width: 250
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+LayerCount: 21
+Back
 SplineSet
-125 374 m 24
- 92 374 65 401 65 434 c 24
- 65 467 92 494 125 494 c 24
- 158 494 185 467 185 434 c 24
- 185 401 158 374 125 374 c 24
-126 -180 m 0
- 90 -180 74 -145 74 -106 c 0
- 74 -43 87 87 97 205 c 0
- 99 234 110 263 125 263 c 0
- 135 263 145 233 147 211 c 0
- 159 95 174 -21 174 -108 c 0
- 174 -144 159 -180 126 -180 c 0
+162 -180 m 256
+ 195 -180 210 -144 210 -108 c 256
+ 210 -21 195 95 183 211 c 256
+ 181 233 171 263 161 263 c 256
+ 146 263 135 234 133 205 c 256
+ 123 87 110 -43 110 -106 c 256
+ 110 -145 126 -180 162 -180 c 256
+161 374 m 256
+ 194 374 221 401 221 434 c 256
+ 221 467 194 494 161 494 c 256
+ 128 494 101 467 101 434 c 256
+ 101 401 128 374 161 374 c 256
 EndSplineSet
-Validated: 1
+Fore
+Refer: 832 33 N 1 0 0 -1 0 480 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|exclam
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|exclam
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Layer: 19
+SplineSet
+126 -180 m 256
+ 159 -180 174 -144 174 -108 c 256
+ 174 -21 159 95 147 211 c 256
+ 145 233 135 263 125 263 c 256
+ 110 263 99 234 97 205 c 256
+ 87 87 74 -43 74 -106 c 256
+ 74 -145 90 -180 126 -180 c 256
+125 374 m 256
+ 158 374 185 401 185 434 c 256
+ 185 467 158 494 125 494 c 256
+ 92 494 65 467 65 434 c 256
+ 65 401 92 374 125 374 c 256
+EndSplineSet
+Refer: 43691 -1 N 1 0 0 -1 -36 480 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|exclam
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|exclam
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Layer: 20
+SplineSet
+126 -180 m 256
+ 159 -180 174 -144 174 -108 c 256
+ 174 -21 159 95 147 211 c 256
+ 145 233 135 263 125 263 c 256
+ 110 263 99 234 97 205 c 256
+ 87 87 74 -43 74 -106 c 256
+ 74 -145 90 -180 126 -180 c 256
+125 374 m 256
+ 158 374 185 401 185 434 c 256
+ 185 467 158 494 125 494 c 256
+ 92 494 65 467 65 434 c 256
+ 65 401 92 374 125 374 c 256
+EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" exclamdown.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" exclamdown.sc
+Comment: "+AAoA-exclamdown+AAoA"
 EndChar

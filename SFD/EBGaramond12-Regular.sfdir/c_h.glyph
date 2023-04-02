@@ -1,13 +1,90 @@
 StartChar: c_h
-Encoding: 1114137 -1 1052
+Encoding: 655 -1 654
 GlifName: c_h
-Width: 868
+Width: 874
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 611 -30 basechar 0
+AnchorPoint: "top" 237 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+787 68 m 258
+ 787 278 l 258
+ 787 356 738 414 673 414 c 256
+ 610 414 553 374 522 351 c 257
+ 517 357 514 376 514 388 c 258
+ 514 562 l 258
+ 514 669 523 686 523 698 c 257
+ 521 701 520 705 516 705 c 258
+ 516 705 515 704 514 704 c 257
+ 482 692 449 676 398 664 c 256
+ 394 663 391 658 391 652 c 256
+ 391 646 394 640 399 639 c 256
+ 433 632 444 602 444 566 c 258
+ 444 65 l 257
+ 443 38 421 30 401 24 c 257
+ 390 20 378 16 378 6 c 256
+ 378 -2 391 -3 398 -3 c 256
+ 438 -3 444 2 479 2 c 256
+ 514 2 515 -3 555 -3 c 256
+ 563 -3 575 -2 575 6 c 256
+ 575 16 563 20 552 24 c 257
+ 532 30 515 38 514 65 c 257
+ 514 268 l 258
+ 514 309 520 323 541 340 c 256
+ 560 355 599 362 624 362 c 256
+ 667 362 717 322 717 272 c 258
+ 717 68 l 258
+ 717 41 698 30 678 24 c 257
+ 667 20 655 16 655 6 c 256
+ 655 -2 667 -3 675 -3 c 256
+ 715 -3 718 2 753 2 c 256
+ 788 2 791 -3 831 -3 c 256
+ 839 -3 851 -2 851 6 c 256
+ 851 16 839 20 828 24 c 257
+ 808 30 787 41 787 68 c 258
+338 319 m 256
+ 348 319 376 336 376 353 c 256
+ 376 357 374 361 371 365 c 257
+ 341 402 294 413 251 413 c 256
+ 128 413 40 303 40 180 c 256
+ 40 77 110 -14 211 -14 c 256
+ 297 -14 377 42 377 79 c 256
+ 377 86 371 93 365 93 c 256
+ 362 93 359 91 356 88 c 257
+ 330 54 310 38 268 38 c 256
+ 172 38 109 130 109 226 c 256
+ 109 299 146 376 219 376 c 256
+ 269 376 280 365 313 329 c 257
+ 318 324 329 319 338 319 c 256
+EndSplineSet
 Fore
-Refer: 4 104 N 1 0 0 1 359 0 2
-Refer: 14 99 N 1 0 0 1 5 0 2
-Validated: 1
-LCarets2: 1 390
+Refer: 647 99 N 1 0 0 1 0 0 2
+Refer: 959 104 N 1 0 0 1 359 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vh
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vc
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+g7
+s."
+Ligature2: "'dlig' Discretionary Ligatures lookup 37 subtable" c h
+Comment: "+AAoA-c_h+AAoA"
 EndChar

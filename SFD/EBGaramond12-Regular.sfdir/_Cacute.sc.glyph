@@ -1,12 +1,44 @@
 StartChar: Cacute.sc
-Encoding: 1114792 -1 1791
+Encoding: 53 -1 53
 GlifName: C_acute.sc
 Width: 560
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 321 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+329 543 m 256
+ 360 576 447 677 447 691 c 256
+ 447 707 423 714 398 714 c 256
+ 388 714 377 706 371 696 c 256
+ 352 663 290 549 290 534 c 256
+ 290 525 290 521 299 521 c 256
+ 307 521 321 534 329 543 c 256
+338 458 m 256
+ 196 458 60 364 60 222 c 256
+ 60 83 188 -14 327 -14 c 256
+ 387 -14 470 10 477 23 c 256
+ 481 30 510 99 510 109 c 256
+ 510 119 508 121 503 121 c 256
+ 491 121 482 111 476 99 c 256
+ 451 49 389 21 340 21 c 256
+ 227 21 150 126 150 239 c 256
+ 150 339 225 427 325 427 c 256
+ 404 427 441 411 466 346 c 256
+ 472 331 475 320 483 320 c 256
+ 491 320 496 334 496 340 c 257
+ 495 371 490 433 478 437 c 256
+ 436 451 395 458 338 458 c 256
+EndSplineSet
 Fore
-Refer: 1792 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 47 -1 N 1 0 0 1 0 0 2
+Refer: 519 -1 N 1 0 0 1 365 63 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Cacute.sc+AAoA"
 EndChar

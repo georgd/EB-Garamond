@@ -1,43 +1,92 @@
 StartChar: percent
-Encoding: 37 37 1013
-Width: 681
+Encoding: 1217 37 1216
+GlifName: percent
+Width: 644
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
-Fore
+Back
 SplineSet
-609 321 m 0
- 572 321 523 238 505 177 c 24
- 485 107 475 10 517 10 c 0
- 559 10 603 100 622 165 c 24
- 641 231 646 321 609 321 c 0
-627 348 m 16
- 704 348 717 262 691 177 c 0
- 662 83 588 -14 500 -14 c 8
- 420 -14 409 74 437 166 c 0
- 463 252 542 348 627 348 c 16
-354 603 m 0
- 317 603 268 520 250 459 c 24
- 230 389 220 292 262 292 c 0
- 304 292 348 382 367 447 c 24
- 386 513 391 603 354 603 c 0
-372 630 m 16
- 449 630 462 544 436 459 c 0
- 407 365 333 268 245 268 c 8
- 165 268 154 356 182 448 c 0
- 208 534 287 630 372 630 c 16
-122 -11 m 26
- 704 638 l 26
- 717 652 729 655 745 655 c 24
- 752 655 758 645 752 638 c 26
- 170 -11 l 26
- 159 -24 146 -26 132 -26 c 24
- 124 -26 115 -18 122 -11 c 26
+618 638 m 258
+ 36 -11 l 257
+ 29 -18 38 -26 46 -26 c 256
+ 60 -26 73 -24 84 -11 c 258
+ 666 638 l 258
+ 672 645 666 655 659 655 c 256
+ 643 655 631 652 618 638 c 258
+286 630 m 256
+ 201 630 122 534 96 448 c 256
+ 68 356 79 268 159 268 c 256
+ 247 268 321 365 350 459 c 256
+ 376 544 363 630 286 630 c 256
+268 603 m 256
+ 305 603 300 513 281 447 c 256
+ 262 382 218 292 176 292 c 256
+ 134 292 144 389 164 459 c 256
+ 182 520 231 603 268 603 c 256
+541 348 m 256
+ 456 348 377 252 351 166 c 256
+ 323 74 334 -14 414 -14 c 256
+ 502 -14 576 83 605 177 c 256
+ 631 262 618 348 541 348 c 256
+523 321 m 256
+ 560 321 555 231 536 165 c 256
+ 517 100 473 10 431 10 c 256
+ 389 10 399 107 419 177 c 256
+ 437 238 486 321 523 321 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "'onum' Oldstyle Figures lookup 33 subtable" percent.sc
-Substitution2: "sups subtable" percent.sups
-Substitution2: "sinf subtable" percent.sinf
-Substitution2: "ordn subtable" percent.ordn
-Substitution2: "subs subtable" percent.subs
+Fore
+Refer: 3047 -1 N 1 0 0 1 0 0 2
+Refer: 869 8260 N 1 0 0 1 304 0 2
+Refer: 3047 -1 N 1 0 0 1 276 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vzero.ordn
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vfraction
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vzero.ordn
+p11
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p12
+Vzero.ordn
+p13
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p14
+Vzero.ordn
+p15
+sVpublic.markColor
+p16
+V0.67,0.95,0.38,1
+p17
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" percent.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" percent.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" percent.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" percent.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" percent.subs
+Comment: "+AAoA-percent+AAoA"
 EndChar

@@ -1,0 +1,25 @@
+StartChar: ldot
+Encoding: 1039 320 1038
+GlifName: ldot
+Width: 391
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 77 -30 basechar 0
+LayerCount: 2
+Fore
+Refer: 1026 108 N 1 0 0 1 0 0 2
+Refer: 1229 -1 N 1 0 0 1 342 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vl
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" ldot.sc
+Ligature2: "Ligature Substitution lookup 4 subtable" l periodcentered
+Comment: "+AAoA-ldot+AAoA"
+EndChar

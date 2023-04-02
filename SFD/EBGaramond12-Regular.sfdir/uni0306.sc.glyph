@@ -1,23 +1,17 @@
 StartChar: uni0306.sc
-Encoding: 1115069 -1 2781
+Encoding: 1922 -1 1921
 GlifName: uni0306.sc
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 169 533 mark 0
-AnchorPoint: "grk_top" 169 520 mark 0
-LayerCount: 3
+AnchorPoint: "top" 0 419 mark 0
+LayerCount: 2
 Fore
-SplineSet
-92 570 m 0
- 97 545 119 521 169 521 c 0
- 219 521 241 545 246 570 c 0
- 248 580 251 591 261 591 c 0
- 271 591 276 580 276 567 c 0
- 276 517 239 461 169 461 c 0
- 99 461 62 517 62 567 c 0
- 62 580 67 591 77 591 c 0
- 87 591 90 580 92 570 c 0
-EndSplineSet
-Validated: 1
+Refer: 636 728 N 1 0 0 1 -150 -16 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0306.sc+AAoA"
 EndChar

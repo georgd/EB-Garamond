@@ -1,0 +1,29 @@
+StartChar: logicalnot.sc
+Encoding: 1053 -1 1052
+GlifName: logicalnot.sc
+Width: 586
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+485 111 m 256
+ 503 111 544 120 544 145 c 257
+ 544 368 l 257
+ 544 380 540 389 526 389 c 258
+ 93 389 l 257
+ 68 389 58 348 58 330 c 256
+ 58 323 68 315 78 315 c 258
+ 455 315 l 258
+ 466 315 470 308 470 299 c 258
+ 470 131 l 258
+ 470 120 478 111 485 111 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-logicalnot.sc+AAoA"
+EndChar

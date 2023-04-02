@@ -1,44 +1,18 @@
 StartChar: t.sc
-Encoding: 66098 -1 1690
-Width: 486
+Encoding: 1381 -1 1380
+GlifName: t.sc
+Width: 533
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 241 8 basechar 0
-AnchorPoint: "ogonek" 262 18 basechar 0
-AnchorPoint: "below_accent" 186 -100 basechar 0
-AnchorPoint: "top_accent" 373 580 basechar 0
+Flags: W
+AnchorPoint: "top" 364 503 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-360 388 m 10
- 270 97 l 2
- 256 51 279 33 323 24 c 0
- 343 20 348 15 348 6 c 0
- 348 -2 334 -5 318 -5 c 0
- 268 -5 252 0 210 0 c 24
- 163 0 140 -5 90 -5 c 0
- 74 -5 66 -2 66 6 c 0
- 66 15 79 20 102 24 c 0
- 151 33 184 51 198 97 c 2
- 288 388 l 2
- 292.139648438 401.374023438 284 410 270 410 c 2
- 191 410 l 2
- 161 410 129.145507812 379.72265625 116 355 c 0
- 109.0703125 341.967773438 103 326 88 326 c 0
- 79 326 72.935546875 335.708984375 77 347 c 0
- 86 372 105 415 118 452 c 0
- 121 460 128 467 136 467 c 0
- 150 467 147 445 176 445 c 2
- 522 445 l 2
- 543 445 544 467 561 467 c 0
- 568 467 571 461 571 454 c 0
- 571 447 567.240234375 440.6796875 565 433 c 0
- 558 409 545.80078125 372.584960938 541 350 c 0
- 538.712890625 339.240234375 533 326 524 326 c 0
- 515 326 511 344 511 353 c 0
- 511 369 516 410 475 410 c 2
- 390 410 l 18
- 372 410 365.322265625 405.1953125 360 388 c 10
-EndSplineSet
-Comment: "."
+Refer: 375 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-t.sc+AAoA"
 EndChar

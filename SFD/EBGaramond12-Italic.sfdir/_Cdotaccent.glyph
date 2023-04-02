@@ -1,12 +1,20 @@
 StartChar: Cdotaccent
-Encoding: 266 266 189
-Width: 622
+Encoding: 60 266 60
+GlifName: C_dotaccent
+Width: 631
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "top.cap" 488 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 2079 -1 N 1 0 0 1 503 0 2
-Refer: 32 67 N 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Cdotaccent.sc
-MultipleSubs2: "CCMP_Precomp subtable" C uni0307.cap
+Refer: 43 67 N 1 0 0 1 0 0 2
+Refer: 1789 -1 N 1 0 0 1 342 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Cdotaccent.sc
+Comment: "+AAoA-Cdotaccent+AAoA"
 EndChar

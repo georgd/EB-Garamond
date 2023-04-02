@@ -1,13 +1,27 @@
 StartChar: uni02BE
-Encoding: 702 702 2236
+Encoding: 1887 702 1886
 GlifName: uni02B_E_
-Width: 215
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Back
-Refer: 2264 855 N 1 0 0 1 0 0 2
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2243 703 N -1 0 0 -1 215 1060 2
-Validated: 1
+SplineSet
+37 440 m 256
+ 110 440 183 485 183 558 c 256
+ 183 620 122 660 60 660 c 256
+ 42 660 18 653 18 639 c 256
+ 18 633 22 630 32 630 c 256
+ 81 630 117 588 117 539 c 256
+ 117 501 85 470 47 470 c 256
+ 33 470 18 462 18 448 c 256
+ 18 442 29 440 37 440 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni02BE+AAoA"
 EndChar

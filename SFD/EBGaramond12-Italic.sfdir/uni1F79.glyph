@@ -1,11 +1,19 @@
 StartChar: uni1F79
-Encoding: 8057 8057 969
-Width: 348
+Encoding: 2506 8057 2505
+GlifName: uni1F_79
+Width: 352
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "topgreek" 261 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2367 -1 N 1 0 0 1 239.872 11 2
-Refer: 647 959 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" omicron acutecomb.grk
+Refer: 1156 959 N 1 0 0 1 0 0 2
+Refer: 516 -1 N 1 0 0 1 184 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1F79+AAoA"
 EndChar

@@ -1,12 +1,21 @@
 StartChar: odieresis
-Encoding: 246 246 74
-Width: 400
+Encoding: 1141 246 1140
+GlifName: odieresis
+Width: 380
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 104 -30 basechar 0
+AnchorPoint: "top" 278 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 624 776 N 1 0 0 1 195 0 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" odieresis.sc
-MultipleSubs2: "CCMP_Precomp subtable" o uni0308
+Refer: 1127 111 N 1 0 0 1 0 0 2
+Refer: 718 168 N 1 0 0 1 56 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" odieresis.sc
+Comment: "+AAoA-odieresis+AAoA"
 EndChar

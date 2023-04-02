@@ -1,12 +1,55 @@
 StartChar: q.sinf
-Encoding: 1114381 -1 1380
+Encoding: 1306 -1 1305
 GlifName: q.sinf
-Width: 360
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 357
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1279 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 1302 -1 N 1 0 0 1 0 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vq.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vq.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vq.ordn
+p11
+sVcom.schriftgestaltung.annotations
+p12
+(lp13
+(dp14
+Vposition
+p15
+(lp16
+I21
+aI269
+asVtype
+p17
+VText
+p18
+sVwidth
+p19
+I100
+sasVpublic.markColor
+p20
+V0.67,0.95,0.38,1
+p21
+s."
+Comment: "+AAoA-q.sinf+AAoA"
 EndChar

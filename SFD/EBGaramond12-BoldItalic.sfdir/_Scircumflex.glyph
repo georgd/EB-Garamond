@@ -1,0 +1,21 @@
+StartChar: Scircumflex
+Encoding: 367 348 366
+GlifName: S_circumflex
+Width: 539
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 185 -30 basechar 0
+AnchorPoint: "top.cap" 601 823 basechar 0
+LayerCount: 2
+Fore
+Refer: 352 83 N 1 0 0 1 0 0 2
+Refer: 1770 -1 N 1 0 0 1 272 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Scircumflex.sc
+Comment: "+AAoA-Scircumflex+AAoA"
+EndChar

@@ -1,29 +1,25 @@
 StartChar: zero
-Encoding: 48 48 83
-Width: 440
+Encoding: 3044 48 3043
+GlifName: zero
+Width: 480
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-298 384 m 16
- 206 384 108 176 108 45 c 8
- 108 28 121 15 138 15 c 16
- 221 15 327 203 327 354 c 8
- 327 370 314 384 298 384 c 16
-308 414 m 8
- 354 414 391 376 391 330 c 8
- 391 160 268 -15 123 -15 c 8
- 78 -15 45 24 45 69 c 16
- 45 226 163 414 308 414 c 8
-EndSplineSet
-Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" zero.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 32 subtable" zero.lnum
-Substitution2: "Single Substitution lookup 31 subtable" zero.ordn
-Substitution2: "Single Substitution lookup 30 subtable" zero.subs
-Substitution2: "sups subtable" zero.sups
-Substitution2: "sinf subtable" zero.sinf
-Substitution2: "ordn subtable" zero.ordn
-Substitution2: "subs subtable" zero.subs
+Refer: 3045 -1 N 1 0 0 1 11 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" zero.lf
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" zero.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" zero.sc
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" zero.tosf
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 16 subtable" zero.lf
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" zerosuperior
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" zeroinferior
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" zero.subs
+Comment: "+AAoA-zero.tablining+AAoA"
 EndChar

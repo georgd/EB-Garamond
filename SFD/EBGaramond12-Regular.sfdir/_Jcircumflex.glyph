@@ -1,15 +1,53 @@
 StartChar: Jcircumflex
-Encoding: 308 308 222
+Encoding: 219 308 219
 GlifName: J_circumflex
-Width: 300
+Width: 340
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top.cap" 164 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+33 701 m 256
+ 46 701 128 741 154 756 c 256
+ 163 761 165 761 174 756 c 256
+ 200 741 282 700 295 700 c 256
+ 304 700 309 705 309 711 c 256
+ 309 715 308 719 303 723 c 258
+ 205 806 l 258
+ 186 823 179 828 164 828 c 256
+ 149 828 142 823 123 806 c 258
+ 25 723 l 258
+ 20 719 18 715 18 711 c 256
+ 18 705 24 701 33 701 c 256
+64 -158 m 256
+ 47 -158 32 -152 17 -129 c 256
+ 5 -111 -7 -103 -33 -103 c 256
+ -51 -103 -69 -131 -69 -158 c 256
+ -69 -179 -31 -200 34 -200 c 256
+ 93 -200 130 -173 157 -134 c 256
+ 185 -94 210 -68 210 142 c 258
+ 210 551 l 258
+ 210 597 217 613 267 622 c 256
+ 290 626 300 633 300 642 c 256
+ 300 650 288 653 271 653 c 256
+ 217 653 214 650 177 650 c 256
+ 131 650 114 653 60 653 c 256
+ 43 653 31 650 31 642 c 256
+ 31 633 42 626 64 622 c 256
+ 112 613 130 597 130 551 c 258
+ 130 0 l 258
+ 130 -97 111 -158 64 -158 c 256
+EndSplineSet
 Fore
-Refer: 981 -1 S 1 0 0 1 13 20 2
-Refer: 42 74 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Jcircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" J uni0302.cap
-Position2: "lfbd subtable" dx=-15 dy=0 dh=-15 dv=0
+Refer: 211 74 N 1 0 0 1 0 0 2
+Refer: 1906 -1 N 1 0 0 1 163 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Jcircumflex.sc
+Comment: "+AAoA-Jcircumflex+AAoA"
 EndChar

@@ -1,0 +1,52 @@
+StartChar: logicalnot.sc
+Encoding: 1091 -1 1090
+GlifName: logicalnot.sc
+Width: 586
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+452 163 m 256
+ 461 163 500 166 500 187 c 258
+ 500 368 l 258
+ 500 375 494 382 487 382 c 258
+ 74 382 l 258
+ 53 382 50 343 50 334 c 256
+ 50 328 57 322 64 322 c 258
+ 426 322 l 258
+ 436 322 440 314 440 304 c 258
+ 440 177 l 258
+ 440 170 446 163 452 163 c 256
+EndSplineSet
+Fore
+SplineSet
+457 111 m 256
+ 475 111 516 120 516 145 c 257
+ 516 368 l 257
+ 516 380 512 389 498 389 c 258
+ 65 389 l 257
+ 40 389 30 348 30 330 c 256
+ 30 323 40 315 50 315 c 258
+ 427 315 l 258
+ 438 315 442 308 442 299 c 258
+ 442 131 l 258
+ 442 120 450 111 457 111 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vlogicalnot
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vlogicalnot
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-logicalnot.sc+AAoA"
+EndChar

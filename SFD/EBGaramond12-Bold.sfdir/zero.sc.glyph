@@ -1,0 +1,42 @@
+StartChar: zero.sc
+Encoding: 3211 -1 3210
+GlifName: zero.sc
+Width: 552
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+303 455 m 256
+ 175 455 70 352 70 225 c 256
+ 70 94 173 -15 305 -15 c 256
+ 435 -15 539 93 539 224 c 256
+ 539 352 432 455 303 455 c 256
+310 415 m 256
+ 403 415 455 320 455 224 c 256
+ 455 84 387 27 297 27 c 256
+ 207 27 152 129 153 225 c 256
+ 153 337 220 415 310 415 c 256
+EndSplineSet
+Fore
+SplineSet
+275 456 m 256
+ 137 456 35 360 35 227 c 256
+ 35 89 135 -14 277 -14 c 256
+ 418 -14 517 88 517 226 c 256
+ 517 360 415 456 275 456 c 256
+279 405 m 256
+ 337 405 359 315 359 226 c 256
+ 359 90 327 36 272 36 c 256
+ 218 36 193 134 193 227 c 256
+ 193 331 225 405 279 405 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-zero.sc+AAoA"
+EndChar

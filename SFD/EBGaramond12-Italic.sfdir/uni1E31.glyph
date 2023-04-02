@@ -1,12 +1,41 @@
 StartChar: uni1E31
-Encoding: 7729 7729 402
+Encoding: 2198 7729 2197
+GlifName: uni1E_31
 Width: 469
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 147 -30 basechar 0
 LayerCount: 2
 Fore
-Refer: 623 769 N 1 0 0 1 360 93 2
-Refer: 62 107 N 1 0 0 1 0 0 3
-Substitution2: "alternate_h subtable" uni1E31.01
-MultipleSubs2: "CCMP_Precomp subtable" k acutecomb
+Refer: 1009 107 N 1 0 0 1 0 0 2
+Refer: 512 769 N 1 0 0 1 340 156 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vk
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vacutecomb
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1E31+AAoA"
 EndChar

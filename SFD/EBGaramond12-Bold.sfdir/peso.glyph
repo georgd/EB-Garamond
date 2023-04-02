@@ -1,0 +1,35 @@
+StartChar: peso
+Encoding: 1283 8369 1282
+GlifName: peso
+Width: 646
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 192 -30 basechar 0
+AnchorPoint: "top.cap" 328 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+25 476 m 258
+ 632 479 l 257
+ 653 480 675 503 676 513 c 257
+ 676 520 668 531 658 531 c 257
+ 39 529 l 257
+ 21 528 6 506 5 494 c 257
+ 5 485 15 476 25 476 c 258
+25 355 m 258
+ 632 358 l 257
+ 653 359 675 382 676 392 c 257
+ 676 399 668 410 658 410 c 257
+ 39 408 l 257
+ 21 407 6 385 5 373 c 257
+ 5 364 15 355 25 355 c 258
+EndSplineSet
+Refer: 316 80 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.98,0.36,0.67,1
+p2
+s."
+EndChar

@@ -1,18 +1,20 @@
 StartChar: Epsilon
-Encoding: 917 917 631
+Encoding: 121 917 121
 GlifName: E_psilon
-Width: 535
+Width: 564
 VWidth: 0
-Flags: HMW
-AnchorPoint: "grk_bottom" 280 -100 basechar 0
-AnchorPoint: "grk_uc_right" 535 290 basechar 0
-AnchorPoint: "grk_uc_top" 297 720 basechar 0
-AnchorPoint: "grk_uc_top_left" -36 665 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 293 -30 basechar 0
+AnchorPoint: "top.cap" 298 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 35 69 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Epsilon.sc
-Position2: "Single Positioning lookup 6 subtable" dx=218 dy=0 dh=218 dv=0
-Position2: "Single Positioning lookup 5 subtable" dx=79 dy=0 dh=79 dv=0
+Refer: 81 69 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Epsilon.sc
+Comment: "+AAoA-Epsilon+AAoA"
 EndChar

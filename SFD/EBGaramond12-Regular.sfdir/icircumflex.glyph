@@ -1,14 +1,53 @@
 StartChar: icircumflex
-Encoding: 238 238 166
+Encoding: 1006 238 1005
 GlifName: icircumflex
 Width: 245
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 116 -30 basechar 0
+AnchorPoint: "top" 124 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+112 553 m 257
+ 115 557 116 557 119 553 c 256
+ 143 523 173 485 185 469 c 256
+ 192 459 207 447 215 447 c 256
+ 224 447 224 451 224 460 c 256
+ 224 475 155 597 135 630 c 257
+ 130 639 123 648 115 648 c 256
+ 107 648 100 639 95 630 c 257
+ 75 597 7 475 7 460 c 256
+ 7 451 7 447 16 447 c 256
+ 24 447 39 460 46 469 c 256
+ 58 485 87 523 112 553 c 257
+162 434 m 256
+ 154 434 109 393 42 377 c 256
+ 38 376 35 370 35 365 c 256
+ 35 359 38 353 43 352 c 256
+ 77 345 90 315 90 279 c 258
+ 90 62 l 258
+ 90 35 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 36 -3 44 -3 c 256
+ 83 -3 90 2 125 2 c 256
+ 160 2 168 -3 206 -3 c 256
+ 215 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 35 160 62 c 258
+ 160 294 l 258
+ 160 339 165 388 169 429 c 257
+ 169 432 166 434 162 434 c 256
+EndSplineSet
 Fore
-Refer: 91 770 S 1 0 0 1 -23 0 2
-Refer: 76 305 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" icircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" i.dotless uni0302
+Refer: 747 305 N 1 0 0 1 0 0 2
+Refer: 689 710 N 1 0 0 1 -26 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" icircumflex.sc
+Comment: "+AAoA-icircumflex+AAoA"
 EndChar

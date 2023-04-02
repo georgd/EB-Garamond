@@ -1,11 +1,18 @@
 StartChar: racute.sc
-Encoding: 66282 -1 1874
-Width: 553
+Encoding: 1295 -1 1294
+GlifName: racute.sc
+Width: 552
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 358 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2454 -1 N 1 0 0 1 347 30 2
-Refer: 1688 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 348 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-racute.sc+AAoA"
 EndChar

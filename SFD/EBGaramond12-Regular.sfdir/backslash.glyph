@@ -1,25 +1,44 @@
 StartChar: backslash
-Encoding: 92 92 96
+Encoding: 596 92 595
 GlifName: backslash
 Width: 399
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+362 -62 m 256
+ 370 -62 379 -57 379 -50 c 256
+ 379 -49 378 -48 378 -47 c 257
+ 81 648 l 258
+ 74 663 59 665 42 665 c 256
+ 35 665 28 659 28 652 c 256
+ 28 651 29 649 29 648 c 257
+ 326 -47 l 258
+ 332 -61 347 -62 362 -62 c 256
+EndSplineSet
 Fore
 SplineSet
-378 -47 m 18
- 378 -48 379 -49 379 -50 c 0
- 379 -57 370 -62 362 -62 c 8
- 347 -62 332 -61 326 -47 c 26
- 29 648 l 18
- 29 649 28 651 28 652 c 0
- 28 659 35 665 42 665 c 8
- 59 665 74 663 81 648 c 26
- 378 -47 l 18
+362 -62 m 256
+ 375 -62 382 -55 378 -47 c 258
+ 81 648 l 258
+ 74 663 59 665 42 665 c 256
+ 29 665 25 657 29 648 c 258
+ 326 -47 l 258
+ 332 -61 347 -62 362 -62 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" backslash.sups
-Substitution2: "sinf subtable" backslash.sinf
-Substitution2: "ordn subtable" backslash.ordn
-Substitution2: "subs subtable" backslash.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 2173 -40 "'kern' Horizontal Kerning lookup 0 subtable" 2175 -120 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" backslash.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" backslash.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" backslash.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" backslash.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" backslash.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" backslash.subs
+Comment: "+AAoA-backslash+AAoA"
 EndChar

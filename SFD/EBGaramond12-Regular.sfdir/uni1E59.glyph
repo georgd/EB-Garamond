@@ -1,14 +1,53 @@
 StartChar: uni1E59
-Encoding: 7769 7769 441
+Encoding: 2400 7769 2399
 GlifName: uni1E_59
 Width: 334
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 133 -30 basechar 0
+AnchorPoint: "top" 191 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+141 543 m 256
+ 141 515 163 493 191 493 c 256
+ 220 493 242 515 242 543 c 256
+ 242 572 220 594 191 594 c 256
+ 163 594 141 572 141 543 c 256
+160 67 m 257
+ 160 264 l 258
+ 160 331 198 348 230 348 c 256
+ 250 348 273 330 290 330 c 256
+ 310 330 329 362 329 382 c 256
+ 329 400 309 414 281 414 c 256
+ 257 414 220 399 189 371 c 256
+ 182 365 169 346 165 346 c 256
+ 164 346 164 346 164 348 c 257
+ 166 380 167 416 167 423 c 257
+ 166 426 164 430 161 430 c 256
+ 160 430 160 429 159 429 c 257
+ 132 413 99 386 48 374 c 256
+ 44 373 39 368 39 362 c 256
+ 39 356 44 350 49 349 c 256
+ 82 342 90 313 90 277 c 258
+ 90 62 l 257
+ 89 35 72 30 52 24 c 257
+ 41 20 29 16 29 6 c 256
+ 29 -2 42 -3 49 -3 c 256
+ 89 -3 95 2 130 2 c 256
+ 165 2 177 -3 217 -3 c 256
+ 224 -3 237 -2 237 6 c 256
+ 237 16 225 20 214 24 c 257
+ 194 30 161 40 160 67 c 257
+EndSplineSet
 Fore
-Refer: 121 775 N 1 0 0 1 79 0 2
-Refer: 12 114 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" r uni0307
-Position2: "rtbd subtable" dx=0 dy=0 dh=-17 dv=0
+Refer: 1337 114 N 1 0 0 1 0 0 2
+Refer: 744 729 N 1 0 0 1 91 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E59+AAoA"
 EndChar

@@ -1,11 +1,43 @@
 StartChar: asciitilde.ordn
-Encoding: 65904 -1 1496
-Width: 500
-VWidth: 280
-Flags: MW
+Encoding: 568 -1 567
+GlifName: asciitilde.ordn
+Width: 334
+VWidth: 0
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+15 426 m 257
+ 27 440 67 461 84 461 c 256
+ 103 461 125 453 146 444 c 256
+ 169 434 191 425 210 425 c 256
+ 247 425 294 482 304 502 c 257
+ 304 508 299 516 296 516 c 256
+ 287 516 257 480 219 480 c 256
+ 198 480 179 486 162 494 c 256
+ 138 505 117 516 97 516 c 256
+ 69 516 4 475 4 438 c 256
+ 4 433 12 423 15 426 c 257
+EndSplineSet
 Fore
-Refer: 1292 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+121 431 m 256
+ 133 441 176 464 190 464 c 256
+ 207 464 224 458 240 449 c 256
+ 256 440 281 430 297 430 c 256
+ 340 430 375 482 389 501 c 256
+ 392 504 385 513 382 513 c 256
+ 379 513 344 481 310 481 c 256
+ 290 481 275 486 261 494 c 256
+ 245 503 225 514 209 514 c 256
+ 169 514 140 473 113 441 c 256
+ 110 437 115 426 121 431 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-asciitilde.ordn+AAoA"
 EndChar

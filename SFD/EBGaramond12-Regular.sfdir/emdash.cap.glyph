@@ -1,19 +1,17 @@
 StartChar: emdash.cap
-Encoding: 1115127 -1 2839
+Encoding: 799 -1 798
 GlifName: emdash.cap
 Width: 950
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-74 349 m 26
- 887 349 l 18
- 893 349 900 343 900 337 c 0
- 900 317 885 295 869 295 c 26
- 64 295 l 26
- 57 295 50 301 50 307 c 0
- 50 316 55 349 74 349 c 26
-EndSplineSet
-Validated: 1
+Refer: 797 8212 N 1 0 0 1 0 110 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.99,0.62,0.11,1
+p2
+s."
+Comment: "+AAoA-emdash.cap+AAoA"
 EndChar

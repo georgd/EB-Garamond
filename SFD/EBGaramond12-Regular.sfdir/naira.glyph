@@ -1,0 +1,27 @@
+StartChar: naira
+Encoding: 1145 8358 1144
+GlifName: naira
+Width: 826
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 420 -30 basechar 0
+AnchorPoint: "top.cap" 411 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+4 309 m 258
+ 804 316 l 258
+ 821 316 829 330 835 346 c 257
+ 838 353 829 360 822 360 c 258
+ 14 347 l 258
+ 0 347 -10 330 -10 321 c 256
+ -10 315 -3 309 4 309 c 258
+EndSplineSet
+Refer: 263 78 N 1 0 0 1 5 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.98,0.36,0.67,1
+p2
+s."
+EndChar

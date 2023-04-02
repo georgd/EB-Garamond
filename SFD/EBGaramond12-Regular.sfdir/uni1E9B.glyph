@@ -1,16 +1,71 @@
 StartChar: uni1E9B
-Encoding: 7835 7835 506
+Encoding: 2460 7835 2459
 GlifName: uni1E_9B_
 Width: 261
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+44 -3 m 256
+ 84 -3 92 2 127 2 c 256
+ 162 2 166 -3 206 -3 c 256
+ 219 -3 226 0 226 8 c 256
+ 226 18 217 21 203 24 c 256
+ 182 29 160 42 160 68 c 258
+ 160 335 l 258
+ 160 345 164 352 200 352 c 258
+ 296 352 l 258
+ 303 352 309 375 309 389 c 256
+ 309 395 308 400 305 400 c 258
+ 185 400 l 258
+ 172 400 160 404 160 422 c 258
+ 160 475 l 258
+ 160 610 206 665 268 665 c 256
+ 312 665 335 646 352 629 c 256
+ 365 617 374 606 386 606 c 256
+ 404 606 420 624 420 646 c 256
+ 420 686 384 706 310 706 c 256
+ 223 706 90 633 90 402 c 257
+ 70 392 61 384 31 376 c 257
+ 29 375 24 373 24 370 c 256
+ 24 363 34 353 38 352 c 257
+ 59 350 77 350 90 350 c 257
+ 90 68 l 258
+ 90 41 67 30 47 24 c 256
+ 33 20 24 18 24 8 c 256
+ 24 0 31 -3 44 -3 c 256
+EndSplineSet
 Fore
-Refer: 121 775 N 1 0 0 1 170 255 2
-Refer: 19 383 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Single Substitution lookup 105 subtable" uni1E9B.short
-Substitution2: "Single Substitution lookup 104 subtable" uni1E9B.short
-Substitution2: "Single Substitution lookup 103 subtable" uni1E9B.short
-MultipleSubs2: "CCMP_Precomp subtable" longs uni0307
+SplineSet
+44 -3 m 256
+ 84 -3 92 2 127 2 c 256
+ 162 2 166 -3 206 -3 c 256
+ 214 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 42 160 68 c 258
+ 160 475 l 258
+ 160 610 206 665 268 665 c 257
+ 312 665 335 646 352 629 c 256
+ 365 617 374 606 386 606 c 256
+ 404 606 420 624 420 646 c 256
+ 420 686 384 706 310 706 c 257
+ 223 706 90 633 90 402 c 257
+ 71 392 61 384 31 376 c 257
+ 29 375 25 372 25 369 c 256
+ 25 362 34 353 38 352 c 257
+ 59 350 77 350 90 350 c 257
+ 90 68 l 258
+ 90 41 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 36 -3 44 -3 c 256
+EndSplineSet
+Refer: 744 729 N 1 0 0 1 197 232 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E9B+AAoA"
 EndChar

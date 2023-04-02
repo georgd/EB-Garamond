@@ -1,11 +1,26 @@
 StartChar: quotedbl.ordn
-Encoding: 65812 -1 1404
-Width: 200
-VWidth: 280
-Flags: MW
+Encoding: 1268 -1 1267
+GlifName: quotedbl.ordn
+Width: 163
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1200 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+Refer: 1281 -1 N 1 0 0 1 77 0 2
+Refer: 1281 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vquotesingle.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vquotesingle.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-quotedbl.ordn+AAoA"
 EndChar

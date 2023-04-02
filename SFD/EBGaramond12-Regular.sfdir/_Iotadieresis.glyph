@@ -1,14 +1,52 @@
 StartChar: Iotadieresis
-Encoding: 938 938 643
+Encoding: 205 938 205
 GlifName: I_otadieresis
 Width: 340
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 170 -30 basechar 0
+AnchorPoint: "top.cap" 170 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+73 795 m 256
+ 45 795 23 773 23 745 c 256
+ 23 717 45 695 73 695 c 256
+ 101 695 123 717 123 745 c 256
+ 123 773 101 795 73 795 c 256
+268 795 m 256
+ 240 795 218 773 218 745 c 256
+ 218 717 240 695 268 695 c 256
+ 296 695 318 717 318 745 c 256
+ 318 773 296 795 268 795 c 256
+130 550 m 258
+ 130 98 l 258
+ 130 51 102 33 52 24 c 256
+ 29 20 19 15 19 6 c 256
+ 19 -2 31 -5 48 -5 c 256
+ 102 -5 126 0 176 0 c 256
+ 222 0 239 -5 293 -5 c 256
+ 310 -5 322 -2 322 6 c 256
+ 322 15 312 20 289 24 c 256
+ 239 33 210 51 210 98 c 258
+ 210 550 l 258
+ 210 597 231 613 281 622 c 256
+ 304 626 314 633 314 642 c 256
+ 314 650 302 653 285 653 c 256
+ 231 653 219 650 176 650 c 256
+ 130 650 113 653 59 653 c 256
+ 42 653 30 650 30 642 c 256
+ 30 633 40 626 63 622 c 256
+ 113 613 130 597 130 550 c 258
+EndSplineSet
 Fore
-Refer: 989 -1 N 1 0 0 1 18 0 2
-Refer: 634 921 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Iotadieresis.sc
-MultipleSubs2: "CCMP_Precomp subtable" Iota uni0308.cap
+Refer: 192 207 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Iotadieresis.sc
+Comment: "+AAoA-Iotadieresis+AAoA"
 EndChar

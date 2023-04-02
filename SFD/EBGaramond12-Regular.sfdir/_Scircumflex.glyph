@@ -1,14 +1,57 @@
 StartChar: Scircumflex
-Encoding: 348 348 254
+Encoding: 369 348 368
 GlifName: S_circumflex
 Width: 465
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 226 -30 basechar 0
+AnchorPoint: "top.cap" 269 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+109 701 m 256
+ 122 701 204 741 230 756 c 256
+ 239 761 241 761 250 756 c 256
+ 276 741 358 700 371 700 c 256
+ 380 700 385 705 385 711 c 256
+ 385 715 384 719 379 723 c 258
+ 281 806 l 258
+ 262 823 255 828 240 828 c 256
+ 225 828 218 823 199 806 c 258
+ 101 723 l 258
+ 96 719 94 715 94 711 c 256
+ 94 705 100 701 109 701 c 256
+223 17 m 256
+ 165 17 111 42 92 103 c 256
+ 82 135 71 169 62 169 c 256
+ 51 169 41 149 41 140 c 256
+ 41 104 48 48 59 25 c 257
+ 61 20 67 14 80 8 c 256
+ 97 0 141 -16 214 -16 c 256
+ 364 -16 422 80 422 160 c 256
+ 422 262 326 338 269 375 c 256
+ 218 408 136 459 136 523 c 256
+ 136 590 189 631 251 631 c 256
+ 307 631 353 598 363 540 c 256
+ 366 525 379 512 398 512 c 256
+ 403 512 405 522 405 537 c 256
+ 405 568 397 618 396 621 c 257
+ 394 631 388 644 379 644 c 256
+ 369 644 324 664 260 664 c 256
+ 140 664 59 584 59 497 c 256
+ 59 417 116 365 186 318 c 256
+ 268 263 338 198 338 132 c 256
+ 338 62 298 17 223 17 c 256
+EndSplineSet
 Fore
-Refer: 981 -1 N 1 0 0 1 89 20 2
-Refer: 45 83 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Scircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" S uni0302.cap
+Refer: 355 83 N 1 0 0 1 0 0 2
+Refer: 1906 -1 N 1 0 0 1 268 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Scircumflex.sc
+Comment: "+AAoA-Scircumflex+AAoA"
 EndChar

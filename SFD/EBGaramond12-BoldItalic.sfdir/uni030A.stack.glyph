@@ -1,0 +1,40 @@
+StartChar: uni030A.stack
+Encoding: 1802 -1 1801
+GlifName: uni030A_.stack
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+107 449 m 256
+ 169 449 240 488 258 547 c 256
+ 275 601 230 633 174 633 c 256
+ 111 633 40 594 23 537 c 256
+ 6 482 49 449 107 449 c 256
+128 485 m 256
+ 97 485 81 510 90 539 c 256
+ 99 568 124 593 152 593 c 256
+ 183 593 198 569 188 539 c 256
+ 180 512 156 485 128 485 c 256
+EndSplineSet
+Fore
+SplineSet
+78 449 m 256
+ 147 449 222 492 222 558 c 256
+ 222 602 186 633 129 633 c 256
+ 65 633 -17 596 -17 527 c 256
+ -17 479 20 449 78 449 c 256
+90 485 m 256
+ 65 485 50 506 50 527 c 256
+ 50 565 80 593 114 593 c 256
+ 139 593 155 573 155 549 c 256
+ 155 514 124 485 90 485 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030A.stack+AAoA"
+EndChar

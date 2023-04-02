@@ -1,12 +1,25 @@
 StartChar: parenright.sinf
-Encoding: 1114309 -1 1308
+Encoding: 1260 -1 1259
 GlifName: parenright.sinf
-Width: 205
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 206
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1207 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 1257 -1 N 1 0 0 1 0 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vparenright.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vparenright.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-parenright.sinf+AAoA"
 EndChar

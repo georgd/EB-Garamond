@@ -1,16 +1,46 @@
 StartChar: I.sc
-Encoding: 1114644 -1 1643
+Encoding: 180 -1 180
 GlifName: I_.sc
 Width: 315
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 168 8 basechar 0
-AnchorPoint: "ogonek" 211 18 basechar 0
-AnchorPoint: "below_accent" 160 -100 basechar 0
-AnchorPoint: "top_accent" 158 615 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 158 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1675 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+50 -3 m 256
+ 89 -3 116 3 158 3 c 256
+ 200 3 226 -3 265 -3 c 256
+ 272 -3 285 1 285 9 c 256
+ 285 19 272 23 261 25 c 256
+ 226 32 195 43 195 79 c 258
+ 195 352 l 258
+ 195 393 211 415 253 422 c 256
+ 265 424 277 431 277 441 c 256
+ 277 449 264 453 257 453 c 256
+ 218 453 193 448 158 448 c 256
+ 122 448 97 453 58 453 c 256
+ 51 453 38 449 38 441 c 256
+ 38 431 50 424 62 422 c 256
+ 104 415 120 393 120 352 c 258
+ 120 79 l 258
+ 120 43 89 32 54 25 c 256
+ 43 23 30 19 30 9 c 256
+ 30 1 43 -3 50 -3 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vh.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vh.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-I.sc+AAoA"
 EndChar

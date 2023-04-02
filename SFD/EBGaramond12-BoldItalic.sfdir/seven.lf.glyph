@@ -1,0 +1,61 @@
+StartChar: seven.lf
+Encoding: 1341 -1 1340
+GlifName: seven.lf
+Width: 550
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+108 6 m 256
+ 112 5 128 22 138 33 c 258
+ 541 484 l 258
+ 569 516 589 532 591 540 c 256
+ 593 550 590 565 584 566 c 256
+ 552 571 510 578 444 592 c 256
+ 406 600 316 620 263 633 c 256
+ 222 643 186 655 168 659 c 257
+ 160 662 144 662 140 646 c 256
+ 131 609 105 559 86 514 c 257
+ 82 506 78 495 76 484 c 256
+ 74 474 80 466 89 464 c 256
+ 111 459 132 479 142 489 c 256
+ 166 513 182 518 217 510 c 258
+ 418 466 l 258
+ 427 464 435 461 426 451 c 258
+ 113 93 l 258
+ 100 78 79 59 77 48 c 256
+ 74 30 91 10 108 6 c 256
+EndSplineSet
+Fore
+SplineSet
+85 -29 m 256
+ 89 -29 106 -9 118 4 c 258
+ 590 529 l 258
+ 622 565 645 586 647 594 c 256
+ 650 604 640 617 634 617 c 256
+ 602 615 558 614 490 614 c 256
+ 451 614 360 615 306 616 c 256
+ 263 618 226 621 209 622 c 257
+ 201 623 184 620 179 604 c 256
+ 167 564 132 506 109 458 c 256
+ 95 436 87 415 109 415 c 256
+ 131 415 154 439 165 450 c 256
+ 194 477 211 486 246 486 c 258
+ 448 486 l 258
+ 457 486 465 484 454 472 c 258
+ 94 57 l 258
+ 78 39 51 16 51 4 c 256
+ 51 -16 67 -29 85 -29 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 668 -45 "'kern' Horizontal Kerning lookup 0 subtable" 768 -15 "'kern' Horizontal Kerning lookup 0 subtable" 847 -25 "'kern' Horizontal Kerning lookup 0 subtable" 857 -45 "'kern' Horizontal Kerning lookup 0 subtable" 860 -95 "'kern' Horizontal Kerning lookup 0 subtable" 1042 -35 "'kern' Horizontal Kerning lookup 0 subtable" 1108 -15 "'kern' Horizontal Kerning lookup 0 subtable" 1374 -65 "'kern' Horizontal Kerning lookup 0 subtable" 1424 -25 "'kern' Horizontal Kerning lookup 0 subtable" 3045 -45 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" seven.osf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" seven
+Comment: "+AAoA-seven.lnum+AAoA"
+EndChar

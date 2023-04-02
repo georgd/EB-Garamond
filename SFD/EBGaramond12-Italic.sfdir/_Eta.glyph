@@ -1,13 +1,21 @@
 StartChar: Eta
-Encoding: 919 919 635
-Width: 788
+Encoding: 126 919 126
+GlifName: E_ta
+Width: 751
 VWidth: 0
-Flags: MW
-AnchorPoint: "grk_uc_top" 576 710 basechar 0
-AnchorPoint: "grk_uc_top_left" 50 665 basechar 0
-AnchorPoint: "grk_bottom" 347 -100 basechar 0
+Flags: W
+AnchorPoint: "bottomgreek" 310 -30 basechar 0
+AnchorPoint: "topgreek" 8 460 basechar 0
+AnchorPoint: "bottom.cap" 305 -30 basechar 0
+AnchorPoint: "top.cap" 511 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 47 72 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 161 72 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Eta+AAoA"
 EndChar

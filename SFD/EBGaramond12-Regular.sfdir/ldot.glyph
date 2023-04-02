@@ -1,16 +1,63 @@
 StartChar: ldot
-Encoding: 320 320 233
+Encoding: 1077 320 1076
 GlifName: ldot
-Width: 256
+Width: 334
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 121 -30 basechar 0
+LayerCount: 2
 Back
-Refer: 2 108 N 1 0 0 1 0 0 2
+SplineSet
+246 414 m 256
+ 218 414 196 392 196 364 c 256
+ 196 336 218 314 246 314 c 256
+ 274 314 296 336 296 364 c 256
+ 296 392 274 414 246 414 c 256
+155 62 m 258
+ 155 562 l 258
+ 155 652 162 686 162 698 c 256
+ 162 701 159 705 156 705 c 256
+ 155 705 155 704 154 704 c 257
+ 122 692 89 676 38 664 c 256
+ 34 663 31 658 31 652 c 256
+ 31 646 34 640 39 639 c 256
+ 72 632 85 605 85 566 c 258
+ 85 62 l 258
+ 85 35 62 30 42 24 c 257
+ 31 20 19 16 19 6 c 256
+ 19 -2 32 -3 39 -3 c 256
+ 78 -3 85 2 120 2 c 256
+ 155 2 162 -3 201 -3 c 256
+ 208 -3 221 -2 221 6 c 256
+ 221 16 209 20 198 24 c 257
+ 178 30 155 35 155 62 c 258
+EndSplineSet
 Fore
-Refer: 2856 -1 S 1 0 0 1 241 0 2
-Refer: 2 108 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Smallcaps1 subtable" ldot.sc
-LCarets2: 1 0
+Refer: 1061 108 N 1 0 0 1 0 0 2
+Refer: 1277 183 N 1 0 0 1 184 151 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vl
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+g7
+sVpublic.markColor
+p9
+V0.67,0.95,0.38,1
+p10
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" ldot.sc
+Comment: "+AAoA-ldot+AAoA"
 EndChar

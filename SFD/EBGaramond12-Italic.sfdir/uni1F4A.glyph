@@ -1,12 +1,40 @@
 StartChar: uni1F4A
-Encoding: 8010 8010 2296
-Width: 712
+Encoding: 2465 8010 2464
+GlifName: uni1F_4A_
+Width: 877
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 481 -30 basechar 0
+AnchorPoint: "bottomgreek" 494 -30 basechar 0
+AnchorPoint: "top.cap" 672 675 basechar 0
+AnchorPoint: "topgreek" 184 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 2368 -1 N 1 0 0 1 -30 35 2
-Refer: 2361 -1 N 1 0 0 1 -155 35 2
-Refer: 640 927 N 1 0 0 1 0 0 2
-MultipleSubs2: "CCMP_Precomp subtable" Omicron uni0313.grk gravecomb.grkstack
+Refer: 306 927 N 1 0 0 1 183 0 2
+Refer: 2585 8141 N 1 0 0 1 -54 20 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOmicron
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VOmicron
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1F4A+AAoA"
 EndChar

@@ -1,32 +1,63 @@
 StartChar: uni2071
-Encoding: 8305 8305 797
-Width: 144
+Encoding: 2670 8305 2669
+GlifName: uni2071
+Width: 193
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
-Fore
+Back
 SplineSet
-227 623 m 0
- 233 641 254 658 271 658 c 0
- 289 658 300 641 294 623 c 0
- 289 606 268 589 250 589 c 0
- 233 589 222 606 227 623 c 0
-194 320 m 2
- 189 304 206 302 217 298 c 0
- 223 296 229 289 227 283 c 0
- 225 277 213 273 210 273 c 2
- 104 273 l 2
- 101 273 91 277 93 283 c 0
- 95 289 104 296 111 298 c 0
- 124 302 141 304 146 320 c 2
- 178 426 l 2
- 184 447 184 465 165 469 c 8
- 156 471 162 493 172 495 c 16
- 206 503 223 517 247 530 c 0
- 248 530 250 530 252 530 c 0
- 258 530 266 529 265 527 c 0
- 259 513 245 486 229 434 c 2
- 194 320 l 2
+190 320 m 258
+ 225 434 l 258
+ 241 486 255 513 261 527 c 257
+ 262 529 254 530 248 530 c 258
+ 243 530 l 257
+ 219 517 202 503 168 495 c 256
+ 158 493 152 471 161 469 c 256
+ 180 465 180 447 174 426 c 258
+ 142 320 l 258
+ 137 304 120 302 107 298 c 256
+ 100 296 91 289 89 283 c 256
+ 87 277 97 273 100 273 c 258
+ 206 273 l 258
+ 209 273 221 277 223 283 c 256
+ 225 289 219 296 213 298 c 256
+ 202 302 185 304 190 320 c 258
+223 623 m 257
+ 218 606 229 589 246 589 c 256
+ 264 589 285 606 290 623 c 257
+ 296 641 285 658 267 658 c 256
+ 250 658 229 641 223 623 c 257
 EndSplineSet
-Validated: 33
+Fore
+Refer: 966 -1 N 1 0 0 1 -2 -8 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vi.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vi.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vi.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni2071+AAoA"
 EndChar

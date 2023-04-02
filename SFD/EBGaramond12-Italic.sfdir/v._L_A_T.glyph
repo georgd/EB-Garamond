@@ -1,9 +1,13 @@
 StartChar: v.LAT
-Encoding: 66335 -1 1934
-Width: 395
-Flags: HMW
+Encoding: 2973 -1 2972
+GlifName: v.L_A_T_
+Width: 410
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 137 -30 basechar 0
+AnchorPoint: "top" 265 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 22 118 N 1 0 0 1 0 0 2
-Substitution2: "Single Substitution lookup 82 subtable" v.LATmedi
+Refer: 2970 118 N 1 0 0 1 0 0 2
+Comment: "+AAoA-v.LAT+AAoA"
 EndChar

@@ -1,13 +1,20 @@
 StartChar: Ccircumflex
-Encoding: 264 264 187
-Width: 622
+Encoding: 58 264 58
+GlifName: C_circumflex
+Width: 631
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top.cap" 641 823 basechar 0
 LayerCount: 2
 Fore
-Refer: 2075 -1 N 1 0 0 1 394 20 2
-Refer: 32 67 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Ccircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" C uni0302.cap
+Refer: 43 67 N 1 0 0 1 0 0 2
+Refer: 1770 -1 N 1 0 0 1 342 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Ccircumflex.sc
+Comment: "+AAoA-Ccircumflex+AAoA"
 EndChar

@@ -1,45 +1,82 @@
 StartChar: Tcaron
-Encoding: 356 356 262
+Encoding: 388 356 387
 GlifName: T_caron
 Width: 670
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 328 -30 basechar 0
+AnchorPoint: "top.cap" 340 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+210 842 m 256
+ 201 842 195 838 195 832 c 256
+ 195 828 197 824 202 820 c 258
+ 300 742 l 258
+ 320 726 326 720 341 720 c 256
+ 356 720 362 726 382 742 c 258
+ 480 820 l 258
+ 485 824 486 828 486 832 c 256
+ 486 838 481 843 472 843 c 256
+ 459 843 377 802 351 787 c 256
+ 342 782 340 782 331 787 c 256
+ 305 802 223 842 210 842 c 256
+376 102 m 258
+ 376 558 l 258
+ 376 599 381 604 432 604 c 258
+ 527 604 l 258
+ 591 604 614 586 619 558 c 256
+ 624 532 628 517 638 517 c 256
+ 648 517 654 537 654 549 c 258
+ 654 561 l 258
+ 654 587 661 623 670 660 c 257
+ 670 662 671 666 671 669 c 256
+ 671 679 668 692 664 692 c 256
+ 649 692 634 670 614 656 c 256
+ 604 649 585 642 556 642 c 258
+ 175 642 l 258
+ 147 642 113 648 105 662 c 256
+ 99 673 85 694 80 694 c 256
+ 75 694 66 693 63 671 c 256
+ 57 629 50 598 32 560 c 256
+ 29 554 27 546 27 540 c 256
+ 27 533 29 527 34 527 c 256
+ 49 527 69 554 75 565 c 256
+ 89 591 125 604 157 604 c 258
+ 204 604 l 258
+ 238 604 259 604 278 600 c 256
+ 294 597 296 575 296 557 c 258
+ 296 102 l 258
+ 296 54 268 33 218 24 c 256
+ 195 20 185 15 185 6 c 256
+ 185 -2 197 -5 214 -5 c 256
+ 268 -5 292 0 342 0 c 256
+ 388 0 405 -5 459 -5 c 256
+ 476 -5 488 -2 488 6 c 256
+ 488 15 478 20 455 24 c 256
+ 405 33 376 54 376 102 c 258
+20 681 m 256
+ 33 681 115 721 141 736 c 256
+ 150 741 152 741 161 736 c 256
+ 187 721 269 680 282 680 c 256
+ 291 680 296 685 296 691 c 256
+ 296 695 295 699 290 703 c 258
+ 192 786 l 258
+ 173 803 166 808 151 808 c 256
+ 136 808 129 803 110 786 c 258
+ 12 703 l 258
+ 7 699 5 695 5 691 c 256
+ 5 685 11 681 20 681 c 256
+EndSplineSet
 Fore
-Refer: 980 -1 N 1 0 0 1 190 20 2
-Refer: 34 84 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Tcaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" T uni030C.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-33 dv=0
-Position2: "lfbd subtable" dx=-33 dy=0 dh=-33 dv=0
-Position2: "Single Positioning lookup 67 subtable" dx=0 dy=0 dh=170 dv=0
-Position2: "Single Positioning lookup 66 subtable" dx=0 dy=0 dh=135 dv=0
-Position2: "Single Positioning lookup 65 subtable" dx=0 dy=0 dh=115 dv=0
-Position2: "Single Positioning lookup 64 subtable" dx=0 dy=0 dh=100 dv=0
-Position2: "Single Positioning lookup 63 subtable" dx=0 dy=0 dh=80 dv=0
-Position2: "Single Positioning lookup 62 subtable" dx=0 dy=0 dh=50 dv=0
-Position2: "Single Positioning lookup 61 subtable" dx=0 dy=0 dh=95 dv=0
-Position2: "Single Positioning lookup 60 subtable" dx=0 dy=0 dh=60 dv=0
-Position2: "Single Positioning lookup 59 subtable" dx=0 dy=0 dh=40 dv=0
-Position2: "Single Positioning lookup 58 subtable" dx=0 dy=0 dh=25 dv=0
-Position2: "Single Positioning lookup 57 subtable" dx=0 dy=0 dh=60 dv=0
-Position2: "Single Positioning lookup 56 subtable" dx=0 dy=0 dh=25 dv=0
-Position2: "Single Positioning lookup 55 subtable" dx=0 dy=0 dh=10 dv=0
-Position2: "Single Positioning lookup 54 subtable" dx=0 dy=0 dh=180 dv=0
-Position2: "Single Positioning lookup 53 subtable" dx=0 dy=0 dh=145 dv=0
-Position2: "Single Positioning lookup 52 subtable" dx=0 dy=0 dh=125 dv=0
-Position2: "Single Positioning lookup 51 subtable" dx=0 dy=0 dh=110 dv=0
-Position2: "Single Positioning lookup 50 subtable" dx=0 dy=0 dh=90 dv=0
-Position2: "Single Positioning lookup 49 subtable" dx=0 dy=0 dh=60 dv=0
-Position2: "Single Positioning lookup 48 subtable" dx=0 dy=0 dh=80 dv=0
-Position2: "Single Positioning lookup 47 subtable" dx=0 dy=0 dh=80 dv=0
-Position2: "Single Positioning lookup 46 subtable" dx=0 dy=0 dh=100 dv=0
-Position2: "Single Positioning lookup 45 subtable" dx=0 dy=0 dh=115 dv=0
-Position2: "Single Positioning lookup 44 subtable" dx=0 dy=0 dh=115 dv=0
-Position2: "Single Positioning lookup 43 subtable" dx=0 dy=0 dh=100 dv=0
-Position2: "Single Positioning lookup 42 subtable" dx=0 dy=0 dh=100 dv=0
-Position2: "Single Positioning lookup 41 subtable" dx=0 dy=0 dh=120 dv=0
-Position2: "Single Positioning lookup 40 subtable" dx=0 dy=0 dh=135 dv=0
-Position2: "Single Positioning lookup 39 subtable" dx=0 dy=0 dh=135 dv=0
+Refer: 375 84 N 1 0 0 1 0 0 2
+Refer: 1947 -1 N 1 0 0 1 340 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Tcaron.sc
+Comment: "+AAoA-Tcaron+AAoA"
 EndChar

@@ -1,0 +1,23 @@
+StartChar: IJ
+Encoding: 184 306 184
+GlifName: I_J_
+Width: 745
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 183 -30 basechar 0
+AnchorPoint: "top.cap_1" 188 675 basechar 0
+AnchorPoint: "top.cap_2" 574 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 211 74 N 1 0 0 1 369 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" IJ.sc
+Comment: "+AAoA-IJ+AAoA"
+EndChar

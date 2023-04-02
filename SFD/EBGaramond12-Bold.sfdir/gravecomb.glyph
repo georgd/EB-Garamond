@@ -1,0 +1,20 @@
+StartChar: gravecomb
+Encoding: 932 768 931
+GlifName: gravecomb
+Width: 0
+VWidth: 0
+AnchorPoint: "top" 38 440 mark 0
+LayerCount: 2
+Fore
+Refer: 511 769 N -1 0 0 1 0 0 2
+Validated: 17
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" gravecomb.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" gravecomb.sc
+Comment: "+AAoA-gravecomb+AAoA"
+EndChar

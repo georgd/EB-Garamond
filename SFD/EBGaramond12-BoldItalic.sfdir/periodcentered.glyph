@@ -1,0 +1,20 @@
+StartChar: periodcentered
+Encoding: 1229 183 1228
+GlifName: periodcentered
+Width: 267
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1222 46 N 1 0 0 1 44 161 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 478 -45 "'kern' Horizontal Kerning lookup 0 subtable" 3028 -45 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" periodcentered.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" periodcentered.sc
+Comment: "+AAoA-periodcentered+AAoA"
+EndChar

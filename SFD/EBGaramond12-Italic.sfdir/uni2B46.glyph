@@ -1,0 +1,60 @@
+StartChar: uni2B46
+Encoding: 2871 11078 2870
+GlifName: uni2B_46
+Width: 1044
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+784 94 m 256
+ 793 94 806 100 812 106 c 256
+ 870 171 931 239 1008 279 c 257
+ 1021 285 1021 286 1021 292 c 256
+ 1021 298 1018 300 1009 305 c 256
+ 932 345 871 413 813 478 c 256
+ 807 485 794 490 785 490 c 256
+ 776 490 773 485 776 478 c 256
+ 780 471 783 463 787 456 c 257
+ 152 456 l 258
+ 135 456 121 441 121 424 c 256
+ 121 419 120 410 134 410 c 258
+ 812 410 l 257
+ 822 394 831 378 842 363 c 257
+ 152 363 l 258
+ 135 363 127 347 121 331 c 257
+ 121 326 120 317 134 317 c 257
+ 877 317 l 257
+ 880 313 884 310 887 306 c 256
+ 892 301 894 298 894 292 c 256
+ 894 286 894 284 887 278 c 257
+ 883 274 880 271 877 267 c 257
+ 152 267 l 258
+ 135 267 127 251 121 235 c 257
+ 121 230 120 221 134 221 c 258
+ 841 221 l 257
+ 831 206 821 190 812 174 c 257
+ 152 174 l 258
+ 132 174 120 155 120 139 c 256
+ 120 133 128 128 134 128 c 258
+ 787 128 l 257
+ 783 121 779 113 775 106 c 257
+ 773 102 773 94 784 94 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Varrowright
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Varrowright
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" a r r o w r i g h t four
+Comment: "+AAoA-uni2B46+AAoA"
+EndChar

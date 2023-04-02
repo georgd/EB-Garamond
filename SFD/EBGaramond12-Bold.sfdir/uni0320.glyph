@@ -1,0 +1,35 @@
+StartChar: uni0320
+Encoding: 1989 800 1988
+GlifName: uni0320
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+32 -192 m 258
+ 192 -192 l 258
+ 203 -192 217 -158 217 -146 c 256
+ 217 -135 205 -128 195 -128 c 258
+ 33 -128 l 258
+ 23 -128 5 -153 5 -174 c 256
+ 5 -185 19 -192 32 -192 c 258
+EndSplineSet
+Fore
+SplineSet
+-79 -192 m 258
+ 72 -192 l 258
+ 96 -192 106 -158 106 -146 c 256
+ 106 -135 94 -128 84 -128 c 258
+ -73 -128 l 258
+ -88 -128 -106 -153 -106 -174 c 256
+ -106 -185 -92 -192 -79 -192 c 258
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0320+AAoA"
+EndChar

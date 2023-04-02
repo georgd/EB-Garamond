@@ -1,0 +1,48 @@
+StartChar: zhedescender-cy
+Encoding: 3056 1175 3055
+GlifName: zhedescender-cy
+Width: 865
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 479 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+521 -276 m 256
+ 531 -276 617 -258 659 -233 c 256
+ 719 -197 734 -139 747 -74 c 256
+ 760 -7 776 64 814 103 c 257
+ 722 39 l 257
+ 735 19 l 257
+ 723 12 669 -28 652 -50 c 256
+ 620 -91 604 -124 591 -168 c 256
+ 574 -227 546 -242 515 -253 c 257
+ 509 -256 504 -258 504 -264 c 256
+ 504 -273 513 -276 521 -276 c 256
+EndSplineSet
+Fore
+SplineSet
+521 -276 m 256
+ 531 -276 617 -258 659 -233 c 256
+ 719 -197 734 -139 747 -74 c 256
+ 765 19 820 102 820 148 c 257
+ 722 39 l 257
+ 735 19 l 257
+ 723 12 669 -28 652 -50 c 256
+ 620 -91 604 -124 591 -168 c 256
+ 574 -227 546 -242 515 -253 c 257
+ 509 -256 504 -258 504 -264 c 256
+ 504 -273 513 -276 521 -276 c 256
+EndSplineSet
+Refer: 1986 1078 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni0436
+p2
+sVpublic.markColor
+p3
+V0.98,0.36,0.67,1
+p4
+s."
+EndChar

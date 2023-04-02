@@ -1,11 +1,25 @@
 StartChar: semicolon.sinf
-Encoding: 65735 -1 1327
-Width: 148
-VWidth: -144
-Flags: MW
+Encoding: 1335 -1 1334
+GlifName: semicolon.sinf
+Width: 160
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1225 -1 N 1 0 0 1 -44 -144 2
-Validated: 1
-Comment: "."
+Refer: 1332 -1 N 1 0 0 1 -132 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vsemicolon.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vsemicolon.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-semicolon.sinf+AAoA"
 EndChar

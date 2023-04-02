@@ -1,0 +1,118 @@
+StartChar: numbersign
+Encoding: 1122 35 1121
+GlifName: numbersign
+Width: 484
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+23 -40 m 256
+ 44 -44 54 -44 64 -24 c 258
+ 136 124 l 257
+ 248 105 l 257
+ 181 -33 l 257
+ 180 -37 l 258
+ 178 -46 182 -57 192 -59 c 256
+ 212 -63 224 -63 233 -44 c 258
+ 301 96 l 257
+ 377 83 l 258
+ 397 80 426 111 434 145 c 256
+ 437 158 429 169 412 172 c 258
+ 343 184 l 257
+ 390 283 l 257
+ 457 272 l 258
+ 477 269 505 299 513 333 c 256
+ 516 346 508 359 492 361 c 258
+ 433 370 l 257
+ 497 503 l 257
+ 498 506 500 507 501 511 c 256
+ 503 520 500 530 492 532 c 256
+ 470 537 455 535 447 514 c 257
+ 381 378 l 257
+ 269 398 l 257
+ 331 528 l 257
+ 331 531 334 531 334 535 c 256
+ 334 544 334 555 326 556 c 256
+ 303 559 288 559 280 538 c 257
+ 216 406 l 257
+ 142 418 l 258
+ 122 421 101 410 89 355 c 256
+ 87 346 92 332 107 330 c 258
+ 173 319 l 257
+ 126 221 l 257
+ 62 231 l 258
+ 43 234 21 222 9 168 c 256
+ 7 159 12 145 27 142 c 258
+ 83 132 l 257
+ 13 -13 l 257
+ 11 -18 l 258
+ 8 -26 13 -38 23 -40 c 256
+178 211 m 257
+ 226 311 l 257
+ 338 291 l 257
+ 290 192 l 257
+ 178 211 l 257
+EndSplineSet
+Fore
+SplineSet
+-9 -96 m 256
+ 12 -96 30 -93 40 -72 c 258
+ 118 88 l 257
+ 237 92 l 257
+ 163 -56 l 257
+ 162 -61 l 258
+ 160 -70 170 -80 180 -80 c 256
+ 201 -80 208 -77 218 -56 c 258
+ 292 95 l 257
+ 371 98 l 258
+ 391 99 423 135 431 170 c 256
+ 434 183 426 193 409 192 c 258
+ 338 189 l 257
+ 391 296 l 257
+ 459 299 l 258
+ 480 300 511 336 519 371 c 256
+ 522 384 514 394 497 393 c 258
+ 438 390 l 257
+ 508 534 l 257
+ 508 537 511 538 512 542 c 256
+ 514 551 511 561 503 561 c 256
+ 480 561 463 556 454 534 c 257
+ 382 387 l 257
+ 263 383 l 257
+ 331 523 l 257
+ 332 526 334 527 335 531 c 256
+ 337 540 335 550 327 550 c 256
+ 304 550 282 545 273 523 c 257
+ 203 380 l 257
+ 127 377 l 258
+ 107 376 82 360 70 304 c 256
+ 68 295 73 282 88 283 c 258
+ 156 286 l 257
+ 110 180 l 257
+ 39 177 l 258
+ 19 176 -5 160 -17 104 c 256
+ -19 95 -15 82 0 83 c 258
+ 58 85 l 257
+ -19 -72 l 257
+ -21 -77 l 258
+ -25 -86 -19 -96 -9 -96 c 256
+164 182 m 257
+ 217 289 l 257
+ 335 293 l 257
+ 283 186 l 257
+ 164 182 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" numbersign.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" numbersign.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" numbersign.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" numbersign.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" numbersign.subs
+Comment: "+AAoA-numbersign+AAoA"
+EndChar

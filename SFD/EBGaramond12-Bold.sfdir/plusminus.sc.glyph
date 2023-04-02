@@ -1,0 +1,35 @@
+StartChar: plusminus.sc
+Encoding: 1296 -1 1295
+GlifName: plusminus.sc
+Width: 504
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+47 50 m 257
+ 440 50 l 257
+ 459 50 474 80 474 97 c 256
+ 474 107 463 113 451 113 c 257
+ 59 113 l 257
+ 38 113 30 78 30 63 c 256
+ 30 57 38 50 47 50 c 257
+EndSplineSet
+Refer: 1290 -1 N 1 0 0 1 0 93 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vplusminus
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vplusminus
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-plusminus.sc+AAoA"
+EndChar

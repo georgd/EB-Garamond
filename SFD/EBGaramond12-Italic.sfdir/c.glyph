@@ -1,30 +1,61 @@
 StartChar: c
-Encoding: 99 99 14
-Width: 318
-Flags: MW
-AnchorPoint: "cedilla" 183 8 basechar 0
-AnchorPoint: "below_accent" 102 -100 basechar 0
-AnchorPoint: "top_accent" 295 550 basechar 0
+Encoding: 645 99 644
+GlifName: c
+Width: 313
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 107 -30 basechar 0
+AnchorPoint: "top" 231 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+147 -15 m 256
+ 208 -15 266 7 311 48 c 256
+ 325 61 333 71 335 79 c 256
+ 337 87 335 93 329 93 c 256
+ 326 93 321 91 317 88 c 256
+ 275 56 248 45 209 45 c 256
+ 124 45 79 118 108 212 c 256
+ 138 310 205 377 270 377 c 256
+ 314 377 320 370 349 330 c 256
+ 354 323 360 319 367 319 c 256
+ 384 319 417 343 422 360 c 256
+ 424 367 422 373 416 379 c 256
+ 392 403 356 414 313 414 c 256
+ 196 414 70 310 30 180 c 256
+ -4 69 46 -15 147 -15 c 256
+EndSplineSet
 Fore
 SplineSet
-347 375 m 0
- 347 362 331 333 317 333 c 0
- 294 333 300 380 252 380 c 0
- 188 380 114 208 114 98 c 8
- 114 66 123 26 155 26 c 16
- 203 26 229 56 257 89 c 0
- 263 97 269 98 274 98 c 0
- 280 98 278 90 278 84 c 0
- 278 72 218 -15 122 -15 c 0
- 83 -15 41 8 42 84 c 0
- 42 204 122 414 292 414 c 0
- 330 414 347 385 347 375 c 0
+99 -15 m 256
+ 180 -15 252 63 252 84 c 256
+ 252 91 250 97 244 97 c 256
+ 236 97 233 93 224 84 c 256
+ 198 60 178 41 135 41 c 256
+ 106 41 87 54 87 98 c 256
+ 87 208 172 387 236 387 c 256
+ 258 387 269 372 277 357 c 256
+ 284 344 290 333 301 333 c 256
+ 315 333 331 360 331 382 c 256
+ 331 399 312 414 276 414 c 256
+ 106 414 17 210 15 90 c 256
+ 14 28 63 -15 99 -15 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "Smallcaps1 subtable" c.sc
-Substitution2: "sups subtable" c.sups
-Substitution2: "sinf subtable" c.sinf
-Substitution2: "ordn subtable" c.ordn
-Substitution2: "subs subtable" c.subs
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" C.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" c.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" c.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" c.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" c.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" c.subs
+Comment: "+AAoA-c+AAoA"
 EndChar

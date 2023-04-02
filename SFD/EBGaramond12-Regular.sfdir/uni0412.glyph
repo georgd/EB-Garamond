@@ -1,11 +1,19 @@
 StartChar: uni0412
-Encoding: 1042 1042 652
+Encoding: 2090 1042 2089
 GlifName: uni0412
-Width: 578
+Width: 587
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 266 -30 basechar 0
+AnchorPoint: "top.cap" 258 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 30 66 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 35 66 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0412+AAoA"
 EndChar

@@ -1,18 +1,17 @@
 StartChar: periodcentered.sc
-Encoding: 1114717 -1 1716
+Encoding: 1280 -1 1279
 GlifName: periodcentered.sc
 Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-100 260 m 24
- 130 260 155 235 155 205 c 24
- 155 175 130 150 100 150 c 24
- 70 150 45 175 45 205 c 24
- 45 235 70 260 100 260 c 24
-EndSplineSet
-Validated: 1
-Comment: "."
+Refer: 1271 46 N 1 0 0 1 -15 164 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-periodcentered.sc+AAoA"
 EndChar

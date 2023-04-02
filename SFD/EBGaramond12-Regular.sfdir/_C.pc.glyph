@@ -1,11 +1,37 @@
 StartChar: C.pc
-Encoding: 1115171 -1 2949
+Encoding: 46 -1 46
 GlifName: C_.pc
-Width: 560
+Width: 493
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2975 -1 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+287 -14 m 256
+ 330 -14 384 -2 410 10 c 256
+ 419 15 425 21 429 30 c 256
+ 438 50 453 90 453 98 c 256
+ 453 117 429 109 422 92 c 256
+ 402 45 343 20 299 20 c 256
+ 196 20 127 113 127 215 c 256
+ 127 306 195 383 285 383 c 256
+ 357 383 390 370 414 306 c 256
+ 422 286 440 284 440 307 c 256
+ 440 328 437 366 431 384 c 256
+ 429 391 426 395 412 399 c 256
+ 378 409 343 414 297 414 c 256
+ 168 414 45 329 45 200 c 256
+ 45 74 161 -14 287 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VO.pc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-C.pc+AAoA"
 EndChar

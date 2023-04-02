@@ -1,24 +1,18 @@
 StartChar: uni0327
-Encoding: 807 807 626
+Encoding: 1861 807 1860
+GlifName: uni0327
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 183 8 mark 0
 LayerCount: 2
 Fore
-SplineSet
-71 -100 m 0
- 71 -67 127 -5 185 25 c 9
- 215 25 l 17
- 153 -24 130 -62 130 -80 c 0
- 130 -101 182 -146 182 -179 c 0
- 182 -226 117 -273 78 -273 c 0
- 29 -273 14 -219 14 -210 c 0
- 14 -202 15 -190 26 -190 c 0
- 33 -190 38 -194 42 -199 c 0
- 59 -219 82 -235 99 -235 c 0
- 114 -235 123 -222 123 -207 c 0
- 123 -175 71 -150 71 -100 c 0
-EndSplineSet
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" uni0327.cap
+Refer: 666 184 N 1 0 0 1 -189 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" uni0327.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" uni0327.sc
+Comment: "+AAoA-uni0327+AAoA"
 EndChar

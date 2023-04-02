@@ -1,16 +1,64 @@
 StartChar: uni022A
-Encoding: 554 554 334
+Encoding: 1739 554 1738
 GlifName: uni022A_
 Width: 763
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 391 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+519 896 m 258
+ 256 896 l 258
+ 237 896 232 863 232 854 c 256
+ 232 848 239 842 246 842 c 258
+ 501 842 l 258
+ 517 842 532 864 532 884 c 256
+ 532 890 525 896 519 896 c 258
+285 795 m 256
+ 257 795 235 773 235 745 c 256
+ 235 717 257 695 285 695 c 256
+ 313 695 335 717 335 745 c 256
+ 335 773 313 795 285 795 c 256
+480 795 m 256
+ 452 795 430 773 430 745 c 256
+ 430 717 452 695 480 695 c 256
+ 508 695 530 717 530 745 c 256
+ 530 773 508 795 480 795 c 256
+45 320 m 256
+ 45 130 205 -14 382 -14 c 256
+ 601 -14 718 155 718 335 c 256
+ 718 532 564 664 390 664 c 256
+ 166 664 45 501 45 320 c 256
+375 625 m 256
+ 535 625 621 495 621 305 c 256
+ 621 134 545 25 395 25 c 256
+ 247 25 142 179 142 350 c 256
+ 142 490 227 625 375 625 c 256
+EndSplineSet
 Fore
-Refer: 991 -1 N 1 0 0 1 227 119 2
-Refer: 989 -1 N 1 0 0 1 230 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" O uni0308.cap uni0304.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+Refer: 293 214 N 1 0 0 1 0 0 2
+Refer: 1912 -1 N 1 0 0 1 394 119 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vuni0304.cap
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni022A+AAoA"
 EndChar

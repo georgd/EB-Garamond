@@ -1,12 +1,97 @@
 StartChar: aringacute
-Encoding: 507 507 324
+Encoding: 550 507 549
+GlifName: aringacute
 Width: 451
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 167 -30 basechar 0
+AnchorPoint: "top" 335 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+366 652 m 256
+ 410 664 519 697 541 709 c 257
+ 544 711 545 715 545 718 c 256
+ 545 730 529 768 505 768 c 256
+ 498 768 491 765 484 762 c 256
+ 450 748 347 684 329 665 c 257
+ 326 661 325 658 325 655 c 256
+ 325 650 332 647 339 647 c 256
+ 348 647 358 650 366 652 c 256
+339 556 m 256
+ 339 586 365 610 395 610 c 256
+ 413 610 427 593 427 575 c 256
+ 427 545 401 521 371 521 c 256
+ 353 521 339 538 339 556 c 256
+412 638 m 256
+ 356 638 302 603 302 547 c 256
+ 302 517 326 493 356 493 c 256
+ 412 493 464 532 464 588 c 256
+ 464 616 440 638 412 638 c 256
+300 -14 m 256
+ 357 -14 417 38 438 70 c 257
+ 441 74 448 87 448 90 c 256
+ 448 111 427 92 424 88 c 257
+ 412 74 370 49 360 49 c 256
+ 343 49 332 71 341 97 c 258
+ 444 381 l 258
+ 448 392 451 401 451 406 c 256
+ 451 416 434 426 417 426 c 256
+ 407 426 401 414 390 388 c 257
+ 387 382 383 379 378 387 c 256
+ 371 398 355 406 345 406 c 256
+ 331 406 284 382 256 362 c 256
+ 150 285 14 130 14 21 c 256
+ 14 4 40 -14 57 -14 c 256
+ 125 -14 186 31 309 168 c 256
+ 315 175 320 171 311 153 c 256
+ 296 122 269 65 269 30 c 256
+ 269 8 281 -14 300 -14 c 256
+329 353 m 256
+ 346 353 369 339 369 321 c 256
+ 369 281 187 46 116 46 c 256
+ 97 46 93 50 93 77 c 256
+ 93 156 265 353 329 353 c 256
+EndSplineSet
 Fore
-Refer: 2101 -1 N 1 0 0 1 325 148 2
-Refer: 2100 -1 N 1 0 0 1 289 24 2
-Refer: 0 97 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" a uni030A.stack acutecomb.flat
+Refer: 496 97 N 1 0 0 1 0 0 2
+Refer: 1304 730 N 1 0 0 1 169 0 2
+Refer: 515 -1 N 1 0 0 1 342 180 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Va
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vring
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vacutecomb.flat
+p11
+sasVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-aringacute+AAoA"
 EndChar

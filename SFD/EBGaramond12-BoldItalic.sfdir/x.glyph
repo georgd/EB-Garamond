@@ -1,0 +1,81 @@
+StartChar: x
+Encoding: 3005 120 3004
+GlifName: x
+Width: 510
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 347 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+328 14 m 256
+ 389 59 429 229 401 269 c 256
+ 396 276 385 279 380 274 c 256
+ 378 272 379 270 378 269 c 256
+ 352 243 350 162 339 155 c 256
+ 336 153 334 155 331 158 c 256
+ 329 160 326 164 325 168 c 258
+ 248 454 l 258
+ 241 480 186 482 167 454 c 256
+ 139 412 87 248 104 226 c 256
+ 111 217 121 214 131 235 c 256
+ 141 256 147 287 162 294 c 256
+ 164 295 167 295 168 292 c 256
+ 194 213 215 128 232 43 c 256
+ 234 33 238 26 241 22 c 256
+ 256 2 301 -6 328 14 c 256
+EndSplineSet
+Fore
+SplineSet
+36 -14 m 256
+ 70 -14 116 16 151 65 c 256
+ 168 89 183 117 201 141 c 256
+ 207 149 210 145 212 138 c 256
+ 218 113 225 74 231 49 c 256
+ 237 22 266 -14 303 -14 c 256
+ 376 -14 441 81 441 122 c 256
+ 441 130 437 135 432 135 c 256
+ 428 135 422 131 420 128 c 256
+ 395 90 373 77 364 77 c 256
+ 354 77 348 81 342 104 c 258
+ 316 202 l 258
+ 311 219 316 228 323 240 c 256
+ 341 270 360 298 379 317 c 256
+ 406 344 420 345 430 345 c 256
+ 445 345 450 337 455 328 c 256
+ 461 319 465 312 482 312 c 256
+ 500 312 534 343 534 381 c 256
+ 534 402 507 437 471 437 c 256
+ 441 437 409 418 366 358 c 258
+ 309 279 l 258
+ 302 269 298 272 296 278 c 258
+ 267 367 l 258
+ 254 407 237 437 201 437 c 256
+ 121 437 56 351 56 299 c 256
+ 56 291 62 288 67 288 c 256
+ 71 288 75 290 78 293 c 256
+ 103 322 127 342 143 342 c 256
+ 149 342 154 336 157 325 c 258
+ 195 199 l 258
+ 199 186 197 181 190 170 c 256
+ 178 152 144 118 131 102 c 256
+ 115 84 100 77 87 77 c 256
+ 72 77 63 83 57 89 c 256
+ 51 97 42 105 35 105 c 256
+ 11 105 -15 68 -15 36 c 256
+ -15 10 0 -14 36 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" X.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" x.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" x.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" x.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" x.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" x.subs
+Comment: "+AAoA-x+AAoA"
+EndChar

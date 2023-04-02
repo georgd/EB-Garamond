@@ -1,12 +1,46 @@
 StartChar: longs_s
-Encoding: 65558 -1 1066
-Width: 486
+Encoding: 1072 -1 1071
+GlifName: longs_s
+Width: 520
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom" 311 -30 basechar 0
+AnchorPoint: "top" 467 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 17 115 N 1 0 0 1 210 0 2
-Refer: 19 383 N 1 0 0 1 0 0 2
-Ligature2: "liga_standard subtable" longs s
-LCarets2: 1 238
+SplineSet
+443 666 m 256
+ 472 666 488 651 500 624 c 256
+ 510 602 522 585 535 585 c 256
+ 553 585 574 602 574 636 c 256
+ 574 676 530 705 453 705 c 256
+ 263 705 172 436 106 184 c 258
+ 48 -38 l 258
+ 16 -161 -21 -250 -71 -250 c 256
+ -95 -250 -111 -239 -123 -226 c 256
+ -136 -212 -145 -198 -155 -198 c 256
+ -168 -198 -194 -220 -194 -240 c 256
+ -194 -273 -161 -290 -111 -290 c 256
+ -5 -290 68 -186 108 -42 c 258
+ 168 172 l 258
+ 236 413 281 666 443 666 c 256
+EndSplineSet
+Refer: 1306 115 N 1 0 0 1 244 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vlongs
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vs
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'dlig' Discretionary Ligatures in Latin lookup 39 subtable" longs s
+Ligature2: "'hlig' Historic Ligatures in Latin lookup 28 subtable" longs s
+Comment: "+AAoA-longs_s+AAoA"
 EndChar

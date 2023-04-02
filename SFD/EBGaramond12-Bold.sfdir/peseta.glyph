@@ -1,0 +1,28 @@
+StartChar: peseta
+Encoding: 1282 8359 1281
+GlifName: peseta
+Width: 681
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 192 -30 basechar 0
+AnchorPoint: "top.cap" 328 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+25 426 m 258
+ 632 429 l 257
+ 653 430 675 453 676 463 c 257
+ 676 470 668 481 658 481 c 257
+ 39 479 l 257
+ 21 478 6 456 5 444 c 257
+ 5 435 15 426 25 426 c 258
+EndSplineSet
+Refer: 316 80 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.98,0.36,0.67,1
+p2
+s."
+EndChar

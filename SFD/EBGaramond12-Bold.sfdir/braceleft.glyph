@@ -1,33 +1,68 @@
 StartChar: braceleft
-Encoding: 123 123 108
-Width: 342
+Encoding: 613 123 612
+GlifName: braceleft
+Width: 372
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+335 -152 m 256
+ 349 -152 361 -151 361 -137 c 256
+ 361 -123 343 -118 327 -115 c 256
+ 267 -105 249 -88 249 -24 c 256
+ 249 9 276 87 276 130 c 256
+ 276 197 234 244 133 279 c 256
+ 130 280 126 282 131 283 c 256
+ 204 298 271 353 271 424 c 256
+ 271 467 247 545 247 578 c 256
+ 247 629 255 652 323 673 c 256
+ 339 678 362 682 362 696 c 256
+ 362 710 355 714 333 714 c 256
+ 223 714 125 653 133 559 c 256
+ 137 509 155 461 155 406 c 256
+ 155 335 114 324 77 306 c 257
+ 65 301 45 296 45 280 c 256
+ 45 264 62 263 77 257 c 256
+ 143 231 160 209 160 157 c 256
+ 160 102 139 31 135 -19 c 256
+ 127 -113 218 -152 335 -152 c 256
+EndSplineSet
 Fore
 SplineSet
-70 281 m 1
- 113 272 209 216 209 147 c 0
- 209 88 189 41 189 -26 c 0
- 189 -95 238 -124 287 -124 c 0
- 295 -124 308 -124 308 -139 c 0
- 308 -152 298 -157 289 -157 c 0
- 197 -157 89 -119 89 -21 c 0
- 89 50 109 96 109 157 c 0
- 109 212 78 251 34 271 c 0
- 31 273 24 272 24 282 c 0
- 24 292 31 288 34 290 c 0
- 78 310 109 349 109 404 c 0
- 109 465 89 511 89 582 c 0
- 89 680 197 718 289 718 c 0
- 298 718 308 713 308 700 c 0
- 308 685 295 685 287 685 c 0
- 238 685 189 656 189 587 c 0
- 189 520 209 473 209 414 c 0
- 209 346 124 298 70 281 c 1
+335 -152 m 256
+ 349 -152 361 -151 361 -137 c 256
+ 361 -123 343 -118 327 -115 c 256
+ 267 -105 258 -88 258 -24 c 256
+ 258 9 285 87 285 130 c 256
+ 285 197 234 244 133 279 c 256
+ 130 280 126 282 131 283 c 256
+ 204 298 281 353 281 424 c 256
+ 281 467 257 545 257 578 c 256
+ 257 629 255 652 323 673 c 256
+ 339 678 362 682 362 696 c 256
+ 362 710 355 714 333 714 c 256
+ 223 714 116 653 124 559 c 256
+ 128 509 146 461 146 406 c 256
+ 146 335 114 324 77 306 c 257
+ 65 301 45 296 45 280 c 256
+ 45 264 62 263 77 257 c 256
+ 143 231 151 209 151 157 c 256
+ 151 102 130 31 126 -19 c 256
+ 118 -113 218 -152 335 -152 c 256
 EndSplineSet
-Substitution2: "sups subtable" braceleft.sups
-Substitution2: "sinf subtable" braceleft.sinf
-Substitution2: "ordn subtable" braceleft.ordn
-Substitution2: "subs subtable" braceleft.subs
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" braceleft.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" braceleft.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" braceleft.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" braceleft.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" braceleft.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" braceleft.subs
+Comment: "+AAoA-braceleft+AAoA"
 EndChar

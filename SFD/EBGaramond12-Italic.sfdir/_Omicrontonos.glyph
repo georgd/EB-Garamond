@@ -1,11 +1,40 @@
 StartChar: Omicrontonos
-Encoding: 908 908 2221
-Width: 712
+Encoding: 308 908 307
+GlifName: O_microntonos
+Width: 797
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 401 -30 basechar 0
+AnchorPoint: "bottomgreek" 414 -30 basechar 0
+AnchorPoint: "top.cap" 592 675 basechar 0
+AnchorPoint: "topgreek" 104 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 2367 -1 N 1 0 0 1 -30 35 2
-Refer: 640 927 N 1 0 0 1 0 0 2
-MultipleSubs2: "CCMP_Precomp subtable" Omicron acutecomb.grk
+Refer: 306 927 N 1 0 0 1 103 0 2
+Refer: 1419 900 N 1 0 0 1 -35 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOmicron
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VOmicron
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-Omicrontonos+AAoA"
 EndChar

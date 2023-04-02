@@ -1,21 +1,46 @@
 StartChar: logicalnot
-Encoding: 172 172 117
-Width: 498
+Encoding: 1090 172 1089
+GlifName: logicalnot
+Width: 626
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+65 322 m 258
+ 477 322 l 258
+ 487 322 491 314 491 304 c 258
+ 491 57 l 258
+ 491 50 497 43 503 43 c 256
+ 512 43 551 46 551 67 c 258
+ 551 368 l 258
+ 551 375 545 382 538 382 c 258
+ 75 382 l 258
+ 54 382 51 343 51 334 c 256
+ 51 328 58 322 65 322 c 258
+EndSplineSet
 Fore
 SplineSet
-60 319 m 2
- 55 319 49 324 49 334 c 0
- 49 344 52 385 69 385 c 2
- 438 385 l 2
- 443 385 449 378 449 368 c 2
- 449 67 l 2
- 449 42 388 40 376 40 c 0
- 367 40 357 46 357 56 c 2
- 357 303 l 2
- 357 311 355 319 348 319 c 2
- 60 319 l 2
+497 42 m 256
+ 515 42 556 51 556 76 c 257
+ 556 368 l 257
+ 556 380 552 389 538 389 c 258
+ 65 389 l 257
+ 40 389 30 348 30 330 c 256
+ 30 323 40 315 50 315 c 258
+ 467 315 l 258
+ 478 315 482 308 482 299 c 258
+ 482 62 l 258
+ 482 51 490 42 497 42 c 256
 EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" logicalnot.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" logicalnot.sc
+Comment: "+AAoA-logicalnot+AAoA"
 EndChar

@@ -1,12 +1,54 @@
 StartChar: O.sinf
-Encoding: 1114347 -1 1346
+Encoding: 283 -1 282
 GlifName: O_.sinf
-Width: 508
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 535
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+32 48 m 256
+ 32 -66 137 -152 252 -152 c 256
+ 394 -152 473 -51 473 57 c 256
+ 473 176 370 254 256 254 c 258
+ 252 254 l 258
+ 110 251 32 156 32 48 c 256
+247 231 m 256
+ 351 231 403 128 403 39 c 256
+ 403 -42 355 -129 262 -129 c 258
+ 260 -129 l 258
+ 164 -128 105 -37 105 66 c 256
+ 105 150 151 231 247 231 c 256
+EndSplineSet
 Fore
-Refer: 1245 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 279 -1 N 1 0 0 1 0 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VO.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+V=O.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+V=O.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-O.sinf+AAoA"
 EndChar

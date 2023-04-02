@@ -1,10 +1,21 @@
 StartChar: uni01F3
-Encoding: 499 499 598
-Width: 918
+Encoding: 1633 499 1632
+GlifName: uni01F_3
+Width: 923
 VWidth: 0
-Flags: M
+Flags: W
+AnchorPoint: "bottom_1" 179 -30 basechar 0
+AnchorPoint: "bottom_2" 681 -30 basechar 0
+AnchorPoint: "top" 773 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 65 122 N 1 0 0 1 516 0 2
-Refer: 11 100 N 1 0 0 1 0 0 2
+Refer: 694 100 N 1 0 0 1 0 0 2
+Refer: 3029 122 N 1 0 0 1 516 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni01F3+AAoA"
 EndChar

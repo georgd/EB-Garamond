@@ -1,0 +1,73 @@
+StartChar: nine.lf
+Encoding: 1109 -1 1108
+GlifName: nine.lf
+Width: 508
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+207 -13 m 256
+ 343 -13 476 80 476 171 c 256
+ 476 230 441 273 386 332 c 256
+ 375 343 373 344 389 353 c 256
+ 403 361 421 370 436 377 c 256
+ 502 408 546 472 545 518 c 256
+ 544 572 491 629 389 629 c 256
+ 262 629 143 543 143 451 c 256
+ 143 410 177 369 216 321 c 256
+ 223 312 228 309 214 303 c 256
+ 119 262 31 227 31 123 c 257
+ 35 53 92 -13 207 -13 c 256
+223 25 m 256
+ 177 25 154 76 154 110 c 256
+ 154 177 177 228 237 273 c 256
+ 245 278 249 281 252 281 c 256
+ 257 281 259 277 264 271 c 256
+ 304 221 324 177 324 136 c 256
+ 324 67 275 25 223 25 c 256
+359 374 m 256
+ 350 367 345 368 338 375 c 256
+ 304 409 281 452 281 493 c 256
+ 281 554 314 589 364 589 c 256
+ 413 589 428 560 428 521 c 256
+ 428 473 399 405 359 374 c 256
+EndSplineSet
+Fore
+SplineSet
+40 -13 m 256
+ 309 18 549 280 549 460 c 256
+ 549 551 487 629 396 629 c 256
+ 235 629 97 477 97 377 c 256
+ 97 299 145 260 217 260 c 256
+ 242 260 273 272 301 290 c 256
+ 316 300 329 311 342 324 c 256
+ 352 334 357 343 357 348 c 256
+ 357 355 350 356 332 349 c 256
+ 322 345 313 342 299 342 c 256
+ 268 342 232 374 231 424 c 256
+ 229 514 276 586 341 586 c 256
+ 396 586 422 547 422 492 c 256
+ 422 267 211 70 19 23 c 256
+ -10 16 -13 10 -13 -3 c 256
+ -13 -15 14 -16 40 -13 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|six.lf
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|six.lf
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Kerns2: 130 20 "'kern' Horizontal Kerning lookup 0 subtable" 668 30 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" nine.osf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" nine
+Comment: "+AAoA-nine.lnum+AAoA"
+EndChar

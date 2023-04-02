@@ -1,0 +1,53 @@
+StartChar: uni0437
+Encoding: 2131 1079 2130
+GlifName: uni0437
+Width: 430
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 223 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+204 -14 m 256
+ 315 -14 406 33 406 119 c 256
+ 406 179 358 209 298 222 c 256
+ 289 224 292 231 299 233 c 256
+ 343 246 391 267 391 328 c 256
+ 391 404 319 436 225 436 c 256
+ 150 436 106 416 77 404 c 256
+ 67 400 61 386 59 376 c 256
+ 54 352 52 331 52 309 c 256
+ 52 295 51 285 64 285 c 256
+ 77 285 88 317 98 334 c 256
+ 122 374 141 392 180 392 c 256
+ 207 392 239 371 239 319 c 256
+ 239 278 224 247 186 247 c 256
+ 165 247 150 252 136 252 c 256
+ 112 252 97 243 97 221 c 256
+ 97 197 122 190 137 190 c 256
+ 156 190 173 199 184 199 c 256
+ 222 199 234 159 234 112 c 256
+ 234 67 206 34 174 34 c 256
+ 142 34 94 46 66 120 c 256
+ 61 133 52 149 47 149 c 256
+ 37 149 31 139 31 121 c 256
+ 31 98 32 68 38 38 c 257
+ 48 -1 136 -14 204 -14 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=c+10
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni0299
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni0437+AAoA"
+EndChar

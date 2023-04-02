@@ -1,12 +1,25 @@
 StartChar: bracketleft.sinf
-Encoding: 1114359 -1 1358
+Encoding: 628 -1 627
 GlifName: bracketleft.sinf
-Width: 242
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 223
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1257 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 625 -1 N 1 0 0 1 0 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbracketleft.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbracketleft.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-bracketleft.sinf+AAoA"
 EndChar

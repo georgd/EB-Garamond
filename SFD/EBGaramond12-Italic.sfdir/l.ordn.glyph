@@ -1,11 +1,43 @@
 StartChar: l.ordn
-Encoding: 65886 -1 1478
-Width: 154
-VWidth: 7
-Flags: MW
+Encoding: 1028 -1 1027
+GlifName: l.ordn
+Width: 192
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1274 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+72 280 m 256
+ 90 280 105 282 123 282 c 256
+ 141 282 154 280 172 280 c 256
+ 179 280 188 284 190 290 c 256
+ 192 296 188 297 178 300 c 256
+ 166 304 152 306 157 322 c 258
+ 249 619 l 258
+ 266 673 276 694 279 701 c 256
+ 280 703 273 705 267 705 c 257
+ 244 698 230 689 194 681 c 257
+ 190 680 185 675 184 670 c 256
+ 183 665 184 660 188 659 c 257
+ 207 655 211 637 204 615 c 258
+ 113 322 l 258
+ 108 306 92 304 78 300 c 256
+ 66 297 62 296 60 290 c 256
+ 58 284 65 280 72 280 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vh.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vi.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-l.ordn+AAoA"
 EndChar

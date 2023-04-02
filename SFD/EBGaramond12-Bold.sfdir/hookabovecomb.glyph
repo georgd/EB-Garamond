@@ -1,0 +1,54 @@
+StartChar: hookabovecomb
+Encoding: 978 777 977
+GlifName: hookabovecomb
+Width: 0
+VWidth: 0
+AnchorPoint: "top" 4 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+118 507 m 256
+ 128 507 136 515 133 524 c 256
+ 131 530 128 535 128 539 c 256
+ 128 545 132 550 144 555 c 256
+ 179 570 196 596 196 613 c 256
+ 196 652 157 675 118 675 c 256
+ 80 675 57 662 37 652 c 256
+ 29 648 24 637 24 628 c 256
+ 24 615 38 595 47 595 c 256
+ 53 595 56 601 60 607 c 256
+ 79 635 86 648 105 648 c 256
+ 121 648 135 636 135 620 c 256
+ 135 604 127 596 113 584 c 256
+ 102 574 87 557 87 545 c 256
+ 87 531 105 507 118 507 c 256
+EndSplineSet
+Fore
+SplineSet
+14 496 m 256
+ 27 496 42 504 42 512 c 256
+ 42 520 38 531 38 539 c 256
+ 38 545 40 550 54 555 c 256
+ 86 566 112 593 112 617 c 256
+ 112 665 62 690 11 690 c 256
+ -38 690 -67 674 -92 658 c 256
+ -100 653 -111 639 -111 627 c 256
+ -111 614 -92 579 -76 579 c 256
+ -67 579 -59 587 -55 592 c 256
+ -33 619 -23 633 -9 633 c 256
+ 6 633 14 624 14 614 c 256
+ 14 598 4 591 -8 579 c 256
+ -17 570 -29 557 -29 547 c 256
+ -29 527 -5 496 14 496 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" hookabovecomb.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" hookabovecomb.sc
+Comment: "+AAoA-hookabovecomb+AAoA"
+EndChar

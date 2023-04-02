@@ -1,0 +1,33 @@
+StartChar: uni04E8
+Encoding: 2075 1256 2074
+GlifName: uni04E_8
+Width: 692
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 278 -30 basechar 0
+AnchorPoint: "top.cap" 501 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+125 306 m 257
+ 644 306 l 257
+ 644 364 l 257
+ 125 364 l 257
+ 125 306 l 257
+EndSplineSet
+Refer: 277 79 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VO
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uni04E8+AAoA"
+EndChar

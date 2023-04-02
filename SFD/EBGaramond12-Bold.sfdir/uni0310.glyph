@@ -1,0 +1,55 @@
+StartChar: uni0310
+Encoding: 1957 784 1956
+GlifName: uni0310
+Width: 0
+VWidth: 0
+Flags: H
+LayerCount: 2
+Back
+SplineSet
+165 453 m 256
+ 276 453 333 544 333 562 c 256
+ 333 573 330 579 319 579 c 256
+ 306 579 301 575 287 562 c 256
+ 262 539 224 516 183 516 c 256
+ 136 516 114 538 96 556 c 256
+ 82 571 70 584 49 584 c 256
+ 34 584 9 567 9 548 c 257
+ 9 525 47 453 165 453 c 256
+EndSplineSet
+Fore
+SplineSet
+-7 442 m 256
+ 118 442 182 544 182 564 c 256
+ 182 577 178 583 166 583 c 256
+ 151 583 146 579 130 564 c 256
+ 103 538 59 513 13 513 c 256
+ -39 513 -63 537 -84 558 c 256
+ -100 574 -114 589 -137 589 c 256
+ -154 589 -182 573 -182 545 c 256
+ -182 519 -139 442 -7 442 c 256
+EndSplineSet
+Refer: 744 729 N 0.846 0 0 0.846 -93 142 2
+Validated: 524297
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vdotaccent
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni0310+AAoA"
+EndChar

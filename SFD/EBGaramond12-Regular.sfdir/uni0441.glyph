@@ -1,14 +1,18 @@
 StartChar: uni0441
-Encoding: 1089 1089 666
+Encoding: 2142 1089 2141
 GlifName: uni0441
-Width: 377
+Width: 407
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 240 8 basechar 0
-AnchorPoint: "below_accent" 199 -100 basechar 0
-AnchorPoint: "top_accent" 230 550 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 237 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 14 99 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 647 99 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0441+AAoA"
 EndChar

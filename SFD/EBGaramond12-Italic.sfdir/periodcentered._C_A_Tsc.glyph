@@ -1,18 +1,16 @@
 StartChar: periodcentered.CATsc
-Encoding: 66483 -1 2480
+Encoding: 1231 -1 1230
+GlifName: periodcentered.C_A_T_sc
 Width: 0
 VWidth: 0
-Flags: MW
-HStem: 205 101<-22.8014 35.8014>
-VStem: -42 97<224.125 286.875>
 LayerCount: 2
 Fore
-SplineSet
--42 240 m 4
- -42 277 -6 306 22 306 c 20
- 42 306 55 291 55 271 c 4
- 55 234 19 205 -9 205 c 20
- -29 205 -42 220 -42 240 c 4
-EndSplineSet
-Validated: 1
+Refer: 1222 46 N 0.906 0 0 0.906 -35 218 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-periodcentered.CATsc+AAoA"
 EndChar

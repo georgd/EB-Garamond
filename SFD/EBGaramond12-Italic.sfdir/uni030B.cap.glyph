@@ -1,12 +1,39 @@
 StartChar: uni030B.cap
-Encoding: 66385 -1 2082
+Encoding: 1805 -1 1804
+GlifName: uni030B_.cap
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 104 710 mark 0
+AnchorPoint: "top.cap" 143 675 mark 0
 LayerCount: 2
+Back
+SplineSet
+152 697 m 256
+ 155 697 161 699 170 706 c 256
+ 210 736 260 774 300 808 c 256
+ 309 816 313 820 313 827 c 256
+ 313 841 269 850 255 850 c 256
+ 244 850 235 847 228 837 c 256
+ 201 798 175 758 151 718 c 256
+ 148 713 146 707 146 703 c 256
+ 146 700 148 697 152 697 c 256
+12 697 m 256
+ 15 697 21 699 30 706 c 256
+ 70 736 120 774 160 808 c 256
+ 169 816 173 820 173 827 c 256
+ 173 841 129 850 115 850 c 256
+ 104 850 95 847 88 837 c 256
+ 61 798 35 758 11 718 c 256
+ 8 713 6 707 6 703 c 256
+ 6 700 8 697 12 697 c 256
+EndSplineSet
 Fore
-Refer: 2468 -1 N 1 0 0 1 140 0 2
-Refer: 2468 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 513 -1 N 1 0 0 1 66 0 2
+Refer: 513 -1 N 1 0 0 1 -66 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030B.cap+AAoA"
 EndChar

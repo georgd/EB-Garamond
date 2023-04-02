@@ -1,0 +1,50 @@
+StartChar: exclam
+Encoding: 814 33 813
+GlifName: exclam
+Width: 305
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+137 172 m 256
+ 154 172 169 194 185 225 c 256
+ 260 373 313 484 341 556 c 256
+ 363 614 330 649 280 649 c 256
+ 233 649 195 610 186 566 c 256
+ 169 482 147 379 120 225 c 256
+ 113 186 119 172 137 172 c 256
+83 -14 m 256
+ 134 -14 179 26 179 71 c 256
+ 179 101 157 135 114 135 c 256
+ 65 135 22 92 22 45 c 256
+ 22 14 49 -14 83 -14 c 256
+EndSplineSet
+Fore
+SplineSet
+137 172 m 256
+ 154 172 169 194 185 225 c 256
+ 260 373 313 484 322 508 c 256
+ 357 599 324 649 285 649 c 256
+ 229 649 191 589 179 530 c 256
+ 169 482 147 379 120 225 c 256
+ 113 186 119 172 137 172 c 256
+83 -14 m 256
+ 134 -14 179 26 179 71 c 256
+ 179 101 157 135 114 135 c 256
+ 65 135 22 92 22 45 c 256
+ 22 14 49 -14 83 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" exclam.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" exclam.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" exclam.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" exclam.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" exclam.subs
+Comment: "+AAoA-exclam+AAoA"
+EndChar

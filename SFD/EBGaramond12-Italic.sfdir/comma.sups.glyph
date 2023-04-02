@@ -1,11 +1,25 @@
 StartChar: comma.sups
-Encoding: 65924 -1 1516
-Width: 148
-VWidth: 440
-Flags: MW
+Encoding: 690 -1 689
+GlifName: comma.sups
+Width: 159
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1210 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 685 -1 N 1 0 0 1 49 161 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vcomma.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vcomma.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-comma.sups+AAoA"
 EndChar

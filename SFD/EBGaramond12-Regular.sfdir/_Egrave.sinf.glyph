@@ -1,0 +1,82 @@
+StartChar: Egrave.sinf
+Encoding: 103 -1 103
+GlifName: E_grave.sinf
+Width: 415
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+53 -147 m 256
+ 88 -147 102 -143 137 -143 c 256
+ 202 -143 267 -147 350 -147 c 256
+ 356 -147 358 -142 359 -137 c 257
+ 364 -119 370 -93 370 -71 c 256
+ 370 -67 363 -65 358 -65 c 256
+ 354 -65 352 -66 349 -71 c 256
+ 331 -102 324 -120 280 -120 c 258
+ 214 -120 l 258
+ 185 -120 174 -101 173 -70 c 256
+ 172 -36 171 -7 171 30 c 257
+ 170 44 187 47 207 47 c 256
+ 224 47 238 45 248 44 c 256
+ 258 43 271 36 278 18 c 256
+ 282 8 288 4 296 4 c 256
+ 301 4 302 9 302 14 c 256
+ 302 32 300 45 300 57 c 256
+ 300 67 302 80 302 94 c 256
+ 302 99 300 104 293 104 c 256
+ 287 104 281 101 279 94 c 256
+ 275 79 258 69 239 69 c 258
+ 187 69 l 258
+ 176 69 171 75 171 82 c 258
+ 173 199 l 258
+ 173 213 180 224 194 224 c 258
+ 271 224 l 258
+ 308 224 315 214 327 182 c 257
+ 328 178 332 175 340 175 c 256
+ 344 175 348 177 348 181 c 256
+ 348 200 345 216 342 236 c 256
+ 341 243 339 248 329 248 c 256
+ 267 248 212 246 134 246 c 256
+ 102 246 71 248 57 248 c 256
+ 48 248 42 243 42 238 c 256
+ 42 233 46 229 58 227 c 256
+ 90 222 107 211 107 182 c 258
+ 107 -82 l 258
+ 107 -111 88 -122 56 -127 c 256
+ 43 -129 37 -132 37 -140 c 256
+ 37 -145 42 -147 53 -147 c 256
+EndSplineSet
+Fore
+Refer: 101 -1 N 1 0 0 1 0 -423 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VEgrave.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VEgrave.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VEgrave.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-Egrave.sinf+AAoA"
+EndChar

@@ -1,13 +1,65 @@
 StartChar: Tcaron
-Encoding: 356 356 263
-Width: 635
+Encoding: 385 356 384
+GlifName: T_caron
+Width: 622
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 280 -30 basechar 0
+AnchorPoint: "top.cap" 455 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+607 822 m 256
+ 594 822 491 778 464 767 c 256
+ 454 763 444 760 436 767 c 256
+ 414 785 358 823 345 823 c 256
+ 336 823 331 818 331 812 c 256
+ 331 808 333 805 337 800 c 257
+ 409 718 l 258
+ 419 707 436 696 446 696 c 256
+ 456 696 470 704 491 718 c 258
+ 615 800 l 257
+ 620 804 622 808 622 812 c 256
+ 622 818 616 822 607 822 c 256
+327 102 m 258
+ 457 557 l 257
+ 463 575 474 607 488 607 c 258
+ 630 607 l 258
+ 697 607 681 525 681 520 c 256
+ 681 506 686 497 695 497 c 256
+ 700 497 704 500 706 511 c 256
+ 714 565 734 614 741 627 c 256
+ 745 634 749 643 749 650 c 256
+ 749 658 746 666 743 666 c 256
+ 733 666 720 642 691 642 c 258
+ 223 642 l 258
+ 184 642 184 666 174 666 c 256
+ 169 666 164 655 161 646 c 256
+ 143 596 115 522 115 517 c 256
+ 115 506 115 506 123 506 c 256
+ 131 506 135 511 142 524 c 256
+ 161 560 194 607 250 607 c 258
+ 379 607 l 258
+ 393 607 389 575 383 557 c 257
+ 253 102 l 258
+ 239 54 206 31 157 22 c 256
+ 134 18 120 15 120 6 c 256
+ 120 -2 128 -5 144 -5 c 256
+ 194 -5 218 0 265 0 c 256
+ 307 0 322 -5 372 -5 c 256
+ 388 -5 402 -2 402 6 c 256
+ 402 15 397 18 377 22 c 256
+ 333 31 313 54 327 102 c 258
+EndSplineSet
 Fore
-Refer: 2083 -1 N 1 0 0 1 326 0 2
-Refer: 34 84 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Tcaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" T uni030C.cap
+Refer: 372 84 N 1 0 0 1 0 0 2
+Refer: 1811 -1 N 1 0 0 1 301 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Tcaron.sc
+Comment: "+AAoA-Tcaron+AAoA"
 EndChar

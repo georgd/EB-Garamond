@@ -1,13 +1,90 @@
 StartChar: uni24A4
-Encoding: 9380 9380 923
+Encoding: 2994 9380 2993
 GlifName: uni24A_4
-Width: 869
+Width: 868
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 431 -30 basechar 0
+AnchorPoint: "top" 439 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+819 281 m 256
+ 819 451 715 623 644 694 c 256
+ 637 701 630 704 620 704 c 256
+ 609 704 593 700 593 691 c 256
+ 593 688 598 682 601 679 c 256
+ 672 608 759 437 759 267 c 256
+ 759 97 670 -110 599 -181 c 256
+ 596 -184 589 -192 589 -195 c 256
+ 589 -205 605 -213 619 -213 c 256
+ 626 -213 632 -211 636 -207 c 256
+ 707 -136 819 111 819 281 c 256
+381 565 m 256
+ 381 537 403 515 431 515 c 256
+ 460 515 482 537 482 565 c 256
+ 482 594 460 616 431 616 c 256
+ 403 616 381 594 381 565 c 256
+477 434 m 256
+ 469 434 424 393 357 377 c 256
+ 353 376 350 370 350 365 c 256
+ 350 359 353 353 358 352 c 256
+ 392 345 405 315 405 279 c 258
+ 405 62 l 258
+ 405 35 382 30 362 24 c 257
+ 351 20 339 16 339 6 c 256
+ 339 -2 351 -3 359 -3 c 256
+ 398 -3 405 2 440 2 c 256
+ 475 2 483 -3 521 -3 c 256
+ 530 -3 541 -2 541 6 c 256
+ 541 16 529 20 518 24 c 257
+ 498 30 475 35 475 62 c 258
+ 475 294 l 258
+ 475 339 480 388 484 429 c 257
+ 484 432 481 434 477 434 c 256
+264 -192 m 256
+ 264 -190 250 -175 248 -173 c 256
+ 177 -102 100 111 100 281 c 256
+ 100 451 181 599 252 670 c 256
+ 254 672 265 687 265 689 c 256
+ 265 698 250 705 243 705 c 256
+ 233 705 222 700 216 694 c 256
+ 145 623 40 439 40 269 c 256
+ 40 99 149 -136 220 -207 c 256
+ 225 -212 231 -214 237 -214 c 256
+ 250 -214 264 -206 264 -192 c 256
+EndSplineSet
 Fore
-Refer: 108 41 N 1 0 0 1 553 0 2
-Refer: 5 105 N 1 0 0 1 315 0 2
-Refer: 107 40 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 991 105 N 1 0 0 1 315 0 2
+Refer: 1250 40 N 1 0 0 1 0 0 2
+Refer: 1256 41 N 1 0 0 1 553 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vi
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vparenleft
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vparenright
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni24A4+AAoA"
 EndChar

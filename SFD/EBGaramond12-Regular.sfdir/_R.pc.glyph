@@ -1,11 +1,37 @@
 StartChar: R.pc
-Encoding: 1115186 -1 2964
+Encoding: 345 -1 344
 GlifName: R_.pc
-Width: 468
+Width: 506
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 272.002 -26.886 basechar 0
+AnchorPoint: "top" 237.946 450.789 basechar 0
+LayerCount: 2
 Fore
-Refer: 2990 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1824 640 N 1 0 0 1 13 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni0280
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VH.pc
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-R.pc+AAoA"
 EndChar

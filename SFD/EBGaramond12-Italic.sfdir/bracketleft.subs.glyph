@@ -1,31 +1,25 @@
 StartChar: bracketleft.subs
-Encoding: 65665 -1 1257
+Encoding: 626 -1 625
+GlifName: bracketleft.subs
 Width: 223
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-218 421 m 10
- 318 421 l 26
- 324 421 327 417 325 412 c 25
- 320 405 315 405 308 404 c 16
- 298 403 290 403 283 403 c 0
- 268 403 255 404 237 404 c 0
- 228 404 221 395 218 386 c 8
- 187 297 171 246 144 157 c 8
- 117 68 98 18 74 -71 c 0
- 66 -99 70 -100 83 -100 c 8
- 110 -100 126 -101 153 -103 c 0
- 160 -104 167 -107 165 -114 c 24
- 163 -121 154 -122 147 -122 c 26
- 48 -120 l 18
- 33 -120 29 -117 35 -102 c 10
- 169 325 l 26
- 176 348 176 361 184 384 c 24
- 188 397 187 405 197 416 c 16
- 201 420 205 421 210 421 c 0
- 213 421 215 421 218 421 c 10
-EndSplineSet
-Validated: 1
+Refer: 622 -1 N 1 0 0 1 -87 -281 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbracketleft.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbracketleft.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-bracketleft.subs+AAoA"
 EndChar

@@ -1,0 +1,35 @@
+StartChar: acutecomb.grksc
+Encoding: 518 -1 517
+GlifName: acutecomb.grksc
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+37 456 m 256
+ 45 456 59 468 68 478 c 256
+ 100 514 180 612 183 622 c 256
+ 188 638 177 663 158 663 c 256
+ 150 663 134 657 127 645 c 256
+ 111 618 70 543 47 500 c 256
+ 39 485 34 474 32 469 c 256
+ 28 460 28 456 37 456 c 256
+EndSplineSet
+Fore
+SplineSet
+37 456 m 256
+ 45 456 56 464 64 472 c 256
+ 94 502 181 606 184 616 c 256
+ 189 633 171 664 151 664 c 256
+ 143 664 132 660 127 651 c 256
+ 114 627 59 542 41 500 c 256
+ 35 486 31 475 30 470 c 256
+ 28 461 28 456 37 456 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+EndChar

@@ -1,0 +1,79 @@
+StartChar: Lcaron
+Encoding: 247 317 247
+GlifName: L_caron
+Width: 593
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 268 -30 basechar 0
+AnchorPoint: "top.cap" 346 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+509 423 m 256
+ 518 423 532 432 553 455 c 256
+ 595 501 654 592 667 637 c 256
+ 673 658 677 674 655 674 c 256
+ 620 674 561 641 553 615 c 256
+ 547 595 548 571 533 526 c 256
+ 527 508 507 457 504 449 c 256
+ 499 436 501 423 509 423 c 256
+-26 -5 m 256
+ 13 -5 79 0 119 0 c 256
+ 240 0 428 -5 465 -5 c 256
+ 477 -5 484 5 488 14 c 256
+ 510 63 531 103 567 163 c 257
+ 568 165 569 167 570 169 c 256
+ 574 177 572 190 562 190 c 256
+ 554 190 548 188 540 178 c 257
+ 517 147 480 102 457 86 c 256
+ 428 66 397 59 371 59 c 258
+ 274 59 l 258
+ 240 59 230 73 241 110 c 258
+ 377 550 l 258
+ 389 590 403 602 463 618 c 257
+ 476 622 484 626 488 639 c 256
+ 491 649 487 654 477 654 c 256
+ 435 654 360 650 321 650 c 256
+ 281 650 216 655 172 655 c 256
+ 164 655 152 649 150 640 c 256
+ 147 628 151 621 162 618 c 256
+ 211 605 220 594 207 551 c 258
+ 66 95 l 258
+ 53 54 34 46 -14 32 c 256
+ -28 28 -38 19 -40 11 c 256
+ -42 3 -38 -5 -26 -5 c 256
+EndSplineSet
+Fore
+Refer: 235 76 N 1 0 0 1 0 0 2
+Refer: 1809 -1 N 1 0 0 1 464 -46 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VL
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni030C.altcap
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Lcaron.sc
+Comment: "+AAoA-Lcaron+AAoA"
+EndChar

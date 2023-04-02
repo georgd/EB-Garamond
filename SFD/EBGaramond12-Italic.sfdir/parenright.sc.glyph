@@ -1,11 +1,25 @@
 StartChar: parenright.sc
-Encoding: 66023 -1 1615
-Width: 316
+Encoding: 1210 -1 1209
+GlifName: parenright.sc
+Width: 245
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 109 41 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 1203 -1 N -1 0 0 -1 234 364 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|parenleft.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|parenleft.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-parenright.sc+AAoA"
 EndChar

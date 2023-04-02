@@ -1,22 +1,27 @@
 StartChar: acutecomb.cap
-Encoding: 66477 -1 2468
+Encoding: 514 -1 513
+GlifName: acutecomb.cap
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_stack" 52 710 mark 0
-AnchorPoint: "top_accent" 39 710 mark 0
+AnchorPoint: "top.cap" 129 675 mark 0
 LayerCount: 2
 Fore
 SplineSet
-12 697 m 0
- 8 697 6 700 6 703 c 0
- 6 707 8 713 11 718 c 0
- 35 758 61 798 88 837 c 0
- 95 847 104 850 115 850 c 0
- 129 850 173 841 173 827 c 0
- 173 820 169 816 160 808 c 0
- 120 774 70 736 30 706 c 0
- 21 699 15 697 12 697 c 0
+98 697 m 256
+ 101 697 107 699 116 706 c 256
+ 155 737 207 773 246 808 c 256
+ 255 816 259 820 259 827 c 256
+ 259 841 215 850 201 850 c 256
+ 190 850 181 847 174 837 c 256
+ 147 798 121 758 97 718 c 256
+ 94 713 92 707 92 703 c 256
+ 92 700 94 697 98 697 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-acutecomb.cap+AAoA"
 EndChar

@@ -1,0 +1,82 @@
+StartChar: b
+Encoding: 588 98 587
+GlifName: b
+Width: 543
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 206 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+190 -14 m 256
+ 353 -14 546 184 546 351 c 256
+ 546 398 506 437 456 437 c 256
+ 393 437 310 372 233 262 c 256
+ 228 253 224 255 227 264 c 256
+ 300 499 326 570 364 650 c 256
+ 371 664 374 676 374 693 c 256
+ 374 703 365 707 346 707 c 256
+ 330 707 228 681 172 662 c 256
+ 149 654 143 649 143 640 c 256
+ 143 634 148 630 163 624 c 256
+ 190 614 199 606 199 592 c 256
+ 199 577 197 567 186 531 c 258
+ 80 188 l 258
+ 68 152 63 124 63 99 c 256
+ 63 27 109 -14 190 -14 c 256
+221 26 m 256
+ 198 26 174 53 174 79 c 256
+ 174 109 209 180 257 247 c 256
+ 307 316 353 358 379 358 c 256
+ 395 358 406 347 406 330 c 256
+ 406 292 362 184 319 115 c 256
+ 290 68 244 26 221 26 c 256
+EndSplineSet
+Fore
+SplineSet
+190 -14 m 256
+ 353 -14 546 184 546 351 c 256
+ 546 398 506 437 456 437 c 256
+ 393 437 310 372 233 262 c 256
+ 228 253 224 255 227 264 c 256
+ 300 499 326 570 364 650 c 256
+ 371 664 374 676 374 693 c 256
+ 374 703 365 707 346 707 c 256
+ 330 707 228 681 172 662 c 256
+ 149 654 143 649 143 640 c 256
+ 143 634 148 630 163 624 c 256
+ 190 614 199 606 199 592 c 256
+ 199 577 197 567 186 531 c 258
+ 80 188 l 258
+ 68 152 63 124 63 99 c 256
+ 63 27 109 -14 190 -14 c 256
+221 26 m 256
+ 198 26 180 62 180 88 c 256
+ 180 118 209 180 257 247 c 256
+ 307 316 353 350 379 350 c 256
+ 395 350 405 339 405 322 c 256
+ 405 284 362 184 319 115 c 256
+ 290 68 244 26 221 26 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vh
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|d
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" B.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" b.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" b.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" b.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" b.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" b.subs
+Comment: "+AAoA-b+AAoA"
+EndChar

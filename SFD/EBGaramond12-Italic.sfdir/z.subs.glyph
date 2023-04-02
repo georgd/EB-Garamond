@@ -1,36 +1,39 @@
 StartChar: z.subs
-Encoding: 65696 -1 1288
-Width: 205
-VWidth: -273
-Flags: MW
+Encoding: 3035 -1 3034
+GlifName: z.subs
+Width: 259
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-134 245 m 16
- 150 244 165 244 179 244 c 0
- 210 244 238 245 266 246 c 0
- 269 246 269 241 267 239 c 0
- 256 229 253 221 242 209 c 2
- 81 33 l 2
- 77 28 82 24 85 24 c 2
- 145 24 l 2
- 162 24 178 44 203 70 c 0
- 206 73 217 85 224 85 c 0
- 229 85 225 73 224 71 c 0
- 222 66 195 19 189 9 c 0
- 187 6 182 0 179 0 c 2
- 16 0 l 2
- 13 0 11 7 12 10 c 0
- 13 13 16 21 27 32 c 0
- 83 90 129 139 191 209 c 0
- 194 212 197 215 188 215 c 2
- 136 215 l 2
- 126 215 109 203 93 187 c 0
- 89 183 79 173 74 173 c 0
- 69 173 69 183 73 188 c 0
- 81 199 93 228 99 242 c 0
- 102 248 104 254 112 254 c 0
- 116 254 124 246 134 245 c 16
-EndSplineSet
-Validated: 1
+Refer: 3030 -1 N 1 0 0 1 -87 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vz.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vz.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vz.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-z.subs+AAoA"
 EndChar

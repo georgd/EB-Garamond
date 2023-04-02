@@ -1,14 +1,55 @@
 StartChar: uni1E3A
-Encoding: 7738 7738 410
+Encoding: 2369 7738 2368
 GlifName: uni1E_3A_
 Width: 584
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 311 -30 basechar 0
+AnchorPoint: "top.cap" 187 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+448 -123 m 258
+ 185 -123 l 258
+ 166 -123 161 -156 161 -165 c 256
+ 161 -171 168 -177 175 -177 c 258
+ 430 -177 l 258
+ 446 -177 461 -155 461 -135 c 256
+ 461 -129 454 -123 448 -123 c 258
+210 96 m 258
+ 210 567 l 258
+ 210 606 249 613 299 622 c 256
+ 322 626 332 633 332 642 c 256
+ 332 650 320 653 303 653 c 256
+ 249 653 226 650 177 650 c 256
+ 133 650 119 653 65 653 c 256
+ 48 653 36 650 36 642 c 256
+ 36 633 46 626 69 622 c 256
+ 119 613 130 608 130 560 c 258
+ 130 96 l 258
+ 130 52 101 34 49 24 c 257
+ 45 23 27 19 27 7 c 256
+ 27 0 37 -5 55 -5 c 257
+ 55 -5 140 0 190 0 c 256
+ 290 0 399 -5 533 -5 c 256
+ 543 -5 546 3 547 12 c 256
+ 551 54 560 87 574 139 c 257
+ 574 140 575 142 575 144 c 256
+ 575 152 571 162 563 162 c 256
+ 554 162 544 140 541 132 c 257
+ 524 96 515 84 489 61 c 256
+ 471 45 438 35 433 35 c 258
+ 287 35 l 258
+ 221 35 210 55 210 96 c 258
+EndSplineSet
 Fore
-Refer: 2308 -1 N 1 0 0 1 156 0 2
-Refer: 36 76 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" L uni0331.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-29 dv=0
+Refer: 236 76 N 1 0 0 1 0 0 2
+Refer: 2015 -1 N 1 0 0 1 310 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E3A+AAoA"
 EndChar

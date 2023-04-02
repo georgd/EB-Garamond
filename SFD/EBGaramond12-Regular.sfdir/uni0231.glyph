@@ -1,14 +1,61 @@
 StartChar: uni0231
-Encoding: 561 561 341
+Encoding: 1746 561 1745
 GlifName: uni0231
 Width: 495
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -30 basechar 0
+AnchorPoint: "top" 254 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+363 689 m 258
+ 140 689 l 258
+ 122 689 116 660 116 651 c 256
+ 116 645 123 639 130 639 c 258
+ 345 639 l 258
+ 364 639 376 655 376 677 c 256
+ 376 683 369 689 363 689 c 258
+197 543 m 256
+ 197 515 219 493 247 493 c 256
+ 276 493 298 515 298 543 c 256
+ 298 572 276 594 247 594 c 256
+ 219 594 197 572 197 543 c 256
+254 414 m 256
+ 131 414 35 298 35 187 c 256
+ 35 70 122 -14 234 -14 c 256
+ 384 -14 460 96 460 213 c 256
+ 460 321 370 414 254 414 c 256
+237 383 m 256
+ 322 383 378 284 378 189 c 256
+ 378 150 374 102 358 71 c 256
+ 338 32 300 16 255 16 c 256
+ 175 16 117 111 117 210 c 256
+ 117 258 122 309 149 343 c 256
+ 173 374 201 383 237 383 c 256
+EndSplineSet
 Fore
-Refer: 2252 -1 N 1 0 0 1 66 149 2
-Refer: 2254 -1 N 1 0 0 1 135 0 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" o uni0307.stack uni0304.stack
+Refer: 1743 559 N 1 0 0 1 0 0 2
+Refer: 1127 175 N 1 0 0 1 99 143 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vmacron
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni0231+AAoA"
 EndChar

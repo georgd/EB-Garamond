@@ -1,9 +1,19 @@
 StartChar: uni212B
-Encoding: 8491 8491 838
-Width: 772
+Encoding: 2714 8491 2713
+GlifName: uni212B_
+Width: 658
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 256 -30 basechar 0
+AnchorPoint: "top.cap" 598 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 135 197 N 1 0 0 1 0 0 3
+Refer: 29 197 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni212B+AAoA"
 EndChar

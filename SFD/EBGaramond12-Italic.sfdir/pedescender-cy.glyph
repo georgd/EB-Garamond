@@ -1,0 +1,38 @@
+StartChar: pedescender-cy
+Encoding: 1215 1317 1214
+GlifName: pedescender-cy
+Width: 527
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 180 -30 basechar 0
+AnchorPoint: "top" 306 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+250 -220 m 256
+ 259 -220 318 -204 353 -180 c 256
+ 403 -146 422 -78 435 0 c 256
+ 439 24 455 67 479 96 c 257
+ 438 66 l 257
+ 442 60 l 257
+ 415 23 395 -6 381 -29 c 256
+ 367 -53 359 -68 348 -100 c 256
+ 324 -170 285 -187 243 -201 c 257
+ 238 -203 234 -205 234 -210 c 256
+ 234 -218 243 -220 250 -220 c 256
+EndSplineSet
+Refer: 1091 110 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.99,0.62,0.11,1
+p5
+s."
+EndChar

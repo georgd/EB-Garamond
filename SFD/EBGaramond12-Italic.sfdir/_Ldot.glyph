@@ -1,12 +1,22 @@
 StartChar: Ldot
-Encoding: 319 319 233
-Width: 619
+Encoding: 249 319 249
+GlifName: L_dot
+Width: 583
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom.cap" 301 -30 basechar 0
+AnchorPoint: "top.cap" 353 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 113 183 S 1 0 0 1 301 124 2
-Refer: 36 76 S 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Ldot.sc
-LCarets2: 1 0
+Refer: 235 76 N 1 0 0 1 0 0 2
+Refer: 730 729 N 1 0 0 1 377 -202 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Ldot.sc
+Ligature2: "Ligature Substitution lookup 5 subtable" L periodcentered
+Comment: "+AAoA-Ldot+AAoA"
 EndChar

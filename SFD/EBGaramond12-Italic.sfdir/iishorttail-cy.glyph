@@ -1,0 +1,45 @@
+StartChar: iishorttail-cy
+Encoding: 984 1163 983
+GlifName: iishorttail-cy
+Width: 509
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 167 -30 basechar 0
+AnchorPoint: "top" 329 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+153 -220 m 256
+ 162 -220 237 -203 275 -179 c 256
+ 330 -144 364 -78 396 0 c 256
+ 417 51 439 71 454 113 c 257
+ 412 66 l 257
+ 415 60 l 257
+ 382 23 371 -1 347 -22 c 256
+ 311 -54 297 -75 259 -127 c 256
+ 234 -161 206 -178 149 -201 c 256
+ 144 -203 140 -205 139 -210 c 256
+ 137 -218 146 -220 153 -220 c 256
+EndSplineSet
+Fore
+SplineSet
+143 -218 m 256
+ 214 -218 265 -193 304 -155 c 256
+ 346 -114 374 -58 398 0 c 256
+ 419 51 439 71 454 113 c 257
+ 412 66 l 257
+ 415 60 l 257
+ 383 20 362 -3 345 -21 c 256
+ 316 -52 299 -68 262 -124 c 256
+ 242 -155 212 -173 142 -201 c 256
+ 133 -205 129 -206 129 -212 c 256
+ 129 -216 132 -218 143 -218 c 256
+EndSplineSet
+Refer: 1989 1081 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.97,1,0,1
+p2
+s."
+EndChar

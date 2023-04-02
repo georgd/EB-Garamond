@@ -1,21 +1,27 @@
 StartChar: fraction
-Encoding: 8260 8260 1165
+Encoding: 898 8260 897
 GlifName: fraction
 Width: 50
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
--220 -47 m 10
- 218 648 l 26
- 227 662 240 665 257 665 c 16
- 264 665 271 658 271 652 c 0
- 271 651 271 649 270 648 c 10
- -168 -47 l 26
- -176 -60 -189 -62 -204 -62 c 16
- -212 -62 -221 -56 -221 -50 c 0
- -221 -49 -221 -48 -220 -47 c 10
+218 648 m 258
+ -220 -47 l 257
+ -221 -48 -221 -49 -221 -50 c 256
+ -221 -56 -212 -62 -204 -62 c 256
+ -189 -62 -176 -60 -168 -47 c 258
+ 270 648 l 257
+ 271 649 271 651 271 652 c 256
+ 271 658 264 665 257 665 c 256
+ 240 665 227 662 218 648 c 258
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-fraction+AAoA"
 EndChar

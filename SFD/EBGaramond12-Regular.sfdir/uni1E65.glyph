@@ -1,14 +1,71 @@
 StartChar: uni1E65
-Encoding: 7781 7781 453
+Encoding: 2412 7781 2411
 GlifName: uni1E_65
 Width: 323
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 168 -30 basechar 0
+AnchorPoint: "top" 176 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+136 692 m 256
+ 136 664 158 642 186 642 c 256
+ 215 642 237 664 237 692 c 256
+ 237 721 215 743 186 743 c 256
+ 158 743 136 721 136 692 c 256
+128 504 m 256
+ 172 516 281 549 303 561 c 257
+ 306 563 307 567 307 570 c 256
+ 307 582 291 620 267 620 c 256
+ 260 620 253 617 246 614 c 256
+ 212 600 109 536 91 517 c 257
+ 88 513 87 510 87 507 c 256
+ 87 502 94 499 101 499 c 256
+ 110 499 120 502 128 504 c 256
+176 388 m 256
+ 209 388 238 358 239 330 c 257
+ 239 321 263 309 273 309 c 256
+ 277 309 279 310 279 313 c 256
+ 279 341 274 376 262 391 c 257
+ 252 401 227 414 187 414 c 256
+ 89 414 53 353 53 296 c 256
+ 53 247 101 208 149 174 c 256
+ 193 143 225 119 225 83 c 256
+ 225 43 203 13 155 13 c 256
+ 114 13 69 51 62 85 c 256
+ 61 90 54 92 47 92 c 256
+ 39 92 30 89 30 83 c 257
+ 31 60 36 36 43 22 c 256
+ 49 9 95 -14 149 -14 c 256
+ 260 -14 293 37 293 106 c 256
+ 293 172 228 212 198 231 c 256
+ 166 251 113 282 113 322 c 256
+ 113 362 138 388 176 388 c 256
+EndSplineSet
 Fore
-Refer: 2254 -1 N 1 0 0 1 74 149 2
-Refer: 2297 -1 N 1 0 0 1 87 0 2
-Refer: 17 115 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" s acutecomb.flat uni0307.stack
+Refer: 1359 115 N 1 0 0 1 0 0 2
+Refer: 514 -1 N 1 0 0 1 198 0 2
+Refer: 744 729 N 1 0 0 1 71 126 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I2
+sVname
+p6
+Vdotaccent
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni1E65+AAoA"
 EndChar

@@ -1,0 +1,95 @@
+StartChar: B
+Encoding: 34 66 34
+GlifName: B_
+Width: 639
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 253 -30 basechar 0
+AnchorPoint: "top.cap" 421 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-32 -5 m 256
+ 7 -5 72 0 113 0 c 256
+ 165 0 208 -4 259 -4 c 256
+ 442 -4 596 44 596 198 c 256
+ 596 281 541 327 464 353 c 256
+ 458 355 462 362 467 363 c 256
+ 565 383 651 448 651 526 c 256
+ 651 610 581 654 460 654 c 256
+ 387 654 360 647 312 647 c 256
+ 260 647 237 655 172 655 c 256
+ 158 655 146 645 146 633 c 256
+ 146 627 150 621 161 618 c 256
+ 200 607 216 595 201 551 c 258
+ 59 95 l 258
+ 46 54 28 46 -20 32 c 256
+ -36 27 -48 16 -48 7 c 256
+ -48 0 -42 -5 -32 -5 c 256
+272 30 m 257
+ 253 30 237 43 231 54 c 256
+ 225 65 227 85 231 99 c 258
+ 295 304 l 258
+ 301 323 314 328 346 328 c 256
+ 398 328 427 283 427 230 c 256
+ 427 145 352 42 272 30 c 257
+352 362 m 256
+ 326 362 316 370 322 390 c 258
+ 383 589 l 258
+ 392 617 407 626 436 626 c 256
+ 476 626 507 583 507 539 c 256
+ 507 470 471 417 428 382 c 257
+ 404 371 382 362 352 362 c 256
+EndSplineSet
+Fore
+SplineSet
+-32 -5 m 256
+ 7 -5 72 0 113 0 c 256
+ 165 0 208 -4 259 -4 c 256
+ 442 -4 596 44 596 198 c 256
+ 596 281 541 327 464 353 c 256
+ 458 355 462 362 467 363 c 256
+ 565 383 651 448 651 526 c 256
+ 651 610 581 654 460 654 c 256
+ 387 654 360 647 312 647 c 256
+ 260 647 237 655 172 655 c 256
+ 158 655 146 645 146 633 c 256
+ 146 627 150 621 161 618 c 256
+ 200 607 216 595 201 551 c 258
+ 59 95 l 258
+ 46 54 28 46 -20 32 c 256
+ -36 27 -48 16 -48 7 c 256
+ -48 0 -42 -5 -32 -5 c 256
+272 30 m 257
+ 253 30 237 43 231 54 c 256
+ 225 65 227 85 231 99 c 258
+ 295 304 l 258
+ 301 323 314 328 346 328 c 256
+ 398 328 427 283 427 230 c 256
+ 427 145 352 42 272 30 c 257
+352 362 m 256
+ 326 362 316 370 322 390 c 258
+ 383 589 l 258
+ 392 617 407 626 436 626 c 256
+ 476 626 507 583 507 539 c 256
+ 507 470 471 417 428 382 c 257
+ 404 371 382 362 352 362 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" B.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" B.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" B.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" B.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" B.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" B.subs
+Comment: "+AAoA-B+AAoA"
+EndChar

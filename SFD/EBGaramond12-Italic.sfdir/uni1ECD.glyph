@@ -1,11 +1,20 @@
 StartChar: uni1ECD
-Encoding: 7885 7885 541
-Width: 400
+Encoding: 2348 7885 2347
+GlifName: uni1E_C_D_
+Width: 380
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 104 -30 basechar 0
+AnchorPoint: "top" 278 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2019 803 N 1 0 0 1 66 0 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" o dotbelowcomb
+Refer: 1127 111 N 1 0 0 1 0 0 2
+Refer: 731 803 N 1 0 0 1 177 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1ECD+AAoA"
 EndChar

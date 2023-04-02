@@ -1,0 +1,44 @@
+StartChar: uni2035
+Encoding: 2824 8245 2823
+GlifName: uni2035
+Width: 190
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+96 633 m 256
+ 88 663 80 676 72 676 c 256
+ 52 676 27 654 27 642 c 256
+ 27 616 73 516 100 469 c 256
+ 106 458 114 444 124 444 c 256
+ 134 444 135 452 135 461 c 256
+ 135 478 101 614 96 633 c 256
+EndSplineSet
+Fore
+SplineSet
+145 412 m 256
+ 156 412 160 423 160 438 c 256
+ 160 462 132 588 127 613 c 257
+ 116 657 105 676 93 676 c 256
+ 64 676 30 644 30 626 c 257
+ 30 600 75 509 114 440 c 256
+ 123 423 133 412 145 412 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|minute
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|minute
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni2035+AAoA"
+EndChar

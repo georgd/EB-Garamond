@@ -1,14 +1,40 @@
 StartChar: omicrontonos
-Encoding: 972 972 2445
+Encoding: 1206 972 1205
 GlifName: omicrontonos
 Width: 400
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 217 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+215 498 m 256
+ 236 534 286 632 286 642 c 256
+ 286 658 267 683 248 683 c 256
+ 240 683 226 677 223 665 c 256
+ 213 629 182 507 182 489 c 256
+ 182 480 182 476 191 476 c 256
+ 199 476 209 488 215 498 c 256
+325 235 m 256
+ 325 141 249 64 155 64 c 256
+ 106 64 75 111 75 160 c 256
+ 75 252 148 334 240 334 c 256
+ 289 334 325 284 325 235 c 256
+175 -14 m 256
+ 285 -14 365 85 365 195 c 256
+ 365 299 319 414 215 414 c 256
+ 104 414 35 306 35 195 c 256
+ 35 97 77 -14 175 -14 c 256
+EndSplineSet
 Fore
-Refer: 2704 -1 N 1 0 0 1 168 20 2
-Refer: 2412 959 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" omicrontonos.sc
-MultipleSubs2: "CCMP_Precomp subtable" omicron acutecomb.grk
+Refer: 1203 959 N 1 0 0 1 0 0 2
+Refer: 1476 900 N 1 0 0 1 139 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" omicrontonos.sc
+Comment: "+AAoA-omicrontonos+AAoA"
 EndChar

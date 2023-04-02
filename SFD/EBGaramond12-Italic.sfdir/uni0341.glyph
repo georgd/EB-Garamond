@@ -1,10 +1,25 @@
 StartChar: uni0341
-Encoding: 833 833 627
+Encoding: 1895 833 1894
+GlifName: uni0341
 Width: 0
 VWidth: 0
-Flags: MW
 LayerCount: 2
 Fore
-Refer: 623 769 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+45 463 m 256
+ 53 463 61 471 68 478 c 257
+ 94 507 178 610 178 615 c 256
+ 178 630 149 652 139 652 c 256
+ 129 652 121 640 114 627 c 256
+ 97 596 52 510 39 483 c 256
+ 37 479 37 475 37 471 c 256
+ 37 467 40 463 45 463 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0341+AAoA"
 EndChar

@@ -1,0 +1,39 @@
+StartChar: acutecomb
+Encoding: 513 769 512
+GlifName: acutecomb
+Width: 0
+VWidth: 0
+AnchorPoint: "top" 33 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+68 478 m 257
+ 94 507 178 610 178 615 c 256
+ 178 630 149 652 139 652 c 256
+ 129 652 121 640 114 627 c 256
+ 97 596 52 510 39 483 c 256
+ 37 479 37 475 37 471 c 256
+ 37 467 40 463 45 463 c 256
+ 53 463 61 471 68 478 c 257
+EndSplineSet
+Fore
+SplineSet
+35 469 m 256
+ 45 469 57 477 66 486 c 258
+ 177 609 l 258
+ 191 624 200 637 200 650 c 256
+ 200 669 159 702 137 702 c 256
+ 121 702 110 691 98 665 c 258
+ 25 503 l 258
+ 18 488 18 469 35 469 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" acutecomb.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" acutecomb.sc
+Comment: "+AAoA-acutecomb+AAoA"
+EndChar

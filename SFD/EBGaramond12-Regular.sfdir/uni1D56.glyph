@@ -1,41 +1,39 @@
 StartChar: uni1D56
-Encoding: 7510 7510 715
+Encoding: 2290 7510 2289
 GlifName: uni1D_56
-Width: 321
+Width: 348
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-46 158 m 2
- 46 440 l 2
- 46 449 37 480 16 484 c 8
- 7 486 7 505 16 507 c 16
- 49 514 73 523 94 531 c 1
- 96 531 l 2
- 100 531 107 529 107 525 c 0
- 107 517 104 499 104 490 c 0
- 104 487 104 486 105 485 c 1
- 117 496 158 524 199 524 c 0
- 266 524 306 468 306 412 c 0
- 306 340 241 274 159 274 c 0
- 141 274 116 293 103 293 c 0
- 101 293 101 266 101 262 c 2
- 101 158 l 2
- 101 142 112 139 125 135 c 0
- 132 133 140 126 140 120 c 0
- 140 114 128 111 125 111 c 2
- 18 111 l 2
- 15 111 3 114 3 120 c 0
- 3 126 11 133 18 135 c 0
- 31 139 46 142 46 158 c 2
-101 405 m 0
- 101 344 101 300 169 300 c 0
- 194 300 245 338 245 398 c 0
- 245 465 203 490 175 490 c 0
- 153 490 136 480 120 469 c 0
- 110 462 102 451 101 426 c 0
- 101 419 101 412 101 405 c 0
-EndSplineSet
-Validated: 1
+Refer: 1236 -1 N 1 0 0 1 0 -7 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vp.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vp.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vp.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1D56+AAoA"
 EndChar

@@ -1,24 +1,53 @@
 StartChar: parenleft.sc
-Encoding: 1114611 -1 1610
+Encoding: 1253 -1 1252
 GlifName: parenleft.sc
-Width: 315
+Width: 245
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+68 -127 m 258
+ 212 -127 l 258
+ 224 -127 238 -124 238 -112 c 256
+ 238 -100 225 -96 212 -94 c 257
+ 108 -81 l 258
+ 96 -79 85 -66 85 -48 c 258
+ 85 433 l 258
+ 85 444 99 457 108 458 c 258
+ 212 464 l 258
+ 225 465 238 469 238 479 c 256
+ 238 489 229 492 220 492 c 258
+ 75 493 l 258
+ 43 493 37 493 37 459 c 258
+ 37 -102 l 258
+ 37 -126 45 -127 68 -127 c 258
+EndSplineSet
 Fore
 SplineSet
-264 -192 m 0
- 264 -206 250 -214 237 -214 c 0
- 231 -214 225 -212 220 -207 c 0
- 149 -136 40 99 40 269 c 0
- 40 439 145 623 216 694 c 0
- 222 700 233 705 243 705 c 0
- 250 705 265 698 265 689 c 0
- 265 687 254 672 252 670 c 0
- 181 599 100 451 100 281 c 0
- 100 111 177 -102 248 -173 c 0
- 250 -175 264 -190 264 -192 c 0
+163 -131 m 256
+ 169 -140 193 -137 193 -120 c 256
+ 193 -113 190 -106 186 -101 c 256
+ 149 -48 97 79 97 197 c 256
+ 97 295 132 403 185 467 c 256
+ 193 475 196 482 195 488 c 256
+ 194 501 174 506 160 492 c 256
+ 113 446 40 323 40 191 c 256
+ 40 73 116 -77 163 -131 c 256
 EndSplineSet
-Validated: 1
-Comment: "."
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vparenleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vparenleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-parenleft.sc+AAoA"
 EndChar

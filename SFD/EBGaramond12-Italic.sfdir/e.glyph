@@ -1,38 +1,62 @@
 StartChar: e
-Encoding: 101 101 13
-Width: 365
-Flags: MW
-AnchorPoint: "cedilla" 168 8 basechar 0
-AnchorPoint: "ogonek" 212 18 basechar 0
-AnchorPoint: "below_accent" 94 -100 basechar 0
-AnchorPoint: "top_accent" 316 550 basechar 0
+Encoding: 739 101 738
+GlifName: e
+Width: 341
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 100 -30 basechar 0
+AnchorPoint: "top" 267 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+108 -14 m 256
+ 262 -14 362 176 362 296 c 256
+ 362 362 324 414 257 414 c 256
+ 123 414 17 224 17 99 c 256
+ 17 41 59 -14 108 -14 c 256
+124 16 m 256
+ 97 16 81 34 81 78 c 256
+ 81 210 178 384 255 384 c 256
+ 289 384 298 359 298 324 c 256
+ 298 211 204 16 124 16 c 256
+EndSplineSet
 Fore
 SplineSet
-286 385 m 4
- 231 385 149 282 149 252 c 4
- 149 246 151 246 156 246 c 4
- 186 246 314 273 314 353 c 4
- 314 371 306 385 286 385 c 4
-127 -15 m 4
- 88 -15 42 22 42 98 c 4
- 42 218 144 414 301 414 c 4
- 355 414 375 392 375 351 c 4
- 375 271 216 217 146 217 c 4
- 138 217 135 215 131 207 c 4
- 117 177 114 154 114 112 c 4
- 114 62 130 35 164 35 c 4
- 212 35 252 72 272 98 c 4
- 278 106 285 109 290 109 c 4
- 296 109 300 105 300 99 c 4
- 300 97 300 94 298 91 c 4
- 258 26 197 -15 127 -15 c 4
+106 -15 m 256
+ 171 -15 226 21 266 86 c 256
+ 268 89 268 92 268 94 c 256
+ 268 100 264 104 258 104 c 256
+ 253 104 247 101 240 93 c 256
+ 218 69 186 39 138 39 c 256
+ 103 39 85 65 85 112 c 256
+ 85 143 96 180 106 209 c 256
+ 109 217 113 217 121 219 c 256
+ 232 240 349 275 349 359 c 256
+ 349 393 322 414 275 414 c 256
+ 133 414 14 223 14 89 c 256
+ 14 42 63 -15 106 -15 c 256
+128 242 m 256
+ 123 242 121 242 121 248 c 256
+ 121 278 209 389 264 389 c 256
+ 281 389 291 374 291 357 c 256
+ 291 277 158 242 128 242 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 87 subtable" e.fina
-Substitution2: "Smallcaps1 subtable" e.sc
-Substitution2: "sups subtable" e.sups
-Substitution2: "sinf subtable" e.sinf
-Substitution2: "ordn subtable" e.ordn
-Substitution2: "subs subtable" e.subs
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" E.pc
+Substitution2: "'fina' Terminal Forms in Latin lookup 26 subtable" e.fina
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" e.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" e.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" e.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" e.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" e.subs
+Comment: "+AAoA-e+AAoA"
 EndChar

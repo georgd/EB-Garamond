@@ -1,11 +1,42 @@
 StartChar: parenleft.ordn
-Encoding: 65818 -1 1410
-Width: 204
-VWidth: 280
-Flags: MW
+Encoding: 1203 -1 1202
+GlifName: parenleft.ordn
+Width: 195
+VWidth: 0
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+124 441 m 256
+ 93 339 116 199 146 156 c 256
+ 148 153 151 152 155 152 c 256
+ 160 152 166 154 170 158 c 256
+ 174 162 176 166 174 168 c 257
+ 144 211 132 347 163 449 c 256
+ 194 551 278 646 334 689 c 257
+ 336 690 336 692 337 694 c 256
+ 338 696 338 698 337 699 c 257
+ 335 702 332 703 328 703 c 256
+ 321 703 313 699 308 696 c 257
+ 252 653 155 543 124 441 c 256
+EndSplineSet
 Fore
-Refer: 1206 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+162 153 m 256
+ 173 153 173 160 170 165 c 256
+ 153 195 143 254 144 319 c 256
+ 147 470 217 600 334 689 c 256
+ 336 690 338 693 338 695 c 256
+ 338 701 333 703 328 703 c 256
+ 321 703 313 699 308 696 c 256
+ 201 614 105 472 109 330 c 256
+ 109 265 128 153 162 153 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-parenleft.ordn+AAoA"
 EndChar

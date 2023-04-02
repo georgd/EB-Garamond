@@ -1,19 +1,25 @@
 StartChar: uni02CC
-Encoding: 716 716 2245
+Encoding: 1894 716 1893
 GlifName: uni02C_C_
-Width: 155
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-50 7 m 18
- 50 15 83 30 92 30 c 0
- 100 30 105 22 105 14 c 10
- 105 -152 l 18
- 105 -159 82 -177 63 -177 c 16
- 55 -177 50 -167 50 -158 c 10
- 50 7 l 18
-EndSplineSet
-Validated: 1
+Refer: 1889 712 N 1 0 0 1 0 -677 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni02C8
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni02C8
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni02CC+AAoA"
 EndChar

@@ -1,0 +1,35 @@
+StartChar: Ghestroke-cy
+Encoding: 159 1170 159
+GlifName: G_hestroke-cy
+Width: 534
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 430 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+68 281 m 258
+ 392 281 l 258
+ 415 281 437 302 446 319 c 257
+ 447 321 448 322 449 324 c 256
+ 454 333 445 343 432 343 c 258
+ 93 343 l 258
+ 76 343 60 330 54 312 c 256
+ 49 298 51 281 68 281 c 258
+EndSplineSet
+Refer: 1946 1043 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni0413
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni0413
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+EndChar

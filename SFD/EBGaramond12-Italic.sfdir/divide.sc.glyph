@@ -1,11 +1,35 @@
 StartChar: divide.sc
-Encoding: 66188 -1 1780
-Width: 590
+Encoding: 723 -1 722
+GlifName: divide.sc
+Width: 500
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1023 247 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+100 231 m 258
+ 419 231 l 258
+ 437 231 449 253 449 272 c 256
+ 449 277 442 282 437 282 c 258
+ 109 282 l 258
+ 89 282 86 249 86 241 c 256
+ 86 236 93 231 100 231 c 258
+270 67 m 256
+ 296 67 317 88 317 114 c 256
+ 317 140 296 161 270 161 c 256
+ 245 161 223 140 223 114 c 256
+ 223 88 245 67 270 67 c 256
+269 352 m 256
+ 295 352 316 373 316 399 c 256
+ 316 425 295 446 269 446 c 256
+ 244 446 222 425 222 399 c 256
+ 222 373 244 352 269 352 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-divide.sc+AAoA"
 EndChar

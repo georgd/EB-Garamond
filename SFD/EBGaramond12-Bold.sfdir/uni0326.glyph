@@ -1,0 +1,40 @@
+StartChar: uni0326
+Encoding: 1996 806 1995
+GlifName: uni0326
+Width: 0
+VWidth: 0
+AnchorPoint: "bottom" -10 -30 mark 0
+LayerCount: 2
+Back
+SplineSet
+-41 -275 m 256
+ -7 -275 67 -232 67 -158 c 256
+ 67 -98 27 -57 -21 -57 c 256
+ -48 -57 -66 -74 -66 -97 c 256
+ -66 -124 -52 -135 -28 -141 c 256
+ 0 -148 15 -155 15 -183 c 256
+ 15 -210 -4 -241 -40 -253 c 256
+ -49 -256 -54 -261 -54 -266 c 256
+ -54 -271 -49 -275 -41 -275 c 256
+EndSplineSet
+Fore
+SplineSet
+-44 -293 m 256
+ -15 -293 82 -245 82 -151 c 256
+ 82 -92 43 -49 -17 -49 c 256
+ -59 -49 -82 -71 -82 -97 c 256
+ -82 -128 -68 -142 -44 -148 c 256
+ -15 -155 0 -167 0 -196 c 256
+ 0 -230 -25 -251 -52 -263 c 256
+ -63 -268 -67 -272 -67 -280 c 256
+ -67 -288 -61 -293 -44 -293 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0326+AAoA"
+EndChar

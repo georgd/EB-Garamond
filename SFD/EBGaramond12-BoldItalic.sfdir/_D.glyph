@@ -1,0 +1,77 @@
+StartChar: D
+Encoding: 68 68 68
+GlifName: D_
+Width: 729
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 290 -30 basechar 0
+AnchorPoint: "top.cap" 454 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+303 -7 m 256
+ 543 -7 752 176 752 371 c 256
+ 752 515 645 654 454 654 c 256
+ 384 654 343 650 304 650 c 256
+ 264 650 200 655 156 655 c 256
+ 148 655 136 649 133 640 c 256
+ 129 628 134 621 145 618 c 256
+ 193 605 203 596 191 551 c 258
+ 50 97 l 258
+ 37 56 19 46 -35 34 c 256
+ -48 31 -57 24 -61 12 c 256
+ -64 3 -56 -3 -48 -3 c 256
+ -4 -3 66 4 106 4 c 256
+ 132 4 223 -7 303 -7 c 256
+302 31 m 257
+ 263 31 210 53 230 119 c 258
+ 365 563 l 258
+ 377 601 402 615 449 615 c 256
+ 532 615 578 556 578 375 c 256
+ 578 227 474 31 302 31 c 257
+EndSplineSet
+Fore
+SplineSet
+303 -7 m 256
+ 544 -7 742 175 742 385 c 256
+ 742 529 641 654 454 654 c 256
+ 384 654 343 650 304 650 c 256
+ 264 650 200 655 156 655 c 256
+ 148 655 136 649 133 640 c 256
+ 129 628 134 621 145 618 c 256
+ 193 605 203 596 191 551 c 258
+ 50 97 l 258
+ 37 56 19 46 -35 34 c 256
+ -48 31 -57 24 -61 12 c 256
+ -64 3 -56 -3 -48 -3 c 256
+ -4 -3 66 4 106 4 c 256
+ 132 4 223 -7 303 -7 c 256
+302 31 m 256
+ 263 31 210 53 230 119 c 258
+ 365 572 l 258
+ 374 604 396 615 434 615 c 256
+ 512 615 568 559 568 402 c 256
+ 568 223 436 31 302 31 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|H-15
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VO
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" D.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" D.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" D.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" D.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" D.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" D.subs
+Comment: "+AAoA-D+AAoA"
+EndChar

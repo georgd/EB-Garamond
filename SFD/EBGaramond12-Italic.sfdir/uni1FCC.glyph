@@ -1,10 +1,26 @@
 StartChar: uni1FCC
-Encoding: 8140 8140 2448
-Width: 788
+Encoding: 2585 8140 2584
+GlifName: uni1F_C_C_
+Width: 751
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 305 -30 basechar 0
+AnchorPoint: "bottomgreek" 310 -30 basechar 0
+AnchorPoint: "top.cap" 511 675 basechar 0
+AnchorPoint: "topgreek" 8 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 635 919 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" Eta
+Refer: 126 919 N 1 0 0 1 0 0 2
+Refer: 1901 837 N 1 0 0 1 405 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VEta
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni1FCC+AAoA"
 EndChar

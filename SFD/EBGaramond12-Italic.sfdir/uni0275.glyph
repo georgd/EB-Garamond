@@ -1,28 +1,35 @@
 StartChar: uni0275
-Encoding: 629 629 1997
-Width: 432
+Encoding: 1733 629 1732
+GlifName: uni0275
+Width: 380
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom" 104 -30 basechar 0
+AnchorPoint: "top" 278 440 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-347 414 m 0
- 448 414 498 321 465 213 c 0
- 429 96 329 -14 199 -14 c 0
- 102 -14 51 70 87 187 c 0
- 121 298 240 414 347 414 c 0
-172 227 m 1
- 173 226 l 2
- 394 226 l 1
- 408 307 386 383 323 383 c 0
- 292 383 265 374 235 343 c 0
- 206 313 186 269 172 227 c 1
-384 191 m 2
- 162 191 l 1
- 140 99 160 16 224 16 c 0
- 262 16 302 32 331 71 c 0
- 354 102 372 150 384 189 c 0
- 384 191 l 2
-EndSplineSet
-Validated: 33
+Refer: 2075 1257 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.annotations
+p1
+(lp2
+(dp3
+Vposition
+p4
+(lp5
+I-47
+aI562
+asVtype
+p6
+VText
+p7
+sVwidth
+p8
+I100
+sasVpublic.markColor
+p9
+V0.67,0.95,0.38,1
+p10
+s."
+Comment: "+AAoA-uni0275+AAoA"
 EndChar

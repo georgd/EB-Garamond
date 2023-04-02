@@ -1,37 +1,29 @@
 StartChar: guillemotright
-Encoding: 187 187 96
-Width: 533
+Encoding: 953 187 952
+GlifName: guillemotright
+Width: 580
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-129 32 m 0
- 120 19 113 14 107 14 c 0
- 103 14 100 20 100 29 c 0
- 100 57 160 147 210 203 c 0
- 212 205 213 207 213 208 c 0
- 212 209 212 210 210 212 c 0
- 158 270 99 356 99 389 c 0
- 99 397 101 400 104 400 c 0
- 112 400 120 388 124 382 c 0
- 172 316 212 279 283 218 c 0
- 285 217 285 214 285 209 c 0
- 285 197 279 182 272 177 c 0
- 231 150 177 101 129 32 c 0
-277 32 m 0
- 268 19 262 14 256 14 c 0
- 252 14 249 20 249 29 c 0
- 249 57 308 147 358 203 c 0
- 360 205 362 207 362 208 c 0
- 361 209 360 210 358 212 c 0
- 306 270 248 356 248 389 c 0
- 248 397 249 400 252 400 c 0
- 260 400 269 388 273 382 c 0
- 321 316 360 279 431 218 c 0
- 433 217 434 214 434 209 c 0
- 434 197 428 182 421 177 c 0
- 380 150 325 101 277 32 c 0
-EndSplineSet
-Substitution2: "guillemet_var subtable" guillemotright.alt
+Refer: 949 171 N -1 0 0 1 580 0 2
+Validated: 17
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|guilsinglleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|guilsinglleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Kerns2: 477 -45 "'kern' Horizontal Kerning lookup 0 subtable" 3189 -35 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" guillemotright.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" guillemotright.sc
+Comment: "+AAoA-guillemotright+AAoA"
 EndChar

@@ -1,11 +1,36 @@
 StartChar: J.pc
-Encoding: 1115178 -1 2956
+Encoding: 214 -1 214
 GlifName: J_.pc
-Width: 315
+Width: 286
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2982 -1 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+26 -175 m 256
+ 53 -175 95 -162 124 -132 c 256
+ 175 -78 178 -23 178 72 c 258
+ 178 331 l 258
+ 178 358 191 373 218 378 c 256
+ 230 380 241 386 241 396 c 256
+ 241 404 229 405 221 405 c 256
+ 181 405 176 400 141 400 c 256
+ 107 400 109 405 69 405 c 256
+ 62 405 49 404 49 396 c 256
+ 49 386 60 380 72 378 c 256
+ 97 374 109 360 109 331 c 258
+ 109 -17 l 258
+ 109 -90 96 -136 59 -136 c 256
+ 47 -136 38 -124 27 -115 c 256
+ 15 -104 6 -95 -9 -95 c 256
+ -21 -95 -50 -118 -50 -137 c 256
+ -50 -152 -11 -175 26 -175 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-J.pc+AAoA"
 EndChar

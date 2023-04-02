@@ -1,12 +1,21 @@
 StartChar: itilde
-Encoding: 297 297 216
-Width: 274
+Encoding: 997 297 996
+GlifName: itilde
+Width: 294
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 88 -30 basechar 0
+AnchorPoint: "top" 220 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 111 771 N 1 0 0 1 80 0 2
-Refer: 2483 -1 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" itilde.sc
-MultipleSubs2: "CCMP_Precomp subtable" i.dotless tildecomb
+Refer: 733 305 N 1 0 0 1 0 0 2
+Refer: 1413 771 N 1 0 0 1 146 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" itilde.sc
+Comment: "+AAoA-itilde+AAoA"
 EndChar

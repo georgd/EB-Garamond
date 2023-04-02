@@ -1,10 +1,19 @@
 StartChar: uni04E5
-Encoding: 1253 1253 1976
-Width: 498
+Encoding: 2072 1253 2071
+GlifName: uni04E_5
+Width: 509
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 167 -30 basechar 0
+AnchorPoint: "top" 329 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 624 776 N 1 0 0 1 260 0 2
-Refer: 1939 1080 N 1 0 0 1 0 0 3
+Refer: 1480 252 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni04E5+AAoA"
 EndChar

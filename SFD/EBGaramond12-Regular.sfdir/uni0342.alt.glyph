@@ -1,24 +1,26 @@
 StartChar: uni0342.alt
-Encoding: 1114991 -1 2698
+Encoding: 2033 -1 2032
 GlifName: uni0342.alt
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 112 521 mark 0
-AnchorPoint: "grk_top" 112 533 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-37 498 m 0
- 34 489 30 477 20 477 c 0
- 10 477 5 488 5 501 c 0
- 5 545 42 601 112 601 c 0
- 182 601 219 546 219 501 c 0
- 219 488 214 477 204 477 c 0
- 194 477 190 488 187 498 c 0
- 180 519 153 541 112 541 c 0
- 71 541 45 519 37 498 c 0
+-92 477 m 256
+ -82 477 -78 489 -75 498 c 257
+ -67 519 -41 541 0 541 c 256
+ 41 541 69 519 75 498 c 256
+ 78 488 82 477 92 477 c 256
+ 102 477 107 488 107 501 c 256
+ 107 546 70 601 0 601 c 256
+ -70 601 -107 545 -107 501 c 256
+ -107 488 -102 477 -92 477 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" uni0342.altsc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0342.alt+AAoA"
 EndChar

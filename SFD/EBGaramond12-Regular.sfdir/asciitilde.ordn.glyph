@@ -1,12 +1,43 @@
 StartChar: asciitilde.ordn
-Encoding: 1114495 -1 1494
+Encoding: 568 -1 567
 GlifName: asciitilde.ordn
-Width: 500
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+Width: 376
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+49 426 m 257
+ 61 440 101 461 118 461 c 256
+ 137 461 159 453 180 444 c 256
+ 203 434 225 425 244 425 c 256
+ 281 425 328 482 338 502 c 257
+ 338 508 333 516 330 516 c 256
+ 321 516 291 480 253 480 c 256
+ 232 480 213 486 196 494 c 256
+ 172 505 151 516 131 516 c 256
+ 109 516 38 468 38 438 c 256
+ 38 433 46 423 49 426 c 257
+EndSplineSet
 Fore
-Refer: 1292 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+49 426 m 257
+ 61 440 101 461 118 461 c 256
+ 137 461 159 453 180 444 c 256
+ 203 434 225 425 244 425 c 256
+ 281 425 328 482 338 502 c 257
+ 338 508 333 516 330 516 c 256
+ 321 516 291 480 253 480 c 256
+ 232 480 213 486 196 494 c 256
+ 172 505 151 516 131 516 c 256
+ 103 516 38 475 38 438 c 256
+ 38 433 46 423 49 426 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-asciitilde.ordn+AAoA"
 EndChar

@@ -1,13 +1,47 @@
 StartChar: uni1F73
-Encoding: 8051 8051 2555
+Encoding: 2665 8051 2664
 GlifName: uni1F_73
 Width: 334
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 188 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+190 498 m 256
+ 211 534 261 632 261 642 c 256
+ 261 658 242 683 223 683 c 256
+ 215 683 201 677 198 665 c 256
+ 188 629 157 507 157 489 c 256
+ 157 480 157 476 166 476 c 256
+ 174 476 184 488 190 498 c 256
+304 99 m 256
+ 304 112 302 116 294 116 c 256
+ 288 116 248 52 161 52 c 256
+ 115 52 85 79 85 100 c 256
+ 85 151 175 180 215 180 c 256
+ 238 180 270 204 270 232 c 256
+ 270 248 253 261 228 261 c 256
+ 200 261 147 216 127 216 c 256
+ 110 216 95 230 95 252 c 256
+ 95 315 144 348 221 348 c 256
+ 251 348 268 359 268 381 c 256
+ 268 403 251 412 224 412 c 256
+ 130 412 45 346 45 268 c 256
+ 45 220 68 208 95 195 c 256
+ 105 190 102 184 93 177 c 257
+ 83 170 45 137 45 81 c 256
+ 45 26 99 -14 156 -14 c 256
+ 235 -14 304 32 304 99 c 256
+EndSplineSet
 Fore
-Refer: 2704 -1 N 1 0 0 1 143 20 2
-Refer: 2116 949 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" epsilon acutecomb.grk
+Refer: 812 949 N 1 0 0 1 0 0 2
+Refer: 515 -1 N 1 0 0 1 200 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1F73+AAoA"
 EndChar

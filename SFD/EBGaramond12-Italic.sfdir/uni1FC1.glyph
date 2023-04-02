@@ -1,12 +1,19 @@
 StartChar: uni1FC1
-Encoding: 8129 8129 567
-Width: 364
+Encoding: 2575 8129 2574
+GlifName: uni1F_C_1
+Width: 300
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 232 440 mark 0
 LayerCount: 2
 Fore
-Refer: 2098 834 N 1 0 0 1 40 -268 2
-Refer: 624 776 N 1 0 0 1 20 -464 2
-Refer: 2375 -1 N 1 0 0 1 117 0 2
-MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0308 uni0342
+Refer: 718 168 N 1 0 0 1 -4 -15 2
+Refer: 2573 8128 N 1 0 0 1 54 159 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FC1+AAoA"
 EndChar

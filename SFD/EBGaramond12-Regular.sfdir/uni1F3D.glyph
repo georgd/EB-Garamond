@@ -1,14 +1,76 @@
 StartChar: uni1F3D
-Encoding: 7997 7997 2509
+Encoding: 2619 7997 2618
 GlifName: uni1F_3D_
 Width: 558
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 388 -30 basechar 0
+AnchorPoint: "top.cap" 388 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+152 513 m 256
+ 173 549 223 647 223 657 c 256
+ 223 673 204 698 185 698 c 256
+ 177 698 163 692 160 680 c 256
+ 150 644 119 522 119 504 c 256
+ 119 495 119 491 128 491 c 256
+ 136 491 146 503 152 513 c 256
+58 613 m 256
+ 81 617 100 630 100 653 c 256
+ 100 676 77 691 53 691 c 256
+ 6 691 -20 641 -20 594 c 256
+ -20 541 23 497 76 497 c 256
+ 89 497 96 502 96 507 c 256
+ 96 514 87 517 79 521 c 256
+ 52 534 32 552 32 581 c 256
+ 32 597 42 610 58 613 c 256
+348 550 m 258
+ 348 98 l 258
+ 348 51 320 33 270 24 c 256
+ 247 20 237 15 237 6 c 256
+ 237 -2 249 -5 266 -5 c 256
+ 320 -5 344 0 394 0 c 256
+ 440 0 457 -5 511 -5 c 256
+ 528 -5 540 -2 540 6 c 256
+ 540 15 530 20 507 24 c 256
+ 457 33 428 51 428 98 c 258
+ 428 550 l 258
+ 428 597 449 613 499 622 c 256
+ 522 626 532 633 532 642 c 256
+ 532 650 520 653 503 653 c 256
+ 449 653 437 650 394 650 c 256
+ 348 650 331 653 277 653 c 256
+ 260 653 248 650 248 642 c 256
+ 248 633 258 626 281 622 c 256
+ 331 613 348 597 348 550 c 258
+EndSplineSet
 Fore
-Refer: 2712 -1 N 1 0 0 1 105 35 2
-Refer: 2697 -1 N 1 0 0 1 -20 35 2
-Refer: 634 921 N 1 0 0 1 218 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Iota uni0314.grk acutecomb.grkstack
+Refer: 203 921 N 1 0 0 1 218 0 2
+Refer: 2764 8158 N 1 0 0 1 -50 24 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VIota
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VI
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1F3D+AAoA"
 EndChar

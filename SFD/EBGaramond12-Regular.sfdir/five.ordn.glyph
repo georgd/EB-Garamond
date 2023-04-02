@@ -1,12 +1,35 @@
 StartChar: five.ordn
-Encoding: 1114422 -1 1421
+Encoding: 878 -1 877
 GlifName: five.ordn
 Width: 300
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1219 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+74 267 m 256
+ 116 267 155 282 177 294 c 256
+ 213 314 248 346 248 404 c 256
+ 248 487 174 500 101 518 c 256
+ 93 520 87 523 87 530 c 256
+ 87 544 101 558 112 558 c 256
+ 132 558 182 557 212 561 c 256
+ 231 563 244 598 244 602 c 256
+ 244 607 243 612 236 612 c 256
+ 191 612 140 606 101 598 c 256
+ 88 595 81 586 76 574 c 257
+ 70 558 52 511 52 487 c 256
+ 52 475 57 469 67 466 c 256
+ 107 455 188 446 188 384 c 256
+ 188 312 134 292 78 292 c 256
+ 63 292 59 282 59 276 c 256
+ 59 272 64 267 74 267 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-five.ordn+AAoA"
 EndChar

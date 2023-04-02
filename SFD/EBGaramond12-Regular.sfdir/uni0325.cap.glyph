@@ -1,13 +1,30 @@
 StartChar: uni0325.cap
-Encoding: 1114952 -1 2302
+Encoding: 1995 -1 1994
 GlifName: uni0325.cap
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 97 -100 mark 0
-LayerCount: 3
+AnchorPoint: "bottom.cap" 0 -30 mark 0
+LayerCount: 2
+Back
+SplineSet
+43 -140 m 256
+ 43 -114 59 -91 85 -91 c 256
+ 112 -91 133 -113 133 -140 c 256
+ 133 -165 118 -190 93 -190 c 256
+ 65 -190 43 -168 43 -140 c 256
+92 -68 m 256
+ 46 -68 1 -97 1 -143 c 256
+ 1 -186 41 -212 84 -212 c 256
+ 131 -212 175 -182 175 -135 c 256
+ 175 -93 134 -68 92 -68 c 256
+EndSplineSet
 Fore
-Refer: 1010 -1 N 1 0 0 1 0 -912 2
-Validated: 1
-Substitution2: "c2sc subtable" uni0325
+Refer: 1935 -1 N 1 0 0 1 0 -912 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0325.cap+AAoA"
 EndChar

@@ -1,0 +1,53 @@
+StartChar: uni0446
+Encoding: 2005 1094 2004
+GlifName: uni0446
+Width: 615
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 233 -30 basechar 0
+AnchorPoint: "top" 395 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+245 -276 m 256
+ 255 -276 341 -258 383 -233 c 256
+ 443 -197 458 -139 471 -74 c 256
+ 484 -7 500 64 538 103 c 257
+ 446 39 l 257
+ 458 27 l 257
+ 446 20 389 -20 373 -43 c 256
+ 343 -86 326 -119 313 -165 c 256
+ 295 -226 269 -242 239 -253 c 257
+ 233 -256 228 -258 228 -264 c 256
+ 228 -273 237 -276 245 -276 c 256
+EndSplineSet
+Fore
+SplineSet
+245 -276 m 256
+ 255 -276 341 -258 383 -233 c 256
+ 443 -197 458 -139 471 -74 c 256
+ 484 -7 500 64 538 103 c 257
+ 446 39 l 257
+ 459 19 l 257
+ 447 12 393 -28 376 -50 c 256
+ 346 -92 328 -124 315 -168 c 256
+ 296 -227 270 -242 239 -253 c 257
+ 233 -256 228 -258 228 -264 c 256
+ 228 -273 237 -276 245 -276 c 256
+EndSplineSet
+Refer: 1435 117 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vu
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uni0446+AAoA"
+EndChar

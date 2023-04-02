@@ -1,0 +1,69 @@
+StartChar: two.osf
+Encoding: 1428 -1 1427
+GlifName: two.osf
+Width: 483
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+-46 -5 m 256
+ -40 -5 60 0 128 0 c 256
+ 198 0 324 -3 339 -3 c 256
+ 354 -3 362 5 367 19 c 256
+ 372 32 420 113 461 174 c 256
+ 467 185 460 197 449 197 c 256
+ 436 197 420 184 413 175 c 256
+ 382 134 352 111 311 111 c 258
+ 175 111 l 258
+ 165 111 161 114 170 119 c 256
+ 208 140 263 166 315 203 c 256
+ 360 236 406 280 406 336 c 256
+ 406 389 362 437 268 437 c 256
+ 170 437 48 363 48 307 c 256
+ 48 301 50 296 57 296 c 256
+ 68 296 73 300 83 308 c 256
+ 108 329 136 341 161 341 c 256
+ 193 341 226 318 227 280 c 256
+ 230 224 162 144 80 96 c 256
+ 27 65 -14 31 -39 16 c 256
+ -47 11 -51 6 -51 1 c 256
+ -51 -3 -48 -5 -46 -5 c 256
+EndSplineSet
+Fore
+SplineSet
+-17 -5 m 256
+ -11 -5 60 0 128 0 c 256
+ 198 0 324 -3 339 -3 c 256
+ 354 -3 362 5 367 19 c 256
+ 372 32 420 113 461 174 c 256
+ 467 185 460 197 449 197 c 256
+ 436 197 420 184 413 175 c 256
+ 382 134 352 111 311 111 c 258
+ 164 111 l 258
+ 154 111 150 114 159 119 c 256
+ 197 140 258 172 313 206 c 256
+ 360 235 406 280 406 336 c 256
+ 406 389 362 437 268 437 c 256
+ 170 437 48 363 48 307 c 256
+ 48 301 50 296 57 296 c 256
+ 68 296 73 300 83 308 c 256
+ 108 329 136 341 161 341 c 256
+ 193 341 226 318 227 280 c 256
+ 230 223 182 156 80 96 c 256
+ 27 65 1 41 -24 26 c 256
+ -32 21 -36 16 -36 11 c 256
+ -36 7 -25 -5 -17 -5 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 3025 -70 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" two.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" two.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" two.lf
+Comment: "+AAoA-two+AAoA"
+EndChar

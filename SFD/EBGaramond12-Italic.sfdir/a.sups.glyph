@@ -1,11 +1,70 @@
 StartChar: a.sups
-Encoding: 65977 -1 1569
-Width: 270
-VWidth: 167
-Flags: MW
+Encoding: 503 -1 502
+GlifName: a.sups
+Width: 293
+VWidth: 0
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+424 435 m 256
+ 445 435 475 465 477 468 c 256
+ 481 474 476 489 470 482 c 256
+ 465 476 460 475 450 475 c 256
+ 434 475 438 496 443 512 c 258
+ 481 629 l 258
+ 490 655 470 679 443 679 c 256
+ 413 679 365 654 343 638 c 257
+ 325 626 320 616 310 602 c 256
+ 305 595 306 592 310 593 c 256
+ 324 597 355 603 356 610 c 256
+ 357 617 361 628 365 634 c 257
+ 372 641 391 646 405 646 c 256
+ 426 646 433 631 427 612 c 258
+ 420 590 l 258
+ 415 575 414 573 398 567 c 258
+ 322 541 l 258
+ 290 530 279 515 272 491 c 256
+ 265 469 282 435 306 435 c 256
+ 352 435 378 466 386 466 c 256
+ 390 466 392 435 424 435 c 256
+326 507 m 256
+ 330 520 348 538 395 551 c 256
+ 405 554 408 552 405 541 c 257
+ 396 514 l 257
+ 392 500 388 497 383 493 c 257
+ 372 486 359 475 344 475 c 256
+ 333 475 319 486 326 507 c 256
+EndSplineSet
 Fore
-Refer: 1263 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 497 -1 N 1 0 0 1 50 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Va.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Va.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Va.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-a.sups+AAoA"
 EndChar

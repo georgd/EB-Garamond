@@ -1,0 +1,56 @@
+StartChar: Q.sc
+Encoding: 337 -1 336
+GlifName: Q_.sc
+Width: 620
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+302 -10 m 256
+ 483 -10 580 107 580 231 c 256
+ 580 367 453 458 309 458 c 256
+ 128 458 32 342 32 217 c 256
+ 32 81 159 -10 302 -10 c 256
+309 36 m 256
+ 244 36 207 119 207 237 c 256
+ 207 342 238 412 301 412 c 256
+ 368 412 405 329 405 212 c 256
+ 405 106 372 36 309 36 c 256
+EndSplineSet
+Fore
+SplineSet
+651 -229 m 256
+ 708 -229 744 -224 768 -211 c 256
+ 780 -205 788 -198 788 -184 c 256
+ 788 -172 775 -164 755 -164 c 256
+ 742 -164 728 -170 703 -170 c 256
+ 640 -170 502 -56 443 8 c 257
+ 438 13 438 18 440 21 c 257
+ 535 62 590 146 590 231 c 256
+ 590 367 463 458 319 458 c 256
+ 138 458 42 342 42 217 c 256
+ 42 125 96 52 209 12 c 257
+ 232 -1 284 -42 297 -57 c 256
+ 357 -124 512 -229 651 -229 c 256
+319 36 m 256
+ 254 36 217 119 217 237 c 256
+ 217 342 248 412 311 412 c 256
+ 378 412 415 329 415 212 c 256
+ 415 106 382 36 319 36 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo.sc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'ss06' Style Set 6 lookup 35 subtable" q.longsc
+Substitution2: "'swsh' Swash lookup 28 subtable" q.longsc
+Comment: "+AAoA-Q.sc+AAoA"
+EndChar

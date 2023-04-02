@@ -1,11 +1,18 @@
 StartChar: zdotaccent.sc
-Encoding: 66321 -1 1913
-Width: 456
+Encoding: 3042 -1 3041
+GlifName: zdotaccent.sc
+Width: 483
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 333 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2458 -1 N 1 0 0 1 319 30 2
-Refer: 1696 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 492 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-zdotaccent.sc+AAoA"
 EndChar

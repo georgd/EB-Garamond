@@ -1,24 +1,43 @@
 StartChar: tildecomb.stack
-Encoding: 66411 -1 2112
+Encoding: 1418 -1 1417
+GlifName: tildecomb.stack
 Width: 0
-Flags: MW
-AnchorPoint: "top_stack" 139 473 mark 0
-AnchorPoint: "top_stack" 169 600 basemark 0
-AnchorPoint: "gravestack" 180 590 basemark 0
-AnchorPoint: "acutestack" 185 590 basemark 0
-AnchorPoint: "top_accent" 165 550 mark 0
+VWidth: 0
 LayerCount: 2
+Back
+SplineSet
+-25 458 m 256
+ -17 458 7 490 32 490 c 256
+ 57 490 119 464 144 464 c 256
+ 169 464 229 526 229 536 c 256
+ 229 546 223 553 213 553 c 256
+ 205 553 191 520 156 520 c 256
+ 131 520 74 547 49 547 c 256
+ 24 547 -39 488 -39 478 c 256
+ -39 468 -35 458 -25 458 c 256
+EndSplineSet
 Fore
 SplineSet
-19 458 m 0
- 9 458 5 468 5 478 c 0
- 5 488 68 547 93 547 c 0
- 118 547 175 520 200 520 c 0
- 235 520 249 553 257 553 c 0
- 267 553 273 546 273 536 c 0
- 273 526 213 464 188 464 c 0
- 163 464 101 490 76 490 c 0
- 51 490 27 458 19 458 c 0
+-19 467 m 256
+ -15 467 -5 479 4 487 c 256
+ 15 497 25 503 39 503 c 256
+ 75 503 134 495 150 495 c 256
+ 154 495 171 499 179 509 c 256
+ 192 525 207 544 223 560 c 256
+ 231 568 239 575 239 579 c 256
+ 239 589 230 596 220 596 c 256
+ 216 596 212 590 199 577 c 256
+ 189 567 173 555 158 555 c 256
+ 140 555 124 557 102 559 c 256
+ 83 561 73 564 51 564 c 256
+ 26 564 -35 492 -35 482 c 256
+ -35 472 -29 467 -19 467 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-tildecomb.stack+AAoA"
 EndChar

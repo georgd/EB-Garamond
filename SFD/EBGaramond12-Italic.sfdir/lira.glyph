@@ -1,0 +1,40 @@
+StartChar: lira
+Encoding: 1050 8356 1049
+GlifName: lira
+Width: 499
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+89 317 m 258
+ 383 337 l 258
+ 399 338 420 352 421 359 c 256
+ 422 364 419 371 412 371 c 258
+ 110 351 l 258
+ 96 350 82 338 79 329 c 256
+ 77 323 82 317 89 317 c 258
+57 217 m 258
+ 351 237 l 258
+ 367 238 388 252 389 259 c 256
+ 390 264 387 271 380 271 c 258
+ 78 251 l 258
+ 64 250 50 238 47 229 c 256
+ 45 223 50 217 57 217 c 258
+EndSplineSet
+Refer: 239 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vsterling
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vsterling
+p4
+sVpublic.markColor
+p5
+V0.98,0.36,0.67,1
+p6
+s."
+EndChar

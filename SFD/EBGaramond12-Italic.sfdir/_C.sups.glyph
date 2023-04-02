@@ -1,11 +1,39 @@
 StartChar: C.sups
-Encoding: 65947 -1 1539
-Width: 432
-VWidth: 440
-Flags: MW
+Encoding: 49 -1 49
+GlifName: C_.sups
+Width: 424
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1233 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 44 -1 N 1 0 0 1 49 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VC.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VC.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VC.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-C.sups+AAoA"
 EndChar

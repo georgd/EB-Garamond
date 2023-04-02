@@ -1,36 +1,42 @@
 StartChar: nine
-Encoding: 57 57 70
-Width: 470
+Encoding: 1151 57 1150
+GlifName: nine
+Width: 540
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-251 414 m 0
- 350 414 431 328 431 208 c 0
- 431 92 357 3 302 -50 c 0
- 246 -104 123 -179 53 -189 c 1
- 48 -189 l 2
- 44 -189 40 -189 40 -181 c 0
- 40 -171 47 -168 53 -166 c 0
- 103 -148 205 -55 242 1 c 0
- 274 49 309 114 309 225 c 0
- 309 305 271 373 220 373 c 0
- 175 373 154 311 154 265 c 0
- 154 207 185 143 222 143 c 0
- 251 143 259 157 277 169 c 0
- 280 171 289 160 283 153 c 1
- 276 140 262 126 252 118 c 0
- 238 107 201 85 167 85 c 0
- 104 85 48 138 48 213 c 0
- 48 307 128 414 251 414 c 0
-EndSplineSet
-Substitution2: "'tnum' Tabular Numbers lookup 32 subtable" nine.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 30 subtable" nine.lnum
-Substitution2: "Single Substitution lookup 29 subtable" nine.ordn
-Substitution2: "Single Substitution lookup 28 subtable" nine.subs
-Substitution2: "sups subtable" nine.sups
-Substitution2: "sinf subtable" nine.sinf
-Substitution2: "ordn subtable" nine.ordn
-Substitution2: "subs subtable" nine.subs
+Refer: 1152 -1 N 1 0 0 1 10 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vnine.lf
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" nine.lf
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" nine.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" nine.sc
+Substitution2: "'onum' Oldstyle Figures lookup 19 subtable" nine.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 17 subtable" nine.lf
+Substitution2: "'ordn' Ordinals lookup 15 subtable" nine.ordn
+Substitution2: "UP subtable" nine.numr
+Substitution2: "'sups' Superscript lookup 9 subtable" ninesuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" nineinferior
+Substitution2: "'subs' Subscript lookup 7 subtable" nine.subs
+Comment: "+AAoA-nine.tablining+AAoA"
 EndChar

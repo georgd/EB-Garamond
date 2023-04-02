@@ -1,31 +1,64 @@
 StartChar: uni0259
-Encoding: 601 601 1994
-Width: 365
-Flags: HMW
-AnchorPoint: "top_accent" 316 550 basechar 0
-AnchorPoint: "below_accent" 94 -100 basechar 0
-AnchorPoint: "ogonek" 212 18 basechar 0
-AnchorPoint: "cedilla" 168 8 basechar 0
+Encoding: 1723 601 1722
+GlifName: uni0259
+Width: 341
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 241 430 basechar 0
+AnchorPoint: "top" 74 -40 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
-131 14 m 0
- 186 14 268 117 268 147 c 0
- 268 153 266 153 261 153 c 0
- 231 153 103 126 103 46 c 0
- 103 28 111 14 131 14 c 0
-290 414 m 0
- 329 414 375 377 375 301 c 0
- 375 181 273 -15 116 -15 c 0
- 62 -15 42 7 42 48 c 0
- 42 128 201 182 271 182 c 0
- 279 182 282 184 286 192 c 0
- 300 222 303 245 303 287 c 0
- 303 337 287 364 253 364 c 0
- 205 364 165 327 145 301 c 0
- 139 293 132 290 127 290 c 0
- 121 290 117 294 117 300 c 0
- 117 302 117 305 119 308 c 0
- 159 373 220 414 290 414 c 0
+96 -15 m 256
+ 230 -15 340 167 341 294 c 256
+ 341 352 297 414 235 414 c 256
+ 170 414 112 373 72 308 c 257
+ 70 305 70 302 70 300 c 256
+ 70 294 74 290 80 290 c 256
+ 85 290 92 293 98 301 c 256
+ 118 327 158 364 206 364 c 256
+ 240 364 268 337 268 287 c 256
+ 268 245 265 220 250 190 c 256
+ 246 182 243 180 235 180 c 256
+ 152 180 -6 177 -6 60 c 256
+ -6 28 32 -15 96 -15 c 256
+110 12 m 256
+ 75 12 59 51 59 85 c 256
+ 59 159 182 157 233 157 c 256
+ 238 157 242 157 240 151 c 256
+ 221 84 167 12 110 12 c 256
 EndSplineSet
+Fore
+Refer: 738 101 N -1 0 0 -1 341 400 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|e
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|e
+p4
+sVcom.schriftgestaltung.annotations
+p5
+(lp6
+(dp7
+Vposition
+p8
+(lp9
+F174.393
+aF251.101
+asVtype
+p10
+VText
+p11
+sVwidth
+p12
+I100
+sasVpublic.markColor
+p13
+V0.67,0.95,0.38,1
+p14
+s."
+Comment: "+AAoA-uni0259+AAoA"
 EndChar

@@ -1,12 +1,20 @@
 StartChar: Zeta
-Encoding: 918 918 632
+Encoding: 493 918 492
 GlifName: Z_eta
 Width: 603
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 302 -30 basechar 0
+AnchorPoint: "top.cap" 315 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 64 90 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Zeta.sc
+Refer: 478 90 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Zeta.sc
+Comment: "+AAoA-Zeta+AAoA"
 EndChar

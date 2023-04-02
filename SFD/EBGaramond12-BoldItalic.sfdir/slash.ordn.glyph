@@ -1,0 +1,35 @@
+StartChar: slash.ordn
+Encoding: 1368 -1 1367
+GlifName: slash.ordn
+Width: 268
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+62 274 m 256
+ 77 270 93 268 103 281 c 258
+ 374 632 l 258
+ 379 638 375 649 361 652 c 256
+ 345 655 331 657 320 643 c 258
+ 49 293 l 258
+ 43 286 50 277 62 274 c 256
+EndSplineSet
+Fore
+SplineSet
+45 245 m 256
+ 61 245 77 246 88 261 c 258
+ 398 664 l 258
+ 403 671 400 681 386 681 c 256
+ 369 681 348 679 336 663 c 258
+ 25 261 l 258
+ 19 253 33 245 45 245 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-slash.ordn+AAoA"
+EndChar

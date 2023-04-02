@@ -1,49 +1,52 @@
 StartChar: at
-Encoding: 64 64 110
-Width: 690
+Encoding: 579 64 578
+GlifName: at
+Width: 788
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-489 139 m 2
- 488 130 487 121 487 113 c 0
- 487 100 489 86 496 86 c 0
- 534 86 568 140 568 220 c 0
- 568 356 473 464 361 464 c 0
- 233 464 122 357 122 191 c 0
- 122 35 232 -89 361 -89 c 0
- 414 -89 488 -54 528 -12 c 0
- 533 -7 539 -2 543 -2 c 0
- 550 -2 555 -6 555 -18 c 0
- 555 -46 431 -135 338 -135 c 0
- 184 -135 49 -8 49 180 c 0
- 49 398 208 510 381 510 c 0
- 516 510 641 388 641 235 c 0
- 641 114 551 44 455 44 c 0
- 418 44 414 81 406 81 c 0
- 397 81 359 44 303 44 c 0
- 244 44 196 83 196 156 c 0
- 196 281 292 358 395 358 c 0
- 414 358 445 354 456 350 c 0
- 470 345 474 344 478 344 c 0
- 487 344 491 363 501 363 c 0
- 504 363 517 361 519 355 c 0
- 520 353 519 350 519 350 c 1
- 513 325 505 287 503 271 c 2
- 489 139 l 2
-371 322 m 0
- 339 322 305 270 305 175 c 0
- 305 106 329 83 349 83 c 0
- 362 83 370 91 381 105 c 1
- 389 113 395 123 399 153 c 2
- 411 256 l 2
- 412 259 411 262 411 266 c 0
- 411 300 395 322 371 322 c 0
+402 -158 m 256
+ 522 -158 689 -63 689 -29 c 256
+ 689 -17 680 -10 662 -10 c 256
+ 652 -10 637 -20 625 -28 c 256
+ 570 -66 476 -96 414 -96 c 256
+ 247 -96 104 31 104 196 c 256
+ 104 371 249 481 415 481 c 256
+ 578 481 683 379 683 226 c 256
+ 683 144 621 94 551 94 c 256
+ 537 94 533 108 533 123 c 256
+ 533 132 535 140 536 148 c 257
+ 560 285 l 258
+ 564 306 576 355 588 386 c 257
+ 588 394 558 397 553 397 c 256
+ 540 397 535 370 523 370 c 256
+ 518 370 505 376 494 379 c 256
+ 478 383 446 390 421 390 c 256
+ 287 390 177 296 177 148 c 256
+ 177 64 241 17 323 17 c 256
+ 399 17 452 64 464 64 c 256
+ 476 64 487 22 547 22 c 256
+ 651 22 758 116 758 244 c 256
+ 758 417 606 543 429 543 c 256
+ 216 543 30 420 30 185 c 256
+ 30 -18 204 -158 402 -158 c 256
+364 75 m 256
+ 328 75 286 106 286 181 c 256
+ 286 282 338 342 394 342 c 256
+ 434 342 467 314 467 276 c 256
+ 467 271 467 266 466 264 c 257
+ 444 147 l 258
+ 439 117 432 104 420 95 c 256
+ 402 82 386 75 364 75 c 256
 EndSplineSet
-Substitution2: "at_alternates subtable" at.01
-Substitution2: "sups subtable" at.sups
-Substitution2: "sinf subtable" at.sinf
-Substitution2: "ordn subtable" at.ordn
-Substitution2: "subs subtable" at.subs
+Validated: 9
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" at.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" at.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" at.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" at.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" at.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" at.subs
+Comment: "+AAoA-at+AAoA"
 EndChar

@@ -1,0 +1,44 @@
+StartChar: eight.osf
+Encoding: 772 -1 771
+GlifName: eight.osf
+Width: 407
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+125 -13 m 256
+ 213 -13 325 68 325 148 c 256
+ 325 194 299 246 270 300 c 256
+ 268 304 269 307 273 310 c 256
+ 393 394 440 439 440 500 c 256
+ 440 551 396 589 345 589 c 256
+ 257 589 155 510 155 420 c 256
+ 155 371 171 335 187 298 c 256
+ 189 293 188 288 184 285 c 256
+ 61 195 25 145 25 80 c 256
+ 25 27 72 -13 125 -13 c 256
+160 24 m 256
+ 120 24 95 62 95 102 c 256
+ 95 147 111 195 201 263 c 256
+ 205 266 210 266 212 262 c 257
+ 236 220 255 170 255 110 c 256
+ 255 35 198 24 160 24 c 256
+261 335 m 256
+ 257 332 253 333 251 338 c 257
+ 233 378 215 421 215 460 c 256
+ 215 513 268 555 311 555 c 256
+ 366 555 380 520 380 480 c 256
+ 380 433 360 407 261 335 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" eight.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" eight.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" eight.lf
+Comment: "+AAoA-eight+AAoA"
+EndChar

@@ -1,22 +1,18 @@
 StartChar: lslash.sc
-Encoding: 66263 -1 1855
-Width: 424
+Encoding: 1076 -1 1075
+GlifName: lslash.sc
+Width: 470
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 253 503 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-93 164 m 2
- 92 163 89 163 88 163 c 0
- 82 163 78 168 78 173 c 0
- 78 182 84 196 99 203 c 2
- 346 304 l 2
- 348 305 350 306 352 306 c 0
- 357 306 359 303 359 298 c 0
- 359 285 349 268 332 261 c 2
- 93 164 l 2
-EndSplineSet
-Refer: 1682 -1 N 1 0 0 1 0 0 2
-Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=65 dv=0
-Comment: "."
+Refer: 252 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-lslash.sc+AAoA"
 EndChar

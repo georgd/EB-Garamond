@@ -1,0 +1,28 @@
+StartChar: parenright
+Encoding: 1208 41 1207
+GlifName: parenright
+Width: 298
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1201 40 N -1 0 0 -1 319 491 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|parenleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|parenleft
+p4
+s."
+Substitution2: "'ss04' Style Set 4 in Latin lookup 35 subtable" uni2767
+Substitution2: "'ss02' Style Set 2 in Latin lookup 32 subtable" uni261E
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" parenright.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" parenright.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" parenright.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" parenright.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" parenright.subs
+Comment: "+AAoA-parenright+AAoA"
+EndChar

@@ -1,28 +1,18 @@
 StartChar: uni0237
-Encoding: 567 567 344
+Encoding: 1752 567 1751
 GlifName: uni0237
-Width: 212
+Width: 226
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 100 550 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 116 440 basechar 0
+LayerCount: 2
 Fore
-SplineSet
-144 275 m 2
- 144 91 l 2
- 144 29 143 -72 114 -152 c 0
- 89 -220 26 -287 -14 -287 c 0
- -21 -287 -35 -284 -35 -277 c 0
- -35 -269 -26 -261 -24 -260 c 0
- 0 -254 23 -237 42 -197 c 0
- 71 -136 71 0 71 69 c 2
- 71 279 l 2
- 71 315 59 345 25 352 c 0
- 20 353 17 359 17 365 c 0
- 17 370 20 376 24 377 c 0
- 91 393 136 434 144 434 c 0
- 148 434 151 432 151 429 c 0
- 147 388 144 320 144 275 c 2
-EndSplineSet
-Validated: 1
+Refer: 1031 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0237+AAoA"
 EndChar

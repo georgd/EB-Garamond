@@ -1,27 +1,63 @@
 StartChar: greater.sc
-Encoding: 1114633 -1 1632
+Encoding: 945 -1 944
 GlifName: greater.sc
-Width: 590
+Width: 467
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+139 42 m 256
+ 148 42 187 45 187 66 c 258
+ 187 218 l 258
+ 187 221 188 222 191 222 c 258
+ 326 222 l 258
+ 345 222 357 245 357 262 c 256
+ 357 268 351 272 344 272 c 258
+ 189 272 l 258
+ 187 272 187 273 187 278 c 258
+ 187 419 l 258
+ 187 426 180 432 173 432 c 256
+ 167 432 127 423 127 401 c 258
+ 127 280 l 258
+ 127 274 126 272 120 272 c 258
+ -19 272 l 258
+ -37 272 -43 243 -43 234 c 256
+ -43 228 -36 222 -29 222 c 258
+ 123 222 l 258
+ 126 222 127 220 127 217 c 258
+ 127 56 l 258
+ 127 49 133 42 139 42 c 256
+EndSplineSet
 Fore
 SplineSet
-457 234 m 2
- 77 408 l 10
- 58 417 53 447 53 456 c 0
- 53 461 58 469 64 469 c 0
- 65 469 66 468 67 468 c 10
- 496 268 l 26
- 513 260 537 247 537 241 c 0
- 537 232 524 204 504 195 c 26
- 67 -5 l 18
- 66 -5 65 -6 64 -6 c 0
- 58 -6 54 -1 54 4 c 0
- 54 16 65 46 85 55 c 18
- 458 229 l 2
- 461 230 460 233 457 234 c 2
+80 424 m 258
+ 73 428 60 428 60 415 c 256
+ 60 406 65 377 84 367 c 258
+ 334 236 l 257
+ 337 235 338 232 335 231 c 257
+ 84 104 l 258
+ 64 94 53 65 53 53 c 256
+ 53 47 56 43 62 43 c 256
+ 63 43 67 44 70 46 c 258
+ 381 197 l 258
+ 401 207 414 234 414 243 c 256
+ 414 249 390 261 373 270 c 258
+ 80 424 l 258
 EndSplineSet
-Validated: 1
-Comment: "."
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vgreater
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vgreater
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-greater.sc+AAoA"
 EndChar

@@ -1,11 +1,18 @@
 StartChar: ograve.sc
-Encoding: 66183 -1 1775
-Width: 524
+Encoding: 1147 -1 1146
+GlifName: ograve.sc
+Width: 585
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 385 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2453 -1 N 1 0 0 1 303 30 2
-Refer: 1685 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 297 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-ograve.sc+AAoA"
 EndChar

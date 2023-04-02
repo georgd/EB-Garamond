@@ -1,13 +1,39 @@
 StartChar: uni1F78
-Encoding: 8056 8056 2560
+Encoding: 2670 8056 2669
 GlifName: uni1F_78
 Width: 400
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 217 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+207 498 m 256
+ 213 488 223 476 231 476 c 256
+ 240 476 240 480 240 489 c 256
+ 240 507 209 629 199 665 c 256
+ 196 677 182 683 174 683 c 256
+ 155 683 136 658 136 642 c 256
+ 136 632 186 534 207 498 c 256
+325 235 m 256
+ 325 141 249 64 155 64 c 256
+ 106 64 75 111 75 160 c 256
+ 75 252 148 334 240 334 c 256
+ 289 334 325 284 325 235 c 256
+175 -14 m 256
+ 285 -14 365 85 365 195 c 256
+ 365 299 319 414 215 414 c 256
+ 104 414 35 306 35 195 c 256
+ 35 97 77 -14 175 -14 c 256
+EndSplineSet
 Fore
-Refer: 2695 -1 N 1 0 0 1 122 20 2
-Refer: 2412 959 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" omicron gravecomb.grk
+Refer: 1203 959 N 1 0 0 1 0 0 2
+Refer: 935 -1 N 1 0 0 1 191 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1F78+AAoA"
 EndChar

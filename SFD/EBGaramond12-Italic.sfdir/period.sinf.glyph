@@ -1,11 +1,25 @@
 StartChar: period.sinf
-Encoding: 65722 -1 1314
-Width: 149
-VWidth: -144
-Flags: MW
+Encoding: 1226 -1 1225
+GlifName: period.sinf
+Width: 156
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1212 -1 N 1 0 0 1 -44 -144 2
-Validated: 1
-Comment: "."
+Refer: 1223 -1 N 1 0 0 1 -131 -423 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vperiod.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vperiod.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-period.sinf+AAoA"
 EndChar

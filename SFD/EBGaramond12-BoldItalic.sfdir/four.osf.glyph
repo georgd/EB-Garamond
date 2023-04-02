@@ -1,0 +1,77 @@
+StartChar: four.osf
+Encoding: 864 -1 863
+GlifName: four.osf
+Width: 539
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+171 -181 m 256
+ 225 -181 312 -154 319 -131 c 258
+ 363 11 l 258
+ 369 26 374 29 384 29 c 256
+ 401 29 428 28 444 28 c 256
+ 452 28 491 89 491 105 c 256
+ 491 109 485 112 478 112 c 256
+ 439 110 428 109 402 111 c 256
+ 399 111 394 115 396 123 c 256
+ 432 238 450 283 487 400 c 256
+ 496 429 493 441 481 441 c 256
+ 464 441 439 429 404 400 c 256
+ 257 277 111 154 -36 31 c 256
+ -37 30 -42 24 -42 23 c 256
+ -44 17 -35 17 -30 17 c 256
+ 37 19 143 25 201 25 c 256
+ 215 25 220 25 215 8 c 258
+ 159 -168 l 258
+ 156 -178 162 -181 171 -181 c 256
+151 112 m 258
+ 146 112 145 115 151 121 c 256
+ 187 152 245 204 279 231 c 256
+ 284 235 286 233 284 226 c 258
+ 250 118 l 258
+ 249 115 245 112 241 112 c 258
+ 151 112 l 258
+EndSplineSet
+Fore
+SplineSet
+181 -181 m 256
+ 235 -181 310 -160 317 -137 c 258
+ 363 11 l 258
+ 368 26 374 29 384 29 c 256
+ 401 29 428 28 444 28 c 256
+ 452 28 491 89 491 105 c 256
+ 491 109 485 112 478 112 c 256
+ 439 110 428 109 402 111 c 256
+ 399 111 394 115 396 123 c 256
+ 432 238 450 283 487 400 c 256
+ 496 429 493 441 481 441 c 256
+ 464 441 439 429 404 400 c 256
+ 257 277 111 154 -36 31 c 256
+ -37 30 -42 24 -42 23 c 256
+ -44 17 -35 17 -30 17 c 256
+ 37 19 153 25 211 25 c 256
+ 225 25 230 25 225 8 c 258
+ 169 -168 l 258
+ 166 -178 172 -181 181 -181 c 256
+141 112 m 258
+ 136 112 135 115 141 121 c 256
+ 175 155 265 229 299 256 c 256
+ 304 260 306 258 304 251 c 258
+ 260 118 l 258
+ 259 115 255 112 251 112 c 258
+ 141 112 l 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 1216 -25 "'kern' Horizontal Kerning lookup 0 subtable" 3025 -90 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" four.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" four.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" four.lf
+Comment: "+AAoA-four+AAoA"
+EndChar

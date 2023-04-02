@@ -1,11 +1,25 @@
 StartChar: uni2216
-Encoding: 8726 8726 861
+Encoding: 2932 8726 2931
 GlifName: uni2216
 Width: 399
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 96 92 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 595 92 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbackslash
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbackslash
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni2216+AAoA"
 EndChar

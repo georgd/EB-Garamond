@@ -1,0 +1,33 @@
+StartChar: uni0472
+Encoding: 2177 1138 2176
+GlifName: uni0472
+Width: 759
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 382 -30 basechar 0
+AnchorPoint: "top.cap" 392 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+461 262 m 256
+ 502 262 565 311 585 345 c 257
+ 577 393 l 257
+ 560 376 517 362 468 362 c 256
+ 440 362 415 371 389 381 c 256
+ 362 391 333 402 300 402 c 256
+ 260 402 197 353 176 319 c 257
+ 184 271 l 257
+ 201 288 244 302 293 302 c 256
+ 321 302 346 293 372 283 c 256
+ 399 273 428 262 461 262 c 256
+EndSplineSet
+Refer: 278 79 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0472+AAoA"
+EndChar

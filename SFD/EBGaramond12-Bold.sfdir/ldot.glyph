@@ -1,0 +1,38 @@
+StartChar: ldot
+Encoding: 1077 320 1076
+GlifName: ldot
+Width: 420
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 146 -30 basechar 0
+LayerCount: 2
+Fore
+Refer: 1061 108 N 1 0 0 1 0 0 2
+Refer: 1277 183 S 1 0 0 1 224 100 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vl
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+g7
+sVpublic.markColor
+p9
+V0.67,0.95,0.38,1
+p10
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" ldot.sc
+Comment: "+AAoA-ldot+AAoA"
+EndChar

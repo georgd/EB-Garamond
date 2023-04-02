@@ -1,15 +1,42 @@
 StartChar: S.sc
-Encoding: 1114654 -1 1653
+Encoding: 359 -1 358
 GlifName: S_.sc
-Width: 430
+Width: 440
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 241 8 basechar 0
-AnchorPoint: "below_accent" 209 -100 basechar 0
-AnchorPoint: "top_accent" 223 615 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 223 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1685 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+193 -14 m 256
+ 306 -14 370 60 370 115 c 256
+ 370 164 342 203 299 230 c 258
+ 214 282 l 258
+ 176 305 153 320 153 364 c 256
+ 153 402 185 433 232 433 c 256
+ 257 433 306 415 324 352 c 257
+ 326 342 335 332 343 332 c 256
+ 351 332 356 346 356 352 c 257
+ 355 377 354 409 349 433 c 257
+ 348 439 343 446 336 447 c 256
+ 321 449 289 458 241 458 c 256
+ 164 458 83 417 83 340 c 256
+ 83 285 116 247 166 215 c 258
+ 244 165 l 258
+ 277 144 290 119 290 90 c 256
+ 290 48 262 9 200 9 c 256
+ 138 9 105 79 89 108 c 257
+ 85 116 82 133 70 133 c 256
+ 58 133 60 116 60 110 c 257
+ 61 85 69 31 77 15 c 257
+ 79 12 77 9 88 7 c 256
+ 113 2 139 -14 193 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-S.sc+AAoA"
 EndChar

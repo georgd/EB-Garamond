@@ -1,36 +1,53 @@
 StartChar: j
-Encoding: 106 106 16
-Width: 234
-Flags: HMW
-LayerCount: 3
-Fore
+Encoding: 1031 106 1030
+GlifName: j
+Width: 275
+VWidth: 0
+Flags: HW
+AnchorPoint: "top" 136 440 basechar 0
+LayerCount: 2
+Back
 SplineSet
-40 559 m 0
- 40 595 70 625 106 625 c 0
- 142 625 170 595 170 559 c 0
- 170 523 142 493 106 493 c 0
- 70 493 40 523 40 559 c 0
-162 269 m 2
- 162 87 l 2
- 162 26 161 -74 129 -153 c 0
- 101 -220 32 -287 -12 -287 c 0
- -20 -287 -35 -283 -35 -275 c 0
- -35 -266 -28 -256 -26 -255 c 0
- -6 -249 12 -232 28 -193 c 0
- 52 -133 52 1 52 69 c 2
- 52 276 l 2
- 52 311 40 341 7 348 c 0
- 2 349 -1 357 -1 364 c 0
- -1 370 4 377 9 378 c 0
- 96 392 153 426 163 426 c 0
- 168 426 172 424 172 421 c 0
- 166 380 162 314 162 269 c 2
+5 -287 m 256
+ 64 -287 142 -220 173 -152 c 256
+ 210 -72 213 29 213 91 c 257
+ 212 288 l 257
+ 212 337 222 399 225 437 c 257
+ 225 445 220 451 211 451 c 256
+ 208 451 200 448 189 443 c 256
+ 158 429 96 399 24 385 c 257
+ 17 384 12 376 12 367 c 256
+ 12 358 16 349 24 348 c 256
+ 53 344 67 332 67 284 c 258
+ 67 68 l 258
+ 67 6 62 -118 36 -173 c 256
+ 18 -209 0 -219 -19 -228 c 256
+ -32 -234 -40 -244 -40 -260 c 256
+ -40 -278 -21 -287 5 -287 c 256
+136 497 m 256
+ 185 497 223 535 223 581 c 256
+ 223 630 185 668 136 668 c 256
+ 90 668 52 630 52 581 c 256
+ 52 535 90 497 136 497 c 256
 EndSplineSet
-Substitution2: "Smallcaps subtable" j.sc
-Substitution2: "historic_j subtable" j.hist
-Substitution2: "sups subtable" j.sups
-Substitution2: "sinf subtable" j.sinf
-Substitution2: "ordn subtable" j.ordn
-Substitution2: "subs subtable" j.subs
-Substitution2: "Single Substitution lookup 8 subtable" dotlessj
+Fore
+Refer: 1751 567 N 1 0 0 1 0 0 2
+Refer: 744 729 N 1 0 0 1 15 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss07' Style Set 7 lookup 36 subtable" j.hist
+Substitution2: "'ss01' Style Set 1 lookup 29 subtable" J.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals lookup 24 subtable" j.pc
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" j.sc
+Substitution2: "'hist' Historical Forms lookup 20 subtable" j.hist
+Substitution2: "'ordn' Ordinals lookup 15 subtable" j.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" j.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" j.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" j.subs
+Comment: "+AAoA-j+AAoA"
 EndChar

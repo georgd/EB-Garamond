@@ -1,11 +1,19 @@
 StartChar: uni028D
-Encoding: 653 653 2042
+Encoding: 1838 653 1837
 GlifName: uni028D_
 Width: 685
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 334 430 basechar 0
+AnchorPoint: "top" 342 -40 basechar 0
+LayerCount: 2
 Fore
-Refer: 23 119 N -1 0 0 -1 695 401 2
-Validated: 1
+Refer: 3149 119 N -1 0 0 -1 685 400 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni028D+AAoA"
 EndChar

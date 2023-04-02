@@ -1,26 +1,32 @@
 StartChar: uni032D
-Encoding: 813 813 2110
+Encoding: 2007 813 2006
 GlifName: uni032D_
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 138 -100 mark 0
-LayerCount: 3
-Fore
+AnchorPoint: "bottom" 0 -30 mark 0
+LayerCount: 2
+Back
 SplineSet
-135 -153 m 0
- 110 -183 81 -221 69 -237 c 0
- 62 -246 47 -259 39 -259 c 0
- 30 -259 30 -255 30 -246 c 0
- 30 -231 98 -109 118 -76 c 0
- 123 -67 130 -58 138 -58 c 0
- 146 -58 153 -67 158 -76 c 0
- 178 -109 247 -231 247 -246 c 0
- 247 -255 247 -259 238 -259 c 0
- 230 -259 215 -247 208 -237 c 0
- 196 -221 166 -183 142 -153 c 0
- 139 -149 138 -149 135 -153 c 0
+135 -153 m 257
+ 138 -149 139 -149 142 -153 c 256
+ 166 -183 196 -221 208 -237 c 256
+ 215 -247 230 -259 238 -259 c 256
+ 247 -259 247 -255 247 -246 c 256
+ 247 -231 178 -109 158 -76 c 257
+ 153 -67 146 -58 138 -58 c 256
+ 130 -58 123 -67 118 -76 c 257
+ 98 -109 30 -231 30 -246 c 256
+ 30 -255 30 -259 39 -259 c 256
+ 47 -259 62 -246 69 -237 c 256
+ 81 -221 110 -183 135 -153 c 257
 EndSplineSet
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni032D.cap
+Fore
+Refer: 1905 770 N 1 0 0 1 0 -706 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni032D+AAoA"
 EndChar

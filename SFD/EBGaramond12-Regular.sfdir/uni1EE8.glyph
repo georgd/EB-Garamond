@@ -1,13 +1,20 @@
 StartChar: uni1EE8
-Encoding: 7912 7912 2003
+Encoding: 2540 7912 2539
 GlifName: uni1E_E_8
-Width: 748
+Width: 738
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 368 -30 basechar 0
+AnchorPoint: "top.cap" 390 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 984 -1 N 1 0 0 1 346 -10 2
-Refer: 289 431 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Uhorn acutecomb.cap
+Refer: 416 431 N 1 0 0 1 0 0 2
+Refer: 512 -1 N 1 0 0 1 435 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1EE8+AAoA"
 EndChar

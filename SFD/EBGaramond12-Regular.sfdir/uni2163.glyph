@@ -1,12 +1,92 @@
 StartChar: uni2163
-Encoding: 8547 8547 830
+Encoding: 2887 8547 2886
 GlifName: uni2163
-Width: 1018
+Width: 1006
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap_1" 170 -30 basechar 0
+AnchorPoint: "bottom.cap_2" 632 -30 basechar 0
+AnchorPoint: "top.cap_1" 170 675 basechar 0
+AnchorPoint: "top.cap_2" 673 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+869 649 m 256
+ 831 649 796 650 770 650 c 256
+ 753 650 741 647 741 639 c 256
+ 741 630 760 623 774 619 c 256
+ 798 612 841 594 841 578 c 256
+ 841 574 835 550 833 546 c 257
+ 692 196 l 258
+ 684 177 679 168 674 168 c 256
+ 669 168 663 177 656 196 c 258
+ 529 532 l 257
+ 526 541 520 571 520 579 c 256
+ 520 597 553 614 583 620 c 256
+ 606 624 616 631 616 640 c 256
+ 616 648 604 651 587 651 c 256
+ 567 651 525 649 485 649 c 256
+ 439 649 394 652 363 652 c 256
+ 346 652 334 649 334 641 c 256
+ 334 632 345 626 367 619 c 256
+ 401 609 423 583 437 546 c 258
+ 620 55 l 258
+ 630 27 645 -16 650 -16 c 256
+ 664 -16 688 65 693 78 c 258
+ 881 534 l 258
+ 896 570 930 610 979 621 c 256
+ 1002 626 1012 632 1012 641 c 256
+ 1012 649 1000 652 983 652 c 256
+ 957 652 908 649 869 649 c 256
+130 550 m 258
+ 130 98 l 258
+ 130 51 102 33 52 24 c 256
+ 29 20 19 15 19 6 c 256
+ 19 -2 31 -5 48 -5 c 256
+ 102 -5 126 0 176 0 c 256
+ 222 0 239 -5 293 -5 c 256
+ 310 -5 322 -2 322 6 c 256
+ 322 15 312 20 289 24 c 256
+ 239 33 210 51 210 98 c 258
+ 210 550 l 258
+ 210 597 231 613 281 622 c 256
+ 304 626 314 633 314 642 c 256
+ 314 650 302 653 285 653 c 256
+ 231 653 219 650 176 650 c 256
+ 130 650 113 653 59 653 c 256
+ 42 653 30 650 30 642 c 256
+ 30 633 40 626 63 622 c 256
+ 113 613 130 597 130 550 c 258
+EndSplineSet
 Fore
-Refer: 37 86 N 1 0 0 1 334 -1 2
-Refer: 33 73 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 435 86 N 1 0 0 1 334 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+VV
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VI
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+g7
+sVpublic.markColor
+p11
+V0.67,0.95,0.38,1
+p12
+s."
+Comment: "+AAoA-uni2163+AAoA"
 EndChar

@@ -1,0 +1,44 @@
+StartChar: iota
+Encoding: 993 953 992
+GlifName: iota
+Width: 319
+VWidth: 0
+Flags: W
+AnchorPoint: "topgreek" 226 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+103 -15 m 256
+ 175 -15 264 69 281 121 c 256
+ 286 136 280 142 271 142 c 256
+ 269 142 259 134 245 125 c 256
+ 229 114 207 102 186 102 c 256
+ 159 102 152 114 160 140 c 256
+ 180 203 245 326 263 385 c 256
+ 270 408 215 437 169 437 c 256
+ 147 437 136 431 126 398 c 258
+ 25 83 l 258
+ 8 29 61 -15 103 -15 c 256
+EndSplineSet
+Fore
+SplineSet
+117 -15 m 256
+ 189 -15 264 69 281 121 c 256
+ 286 136 280 142 271 142 c 256
+ 269 142 259 134 245 125 c 256
+ 229 114 207 102 186 102 c 256
+ 159 102 152 114 160 140 c 256
+ 180 203 245 326 263 385 c 256
+ 270 408 215 437 169 437 c 256
+ 147 437 136 431 126 398 c 258
+ 25 78 l 258
+ 12 36 86 -15 117 -15 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-iota+AAoA"
+EndChar

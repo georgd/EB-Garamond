@@ -1,0 +1,33 @@
+StartChar: hastroke-cy
+Encoding: 944 1279 943
+GlifName: hastroke-cy
+Width: 510
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 347 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+72 184 m 258
+ 404 184 l 258
+ 426 184 455 209 460 227 c 256
+ 463 237 457 246 444 246 c 258
+ 103 246 l 258
+ 86 246 62 223 56 205 c 256
+ 52 193 57 184 72 184 c 258
+EndSplineSet
+Refer: 3004 120 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vx
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.97,1,0,1
+p5
+s."
+EndChar

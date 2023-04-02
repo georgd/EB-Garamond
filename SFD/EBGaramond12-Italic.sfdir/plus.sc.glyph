@@ -1,11 +1,39 @@
 StartChar: plus.sc
-Encoding: 66025 -1 1617
-Width: 590
+Encoding: 1242 -1 1241
+GlifName: plus.sc
+Width: 490
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 100 43 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+242 42 m 256
+ 251 42 290 45 290 66 c 258
+ 290 218 l 258
+ 290 221 291 222 294 222 c 258
+ 429 222 l 258
+ 448 222 460 245 460 262 c 256
+ 460 268 454 272 447 272 c 258
+ 292 272 l 258
+ 290 272 290 273 290 278 c 258
+ 290 419 l 258
+ 290 426 283 432 276 432 c 256
+ 270 432 230 423 230 401 c 258
+ 230 280 l 258
+ 230 274 229 272 223 272 c 258
+ 84 272 l 258
+ 66 272 60 243 60 234 c 256
+ 60 228 67 222 74 222 c 258
+ 226 222 l 258
+ 229 222 230 220 230 217 c 258
+ 230 56 l 258
+ 230 49 236 42 242 42 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-plus.sc+AAoA"
 EndChar

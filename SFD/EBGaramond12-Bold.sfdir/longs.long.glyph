@@ -1,0 +1,40 @@
+StartChar: longs.long
+Encoding: 1096 -1 1095
+GlifName: longs.long
+Width: 369
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+40 -3 m 256
+ 80 -3 120 2 155 2 c 256
+ 190 2 242 -3 282 -3 c 256
+ 290 -3 298 4 298 12 c 256
+ 298 22 290 30 279 33 c 256
+ 247 40 225 48 225 75 c 257
+ 225 496 l 257
+ 225 599 260 650 310 650 c 256
+ 357 650 382 623 401 601 c 256
+ 414 584 424 570 436 570 c 256
+ 462 570 479 593 479 624 c 256
+ 479 676 437 706 345 706 c 256
+ 240 706 94 635 80 423 c 257
+ 61 412 40 406 24 400 c 256
+ 18 398 14 395 14 390 c 256
+ 14 379 20 359 28 358 c 256
+ 49 356 67 356 80 356 c 257
+ 80 71 l 258
+ 80 44 63 39 43 33 c 256
+ 32 29 20 23 20 12 c 256
+ 20 3 32 -3 40 -3 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+Vf
+p2
+s."
+Comment: "+AAoA-longs.long+AAoA"
+EndChar

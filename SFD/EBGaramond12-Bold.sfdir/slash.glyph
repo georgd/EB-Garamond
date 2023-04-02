@@ -1,25 +1,33 @@
 StartChar: slash
-Encoding: 47 47 80
-Width: 293
+Encoding: 1420 47 1419
+GlifName: slash
+Width: 407
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-237 650 m 2
- 242 666 253 668 265 668 c 0
- 270 668 275 662 275 652 c 0
- 275 648 274 648 274 648 c 1
- 274 647 l 1
- 66 -49 l 2
- 61 -64 51 -64 41 -64 c 0
- 36 -64 28 -61 28 -50 c 0
- 28 -47 29 -46 29 -46 c 1
- 237 650 l 2
-EndSplineSet
-Substitution2: "frac_slash subtable" fraction
-Substitution2: "sups subtable" slash.sups
-Substitution2: "sinf subtable" slash.sinf
-Substitution2: "ordn subtable" slash.ordn
-Substitution2: "subs subtable" slash.subs
+Refer: 595 92 N -1 0 0 1 407 0 2
+Validated: 17
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|backslash
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|backslash
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" slash.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" slash.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" slash.ordn
+Substitution2: "FRAC subtable" fraction
+Substitution2: "'sups' Superscript lookup 9 subtable" slash.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" slash.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" slash.subs
+Comment: "+AAoA-slash+AAoA"
 EndChar

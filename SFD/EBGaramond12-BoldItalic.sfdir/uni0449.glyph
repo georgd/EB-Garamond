@@ -1,0 +1,39 @@
+StartChar: uni0449
+Encoding: 2009 1097 2008
+GlifName: uni0449
+Width: 840
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 340 -30 basechar 0
+AnchorPoint: "top" 502 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+486 -276 m 256
+ 496 -276 582 -258 624 -233 c 256
+ 684 -197 699 -139 712 -74 c 256
+ 725 -7 741 64 779 103 c 257
+ 687 39 l 257
+ 700 19 l 257
+ 688 12 634 -28 617 -50 c 256
+ 585 -91 569 -124 556 -168 c 256
+ 539 -227 511 -242 480 -253 c 257
+ 474 -256 469 -258 469 -264 c 256
+ 469 -273 478 -276 486 -276 c 256
+EndSplineSet
+Refer: 2006 1096 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vu
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uni0449+AAoA"
+EndChar

@@ -1,12 +1,21 @@
 StartChar: Iota
-Encoding: 921 921 636
-Width: 371
+Encoding: 204 921 204
+GlifName: I_ota
+Width: 362
 VWidth: 0
-Flags: MW
-AnchorPoint: "grk_uc_top" 348 710 basechar 0
-AnchorPoint: "grk_uc_top_left" 51 665 basechar 0
+Flags: W
+AnchorPoint: "bottomgreek" 106 -30 basechar 0
+AnchorPoint: "topgreek" 20 460 basechar 0
+AnchorPoint: "bottom.cap" 118 -30 basechar 0
+AnchorPoint: "top.cap" 331 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 33 73 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 177 73 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Iota+AAoA"
 EndChar

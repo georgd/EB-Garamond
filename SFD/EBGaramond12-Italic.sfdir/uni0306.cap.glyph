@@ -1,39 +1,40 @@
 StartChar: uni0306.cap
-Encoding: 66381 -1 2078
+Encoding: 1783 -1 1782
+GlifName: uni0306.cap
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_stack" 142 695 mark 0
-AnchorPoint: "top_stack" 142 851 basemark 0
-AnchorPoint: "acutestack" 89 811 basemark 0
-AnchorPoint: "hookstack" 85 822 basemark 0
-AnchorPoint: "gravestack" 189 807 basemark 0
-AnchorPoint: "top_accent" 91 710 mark 0
-AnchorPoint: "grk_uc_top" 152 720 mark 0
+AnchorPoint: "top.cap" 155 675 mark 0
+AnchorPoint: "top.cap" 188 815 basechar 0
 LayerCount: 2
 Back
 SplineSet
-37 825 m 4
- 49 803 85 762 155 762 c 4
- 225 762 261 803 273 825 c 4
- 278 834 285 846 295 846 c 4
- 305 846 305 835 305 822 c 4
- 305 758 235 692 155 692 c 4
- 75 692 5 747 5 822 c 4
- 5 835 5 846 15 846 c 4
- 25 846 32 834 37 825 c 4
+143 706 m 256
+ 221 706 307 736 307 813 c 256
+ 307 817 305 820 301 820 c 256
+ 292 820 281 808 274 799 c 256
+ 245 762 210 758 164 758 c 256
+ 133 758 103 769 96 799 c 256
+ 94 807 96 820 87 820 c 256
+ 71 820 60 797 60 774 c 256
+ 60 733 101 706 143 706 c 256
 EndSplineSet
 Fore
 SplineSet
-219 799 m 0
- 226 808 237 820 246 820 c 0
- 250 820 252 817 252 813 c 0
- 252 736 166 706 88 706 c 0
- 46 706 5 733 5 774 c 0
- 5 797 16 820 32 820 c 0
- 41 820 39 807 41 799 c 0
- 48 769 78 758 109 758 c 0
- 155 758 190 762 219 799 c 0
+174 706 m 256
+ 278 706 310 779 309 800 c 256
+ 308 815 303 820 297 820 c 256
+ 286 820 282 814 275 803 c 256
+ 250 763 210 758 174 758 c 256
+ 132 758 101 773 95 799 c 256
+ 93 807 92 820 83 820 c 256
+ 67 820 62 801 62 782 c 256
+ 63 745 88 706 174 706 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0306.cap+AAoA"
 EndChar

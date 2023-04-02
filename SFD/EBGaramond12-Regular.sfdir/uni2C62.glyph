@@ -1,12 +1,54 @@
 StartChar: uni2C62
-Encoding: 11362 11362 3004
+Encoding: 3037 11362 3036
 GlifName: uni2C_62
 Width: 584
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 311 -30 basechar 0
+AnchorPoint: "top.cap" 187 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+265 260 m 256
+ 303 260 356 312 379 342 c 256
+ 386 352 390 359 390 362 c 256
+ 390 368 385 382 380 382 c 256
+ 378 382 371 376 360 369 c 256
+ 340 354 307 333 277 333 c 256
+ 211 333 161 381 115 381 c 257
+ 77 381 24 329 1 299 c 256
+ -6 289 -10 282 -10 279 c 256
+ -10 273 -5 259 0 259 c 256
+ 2 259 9 265 20 272 c 256
+ 40 287 73 308 103 308 c 257
+ 152 308 217 260 265 260 c 256
+EndSplineSet
 Fore
-Refer: 36 76 N 1 0 0 1 0 0 2
-Refer: 109 126 S 1 0 0 1 -60 0 2
-Validated: 5
+SplineSet
+265 267 m 256
+ 303 267 356 312 379 342 c 256
+ 386 352 390 359 390 362 c 256
+ 390 368 385 382 380 382 c 256
+ 378 382 371 376 360 369 c 256
+ 340 354 307 333 277 333 c 256
+ 214 333 161 381 115 381 c 256
+ 77 381 23 337 1 306 c 256
+ -6 296 -10 289 -10 286 c 256
+ -10 280 -5 266 0 266 c 256
+ 2 266 9 272 20 279 c 256
+ 41 292 73 315 103 315 c 256
+ 152 315 217 267 265 267 c 256
+EndSplineSet
+Refer: 236 76 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VL
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni2C62+AAoA"
 EndChar

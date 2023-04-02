@@ -1,30 +1,39 @@
 StartChar: less
-Encoding: 60 60 100
+Encoding: 1081 60 1080
 GlifName: less
-Width: 590
+Width: 560
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-133 229 m 2
- 513 55 l 10
- 532 46 537 16 537 7 c 0
- 537 2 532 -6 526 -6 c 0
- 525 -6 524 -5 523 -5 c 10
- 94 195 l 26
- 77 203 53 216 53 222 c 0
- 53 231 66 259 86 268 c 26
- 523 468 l 18
- 524 468 525 469 526 469 c 0
- 532 469 536 465 536 459 c 0
- 536 447 525 417 505 408 c 18
- 132 234 l 2
- 129 233 130 230 133 229 c 2
+487 -2 m 258
+ 494 -5 507 -6 507 7 c 256
+ 507 16 502 46 483 55 c 258
+ 133 229 l 257
+ 130 230 129 233 132 234 c 257
+ 475 408 l 258
+ 495 418 506 447 506 459 c 256
+ 506 465 503 469 497 469 c 256
+ 496 469 492 468 489 466 c 258
+ 86 268 l 258
+ 66 258 53 231 53 222 c 256
+ 53 216 77 203 94 195 c 258
+ 487 -2 l 258
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" less.sups
-Substitution2: "sinf subtable" less.sinf
-Substitution2: "ordn subtable" less.ordn
-Substitution2: "subs subtable" less.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss04' Style Set 4 lookup 33 subtable" bullet.03
+Substitution2: "'ss02' Style Set 2 lookup 30 subtable" bullet.02
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" less.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" less.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" less.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" less.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" less.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" less.subs
+Comment: "+AAoA-less+AAoA"
 EndChar

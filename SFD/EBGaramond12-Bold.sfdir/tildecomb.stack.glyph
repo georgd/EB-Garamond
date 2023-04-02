@@ -1,0 +1,45 @@
+StartChar: tildecomb.stack
+Encoding: 1475 -1 1474
+GlifName: tildecomb.stack
+Width: 0
+VWidth: 0
+AnchorPoint: "top" 1 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+-123 478 m 256
+ -112 478 -86 504 -68 504 c 256
+ -48 504 38 480 61 480 c 256
+ 91 480 154 539 154 558 c 256
+ 154 571 147 579 135 579 c 256
+ 121 579 93 555 80 555 c 256
+ 61 555 -16 578 -44 578 c 256
+ -69 578 -142 525 -142 502 c 256
+ -142 486 -136 478 -123 478 c 256
+EndSplineSet
+Fore
+SplineSet
+-127 475 m 256
+ -122 475 -116 484 -103 500 c 256
+ -97 507 -93 511 -84 511 c 256
+ -59 511 46 502 69 502 c 256
+ 78 502 92 504 100 516 c 256
+ 112 534 119 544 134 566 c 256
+ 146 583 151 589 151 595 c 256
+ 151 601 134 615 128 615 c 256
+ 123 615 119 606 109 594 c 256
+ 98 581 86 574 74 574 c 256
+ 62 574 35 576 4 578 c 256
+ -41 581 -55 586 -68 586 c 256
+ -85 586 -150 510 -150 495 c 256
+ -150 489 -132 475 -127 475 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-tildecomb.stack+AAoA"
+EndChar

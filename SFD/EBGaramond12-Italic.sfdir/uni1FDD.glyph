@@ -1,12 +1,27 @@
 StartChar: uni1FDD
-Encoding: 8157 8157 974
-Width: 277
+Encoding: 2599 8157 2598
+GlifName: uni1F_D_D_
+Width: 300
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "topgreek" 242 440 mark 0
 LayerCount: 2
 Fore
-Refer: 2368 -1 N 1 0 0 1 20.0001 -366 2
-Refer: 2362 -1 N 1 0 0 1 -105 -366 2
-Refer: 2375 -1 N 1 0 0 1 103.421 0 2
-MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0314.grk gravecomb.grkstack
+SplineSet
+352 440 m 256
+ 361 440 363 446 366 461 c 256
+ 369 475 378 593 378 629 c 256
+ 378 641 367 647 359 647 c 256
+ 340 647 307 627 307 600 c 256
+ 307 579 325 495 336 459 c 256
+ 339 449 344 440 352 440 c 256
+EndSplineSet
+Refer: 2628 8190 N 1 0 0 1 -15 1 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FDD+AAoA"
 EndChar

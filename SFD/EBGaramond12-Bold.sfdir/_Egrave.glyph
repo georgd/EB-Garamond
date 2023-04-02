@@ -1,0 +1,26 @@
+StartChar: Egrave
+Encoding: 100 200 100
+GlifName: E_grave
+Width: 577
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 296 -30 basechar 0
+AnchorPoint: "top.cap" 299 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 81 69 N 1 0 0 1 0 0 2
+Refer: 932 -1 N 1 0 0 1 222 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Egrave.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" Egrave.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" Egrave.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" Egrave.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" Egrave.subs
+Comment: "+AAoA-Egrave+AAoA"
+EndChar

@@ -1,23 +1,26 @@
 StartChar: arrowleft
-Encoding: 8592 8592 2020
-Width: 1000
-Flags: MW
+Encoding: 557 8592 556
+GlifName: arrowleft
+Width: 999
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-289 123 m 0
- 296 105 263 112 253 123 c 0
- 196 182 139 239 62 279 c 0
- 53 284 50 286 50 292 c 0
- 50 298 50 299 63 305 c 0
- 140 345 197 402 254 461 c 0
- 264 472 297 479 290 461 c 0
- 266 399 228 351 194 315 c 1
- 937 315 l 2
- 944 315 953 308 950 301 c 0
- 944 285 936 269 919 269 c 2
- 194 269 l 1
- 227 235 265 185 289 123 c 0
-EndSplineSet
-Validated: 33
+Refer: 557 8594 N -1 0 0 -1 1056 584 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|arrowright
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|arrowright
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" a r r o w l e f t
+Comment: "+AAoA-arrowleft+AAoA"
 EndChar

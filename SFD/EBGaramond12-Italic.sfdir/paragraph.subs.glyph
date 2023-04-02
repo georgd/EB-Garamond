@@ -1,35 +1,25 @@
 StartChar: paragraph.subs
-Encoding: 65703 -1 1295
-Width: 543
+Encoding: 1200 -1 1199
+GlifName: paragraph.subs
+Width: 402
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-292 112 m 2
- 371 369 l 2
- 372.47 373.779 370 386 365 386 c 0
- 317 386 231 299 231 203 c 0
- 231 137 255 94 275 94 c 0
- 282 94 289.06 102.442 292 112 c 2
-137 -172 m 0
- 137 -184 145 -195 160 -195 c 0
- 195 -195 212 -177 222 -145 c 2
- 281 47 l 2
- 283 54 285 64 278 64 c 0
- 188 64 106 121 106 204 c 0
- 106 368 271.396 432 424 432 c 16
- 442 432 501 430 501 422 c 0
- 501 412 491 395 484 395 c 0
- 480 395 461 396 457 396 c 0
- 451 396 439.04 381.527 436 372 c 10
- 280 -135 l 2
- 260.593 -198.082 217 -223 151 -223 c 0
- 128 -223 99 -202 99 -174 c 0
- 99 -138 129 -105 165 -105 c 0
- 182 -105 197 -117 197 -133 c 0
- 197 -151 183 -166 165 -166 c 0
- 150.894 -166 137 -162 137 -172 c 0
-EndSplineSet
-Validated: 1
+Refer: 1196 -1 N 1 0 0 1 -92 -297 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vparagraph.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vparagraph.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-paragraph.subs+AAoA"
 EndChar

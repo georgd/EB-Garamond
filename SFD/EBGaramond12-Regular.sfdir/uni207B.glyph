@@ -1,19 +1,17 @@
 StartChar: uni207B
-Encoding: 8315 8315 1163
+Encoding: 2838 8315 2837
 GlifName: uni207B_
 Width: 379
-VWidth: 440
-Flags: HMW
-LayerCount: 3
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-334 612 m 2
- 339 612 343 603 343 599 c 0
- 343 586 337 567 322 567 c 18
- 42 567 l 2
- 35 567 32 576 32 580 c 0
- 32 585 34 612 48 612 c 18
- 334 612 l 2
-EndSplineSet
-Validated: 1
+Refer: 2843 8331 N 1 0 0 1 0 584 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni207B+AAoA"
 EndChar

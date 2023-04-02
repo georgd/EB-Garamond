@@ -1,19 +1,17 @@
 StartChar: gravecomb.sc
-Encoding: 66462 -1 2453
+Encoding: 914 -1 913
+GlifName: gravecomb.sc
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 90 550 mark 0
+AnchorPoint: "top" 135 440 mark 0
 LayerCount: 2
 Fore
-SplineSet
-56 487 m 0
- 44 521 10 616 10 621 c 0
- 10 645 39 667 55 667 c 0
- 67 667 71 650 73 627 c 0
- 76 586 84 493 84 483 c 0
- 84 475 81 470 76 470 c 0
- 67 470 61 473 56 487 c 0
-EndSplineSet
-Validated: 1
+Refer: 905 768 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gravecomb.sc+AAoA"
 EndChar

@@ -1,19 +1,18 @@
 StartChar: tbar.sc
-Encoding: 66300 -1 1892
-Width: 486
+Encoding: 1389 -1 1388
+GlifName: tbar.sc
+Width: 533
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 364 503 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-148 251 m 26
- 423 251 l 18
- 428 251 432 246 432 241 c 0
- 432 224 411 213 392 213 c 26
- 128 213 l 18
- 123 213 119 217 119 222 c 0
- 119 233 132 251 148 251 c 26
-EndSplineSet
-Refer: 1690 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 383 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-tbar.sc+AAoA"
 EndChar

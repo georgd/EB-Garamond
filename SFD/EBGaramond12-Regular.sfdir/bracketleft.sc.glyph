@@ -1,28 +1,41 @@
 StartChar: bracketleft.sc
-Encoding: 1114662 -1 1661
+Encoding: 627 -1 626
 GlifName: bracketleft.sc
-Width: 373
+Width: 331
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-150 702 m 10
- 315 701 l 26
- 324 701 333 698 333 688 c 0
- 333 678 320 674 307 673 c 2
- 199 667 l 2
- 184 667 160 643 160 624 c 2
- 160 -105 l 2
- 160 -132 177 -152 195 -154 c 2
- 307 -167 l 2
- 320 -169 333 -173 333 -185 c 24
- 333 -197 319 -200 307 -200 c 26
- 143 -200 l 18
- 120 -200 112 -199 112 -175 c 2
- 112 668 l 2
- 112 702 118 702 150 702 c 10
+141 -127 m 258
+ 285 -127 l 258
+ 297 -127 311 -124 311 -112 c 256
+ 311 -100 298 -96 285 -94 c 257
+ 181 -81 l 258
+ 169 -79 158 -66 158 -48 c 258
+ 158 433 l 258
+ 158 444 172 457 181 458 c 258
+ 285 464 l 258
+ 298 465 311 469 311 479 c 256
+ 311 489 302 492 293 492 c 258
+ 148 493 l 258
+ 116 493 110 493 110 459 c 258
+ 110 -102 l 258
+ 110 -126 118 -127 141 -127 c 258
 EndSplineSet
-Validated: 1
-Comment: "."
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbracketleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbracketleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-bracketleft.sc+AAoA"
 EndChar

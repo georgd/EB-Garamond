@@ -1,14 +1,64 @@
 StartChar: adieresis
-Encoding: 228 228 73
+Encoding: 523 228 522
 GlifName: adieresis
 Width: 399
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 193 -14 basechar 0
+AnchorPoint: "top" 201 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+107 593 m 256
+ 82 593 57 568 57 543 c 256
+ 57 518 82 493 107 493 c 256
+ 132 493 157 518 157 543 c 256
+ 157 568 132 593 107 593 c 256
+284 593 m 256
+ 259 593 234 568 234 543 c 256
+ 234 518 259 493 284 493 c 256
+ 309 493 334 518 334 543 c 256
+ 334 568 309 593 284 593 c 256
+342 32 m 256
+ 313 32 306 70 306 109 c 258
+ 311 325 l 258
+ 312 374 276 414 229 414 c 256
+ 176 414 111 371 80 343 c 256
+ 55 321 40 295 40 274 c 256
+ 40 271 42 265 48 265 c 256
+ 61 265 117 286 117 300 c 256
+ 117 305 116 309 116 314 c 256
+ 116 321 117 328 120 333 c 256
+ 128 347 157 365 181 365 c 256
+ 217 365 241 335 240 301 c 258
+ 238 237 l 258
+ 237 210 236 208 210 197 c 258
+ 108 155 l 258
+ 59 135 35 107 35 65 c 256
+ 35 26 80 -14 121 -14 c 256
+ 203 -13 231 38 244 38 c 256
+ 252 38 261 -14 318 -14 c 256
+ 356 -14 398 29 398 37 c 256
+ 398 45 388 52 382 46 c 257
+ 371 36 360 32 342 32 c 256
+115 87 m 256
+ 115 110 138 140 215 166 c 257
+ 220 168 226 169 229 169 c 256
+ 237 169 239 163 238 148 c 258
+ 236 99 l 258
+ 235 74 231 65 224 59 c 256
+ 208 45 190 32 164 32 c 256
+ 145 32 115 49 115 87 c 256
+EndSplineSet
 Fore
-Refer: 621 776 N 1 0 0 1 43 19 2
-Refer: 0 97 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" adieresis.sc
-MultipleSubs2: "CCMP_Precomp subtable" a uni0308
+Refer: 495 97 N 1 0 0 1 0 0 2
+Refer: 732 168 N 1 0 0 1 51 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" adieresis.sc
+Comment: "+AAoA-adieresis+AAoA"
 EndChar

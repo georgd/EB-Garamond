@@ -1,0 +1,48 @@
+StartChar: plusminus
+Encoding: 1246 177 1245
+GlifName: plusminus
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+284 126 m 256
+ 299 126 330 134 330 155 c 258
+ 330 344 l 258
+ 330 353 334 357 343 357 c 258
+ 536 357 l 258
+ 555 357 570 383 570 400 c 256
+ 570 410 559 416 547 416 c 258
+ 343 416 l 258
+ 334 416 330 420 330 430 c 258
+ 330 611 l 258
+ 330 623 324 634 314 634 c 256
+ 297 634 271 619 271 600 c 258
+ 271 430 l 258
+ 271 420 270 416 257 416 c 258
+ 59 416 l 258
+ 38 416 30 385 30 370 c 256
+ 30 364 38 357 47 357 c 258
+ 258 357 l 258
+ 268 357 271 351 271 344 c 258
+ 271 143 l 258
+ 271 134 278 126 284 126 c 256
+49 29 m 258
+ 534 29 l 258
+ 555 29 572 56 572 75 c 256
+ 572 85 560 93 545 93 c 258
+ 63 93 l 258
+ 39 93 30 58 30 44 c 256
+ 30 38 39 29 49 29 c 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" plusminus.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" plusminus.sc
+Comment: "+AAoA-plusminus+AAoA"
+EndChar

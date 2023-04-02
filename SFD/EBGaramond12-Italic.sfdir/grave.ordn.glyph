@@ -1,11 +1,37 @@
 StartChar: grave.ordn
-Encoding: 65874 -1 1466
-Width: 181
-VWidth: 280
-Flags: MW
+Encoding: 901 -1 900
+GlifName: grave.ordn
+Width: 200
+VWidth: 0
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+280 563 m 257
+ 282 559 285 549 291 549 c 256
+ 297 549 300 552 302 557 c 257
+ 305 566 285 642 278 662 c 257
+ 275 673 266 678 252 678 c 256
+ 242 678 228 670 226 662 c 256
+ 223 651 252 630 280 563 c 257
+EndSplineSet
 Fore
-Refer: 1262 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+264 547 m 256
+ 267 546 271 550 272 552 c 256
+ 273 555 272 559 271 564 c 256
+ 264 597 247 629 235 661 c 256
+ 232 669 225 672 218 674 c 256
+ 208 677 184 675 181 666 c 256
+ 179 660 181 655 186 649 c 256
+ 210 620 230 584 253 556 c 256
+ 258 550 261 548 264 547 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-grave.ordn+AAoA"
 EndChar

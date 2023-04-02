@@ -1,12 +1,41 @@
 StartChar: Omacron
-Encoding: 332 332 241
-Width: 712
+Encoding: 303 332 302
+GlifName: O_macron
+Width: 694
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 489 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+645 772 m 258
+ 397 772 l 258
+ 378 772 373 744 373 735 c 256
+ 373 729 380 723 387 723 c 258
+ 627 723 l 258
+ 643 723 658 740 658 760 c 256
+ 658 766 651 772 645 772 c 258
+484 664 m 256
+ 254 664 89 456 89 226 c 256
+ 89 94 197 -14 329 -14 c 256
+ 565 -14 724 208 724 444 c 256
+ 724 571 611 664 484 664 c 256
+479 628 m 256
+ 564 628 642 569 642 484 c 256
+ 642 284 536 21 336 21 c 256
+ 245 21 171 95 171 186 c 256
+ 171 386 279 628 479 628 c 256
+EndSplineSet
 Fore
-Refer: 2077 -1 N 1 0 0 1 368 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Omacron.sc
-MultipleSubs2: "CCMP_Precomp subtable" O uni0304.cap
+Refer: 277 79 N 1 0 0 1 0 0 2
+Refer: 1776 -1 N 1 0 0 1 343 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Omacron.sc
+Comment: "+AAoA-Omacron+AAoA"
 EndChar

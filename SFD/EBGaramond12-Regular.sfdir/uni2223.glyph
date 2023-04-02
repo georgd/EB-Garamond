@@ -1,11 +1,25 @@
 StartChar: uni2223
-Encoding: 8739 8739 863
+Encoding: 2934 8739 2933
 GlifName: uni2223
 Width: 260
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 105 124 N 1 0 0 1 0 0 3
-Validated: 1
+SplineSet
+112 -289 m 256
+ 121 -289 160 -286 160 -265 c 258
+ 160 694 l 258
+ 160 701 153 707 146 707 c 256
+ 140 707 100 698 100 676 c 258
+ 100 -275 l 258
+ 100 -282 106 -289 112 -289 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2223+AAoA"
 EndChar

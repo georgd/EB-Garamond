@@ -1,22 +1,24 @@
 StartChar: acutecomb.stack
-Encoding: 1114937 -1 2249
+Encoding: 521 -1 520
 GlifName: acutecomb.stack
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "acutestack" 32 456 mark 0
-AnchorPoint: "top_accent" 52 550 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-43 471 m 0
- 37 465 26 456 21 456 c 0
- 16 456 16 459 16 464 c 0
- 16 479 54 596 59 605 c 0
- 65 615 72 623 82 623 c 0
- 92 623 125 608 125 593 c 0
- 125 581 50 478 43 471 c 0
+-49 456 m 256
+ -44 456 -33 465 -27 471 c 256
+ -20 478 55 581 55 593 c 256
+ 55 608 22 623 12 623 c 256
+ 2 623 -5 615 -11 605 c 256
+ -16 596 -54 479 -54 464 c 256
+ -54 459 -54 456 -49 456 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" acutecomb.stacksc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-acutecomb.stack+AAoA"
 EndChar

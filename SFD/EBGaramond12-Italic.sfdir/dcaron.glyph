@@ -1,13 +1,84 @@
 StartChar: dcaron
-Encoding: 271 271 194
+Encoding: 712 271 711
+GlifName: dcaron
 Width: 513
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 179 -30 basechar 0
 LayerCount: 2
+Back
+SplineSet
+571 517 m 256
+ 568 510 565 505 565 500 c 256
+ 565 496 566 494 570 494 c 256
+ 574 494 586 503 596 514 c 256
+ 611 530 668 599 668 664 c 256
+ 668 671 666 679 660 679 c 256
+ 638 679 605 649 601 628 c 256
+ 590 576 582 545 571 517 c 256
+96 61 m 257
+ 95 176 271 389 333 389 c 256
+ 359 389 377 363 377 337 c 256
+ 377 281 356 222 320 175 c 256
+ 268 107 174 18 121 18 c 256
+ 102 18 96 34 96 61 c 257
+385 107 m 258
+ 550 677 l 258
+ 553 688 554 705 547 705 c 256
+ 537 705 476 696 458 693 c 256
+ 443 691 424 690 424 675 c 256
+ 424 661 487 667 469 611 c 258
+ 398 392 l 257
+ 395 384 390 382 384 394 c 256
+ 376 409 356 420 343 420 c 256
+ 294 420 227 384 173 331 c 256
+ 89 250 26 131 26 47 c 256
+ 26 12 55 -14 86 -14 c 256
+ 175 -14 259 58 327 146 c 256
+ 331 151 336 147 333 136 c 256
+ 325 108 319 77 319 36 c 256
+ 319 14 325 -14 345 -14 c 256
+ 408 -14 456 33 508 96 c 257
+ 510 99 513 105 513 110 c 256
+ 513 115 508 119 504 119 c 256
+ 503 119 502 119 501 118 c 256
+ 491 108 427 50 395 50 c 256
+ 383 50 377 80 385 107 c 258
+EndSplineSet
 Fore
-Refer: 2143 -1 N 1 0 0 1 467 64 2
-Refer: 11 100 N 1 0 0 1 0 0 3
-MultipleSubs2: "cv82_decomp subtable" d uni030C.alt
-Substitution2: "Smallcaps1 subtable" dcaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" d uni030C.alt
+Refer: 694 100 N 1 0 0 1 0 0 2
+Refer: 1807 -1 N 1 0 0 1 517 90 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vd
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni030C.alt
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p10
+g7
+sVpublic.markColor
+p11
+V0.67,0.95,0.38,1
+p12
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" dcaron.sc
+Comment: "+AAoA-dcaron+AAoA"
 EndChar

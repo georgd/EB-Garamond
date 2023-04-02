@@ -1,0 +1,38 @@
+StartChar: one.tosf01
+Encoding: 1169 -1 1168
+GlifName: one.tosf01
+Width: 540
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+146 -3 m 256
+ 190 -3 272 2 312 2 c 256
+ 351 2 439 -2 481 -2 c 256
+ 491 -2 504 3 506 13 c 256
+ 509 26 500 30 489 34 c 256
+ 443 51 418 61 429 98 c 258
+ 570 552 l 258
+ 581 589 593 609 598 625 c 257
+ 601 632 596 637 586 637 c 256
+ 583 637 575 634 568 631 c 256
+ 491 598 416 578 331 573 c 256
+ 314 572 295 562 291 545 c 256
+ 287 530 299 524 309 522 c 256
+ 352 513 383 498 367 445 c 258
+ 259 97 l 258
+ 246 56 213 47 158 34 c 256
+ 145 31 136 24 133 12 c 256
+ 131 3 138 -3 146 -3 c 256
+EndSplineSet
+Fore
+Refer: 1159 -1 N 1 0 0 1 79 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-one.taboldstyle01+AAoA"
+EndChar

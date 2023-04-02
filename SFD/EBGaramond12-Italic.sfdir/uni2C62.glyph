@@ -1,0 +1,54 @@
+StartChar: uni2C62
+Encoding: 2874 11362 2873
+GlifName: uni2C_62
+Width: 571
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 289 -30 basechar 0
+AnchorPoint: "top.cap" 341 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+292 252 m 256
+ 330 249 385 292 410 321 c 256
+ 418 330 422 337 422 340 c 256
+ 422 346 418 360 413 360 c 256
+ 411 360 404 356 392 349 c 256
+ 371 337 337 316 307 317 c 256
+ 245 319 194 372 148 374 c 256
+ 110 376 54 335 30 305 c 256
+ 23 296 18 289 18 286 c 256
+ 18 280 22 266 27 266 c 256
+ 29 266 36 270 48 277 c 256
+ 69 289 103 310 133 309 c 256
+ 182 307 244 256 292 252 c 256
+EndSplineSet
+Fore
+SplineSet
+292 267 m 256
+ 329 267 386 307 423 340 c 256
+ 434 349 443 360 443 366 c 256
+ 443 375 441 382 436 382 c 256
+ 434 382 425 377 412 369 c 256
+ 387 354 341 333 310 333 c 256
+ 243 333 197 380 156 380 c 256
+ 118 380 62 340 31 307 c 256
+ 21 297 16 288 16 283 c 256
+ 16 277 19 265 24 265 c 256
+ 26 265 35 270 48 278 c 256
+ 73 294 108 315 138 315 c 256
+ 195 315 249 267 292 267 c 256
+EndSplineSet
+Refer: 235 76 N 1 0 0 1 -12 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VL
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni2C62+AAoA"
+EndChar

@@ -1,0 +1,47 @@
+StartChar: dotlessi
+Encoding: 748 305 747
+GlifName: dotlessi
+Width: 306
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 150 -30 basechar 0
+AnchorPoint: "top" 152 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+36 -3 m 256
+ 75 -3 121 2 156 2 c 256
+ 191 2 243 -2 281 -2 c 256
+ 290 -2 296 3 296 12 c 256
+ 296 23 289 27 278 31 c 256
+ 240 43 230 52 230 69 c 258
+ 230 288 l 258
+ 230 337 240 399 243 437 c 256
+ 243 445 238 451 229 451 c 256
+ 226 451 218 448 207 443 c 256
+ 176 429 114 399 42 385 c 256
+ 35 384 30 376 30 367 c 256
+ 30 358 34 349 42 348 c 256
+ 71 344 85 332 85 284 c 258
+ 85 68 l 258
+ 85 47 73 40 37 31 c 256
+ 26 28 20 21 20 11 c 256
+ 20 3 28 -3 36 -3 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vi
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" dotlessi.sc
+Comment: "+AAoA-dotlessi+AAoA"
+EndChar

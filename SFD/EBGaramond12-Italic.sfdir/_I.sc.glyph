@@ -1,13 +1,46 @@
 StartChar: I.sc
-Encoding: 66055 -1 1647
-Width: 327
+Encoding: 180 -1 180
+GlifName: I_.sc
+Width: 315
 VWidth: 0
-Flags: HMW
-AnchorPoint: "ogonek" 196 18 basechar 0
-AnchorPoint: "below_accent" 120 -100 basechar 0
-AnchorPoint: "top_accent" 303 580 basechar 0
+Flags: W
+AnchorPoint: "top" 252 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1679 -1 N 1 0 0 1 0 0 2
-Comment: "."
+SplineSet
+-13 -3 m 256
+ 26 -3 55 3 97 3 c 256
+ 139 3 163 -3 202 -3 c 256
+ 209 -3 224 1 226 9 c 256
+ 229 19 217 23 207 25 c 256
+ 174 32 147 43 158 79 c 258
+ 242 352 l 258
+ 255 393 278 415 322 422 c 256
+ 335 424 349 431 352 441 c 256
+ 354 449 343 453 336 453 c 256
+ 297 453 270 448 235 448 c 256
+ 199 448 176 453 137 453 c 256
+ 130 453 115 449 113 441 c 256
+ 110 431 120 424 131 422 c 256
+ 171 415 180 393 167 352 c 258
+ 83 79 l 258
+ 72 43 37 32 0 25 c 256
+ -12 23 -26 19 -29 9 c 256
+ -31 1 -20 -3 -13 -3 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VH.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-I.sc+AAoA"
 EndChar

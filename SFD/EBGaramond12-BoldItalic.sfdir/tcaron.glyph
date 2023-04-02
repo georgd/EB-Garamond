@@ -1,0 +1,47 @@
+StartChar: tcaron
+Encoding: 1390 357 1389
+GlifName: tcaron
+Width: 441
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 137 -30 basechar 0
+AnchorPoint: "top" 290 534 basechar 0
+LayerCount: 2
+Fore
+Refer: 1377 116 N 1 0 0 1 0 0 2
+Refer: 1807 -1 N 1 0 0 1 426 73 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vt
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni030C.alt
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vdcaron
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" tcaron.sc
+Comment: "+AAoA-tcaron+AAoA"
+EndChar

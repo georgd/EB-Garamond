@@ -1,25 +1,30 @@
 StartChar: uni030A
-Encoding: 778 778 123
+Encoding: 1799 778 1798
+GlifName: uni030A_
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 101 550 mark 0
+AnchorPoint: "top" 75 440 mark 0
 LayerCount: 2
 Fore
 SplineSet
-143 660 m 0
- 176 660 199 637 199 605 c 0
- 199 535 132 493 87 493 c 0
- 54 493 33 518 33 551 c 0
- 33 610 97 660 143 660 c 0
-70 560 m 0
- 70 538 82 521 102 521 c 0
- 129 521 162 556 162 592 c 0
- 162 614 147 632 126 632 c 0
- 97 632 70 598 70 560 c 0
+87 493 m 256
+ 132 493 199 535 199 605 c 256
+ 199 637 176 660 143 660 c 256
+ 97 660 33 610 33 551 c 256
+ 33 518 54 493 87 493 c 256
+102 521 m 256
+ 82 521 70 538 70 560 c 256
+ 70 598 97 632 126 632 c 256
+ 147 632 162 614 162 592 c 256
+ 162 556 129 521 102 521 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 16 subtable" uni030A.stack
-Substitution2: "Single Substitution lookup 14 subtable" uni030A.stack
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" uni030A.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" uni030A.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" uni030A.sc
+Comment: "+AAoA-uni030A+AAoA"
 EndChar

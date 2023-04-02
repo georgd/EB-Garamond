@@ -1,12 +1,67 @@
 StartChar: U.sinf
-Encoding: 1114353 -1 1352
+Encoding: 402 -1 401
 GlifName: U_.sinf
-Width: 476
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 522
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+419 184 m 256
+ 420 208 429 225 452 229 c 256
+ 467 232 473 236 473 241 c 256
+ 473 246 465 248 454 248 c 256
+ 439 248 423 246 402 246 c 256
+ 383 246 373 247 353 247 c 256
+ 342 247 334 245 334 240 c 256
+ 334 235 347 230 356 228 c 257
+ 374 223 381 194 382 163 c 256
+ 383 117 385 62 385 36 c 256
+ 385 -58 345 -122 262 -122 c 256
+ 176 -122 119 -47 119 32 c 258
+ 119 185 l 258
+ 119 209 136 226 146 229 c 256
+ 160 233 168 236 168 241 c 256
+ 168 246 160 247 149 247 c 256
+ 135 247 117 246 97 246 c 256
+ 73 246 54 248 34 248 c 256
+ 23 248 16 246 16 241 c 256
+ 16 236 22 232 37 228 c 256
+ 51 224 67 213 67 184 c 258
+ 67 49 l 258
+ 67 -67 122 -152 247 -152 c 256
+ 341 -152 410 -85 413 8 c 256
+ 415 63 414 115 419 184 c 256
+EndSplineSet
 Fore
-Refer: 1251 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 398 -1 N 1 0 0 1 0 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VU.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+V=U.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+V=U.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-U.sinf+AAoA"
 EndChar

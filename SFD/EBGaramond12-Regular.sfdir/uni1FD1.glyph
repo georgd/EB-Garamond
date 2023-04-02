@@ -1,13 +1,39 @@
 StartChar: uni1FD1
-Encoding: 8145 8145 2626
+Encoding: 2755 8145 2754
 GlifName: uni1F_D_1
-Width: 221
+Width: 238
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 130 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+220 555 m 258
+ 17 555 l 258
+ -2 555 -7 521 -7 512 c 256
+ -7 506 0 500 7 500 c 258
+ 202 500 l 258
+ 223 500 233 521 233 543 c 256
+ 233 549 226 555 220 555 c 258
+150 343 m 256
+ 150 391 140 418 111 418 c 256
+ 73 418 63 374 65 332 c 257
+ 67 86 l 258
+ 68 19 87 -14 121 -14 c 256
+ 171 -14 198 28 198 62 c 256
+ 198 73 197 78 188 78 c 256
+ 185 78 174 64 153 64 c 256
+ 139 64 125 70 125 95 c 256
+ 125 155 150 307 150 343 c 256
+EndSplineSet
 Fore
-Refer: 967 772 N 1 0 0 1 -67 10 2
-Refer: 2407 953 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" iota uni0304
+Refer: 1020 953 N 1 0 0 1 0 0 2
+Refer: 1127 175 N 1 0 0 1 -20 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FD1+AAoA"
 EndChar

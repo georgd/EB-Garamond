@@ -1,0 +1,36 @@
+StartChar: uni0331
+Encoding: 2015 817 2014
+GlifName: uni0331
+Width: 0
+VWidth: 0
+AnchorPoint: "bottom" 0 -30 mark 0
+LayerCount: 2
+Back
+SplineSet
+64 -141 m 258
+ 279 -141 l 258
+ 297 -141 310 -111 310 -102 c 256
+ 310 -96 303 -91 297 -91 c 258
+ 74 -91 l 258
+ 56 -91 50 -120 50 -129 c 256
+ 50 -135 57 -141 64 -141 c 258
+EndSplineSet
+Fore
+SplineSet
+-151 -161 m 258
+ 129 -161 l 258
+ 151 -161 172 -129 172 -94 c 256
+ 172 -84 165 -75 152 -75 c 258
+ -132 -75 l 258
+ -151 -75 -172 -102 -172 -142 c 256
+ -172 -152 -164 -161 -151 -161 c 258
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0331+AAoA"
+EndChar

@@ -1,46 +1,97 @@
 StartChar: z
-Encoding: 122 122 65
-Width: 381
+Encoding: 3030 122 3029
+GlifName: z
+Width: 407
 VWidth: 0
-Flags: MW
-AnchorPoint: "below_accent" 134 -100 basechar 0
-AnchorPoint: "top_accent" 282 550 basechar 0
+Flags: W
+AnchorPoint: "bottom" 165 -30 basechar 0
+AnchorPoint: "top" 257 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+229 -34 m 256
+ 265 -34 360 36 360 92 c 256
+ 360 124 341 143 327 143 c 256
+ 315 143 312 138 312 114 c 256
+ 312 69 308 18 263 18 c 256
+ 240 18 219 37 196 56 c 256
+ 171 77 146 98 116 98 c 256
+ 100 98 91 96 75 82 c 257
+ 90 75 l 257
+ 378 366 l 258
+ 397 385 410 406 410 416 c 256
+ 410 422 405 428 401 428 c 256
+ 391 428 378 417 371 410 c 256
+ 356 395 346 389 326 389 c 256
+ 310 389 286 398 261 407 c 256
+ 237 416 211 424 187 424 c 256
+ 165 424 115 400 92 378 c 256
+ 60 348 42 326 42 290 c 256
+ 42 268 56 256 63 256 c 256
+ 69 256 95 268 104 278 c 257
+ 109 284 109 288 104 296 c 256
+ 96 308 94 322 94 332 c 256
+ 93 352 118 376 142 376 c 256
+ 177 376 208 362 235 350 c 256
+ 259 339 280 329 300 329 c 256
+ 317 329 325 337 339 356 c 257
+ 316 348 l 257
+ 25 59 l 258
+ 6 41 0 20 1 6 c 256
+ 2 -7 11 -20 15 -20 c 256
+ 20 -20 30 -19 30 -6 c 256
+ 30 25 53 52 93 52 c 256
+ 106 52 123 35 143 16 c 256
+ 168 -8 196 -34 229 -34 c 256
+EndSplineSet
 Fore
 SplineSet
-422 428 m 0
- 426 428 431 422 431 416 c 0
- 431 406 418 384 399 366 c 2
- 135 114 l 2
- 127 106 125 96 130 96 c 0
- 180 96 238 18 284 18 c 0
- 329 18 337 69 337 98 c 0
- 337 114 335 116 335 129 c 0
- 335 141 335 143 348 143 c 0
- 362 143 381 124 381 92 c 0
- 381 31 290 -34 250 -34 c 0
- 172 -34 131 52 97 52 c 0
- 57 52 34 25 34 -6 c 0
- 34 -19 24 -20 19 -20 c 0
- 15 -20 6 -7 5 6 c 0
- 4 20 10 41 29 59 c 2
- 308 320 l 18
- 316 328 304 335 285 342 c 0
- 265 350 201 376 146 376 c 0
- 122 376 97 352 98 332 c 0
- 98 322 100 308 108 296 c 0
- 113 288 113 284 108 278 c 0
- 99 268 73 256 67 256 c 0
- 60 256 46 268 46 290 c 0
- 46 326 64 348 96 378 c 0
- 119 400 169 424 191 424 c 0
- 245 424 316 389 347 389 c 0
- 367 389 377 396 392 410 c 0
- 399 417 412 428 422 428 c 0
+229 -34 m 256
+ 265 -34 360 36 360 92 c 256
+ 360 124 341 143 327 143 c 256
+ 315 143 312 138 312 114 c 256
+ 312 69 308 18 263 18 c 256
+ 240 18 219 37 196 56 c 256
+ 171 77 146 98 116 98 c 256
+ 100 98 91 96 75 82 c 257
+ 90 75 l 257
+ 375 356 l 258
+ 394 375 407 396 407 406 c 256
+ 407 412 402 418 398 418 c 256
+ 388 418 375 407 368 400 c 256
+ 353 385 343 379 323 379 c 256
+ 306 379 284 389 260 398 c 256
+ 238 406 216 414 194 414 c 256
+ 172 414 122 390 99 368 c 256
+ 67 338 49 316 49 280 c 256
+ 49 258 63 246 70 246 c 256
+ 76 246 102 258 111 268 c 257
+ 116 274 116 278 111 286 c 256
+ 103 298 101 312 101 322 c 256
+ 101 342 125 366 149 366 c 256
+ 181 366 208 353 234 340 c 256
+ 256 329 277 319 297 319 c 256
+ 314 319 322 327 336 346 c 257
+ 313 338 l 257
+ 25 59 l 258
+ 6 41 0 20 1 6 c 256
+ 2 -7 11 -20 15 -20 c 256
+ 20 -20 30 -19 30 -6 c 256
+ 30 25 53 52 93 52 c 256
+ 106 52 123 35 143 16 c 256
+ 168 -8 196 -34 229 -34 c 256
 EndSplineSet
-Substitution2: "Smallcaps1 subtable" z.sc
-Substitution2: "sups subtable" z.sups
-Substitution2: "sinf subtable" z.sinf
-Substitution2: "ordn subtable" z.ordn
-Substitution2: "subs subtable" z.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" Z.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" z.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" z.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" z.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" z.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" z.subs
+Comment: "+AAoA-z+AAoA"
 EndChar

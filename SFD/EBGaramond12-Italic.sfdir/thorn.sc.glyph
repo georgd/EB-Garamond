@@ -1,41 +1,17 @@
 StartChar: thorn.sc
-Encoding: 66195 -1 1787
-Width: 499
+Encoding: 1399 -1 1398
+GlifName: thorn.sc
+Width: 511
 VWidth: 0
-Flags: HMW
-AnchorPoint: "ogonek" 196 18 basechar 0
-AnchorPoint: "below_accent" 120 -100 basechar 0
-AnchorPoint: "top_accent" 303 580 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-204 97 m 2
- 190 51 213 33 257 24 c 0
- 277 20 282 15 282 6 c 0
- 282 -2 268 -5 252 -5 c 0
- 202 -5 186 0 144 0 c 24
- 97 0 74 -5 24 -5 c 0
- 8 -5 0 -2 0 6 c 0
- 0 15 13 20 36 24 c 0
- 85 33 118 51 132 97 c 2
- 210 349 l 2
- 224.501953125 395.846679688 213 412 169 421 c 0
- 149 425 145 432 145 441 c 0
- 145 449 159 452 175 452 c 0
- 225 452 240 449 281 449 c 24
- 321 449 333 452 383 452 c 0
- 399 452 407 449 407 441 c 0
- 407 432 393 425 370 421 c 0
- 321 412 296.679014367 389.108412431 285 354 c 0
- 278.371370224 334.073603755 311 350 341 350 c 0
- 417 350 494 307 494 231 c 0
- 494 130 389 73 288 73 c 0
- 278 73 255 75 255 86 c 0
- 255 94 264.045898438 98.0908203125 273 99 c 0
- 346 106 417 147 417 221 c 0
- 417 273 377 316 325 316 c 0
- 297 316 269.731746726 307.823780787 262 283 c 2
- 204 97 l 2
-EndSplineSet
-Comment: "."
+Refer: 390 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-thorn.sc+AAoA"
 EndChar

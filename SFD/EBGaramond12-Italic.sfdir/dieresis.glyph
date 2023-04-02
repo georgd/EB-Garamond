@@ -1,9 +1,20 @@
 StartChar: dieresis
-Encoding: 168 168 72
-Width: 271
+Encoding: 719 168 718
+GlifName: dieresis
+Width: 300
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 222 440 mark 0
 LayerCount: 2
 Fore
-Refer: 624 776 S 1 0 0 1 180 0 2
+Refer: 1793 776 N 1 0 0 1 156 19 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" dieresis.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" dieresis.sc
+Comment: "+AAoA-dieresis+AAoA"
 EndChar

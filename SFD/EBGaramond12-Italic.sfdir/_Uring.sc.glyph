@@ -1,10 +1,19 @@
 StartChar: Uring.sc
-Encoding: 66307 -1 1899
-Width: 563
+Encoding: 427 -1 426
+GlifName: U_ring.sc
+Width: 574
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 394 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1900 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 396 -1 N 1 0 0 1 0 0 2
+Refer: 1304 730 N 1 0 0 1 228 63 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Uring.sc+AAoA"
 EndChar

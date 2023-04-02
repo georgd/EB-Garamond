@@ -1,13 +1,56 @@
 StartChar: Sacute
-Encoding: 346 346 253
-Width: 464
+Encoding: 361 346 360
+GlifName: S_acute
+Width: 467
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 138 -30 basechar 0
+AnchorPoint: "top.cap" 370 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+337 697 m 256
+ 340 697 346 699 355 706 c 256
+ 395 736 445 774 485 808 c 256
+ 494 816 498 820 498 827 c 256
+ 498 841 454 850 440 850 c 256
+ 429 850 420 847 413 837 c 256
+ 386 798 360 758 336 718 c 256
+ 333 713 331 707 331 703 c 256
+ 331 700 333 697 337 697 c 256
+214 16 m 256
+ 139 16 84 82 84 157 c 256
+ 84 184 83 196 72 196 c 256
+ 62 196 58 190 56 176 c 256
+ 45 97 13 35 13 23 c 256
+ 13 9 15 0 23 0 c 256
+ 37 0 57 13 67 13 c 256
+ 77 13 127 -14 194 -14 c 256
+ 304 -14 421 46 421 154 c 256
+ 421 234 347 308 303 354 c 256
+ 270 388 213 455 213 513 c 256
+ 213 577 257 630 328 630 c 256
+ 395 630 432 583 432 493 c 256
+ 432 478 433 459 443 459 c 256
+ 447 459 456 471 459 491 c 256
+ 475 594 497 619 497 622 c 256
+ 497 627 495 638 485 638 c 256
+ 469 638 466 627 446 628 c 256
+ 424 629 383 659 340 659 c 256
+ 215 659 138 584 138 479 c 256
+ 138 421 179 364 233 303 c 256
+ 297 231 339 178 339 120 c 256
+ 339 67 277 16 214 16 c 256
+EndSplineSet
 Fore
-Refer: 2468 -1 N 1 0 0 1 325 0 2
-Refer: 45 83 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Sacute.sc
-MultipleSubs2: "CCMP_Precomp subtable" S acutecomb.cap
+Refer: 352 83 N 1 0 0 1 0 0 2
+Refer: 513 -1 N 1 0 0 1 241 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Sacute.sc
+Comment: "+AAoA-Sacute+AAoA"
 EndChar

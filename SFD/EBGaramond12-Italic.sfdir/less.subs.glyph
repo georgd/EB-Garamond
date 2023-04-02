@@ -1,25 +1,25 @@
 StartChar: less.subs
-Encoding: 65634 -1 1226
-Width: 328
+Encoding: 1047 -1 1046
+GlifName: less.subs
+Width: 368
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-104 137 m 2
- 302 33 l 10
- 312 28 310 9 308 4 c 0
- 307 1 302 -3 298 -3 c 0
- 297 -3 297 -3 296 -3 c 10
- 75 117 l 26
- 66 122 53 129 54 133 c 0
- 56 138 68 156 82 161 c 26
- 383 281 l 18
- 384 281 384 281 385 281 c 0
- 389 281 391 276 389 272 c 8
- 381 259 376 250 362 245 c 18
- 104 140 l 2
- 102 139 102 138 104 137 c 2
-EndSplineSet
-Validated: 1
+Refer: 1043 -1 N 1 0 0 1 -86 -278 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vless.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vless.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-less.subs+AAoA"
 EndChar

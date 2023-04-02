@@ -1,10 +1,19 @@
 StartChar: uni2223
-Encoding: 8739 8739 875
+Encoding: 2771 8739 2770
+GlifName: uni2223
 Width: 260
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 106 124 N 1 0 0 1 0 0 3
-Validated: 1
+SplineSet
+113 -289 m 256
+ 122 -289 161 -286 161 -265 c 258
+ 161 694 l 258
+ 161 701 154 707 147 707 c 256
+ 141 707 101 698 101 676 c 258
+ 101 -275 l 258
+ 101 -282 107 -289 113 -289 c 256
+EndSplineSet
+Comment: "+AAoA-uni2223+AAoA"
 EndChar

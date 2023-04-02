@@ -1,14 +1,12 @@
 StartChar: Epsilon.sc
-Encoding: 1115035 -1 2747
+Encoding: 122 -1 122
 GlifName: E_psilon.sc
 Width: 480
 VWidth: 0
-Flags: HMW
-AnchorPoint: "grk_top" 228 590 basechar 0
-AnchorPoint: "grk_bottom" 244 -147 basechar 0
-AnchorPoint: "grk_uc_right" 468 190 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 247 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 2723 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 84 -1 N 1 0 0 1 0 0 2
+Comment: "+AAoA-Epsilon.sc+AAoA"
 EndChar

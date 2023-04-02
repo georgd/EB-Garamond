@@ -1,11 +1,38 @@
 StartChar: cedilla
-Encoding: 184 184 111
+Encoding: 670 184 669
 GlifName: cedilla
-Width: 377
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+131 -129 m 256
+ 138 -129 144 -123 157 -123 c 256
+ 192 -123 216 -144 216 -180 c 256
+ 216 -206 203 -225 177 -225 c 256
+ 144 -225 131 -214 124 -214 c 256
+ 120 -214 111 -219 111 -233 c 256
+ 111 -252 114 -274 141 -274 c 256
+ 177 -274 266 -219 266 -139 c 256
+ 266 -106 237 -77 205 -63 c 257
+ 201 -62 194 -57 194 -51 c 256
+ 194 -49 196 -45 198 -43 c 257
+ 237 8 l 257
+ 206 8 l 257
+ 118 -104 l 258
+ 115 -108 113 -111 113 -114 c 256
+ 113 -123 124 -129 131 -129 c 256
+EndSplineSet
 Fore
-Refer: 623 807 N 1 0 0 1 106 0 2
-Validated: 1
+Refer: 1996 807 N 1 0 0 1 101 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" cedilla.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" cedilla.sc
+Comment: "+AAoA-cedilla+AAoA"
 EndChar

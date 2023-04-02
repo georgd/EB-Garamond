@@ -1,15 +1,58 @@
 StartChar: uni0157
-Encoding: 343 343 249
+Encoding: 1573 343 1572
 GlifName: uni0157
 Width: 334
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 133 -30 basechar 0
+AnchorPoint: "top" 191 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+89 -275 m 256
+ 114 -275 197 -239 197 -154 c 256
+ 197 -98 157 -57 109 -57 c 256
+ 80 -57 63 -76 63 -100 c 256
+ 63 -122 90 -140 113 -145 c 256
+ 131 -149 143 -156 143 -174 c 256
+ 143 -202 129 -239 90 -253 c 256
+ 81 -256 76 -261 76 -266 c 256
+ 76 -271 81 -275 89 -275 c 256
+160 67 m 257
+ 160 264 l 258
+ 160 331 198 348 230 348 c 256
+ 250 348 273 330 290 330 c 256
+ 310 330 329 362 329 382 c 256
+ 329 400 309 414 281 414 c 256
+ 257 414 220 399 189 371 c 256
+ 182 365 169 346 165 346 c 256
+ 164 346 164 346 164 348 c 257
+ 166 380 167 416 167 423 c 257
+ 166 426 164 430 161 430 c 256
+ 160 430 160 429 159 429 c 257
+ 132 413 99 386 48 374 c 256
+ 44 373 39 368 39 362 c 256
+ 39 356 44 350 49 349 c 256
+ 82 342 90 313 90 277 c 258
+ 90 62 l 257
+ 89 35 72 30 52 24 c 257
+ 41 20 29 16 29 6 c 256
+ 29 -2 42 -3 49 -3 c 256
+ 89 -3 95 2 130 2 c 256
+ 165 2 177 -3 217 -3 c 256
+ 224 -3 237 -2 237 6 c 256
+ 237 16 225 20 214 24 c 257
+ 194 30 161 40 160 67 c 257
+EndSplineSet
 Fore
-Refer: 128 806 N 1 0 0 1 25 0 2
-Refer: 12 114 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" uni0157.sc
-MultipleSubs2: "CCMP_Precomp subtable" r uni0326
-Position2: "rtbd subtable" dx=0 dy=0 dh=-17 dv=0
+Refer: 1337 114 N 1 0 0 1 0 0 2
+Refer: 1995 806 N 1 0 0 1 132 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni0157.sc
+Comment: "+AAoA-uni0157+AAoA"
 EndChar

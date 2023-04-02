@@ -1,34 +1,70 @@
 StartChar: question
-Encoding: 63 63 74
-Width: 421
+Encoding: 1310 63 1309
+GlifName: question
+Width: 399
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+148 171 m 256
+ 161 171 169 179 171 195 c 256
+ 176 235 184 248 213 263 c 256
+ 246 281 276 300 304 314 c 256
+ 329 326 354 357 354 412 c 256
+ 354 472 326 534 281 582 c 256
+ 236 630 183 661 126 661 c 256
+ 86 661 55 639 55 614 c 256
+ 55 578 84 541 114 541 c 256
+ 128 541 139 544 149 548 c 257
+ 158 551 167 555 180 555 c 256
+ 227 555 274 526 274 468 c 256
+ 274 437 251 418 222 405 c 256
+ 148 372 88 345 88 291 c 256
+ 88 254 101 223 113 202 c 256
+ 125 182 138 171 148 171 c 256
+144 -14 m 256
+ 185 -14 219 20 219 61 c 256
+ 219 102 185 136 144 136 c 256
+ 103 136 69 102 69 61 c 256
+ 69 20 103 -14 144 -14 c 256
+EndSplineSet
 Fore
 SplineSet
-172 111 m 0
- 221 111 263 84 263 48 c 0
- 263 12 221 -14 172 -14 c 0
- 123 -14 81 12 81 48 c 0
- 81 84 123 111 172 111 c 0
-117 210 m 1
- 108 230 93 251 93 297 c 0
- 93 334 142 358 221 389 c 0
- 257 403 297 431 297 457 c 0
- 297 520 258 567 176 568 c 0
- 153 568 142 564 119 564 c 0
- 94 564 67 592 67 622 c 0
- 67 645 98 661 119 661 c 0
- 161 661 215 644 257 611 c 0
- 328 555 376 471 376 418 c 0
- 376 367 347 343 322 332 c 0
- 267 308 254 302 214 281 c 0
- 179 263 176 236 175 205 c 0
- 175 193 166 180 151 180 c 0
- 140 180 123 193 117 210 c 1
+148 171 m 256
+ 161 171 169 179 171 195 c 256
+ 176 235 184 248 213 263 c 256
+ 246 281 276 300 304 314 c 256
+ 329 326 354 357 354 412 c 256
+ 354 472 326 534 281 582 c 256
+ 236 630 183 661 126 661 c 256
+ 86 661 51 634 51 609 c 256
+ 51 573 84 517 114 517 c 256
+ 128 517 139 520 149 524 c 256
+ 158 528 172 536 204 536 c 256
+ 239 536 274 520 274 486 c 256
+ 274 449 251 428 209 409 c 256
+ 127 372 88 340 88 291 c 256
+ 88 254 101 223 113 202 c 256
+ 125 182 138 171 148 171 c 256
+144 -14 m 256
+ 185 -14 219 20 219 61 c 256
+ 219 102 185 136 144 136 c 256
+ 103 136 69 102 69 61 c 256
+ 69 20 103 -14 144 -14 c 256
 EndSplineSet
-Substitution2: "sups subtable" question.sups
-Substitution2: "sinf subtable" question.sinf
-Substitution2: "ordn subtable" question.ordn
-Substitution2: "subs subtable" question.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" question.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" question.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" question.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" question.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" question.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" question.subs
+Comment: "+AAoA-question+AAoA"
 EndChar

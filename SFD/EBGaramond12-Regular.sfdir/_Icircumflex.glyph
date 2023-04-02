@@ -1,14 +1,55 @@
 StartChar: Icircumflex
-Encoding: 206 206 142
+Encoding: 190 206 190
 GlifName: I_circumflex
 Width: 340
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 170 -30 basechar 0
+AnchorPoint: "top.cap" 170 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+43 681 m 256
+ 56 681 138 721 164 736 c 256
+ 173 741 175 741 184 736 c 256
+ 210 721 292 680 305 680 c 256
+ 314 680 319 685 319 691 c 256
+ 319 695 318 699 313 703 c 258
+ 215 786 l 258
+ 196 803 189 808 174 808 c 256
+ 159 808 152 803 133 786 c 258
+ 35 703 l 258
+ 30 699 28 695 28 691 c 256
+ 28 685 34 681 43 681 c 256
+130 550 m 258
+ 130 98 l 258
+ 130 51 102 33 52 24 c 256
+ 29 20 19 15 19 6 c 256
+ 19 -2 31 -5 48 -5 c 256
+ 102 -5 126 0 176 0 c 256
+ 222 0 239 -5 293 -5 c 256
+ 310 -5 322 -2 322 6 c 256
+ 322 15 312 20 289 24 c 256
+ 239 33 210 51 210 98 c 258
+ 210 550 l 258
+ 210 597 231 613 281 622 c 256
+ 304 626 314 633 314 642 c 256
+ 314 650 302 653 285 653 c 256
+ 231 653 219 650 176 650 c 256
+ 130 650 113 653 59 653 c 256
+ 42 653 30 650 30 642 c 256
+ 30 633 40 626 63 622 c 256
+ 113 613 130 597 130 550 c 258
+EndSplineSet
 Fore
-Refer: 981 -1 S 1 0 0 1 23 0 2
-Refer: 33 73 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Icircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" I uni0302.cap
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 1906 -1 N 1 0 0 1 169 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Icircumflex.sc
+Comment: "+AAoA-Icircumflex+AAoA"
 EndChar

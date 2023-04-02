@@ -1,0 +1,49 @@
+StartChar: D.swsh
+Encoding: 75 -1 75
+GlifName: D_.swsh
+Width: 913
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+478 -7 m 256
+ 731 -7 906 174 906 377 c 256
+ 906 560 780 655 593 655 c 256
+ 546 655 528 657 488 657 c 256
+ 248 657 100 582 100 452 c 256
+ 100 400 134 348 188 348 c 256
+ 224 348 238 369 238 387 c 256
+ 238 402 228 415 210 418 c 256
+ 173 424 150 440 150 486 c 256
+ 150 559 281 614 373 614 c 256
+ 435 614 448 604 428 540 c 258
+ 284 99 l 258
+ 268 51 256 26 193 24 c 256
+ 170 23 157 15 157 6 c 256
+ 157 -2 165 -5 181 -5 c 256
+ 230 -5 248 0 285 0 c 256
+ 358 0 459 -7 478 -7 c 256
+483 23 m 256
+ 391 23 344 52 372 141 c 258
+ 508 571 l 258
+ 519 605 519 622 603 622 c 256
+ 738 622 820 548 820 395 c 256
+ 820 207 682 23 483 23 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VB.swsh
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VD
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-D.sw+AAoA"
+EndChar

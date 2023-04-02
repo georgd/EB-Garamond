@@ -1,13 +1,57 @@
 StartChar: atilde
-Encoding: 227 227 158
-Width: 451
+Encoding: 586 227 585
+GlifName: atilde
+Width: 491
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 167 -30 basechar 0
+AnchorPoint: "top" 335 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+245 488 m 256
+ 253 488 277 525 302 525 c 256
+ 327 525 389 518 414 518 c 256
+ 439 518 499 585 499 595 c 256
+ 499 605 493 612 483 612 c 256
+ 475 612 461 578 426 578 c 256
+ 401 578 344 586 319 586 c 256
+ 294 586 231 518 231 508 c 256
+ 231 498 235 488 245 488 c 256
+300 -14 m 256
+ 357 -14 417 38 438 70 c 257
+ 441 74 448 87 448 90 c 256
+ 448 111 427 92 424 88 c 257
+ 412 74 370 49 360 49 c 256
+ 343 49 332 71 341 97 c 258
+ 444 381 l 258
+ 448 392 451 401 451 406 c 256
+ 451 416 434 426 417 426 c 256
+ 407 426 401 414 390 388 c 257
+ 387 382 383 379 378 387 c 256
+ 371 398 355 406 345 406 c 256
+ 331 406 284 382 256 362 c 256
+ 150 285 14 130 14 21 c 256
+ 14 4 40 -14 57 -14 c 256
+ 125 -14 186 31 309 168 c 256
+ 315 175 320 171 311 153 c 256
+ 296 122 269 65 269 30 c 256
+ 269 8 281 -14 300 -14 c 256
+329 353 m 256
+ 346 353 369 339 369 321 c 256
+ 369 281 187 46 116 46 c 256
+ 97 46 93 50 93 77 c 256
+ 93 156 265 353 329 353 c 256
+EndSplineSet
 Fore
-Refer: 111 771 N 1 0 0 1 205 0 2
-Refer: 0 97 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" atilde.sc
-MultipleSubs2: "CCMP_Precomp subtable" a tildecomb
+Refer: 496 97 N 1 0 0 1 0 0 2
+Refer: 1413 771 N 1 0 0 1 261 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" atilde.sc
+Comment: "+AAoA-atilde+AAoA"
 EndChar

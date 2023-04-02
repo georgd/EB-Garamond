@@ -1,19 +1,17 @@
 StartChar: uni02CA
-Encoding: 714 714 2669
+Encoding: 1892 714 1891
 GlifName: uni02C_A_
-Width: 186
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-47 478 m 0
- 41 468 31 456 23 456 c 0
- 14 456 14 460 14 469 c 0
- 14 487 45 609 55 645 c 0
- 58 657 72 663 80 663 c 0
- 99 663 118 638 118 622 c 0
- 118 612 68 514 47 478 c 0
-EndSplineSet
-Validated: 1
+Refer: 936 -1 N -1 0 0 1 100 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni02CA+AAoA"
 EndChar

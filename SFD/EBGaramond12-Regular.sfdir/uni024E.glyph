@@ -1,79 +1,84 @@
 StartChar: uni024E
-Encoding: 590 590 2905
+Encoding: 1774 590 1773
 GlifName: uni024E_
-Width: 621
+Width: 578
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 305 -30 basechar 0
+AnchorPoint: "top.cap" 320 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+280 468 m 257
+ 428 468 l 257
+ 413 443 400 422 382 395 c 256
+ 364 367 357 357 349 357 c 256
+ 343 357 336 369 321 395 c 258
+ 280 468 l 257
+66 468 m 258
+ 181 468 l 257
+ 265 330 l 257
+ 270 321 290 283 290 256 c 258
+ 290 108 l 258
+ 290 60 262 33 212 24 c 256
+ 189 20 179 15 179 6 c 256
+ 179 -2 191 -5 208 -5 c 256
+ 262 -5 286 0 336 0 c 256
+ 382 0 399 -5 453 -5 c 256
+ 470 -5 482 -2 482 6 c 256
+ 482 15 472 20 449 24 c 256
+ 399 33 370 63 370 108 c 258
+ 370 256 l 258
+ 370 295 370 303 395 346 c 256
+ 428 403 443 428 469 468 c 257
+ 564 468 l 258
+ 578 468 596 486 596 493 c 256
+ 596 500 588 504 582 504 c 258
+ 492 504 l 257
+ 496 511 501 518 506 526 c 256
+ 542 581 559 607 594 617 c 256
+ 622 625 647 633 647 642 c 256
+ 647 650 635 653 618 653 c 256
+ 595 653 555 650 514 650 c 256
+ 485 650 469 651 439 651 c 256
+ 422 651 410 648 410 640 c 256
+ 410 631 429 622 443 620 c 256
+ 462 617 484 610 484 585 c 256
+ 484 573 479 556 466 534 c 256
+ 460 523 454 513 449 504 c 257
+ 260 504 l 257
+ 229 560 l 258
+ 220 576 216 588 216 596 c 256
+ 216 611 229 616 248 621 c 256
+ 270 626 281 632 281 641 c 256
+ 281 649 269 652 252 652 c 256
+ 231 652 203 650 172 650 c 256
+ 126 650 85 653 55 653 c 256
+ 38 653 26 650 26 642 c 256
+ 26 633 37 627 59 620 c 256
+ 93 610 133 546 148 522 c 258
+ 159 504 l 257
+ 76 504 l 258
+ 64 504 52 487 52 478 c 256
+ 52 472 57 468 66 468 c 258
+EndSplineSet
 Fore
 SplineSet
-66 468 m 2
- 57 468 52 472 52 478 c 0
- 52 487 64 504 76 504 c 2
- 159 504 l 1
- 148 522 l 2
- 133 546 93 610 59 620 c 0
- 37 627 26 633 26 642 c 0
- 26 650 38 653 55 653 c 0
- 85 653 126 650 172 650 c 0
- 203 650 231 652 252 652 c 0
- 269 652 281 649 281 641 c 0
- 281 632 270 626 248 621 c 0
- 229 616 216 611 216 596 c 0
- 216 588 220 576 229 560 c 2
- 260 504 l 1
- 449 504 l 1
- 454 513 460 523 466 534 c 0
- 479 556 484 573 484 585 c 0
- 484 610 462 617 443 620 c 0
- 429 622 410 631 410 640 c 0
- 410 648 422 651 439 651 c 0
- 469 651 485 650 514 650 c 0
- 555 650 595 653 618 653 c 0
- 635 653 647 650 647 642 c 0
- 647 633 622 625 594 617 c 0
- 559 607 542 581 506 526 c 0
- 501 518 496 511 492 504 c 1
- 582 504 l 2
- 588 504 596 500 596 493 c 0
- 596 486 578 468 564 468 c 2
- 469 468 l 1
- 443 428 428 403 395 346 c 0
- 370 303 370 295 370 256 c 2
- 370 108 l 2
- 370 63 399 33 449 24 c 0
- 472 20 482 15 482 6 c 0
- 482 -2 470 -5 453 -5 c 0
- 399 -5 382 0 336 0 c 0
- 286 0 262 -5 208 -5 c 0
- 191 -5 179 -2 179 6 c 0
- 179 15 189 20 212 24 c 0
- 262 33 290 60 290 108 c 2
- 290 256 l 2
- 290 283 270 321 265 330 c 2
- 181 468 l 1
- 66 468 l 2
-428 468 m 1
- 280 468 l 1
- 321 395 l 2
- 336 369 343 357 349 357 c 0
- 357 357 364 367 382 395 c 0
- 400 422 413 443 428 468 c 1
+46 468 m 257
+ 544 468 l 257
+ 559 468 568 477 575 490 c 257
+ 575 491 576 492 576 493 c 256
+ 576 499 568 504 562 504 c 257
+ 56 504 l 257
+ 44 504 32 495 32 486 c 256
+ 32 480 37 468 46 468 c 257
 EndSplineSet
-Validated: 1
-Position2: "Single Positioning lookup 97 subtable" dx=0 dy=0 dh=135 dv=0
-Position2: "Single Positioning lookup 96 subtable" dx=0 dy=0 dh=100 dv=0
-Position2: "Single Positioning lookup 95 subtable" dx=0 dy=0 dh=80 dv=0
-Position2: "Single Positioning lookup 94 subtable" dx=0 dy=0 dh=65 dv=0
-Position2: "Single Positioning lookup 93 subtable" dx=0 dy=0 dh=45 dv=0
-Position2: "Single Positioning lookup 92 subtable" dx=0 dy=0 dh=15 dv=0
-Position2: "Single Positioning lookup 91 subtable" dx=0 dy=0 dh=60 dv=0
-Position2: "Single Positioning lookup 90 subtable" dx=0 dy=0 dh=25 dv=0
-Position2: "Single Positioning lookup 89 subtable" dx=0 dy=0 dh=15 dv=0
-Position2: "Single Positioning lookup 88 subtable" dx=0 dy=0 dh=135 dv=0
-Position2: "Single Positioning lookup 87 subtable" dx=0 dy=0 dh=100 dv=0
-Position2: "Single Positioning lookup 86 subtable" dx=0 dy=0 dh=80 dv=0
-Position2: "Single Positioning lookup 85 subtable" dx=0 dy=0 dh=65 dv=0
-Position2: "Single Positioning lookup 84 subtable" dx=0 dy=0 dh=45 dv=0
-Position2: "Single Positioning lookup 83 subtable" dx=0 dy=0 dh=15 dv=0
+Refer: 463 89 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni024E+AAoA"
 EndChar

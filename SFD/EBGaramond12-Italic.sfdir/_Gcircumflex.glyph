@@ -1,13 +1,64 @@
 StartChar: Gcircumflex
-Encoding: 284 284 205
+Encoding: 152 284 152
+GlifName: G_circumflex
 Width: 687
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 383 -30 basechar 0
+AnchorPoint: "top" 510 675 basechar 0
+AnchorPoint: "top.cap" 668 823 basechar 0
 LayerCount: 2
+Back
+SplineSet
+395 689 m 256
+ 408 689 511 733 538 744 c 256
+ 548 748 558 751 566 744 c 256
+ 588 726 644 688 657 688 c 256
+ 666 688 671 693 671 699 c 256
+ 671 703 669 706 665 711 c 257
+ 593 793 l 258
+ 583 804 566 815 556 815 c 256
+ 546 815 536 809 511 793 c 258
+ 387 711 l 257
+ 382 707 380 703 380 699 c 256
+ 380 693 386 689 395 689 c 256
+716 629 m 257
+ 720 634 721 645 709 645 c 256
+ 694 645 678 629 666 629 c 256
+ 656 629 604 663 523 663 c 256
+ 277 663 98 486 98 254 c 256
+ 98 82 229 -14 405 -14 c 256
+ 477 -14 555 26 574 42 c 257
+ 582 48 590 55 592 60 c 257
+ 594 64 578 76 578 88 c 256
+ 578 103 596 174 614 213 c 256
+ 626 240 641 251 671 256 c 256
+ 683 258 696 267 696 276 c 256
+ 696 285 687 290 682 290 c 256
+ 649 290 631 287 598 287 c 256
+ 552 287 526 290 480 290 c 256
+ 466 290 456 283 456 274 c 256
+ 456 265 465 256 479 256 c 256
+ 498 256 554 252 542 208 c 258
+ 514 100 l 258
+ 507 73 478 23 418 23 c 256
+ 311 23 182 110 182 242 c 256
+ 182 436 315 628 513 628 c 256
+ 552 628 590 616 607 593 c 256
+ 628 565 622 523 616 493 c 256
+ 614 481 619 467 631 467 c 256
+ 638 467 647 477 649 487 c 256
+ 658 532 694 599 716 629 c 257
+EndSplineSet
 Fore
-Refer: 2075 -1 N 1 0 0 1 375 0 2
-Refer: 40 71 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Gcircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" G uni0302.cap
+Refer: 140 71 N 1 0 0 1 0 0 2
+Refer: 1770 -1 N 1 0 0 1 369 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Gcircumflex.sc
+Comment: "+AAoA-Gcircumflex+AAoA"
 EndChar

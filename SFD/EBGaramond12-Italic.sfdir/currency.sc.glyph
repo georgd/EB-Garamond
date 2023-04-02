@@ -1,11 +1,17 @@
 StartChar: currency.sc
-Encoding: 66112 -1 1704
-Width: 483
+Encoding: 694 -1 693
+GlifName: currency.sc
+Width: 477
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1076 164 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 692 164 N 0.838 0 0 0.838 27 9 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-currency.sc+AAoA"
 EndChar

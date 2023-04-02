@@ -1,12 +1,21 @@
 StartChar: germandbls.sc
-Encoding: 66164 -1 1756
-Width: 830
+Encoding: 893 -1 892
+GlifName: germandbls.sc
+Width: 856
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top_1" 287 503 basechar 0
+AnchorPoint: "top_2" 715 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1689 -1 N 1 0 0 1 415 0 2
-Refer: 1689 -1 N 1 0 0 1 0 0 2
-Substitution2: "germandbls_variants subtable" germandbls.sc1
-Comment: "."
+Refer: 355 -1 N 1 0 0 1 0 0 2
+Refer: 355 -1 N 1 0 0 1 428 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss05' Style Set 5 in Latin lookup 36 subtable" germandbls.sc1
+Comment: "+AAoA-germandbls.sc+AAoA"
 EndChar

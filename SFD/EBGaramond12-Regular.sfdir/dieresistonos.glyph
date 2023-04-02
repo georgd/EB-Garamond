@@ -1,14 +1,17 @@
 StartChar: dieresistonos
-Encoding: 901 901 2438
+Encoding: 735 901 734
 GlifName: dieresistonos
-Width: 353
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2704 -1 N 1 0 0 1 136 47 2
-Refer: 2700 -1 N 1 0 0 1 24 19 2
-Refer: 2713 -1 N 1 0 0 1 7 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0308.grkstack acutecomb.grk
+Refer: 2036 836 N 1 0 0 1 152 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-dieresistonos+AAoA"
 EndChar

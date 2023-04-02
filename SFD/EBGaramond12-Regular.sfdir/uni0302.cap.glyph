@@ -1,31 +1,45 @@
 StartChar: uni0302.cap
-Encoding: 1114116 -1 981
+Encoding: 1907 -1 1906
 GlifName: uni0302.cap
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 151 685 mark 0
-AnchorPoint: "hookstack" 249 775 basemark 0
-AnchorPoint: "gravestack" 61 758 basemark 0
-AnchorPoint: "acutestack" 241 758 basemark 0
-AnchorPoint: "top_stack" 151 830 basemark 0
-AnchorPoint: "top_accent" 151 710 mark 0
-LayerCount: 3
+AnchorPoint: "top.cap" 1 675 mark 0
+LayerCount: 2
+Back
+SplineSet
+20 822 m 256
+ 11 822 5 818 5 812 c 256
+ 5 808 7 804 12 800 c 258
+ 110 722 l 258
+ 130 706 136 700 151 700 c 256
+ 166 700 172 706 192 722 c 258
+ 290 800 l 258
+ 295 804 296 808 296 812 c 256
+ 296 818 291 823 282 823 c 256
+ 269 823 187 782 161 767 c 256
+ 152 762 150 762 141 767 c 256
+ 115 782 33 822 20 822 c 256
+EndSplineSet
 Fore
 SplineSet
-20 681 m 0
- 11 681 5 685 5 691 c 0
- 5 695 7 699 12 703 c 2
- 110 786 l 2
- 129 803 136 808 151 808 c 0
- 166 808 173 803 192 786 c 2
- 290 703 l 2
- 295 699 296 695 296 691 c 0
- 296 685 291 680 282 680 c 0
- 269 680 187 721 161 736 c 0
- 152 741 150 741 141 736 c 0
- 115 721 33 681 20 681 c 0
+-130 696 m 256
+ -117 696 -35 736 -9 751 c 256
+ 0 756 2 756 11 751 c 256
+ 37 736 119 695 132 695 c 256
+ 141 695 146 700 146 706 c 256
+ 146 710 145 714 140 718 c 258
+ 42 801 l 258
+ 23 817 16 823 1 823 c 256
+ -14 823 -21 817 -40 801 c 258
+ -138 718 l 258
+ -143 714 -145 710 -145 706 c 256
+ -145 700 -139 696 -130 696 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "c2sc subtable" uni0302.sc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0302.cap+AAoA"
 EndChar

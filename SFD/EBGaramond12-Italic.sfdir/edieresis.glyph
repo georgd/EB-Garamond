@@ -1,12 +1,52 @@
 StartChar: edieresis
-Encoding: 235 235 164
-Width: 365
+Encoding: 757 235 756
+GlifName: edieresis
+Width: 341
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 100 -30 basechar 0
+AnchorPoint: "top" 267 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+250 594 m 256
+ 218 594 194 565 194 533 c 256
+ 194 513 209 494 229 494 c 256
+ 259 494 284 521 284 551 c 256
+ 284 572 271 594 250 594 c 256
+401 594 m 256
+ 369 594 345 565 345 533 c 256
+ 345 513 360 494 380 494 c 256
+ 410 494 435 521 435 551 c 256
+ 435 572 422 594 401 594 c 256
+127 -15 m 256
+ 197 -15 258 26 298 91 c 257
+ 300 94 300 97 300 99 c 256
+ 300 105 296 109 290 109 c 256
+ 285 109 278 106 272 98 c 256
+ 252 72 212 35 164 35 c 256
+ 130 35 114 62 114 112 c 256
+ 114 154 117 177 131 207 c 256
+ 135 215 138 217 146 217 c 256
+ 216 217 375 271 375 351 c 256
+ 375 392 355 414 301 414 c 256
+ 144 414 42 218 42 98 c 256
+ 42 22 88 -15 127 -15 c 256
+286 385 m 256
+ 306 385 314 371 314 353 c 256
+ 314 273 186 246 156 246 c 256
+ 151 246 149 246 149 252 c 256
+ 149 282 231 385 286 385 c 256
+EndSplineSet
 Fore
-Refer: 624 776 N 1 0 0 1 189 0 2
-Refer: 13 101 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" edieresis.sc
-MultipleSubs2: "CCMP_Precomp subtable" e uni0308
+Refer: 738 101 N 1 0 0 1 0 0 2
+Refer: 718 168 N 1 0 0 1 45 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" edieresis.sc
+Comment: "+AAoA-edieresis+AAoA"
 EndChar

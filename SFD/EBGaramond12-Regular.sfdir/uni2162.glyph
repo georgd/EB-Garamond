@@ -1,13 +1,105 @@
 StartChar: uni2162
-Encoding: 8546 8546 829
+Encoding: 2886 8546 2885
 GlifName: uni2162
-Width: 1006
+Width: 984
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap_1" 170 -30 basechar 0
+AnchorPoint: "bottom.cap_2" 490 -30 basechar 0
+AnchorPoint: "bottom.cap_3" 814 -30 basechar 0
+AnchorPoint: "top.cap_1" 170 675 basechar 0
+AnchorPoint: "top.cap_2" 490 675 basechar 0
+AnchorPoint: "top.cap_3" 814 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+773 550 m 258
+ 773 98 l 258
+ 773 51 745 33 695 24 c 256
+ 672 20 662 15 662 6 c 256
+ 662 -2 674 -5 691 -5 c 256
+ 745 -5 769 0 819 0 c 256
+ 865 0 882 -5 936 -5 c 256
+ 953 -5 965 -2 965 6 c 256
+ 965 15 955 20 932 24 c 256
+ 882 33 853 51 853 98 c 258
+ 853 550 l 258
+ 853 597 874 613 924 622 c 256
+ 947 626 957 633 957 642 c 256
+ 957 650 945 653 928 653 c 256
+ 874 653 862 650 819 650 c 256
+ 773 650 756 653 702 653 c 256
+ 685 653 673 650 673 642 c 256
+ 673 633 683 626 706 622 c 256
+ 756 613 773 597 773 550 c 258
+450 550 m 258
+ 450 98 l 258
+ 450 51 422 33 372 24 c 256
+ 349 20 339 15 339 6 c 256
+ 339 -2 351 -5 368 -5 c 256
+ 422 -5 446 0 496 0 c 256
+ 542 0 559 -5 613 -5 c 256
+ 630 -5 642 -2 642 6 c 256
+ 642 15 632 20 609 24 c 256
+ 559 33 530 51 530 98 c 258
+ 530 550 l 258
+ 530 597 551 613 601 622 c 256
+ 624 626 634 633 634 642 c 256
+ 634 650 622 653 605 653 c 256
+ 551 653 539 650 496 650 c 256
+ 450 650 433 653 379 653 c 256
+ 362 653 350 650 350 642 c 256
+ 350 633 360 626 383 622 c 256
+ 433 613 450 597 450 550 c 258
+130 550 m 258
+ 130 98 l 258
+ 130 51 102 33 52 24 c 256
+ 29 20 19 15 19 6 c 256
+ 19 -2 31 -5 48 -5 c 256
+ 102 -5 126 0 176 0 c 256
+ 222 0 239 -5 293 -5 c 256
+ 310 -5 322 -2 322 6 c 256
+ 322 15 312 20 289 24 c 256
+ 239 33 210 51 210 98 c 258
+ 210 550 l 258
+ 210 597 231 613 281 622 c 256
+ 304 626 314 633 314 642 c 256
+ 314 650 302 653 285 653 c 256
+ 231 653 219 650 176 650 c 256
+ 130 650 113 653 59 653 c 256
+ 42 653 30 650 30 642 c 256
+ 30 633 40 626 63 622 c 256
+ 113 613 130 597 130 550 c 258
+EndSplineSet
 Fore
-Refer: 33 73 N 1 0 0 1 643 0 2
-Refer: 33 73 N 1 0 0 1 320 0 2
-Refer: 33 73 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 177 73 N 1 0 0 1 320 0 2
+Refer: 177 73 N 1 0 0 1 644 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+VI
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+g7
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p9
+g7
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni2162+AAoA"
 EndChar

@@ -1,31 +1,37 @@
 StartChar: quotedbl.sc
-Encoding: 1114605 -1 1604
+Encoding: 1320 -1 1319
 GlifName: quotedbl.sc
-Width: 309
+Width: 330
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+LayerCount: 2
+Back
 SplineSet
-193 620 m 0
- 193 634 204 648 212 655 c 0
- 228 668 239 676 255 676 c 0
- 265 676 269 661 269 644 c 0
- 269 592 238 505 222 469 c 0
- 217 457 208 444 203 444 c 0
- 198 444 196 458 196 467 c 0
- 197 488 196 506 196 524 c 0
- 196 560 193 619 193 620 c 0
-62 620 m 0
- 62 634 73 648 81 655 c 0
- 97 668 108 676 124 676 c 0
- 134 676 138 661 138 644 c 0
- 138 592 107 505 91 469 c 0
- 86 457 77 444 72 444 c 0
- 67 444 65 458 65 467 c 0
- 66 488 65 506 65 524 c 0
- 65 560 62 619 62 620 c 0
+72 311 m 256
+ 77 311 86 324 91 336 c 256
+ 106 372 138 459 138 511 c 256
+ 138 528 134 543 124 543 c 256
+ 108 543 97 535 81 522 c 256
+ 73 515 62 501 62 487 c 256
+ 62 486 66 427 66 391 c 256
+ 66 373 66 355 65 334 c 256
+ 65 325 67 311 72 311 c 256
 EndSplineSet
-Validated: 33
-Comment: "."
+Fore
+Refer: 1317 34 N 1 0 0 1 0 -134 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vquotedbl
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vquotedbl
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-quotedbl.sc+AAoA"
 EndChar

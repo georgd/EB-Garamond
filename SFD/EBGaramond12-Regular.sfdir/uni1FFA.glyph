@@ -1,13 +1,85 @@
 StartChar: uni1FFA
-Encoding: 8186 8186 1134
+Encoding: 2790 8186 2789
 GlifName: uni1F_F_A_
-Width: 830
+Width: 872
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 457 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+88 513 m 256
+ 94 503 104 491 112 491 c 256
+ 121 491 121 495 121 504 c 256
+ 121 522 90 644 80 680 c 256
+ 77 692 63 698 55 698 c 256
+ 36 698 17 673 17 657 c 256
+ 17 647 67 549 88 513 c 256
+297 81 m 257
+ 302 79 292 72 286 72 c 257
+ 267 70 246 70 228 70 c 258
+ 207 70 l 258
+ 158 70 120 76 99 113 c 256
+ 90 129 81 143 68 143 c 256
+ 63 143 59 139 59 134 c 256
+ 59 133 60 131 60 130 c 257
+ 78 79 96 37 101 12 c 256
+ 103 3 105 -5 115 -5 c 256
+ 145 -5 167 0 195 0 c 256
+ 232 0 254 1 270 1 c 256
+ 304 1 314 0 370 0 c 256
+ 377 0 379 6 378 11 c 257
+ 374 37 368 60 353 71 c 256
+ 266 135 220 252 220 377 c 256
+ 220 497 300 631 428 631 c 256
+ 565 631 650 469 650 332 c 256
+ 650 227 586 124 523 77 c 256
+ 519 74 505 58 501 48 c 257
+ 500 45 492 24 492 11 c 256
+ 492 4 494 0 500 0 c 256
+ 556 0 566 1 599 1 c 256
+ 616 1 638 0 675 0 c 256
+ 703 0 725 -5 755 -5 c 256
+ 765 -5 767 3 769 12 c 256
+ 774 37 792 79 810 130 c 257
+ 810 131 811 133 811 134 c 256
+ 811 139 807 143 802 143 c 256
+ 789 143 780 129 771 113 c 256
+ 750 76 711 70 663 70 c 258
+ 638 70 l 258
+ 616 70 590 70 567 74 c 256
+ 562 75 571 83 575 85 c 256
+ 677 137 750 242 750 365 c 256
+ 750 531 602 664 441 664 c 256
+ 265 664 120 523 120 345 c 256
+ 120 226 194 128 297 81 c 257
+EndSplineSet
 Fore
-Refer: 2695 -1 N 1 0 0 1 -17 35 2
-Refer: 1133 937 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" uni03A9 gravecomb.grk
+Refer: 304 8486 N 1 0 0 1 42 0 2
+Refer: 935 -1 N 1 0 0 1 49 24 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOmega
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VOmega
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1FFA+AAoA"
 EndChar

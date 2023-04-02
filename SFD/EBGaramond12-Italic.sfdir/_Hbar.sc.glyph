@@ -1,10 +1,27 @@
 StartChar: Hbar.sc
-Encoding: 66235 -1 1827
-Width: 605
+Encoding: 174 -1 174
+GlifName: H_bar.sc
+Width: 640
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 407 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1828 -1 N 1 0 0 1 0 0 2
-Comment: "."
+SplineSet
+93 323 m 258
+ 604 323 l 258
+ 620 323 640 338 643 347 c 256
+ 646 355 641 359 634 359 c 257
+ 113 359 l 258
+ 100 359 85 352 83 341 c 256
+ 81 332 85 323 93 323 c 258
+EndSplineSet
+Refer: 164 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Hbar.sc+AAoA"
 EndChar

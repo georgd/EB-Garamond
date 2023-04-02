@@ -1,24 +1,61 @@
 StartChar: logicalnot.sc
-Encoding: 1114709 -1 1708
+Encoding: 1091 -1 1090
 GlifName: logicalnot.sc
-Width: 600
+Width: 550
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+232 148 m 256
+ 241 148 280 151 280 172 c 258
+ 280 324 l 258
+ 280 327 281 328 284 328 c 258
+ 419 328 l 258
+ 438 328 450 351 450 368 c 256
+ 450 374 444 378 437 378 c 258
+ 282 378 l 258
+ 280 378 280 379 280 384 c 258
+ 280 525 l 258
+ 280 532 273 538 266 538 c 256
+ 260 538 220 529 220 507 c 258
+ 220 386 l 258
+ 220 380 219 378 213 378 c 258
+ 74 378 l 258
+ 56 378 50 349 50 340 c 256
+ 50 334 57 328 64 328 c 258
+ 216 328 l 258
+ 219 328 220 326 220 323 c 258
+ 220 162 l 258
+ 220 155 226 148 232 148 c 256
+EndSplineSet
 Fore
 SplineSet
-64 322 m 10
- 57 322 50 328 50 334 c 0
- 50 343 53 382 74 382 c 18
- 537 382 l 10
- 544 382 550 375 550 368 c 18
- 550 67 l 10
- 550 46 511 43 502 43 c 0
- 496 43 490 50 490 57 c 18
- 490 304 l 2
- 490 314 486 322 476 322 c 10
- 64 322 l 10
+452 163 m 256
+ 461 163 500 166 500 187 c 258
+ 500 368 l 258
+ 500 375 494 382 487 382 c 258
+ 74 382 l 258
+ 53 382 50 343 50 334 c 256
+ 50 328 57 322 64 322 c 258
+ 426 322 l 258
+ 436 322 440 314 440 304 c 258
+ 440 177 l 258
+ 440 170 446 163 452 163 c 256
 EndSplineSet
-Validated: 1
-Comment: "."
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vlogicalnot
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vlogicalnot
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-logicalnot.sc+AAoA"
 EndChar

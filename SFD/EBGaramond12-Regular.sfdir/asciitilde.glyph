@@ -1,25 +1,49 @@
 StartChar: asciitilde
-Encoding: 126 126 109
+Encoding: 567 126 566
 GlifName: asciitilde
 Width: 500
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+65 261 m 256
+ 70 261 113 308 158 308 c 256
+ 186 308 217 295 247 283 c 256
+ 275 271 302 260 325 260 c 256
+ 374 260 450 348 450 362 c 256
+ 450 368 445 382 440 382 c 256
+ 435 382 382 333 337 333 c 256
+ 307 333 280 343 256 354 c 256
+ 226 367 200 381 175 381 c 256
+ 130 381 50 289 50 279 c 256
+ 50 272 57 261 65 261 c 256
+EndSplineSet
 Fore
 SplineSet
-440 382 m 0
- 445 382 450 368 450 362 c 0
- 450 348 374 260 325 260 c 0
- 277 260 212 308 158 308 c 0
- 113 308 70 261 65 261 c 0
- 57 261 50 272 50 279 c 0
- 50 289 130 381 175 381 c 0
- 221 381 271 333 337 333 c 16
- 382 333 435 382 440 382 c 0
+337 260 m 256
+ 386 260 450 321 450 362 c 256
+ 450 375 435 382 430 382 c 256
+ 425 382 382 319 337 319 c 256
+ 310 319 285 334 259 350 c 256
+ 233 365 205 381 171 381 c 256
+ 101 381 50 306 50 279 c 256
+ 50 272 61 265 69 265 c 256
+ 74 265 110 320 160 320 c 256
+ 189 320 216 306 243 291 c 256
+ 272 276 302 260 337 260 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" asciitilde.sups
-Substitution2: "sinf subtable" asciitilde.sinf
-Substitution2: "ordn subtable" asciitilde.ordn
-Substitution2: "subs subtable" asciitilde.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" asciitilde.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" asciitilde.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" asciitilde.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" asciitilde.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" asciitilde.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" asciitilde.subs
+Comment: "+AAoA-asciitilde+AAoA"
 EndChar

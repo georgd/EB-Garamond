@@ -1,11 +1,13 @@
 StartChar: uni2C7D
-Encoding: 11389 11389 945
+Encoding: 3064 11389 3063
 GlifName: uni2C_7D_
 Width: 672
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 339 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 37 86 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 435 86 N 1 0 0 1 0 0 2
+Comment: "+AAoA-uni2C7D+AAoA"
 EndChar

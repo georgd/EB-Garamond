@@ -1,10 +1,26 @@
 StartChar: minute
-Encoding: 8242 8242 784
-Width: 178
+Encoding: 1088 8242 1087
+GlifName: minute
+Width: 140
 VWidth: 0
-Flags: M
+Flags: W
 LayerCount: 2
 Fore
-Refer: 69 39 N 1 0 0 1 0 0 3
-Validated: 1
+SplineSet
+125 444 m 256
+ 130 444 143 457 151 469 c 257
+ 177 505 210 555 240 624 c 256
+ 249 645 259 676 245 676 c 256
+ 230 676 217 667 198 655 c 256
+ 187 648 173 633 170 619 c 256
+ 156 557 144 520 126 467 c 256
+ 123 458 120 444 125 444 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-minute+AAoA"
 EndChar

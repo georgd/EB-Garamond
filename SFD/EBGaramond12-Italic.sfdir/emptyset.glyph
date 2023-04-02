@@ -1,0 +1,50 @@
+StartChar: emptyset
+Encoding: 786 8709 785
+GlifName: emptyset
+Width: 710
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+360 -20 m 256
+ 572 -20 679 136 679 301 c 256
+ 679 454 552 585 388 585 c 256
+ 214 585 78 421 78 264 c 256
+ 78 99 201 -20 360 -20 c 256
+389 23 m 256
+ 276 23 194 157 194 297 c 256
+ 194 365 201 437 240 485 c 256
+ 273 529 313 541 364 541 c 256
+ 484 541 563 401 563 267 c 256
+ 563 212 558 144 535 100 c 256
+ 507 45 453 23 389 23 c 256
+EndSplineSet
+Fore
+SplineSet
+360 -20 m 256
+ 572 -20 679 136 679 301 c 256
+ 679 454 552 585 388 585 c 256
+ 214 585 78 421 78 264 c 256
+ 78 99 201 -20 360 -20 c 256
+364 31 m 256
+ 243 31 150 129 150 268 c 256
+ 150 397 253 534 386 534 c 256
+ 511 534 608 425 608 298 c 256
+ 608 161 526 31 364 31 c 256
+EndSplineSet
+Refer: 1366 47 N 1 0 0 1 190 -39 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VO
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.98,0.36,0.67,1
+p5
+s."
+EndChar

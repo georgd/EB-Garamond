@@ -1,11 +1,46 @@
 StartChar: P.pc
-Encoding: 1115184 -1 2962
+Encoding: 319 -1 318
 GlifName: P_.pc
-Width: 470
+Width: 440
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2988 -1 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+58 -3 m 256
+ 92 -3 116 2 157 2 c 256
+ 194 2 217 -3 252 -3 c 256
+ 258 -3 269 1 269 8 c 256
+ 269 16 258 20 248 22 c 256
+ 217 28 190 38 190 69 c 258
+ 190 351 l 258
+ 190 369 206 376 229 376 c 256
+ 282 376 321 329 321 274 c 256
+ 321 231 297 190 264 190 c 256
+ 259 190 251 191 243 191 c 256
+ 233 191 230 185 230 179 c 256
+ 230 168 250 163 262 163 c 256
+ 342 163 395 213 395 292 c 256
+ 395 370 321 400 244 400 c 256
+ 207 400 176 396 151 396 c 256
+ 116 396 99 400 65 400 c 256
+ 59 400 47 396 47 389 c 256
+ 47 381 58 374 68 373 c 256
+ 105 369 120 347 120 311 c 258
+ 120 69 l 258
+ 120 38 92 28 61 22 c 256
+ 51 20 40 16 40 8 c 256
+ 40 1 51 -3 58 -3 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH.pc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-P.pc+AAoA"
 EndChar

@@ -1,48 +1,41 @@
 StartChar: four
-Encoding: 52 52 79
+Encoding: 887 52 886
 GlifName: four
-Width: 492
+Width: 480
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-266 104 m 2
- 271 104 278 108 278 112 c 2
- 278 281 l 2
- 278 284 271 285 268 282 c 18
- 116 113 l 2
- 113.323477575 110.027420698 117 104 121 104 c 2
- 266 104 l 2
-311 377 m 2
- 325.635067802 393.42604001 348 421 351 421 c 0
- 357 421 354 414 354 409 c 8
- 354 292 350 226 350 109 c 24
- 350 106 352 103 355 103 c 16
- 370 102 383 102 395 102 c 0
- 414 102 432 103 454 104 c 0
- 460 104 465 101 465 97 c 0
- 465 81 451 53 444 53 c 0
- 429 53 411 54 395 54 c 0
- 383 54 372 53 364 52 c 0
- 359 51 351 47 351 46 c 2
- 351 -133 l 2
- 351 -158 300 -181 293 -181 c 0
- 285 -181 278 -178 278 -168 c 2
- 278 41 l 2
- 278 47 264 50 263 50 c 0
- 181 50 139 44 34 43 c 0
- 29 43 21 43 21 48 c 0
- 21 49 24 55 25 56 c 2
- 311 377 l 2
-EndSplineSet
-Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 35 subtable" four.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 33 subtable" four.lnum
-Substitution2: "Single Substitution lookup 32 subtable" four.ordn
-Substitution2: "Single Substitution lookup 31 subtable" four.subs
-Substitution2: "sups subtable" four.sups
-Substitution2: "sinf subtable" four.sinf
-Substitution2: "ordn subtable" four.ordn
-Substitution2: "subs subtable" four.subs
+Refer: 888 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vfour.lf
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" four.lf
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" four.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" four.sc
+Substitution2: "'onum' Oldstyle Figures lookup 19 subtable" four.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 17 subtable" four.lf
+Substitution2: "'ordn' Ordinals lookup 15 subtable" four.ordn
+Substitution2: "UP subtable" four.numr
+Substitution2: "'sups' Superscript lookup 9 subtable" foursuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" fourinferior
+Substitution2: "'subs' Subscript lookup 7 subtable" four.subs
+Comment: "+AAoA-four.tablining+AAoA"
 EndChar

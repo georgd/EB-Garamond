@@ -1,12 +1,26 @@
 StartChar: uni1F98
-Encoding: 8088 8088 2370
-Width: 788
+Encoding: 2535 8088 2534
+GlifName: uni1F_98
+Width: 857
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 411 -30 basechar 0
+AnchorPoint: "bottomgreek" 416 -30 basechar 0
+AnchorPoint: "top.cap" 617 675 basechar 0
+AnchorPoint: "topgreek" 114 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 126 787 N 1 0 0 1 -110 98 2
-Refer: 2371 837 N 1 0 0 1 339 -65 2
-Refer: 635 919 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" Eta uni0313
+Refer: 2432 7976 N 1 0 0 1 0 0 2
+Refer: 1901 837 N 1 0 0 1 511 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VEta
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni1F98+AAoA"
 EndChar

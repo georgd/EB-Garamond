@@ -1,27 +1,41 @@
 StartChar: uni0310
-Encoding: 784 784 2258
+Encoding: 1957 784 1956
 GlifName: uni0310
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 165 533 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-120 605 m 24
- 120 630 140 651 165 651 c 24
- 190 651 211 630 211 605 c 24
- 211 580 190 560 165 560 c 24
- 140 560 120 580 120 605 c 24
-91 547 m 0
- 103 527 143 509 172 509 c 0
- 208 509 243 533 265 553 c 0
- 277 564 278 564 287 564 c 0
- 293 564 294 560 294 551 c 0
- 294 536 252 461 161 461 c 0
- 66 461 32 519 32 544 c 0
- 32 557 49 568 59 568 c 0
- 69 568 83 562 91 547 c 0
+-2 461 m 256
+ 89 461 131 536 131 551 c 256
+ 131 560 130 564 124 564 c 256
+ 115 564 114 564 102 553 c 256
+ 80 533 45 509 9 509 c 256
+ -20 509 -60 527 -72 547 c 257
+ -80 562 -94 568 -104 568 c 256
+ -114 568 -131 557 -131 544 c 256
+ -131 519 -97 461 -2 461 c 256
 EndSplineSet
-Validated: 1
+Refer: 744 729 N 0.915 0 0 0.915 -76 87 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vdotaccent
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni0310+AAoA"
 EndChar

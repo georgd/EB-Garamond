@@ -1,0 +1,50 @@
+StartChar: arrowdblright
+Encoding: 554 8658 553
+GlifName: arrowdblright
+Width: 1020
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+766 112 m 256
+ 775 112 787 117 793 123 c 256
+ 850 182 907 239 984 279 c 257
+ 997 285 997 286 997 292 c 256
+ 997 298 994 300 985 305 c 256
+ 908 345 851 402 794 461 c 256
+ 788 467 776 472 767 472 c 256
+ 759 472 755 467 758 461 c 256
+ 772 435 786 409 801 385 c 257
+ 128 385 l 258
+ 111 385 103 369 97 353 c 257
+ 97 348 97 339 110 339 c 258
+ 832 339 l 257
+ 842 327 852 315 863 305 c 256
+ 873 295 872 287 863 279 c 257
+ 852 269 841 257 832 245 c 257
+ 128 245 l 258
+ 111 245 103 229 97 213 c 257
+ 97 208 97 199 110 199 c 258
+ 800 199 l 257
+ 785 175 771 149 757 123 c 257
+ 756 121 756 120 756 119 c 256
+ 756 114 760 112 766 112 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Varrowright
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Varrowright
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" a r r o w r i g h t two
+Comment: "+AAoA-arrowdblright+AAoA"
+EndChar

@@ -1,0 +1,31 @@
+StartChar: logicalnot
+Encoding: 1052 172 1051
+GlifName: logicalnot
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+497 42 m 256
+ 515 42 556 51 556 76 c 257
+ 556 368 l 257
+ 556 380 552 389 538 389 c 258
+ 65 389 l 257
+ 40 389 30 348 30 330 c 256
+ 30 323 40 315 50 315 c 258
+ 467 315 l 258
+ 478 315 482 308 482 299 c 258
+ 482 62 l 258
+ 482 51 490 42 497 42 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" logicalnot.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" logicalnot.sc
+Comment: "+AAoA-logicalnot+AAoA"
+EndChar

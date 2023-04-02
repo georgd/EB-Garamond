@@ -1,12 +1,39 @@
 StartChar: s.sups
-Encoding: 1114585 -1 1584
+Encoding: 1366 -1 1365
 GlifName: s.sups
-Width: 203
-VWidth: 167
-Flags: HMW
-LayerCount: 3
+Width: 229
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1281 -1 N 1 0 0 1 0 440 2
-Validated: 1
-Comment: "."
+Refer: 1360 -1 N 1 0 0 1 0 162 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vs.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vs.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vs.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-s.sups+AAoA"
 EndChar

@@ -1,0 +1,47 @@
+StartChar: six.lf
+Encoding: 1358 -1 1357
+GlifName: six.lf
+Width: 527
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+215 -14 m 256
+ 368 -14 516 120 577 317 c 256
+ 630 487 579 631 427 631 c 256
+ 263 631 123 486 66 302 c 256
+ 11 125 68 -14 215 -14 c 256
+244 29 m 256
+ 178 29 193 181 235 319 c 256
+ 277 457 340 585 399 585 c 256
+ 464 585 451 437 408 299 c 256
+ 365 160 302 29 244 29 c 256
+EndSplineSet
+Fore
+SplineSet
+211 -14 m 256
+ 389 -14 485 138 485 230 c 256
+ 485 307 436 354 365 354 c 256
+ 326 354 275 330 241 293 c 256
+ 219 270 218 252 250 265 c 256
+ 260 269 269 272 283 272 c 256
+ 314 272 347 244 348 194 c 256
+ 349 86 302 29 241 29 c 256
+ 186 29 168 71 168 150 c 256
+ 168 330 405 584 574 625 c 256
+ 603 632 606 638 606 651 c 256
+ 606 663 579 664 553 661 c 256
+ 319 634 26 396 26 175 c 256
+ 26 65 80 -14 211 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" six.osf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" six
+Comment: "+AAoA-six.lnum+AAoA"
+EndChar

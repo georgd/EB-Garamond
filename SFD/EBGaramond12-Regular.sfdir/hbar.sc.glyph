@@ -1,12 +1,18 @@
 StartChar: hbar.sc
-Encoding: 1114825 -1 1824
+Encoding: 974 -1 973
 GlifName: hbar.sc
-Width: 605
+Width: 640
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 330 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1674 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 174 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-hbar.sc+AAoA"
 EndChar

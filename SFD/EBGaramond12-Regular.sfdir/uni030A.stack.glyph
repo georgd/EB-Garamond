@@ -1,25 +1,27 @@
 StartChar: uni030A.stack
-Encoding: 1114944 -1 2256
+Encoding: 1938 -1 1937
 GlifName: uni030A_.stack
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 111 630 basemark 0
-AnchorPoint: "top_accent" 111 550 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-115 615 m 0
- 155 615 196 585 196 545 c 0
- 196 502 149 464 109 464 c 0
- 69 464 28 499 28 539 c 0
- 28 579 75 615 115 615 c 0
-69 544 m 0
- 69 519 88 492 116 492 c 0
- 144 492 155 518 155 538 c 0
- 155 567 134 587 109 587 c 0
- 81 587 69 563 69 544 c 0
+-3 464 m 256
+ 37 464 84 502 84 545 c 256
+ 84 585 43 615 3 615 c 256
+ -37 615 -84 579 -84 539 c 256
+ -84 499 -43 464 -3 464 c 256
+4 492 m 256
+ -24 492 -43 519 -43 544 c 256
+ -43 563 -31 587 -3 587 c 256
+ 22 587 43 567 43 538 c 256
+ 43 518 32 492 4 492 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" uni030A.stacksc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030A.stack+AAoA"
 EndChar

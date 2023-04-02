@@ -1,11 +1,27 @@
 StartChar: uni219A
-Encoding: 8602 8602 2357
-Width: 1000
+Encoding: 2754 8602 2753
+GlifName: uni219A_
+Width: 999
 VWidth: 0
-Flags: M
+Flags: W
 LayerCount: 2
 Fore
-Refer: 96 47 N 1 0 0 1 261 -9 2
-Refer: 2020 8592 N 1 0 0 1 0 0 3
-Validated: 5
+Refer: 556 8592 N 1 0 0 1 0 0 2
+Refer: 1366 47 N 1 0 0 1 360 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Varrowleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Varrowleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" a r r o w l e f t slash
+Comment: "+AAoA-uni219A+AAoA"
 EndChar

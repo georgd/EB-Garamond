@@ -1,28 +1,83 @@
 StartChar: lcaron
-Encoding: 318 318 231
+Encoding: 1075 318 1074
 GlifName: lcaron
-Width: 240
+Width: 254
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 121 -30 basechar 0
+LayerCount: 2
 Back
 SplineSet
-192 657 m 0
- 192 683 224 705 245 705 c 0
- 257 705 261 691 261 675 c 0
- 261 670 261 666 260 661 c 0
- 250 592 237 568 222 537 c 0
- 216 525 205 512 200 512 c 0
- 196 512 194 522 194 535 c 0
- 194 554 197 578 197 584 c 0
- 197 601 192 624 192 657 c 0
+92 -19 m 256
+ 96 -19 97 -19 108 -13 c 257
+ 155 7 188 16 225 21 c 257
+ 232 21 239 30 239 39 c 256
+ 239 47 234 49 221 48 c 256
+ 204 46 185 45 178 45 c 256
+ 163 45 157 64 157 110 c 258
+ 157 562 l 258
+ 157 652 164 686 164 698 c 257
+ 163 702 161 704 157 704 c 256
+ 154 704 149 703 144 701 c 256
+ 125 693 95 679 36 664 c 257
+ 30 662 28 657 28 652 c 256
+ 28 646 31 640 37 639 c 256
+ 69 633 87 620 87 566 c 258
+ 87 424 l 258
+ 87 406 83 400 80 400 c 256
+ 77 400 73 401 67 403 c 256
+ 52 408 22 414 -5 414 c 256
+ -145 414 -230 306 -230 190 c 256
+ -230 89 -159 -14 -45 -14 c 256
+ 21 -14 66 26 86 57 c 257
+ 86 51 l 258
+ 86 34 81 4 81 -9 c 256
+ 81 -12 89 -19 92 -19 c 256
+-9 38 m 256
+ -53 38 -159 62 -159 213 c 256
+ -159 346 -82 379 -36 379 c 256
+ 38 379 87 321 87 267 c 258
+ 86 87 l 257
+ 61 58 26 38 -9 38 c 256
+223 512 m 256
+ 229 512 236 520 244 537 c 256
+ 262 574 277 638 277 675 c 256
+ 277 691 276 705 264 705 c 256
+ 243 705 214 678 214 657 c 256
+ 214 641 219 621 219 584 c 256
+ 219 569 216 540 216 535 c 256
+ 216 522 219 512 223 512 c 256
 EndSplineSet
-Refer: 2 108 N 1 0 0 1 0 0 2
 Fore
-Refer: 2926 -1 N 1 0 0 1 187 0 2
-Refer: 2 108 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" lcaron.sc
-MultipleSubs2: "cv82_decomp subtable" l uni030C.alt
-MultipleSubs2: "CCMP_Precomp subtable" l uni030C.alt
+Refer: 1061 108 N 1 0 0 1 0 0 2
+Refer: 1943 -1 N 1 0 0 1 246 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vl
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+g7
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p9
+Vdcaron
+p10
+sVpublic.markColor
+p11
+V0.67,0.95,0.38,1
+p12
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" lcaron.sc
+Comment: "+AAoA-lcaron+AAoA"
 EndChar

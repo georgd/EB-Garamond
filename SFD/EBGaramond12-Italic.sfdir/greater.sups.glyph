@@ -1,11 +1,25 @@
 StartChar: greater.sups
-Encoding: 65942 -1 1534
-Width: 354
-VWidth: 440
-Flags: MW
+Encoding: 922 -1 921
+GlifName: greater.sups
+Width: 370
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1228 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 917 -1 N 1 0 0 1 51 165 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vgreater.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vgreater.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-greater.sups+AAoA"
 EndChar

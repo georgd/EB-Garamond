@@ -1,0 +1,45 @@
+StartChar: asciicircum.ordn
+Encoding: 562 -1 561
+GlifName: asciicircum.ordn
+Width: 350
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+45 425 m 256
+ 58 425 68 436 77 448 c 258
+ 172 582 l 258
+ 174 584 175 585 178 581 c 258
+ 274 448 l 258
+ 283 435 294 425 307 425 c 256
+ 321 425 325 432 321 439 c 257
+ 177 648 l 257
+ 172 648 l 257
+ 30 439 l 257
+ 30 431 28 425 45 425 c 256
+EndSplineSet
+Fore
+SplineSet
+50 425 m 256
+ 67 425 79 438 91 453 c 257
+ 173 567 l 257
+ 178 567 l 257
+ 259 453 l 257
+ 271 438 283 425 300 425 c 256
+ 322 425 323 437 315 447 c 257
+ 177 648 l 257
+ 172 648 l 257
+ 35 447 l 257
+ 27 437 28 425 50 425 c 256
+EndSplineSet
+Guideline: "" "" 175 579 90 0 0
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-asciicircum.ordn+AAoA"
+EndChar

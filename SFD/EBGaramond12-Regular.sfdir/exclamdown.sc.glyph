@@ -1,25 +1,25 @@
 StartChar: exclamdown.sc
-Encoding: 1114698 -1 1697
+Encoding: 841 -1 840
 GlifName: exclamdown.sc
-Width: 282
+Width: 285
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-152 374 m 24
- 119 374 92 401 92 434 c 24
- 92 467 119 494 152 494 c 24
- 185 494 212 467 212 434 c 24
- 212 401 185 374 152 374 c 24
-153 -180 m 0
- 117 -180 101 -145 101 -106 c 0
- 101 -43 114 87 124 205 c 0
- 126 234 137 263 152 263 c 0
- 162 263 172 233 174 211 c 0
- 186 95 201 -21 201 -108 c 0
- 201 -144 186 -180 153 -180 c 0
-EndSplineSet
-Validated: 1
-Comment: "."
+Refer: 834 -1 N 1 0 0 -1 35 457 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|exclam.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|exclam.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-exclamdown.sc+AAoA"
 EndChar

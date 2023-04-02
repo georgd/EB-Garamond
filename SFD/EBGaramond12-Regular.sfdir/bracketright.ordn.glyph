@@ -1,12 +1,25 @@
 StartChar: bracketright.ordn
-Encoding: 1114462 -1 1461
+Encoding: 632 -1 631
 GlifName: bracketright.ordn
-Width: 240
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+Width: 223
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1259 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+Refer: 625 -1 N -1 0 0 1 223 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|bracketleft.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|bracketleft.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-bracketright.ordn+AAoA"
 EndChar

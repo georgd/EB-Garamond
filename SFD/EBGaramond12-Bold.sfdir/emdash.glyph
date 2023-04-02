@@ -1,0 +1,36 @@
+StartChar: emdash
+Encoding: 798 8212 797
+GlifName: emdash
+Width: 962
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+62 185 m 258
+ 867 185 l 258
+ 883 185 898 207 898 227 c 256
+ 898 233 891 239 885 239 c 258
+ 72 239 l 258
+ 53 239 48 206 48 197 c 256
+ 48 191 55 185 62 185 c 258
+EndSplineSet
+Fore
+SplineSet
+37 181 m 258
+ 908 181 l 258
+ 927 181 942 209 942 226 c 256
+ 942 235 932 242 918 242 c 258
+ 49 242 l 258
+ 28 242 20 207 20 195 c 256
+ 20 189 28 181 37 181 c 258
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-emdash+AAoA"
+EndChar

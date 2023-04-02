@@ -1,0 +1,55 @@
+StartChar: uni04D8
+Encoding: 2200 1240 2199
+GlifName: uni04D_8
+Width: 674
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 311 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+292 -14 m 256
+ 526 -14 651 155 651 335 c 256
+ 651 532 487 664 301 664 c 256
+ 67 664 -58 495 -58 315 c 256
+ -58 118 106 -14 292 -14 c 256
+310 33 m 256
+ 179 33 123 208 123 367 c 256
+ 123 513 176 616 281 616 c 256
+ 413 616 470 443 470 283 c 256
+ 470 136 416 33 310 33 c 256
+EndSplineSet
+Fore
+SplineSet
+294 -14 m 256
+ 510 -14 649 145 649 325 c 256
+ 649 532 490 663 316 663 c 256
+ 233 663 176 640 140 624 c 256
+ 115 613 98 607 92 598 c 257
+ 74 567 55 509 49 477 c 256
+ 45 455 40 426 60 426 c 256
+ 78 426 85 438 92 452 c 256
+ 121 511 183 607 293 607 c 256
+ 404 607 473 482 473 288 c 256
+ 473 159 423 37 314 37 c 256
+ 234 37 165 116 165 156 c 256
+ 165 196 185 224 218 224 c 258
+ 525 224 l 257
+ 525 276 l 257
+ 86 276 l 258
+ 44 276 25 254 25 227 c 256
+ 25 113 131 -14 294 -14 c 256
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VO
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni04D8+AAoA"
+EndChar

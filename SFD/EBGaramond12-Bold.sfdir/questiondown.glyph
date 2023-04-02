@@ -1,30 +1,28 @@
 StartChar: questiondown
-Encoding: 191 191 115
-Width: 423
+Encoding: 1316 191 1315
+GlifName: questiondown
+Width: 399
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-277 370 m 0
- 228 370 186 397 186 433 c 0
- 186 469 228 496 277 496 c 0
- 326 496 368 469 368 433 c 0
- 368 397 326 370 277 370 c 0
-332 270 m 1
- 341 250 356 228 356 182 c 0
- 356 145 307 122 228 90 c 0
- 192 76 152 48 152 22 c 0
- 152 -41 191 -89 273 -90 c 0
- 296 -90 307 -86 330 -86 c 0
- 355 -86 382 -116 382 -146 c 0
- 382 -169 351 -185 330 -185 c 0
- 288 -185 234 -168 192 -135 c 0
- 121 -79 67 11 67 64 c 0
- 67 115 99 150 124 161 c 0
- 180 185 197 193 237 214 c 0
- 272 232 273 244 274 275 c 0
- 274 287 283 300 298 300 c 0
- 309 300 326 287 332 270 c 1
-EndSplineSet
+Refer: 1309 63 N -1 0 0 -1 399 480 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|question
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|question
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" questiondown.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" questiondown.sc
+Comment: "+AAoA-questiondown+AAoA"
 EndChar

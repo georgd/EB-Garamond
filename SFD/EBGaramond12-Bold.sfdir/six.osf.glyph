@@ -1,0 +1,60 @@
+StartChar: six.osf
+Encoding: 1414 -1 1413
+GlifName: six.osf
+Width: 514
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+253 -14 m 256
+ 408 -14 473 91 473 202 c 256
+ 473 283 413 340 339 340 c 256
+ 300 340 250 315 234 302 c 256
+ 226 295 220 290 212 282 c 257
+ 195 263 202 242 230 255 c 256
+ 239 259 247 261 261 261 c 256
+ 292 261 318 209 318 149 c 256
+ 318 92 306 37 263 37 c 256
+ 203 37 186 129 186 198 c 256
+ 186 312 227 406 256 453 c 256
+ 297 518 340 558 408 593 c 257
+ 413 596 445 610 445 632 c 256
+ 445 643 417 640 393 631 c 256
+ 285 592 187 529 141 474 c 256
+ 108 434 30 339 30 193 c 256
+ 30 73 101 -14 253 -14 c 256
+EndSplineSet
+Fore
+SplineSet
+253 -14 m 256
+ 403 -14 489 102 489 202 c 256
+ 489 278 417 351 343 351 c 256
+ 304 351 258 315 242 302 c 256
+ 234 295 228 290 220 282 c 257
+ 203 263 210 242 238 255 c 256
+ 247 259 255 261 269 261 c 256
+ 300 261 334 209 334 149 c 256
+ 334 82 303 37 263 37 c 256
+ 203 37 186 129 186 198 c 256
+ 186 312 227 406 256 453 c 256
+ 297 518 340 558 408 593 c 257
+ 413 596 445 610 445 632 c 256
+ 445 643 417 640 393 631 c 256
+ 285 592 187 529 141 474 c 256
+ 108 434 30 339 30 193 c 256
+ 30 73 119 -14 253 -14 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 3186 -20 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" six.lf
+Substitution2: "'tnum' Tabular Numbers lookup 18 subtable" six.tosf
+Substitution2: "'lnum' Lining Figures lookup 16 subtable" six.lf
+Comment: "+AAoA-six+AAoA"
+EndChar

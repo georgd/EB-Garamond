@@ -1,35 +1,67 @@
 StartChar: J
-Encoding: 74 74 40
-Width: 293
+Encoding: 211 74 211
+GlifName: J_
+Width: 376
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 158 708 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top.cap" 205 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+62 -200 m 256
+ 125 -200 178 -173 217 -122 c 256
+ 265 -59 292 40 292 168 c 258
+ 292 550 l 258
+ 292 590 302 602 357 618 c 257
+ 369 622 376 626 376 639 c 256
+ 376 649 370 654 360 654 c 256
+ 318 654 244 650 205 650 c 256
+ 165 650 99 655 55 655 c 256
+ 47 655 37 649 37 640 c 256
+ 37 628 44 621 56 618 c 256
+ 109 606 122 594 122 551 c 258
+ 122 9 l 258
+ 122 -112 98 -158 60 -158 c 256
+ 45 -158 37 -135 10 -103 c 256
+ -3 -89 -17 -80 -31 -80 c 256
+ -55 -80 -85 -112 -85 -140 c 256
+ -85 -178 -37 -200 62 -200 c 256
+EndSplineSet
 Fore
 SplineSet
-46 -161 m 0
- 77 -161 93 -112 93 0 c 2
- 93 549 l 2
- 93 592 74 608 40 617 c 0
- 25 621 16 626 16 639 c 0
- 16 651 29 653 44 653 c 0
- 95 653 119 650 162 650 c 0
- 197 650 207 653 258 653 c 0
- 273 653 286 651 286 639 c 0
- 286 626 278 621 262 617 c 0
- 227 608 215 593 215 549 c 2
- 215 141 l 2
- 215 -69 191 -96 165 -136 c 0
- 140 -175 49 -231 -8 -231 c 0
- -36 -231 -80 -215 -80 -183 c 0
- -80 -149.304 -49 -114 -28 -114 c 0
- -11 -114 -8.00891 -122.01 1 -140 c 0
- 7.26863 -152.518 22 -161 46 -161 c 0
+62 -200 m 256
+ 114 -200 168 -155 211 -97 c 256
+ 259 -33 292 47 292 94 c 258
+ 292 550 l 258
+ 292 590 302 602 357 618 c 257
+ 369 622 376 626 376 639 c 256
+ 376 649 370 654 360 654 c 256
+ 318 654 244 650 205 650 c 256
+ 165 650 99 655 55 655 c 256
+ 47 655 37 649 37 640 c 256
+ 37 628 44 621 56 618 c 256
+ 109 606 122 594 122 551 c 258
+ 122 9 l 258
+ 122 -112 98 -158 60 -158 c 256
+ 45 -158 37 -135 10 -103 c 256
+ -3 -89 -17 -80 -31 -80 c 256
+ -55 -80 -85 -112 -85 -140 c 256
+ -85 -178 -37 -200 62 -200 c 256
 EndSplineSet
-Substitution2: "c2sc subtable" J.sc
-Substitution2: "historic_j subtable" J.hist
-Substitution2: "sups subtable" J.sups
-Substitution2: "sinf subtable" J.sinf
-Substitution2: "ordn subtable" J.ordn
-Substitution2: "subs subtable" J.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss07' Style Set 7 lookup 36 subtable" J.hist
+Substitution2: "'c2pc' Capitals to Petite Capitals lookup 23 subtable" J.pc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" J.sc
+Substitution2: "'hist' Historical Forms lookup 20 subtable" J.hist
+Substitution2: "'ordn' Ordinals lookup 15 subtable" J.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" J.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" J.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" J.subs
+Comment: "+AAoA-J+AAoA"
 EndChar

@@ -1,27 +1,29 @@
 StartChar: uni030C.flat
-Encoding: 1114118 -1 983
+Encoding: 1949 -1 1948
 GlifName: uni030C_.flat
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 136 702 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-146 752 m 2
- 200 781 l 2
- 212 788 239 799 252 799 c 0
- 261 799 266 794 266 788 c 0
- 266 784 264 779 260 776 c 2
- 174 710 l 2
- 162 701 147 688 136 688 c 0
- 125 688 110 701 98 710 c 2
- 12 777 l 2
- 7 781 5 785 5 789 c 0
- 5 795 11 799 20 799 c 0
- 33 799 60 788 72 781 c 2
- 126 752 l 2
- 134 748 138 748 146 752 c 2
+0 688 m 256
+ 11 688 26 701 38 710 c 258
+ 124 776 l 258
+ 128 779 130 784 130 788 c 256
+ 130 794 125 799 116 799 c 256
+ 98 799 75 785 10 752 c 256
+ 2 748 -2 748 -10 752 c 256
+ -71 783 -97 799 -116 799 c 256
+ -125 799 -131 795 -131 789 c 256
+ -131 785 -129 781 -124 777 c 258
+ -38 710 l 258
+ -26 701 -11 688 0 688 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030C.flat+AAoA"
 EndChar

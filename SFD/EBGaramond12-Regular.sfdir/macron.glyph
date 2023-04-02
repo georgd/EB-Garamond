@@ -1,11 +1,20 @@
 StartChar: macron
-Encoding: 175 175 114
+Encoding: 1128 175 1127
 GlifName: macron
 Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 150 440 mark 0
+LayerCount: 2
 Fore
-Refer: 969 713 S 1 0 0 1 -5 11 2
-Validated: 1
+Refer: 1911 772 N 1 0 0 1 150 10 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" macron.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" macron.sc
+Comment: "+AAoA-macron+AAoA"
 EndChar

@@ -1,10 +1,19 @@
 StartChar: Abreve.sc
-Encoding: 66199 -1 1791
-Width: 555
+Encoding: 15 -1 15
+GlifName: A_breve.sc
+Width: 518
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 473 648 basechar 0
 LayerCount: 2
 Fore
-Refer: 1792 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 4 -1 N 1 0 0 1 0 0 2
+Refer: 633 728 N 1 0 0 1 209 63 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Abreve.sc+AAoA"
 EndChar

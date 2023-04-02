@@ -1,20 +1,24 @@
 StartChar: uni030D
-Encoding: 781 781 973
+Encoding: 1953 781 1952
 GlifName: uni030D_
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 50 550 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-27 657 m 18
- 27 665 51 675 60 675 c 0
- 68 675 73 667 73 659 c 10
- 73 520 l 18
- 73 513 55.048828125 500 40 500 c 16
- 32 500 27 510 27 519 c 10
- 27 657 l 18
+-10 500 m 256
+ 5 500 23 513 23 520 c 258
+ 23 659 l 258
+ 23 667 18 675 10 675 c 256
+ 1 675 -23 665 -23 657 c 258
+ -23 519 l 258
+ -23 510 -18 500 -10 500 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030D+AAoA"
 EndChar

@@ -1,13 +1,42 @@
 StartChar: hcircumflex
-Encoding: 293 293 214
-Width: 504
+Encoding: 947 293 946
+GlifName: hcircumflex
+Width: 489
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 180 -30 basechar 0
 LayerCount: 2
 Fore
-Refer: 2104 -1 N 1 0 0 1 253 134 2
-Refer: 4 104 N 1 0 0 1 0 0 3
-Substitution2: "alternate_h subtable" hcircumflex.01
-Substitution2: "Smallcaps1 subtable" hcircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" h uni0302.flat
+Refer: 933 104 N 1 0 0 1 0 0 2
+Refer: 1771 -1 N 1 0 0 1 127 141 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vh
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0302.flat
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" hcircumflex.sc
+Comment: "+AAoA-hcircumflex+AAoA"
 EndChar

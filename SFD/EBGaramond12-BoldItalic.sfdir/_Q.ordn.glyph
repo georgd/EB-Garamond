@@ -1,0 +1,48 @@
+StartChar: Q.ordn
+Encoding: 330 -1 329
+GlifName: Q_.ordn
+Width: 581
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+298 269 m 257
+ 470 269 628 376 628 538 c 256
+ 628 649 533 708 422 710 c 257
+ 250 710 92 603 92 441 c 256
+ 92 330 187 271 298 269 c 257
+316 309 m 256
+ 268 310 237 339 237 403 c 256
+ 237 522 287 669 404 669 c 256
+ 452 669 483 640 483 576 c 256
+ 483 457 433 309 316 309 c 256
+EndSplineSet
+Fore
+SplineSet
+542 116 m 256
+ 593 116 635 127 654 136 c 256
+ 667 142 676 152 679 162 c 256
+ 682 173 673 180 656 180 c 256
+ 650 180 632 176 623 176 c 256
+ 593 176 553 189 518 226 c 256
+ 491 255 473 274 458 287 c 256
+ 452 292 460 300 466 302 c 257
+ 249 280 l 257
+ 280 260 300 241 312 226 c 256
+ 330 204 352 189 378 167 c 256
+ 419 133 492 116 542 116 c 256
+EndSplineSet
+Refer: 278 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VO.ordn
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-Q.ordn+AAoA"
+EndChar

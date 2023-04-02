@@ -1,10 +1,19 @@
 StartChar: Omega
-Encoding: 8486 8486 1167
-Width: 770
+Encoding: 305 8486 304
+GlifName: O_mega
+Width: 797
 VWidth: 0
-Flags: M
+Flags: W
+AnchorPoint: "bottomgreek" 327 -30 basechar 0
+AnchorPoint: "topgreek" 56 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 1133 937 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 1917 937 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Omega+AAoA"
 EndChar

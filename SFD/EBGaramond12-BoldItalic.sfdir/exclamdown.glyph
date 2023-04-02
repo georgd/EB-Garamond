@@ -1,0 +1,27 @@
+StartChar: exclamdown
+Encoding: 821 161 820
+GlifName: exclamdown
+Width: 306
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 813 33 N -1 0 0 -1 323 480 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|exclam
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|exclam
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" exclamdown.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" exclamdown.sc
+Comment: "+AAoA-exclamdown+AAoA"
+EndChar

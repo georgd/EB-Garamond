@@ -1,0 +1,71 @@
+StartChar: n
+Encoding: 1092 110 1091
+GlifName: n
+Width: 614
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 243 -30 basechar 0
+AnchorPoint: "top" 373 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+112 -14 m 256
+ 188 -14 323 97 323 146 c 256
+ 323 154 317 162 309 162 c 256
+ 307 162 306 160 305 159 c 256
+ 279 133 218 92 205 92 c 256
+ 202 92 200 95 200 99 c 256
+ 200 102 200 107 202 111 c 258
+ 312 385 l 258
+ 322 411 280 445 248 434 c 256
+ 200 417 60 318 60 290 c 256
+ 60 279 67 270 87 281 c 256
+ 108 293 131 309 147 309 c 256
+ 150 309 152 307 151 304 c 256
+ 125 225 87 146 52 67 c 256
+ 48 58 47 50 47 44 c 256
+ 47 19 78 -14 112 -14 c 256
+EndSplineSet
+Fore
+SplineSet
+128 -14 m 256
+ 154 -14 178 18 201 58 c 256
+ 232 112 298 223 320 255 c 256
+ 355 306 389 367 415 367 c 256
+ 429 367 430 357 423 338 c 256
+ 386 237 333 142 289 42 c 256
+ 278 17 312 -14 341 -14 c 256
+ 411 -14 504 38 564 110 c 256
+ 574 122 579 135 579 150 c 256
+ 579 157 573 163 569 163 c 256
+ 564 163 554 153 546 145 c 256
+ 532 131 489 98 476 98 c 256
+ 466 98 463 106 472 127 c 258
+ 544 295 l 258
+ 569 353 562 437 477 437 c 256
+ 389 437 324 338 257 217 c 256
+ 252 208 233 209 237 219 c 258
+ 287 342 l 258
+ 305 387 288 437 233 437 c 256
+ 166 437 120 411 85 380 c 256
+ 70 367 42 330 43 315 c 256
+ 44 303 59 303 65 310 c 256
+ 94 344 135 343 147 343 c 256
+ 160 343 164 335 159 322 c 258
+ 61 78 l 258
+ 40 26 104 -14 128 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" N.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" n.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" n.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" n.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" n.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" n.subs
+Comment: "+AAoA-n+AAoA"
+EndChar

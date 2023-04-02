@@ -1,0 +1,49 @@
+StartChar: uni03F2
+Encoding: 2068 1010 2067
+GlifName: uni03F_2
+Width: 428
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+404 76 m 257
+ 380 92 l 257
+ 350 63 320 57 289 57 c 256
+ 213 57 171 139 171 227 c 256
+ 171 326 221 381 282 381 c 256
+ 310 381 340 365 379 324 c 257
+ 412 346 l 257
+ 368 401 316 437 252 437 c 256
+ 123 437 20 328 20 197 c 256
+ 20 74 111 -14 229 -14 c 256
+ 306 -14 357 20 404 76 c 257
+EndSplineSet
+Fore
+SplineSet
+240 -14 m 256
+ 305 -14 369 22 418 91 c 257
+ 387 117 l 257
+ 362 84 330 68 289 66 c 256
+ 220 63 171 118 171 227 c 256
+ 171 321 216 380 274 380 c 256
+ 306 380 342 362 377 322 c 257
+ 410 344 l 257
+ 370 407 310 436 248 436 c 256
+ 127 436 20 354 20 203 c 256
+ 20 69 105 -14 240 -14 c 256
+EndSplineSet
+Guideline: "" "" 410 208 90 0 0
+Validated: 41
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vomicron
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni03F2+AAoA"
+EndChar

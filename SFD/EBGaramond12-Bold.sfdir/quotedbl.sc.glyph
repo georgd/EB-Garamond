@@ -1,0 +1,47 @@
+StartChar: quotedbl.sc
+Encoding: 1320 -1 1319
+GlifName: quotedbl.sc
+Width: 413
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+81 266 m 256
+ 88 266 105 283 113 298 c 256
+ 137 344 183 448 183 513 c 256
+ 183 533 172 551 156 551 c 256
+ 130 551 115 542 91 526 c 256
+ 78 518 61 503 61 483 c 256
+ 61 448 67 409 67 362 c 256
+ 67 340 70 321 69 295 c 256
+ 69 284 71 266 81 266 c 256
+249 266 m 256
+ 256 266 273 283 281 298 c 256
+ 305 344 351 448 351 513 c 256
+ 351 533 340 551 324 551 c 256
+ 298 551 283 542 259 526 c 256
+ 246 518 229 503 229 483 c 256
+ 229 448 235 409 235 362 c 256
+ 235 340 238 321 237 295 c 256
+ 237 284 239 266 249 266 c 256
+EndSplineSet
+Fore
+Refer: 1317 34 N 1 0 0 1 0 -133 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vquotedbl
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vquotedbl
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-quotedbl.sc+AAoA"
+EndChar

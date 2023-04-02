@@ -1,15 +1,72 @@
 StartChar: uni1F59
-Encoding: 8025 8025 2532
+Encoding: 2642 8025 2641
 GlifName: uni1F_59
-Width: 844
+Width: 874
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top.cap" 500 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+58 588 m 256
+ 81 592 100 605 100 628 c 256
+ 100 651 77 666 53 666 c 256
+ 6 666 -20 616 -20 569 c 256
+ -20 516 23 472 76 472 c 256
+ 89 472 96 477 96 482 c 256
+ 96 489 87 492 79 496 c 256
+ 52 509 32 527 32 556 c 256
+ 32 572 42 585 58 588 c 256
+697 650 m 256
+ 547 650 474 452 470 452 c 256
+ 466 452 425 650 275 650 c 256
+ 212 650 150 591 137 575 c 256
+ 124 560 125 553 125 553 c 257
+ 125 549 132 546 135 549 c 256
+ 160 573 206 600 255 600 c 256
+ 381 600 430 405 430 287 c 258
+ 430 108 l 258
+ 430 60 402 33 352 24 c 256
+ 329 20 319 15 319 6 c 256
+ 319 -2 331 -5 348 -5 c 256
+ 402 -5 426 0 476 0 c 256
+ 522 0 539 -5 593 -5 c 256
+ 610 -5 622 -2 622 6 c 256
+ 622 15 612 20 589 24 c 256
+ 539 33 510 63 510 108 c 258
+ 510 288 l 258
+ 510 450 576 600 710 600 c 256
+ 751 600 793 589 824 567 c 256
+ 827 565 833 569 833 573 c 256
+ 833 577 826 585 822 589 c 256
+ 795 616 758 650 697 650 c 256
+EndSplineSet
 Fore
-Refer: 126 788 N 1 0 0 1 -20 0 2
-Refer: 641 933 N 1 0 0 1 105 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Upsilon uni0314
-Position2: "Single Positioning lookup 33 subtable" dx=0 dy=0 dh=-70 dv=0
-Position2: "Single Positioning lookup 32 subtable" dx=0 dy=0 dh=-70 dv=0
+Refer: 424 933 N 1 0 0 1 135 0 2
+Refer: 2793 8190 N 1 0 0 1 -20 24 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VUpsilon
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VUpsilon
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1F59+AAoA"
 EndChar

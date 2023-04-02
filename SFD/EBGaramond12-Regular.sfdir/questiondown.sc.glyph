@@ -1,33 +1,25 @@
 StartChar: questiondown.sc
-Encoding: 1114721 -1 1720
+Encoding: 1317 -1 1316
 GlifName: questiondown.sc
-Width: 355
+Width: 376
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-233 374 m 24
- 200 374 173 401 173 434 c 24
- 173 467 200 494 233 494 c 24
- 266 494 293 467 293 434 c 24
- 293 401 266 374 233 374 c 24
-273 -181 m 0
- 240 -181 198 -164 165 -131 c 0
- 109 -75 68 14 68 65 c 0
- 68 114 92 149 112 160 c 0
- 156 184 170 192 202 213 c 0
- 230 231 231 244 232 276 c 0
- 232 286 237 299 247 299 c 0
- 254 299 265 286 269 270 c 0
- 275 249 285 228 285 183 c 0
- 285 149 247 125 184 93 c 0
- 156 79 123 51 123 22 c 0
- 123 -44 156 -92 224 -93 c 0
- 243 -93 252 -89 271 -89 c 0
- 292 -89 313 -118 313 -145 c 0
- 313 -164 290 -181 273 -181 c 0
-EndSplineSet
-Validated: 1
-Comment: "."
+Refer: 1311 -1 N -1 0 0 -1 376 465 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|question.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|question.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-questiondown.sc+AAoA"
 EndChar

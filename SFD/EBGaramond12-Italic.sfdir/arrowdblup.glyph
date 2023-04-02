@@ -1,0 +1,42 @@
+StartChar: arrowdblup
+Encoding: 555 8657 554
+GlifName: arrowdblup
+Width: 438
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+162 -181 m 256
+ 172 -181 197 -167 197 -149 c 258
+ 197 495 l 257
+ 209 504 221 516 231 527 c 257
+ 236 533 245 539 257 527 c 256
+ 268 516 279 505 291 495 c 257
+ 291 -167 l 258
+ 291 -173 296 -181 302 -181 c 256
+ 312 -181 337 -167 337 -149 c 258
+ 337 462 l 257
+ 361 447 385 432 413 422 c 256
+ 421 419 424 423 424 431 c 256
+ 424 440 419 452 413 458 c 256
+ 355 516 299 573 257 649 c 256
+ 252 658 250 661 244 661 c 256
+ 238 661 237 661 231 648 c 257
+ 191 571 133 515 75 457 c 256
+ 69 451 64 439 64 430 c 256
+ 64 424 66 420 71 420 c 256
+ 72 420 73 420 75 421 c 256
+ 101 434 127 446 151 461 c 257
+ 151 -167 l 258
+ 151 -173 156 -181 162 -181 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" a r r o w u p two
+Comment: "+AAoA-arrowdblup+AAoA"
+EndChar

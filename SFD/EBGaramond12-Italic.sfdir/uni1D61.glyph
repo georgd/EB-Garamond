@@ -1,10 +1,73 @@
 StartChar: uni1D61
-Encoding: 7521 7521 725
-Width: 636
+Encoding: 2135 7521 2134
+GlifName: uni1D_61
+Width: 265
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+171 435 m 256
+ 210 435 231 456 249 469 c 257
+ 253 469 l 257
+ 253 462 248 435 285 435 c 256
+ 300 435 319 447 331 456 c 256
+ 339 462 345 468 345 470 c 256
+ 345 476 342 485 337 485 c 256
+ 334 485 331 483 328 481 c 257
+ 324 478 322 475 313 475 c 256
+ 298 475 296 490 304 514 c 258
+ 345 638 l 258
+ 354 666 333 691 305 691 c 256
+ 271 691 232 671 202 655 c 256
+ 181 644 166 627 161 611 c 256
+ 159 605 162 597 169 597 c 256
+ 189 597 211 605 215 616 c 256
+ 218 624 219 639 224 646 c 256
+ 231 655 252 663 268 663 c 256
+ 287 663 301 648 294 622 c 258
+ 287 599 l 258
+ 282 583 281 581 262 575 c 258
+ 174 547 l 258
+ 141 536 123 519 123 485 c 256
+ 123 463 145 435 171 435 c 256
+200 470 m 256
+ 189 470 172 483 172 498 c 256
+ 172 527 202 544 260 561 c 256
+ 267 563 276 561 272 550 c 258
+ 258 508 l 258
+ 253 493 250 489 244 485 c 256
+ 231 477 217 470 200 470 c 256
+EndSplineSet
 Fore
-Refer: 649 967 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 2140 7530 N 1 0 0 1 113 364 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni1D6A
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vuni1D6A
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vuni1D6A
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1D61+AAoA"
 EndChar

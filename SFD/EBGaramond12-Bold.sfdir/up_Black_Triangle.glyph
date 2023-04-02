@@ -1,0 +1,27 @@
+StartChar: upBlackTriangle
+Encoding: 3125 9650 3124
+GlifName: upB_lackT_riangle
+Width: 683
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+104 -3 m 256
+ 128 -3 552 1 591 1 c 256
+ 636 1 638 12 628 38 c 256
+ 593 129 453 459 390 637 c 256
+ 371 691 350 701 325 643 c 256
+ 263 498 135 219 59 48 c 256
+ 43 12 49 -2 66 -2 c 258
+ 93 -2 l 257
+ 97 -3 100 -3 104 -3 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.98,0.36,0.67,1
+p2
+s."
+EndChar

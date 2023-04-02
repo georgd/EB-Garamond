@@ -1,0 +1,92 @@
+StartChar: G
+Encoding: 140 71 140
+GlifName: G_
+Width: 734
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 307 -30 basechar 0
+AnchorPoint: "top" 522 675 basechar 0
+AnchorPoint: "top.cap" 512 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+362 -26 m 256
+ 421 -26 531 10 546 48 c 257
+ 538 60 535 68 535 80 c 256
+ 535 95 554 162 571 201 c 256
+ 583 228 598 238 628 244 c 256
+ 649 248 660 257 660 264 c 256
+ 660 272 651 278 639 278 c 256
+ 606 278 587 272 554 272 c 256
+ 508 272 483 278 437 278 c 256
+ 419 278 405 272 405 263 c 256
+ 405 254 422 251 436 248 c 256
+ 446 246 464 243 481 238 c 256
+ 499 233 505 222 499 197 c 258
+ 471 88 l 258
+ 459 41 423 2 362 2 c 256
+ 261 2 142 83 142 216 c 256
+ 142 419 283 622 468 622 c 256
+ 520 622 552 596 569 573 c 256
+ 590 545 591 511 586 481 c 256
+ 583 463 588 452 601 452 c 256
+ 608 452 616 462 619 475 c 256
+ 629 520 664 587 686 617 c 257
+ 690 622 691 633 679 633 c 256
+ 672 633 666 630 659 626 c 256
+ 651 622 643 617 636 617 c 256
+ 620 617 604 624 584 632 c 256
+ 560 642 530 651 487 651 c 256
+ 241 651 54 474 54 242 c 256
+ 54 61 190 -26 362 -26 c 256
+EndSplineSet
+Fore
+SplineSet
+328 -14 m 256
+ 417 -14 600 30 623 77 c 257
+ 609 91 601 102 601 117 c 256
+ 601 131 625 190 641 221 c 256
+ 655 248 668 260 711 270 c 256
+ 724 273 732 278 736 291 c 256
+ 739 301 735 306 725 306 c 256
+ 661 306 623 297 584 297 c 256
+ 544 297 468 307 424 307 c 256
+ 413 307 401 301 398 292 c 256
+ 394 280 405 272 416 269 c 256
+ 432 265 461 259 478 251 c 256
+ 496 243 497 229 493 215 c 258
+ 459 103 l 258
+ 446 61 408 23 360 23 c 256
+ 239 23 172 148 220 306 c 256
+ 290 531 404 628 514 628 c 256
+ 553 628 591 609 610 582 c 256
+ 628 556 632 522 629 481 c 256
+ 627 450 634 437 648 437 c 256
+ 662 437 668 446 672 460 c 256
+ 687 511 720 590 746 624 c 256
+ 755 636 752 648 738 648 c 256
+ 728 648 718 643 708 637 c 256
+ 699 632 691 631 682 631 c 256
+ 666 631 654 636 629 644 c 256
+ 602 653 567 664 520 664 c 256
+ 296 664 122 526 72 363 c 256
+ 2 135 128 -14 328 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VO
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" G.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" G.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" G.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" G.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" G.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" G.subs
+Comment: "+AAoA-G+AAoA"
+EndChar

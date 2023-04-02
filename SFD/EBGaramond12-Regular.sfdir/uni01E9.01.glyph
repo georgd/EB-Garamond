@@ -1,13 +1,13 @@
 StartChar: uni01E9.01
-Encoding: 1115144 -1 2891
+Encoding: 1679 -1 1678
 GlifName: uni01E_9.01
 Width: 469
 VWidth: 0
-Flags: MW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 234 -30 basechar 0
+LayerCount: 2
 Fore
-Refer: 62 107 N 1 0 0 1 0 0 3
-Refer: 983 -1 N 1 0 0 1 -20 68 2
-Validated: 1
-Position2: "rtbd subtable" dx=0 dy=0 dh=-23 dv=0
+Refer: 1041 107 N 1 0 0 1 0 0 2
+Refer: 1948 -1 N 1 0 0 1 -20 60 2
+Comment: "+AAoA-uni01E9.01+AAoA"
 EndChar

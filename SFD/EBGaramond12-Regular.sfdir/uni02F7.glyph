@@ -1,11 +1,29 @@
 StartChar: uni02F7
-Encoding: 759 759 1115
+Encoding: 1905 759 1904
 GlifName: uni02F_7
 Width: 286
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2113 816 N 1 0 0 1 -37 0 2
-Validated: 1
+SplineSet
+26 -189 m 256
+ 32 -189 45 -156 83 -156 c 256
+ 111 -156 127 -160 142 -164 c 256
+ 155 -168 169 -172 191 -172 c 256
+ 244 -172 273 -84 273 -80 c 256
+ 273 -69 269 -60 263 -60 c 256
+ 255 -60 241 -99 203 -99 c 256
+ 175 -99 161 -95 148 -91 c 256
+ 135 -87 123 -83 100 -83 c 256
+ 47 -83 13 -166 13 -170 c 256
+ 13 -181 18 -189 26 -189 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni02F7+AAoA"
 EndChar

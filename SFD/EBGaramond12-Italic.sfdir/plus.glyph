@@ -1,35 +1,44 @@
 StartChar: plus
-Encoding: 43 43 100
+Encoding: 1240 43 1239
+GlifName: plus
 Width: 590
-Flags: MW
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-330 278 m 2
- 330 271 331 272 334 272 c 2
- 537 272 l 2
- 544 272 553 265 550 258 c 0
- 544 241 538 222 519 222 c 2
- 334 222 l 2
- 331 222 330 221 330 218 c 2
- 330 16 l 2
- 330 -5 291 -8 282 -8 c 0
- 276 -8 270 -1 270 6 c 2
- 270 217 l 2
- 270 220 269 222 266 222 c 2
- 64 222 l 2
- 57 222 50 228 50 234 c 0
- 50 243 56 272 74 272 c 2
- 263 272 l 2
- 269 272 270 274 270 280 c 2
- 270 451 l 2
- 270 473 310 482 316 482 c 0
- 323 482 330 476 330 469 c 2
- 330 278 l 2
+282 -8 m 256
+ 291 -8 330 -5 330 16 c 258
+ 330 218 l 258
+ 330 221 331 222 334 222 c 258
+ 519 222 l 258
+ 538 222 544 241 550 258 c 257
+ 553 265 544 272 537 272 c 258
+ 334 272 l 258
+ 331 272 330 271 330 278 c 258
+ 330 469 l 258
+ 330 476 323 482 316 482 c 256
+ 310 482 270 473 270 451 c 258
+ 270 280 l 258
+ 270 274 269 272 263 272 c 258
+ 74 272 l 258
+ 56 272 50 243 50 234 c 256
+ 50 228 57 222 64 222 c 258
+ 266 222 l 258
+ 269 222 270 220 270 217 c 258
+ 270 6 l 258
+ 270 -1 276 -8 282 -8 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" plus.sups
-Substitution2: "sinf subtable" plus.sinf
-Substitution2: "ordn subtable" plus.ordn
-Substitution2: "subs subtable" plus.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" plus.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" plus.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" plus.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" plus.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" plus.subs
+Comment: "+AAoA-plus+AAoA"
 EndChar

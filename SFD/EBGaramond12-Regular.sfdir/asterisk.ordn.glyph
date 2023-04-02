@@ -1,12 +1,29 @@
 StartChar: asterisk.ordn
-Encoding: 1114411 -1 1410
+Encoding: 574 -1 573
 GlifName: asterisk.ordn
-Width: 650
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+Width: 168
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1208 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+61 529 m 256
+ 71 526 88 561 96 584 c 257
+ 115 568 146 544 153 552 c 256
+ 160 560 132 588 113 604 c 257
+ 133 617 162 636 157 645 c 256
+ 152 654 117 636 97 623 c 257
+ 91 646 79 682 69 679 c 256
+ 59 676 66 640 72 617 c 257
+ 48 618 10 616 10 606 c 256
+ 10 596 50 592 74 591 c 257
+ 66 568 51 532 61 529 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-asterisk.ordn+AAoA"
 EndChar

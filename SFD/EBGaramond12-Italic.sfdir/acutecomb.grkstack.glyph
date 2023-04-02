@@ -1,21 +1,24 @@
 StartChar: acutecomb.grkstack
-Encoding: 66448 -1 2369
+Encoding: 519 -1 518
+GlifName: acutecomb.grkstack
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "grk_hstack" 5 640 mark 0
-AnchorPoint: "top_accent" 40 550 mark 0
 LayerCount: 2
 Fore
 SplineSet
-41 478 m 0
- 34 471 26 463 18 463 c 0
- 13 463 10 467 10 471 c 0
- 10 475 10 479 12 483 c 0
- 25 510 70 596 87 627 c 0
- 94 640 102 652 112 652 c 0
- 122 652 151 630 151 615 c 0
- 151 610 67 507 41 478 c 0
+44 463 m 256
+ 52 463 57 468 64 475 c 256
+ 92 503 178 608 178 613 c 256
+ 178 628 148 652 138 652 c 256
+ 128 652 120 640 113 627 c 256
+ 96 596 51 510 38 483 c 256
+ 36 478 33 463 44 463 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-acutecomb.grkstack+AAoA"
 EndChar

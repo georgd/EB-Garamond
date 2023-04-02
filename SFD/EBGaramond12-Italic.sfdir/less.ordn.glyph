@@ -1,11 +1,30 @@
 StartChar: less.ordn
-Encoding: 65838 -1 1430
-Width: 354
-VWidth: 280
-Flags: MW
+Encoding: 1044 -1 1043
+GlifName: less.ordn
+Width: 368
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1226 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+324 281 m 258
+ 337 274 350 282 350 288 c 256
+ 350 298 347 311 335 317 c 258
+ 147 410 l 258
+ 145 411 145 412 147 413 c 257
+ 402 515 l 258
+ 416 521 429 533 429 546 c 256
+ 429 558 421 558 414 555 c 258
+ 117 439 l 258
+ 103 434 89 414 89 407 c 256
+ 89 403 99 396 108 391 c 258
+ 324 281 l 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-less.ordn+AAoA"
 EndChar

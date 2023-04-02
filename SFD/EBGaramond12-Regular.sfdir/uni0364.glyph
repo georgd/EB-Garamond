@@ -1,30 +1,53 @@
 StartChar: uni0364
-Encoding: 868 868 2388
+Encoding: 2049 868 2048
 GlifName: uni0364
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 100 550 mark 0
-LayerCount: 3
-Fore
+LayerCount: 2
+Back
 SplineSet
-23 572 m 0
- 23 624 61 669 113 669 c 0
- 146 669 177 648 177 615 c 0
- 177 603 177 590 166 590 c 2
- 67 590 l 2
- 59 590 60 587 60 577 c 0
- 60 549 82 516 110 516 c 0
- 147 516 157 542 159 542 c 0
- 167 542 176 539 176 533 c 0
- 176 518 147 490 104 490 c 0
- 58 490 23 526 23 572 c 0
-66 612 m 0
- 66 608 70 608 73 608 c 2
- 137 608 l 2
- 147 608 144 620 144 625 c 8
- 144 641.991210938 123.991210938 648 107 648 c 16
- 92 648 66 634 66 612 c 0
+66 612 m 256
+ 66 634 92 648 107 648 c 256
+ 123.991 648 144 641.991 144 625 c 256
+ 144 620 147 608 137 608 c 258
+ 73 608 l 258
+ 70 608 66 608 66 612 c 256
+23 572 m 256
+ 23 526 58 490 104 490 c 256
+ 147 490 176 518 176 533 c 256
+ 176 539 167 542 159 542 c 256
+ 157 542 147 516 110 516 c 256
+ 82 516 60 549 60 577 c 256
+ 60 587 59 590 67 590 c 258
+ 166 590 l 258
+ 177 590 177 603 177 615 c 256
+ 177 648 146 669 113 669 c 256
+ 61 669 23 624 23 572 c 256
 EndSplineSet
-Validated: 1
+Fore
+Refer: 753 -1 N 0.709 0 0 0.709 16 293 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Ve.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+Ve.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.originalWidth
+p10
+I205
+s."
+Comment: "+AAoA-uni0364+AAoA"
 EndChar

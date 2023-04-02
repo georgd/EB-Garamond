@@ -1,15 +1,21 @@
 StartChar: periodcentered
-Encoding: 183 183 94
-Width: 255
+Encoding: 1278 183 1277
+GlifName: periodcentered
+Width: 267
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-128 263 m 0
- 172 263 211 238 211 205 c 0
- 211 172 172 147 128 147 c 0
- 84 147 44 172 44 205 c 0
- 44 238 84 263 128 263 c 0
-EndSplineSet
+Refer: 1271 46 N 1 0 0 1 8 161 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 477 -35 "'kern' Horizontal Kerning lookup 0 subtable" 3189 -35 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" periodcentered.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" periodcentered.sc
+Comment: "+AAoA-periodcentered+AAoA"
 EndChar

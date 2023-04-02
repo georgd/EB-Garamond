@@ -1,11 +1,33 @@
 StartChar: bracketleft.sc
-Encoding: 66073 -1 1665
-Width: 373
+Encoding: 624 -1 623
+GlifName: bracketleft.sc
+Width: 332
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 51 91 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+40 -127 m 258
+ 184 -127 l 258
+ 196 -127 211 -124 215 -112 c 256
+ 218 -100 207 -96 194 -94 c 257
+ 94 -81 l 258
+ 83 -79 76 -66 81 -48 c 258
+ 230 433 l 258
+ 234 444 252 457 261 458 c 258
+ 367 464 l 258
+ 380 465 395 469 398 479 c 256
+ 401 489 393 492 384 492 c 258
+ 239 493 l 258
+ 207 493 201 493 190 459 c 258
+ 17 -102 l 258
+ 9 -126 17 -127 40 -127 c 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-bracketleft.sc+AAoA"
 EndChar

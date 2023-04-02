@@ -1,0 +1,50 @@
+StartChar: exclam.sc
+Encoding: 835 -1 834
+GlifName: exclam.sc
+Width: 299
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+158 135 m 256
+ 168 135 174 149 176 167 c 256
+ 186 260 206 404 206 457 c 256
+ 206 480 188 501 161 501 c 256
+ 134 501 114 480 114 457 c 256
+ 114 404 128 261 140 167 c 256
+ 143 144 148 135 158 135 c 256
+160 -44 m 256
+ 193 -44 220 -17 220 16 c 256
+ 220 49 193 76 160 76 c 256
+ 127 76 100 49 100 16 c 256
+ 100 -17 127 -44 160 -44 c 256
+EndSplineSet
+Fore
+SplineSet
+147 138 m 256
+ 164 138 174 155 179 178 c 256
+ 204 294 229 360 229 424 c 256
+ 229 464 198 501 152 501 c 256
+ 105 501 70 462 71 422 c 256
+ 73 359 90 296 114 178 c 256
+ 120 149 129 138 147 138 c 256
+145 -46 m 256
+ 186 -46 220 -12 220 29 c 256
+ 220 70 186 104 145 104 c 256
+ 104 104 70 70 70 29 c 256
+ 70 -12 104 -46 145 -46 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vexclam
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-exclam.sc+AAoA"
+EndChar

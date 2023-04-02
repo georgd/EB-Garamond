@@ -1,13 +1,20 @@
 StartChar: uni1EF1
-Encoding: 7921 7921 1186
+Encoding: 2549 7921 2548
 GlifName: uni1E_F_1
 Width: 561
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 257 -30 basechar 0
+AnchorPoint: "top" 252 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 2019 803 N 1 0 0 1 209 0 2
-Refer: 290 432 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" uhorn dotbelowcomb
+Refer: 1540 432 N 1 0 0 1 0 0 2
+Refer: 745 803 N 1 0 0 1 257 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1EF1+AAoA"
 EndChar

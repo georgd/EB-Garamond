@@ -1,16 +1,18 @@
 StartChar: Upsilon1
-Encoding: 978 978 645
+Encoding: 427 978 426
 GlifName: U_psilon1
 Width: 739
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 365 704 basechar 0
-AnchorPoint: "grk_bottom" 370 -100 basechar 0
-AnchorPoint: "grk_uc_right" 613 290 basechar 0
-AnchorPoint: "grk_uc_top" 375 720 basechar 0
-AnchorPoint: "grk_uc_top_left" -41 665 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top.cap" 365 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 641 933 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 424 933 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.85,0.26,0.06,1
+p2
+s."
+Comment: "+AAoA-Upsilon1+AAoA"
 EndChar

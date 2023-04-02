@@ -1,10 +1,37 @@
 StartChar: uni03F1
-Encoding: 1009 1009 652
-Width: 382
+Encoding: 1925 1009 1924
+GlifName: uni03F_1
+Width: 412
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 291 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 648 961 N 1 0 0 1 0 0 3
-Validated: 1
+SplineSet
+169 -290 m 256
+ 228 -290 263 -270 263 -244 c 256
+ 263 -226 253 -203 223 -203 c 256
+ 211 -203 199 -216 189 -227 c 256
+ 179 -238 165 -249 142 -249 c 256
+ 81 -249 58 -207 58 -144 c 256
+ 58 -62 95 56 134 168 c 256
+ 170 271 219 351 310 351 c 256
+ 341 351 357 316 357 277 c 256
+ 357 188 261 98 187 98 c 256
+ 152 98 132 135 125 154 c 257
+ 111 121 l 257
+ 132 80 169 32 199 32 c 256
+ 294 32 388 132 388 294 c 256
+ 388 347 344 414 293 414 c 256
+ 168 414 108 292 65 138 c 256
+ 36 34 22 -50 22 -115 c 256
+ 22 -234 70 -290 169 -290 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni03F1+AAoA"
 EndChar

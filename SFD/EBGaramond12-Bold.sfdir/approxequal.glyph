@@ -1,0 +1,43 @@
+StartChar: approxequal
+Encoding: 547 8776 546
+GlifName: approxequal
+Width: 555
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+61 316 m 258
+ 566 316 l 258
+ 583 316 598 342 598 358 c 256
+ 598 367 588 374 575 374 c 258
+ 73 374 l 258
+ 52 374 45 341 45 329 c 256
+ 45 324 52 316 61 316 c 258
+61 133 m 258
+ 566 133 l 258
+ 583 133 598 159 598 175 c 256
+ 598 184 588 191 575 191 c 258
+ 73 191 l 258
+ 52 191 45 158 45 146 c 256
+ 45 141 52 133 61 133 c 258
+EndSplineSet
+Fore
+Refer: 566 126 N 1 0 0 1 0 -154 2
+Refer: 566 126 N 1 0 0 1 0 23 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vasciitilde
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vasciitilde
+p4
+sVpublic.markColor
+p5
+V0.98,0.36,0.67,1
+p6
+s."
+EndChar

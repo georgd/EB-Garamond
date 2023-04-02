@@ -1,0 +1,37 @@
+StartChar: gravecomb.grksc
+Encoding: 937 -1 936
+GlifName: gravecomb.grksc
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+18 607 m 257
+ 45 550 71 509 101 454 c 256
+ 109 442 116 435 123 433 c 256
+ 129 432 134 433 137 443 c 256
+ 138 448 138 455 137 466 c 256
+ 133 507 115 607 107 640 c 257
+ 103 658 83 666 72 666 c 256
+ 45 666 18 630 18 607 c 257
+EndSplineSet
+Fore
+SplineSet
+48 433 m 256
+ 54 433 57 433 59 443 c 256
+ 60 448 60 455 59 466 c 256
+ 55 507 37 607 29 640 c 257
+ 25 658 5 666 -6 666 c 256
+ -33 666 -60 630 -60 612 c 257
+ -60 598 -7 509 23 454 c 256
+ 30 441 39 433 48 433 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gravecomb.grksc+AAoA"
+EndChar

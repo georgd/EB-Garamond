@@ -1,13 +1,19 @@
 StartChar: uni01E2
-Encoding: 482 482 1001
+Encoding: 1673 482 1672
 GlifName: uni01E_2
-Width: 866
+Width: 872
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top.cap" 543 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 991 -1 N 1 0 0 1 385 0 2
-Refer: 1000 198 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" AE uni0304.cap
+Refer: 8 198 N 1 0 0 1 0 0 2
+Refer: 1912 -1 N 1 0 0 1 547 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni01E2+AAoA"
 EndChar

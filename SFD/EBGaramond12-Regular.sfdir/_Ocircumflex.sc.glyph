@@ -1,12 +1,44 @@
 StartChar: Ocircumflex.sc
-Encoding: 1114742 -1 1741
+Encoding: 293 -1 292
 GlifName: O_circumflex.sc
 Width: 616
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 312 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+305 618 m 257
+ 308 622 309 622 312 618 c 256
+ 336 588 366 550 378 534 c 256
+ 385 524 400 512 408 512 c 256
+ 417 512 417 516 417 525 c 256
+ 417 540 348 662 328 695 c 257
+ 323 704 316 713 308 713 c 256
+ 300 713 293 704 288 695 c 257
+ 268 662 200 540 200 525 c 256
+ 200 516 200 512 209 512 c 256
+ 217 512 232 525 239 534 c 256
+ 251 550 280 588 305 618 c 257
+60 222 m 256
+ 60 93 169 -14 302 -14 c 256
+ 466 -14 556 103 556 226 c 256
+ 556 360 433 458 302 458 c 256
+ 175 458 60 342 60 222 c 256
+296 426 m 256
+ 400 426 466 318 466 217 c 256
+ 466 138 433 22 318 22 c 256
+ 206 22 150 120 150 237 c 256
+ 150 332 202 426 296 426 c 256
+EndSplineSet
 Fore
-Refer: 1773 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 281 -1 N 1 0 0 1 0 0 2
+Refer: 689 710 N 1 0 0 1 162 63 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Ocircumflex.sc+AAoA"
 EndChar

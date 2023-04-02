@@ -1,0 +1,36 @@
+StartChar: minus
+Encoding: 1131 8722 1130
+GlifName: minus
+Width: 615
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+66 222 m 258
+ 521 222 l 258
+ 539 222 552 248 552 270 c 256
+ 552 276 545 282 539 282 c 258
+ 76 282 l 258
+ 55 282 52 243 52 234 c 256
+ 52 228 59 222 66 222 c 258
+EndSplineSet
+Fore
+SplineSet
+49 217 m 258
+ 547 217 l 258
+ 568 217 585 248 585 267 c 256
+ 585 277 573 285 558 285 c 258
+ 63 285 l 258
+ 39 285 30 246 30 232 c 256
+ 30 226 39 217 49 217 c 258
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-minus+AAoA"
+EndChar

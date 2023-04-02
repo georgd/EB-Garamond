@@ -1,11 +1,47 @@
 StartChar: parenleft.sc
-Encoding: 66022 -1 1614
-Width: 315
+Encoding: 1204 -1 1203
+GlifName: parenleft.sc
+Width: 245
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+60 -131 m 256
+ 63 -140 88 -137 93 -120 c 256
+ 96 -113 95 -106 92 -101 c 256
+ 72 -48 59 79 96 197 c 256
+ 126 295 194 403 267 467 c 256
+ 278 475 283 482 284 488 c 256
+ 287 501 268 506 250 492 c 256
+ 189 446 78 323 37 191 c 256
+ 0 73 30 -77 60 -131 c 256
+EndSplineSet
 Fore
-Refer: 108 40 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+60 -131 m 256
+ 64 -139 84 -137 91 -121 c 256
+ 94 -114 92 -107 90 -102 c 256
+ 70 -38 59 79 96 197 c 256
+ 126 295 189 406 267 467 c 256
+ 277 475 283 482 284 488 c 256
+ 287 501 268 504 250 492 c 256
+ 186 449 80 329 44 214 c 256
+ 0 73 33 -74 60 -131 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vparenleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vparenleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-parenleft.sc+AAoA"
 EndChar

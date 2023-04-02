@@ -1,11 +1,19 @@
 StartChar: ygrave
-Encoding: 7923 7923 561
-Width: 420
+Encoding: 3028 7923 3027
+GlifName: ygrave
+Width: 405
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 239 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 981 768 N 1 0 0 1 202 0 2
-Refer: 24 121 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" y gravecomb
+Refer: 3012 121 N 1 0 0 1 0 0 2
+Refer: 905 768 N 1 0 0 1 84 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-ygrave+AAoA"
 EndChar

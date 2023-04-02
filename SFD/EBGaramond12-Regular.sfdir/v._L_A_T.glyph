@@ -1,12 +1,13 @@
 StartChar: v.LAT
-Encoding: 1114924 -1 1930
+Encoding: 3140 -1 3139
 GlifName: v.L_A_T_
 Width: 438
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 220 -30 basechar 0
+AnchorPoint: "top" 218 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 22 118 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Single Substitution lookup 109 subtable" v.LATmedi
+Refer: 3138 118 N 1 0 0 1 0 0 2
+Comment: "+AAoA-v.LAT+AAoA"
 EndChar

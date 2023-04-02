@@ -1,0 +1,55 @@
+StartChar: uni0327
+Encoding: 1997 807 1996
+GlifName: uni0327
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+25 -129 m 256
+ 32 -129 38 -123 51 -123 c 256
+ 83 -123 110 -141 110 -180 c 256
+ 110 -206 97 -225 71 -225 c 256
+ 40 -225 28 -214 18 -214 c 256
+ 10 -214 5 -221 5 -233 c 256
+ 5 -264 14 -274 35 -274 c 256
+ 71 -274 160 -219 160 -139 c 256
+ 160 -106 131 -76 99 -63 c 256
+ 92 -59 88 -56 88 -52 c 256
+ 88 -49 90 -46 93 -42 c 258
+ 131 8 l 257
+ 100 8 l 257
+ 12 -103 l 258
+ 9 -107 7 -111 7 -114 c 256
+ 7 -123 18 -129 25 -129 c 256
+EndSplineSet
+Fore
+SplineSet
+-43 -274 m 256
+ 12 -274 90 -207 90 -140 c 256
+ 90 -94 70 -70 37 -55 c 257
+ 29 -51 24 -48 24 -44 c 256
+ 24 -40 26 -38 30 -33 c 258
+ 65 8 l 257
+ 18 8 l 257
+ -72 -95 l 258
+ -81 -105 -88 -117 -88 -122 c 256
+ -88 -138 -74 -148 -65 -148 c 256
+ -56 -148 -48 -138 -31 -138 c 256
+ -6 -138 25 -152 25 -177 c 256
+ 25 -202 17 -216 -2 -216 c 256
+ -34 -216 -56 -199 -72 -199 c 256
+ -84 -199 -90 -204 -90 -225 c 256
+ -90 -266 -74 -274 -43 -274 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni0327.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni0327.sc
+Comment: "+AAoA-uni0327+AAoA"
+EndChar

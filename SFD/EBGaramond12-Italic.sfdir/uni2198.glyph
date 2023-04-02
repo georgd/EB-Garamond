@@ -1,23 +1,18 @@
 StartChar: uni2198
-Encoding: 8600 8600 2028
-Width: 796
-Flags: MW
+Encoding: 2752 8600 2751
+GlifName: uni2198
+Width: 987
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-458 -100 m 0
- 519 -73 581 -65 628 -64 c 1
- 50 513 l 2
- 38 525 44 542 51 558 c 0
- 54 565 65 564 70 559 c 2
- 661 -32 l 1
- 662 17 669 78 696 139 c 0
- 704 157 722 129 721 114 c 0
- 720 32 720 -48 746 -131 c 0
- 751 -144 750 -146 746 -150 c 0
- 742 -154 738 -154 728 -151 c 0
- 645 -125 565 -125 483 -126 c 0
- 468 -127 440 -108 458 -100 c 0
-EndSplineSet
-Validated: 33
+Refer: 2750 8599 N 0 -1 1 0 294 608 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" s o u t h e a s t
+Comment: "+AAoA-uni2198+AAoA"
 EndChar

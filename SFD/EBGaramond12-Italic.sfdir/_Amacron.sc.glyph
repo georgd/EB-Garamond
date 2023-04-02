@@ -1,10 +1,19 @@
 StartChar: Amacron.sc
-Encoding: 66197 -1 1789
-Width: 555
+Encoding: 26 -1 26
+GlifName: A_macron.sc
+Width: 518
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 433 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1790 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 4 -1 N 1 0 0 1 0 0 2
+Refer: 1084 -1 N 1 0 0 1 214 84 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Amacron.sc+AAoA"
 EndChar

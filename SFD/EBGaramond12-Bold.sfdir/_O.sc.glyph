@@ -1,0 +1,43 @@
+StartChar: O.sc
+Encoding: 282 -1 281
+GlifName: O_.sc
+Width: 632
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 325 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+302 -10 m 256
+ 483 -10 580 107 580 231 c 256
+ 580 367 453 458 309 458 c 256
+ 128 458 32 342 32 217 c 256
+ 32 81 159 -10 302 -10 c 256
+309 38 m 256
+ 244 38 207 119 207 237 c 256
+ 207 342 238 410 301 410 c 256
+ 368 410 405 329 405 212 c 256
+ 405 106 372 38 309 38 c 256
+EndSplineSet
+Fore
+SplineSet
+312 -10 m 256
+ 493 -10 590 107 590 231 c 256
+ 590 367 463 458 319 458 c 256
+ 138 458 42 342 42 217 c 256
+ 42 81 169 -10 312 -10 c 256
+319 36 m 256
+ 254 36 217 119 217 237 c 256
+ 217 342 248 412 311 412 c 256
+ 378 412 415 329 415 212 c 256
+ 415 106 382 36 319 36 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-O.sc+AAoA"
+EndChar

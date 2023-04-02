@@ -1,0 +1,34 @@
+StartChar: Oslash
+Encoding: 312 216 311
+GlifName: O_slash
+Width: 759
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 382 -30 basechar 0
+AnchorPoint: "top.cap" 392 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+78 -14 m 256
+ 87 -14 91 -11 95 -7 c 257
+ 723 587 l 257
+ 733 596 736 609 736 621 c 256
+ 736 630 733 641 730 649 c 257
+ 724 666 699 670 687 656 c 257
+ 45 60 l 257
+ 34 50 27 37 27 23 c 256
+ 27 5 53 -14 78 -14 c 256
+EndSplineSet
+Refer: 278 79 N 1 0 0 1 0 0 2
+Guideline: "" "" 734 515 90 0 0
+Guideline: "" "" 26 508 90 0 0
+Validated: 37
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Oslash.sc
+Comment: "+AAoA-Oslash+AAoA"
+EndChar

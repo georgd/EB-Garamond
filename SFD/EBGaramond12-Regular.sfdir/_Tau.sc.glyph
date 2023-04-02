@@ -1,11 +1,12 @@
 StartChar: Tau.sc
-Encoding: 1115049 -1 2761
+Encoding: 385 -1 384
 GlifName: T_au.sc
-Width: 550
+Width: 530
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 260 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 2737 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 378 -1 N 1 0 0 1 0 0 2
+Comment: "+AAoA-Tau.sc+AAoA"
 EndChar

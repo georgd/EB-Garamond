@@ -1,0 +1,37 @@
+StartChar: uni030C.altcap
+Encoding: 1946 -1 1945
+GlifName: uni030C_.altcap
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+5 657 m 256
+ 5 641 10 621 10 584 c 256
+ 10 569 7 540 7 535 c 256
+ 7 522 10 512 14 512 c 256
+ 20 512 27 520 35 537 c 256
+ 53 574 68 638 68 675 c 256
+ 68 691 67 705 55 705 c 256
+ 34 705 5 678 5 657 c 256
+EndSplineSet
+Fore
+SplineSet
+-37 467 m 256
+ -28 467 -17 476 -3 499 c 256
+ 25 545 54 636 54 681 c 256
+ 54 702 53 718 31 718 c 256
+ -4 718 -53 685 -53 659 c 256
+ -53 639 -45 615 -45 570 c 256
+ -45 552 -50 501 -50 493 c 256
+ -50 480 -45 467 -37 467 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030C.altcap+AAoA"
+EndChar

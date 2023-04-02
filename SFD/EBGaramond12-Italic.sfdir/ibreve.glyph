@@ -1,12 +1,21 @@
 StartChar: ibreve
-Encoding: 301 301 220
-Width: 274
+Encoding: 976 301 975
+GlifName: ibreve
+Width: 294
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 88 -30 basechar 0
+AnchorPoint: "top" 260 585 basechar 0
 LayerCount: 2
 Fore
-Refer: 121 774 N 1 0 0 1 76 0 2
-Refer: 2483 -1 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" ibreve.sc
-MultipleSubs2: "CCMP_Precomp subtable" i.dotless uni0306
+Refer: 733 305 N 1 0 0 1 0 0 2
+Refer: 633 728 N 1 0 0 1 -4 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" ibreve.sc
+Comment: "+AAoA-ibreve+AAoA"
 EndChar

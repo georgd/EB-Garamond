@@ -1,0 +1,35 @@
+StartChar: uni2035
+Encoding: 2658 8245 2657
+GlifName: uni2035
+Width: 263
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+273 412 m 256
+ 284 412 288 423 288 438 c 256
+ 288 462 260 588 255 613 c 257
+ 244 657 233 676 221 676 c 256
+ 192 676 158 644 158 626 c 257
+ 158 600 205 510 242 440 c 256
+ 251 423 261 412 273 412 c 256
+EndSplineSet
+Fore
+SplineSet
+281 413 m 256
+ 291 413 296 418 300 429 c 256
+ 306 448 271 601 260 642 c 256
+ 253 664 239 676 214 676 c 256
+ 194 676 169 659 163 641 c 256
+ 156 618 209 575 259 440 c 257
+ 262 432 271 413 281 413 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2035+AAoA"
+EndChar

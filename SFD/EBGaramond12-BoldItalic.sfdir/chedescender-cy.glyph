@@ -1,0 +1,38 @@
+StartChar: chedescender-cy
+Encoding: 672 1207 671
+GlifName: chedescender-cy
+Width: 588
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 353 437 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+239 -276 m 256
+ 249 -276 335 -258 377 -233 c 256
+ 437 -197 452 -139 465 -74 c 256
+ 478 -7 494 64 532 103 c 257
+ 440 39 l 257
+ 453 19 l 257
+ 441 12 387 -28 370 -50 c 256
+ 338 -91 322 -124 309 -168 c 256
+ 292 -227 264 -242 233 -253 c 257
+ 227 -256 222 -258 222 -264 c 256
+ 222 -273 231 -276 239 -276 c 256
+EndSplineSet
+Refer: 2005 1095 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni0447
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni0447
+p4
+sVpublic.markColor
+p5
+V0.98,0.36,0.67,1
+p6
+s."
+EndChar

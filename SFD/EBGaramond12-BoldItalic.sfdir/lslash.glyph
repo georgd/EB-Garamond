@@ -1,0 +1,70 @@
+StartChar: lslash
+Encoding: 1075 322 1074
+GlifName: lslash
+Width: 349
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 97 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+80 283 m 258
+ 158 319 l 257
+ 224 342 l 257
+ 337 394 l 258
+ 353 401 372 415 375 426 c 256
+ 382 450 376 457 368 457 c 256
+ 364 457 360 456 356 454 c 258
+ 243 403 l 257
+ 176 379 l 257
+ 87 338 l 258
+ 75 332 61 323 57 308 c 256
+ 54 296 67 277 80 283 c 258
+-14 -3 m 256
+ 26 -3 62 2 97 2 c 256
+ 132 2 172 -1 212 -1 c 257
+ 225 -1 234 5 237 14 c 256
+ 240 24 234 30 220 35 c 256
+ 202 41 186 44 195 73 c 257
+ 370 638 l 257
+ 377 657 389 682 392 692 c 256
+ 394 698 394 705 385 705 c 256
+ 381 705 376 704 370 702 c 256
+ 335 690 242 658 189 649 c 256
+ 183 648 177 643 175 634 c 256
+ 173 624 174 619 181 618 c 256
+ 211 614 207 582 196 546 c 258
+ 49 71 l 258
+ 40 42 23 40 1 33 c 256
+ -16 28 -26 22 -29 12 c 256
+ -32 3 -27 -3 -14 -3 c 256
+EndSplineSet
+Fore
+SplineSet
+78 286 m 258
+ 162 322 l 257
+ 230 329 l 257
+ 351 383 l 258
+ 365 389 379 404 379 415 c 256
+ 379 439 370 446 362 446 c 256
+ 358 446 354 444 351 443 c 258
+ 230 390 l 257
+ 161 382 l 257
+ 68 341 l 258
+ 58 336 47 326 47 311 c 256
+ 47 299 67 281 78 286 c 258
+EndSplineSet
+Refer: 1026 108 N 1 0 0 1 20 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+V=l+10
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" lslash.sc
+Comment: "+AAoA-lslash+AAoA"
+EndChar

@@ -1,17 +1,28 @@
 StartChar: j
-Encoding: 106 106 16
-Width: 255
-Flags: HMW
+Encoding: 999 106 998
+GlifName: j
+Width: 259
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 200 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 122 775 N 1 0 0 1 190 0 2
-Refer: 345 567 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "historic_j subtable" j.hist
-Substitution2: "Smallcaps1 subtable" j.sc
-Substitution2: "sups subtable" j.sups
-Substitution2: "sinf subtable" j.sinf
-Substitution2: "ordn subtable" j.ordn
-Substitution2: "subs subtable" j.subs
-Substitution2: "Single Substitution lookup 10 subtable" j.dotless
+Refer: 1694 567 N 1 0 0 1 0 0 2
+Refer: 730 729 N 1 0 0 1 46 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss07' Style Set 7 in Latin lookup 38 subtable" j.hist
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" J.pc
+Substitution2: "'hist' Historical Forms in Latin lookup 27 subtable" j.hist
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" j.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" j.sc
+Substitution2: "'hist' Historical Forms in Latin lookup 19 subtable" j.hist
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" j.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" j.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" j.subs
+Comment: "+AAoA-j+AAoA"
 EndChar

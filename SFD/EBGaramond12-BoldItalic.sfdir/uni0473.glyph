@@ -1,0 +1,41 @@
+StartChar: uni0473
+Encoding: 2037 1139 2036
+GlifName: uni0473
+Width: 475
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 170 -30 basechar 0
+AnchorPoint: "top" 317 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+125 177 m 257
+ 333 193 l 257
+ 332 234 l 257
+ 125 218 l 257
+ 125 177 l 257
+EndSplineSet
+Fore
+SplineSet
+162 178 m 257
+ 319 191 l 257
+ 316 238 l 257
+ 159 225 l 257
+ 162 178 l 257
+EndSplineSet
+Refer: 1127 111 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uni0473+AAoA"
+EndChar

@@ -1,41 +1,17 @@
 StartChar: v.sc
-Encoding: 66100 -1 1692
-Width: 535
+Encoding: 2980 -1 2979
+GlifName: v.sc
+Width: 539
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 115 -100 basechar 0
-AnchorPoint: "top_accent" 417 580 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-466 371 m 2
- 487 397 483 415 453 421 c 0
- 433 425 429 432 429 441 c 0
- 429 449 443 452 459 452 c 0
- 478 452 499 449 517 449 c 0
- 551 449 589 452 616 452 c 0
- 626 452 640 449 640 441 c 0
- 640 432 626 425 603 421 c 0
- 576 416 524 388 507 367 c 2
- 253 58 l 2
- 243 47 208 19 198 10 c 0
- 195.649414062 7.884765625 143 -27 131 -27 c 0
- 127 -27 128 -18 128 -6 c 0
- 128 -3 136 32 142 64 c 2
- 192 353 l 2
- 199.148798965 394.387131736 201 412 157 421 c 0
- 137 425 122 432 122 441 c 0
- 122 449 136 452 152 452 c 0
- 202 452 211 449 249 449 c 24
- 281 449 282 452 332 452 c 0
- 348 452 356 449 356 441 c 0
- 356 432 342 425 319 421 c 0
- 289 416 271 393 266 363 c 2
- 222 107 l 2
- 219 87 216 83 222 83 c 0
- 226 83 233 87 248 106 c 2
- 466 371 l 2
-EndSplineSet
-Substitution2: "VW_alts subtable" v.01sc
-Comment: "."
+Refer: 434 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-v.sc+AAoA"
 EndChar

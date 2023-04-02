@@ -1,0 +1,38 @@
+StartChar: divide
+Encoding: 736 247 735
+GlifName: divide
+Width: 602
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+49 259 m 258
+ 535 259 l 258
+ 556 259 572 285 572 302 c 256
+ 572 310 561 317 546 317 c 258
+ 63 317 l 258
+ 39 317 30 284 30 272 c 256
+ 30 267 39 259 49 259 c 258
+306 64 m 256
+ 349 64 382 97 382 137 c 256
+ 382 180 349 213 306 213 c 256
+ 266 213 232 180 232 137 c 256
+ 232 97 266 64 306 64 c 256
+305 349 m 256
+ 348 349 381 382 381 422 c 256
+ 381 465 348 498 305 498 c 256
+ 265 498 231 465 231 422 c 256
+ 231 382 265 349 305 349 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" divide.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" divide.sc
+Comment: "+AAoA-divide+AAoA"
+EndChar

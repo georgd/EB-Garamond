@@ -1,18 +1,25 @@
 StartChar: grave.subs
-Encoding: 65670 -1 1262
-Width: 167
+Encoding: 904 -1 903
+GlifName: grave.subs
+Width: 200
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-194 283 m 0
- 166 350 137 371 140 382 c 0
- 142 390 156 398 166 398 c 24
- 180 398 189 393 192 382 c 0
- 199 362 219 286 216 277 c 0
- 214 272 211 269 205 269 c 0
- 199 269 196 279 194 283 c 0
-EndSplineSet
-Validated: 33
+Refer: 900 -1 N 1 0 0 1 -85 -275 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vgrave.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vgrave.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-grave.subs+AAoA"
 EndChar

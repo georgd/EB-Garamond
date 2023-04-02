@@ -1,13 +1,52 @@
 StartChar: uni1E56
-Encoding: 7766 7766 438
+Encoding: 2397 7766 2396
 GlifName: uni1E_56
 Width: 552
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 180 -30 basechar 0
+AnchorPoint: "top.cap" 286 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+286 805 m 256
+ 256 805 231 780 231 750 c 256
+ 231 720 256 695 286 695 c 256
+ 316 695 341 720 341 750 c 256
+ 341 780 316 805 286 805 c 256
+441 458 m 256
+ 441 340 400 279 320 279 c 256
+ 293 279 280 284 274 284 c 256
+ 267 284 258 278 258 273 c 256
+ 258 265 274 254 303 254 c 256
+ 456 254 531 359 531 482 c 256
+ 531 590 423 658 274 658 c 256
+ 246 658 203 652 163 652 c 256
+ 122 652 119 653 65 653 c 256
+ 48 653 36 650 36 642 c 256
+ 36 633 46 626 69 622 c 256
+ 119 613 130 582 130 522 c 258
+ 130 100 l 258
+ 130 51 107 33 57 24 c 256
+ 34 20 24 15 24 6 c 256
+ 24 -2 36 -5 53 -5 c 256
+ 107 -5 132 2 183 2 c 256
+ 221 2 227 -5 281 -5 c 256
+ 298 -5 310 -2 310 6 c 256
+ 310 15 300 20 277 24 c 256
+ 227 33 210 63 210 111 c 258
+ 210 588 l 258
+ 210 618 236 630 274 630 c 256
+ 371 630 441 580 441 458 c 256
+EndSplineSet
 Fore
-Refer: 1011 -1 N 1 0 0 1 226 0 2
-Refer: 26 80 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" P uni0307.cap
+Refer: 316 80 N 1 0 0 1 0 0 2
+Refer: 1925 -1 N 1 0 0 1 286 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E56+AAoA"
 EndChar

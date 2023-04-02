@@ -1,11 +1,19 @@
 StartChar: uni1F73
-Encoding: 8051 8051 2331
-Width: 327
+Encoding: 2500 8051 2499
+GlifName: uni1F_73
+Width: 342
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "topgreek" 252 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2367 -1 N 1 0 0 1 240.484 11 2
-Refer: 2165 949 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" epsilon acutecomb.grk
+Refer: 798 949 N 1 0 0 1 0 0 2
+Refer: 516 -1 N 1 0 0 1 175 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1F73+AAoA"
 EndChar

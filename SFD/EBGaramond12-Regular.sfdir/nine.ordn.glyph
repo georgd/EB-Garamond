@@ -1,12 +1,32 @@
 StartChar: nine.ordn
-Encoding: 1114426 -1 1425
+Encoding: 1155 -1 1154
 GlifName: nine.ordn
 Width: 300
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1223 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+49 258 m 256
+ 132 258 279 367 279 496 c 256
+ 279 562 229 618 163 618 c 256
+ 94 618 32 568 32 499 c 256
+ 32 451 82 423 127 423 c 256
+ 165 423 200 444 217 459 c 257
+ 211 386 135 303 50 282 c 257
+ 45 281 38 276 38 269 c 256
+ 38 265 45 258 49 258 c 256
+153 455 m 256
+ 119 455 87 488 87 522 c 256
+ 87 556 108 590 142 590 c 256
+ 186 590 219 551 219 507 c 256
+ 219 476 184 455 153 455 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-nine.ordn+AAoA"
 EndChar

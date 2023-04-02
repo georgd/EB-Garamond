@@ -1,29 +1,32 @@
 StartChar: ordmasculine
-Encoding: 186 186 103
+Encoding: 1229 186 1228
+GlifName: ordmasculine
 Width: 331
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-171 526 m 0
- 241 526 307 472 307 404 c 0
- 307 331 255 265 158 265 c 0
- 86 265 24 313 24 388 c 0
- 24 465 91 526 171 526 c 0
-162 488 m 0
- 130 488 118 446 118 402 c 0
- 118 349 138 301 169 301 c 0
- 200 301 213 342 213 388 c 0
- 213 438 194 488 162 488 c 0
-51 199 m 2
- 292 199 l 2
- 298 199 308 195 308 185 c 0
- 308 182 307 181 307 181 c 1
- 307 180 l 1
- 299 166 288 158 272 158 c 2
- 40 158 l 2
- 33 158 24 163 24 173 c 0
- 24 186 37 199 51 199 c 2
+301 206 m 258
+ 45 206 l 258
+ 29 206 14 186 14 175 c 256
+ 14 168 23 159 32 159 c 258
+ 278 159 l 258
+ 297 159 309 170 318 186 c 257
+ 318 188 319 189 319 190 c 256
+ 319 199 309 206 301 206 c 258
 EndSplineSet
+Refer: 1173 -1 N 1 0 0 1 0 -7 2
+Guideline: "" "" 12 276 90 0 0
+Guideline: "" "" 320 269 90 0 0
+Guideline: "" "" 164 267 0 0 0
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" ordmasculine.sc
+Comment: "+AAoA-ordmasculine+AAoA"
 EndChar

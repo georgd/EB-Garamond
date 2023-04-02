@@ -1,29 +1,40 @@
 StartChar: bracketleft
-Encoding: 91 91 49
-Width: 345
+Encoding: 625 91 624
+GlifName: bracketleft
+Width: 362
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-145 702 m 2
- 289 701 l 2
- 296 701 306 700 306 686 c 0
- 306 672 296 669 287 668 c 2
- 212 662 l 2
- 201 662 185 638 185 622 c 2
- 185 -105 l 2
- 185 -129 196 -149 209 -151 c 2
- 287 -164 l 2
- 296 -166 306 -168 306 -184 c 0
- 306 -200 292 -202 282 -202 c 2
- 139 -202 l 2
- 119 -202 111 -202 111 -175 c 2
- 111 666 l 2
- 111 702 117 702 145 702 c 2
+152 -201 m 258
+ 328 -200 l 258
+ 338 -200 348 -195 348 -179 c 256
+ 348 -167 327 -161 309 -158 c 258
+ 233 -146 l 258
+ 221 -144 216 -134 216 -125 c 258
+ 217 626 l 258
+ 217 636 222 647 235 649 c 258
+ 316 661 l 258
+ 327 663 352 668 352 683 c 256
+ 352 699 338 700 328 700 c 258
+ 152 701 l 258
+ 117 701 110 701 110 645 c 258
+ 110 -145 l 258
+ 110 -201 117 -201 152 -201 c 258
 EndSplineSet
-Substitution2: "sups subtable" bracketleft.sups
-Substitution2: "sinf subtable" bracketleft.sinf
-Substitution2: "ordn subtable" bracketleft.ordn
-Substitution2: "subs subtable" bracketleft.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" bracketleft.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" bracketleft.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" bracketleft.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" bracketleft.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" bracketleft.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" bracketleft.subs
+Comment: "+AAoA-bracketleft+AAoA"
 EndChar

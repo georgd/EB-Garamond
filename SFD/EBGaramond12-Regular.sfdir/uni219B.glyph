@@ -1,0 +1,50 @@
+StartChar: uni219B
+Encoding: 2921 8603 2920
+GlifName: uni219B_
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+705 639 m 258
+ 303 -56 l 257
+ 299 -62 306 -71 313 -71 c 256
+ 329 -71 343 -70 351 -56 c 258
+ 753 639 l 257
+ 757 645 753 656 746 656 c 256
+ 729 656 714 654 705 639 c 258
+738 461 m 256
+ 762 399 800 349 833 315 c 257
+ 108 315 l 258
+ 91 315 83 299 77 283 c 257
+ 74 276 83 269 90 269 c 258
+ 833 269 l 257
+ 799 233 761 185 737 123 c 256
+ 730 105 763 112 773 123 c 256
+ 830 182 887 239 964 279 c 257
+ 977 285 977 286 977 292 c 256
+ 977 298 974 300 965 305 c 256
+ 888 345 831 402 774 461 c 256
+ 764 472 731 479 738 461 c 256
+EndSplineSet
+Fore
+Refer: 557 8594 N 1 0 0 1 0 0 2
+Refer: 1419 47 N 1 0 0 1 364 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Varrowright
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Varrowright
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'ss03' Style Set 3 lookup 32 subtable" a r r o w r i g h t slash
+Comment: "+AAoA-uni219B+AAoA"
+EndChar

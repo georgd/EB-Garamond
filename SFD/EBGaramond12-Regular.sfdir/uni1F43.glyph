@@ -1,14 +1,48 @@
 StartChar: uni1F43
-Encoding: 8003 8003 2515
+Encoding: 2625 8003 2624
 GlifName: uni1F_43
 Width: 400
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 217 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+278 458 m 256
+ 284 448 294 436 302 436 c 256
+ 311 436 311 440 311 449 c 256
+ 311 467 280 589 270 625 c 256
+ 267 637 253 643 245 643 c 256
+ 226 643 207 618 207 602 c 256
+ 207 592 257 494 278 458 c 256
+146 558 m 256
+ 169 562 188 575 188 598 c 256
+ 188 621 165 636 141 636 c 256
+ 94 636 68 586 68 539 c 256
+ 68 486 111 442 164 442 c 256
+ 177 442 184 447 184 452 c 256
+ 184 459 175 462 167 466 c 256
+ 140 479 120 497 120 526 c 256
+ 120 542 130 555 146 558 c 256
+325 235 m 256
+ 325 141 249 64 155 64 c 256
+ 106 64 75 111 75 160 c 256
+ 75 252 148 334 240 334 c 256
+ 289 334 325 284 325 235 c 256
+175 -14 m 256
+ 285 -14 365 85 365 195 c 256
+ 365 299 319 414 215 414 c 256
+ 104 414 35 306 35 195 c 256
+ 35 97 77 -14 175 -14 c 256
+EndSplineSet
 Fore
-Refer: 2699 -1 N 1 0 0 1 193 -20 2
-Refer: 2697 -1 N 1 0 0 1 68 -20 2
-Refer: 2412 959 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" omicron uni0314.grk gravecomb.grkstack
+Refer: 1203 959 N 1 0 0 1 0 0 2
+Refer: 2763 8157 N 1 0 0 1 43 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1F43+AAoA"
 EndChar

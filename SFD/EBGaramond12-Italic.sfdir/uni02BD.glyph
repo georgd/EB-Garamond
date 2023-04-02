@@ -1,0 +1,29 @@
+StartChar: uni02BD
+Encoding: 1750 701 1749
+GlifName: uni02B_D_
+Width: 200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+86 426 m 256
+ -32 426 -104 530 -104 609 c 256
+ -104 656 -79 694 -22 694 c 256
+ 17 694 42 667 42 641 c 256
+ 42 625 34 610 15 601 c 256
+ -8 589 -19 570 -19 550 c 256
+ -19 511 20 467 84 448 c 256
+ 95 445 101 440 101 434 c 256
+ 101 429 97 426 86 426 c 256
+EndSplineSet
+Fore
+Refer: 1748 700 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni02BD+AAoA"
+EndChar

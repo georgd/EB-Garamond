@@ -1,12 +1,71 @@
 StartChar: uni1E50
-Encoding: 7760 7760 433
+Encoding: 2229 7760 2228
+GlifName: uni1E_50
 Width: 712
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 489 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+542 808 m 256
+ 550 806 560 803 569 803 c 256
+ 576 803 583 806 583 811 c 256
+ 583 814 582 817 579 821 c 257
+ 561 840 458 894 424 908 c 256
+ 417 911 410 914 403 914 c 256
+ 379 914 363 886 363 874 c 256
+ 363 871 364 867 367 865 c 257
+ 389 853 498 820 542 808 c 256
+645 772 m 258
+ 397 772 l 258
+ 378 772 373 744 373 735 c 256
+ 373 729 380 723 387 723 c 258
+ 627 723 l 258
+ 643 723 658 740 658 760 c 256
+ 658 766 651 772 645 772 c 258
+484 664 m 256
+ 254 664 89 456 89 226 c 256
+ 89 94 197 -14 329 -14 c 256
+ 565 -14 724 208 724 444 c 256
+ 724 571 611 664 484 664 c 256
+479 628 m 256
+ 564 628 642 569 642 484 c 256
+ 642 284 536 21 336 21 c 256
+ 245 21 171 95 171 186 c 256
+ 171 386 279 628 479 628 c 256
+EndSplineSet
 Fore
-Refer: 2103 -1 N 1 0 0 1 363 304 2
-Refer: 2077 -1 N 1 0 0 1 368 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" O uni0304.cap gravecomb.flat
+Refer: 302 332 N 1 0 0 1 0 0 2
+Refer: 908 -1 N 1 0 0 1 370 305 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOmacron
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vgravecomb.flat
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1E50+AAoA"
 EndChar

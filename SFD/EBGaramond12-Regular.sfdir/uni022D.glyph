@@ -1,14 +1,65 @@
 StartChar: uni022D
-Encoding: 557 557 337
+Encoding: 1742 557 1741
 GlifName: uni022D_
 Width: 495
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -30 basechar 0
+AnchorPoint: "top" 254 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+371 666 m 258
+ 148 666 l 258
+ 130 666 124 637 124 628 c 256
+ 124 622 131 616 138 616 c 258
+ 353 616 l 258
+ 372 616 384 632 384 654 c 256
+ 384 660 377 666 371 666 c 258
+134 475 m 256
+ 142 475 166 507 191 507 c 256
+ 216 507 278 481 303 481 c 256
+ 328 481 388 543 388 553 c 256
+ 388 563 382 570 372 570 c 256
+ 364 570 350 537 315 537 c 256
+ 290 537 233 564 208 564 c 256
+ 183 564 120 505 120 495 c 256
+ 120 485 124 475 134 475 c 256
+254 414 m 256
+ 131 414 35 298 35 187 c 256
+ 35 70 122 -14 234 -14 c 256
+ 384 -14 460 96 460 213 c 256
+ 460 321 370 414 254 414 c 256
+237 383 m 256
+ 322 383 378 284 378 189 c 256
+ 378 150 374 102 358 71 c 256
+ 338 32 300 16 255 16 c 256
+ 175 16 117 111 117 210 c 256
+ 117 258 122 309 149 343 c 256
+ 173 374 201 383 237 383 c 256
+EndSplineSet
 Fore
-Refer: 2252 -1 N 1 0 0 1 74 126 2
-Refer: 2251 -1 N 1 0 0 1 115 17 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" o tildecomb.stack uni0304.stack
+Refer: 1233 245 N 1 0 0 1 0 0 2
+Refer: 1127 175 N 1 0 0 1 109 152 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vmacron
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni022D+AAoA"
 EndChar

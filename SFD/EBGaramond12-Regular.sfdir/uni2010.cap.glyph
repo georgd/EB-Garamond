@@ -1,11 +1,17 @@
 StartChar: uni2010.cap
-Encoding: 1115123 -1 2835
+Encoding: 2812 -1 2811
 GlifName: uni2010.cap
 Width: 274
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2840 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 985 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.99,0.62,0.11,1
+p2
+s."
+Comment: "+AAoA-uni2010.cap+AAoA"
 EndChar

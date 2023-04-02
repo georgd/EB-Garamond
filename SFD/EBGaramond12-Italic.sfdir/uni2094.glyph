@@ -1,0 +1,60 @@
+StartChar: uni2094
+Encoding: 2686 8340 2685
+GlifName: uni2094
+Width: 265
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+101 -179 m 256
+ 174 -179 236 -136 236 -43 c 256
+ 236 29 177 78 119 78 c 256
+ 70 78 41 55 23 27 c 256
+ 20 22 33 10 41 10 c 256
+ 43 10 44 10 45 11 c 257
+ 65 27 79 36 101 36 c 256
+ 156 35 181 -15 181 -54 c 256
+ 181 -64 180 -64 172 -64 c 258
+ 49 -66 l 258
+ 29 -66 20 -66 20 -109 c 256
+ 20 -148 60 -179 101 -179 c 256
+111 -152 m 256
+ 91 -152 74 -140 74 -118 c 256
+ 74 -99 82 -93 94 -93 c 258
+ 169 -93 l 258
+ 172 -93 176 -93 176 -97 c 256
+ 176 -125 142 -152 111 -152 c 256
+EndSplineSet
+Fore
+Refer: 740 -1 N -1 0 0 -1 265 356 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Ve.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+V=|e.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vo.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni2094+AAoA"
+EndChar

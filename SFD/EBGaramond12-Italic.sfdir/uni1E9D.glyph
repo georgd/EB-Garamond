@@ -1,7 +1,26 @@
 StartChar: uni1E9D
-Encoding: 7837 7837 2491
-Width: 1000
+Encoding: 2300 7837 2299
+GlifName: uni1E_9D_
+Width: 311
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+123 520 m 258
+ 351 520 l 258
+ 366 520 382 524 382 544 c 256
+ 382 550 375 556 369 556 c 258
+ 133 556 l 258
+ 120 556 109 541 109 532 c 256
+ 109 526 116 520 123 520 c 258
+EndSplineSet
+Refer: 1053 383 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E9D+AAoA"
 EndChar

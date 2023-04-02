@@ -1,11 +1,31 @@
 StartChar: greater.sc
-Encoding: 66044 -1 1636
-Width: 590
+Encoding: 919 -1 918
+GlifName: greater.sc
+Width: 467
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 102 62 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+116 424 m 258
+ 109 428 96 428 96 415 c 256
+ 96 406 101 377 120 367 c 258
+ 370 236 l 257
+ 373 235 374 232 371 231 c 257
+ 120 104 l 258
+ 100 94 89 65 89 53 c 256
+ 89 47 92 43 98 43 c 256
+ 99 43 103 44 106 46 c 258
+ 417 197 l 258
+ 437 207 450 234 450 243 c 256
+ 450 249 426 261 409 270 c 258
+ 116 424 l 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-greater.sc+AAoA"
 EndChar

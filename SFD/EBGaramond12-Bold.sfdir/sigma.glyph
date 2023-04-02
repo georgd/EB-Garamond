@@ -1,0 +1,65 @@
+StartChar: sigma
+Encoding: 1404 963 1403
+GlifName: sigma
+Width: 526
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+185 -14 m 256
+ 319 -14 398 88 398 202 c 256
+ 398 244 390 268 366 303 c 257
+ 387 303 403 301 421 301 c 256
+ 483 301 518 350 518 413 c 256
+ 518 456 509 468 489 468 c 256
+ 481 468 477 460 466 451 c 256
+ 454 441 431 430 378 429 c 256
+ 341 429 260 437 227 437 c 257
+ 99 437 20 328 20 208 c 256
+ 20 104 61 -14 185 -14 c 256
+165 107 m 256
+ 112 106 87 141 87 181 c 256
+ 87 247 158 314 253 314 c 256
+ 270 314 291 311 310 309 c 257
+ 326 291 331 266 331 238 c 256
+ 331 171 254 109 165 107 c 256
+EndSplineSet
+Fore
+SplineSet
+185 -14 m 256
+ 319 -14 398 88 398 202 c 256
+ 398 244 379 268 355 303 c 257
+ 376 303 426 301 444 301 c 256
+ 506 301 522 350 528 413 c 256
+ 532 456 532 468 512 468 c 256
+ 504 468 500 460 489 451 c 256
+ 477 441 454 430 401 429 c 256
+ 364 428 260 437 227 437 c 256
+ 99 437 20 328 20 208 c 256
+ 20 104 61 -14 185 -14 c 256
+157 100 m 256
+ 104 99 86 129 86 169 c 256
+ 86 235 158 314 253 314 c 256
+ 270 314 291 311 310 309 c 257
+ 326 291 331 266 331 238 c 256
+ 331 171 246 102 157 100 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vomicron
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vtau
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" sigma.sc
+Comment: "+AAoA-sigma+AAoA"
+EndChar

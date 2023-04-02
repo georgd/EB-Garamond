@@ -1,73 +1,93 @@
 StartChar: uni01AE
-Encoding: 430 430 2164
+Encoding: 1623 430 1622
 GlifName: uni01A_E_
-Width: 644
+Width: 673
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+472 -200 m 256
+ 540 -200 585 -164 585 -143 c 256
+ 585 -116 563 -93 542 -93 c 256
+ 531 -93 519 -102 507 -119 c 256
+ 483 -151 467 -159 442 -159 c 256
+ 395 -159 376 -98 376 -1 c 258
+ 376 495 l 258
+ 376 605 381 610 426 610 c 258
+ 527 610 l 258
+ 591 610 614 592 619 564 c 256
+ 624 538 628 523 638 523 c 256
+ 648 523 654 543 654 555 c 258
+ 654 567 l 258
+ 654 593 661 623 670 660 c 257
+ 670 662 671 666 671 669 c 256
+ 671 679 668 692 664 692 c 256
+ 649 692 634 670 614 656 c 256
+ 604 649 585 642 556 642 c 258
+ 175 642 l 258
+ 147 642 113 648 105 662 c 256
+ 99 673 85 694 80 694 c 256
+ 75 694 66 693 63 671 c 256
+ 57 629 51 604 32 566 c 256
+ 29 560 27 552 27 546 c 256
+ 27 539 29 533 34 533 c 256
+ 49 533 69 560 75 571 c 256
+ 89 597 125 610 157 610 c 258
+ 204 610 l 258
+ 238 610 256 610 275 606 c 256
+ 291 603 296 581 296 490 c 258
+ 296 61 l 258
+ 296 -26 324 -92 372 -148 c 256
+ 399 -180 433 -200 472 -200 c 256
+EndSplineSet
 Fore
 SplineSet
-269 -16 m 2
- 269 557 l 2
- 269 575 267 597 251 600 c 0
- 232 604 211 604 177 604 c 2
- 130 604 l 2
- 98 604 62 591 48 565 c 0
- 42 554 22 527 7 527 c 0
- 2 527 0 533 0 540 c 0
- 0 546 2 554 5 560 c 0
- 23 598 30 629 36 671 c 0
- 39 693 48 694 53 694 c 0
- 58 694 72 673 78 662 c 0
- 86 648 120 642 148 642 c 2
- 529 642 l 2
- 558 642 577 649 587 656 c 0
- 607 670 622 692 637 692 c 0
- 641 692 644 679 644 669 c 0
- 644 666 643 662 643 660 c 0
- 634 623 627 587 627 561 c 0
- 627 557 627 553 627 549 c 0
- 627 537 621 517 611 517 c 0
- 601 517 597 532 592 558 c 0
- 587 586 564 604 500 604 c 0
- 448 604 383 602 365 600 c 0
- 351 598 349 575 349 557 c 2
- 349 43 l 2
- 349 -123 376 -163 423 -163 c 0
- 476 -163 504 -120 504 -101 c 0
- 504 -83 559 -47 580 -47 c 0
- 588 -47 588 -60 588 -73 c 0
- 588 -159 497 -200 395 -200 c 0
- 317 -200 269 -123 269 -16 c 2
+472 -200 m 256
+ 540 -200 585 -164 585 -143 c 256
+ 585 -116 563 -93 542 -93 c 256
+ 531 -93 519 -102 507 -119 c 256
+ 483 -151 467 -159 442 -159 c 256
+ 395 -159 376 -98 376 -1 c 258
+ 376 495 l 258
+ 376 605 381 610 426 610 c 258
+ 527 610 l 258
+ 591 610 614 592 619 564 c 256
+ 624 538 628 523 638 523 c 256
+ 648 523 654 543 654 555 c 258
+ 654 567 l 258
+ 654 593 661 623 670 660 c 257
+ 670 662 671 666 671 669 c 256
+ 671 679 668 692 664 692 c 256
+ 649 692 634 670 614 656 c 256
+ 604 649 585 642 556 642 c 258
+ 175 642 l 258
+ 147 642 113 648 105 662 c 256
+ 99 673 85 694 80 694 c 256
+ 75 694 66 693 63 671 c 256
+ 57 629 51 604 32 566 c 256
+ 29 560 27 552 27 546 c 256
+ 27 539 29 533 34 533 c 256
+ 49 533 69 560 75 571 c 256
+ 89 597 125 610 157 610 c 258
+ 204 610 l 258
+ 238 610 256 610 275 606 c 256
+ 291 603 296 581 296 490 c 258
+ 296 0 l 258
+ 296 -107 374 -200 472 -200 c 256
 EndSplineSet
-Validated: 1
-Position2: "Single Positioning lookup 67 subtable" dx=0 dy=0 dh=170 dv=0
-Position2: "Single Positioning lookup 66 subtable" dx=0 dy=0 dh=135 dv=0
-Position2: "Single Positioning lookup 65 subtable" dx=0 dy=0 dh=115 dv=0
-Position2: "Single Positioning lookup 64 subtable" dx=0 dy=0 dh=100 dv=0
-Position2: "Single Positioning lookup 63 subtable" dx=0 dy=0 dh=80 dv=0
-Position2: "Single Positioning lookup 62 subtable" dx=0 dy=0 dh=50 dv=0
-Position2: "Single Positioning lookup 61 subtable" dx=0 dy=0 dh=95 dv=0
-Position2: "Single Positioning lookup 60 subtable" dx=0 dy=0 dh=60 dv=0
-Position2: "Single Positioning lookup 59 subtable" dx=0 dy=0 dh=40 dv=0
-Position2: "Single Positioning lookup 58 subtable" dx=0 dy=0 dh=25 dv=0
-Position2: "Single Positioning lookup 57 subtable" dx=0 dy=0 dh=60 dv=0
-Position2: "Single Positioning lookup 56 subtable" dx=0 dy=0 dh=25 dv=0
-Position2: "Single Positioning lookup 55 subtable" dx=0 dy=0 dh=10 dv=0
-Position2: "Single Positioning lookup 54 subtable" dx=0 dy=0 dh=180 dv=0
-Position2: "Single Positioning lookup 53 subtable" dx=0 dy=0 dh=145 dv=0
-Position2: "Single Positioning lookup 52 subtable" dx=0 dy=0 dh=125 dv=0
-Position2: "Single Positioning lookup 51 subtable" dx=0 dy=0 dh=110 dv=0
-Position2: "Single Positioning lookup 50 subtable" dx=0 dy=0 dh=90 dv=0
-Position2: "Single Positioning lookup 49 subtable" dx=0 dy=0 dh=60 dv=0
-Position2: "Single Positioning lookup 48 subtable" dx=0 dy=0 dh=80 dv=0
-Position2: "Single Positioning lookup 47 subtable" dx=0 dy=0 dh=80 dv=0
-Position2: "Single Positioning lookup 46 subtable" dx=0 dy=0 dh=100 dv=0
-Position2: "Single Positioning lookup 45 subtable" dx=0 dy=0 dh=115 dv=0
-Position2: "Single Positioning lookup 44 subtable" dx=0 dy=0 dh=115 dv=0
-Position2: "Single Positioning lookup 43 subtable" dx=0 dy=0 dh=100 dv=0
-Position2: "Single Positioning lookup 42 subtable" dx=0 dy=0 dh=100 dv=0
-Position2: "Single Positioning lookup 41 subtable" dx=0 dy=0 dh=120 dv=0
-Position2: "Single Positioning lookup 40 subtable" dx=0 dy=0 dh=135 dv=0
-Position2: "Single Positioning lookup 39 subtable" dx=0 dy=0 dh=135 dv=0
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VT
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uni01AE+AAoA"
 EndChar

@@ -1,0 +1,46 @@
+StartChar: dagger
+Encoding: 702 8224 701
+GlifName: dagger
+Width: 496
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+143 -135 m 256
+ 164 -135 176 -103 183 -82 c 256
+ 229 66 300 205 332 272 c 256
+ 342 293 349 306 351 311 c 256
+ 362 339 321 348 329 388 c 256
+ 332 403 345 410 356 410 c 256
+ 412 410 416 379 472 379 c 256
+ 510 379 532 397 539 432 c 256
+ 546 465 534 485 498 485 c 256
+ 447 485 428 454 359 454 c 256
+ 352 454 348 457 352 469 c 256
+ 370 530 408 552 427 614 c 256
+ 438 648 419 664 390 664 c 256
+ 355 664 332 649 321 614 c 256
+ 301 550 327 532 307 470 c 256
+ 303 456 294 454 287 454 c 256
+ 218 454 217 485 159 485 c 256
+ 125 485 102 467 93 432 c 256
+ 86 402 97 379 131 379 c 256
+ 182 379 204 410 258 410 c 256
+ 279 410 280 402 278 392 c 256
+ 269 346 213 346 207 316 c 256
+ 206 311 205 298 202 279 c 256
+ 191 212 178 65 132 -84 c 256
+ 124 -111 125 -135 143 -135 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" dagger.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" dagger.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" dagger.subs
+Comment: "+AAoA-dagger+AAoA"
+EndChar

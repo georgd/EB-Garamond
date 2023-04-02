@@ -1,22 +1,33 @@
 StartChar: dieresis
-Encoding: 168 168 72
+Encoding: 733 168 732
 GlifName: dieresis
-Width: 317
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+AnchorPoint: "top" 150 440 mark 0
+LayerCount: 2
+Back
 SplineSet
-247 574 m 0
- 272 574 297 549 297 524 c 0
- 297 499 272 474 247 474 c 0
- 222 474 197 499 197 524 c 0
- 197 549 222 574 247 574 c 0
-70 574 m 0
- 95 574 120 549 120 524 c 0
- 120 499 95 474 70 474 c 0
- 45 474 20 499 20 524 c 0
- 20 549 45 574 70 574 c 0
+107 593 m 256
+ 82 593 57 568 57 543 c 256
+ 57 518 82 493 107 493 c 256
+ 132 493 157 518 157 543 c 256
+ 157 568 132 593 107 593 c 256
+284 593 m 256
+ 259 593 234 568 234 543 c 256
+ 234 518 259 493 284 493 c 256
+ 309 493 334 518 334 543 c 256
+ 334 568 309 593 284 593 c 256
 EndSplineSet
-Validated: 1
+Fore
+Refer: 1929 776 N 1 0 0 1 150 19 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" dieresis.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" dieresis.sc
+Comment: "+AAoA-dieresis+AAoA"
 EndChar

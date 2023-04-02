@@ -1,8 +1,26 @@
 StartChar: uni1FBC
-Encoding: 8124 8124 2434
-Width: 1000
+Encoding: 2570 8124 2569
+GlifName: uni1F_B_C_
+Width: 658
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom.cap" 256 -30 basechar 0
+AnchorPoint: "bottomgreek" 275 -30 basechar 0
+AnchorPoint: "top.cap" 598 675 basechar 0
+AnchorPoint: "topgreek" 244 470 basechar 0
 LayerCount: 2
-MultipleSubs2: "CCMP_Precomp subtable" Alpha
+Fore
+Refer: 23 913 N 1 0 0 1 0 0 2
+Refer: 1901 837 N 1 0 0 1 370 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VAlpha
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni1FBC+AAoA"
 EndChar

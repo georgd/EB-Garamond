@@ -1,13 +1,43 @@
 StartChar: Obreve
-Encoding: 334 334 243
-Width: 712
+Encoding: 290 334 289
+GlifName: O_breve
+Width: 694
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 522 815 basechar 0
 LayerCount: 2
+Back
+SplineSet
+629 799 m 256
+ 600 762 565 758 519 758 c 256
+ 488 758 458 769 451 799 c 256
+ 449 807 451 820 442 820 c 256
+ 426 820 415 797 415 774 c 256
+ 415 733 456 706 498 706 c 256
+ 576 706 662 736 662 813 c 256
+ 662 817 660 820 656 820 c 256
+ 647 820 636 808 629 799 c 256
+484 664 m 256
+ 254 664 89 456 89 226 c 256
+ 89 94 197 -14 329 -14 c 256
+ 565 -14 724 208 724 444 c 256
+ 724 571 611 664 484 664 c 256
+479 628 m 256
+ 564 628 642 569 642 484 c 256
+ 642 284 536 21 336 21 c 256
+ 245 21 171 95 171 186 c 256
+ 171 386 279 628 479 628 c 256
+EndSplineSet
 Fore
-Refer: 2078 -1 N 1 0 0 1 410 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Obreve.sc
-MultipleSubs2: "CCMP_Precomp subtable" O uni0306.cap
+Refer: 277 79 N 1 0 0 1 0 0 2
+Refer: 1782 -1 N 1 0 0 1 334 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Obreve.sc
+Comment: "+AAoA-Obreve+AAoA"
 EndChar

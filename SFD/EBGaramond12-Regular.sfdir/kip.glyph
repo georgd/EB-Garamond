@@ -1,0 +1,34 @@
+StartChar: kip
+Encoding: 1061 8365 1060
+GlifName: kip
+Width: 681
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 348 -30 basechar 0
+AnchorPoint: "top.cap" 342 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+54 327 m 258
+ 634 334 l 258
+ 651 334 659 348 665 364 c 257
+ 668 371 659 378 652 378 c 258
+ 64 365 l 258
+ 50 365 40 348 40 339 c 256
+ 40 333 47 327 54 327 c 258
+EndSplineSet
+Refer: 221 75 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VK
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.98,0.36,0.67,1
+p5
+s."
+EndChar

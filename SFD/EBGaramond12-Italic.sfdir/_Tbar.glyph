@@ -1,51 +1,39 @@
 StartChar: Tbar
-Encoding: 358 358 998
+Encoding: 383 358 382
+GlifName: T_bar
 Width: 635
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 290 18 basechar 0
-AnchorPoint: "below_accent" 247 -100 basechar 0
-AnchorPoint: "top_accent" 450 710 basechar 0
+Flags: W
+AnchorPoint: "bottom.cap" 280 -30 basechar 0
+AnchorPoint: "top.cap" 455 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+171 332 m 257
+ 490 332 l 257
+ 505 332 514 341 521 354 c 257
+ 524 361 515 368 508 368 c 257
+ 181 368 l 257
+ 169 368 157 359 157 350 c 256
+ 157 344 162 332 171 332 c 257
+EndSplineSet
 Fore
 SplineSet
-327 102 m 2
- 313 54 333 31 377 22 c 0
- 397 18 402 15 402 6 c 0
- 402 -2 388 -5 372 -5 c 0
- 322 -5 307 0 265 0 c 24
- 218 0 194 -5 144 -5 c 0
- 128 -5 120 -2 120 6 c 0
- 120 15 134 18 157 22 c 0
- 206 31 239 54 253 102 c 2
- 383 557 l 2
- 389 575 393 607 379 607 c 0
- 349 607 289 607 250 607 c 0
- 194 607 161 560 142 524 c 0
- 135 511 131 506 123 506 c 0
- 115 506 115 506 115 517 c 0
- 115 522 143 596 161 646 c 0
- 164 655 169 666 174 666 c 0
- 184 666 184 642 223 642 c 2
- 691 642 l 2
- 720 642 733 666 743 666 c 0
- 746 666 749 658 749 650 c 0
- 749 643 745 634 741 627 c 0
- 734 614 714 565 706 511 c 0
- 704 500 700 497 695 497 c 0
- 686 497 681 506 681 520 c 0
- 681 525 697 607 630 607 c 0
- 582 607 507 607 488 607 c 0
- 474 607 463 575 457 557 c 2
- 327 102 l 2
-205 362 m 2
- 199 362 197 368 197 374 c 0
- 197 388 213 398 226 398 c 2
- 530 398 l 2
- 535 398 540 394 540 389 c 0
- 540 373 512 362 502 362 c 2
- 205 362 l 2
+201 332 m 258
+ 498 332 l 258
+ 508 332 536 343 536 359 c 256
+ 536 364 531 368 526 368 c 258
+ 222 368 l 258
+ 209 368 193 358 193 344 c 256
+ 193 338 195 332 201 332 c 258
 EndSplineSet
-Validated: 37
-Substitution2: "c2sc subtable" Tbar.sc
+Refer: 372 84 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Tbar.sc
+Comment: "+AAoA-Tbar+AAoA"
 EndChar

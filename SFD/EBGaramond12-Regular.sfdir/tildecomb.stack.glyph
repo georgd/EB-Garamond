@@ -1,27 +1,58 @@
 StartChar: tildecomb.stack
-Encoding: 1114939 -1 2251
+Encoding: 1475 -1 1474
 GlifName: tildecomb.stack
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 139 473 mark 0
-AnchorPoint: "gravestack" 150 590 basemark 0
-AnchorPoint: "acutestack" 155 590 basemark 0
-AnchorPoint: "top_stack" 139 600 basemark 0
-AnchorPoint: "top_accent" 131 533 mark 0
-LayerCount: 3
+AnchorPoint: "top" -9 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+-120 476 m 256
+ -112 476 -88 508 -63 508 c 256
+ -38 508 24 482 49 482 c 256
+ 74 482 134 544 134 554 c 256
+ 134 564 128 571 118 571 c 256
+ 110 571 96 538 61 538 c 256
+ 36 538 -21 565 -46 565 c 256
+ -71 565 -134 506 -134 496 c 256
+ -134 486 -130 476 -120 476 c 256
+-124 458 m 256
+ -120 458 -110 470 -101 478 c 256
+ -90 488 -76 500 -62 500 c 256
+ -26 500 33 492 49 492 c 256
+ 53 492 70 496 78 506 c 256
+ 91 522 109 547 125 562 c 256
+ 139 576 147 584 147 588 c 256
+ 147 598 138 605 128 605 c 256
+ 124 605 114 591 100 577 c 256
+ 90 567 76 558 61 558 c 256
+ 43 558 27 560 5 562 c 256
+ -14 564 -24 567 -46 567 c 256
+ -71 567 -140 483 -140 473 c 256
+ -140 463 -134 458 -124 458 c 256
+EndSplineSet
 Fore
 SplineSet
-19 458 m 0
- 9 458 5 468 5 478 c 0
- 5 488 68 547 93 547 c 0
- 118 547 175 520 200 520 c 0
- 235 520 249 553 257 553 c 0
- 267 553 273 546 273 536 c 0
- 273 526 213 464 188 464 c 0
- 163 464 101 490 76 490 c 0
- 51 490 27 458 19 458 c 0
+-119 467 m 256
+ -115 467 -105 479 -96 487 c 256
+ -85 497 -75 503 -61 503 c 256
+ -25 503 34 495 50 495 c 256
+ 54 495 71 499 79 509 c 256
+ 92 525 107 544 123 560 c 256
+ 131 568 139 575 139 579 c 256
+ 139 589 130 596 120 596 c 256
+ 116 596 111 590 99 577 c 256
+ 89 567 73 555 58 555 c 256
+ 40 555 24 557 2 559 c 256
+ -17 561 -27 564 -49 564 c 256
+ -74 564 -135 492 -135 482 c 256
+ -135 472 -129 467 -119 467 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" tildecomb.stacksc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-tildecomb.stack+AAoA"
 EndChar

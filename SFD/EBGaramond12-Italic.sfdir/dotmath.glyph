@@ -1,10 +1,23 @@
 StartChar: dotmath
-Encoding: 8901 8901 884
-Width: 184
+Encoding: 736 8901 735
+GlifName: dotmath
+Width: 201
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 113 183 N 1 0 0 1 0 0 3
-Validated: 1
+SplineSet
+102 150 m 256
+ 132 150 157 175 157 205 c 256
+ 157 235 132 260 102 260 c 256
+ 72 260 47 235 47 205 c 256
+ 47 175 72 150 102 150 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-dotmath+AAoA"
 EndChar

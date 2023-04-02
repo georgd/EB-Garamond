@@ -1,0 +1,33 @@
+StartChar: cheabkhasian-cy
+Encoding: 674 1213 673
+GlifName: cheabkhasian-cy
+Width: 476
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 308 440 basechar 0
+AnchorPoint: "bottom" 300 -30 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+176 253 m 257
+ 154 292 l 257
+ 110 292 63 304 63 339 c 256
+ 63 350 68 361 77 374 c 256
+ 82 384 85 394 85 404 c 256
+ 85 426 66 438 46 438 c 256
+ 26 438 10 424 10 397 c 256
+ 10 382 14 361 23 337 c 256
+ 42 284 115 253 176 253 c 257
+EndSplineSet
+Refer: 752 101 N 1 0 0 1 86 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+Ve
+p2
+sVpublic.markColor
+p3
+V0.97,1,0,1
+p4
+s."
+EndChar

@@ -1,21 +1,17 @@
 StartChar: uni1D52
-Encoding: 7506 7506 720
-Width: 286
+Encoding: 2130 7506 2129
+GlifName: uni1D_52
+Width: 304
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-289 493 m 0
- 247 493 218 448 204 402 c 0
- 187 347 198 297 239 297 c 0
- 280 297 309 341 324 389 c 0
- 340 441 331 493 289 493 c 0
-309 524 m 0
- 369 524 407 469 387 404 c 0
- 366 334 303 268 219 268 c 0
- 157 268 119 316 141 388 c 0
- 164 462 240 524 309 524 c 0
-EndSplineSet
-Validated: 33
+Refer: 1128 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1D52+AAoA"
 EndChar

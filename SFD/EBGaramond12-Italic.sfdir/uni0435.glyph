@@ -1,14 +1,19 @@
 StartChar: uni0435
-Encoding: 1077 1077 669
-Width: 365
+Encoding: 1986 1077 1985
+GlifName: uni0435
+Width: 341
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 168 8 basechar 0
-AnchorPoint: "ogonek" 212 18 basechar 0
-AnchorPoint: "below_accent" 94 -100 basechar 0
-AnchorPoint: "top_accent" 316 550 basechar 0
+Flags: W
+AnchorPoint: "bottom" 100 -30 basechar 0
+AnchorPoint: "top" 267 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 13 101 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 738 101 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0435+AAoA"
 EndChar

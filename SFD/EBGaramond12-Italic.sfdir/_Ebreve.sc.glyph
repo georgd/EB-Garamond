@@ -1,10 +1,19 @@
 StartChar: Ebreve.sc
-Encoding: 66217 -1 1809
-Width: 421
+Encoding: 92 -1 92
+GlifName: E_breve.sc
+Width: 480
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 365 648 basechar 0
 LayerCount: 2
 Fore
-Refer: 1810 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 84 -1 N 1 0 0 1 0 0 2
+Refer: 633 728 N 1 0 0 1 101 63 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Ebreve.sc+AAoA"
 EndChar

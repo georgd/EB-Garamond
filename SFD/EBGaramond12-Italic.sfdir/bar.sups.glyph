@@ -1,11 +1,25 @@
 StartChar: bar.sups
-Encoding: 66004 -1 1596
-Width: 169
-VWidth: 440
-Flags: MW
+Encoding: 606 -1 605
+GlifName: bar.sups
+Width: 146
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1290 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 601 -1 N 1 0 0 1 49 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbar.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbar.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-bar.sups+AAoA"
 EndChar

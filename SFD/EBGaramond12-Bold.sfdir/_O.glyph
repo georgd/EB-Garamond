@@ -1,29 +1,50 @@
 StartChar: O
-Encoding: 79 79 44
-Width: 718
+Encoding: 279 79 278
+GlifName: O_
+Width: 759
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 380 10 basechar 0
-AnchorPoint: "ogonek" 456 20 basechar 0
-AnchorPoint: "below_accent" 351 -98 basechar 0
-AnchorPoint: "top_accent" 360 708 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 382 -30 basechar 0
+AnchorPoint: "top.cap" 392 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+375 -14 m 256
+ 609 -14 734 155 734 335 c 256
+ 734 532 570 664 384 664 c 256
+ 150 664 25 495 25 315 c 256
+ 25 118 189 -14 375 -14 c 256
+386 42 m 256
+ 271 42 208 165 208 344 c 256
+ 208 504 263 607 371 607 c 256
+ 488 607 551 484 551 306 c 256
+ 551 145 495 42 386 42 c 256
+EndSplineSet
 Fore
 SplineSet
-354 620 m 0
- 250 620 192 486 192 350 c 0
- 192 183 264 30 368 30 c 0
- 473 30 526 138 526 305 c 0
- 526 491 466 620 354 620 c 0
-44 320 m 0
- 44 503 158 664 367 664 c 0
- 529 664 674 534 674 335 c 0
- 674 153 563 -14 359 -14 c 0
- 194 -14 44 128 44 320 c 0
+375 -14 m 256
+ 609 -14 734 155 734 335 c 256
+ 734 532 570 664 384 664 c 256
+ 150 664 25 495 25 315 c 256
+ 25 118 189 -14 375 -14 c 256
+393 33 m 256
+ 262 33 206 208 206 367 c 256
+ 206 513 259 616 364 616 c 256
+ 496 616 553 443 553 283 c 256
+ 553 136 499 33 393 33 c 256
 EndSplineSet
-Substitution2: "c2sc subtable" O.sc
-Substitution2: "sups subtable" O.sups
-Substitution2: "sinf subtable" O.sinf
-Substitution2: "ordn subtable" O.ordn
-Substitution2: "subs subtable" O.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2pc' Capitals to Petite Capitals lookup 23 subtable" O.pc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" O.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" O.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" O.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" O.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" O.subs
+Comment: "+AAoA-O+AAoA"
 EndChar

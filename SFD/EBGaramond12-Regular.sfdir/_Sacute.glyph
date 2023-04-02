@@ -1,14 +1,54 @@
 StartChar: Sacute
-Encoding: 346 346 252
+Encoding: 363 346 362
 GlifName: S_acute
 Width: 465
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 226 -30 basechar 0
+AnchorPoint: "top.cap" 269 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+208 685 m 256
+ 211 685 217 687 226 694 c 256
+ 266 724 316 762 356 796 c 256
+ 365 804 369 808 369 815 c 256
+ 369 829 325 838 311 838 c 256
+ 300 838 291 835 284 825 c 256
+ 257 786 231 746 207 706 c 256
+ 204 701 202 695 202 691 c 256
+ 202 688 204 685 208 685 c 256
+223 17 m 256
+ 165 17 111 42 92 103 c 256
+ 82 135 71 169 62 169 c 256
+ 51 169 41 149 41 140 c 256
+ 41 104 48 48 59 25 c 257
+ 61 20 67 14 80 8 c 256
+ 97 0 141 -16 214 -16 c 256
+ 364 -16 422 80 422 160 c 256
+ 422 262 326 338 269 375 c 256
+ 218 408 136 459 136 523 c 256
+ 136 590 189 631 251 631 c 256
+ 307 631 353 598 363 540 c 256
+ 366 525 379 512 398 512 c 256
+ 403 512 405 522 405 537 c 256
+ 405 568 397 618 396 621 c 257
+ 394 631 388 644 379 644 c 256
+ 369 644 324 664 260 664 c 256
+ 140 664 59 584 59 497 c 256
+ 59 417 116 365 186 318 c 256
+ 268 263 338 198 338 132 c 256
+ 338 62 298 17 223 17 c 256
+EndSplineSet
 Fore
-Refer: 984 -1 N 1 0 0 1 196 0 2
-Refer: 45 83 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Sacute.sc
-MultipleSubs2: "CCMP_Precomp subtable" S acutecomb.cap
+Refer: 355 83 N 1 0 0 1 0 0 2
+Refer: 512 -1 N 1 0 0 1 314 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Sacute.sc
+Comment: "+AAoA-Sacute+AAoA"
 EndChar

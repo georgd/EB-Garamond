@@ -1,14 +1,43 @@
 StartChar: omacron
-Encoding: 333 333 241
+Encoding: 1197 333 1196
 GlifName: omacron
 Width: 495
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -30 basechar 0
+AnchorPoint: "top" 254 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+353 555 m 258
+ 150 555 l 258
+ 131 555 126 521 126 512 c 256
+ 126 506 133 500 140 500 c 258
+ 335 500 l 258
+ 356 500 366 521 366 543 c 256
+ 366 549 359 555 353 555 c 258
+254 414 m 256
+ 131 414 35 298 35 187 c 256
+ 35 70 122 -14 234 -14 c 256
+ 384 -14 460 96 460 213 c 256
+ 460 321 370 414 254 414 c 256
+237 383 m 256
+ 322 383 378 284 378 189 c 256
+ 378 150 374 102 358 71 c 256
+ 338 32 300 16 255 16 c 256
+ 175 16 117 111 117 210 c 256
+ 117 258 122 309 149 343 c 256
+ 173 374 201 383 237 383 c 256
+EndSplineSet
 Fore
-Refer: 967 772 N 1 0 0 1 66 10 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" omacron.sc
-MultipleSubs2: "CCMP_Precomp subtable" o uni0304
+Refer: 1172 111 N 1 0 0 1 0 0 2
+Refer: 1127 175 N 1 0 0 1 104 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" omacron.sc
+Comment: "+AAoA-omacron+AAoA"
 EndChar

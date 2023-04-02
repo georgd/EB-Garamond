@@ -1,11 +1,48 @@
 StartChar: uni1FCA
-Encoding: 8138 8138 742
-Width: 788
+Encoding: 2583 8138 2582
+GlifName: uni1F_C_A_
+Width: 807
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 361 -30 basechar 0
+AnchorPoint: "bottomgreek" 366 -30 basechar 0
+AnchorPoint: "top.cap" 567 675 basechar 0
+AnchorPoint: "topgreek" 64 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 2366 -1 N 1 0 0 1 -27 35 2
-Refer: 635 919 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" Eta gravecomb.grk
+Refer: 126 919 N 1 0 0 1 56 0 2
+Refer: 909 -1 N 1 0 0 1 36 20 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VEta
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vgravecomb.grk
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VEta
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1FCA+AAoA"
 EndChar

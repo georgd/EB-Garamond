@@ -1,24 +1,38 @@
 StartChar: acutecomb.flat
-Encoding: 1114947 -1 2297
+Encoding: 515 -1 514
 GlifName: acutecomb.flat
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 93 515 mark 0
-AnchorPoint: "top_stack" 98 649 basemark 0
-AnchorPoint: "top_accent" 89 550 mark 0
-LayerCount: 3
+LayerCount: 2
+Back
+SplineSet
+-96 499 m 256
+ -87 499 -77 502 -69 504 c 256
+ -25 515 84 549 106 561 c 257
+ 109 563 110 567 110 570 c 256
+ 110 582 94 620 70 620 c 256
+ 63 620 56 617 49 614 c 256
+ 15 600 -88 536 -106 517 c 257
+ -109 513 -110 510 -110 507 c 256
+ -110 502 -103 499 -96 499 c 256
+EndSplineSet
 Fore
 SplineSet
-41 504 m 0
- 33 502 23 499 14 499 c 0
- 7 499 0 502 0 507 c 0
- 0 510 1 513 4 517 c 0
- 22 536 125 600 159 614 c 0
- 166 617 173 620 180 620 c 0
- 204 620 220 582 220 570 c 0
- 220 567 219 563 216 561 c 0
- 194 549 85 516 41 504 c 0
+-96 499 m 256
+ -87 499 -77 502 -69 504 c 256
+ -25 515 83 549 106 561 c 256
+ 109 563 110 567 110 570 c 256
+ 110 582 94 620 70 620 c 256
+ 63 620 56 617 49 614 c 256
+ 15 600 -87 536 -106 517 c 256
+ -110 513 -110 510 -110 507 c 256
+ -110 502 -103 499 -96 499 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-acutecomb.flat+AAoA"
 EndChar

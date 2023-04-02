@@ -1,12 +1,30 @@
 StartChar: greater.ordn
-Encoding: 1114431 -1 1430
+Encoding: 944 -1 943
 GlifName: greater.ordn
-Width: 354
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+Width: 385
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1228 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+53 312 m 257
+ 333 432 l 258
+ 345 437 360 445 360 449 c 256
+ 360 454 351 471 339 476 c 258
+ 53 596 l 257
+ 49 598 45 585 46 581 c 256
+ 49 567 53 556 66 550 c 258
+ 289 456 l 257
+ 291 455 290 454 288 453 c 257
+ 61 358 l 257
+ 48 352 45 330 45 325 c 256
+ 45 322 49 310 53 312 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-greater.ordn+AAoA"
 EndChar

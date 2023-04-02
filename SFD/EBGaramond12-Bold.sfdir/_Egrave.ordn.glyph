@@ -1,0 +1,37 @@
+StartChar: Egrave.ordn
+Encoding: 101 -1 101
+GlifName: E_grave.ordn
+Width: 451
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+298 740 m 256
+ 304 740 307 743 307 747 c 256
+ 307 752 304 757 296 765 c 256
+ 265 796 240 827 210 861 c 256
+ 203 869 193 870 182 867 c 256
+ 171 864 123 838 123 826 c 256
+ 123 820 128 815 139 810 c 256
+ 183 790 234 766 276 745 c 256
+ 286 740 295 740 298 740 c 256
+EndSplineSet
+Refer: 82 -1 N 1 0 0 1 0 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VE.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VE.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-Egrave.ordn+AAoA"
+EndChar

@@ -1,12 +1,17 @@
 StartChar: uni2767
-Encoding: 10087 10087 2381
+Encoding: 3024 10087 3023
 GlifName: uni2767
 Width: 940
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2380 10086 N 0 1 -1 0 711 -140 2
-Validated: 1
-Substitution2: "floralhearts_variants subtable" uni2767.01
+Refer: 3011 9753 N -1 0 0 1 940 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2767+AAoA"
 EndChar

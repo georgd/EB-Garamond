@@ -1,11 +1,18 @@
 StartChar: aogonek.sc
-Encoding: 66202 -1 1794
-Width: 601
+Encoding: 546 -1 545
+GlifName: aogonek.sc
+Width: 584
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 433 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 128 808 N 1 0 0 1 275 0 2
-Refer: 1671 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 28 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-aogonek.sc+AAoA"
 EndChar

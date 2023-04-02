@@ -1,12 +1,19 @@
 StartChar: uni032D
-Encoding: 813 813 2069
+Encoding: 1871 813 1870
+GlifName: uni032D_
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "below_accent" 152 -100 mark 0
+AnchorPoint: "bottom" -70 -30 mark 0
+AnchorPoint: "top" 0 -101 basechar 0
+AnchorPoint: "topstack" -56 -71 basechar 0
 LayerCount: 2
 Fore
-Refer: 91 770 N 1 0 0 1 0 -720 2
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" uni032D.cap
+Refer: 1769 770 N 1 0 0 1 -218 -706 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni032D+AAoA"
 EndChar

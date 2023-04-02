@@ -1,12 +1,69 @@
 StartChar: Agrave
-Encoding: 192 192 130
-Width: 772
+Encoding: 21 192 21
+GlifName: A_grave
+Width: 658
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 256 -30 basechar 0
+AnchorPoint: "top.cap" 598 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+776 697 m 256
+ 780 697 782 700 782 703 c 256
+ 782 707 780 713 777 718 c 256
+ 753 758 727 798 700 837 c 256
+ 693 847 684 850 673 850 c 256
+ 659 850 615 841 615 827 c 256
+ 615 820 619 816 628 808 c 256
+ 667 773 719 737 758 706 c 256
+ 767 699 773 697 776 697 c 256
+389 310 m 258
+ 587 506 l 258
+ 612 531 626 539 631 539 c 256
+ 637 539 636 521 627 494 c 258
+ 569 324 l 258
+ 562 303 553 297 539 296 c 258
+ 405 288 l 258
+ 369 286 377 298 389 310 c 258
+619 -5 m 256
+ 635 -5 651 -1 651 7 c 256
+ 651 16 645 24 625 28 c 256
+ 590 35 577 67 595 128 c 258
+ 750 644 l 258
+ 755 662 753 676 748 676 c 256
+ 743 676 716 644 699 636 c 256
+ 677 626 666 622 653 622 c 256
+ 645 622 628 592 599 564 c 258
+ 127 108 l 258
+ 83 65 34 42 -1 31 c 256
+ -24 24 -38 18 -38 8 c 256
+ -38 -1 -31 -5 -15 -5 c 256
+ 16 -5 57 1 98 1 c 256
+ 132 1 165 -1 182 -1 c 256
+ 198 -1 213 3 213 12 c 256
+ 213 22 209 27 188 30 c 256
+ 175 32 142 54 187 102 c 258
+ 303 226 l 258
+ 314 238 333 244 338 244 c 257
+ 519 253 l 257
+ 538 253 551 246 547 235 c 258
+ 506 112 l 258
+ 487 56 480 46 412 31 c 256
+ 394 27 375 21 375 12 c 256
+ 375 4 383 0 399 0 c 256
+ 421 0 455 1 491 1 c 256
+ 533 1 593 -5 619 -5 c 256
+EndSplineSet
 Fore
-Refer: 2074 -1 N 1 0 0 1 662 0 2
-Refer: 31 65 N 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Agrave.sc
-MultipleSubs2: "CCMP_Precomp subtable" A gravecomb.cap
+Refer: 1 65 N 1 0 0 1 0 0 2
+Refer: 906 -1 N 1 0 0 1 381 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Agrave.sc
+Comment: "+AAoA-Agrave+AAoA"
 EndChar

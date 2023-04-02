@@ -1,15 +1,59 @@
 StartChar: Oslashacute
-Encoding: 510 510 1038
+Encoding: 314 510 313
 GlifName: O_slashacute
 Width: 773
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 391 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+351 685 m 256
+ 354 685 360 687 369 694 c 256
+ 409 724 459 762 499 796 c 256
+ 508 804 512 808 512 815 c 256
+ 512 829 468 838 454 838 c 256
+ 443 838 434 835 427 825 c 256
+ 400 786 374 746 350 706 c 256
+ 347 701 345 695 345 691 c 256
+ 345 688 347 685 351 685 c 256
+216 123 m 257
+ 589 492 l 257
+ 614 441 626 377 626 305 c 256
+ 626 134 550 25 400 25 c 256
+ 327 25 261 64 216 123 c 257
+77 -14 m 256
+ 81 -14 84 -13 86 -11 c 258
+ 166 69 l 257
+ 227 17 305 -14 387 -14 c 256
+ 606 -14 723 155 723 335 c 256
+ 723 420 694 494 647 549 c 257
+ 719 621 l 258
+ 724 626 726 632 726 639 c 256
+ 726 644 724 650 723 654 c 257
+ 720 663 706 665 699 658 c 258
+ 619 579 l 257
+ 559 633 479 664 395 664 c 256
+ 171 664 50 501 50 320 c 256
+ 50 234 82 158 134 100 c 257
+ 59 26 l 258
+ 53 20 49 13 49 6 c 256
+ 49 -4 63 -14 77 -14 c 256
+380 625 m 256
+ 463 625 527 590 568 529 c 257
+ 191 161 l 257
+ 161 215 147 281 147 350 c 256
+ 147 490 232 625 380 625 c 256
+EndSplineSet
 Fore
-Refer: 984 -1 N 1 0 0 1 339 0 2
-Refer: 1009 216 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Oslash acutecomb.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+Refer: 311 216 N 1 0 0 1 0 0 2
+Refer: 512 -1 N 1 0 0 1 436 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Oslashacute+AAoA"
 EndChar

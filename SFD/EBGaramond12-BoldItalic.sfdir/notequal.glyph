@@ -1,0 +1,26 @@
+StartChar: notequal
+Encoding: 1118 8800 1117
+GlifName: notequal
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+144 -35 m 256
+ 163 -36 182 -36 192 -19 c 258
+ 493 501 l 258
+ 498 510 491 523 473 525 c 256
+ 451 527 434 525 424 507 c 258
+ 125 -13 l 258
+ 119 -23 129 -34 144 -35 c 256
+EndSplineSet
+Refer: 800 61 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-notequal+AAoA"
+EndChar

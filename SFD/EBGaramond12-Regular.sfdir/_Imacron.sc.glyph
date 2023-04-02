@@ -1,12 +1,48 @@
 StartChar: Imacron.sc
-Encoding: 1114828 -1 1827
+Encoding: 200 -1 200
 GlifName: I_macron.sc
 Width: 315
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 158 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+265 620 m 258
+ 62 620 l 258
+ 43 620 38 586 38 577 c 256
+ 38 571 45 565 52 565 c 258
+ 247 565 l 258
+ 268 565 278 586 278 608 c 256
+ 278 614 271 620 265 620 c 258
+158 3 m 256
+ 200 3 226 -3 265 -3 c 256
+ 272 -3 285 1 285 9 c 256
+ 285 19 272 23 261 25 c 256
+ 226 32 195 43 195 79 c 258
+ 195 352 l 258
+ 195 393 211 415 253 422 c 256
+ 265 424 277 431 277 441 c 256
+ 277 449 264 453 257 453 c 256
+ 218 453 193 448 158 448 c 256
+ 122 448 97 453 58 453 c 256
+ 51 453 38 449 38 441 c 256
+ 38 431 50 424 62 422 c 256
+ 104 415 120 393 120 352 c 258
+ 120 79 l 258
+ 120 43 89 32 54 25 c 256
+ 43 23 30 19 30 9 c 256
+ 30 1 43 -3 50 -3 c 256
+ 89 -3 116 3 158 3 c 256
+EndSplineSet
 Fore
-Refer: 1828 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 180 -1 N 1 0 0 1 0 0 2
+Refer: 1128 -1 N 1 0 0 1 6 84 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Imacron.sc+AAoA"
 EndChar

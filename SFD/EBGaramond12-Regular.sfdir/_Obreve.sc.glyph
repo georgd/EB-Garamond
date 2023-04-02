@@ -1,12 +1,41 @@
 StartChar: Obreve.sc
-Encoding: 1114864 -1 1863
+Encoding: 291 -1 290
 GlifName: O_breve.sc
 Width: 616
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 312 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+231 652 m 256
+ 229 662 226 673 216 673 c 256
+ 206 673 201 662 201 649 c 256
+ 201 599 238 543 308 543 c 256
+ 378 543 415 599 415 649 c 256
+ 415 662 410 673 400 673 c 256
+ 390 673 387 662 385 652 c 256
+ 380 627 358 603 308 603 c 256
+ 258 603 236 627 231 652 c 256
+60 222 m 256
+ 60 93 169 -14 302 -14 c 256
+ 466 -14 556 103 556 226 c 256
+ 556 360 433 458 302 458 c 256
+ 175 458 60 342 60 222 c 256
+296 426 m 256
+ 400 426 466 318 466 217 c 256
+ 466 138 433 22 318 22 c 256
+ 206 22 150 120 150 237 c 256
+ 150 332 202 426 296 426 c 256
+EndSplineSet
 Fore
-Refer: 1864 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 281 -1 N 1 0 0 1 0 0 2
+Refer: 636 728 N 1 0 0 1 162 63 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Obreve.sc+AAoA"
 EndChar

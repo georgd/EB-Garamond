@@ -1,14 +1,48 @@
 StartChar: ocircumflex
-Encoding: 244 244 171
+Encoding: 1184 244 1183
 GlifName: ocircumflex
 Width: 495
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -30 basechar 0
+AnchorPoint: "top" 254 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+243 553 m 257
+ 246 557 247 557 250 553 c 256
+ 274 523 304 485 316 469 c 256
+ 323 459 338 447 346 447 c 256
+ 355 447 355 451 355 460 c 256
+ 355 475 286 597 266 630 c 257
+ 261 639 254 648 246 648 c 256
+ 238 648 231 639 226 630 c 257
+ 206 597 138 475 138 460 c 256
+ 138 451 138 447 147 447 c 256
+ 155 447 170 460 177 469 c 256
+ 189 485 218 523 243 553 c 257
+254 414 m 256
+ 131 414 35 298 35 187 c 256
+ 35 70 122 -14 234 -14 c 256
+ 384 -14 460 96 460 213 c 256
+ 460 321 370 414 254 414 c 256
+237 383 m 256
+ 322 383 378 284 378 189 c 256
+ 378 150 374 102 358 71 c 256
+ 338 32 300 16 255 16 c 256
+ 175 16 117 111 117 210 c 256
+ 117 258 122 309 149 343 c 256
+ 173 374 201 383 237 383 c 256
+EndSplineSet
 Fore
-Refer: 91 770 N 1 0 0 1 108 0 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" ocircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" o uni0302
+Refer: 1172 111 N 1 0 0 1 0 0 2
+Refer: 689 710 N 1 0 0 1 104 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" ocircumflex.sc
+Comment: "+AAoA-ocircumflex+AAoA"
 EndChar

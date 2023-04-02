@@ -1,19 +1,25 @@
 StartChar: uni02C8
-Encoding: 712 712 2244
+Encoding: 1890 712 1889
 GlifName: uni02C_8
-Width: 155
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-50 684 m 18
- 50 692 83 707 92 707 c 0
- 100 707 105 699 105 691 c 10
- 105 525 l 18
- 105 518 82 500 63 500 c 16
- 55 500 50 510 50 519 c 10
- 50 684 l 18
+85 500 m 256
+ 104 500 127 518 127 525 c 258
+ 127 691 l 258
+ 127 699 122 707 114 707 c 256
+ 105 707 72 692 72 684 c 258
+ 72 519 l 258
+ 72 510 77 500 85 500 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni02C8+AAoA"
 EndChar

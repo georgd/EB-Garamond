@@ -1,0 +1,57 @@
+StartChar: colonsign
+Encoding: 684 8353 683
+GlifName: colonsign
+Width: 631
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 488 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+44 -101 m 256
+ 59 -101 76 -101 85 -86 c 258
+ 564 729 l 258
+ 569 738 569 746 556 746 c 256
+ 539 746 521 744 512 729 c 258
+ 33 -86 l 258
+ 28 -94 31 -101 44 -101 c 256
+168 -101 m 256
+ 183 -101 200 -101 209 -86 c 258
+ 688 729 l 258
+ 693 738 693 746 680 746 c 256
+ 663 746 645 744 636 729 c 258
+ 157 -86 l 258
+ 152 -94 155 -101 168 -101 c 256
+EndSplineSet
+Fore
+SplineSet
+46 -102 m 256
+ 61 -104 76 -105 84 -92 c 258
+ 562 724 l 258
+ 567 733 565 741 552 743 c 256
+ 535 746 519 746 511 732 c 258
+ 33 -85 l 258
+ 29 -92 33 -100 46 -102 c 256
+173 -99 m 256
+ 188 -101 203 -102 211 -89 c 258
+ 686 724 l 258
+ 691 732 689 741 676 743 c 256
+ 659 746 643 745 635 731 c 258
+ 159 -82 l 258
+ 154 -90 160 -97 173 -99 c 256
+EndSplineSet
+Refer: 43 67 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VC
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.98,0.36,0.67,1
+p5
+s."
+EndChar

@@ -1,12 +1,18 @@
 StartChar: lacute.sc
-Encoding: 66255 -1 1847
-Width: 497
+Encoding: 1035 -1 1034
+GlifName: lacute.sc
+Width: 470
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 253 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2454 -1 N 1 0 0 1 271 30 2
-Refer: 1682 -1 N 1 0 0 1 0 0 3
-Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=65 dv=0
-Comment: "."
+Refer: 245 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-lacute.sc+AAoA"
 EndChar

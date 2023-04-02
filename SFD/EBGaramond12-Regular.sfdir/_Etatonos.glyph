@@ -1,14 +1,95 @@
 StartChar: Etatonos
-Encoding: 905 905 2435
+Encoding: 129 905 129
 GlifName: E_tatonos
-Width: 889
+Width: 932
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 527 -30 basechar 0
+AnchorPoint: "bottom.cap" 527 -30 basechar 0
+AnchorPoint: "top.cap" 527 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+56 513 m 256
+ 77 549 127 647 127 657 c 256
+ 127 673 108 698 89 698 c 256
+ 81 698 67 692 64 680 c 256
+ 54 644 23 522 23 504 c 256
+ 23 495 23 491 32 491 c 256
+ 40 491 50 503 56 513 c 256
+804 100 m 258
+ 804 552 l 258
+ 804 590 807 613 857 622 c 256
+ 880 626 890 633 890 642 c 256
+ 890 650 878 653 861 653 c 256
+ 807 653 806 650 770 650 c 256
+ 725 650 708 653 654 653 c 256
+ 637 653 625 650 625 642 c 256
+ 625 633 635 626 658 622 c 256
+ 708 613 724 588 724 552 c 258
+ 724 362 l 258
+ 724 353 722 350 717 350 c 258
+ 346 350 l 258
+ 340 350 332 351 332 359 c 258
+ 332 551 l 258
+ 332 590 350 613 400 622 c 256
+ 423 626 433 633 433 642 c 256
+ 433 650 421 653 404 653 c 256
+ 350 653 339 650 298 650 c 256
+ 258 650 249 653 195 653 c 256
+ 178 653 166 650 166 642 c 256
+ 166 633 176 626 199 622 c 256
+ 249 613 252 597 252 551 c 258
+ 252 99 l 258
+ 252 51 242 33 192 24 c 256
+ 169 20 159 15 159 6 c 256
+ 159 -2 171 -5 188 -5 c 256
+ 242 -5 255 0 298 0 c 256
+ 344 0 361 -5 415 -5 c 256
+ 432 -5 444 -2 444 6 c 256
+ 444 15 434 20 411 24 c 256
+ 365 32 332 64 332 106 c 258
+ 332 291 l 258
+ 332 299 332 302 337 302 c 258
+ 719 302 l 258
+ 725 302 724 294 724 287 c 258
+ 724 97 l 258
+ 724 54 698 32 656 24 c 256
+ 633 20 623 15 623 6 c 256
+ 623 -2 635 -5 652 -5 c 256
+ 706 -5 717 0 759 0 c 256
+ 800 0 809 -5 863 -5 c 256
+ 880 -5 892 -2 892 6 c 256
+ 892 15 882 20 859 24 c 256
+ 809 33 804 51 804 100 c 258
+EndSplineSet
 Fore
-Refer: 2704 -1 N 1 0 0 1 -34 35 2
-Refer: 633 919 N 1 0 0 1 79 0 2
-Validated: 1
-Substitution2: "c2sc subtable" Etatonos.sc
-MultipleSubs2: "CCMP_Precomp subtable" Eta acutecomb.grk
+Refer: 127 919 N 1 0 0 1 122 0 2
+Refer: 1476 900 N 1 0 0 1 -31 14 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VEta
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VEta
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Etatonos.sc
+Comment: "+AAoA-Etatonos+AAoA"
 EndChar

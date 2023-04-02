@@ -1,14 +1,26 @@
 StartChar: uni1F9B
-Encoding: 8091 8091 2388
-Width: 892
+Encoding: 2538 8091 2537
+GlifName: uni1F_9B_
+Width: 947
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 501 -30 basechar 0
+AnchorPoint: "bottomgreek" 506 -30 basechar 0
+AnchorPoint: "top.cap" 707 675 basechar 0
+AnchorPoint: "topgreek" 204 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 2368 -1 N 1 0 0 1 -30 98 2
-Refer: 2362 -1 N 1 0 0 1 -47 98 2
-Refer: 2371 837 N 1 0 0 1 443 -65 2
-Refer: 635 919 N 1 0 0 1 104 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Eta uni0314.grk gravecomb.grkstack
+Refer: 2435 7979 N 1 0 0 1 0 0 2
+Refer: 1901 837 N 1 0 0 1 601 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VEta
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni1F9B+AAoA"
 EndChar

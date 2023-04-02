@@ -1,13 +1,50 @@
 StartChar: uni1ECB
-Encoding: 7883 7883 537
+Encoding: 2511 7883 2510
 GlifName: uni1E_C_B_
 Width: 245
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 116 -30 basechar 0
+AnchorPoint: "top" 124 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+65 -142 m 256
+ 65 -170 87 -192 115 -192 c 256
+ 144 -192 166 -170 166 -142 c 256
+ 166 -113 144 -91 115 -91 c 256
+ 87 -91 65 -113 65 -142 c 256
+66 565 m 256
+ 66 537 88 515 116 515 c 256
+ 145 515 167 537 167 565 c 256
+ 167 594 145 616 116 616 c 256
+ 88 616 66 594 66 565 c 256
+162 434 m 256
+ 154 434 109 393 42 377 c 256
+ 38 376 35 370 35 365 c 256
+ 35 359 38 353 43 352 c 256
+ 77 345 90 315 90 279 c 258
+ 90 62 l 258
+ 90 35 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 36 -3 44 -3 c 256
+ 83 -3 90 2 125 2 c 256
+ 160 2 168 -3 206 -3 c 256
+ 215 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 35 160 62 c 258
+ 160 294 l 258
+ 160 339 165 388 169 429 c 257
+ 169 432 166 434 162 434 c 256
+EndSplineSet
 Fore
-Refer: 2019 803 N 1 0 0 1 65 0 2
-Refer: 5 105 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" i dotbelowcomb
+Refer: 991 105 N 1 0 0 1 0 0 2
+Refer: 745 803 N 1 0 0 1 116 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1ECB+AAoA"
 EndChar

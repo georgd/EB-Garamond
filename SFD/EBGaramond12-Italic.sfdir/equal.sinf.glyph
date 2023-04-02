@@ -1,11 +1,42 @@
 StartChar: equal.sinf
-Encoding: 65737 -1 1329
-Width: 390
-VWidth: -144
-Flags: MW
+Encoding: 804 -1 803
+GlifName: equal.sinf
+Width: 393
+VWidth: 0
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+290 80 m 258
+ 10 80 l 258
+ -3 80 -11 57 -13 52 c 257
+ -14 48 -11 44 -6 44 c 258
+ 268 44 l 258
+ 281 44 288 59 296 72 c 257
+ 298 76 295 80 290 80 c 258
+257 -28 m 258
+ -23 -28 l 258
+ -36 -28 -44 -52 -46 -57 c 257
+ -47 -61 -44 -64 -39 -64 c 258
+ 235 -64 l 258
+ 248 -64 255 -50 263 -37 c 257
+ 265 -33 262 -28 257 -28 c 258
+EndSplineSet
 Fore
-Refer: 1227 -1 N 1 0 0 1 -44 -144 2
-Validated: 1
-Comment: "."
+Refer: 801 -1 N 1 0 0 1 -131 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vequal.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vequal.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-equal.sinf+AAoA"
 EndChar

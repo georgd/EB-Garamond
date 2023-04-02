@@ -1,12 +1,39 @@
 StartChar: uni1F5B
-Encoding: 8027 8027 2309
-Width: 686
+Encoding: 2478 8027 2477
+GlifName: uni1F_5B_
+Width: 924
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottomgreek" 510 -30 basechar 0
+AnchorPoint: "top.cap" 720 675 basechar 0
+AnchorPoint: "topgreek" 204 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 2368 -1 N 1 0 0 1 -4 35 2
-Refer: 2362 -1 N 1 0 0 1 -129 35 2
-Refer: 643 933 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" Upsilon uni0314.grk gravecomb.grkstack
+Refer: 421 933 N 1 0 0 1 235 0 2
+Refer: 2598 8157 N 1 0 0 1 -38 20 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VUpsilon
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VUpsilon
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1F5B+AAoA"
 EndChar

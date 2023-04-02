@@ -1,0 +1,64 @@
+StartChar: zero.dnom
+Encoding: 3206 -1 3205
+GlifName: zero.dnom
+Width: 300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+252 -17 m 256
+ 255 -17 259 -15 261 -4 c 256
+ 270 42 289 88 289 91 c 256
+ 289 94 290 99 285 99 c 256
+ 277 99 275 95 270 88 c 256
+ 249 59 230 38 200 38 c 258
+ 127 38 l 258
+ 123 38 113 39 117 43 c 257
+ 135 57 174 98 208 140 c 256
+ 232 169 248 203 248 230 c 256
+ 248 281 218 323 157 323 c 256
+ 82 323 40 256 40 239 c 256
+ 40 232 43 225 47 225 c 256
+ 50 225 53 227 56 231 c 257
+ 84 261 101 272 136 272 c 256
+ 169 272 192 249 192 206 c 256
+ 192 151 122 77 81 40 c 258
+ 42 5 l 258
+ 35 -1 34 -2 34 -5 c 256
+ 34 -9 40 -15 46 -15 c 256
+ 66 -15 112 -13 143 -13 c 256
+ 176 -13 209 -17 252 -17 c 256
+EndSplineSet
+Fore
+Refer: 3208 -1 N 1 0 0 1 0 -293 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vzero.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vzero.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vzero.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni2080+AAoA"
+EndChar

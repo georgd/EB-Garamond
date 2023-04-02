@@ -1,27 +1,50 @@
 StartChar: exclam
-Encoding: 33 33 66
-Width: 248
+Encoding: 814 33 813
+GlifName: exclam
+Width: 287
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+144 205 m 256
+ 154 205 165 222 174 244 c 256
+ 220 357 294 535 314 598 c 256
+ 323 627 305 649 278 649 c 256
+ 249 649 230 626 222 598 c 256
+ 204 534 162 358 138 244 c 256
+ 132 215 134 205 144 205 c 256
+85 -14 m 256
+ 124 -14 157 16 157 54 c 256
+ 157 81 136 106 108 106 c 256
+ 68 106 36 76 36 38 c 256
+ 36 11 57 -14 85 -14 c 256
+EndSplineSet
 Fore
 SplineSet
-155 97 m 16
- 179 97 195 75 195 51 c 16
- 195 16 167 -14 132 -14 c 8
- 108 -14 92 9 92 33 c 16
- 92 68 120 97 155 97 c 16
-260 573 m 0
- 272 612 298 649 332 649 c 0
- 364 649 368 612 357 575 c 0
- 330 488 272 358 223 244 c 0
- 213 222 203 205 194 205 c 0
- 185 205 183 215 189 244 c 0
- 213 358 241 510 260 573 c 0
+144 205 m 256
+ 154 205 165 222 174 244 c 256
+ 220 357 294 535 306 574 c 256
+ 319 613 308 649 281 649 c 256
+ 255 649 228 618 215 574 c 256
+ 204 534 162 358 138 244 c 256
+ 132 215 134 205 144 205 c 256
+85 -14 m 256
+ 124 -14 157 16 157 54 c 256
+ 157 81 136 106 108 106 c 256
+ 68 106 36 76 36 38 c 256
+ 36 11 57 -14 85 -14 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "sups subtable" exclam.sups
-Substitution2: "sinf subtable" exclam.sinf
-Substitution2: "ordn subtable" exclam.ordn
-Substitution2: "subs subtable" exclam.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" exclam.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" exclam.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" exclam.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" exclam.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" exclam.subs
+Comment: "+AAoA-exclam+AAoA"
 EndChar

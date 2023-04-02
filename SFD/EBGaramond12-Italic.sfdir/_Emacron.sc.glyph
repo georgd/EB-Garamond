@@ -1,10 +1,19 @@
 StartChar: Emacron.sc
-Encoding: 66215 -1 1807
-Width: 421
+Encoding: 111 -1 111
+GlifName: E_macron.sc
+Width: 480
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 325 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1808 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 84 -1 N 1 0 0 1 0 0 2
+Refer: 1084 -1 N 1 0 0 1 106 84 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Emacron.sc+AAoA"
 EndChar

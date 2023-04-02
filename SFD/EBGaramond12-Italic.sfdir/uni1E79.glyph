@@ -1,12 +1,51 @@
 StartChar: uni1E79
-Encoding: 7801 7801 474
-Width: 498
+Encoding: 2270 7801 2269
+GlifName: uni1E_79
+Width: 501
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 167 -30 basechar 0
+AnchorPoint: "top" 329 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2109 -1 N 1 0 0 1 389 134 2
-Refer: 2112 -1 N 1 0 0 1 222 0 2
-Refer: 15 117 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" u tildecomb.stack acutecomb.stack
+Refer: 1435 117 N 1 0 0 1 0 0 2
+Refer: 1417 -1 N 1 0 0 1 249 0 2
+Refer: 521 -1 N 1 0 0 1 329 151 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vu
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vtildecomb.stack
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vacutecomb.stack
+p11
+sasVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1E79+AAoA"
 EndChar

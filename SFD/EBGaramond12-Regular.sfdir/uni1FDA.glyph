@@ -1,13 +1,67 @@
 StartChar: uni1FDA
-Encoding: 8154 8154 738
+Encoding: 2762 8154 2761
 GlifName: uni1F_D_A_
-Width: 419
+Width: 434
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 264 -30 basechar 0
+AnchorPoint: "top.cap" 264 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+66 513 m 256
+ 72 503 82 491 90 491 c 256
+ 99 491 99 495 99 504 c 256
+ 99 522 68 644 58 680 c 256
+ 55 692 41 698 33 698 c 256
+ 14 698 -5 673 -5 657 c 256
+ -5 647 45 549 66 513 c 256
+224 550 m 258
+ 224 98 l 258
+ 224 51 196 33 146 24 c 256
+ 123 20 113 15 113 6 c 256
+ 113 -2 125 -5 142 -5 c 256
+ 196 -5 220 0 270 0 c 256
+ 316 0 333 -5 387 -5 c 256
+ 404 -5 416 -2 416 6 c 256
+ 416 15 406 20 383 24 c 256
+ 333 33 304 51 304 98 c 258
+ 304 550 l 258
+ 304 597 325 613 375 622 c 256
+ 398 626 408 633 408 642 c 256
+ 408 650 396 653 379 653 c 256
+ 325 653 313 650 270 650 c 256
+ 224 650 207 653 153 653 c 256
+ 136 653 124 650 124 642 c 256
+ 124 633 134 626 157 622 c 256
+ 207 613 224 597 224 550 c 258
+EndSplineSet
 Fore
-Refer: 2695 -1 N 1 0 0 1 -34 35 2
-Refer: 634 921 N 1 0 0 1 79 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Iota gravecomb.grk
+Refer: 203 921 N 1 0 0 1 94 0 2
+Refer: 935 -1 N 1 0 0 1 59 24 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VIota
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VI
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1FDA+AAoA"
 EndChar

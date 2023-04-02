@@ -1,35 +1,70 @@
 StartChar: l
-Encoding: 108 108 2
-Width: 252
-Flags: MW
-AnchorPoint: "top_right" 383 634 basechar 0
-AnchorPoint: "top_right1" 372 624 basechar 0
-AnchorPoint: "below_accent" 56 -100 basechar 0
-AnchorPoint: "top_accent" 293 812 basechar 0
+Encoding: 1027 108 1026
+GlifName: l
+Width: 286
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 67 -30 basechar 0
 LayerCount: 2
+Back
+SplineSet
+164 679 m 256
+ 164 676 174 672 188 669 c 256
+ 220 662 229 657 215 618 c 256
+ 154 449 80 239 41 125 c 256
+ 21 67 8 31 8 22 c 256
+ 8 6 31 -16 50 -16 c 256
+ 106 -16 187 33 224 107 c 256
+ 227 113 230 124 230 130 c 257
+ 229 135 225 136 218 131 c 256
+ 199 118 116 28 96 28 c 256
+ 85 28 84 52 90 70 c 256
+ 109 127 241 504 310 686 c 257
+ 312 693 317 717 309 717 c 256
+ 302 717 292 715 280 711 c 257
+ 259 705 193 696 182 694 c 256
+ 171 692 164 684 164 679 c 256
+EndSplineSet
 Fore
 SplineSet
-233 99 m 0
- 241 107 248 120 253 120 c 0
- 258 120 258 115 258 107 c 0
- 258 47 129 -14 94 -14 c 0
- 62 -14 50 2 50 21 c 0
- 50 38 54 52 61 76 c 2
- 206 559 l 2
- 212 578 220 607 220 624 c 0
- 220 646 170 648 170 660 c 0
- 170 665 172 669 176 671 c 0
- 206 686 274 707 290 707 c 0
- 296 707 307 707 307 697 c 0
- 307 686 306 683 303 674 c 2
- 131 86 l 2
- 128 75 126 65 126 57 c 0
- 126 47 129 41 136 41 c 0
- 168 41 223 89 233 99 c 0
+56 -14 m 256
+ 109 -14 239 80 239 147 c 256
+ 239 155 239 160 234 160 c 256
+ 228 160 216 148 208 137 c 256
+ 183 102 129 45 101 45 c 256
+ 94 45 91 51 91 61 c 256
+ 91 69 92 79 96 90 c 258
+ 298 666 l 258
+ 301 675 304 686 304 694 c 256
+ 304 704 298 709 292 709 c 256
+ 276 709 202 697 164 688 c 256
+ 160 687 158 682 158 677 c 256
+ 158 672 166 667 180 664 c 256
+ 198 660 213 648 213 636 c 256
+ 213 619 210 602 203 583 c 258
+ 13 42 l 258
+ 12 39 11 33 11 30 c 256
+ 11 8 39 -14 56 -14 c 256
 EndSplineSet
-Substitution2: "Smallcaps1 subtable" l.sc
-Substitution2: "sups subtable" l.sups
-Substitution2: "sinf subtable" l.sinf
-Substitution2: "ordn subtable" l.ordn
-Substitution2: "subs subtable" l.subs
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vh
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vi
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" L.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" l.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" l.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" l.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" l.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" l.subs
+Comment: "+AAoA-l+AAoA"
 EndChar

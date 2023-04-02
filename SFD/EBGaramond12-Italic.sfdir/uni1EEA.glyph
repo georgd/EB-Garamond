@@ -1,11 +1,20 @@
 StartChar: uni1EEA
-Encoding: 7914 7914 2008
-Width: 737
+Encoding: 2377 7914 2376
+GlifName: uni1E_E_A_
+Width: 700
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 308 -30 basechar 0
+AnchorPoint: "top.cap" 504 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 2074 -1 N 1 0 0 1 414 0 2
-Refer: 290 431 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" Uhorn gravecomb.cap
+Refer: 413 431 N 1 0 0 1 0 0 2
+Refer: 906 -1 N 1 0 0 1 287 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1EEA+AAoA"
 EndChar

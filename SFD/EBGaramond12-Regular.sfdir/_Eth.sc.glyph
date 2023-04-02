@@ -1,15 +1,60 @@
 StartChar: Eth.sc
-Encoding: 1114738 -1 1737
+Encoding: 132 -1 132
 GlifName: E_th.sc
 Width: 603
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 275 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+151 448 m 257
+ 116 448 97 453 58 453 c 256
+ 51 453 38 449 38 441 c 256
+ 38 431 50 424 62 422 c 256
+ 104 415 120 393 120 352 c 258
+ 120 245 l 257
+ 58 245 l 258
+ 44 245 34 227 34 218 c 256
+ 34 212 41 206 48 206 c 258
+ 120 206 l 257
+ 120 79 l 258
+ 120 43 89 32 54 25 c 256
+ 43 23 30 19 30 9 c 256
+ 30 1 43 -3 50 -3 c 256
+ 89 -3 112 2 148 3 c 256
+ 182 3 233 -3 247 -3 c 256
+ 405 -3 542 88 543 236 c 256
+ 544 405 433 453 249 453 c 256
+ 231 453 177 447 151 448 c 257
+271 28 m 256
+ 234 28 195 59 195 91 c 258
+ 195 206 l 257
+ 279 206 l 258
+ 295 206 310 213 310 233 c 256
+ 310 239 303 245 297 245 c 258
+ 195 245 l 257
+ 195 383 l 258
+ 195 411 225 422 252 422 c 256
+ 378 422 453 356 453 225 c 256
+ 453 122 384 28 271 28 c 256
+EndSplineSet
 Fore
-Refer: 1769 -1 S 1 0 0 1 0 0 2
-Validated: 1
-Position2: "Single Positioning lookup 105 subtable" dx=0 dy=0 dh=-15 dv=0
-Position2: "Single Positioning lookup 104 subtable" dx=0 dy=0 dh=-25 dv=0
-Position2: "Single Positioning lookup 103 subtable" dx=0 dy=0 dh=-25 dv=0
-Comment: "."
+SplineSet
+48 206 m 257
+ 283 206 l 258
+ 299 206 314 213 314 233 c 256
+ 314 239 307 245 301 245 c 257
+ 58 245 l 257
+ 44 245 34 227 34 218 c 256
+ 34 212 41 206 48 206 c 257
+EndSplineSet
+Refer: 72 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Eth.sc+AAoA"
 EndChar

@@ -1,0 +1,20 @@
+StartChar: Jcircumflex
+Encoding: 218 308 218
+GlifName: J_circumflex
+Width: 397
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 533 823 basechar 0
+LayerCount: 2
+Fore
+Refer: 209 74 N 1 0 0 1 0 0 2
+Refer: 1770 -1 N 1 0 0 1 204 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Jcircumflex.sc
+Comment: "+AAoA-Jcircumflex+AAoA"
+EndChar

@@ -1,9 +1,17 @@
 StartChar: uni0324.cap
-Encoding: 66390 -1 2087
+Encoding: 1857 -1 1856
+GlifName: uni0324.cap
 Width: 0
-Flags: HMW
-AnchorPoint: "below_accent" 150 -100 mark 0
+VWidth: 0
+AnchorPoint: "bottom.cap" -70 -30 mark 0
 LayerCount: 2
 Fore
-Refer: 2080 -1 N 1 0 0 1 0 -890 2
+Refer: 718 168 N 1 0 0 1 -366 -698 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0324.cap+AAoA"
 EndChar

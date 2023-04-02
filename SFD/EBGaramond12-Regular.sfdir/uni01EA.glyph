@@ -1,16 +1,60 @@
 StartChar: uni01EA
-Encoding: 490 490 313
+Encoding: 1680 490 1679
 GlifName: uni01E_A_
 Width: 763
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 383 700 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 382 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+377 -14 m 256
+ 599 -14 718 155 718 335 c 256
+ 718 532 562 664 386 664 c 256
+ 164 664 45 495 45 315 c 256
+ 45 118 201 -14 377 -14 c 256
+391 26 m 256
+ 230 26 143 156 143 345 c 256
+ 143 514 220 623 370 623 c 256
+ 533 623 620 493 620 305 c 256
+ 620 135 543 26 391 26 c 256
+451 -287 m 256
+ 505 -287 582 -225 582 -182 c 256
+ 582 -174 575 -173 570 -176 c 256
+ 561 -181 523 -216 488 -216 c 256
+ 453 -216 422 -190 422 -155 c 256
+ 422 -55 534 18 534 18 c 257
+ 508 18 l 257
+ 508 18 337 -73 337 -174 c 256
+ 337 -237 388 -287 451 -287 c 256
+EndSplineSet
 Fore
-Refer: 1076 -1 N 1 0 0 1 332 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 5
-MultipleSubs2: "CCMP_Precomp subtable" O uni0328.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+SplineSet
+718 335 m 256
+ 718 532 562 664 386 664 c 256
+ 164 664 45 495 45 315 c 256
+ 45 118 201 -14 377 -14 c 256
+ 412 -14 445 -10 475 -2 c 257
+ 425 -34 337 -101 337 -174 c 256
+ 337 -237 388 -287 451 -287 c 256
+ 505 -287 582 -225 582 -182 c 256
+ 582 -174 575 -173 570 -176 c 256
+ 561 -181 523 -216 488 -216 c 256
+ 453 -216 422 -190 422 -155 c 256
+ 422 -67 501 -4 571 41 c 256
+ 659 97 718 209 718 335 c 256
+391 26 m 256
+ 230 26 143 156 143 345 c 256
+ 143 514 220 623 370 623 c 256
+ 533 623 620 493 620 305 c 256
+ 620 135 543 26 391 26 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni01EA+AAoA"
 EndChar

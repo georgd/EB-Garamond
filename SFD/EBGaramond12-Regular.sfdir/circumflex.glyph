@@ -1,11 +1,47 @@
 StartChar: circumflex
-Encoding: 710 710 90
+Encoding: 690 710 689
 GlifName: circumflex
-Width: 277
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 150 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+135 553 m 257
+ 138 557 139 557 142 553 c 256
+ 166 523 196 485 208 469 c 256
+ 215 459 230 447 238 447 c 256
+ 247 447 247 451 247 460 c 256
+ 247 475 178 597 158 630 c 257
+ 153 639 146 648 138 648 c 256
+ 130 648 123 639 118 630 c 257
+ 98 597 30 475 30 460 c 256
+ 30 451 30 447 39 447 c 256
+ 47 447 62 460 69 469 c 256
+ 81 485 110 523 135 553 c 257
+EndSplineSet
 Fore
-Refer: 91 770 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 659 711 N 1 0 0 -1 0 1103 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vcaron
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-circumflex+AAoA"
 EndChar

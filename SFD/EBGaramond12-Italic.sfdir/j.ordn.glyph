@@ -1,11 +1,37 @@
 StartChar: j.ordn
-Encoding: 65884 -1 1476
-Width: 151
-VWidth: 7
-Flags: MW
+Encoding: 1002 -1 1001
+GlifName: j.ordn
+Width: 163
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1272 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+-4 135 m 256
+ 30 135 80 179 105 216 c 256
+ 121 240 132 261 143 298 c 258
+ 186 436 l 258
+ 202 488 216 520 221 534 c 256
+ 222 537 213 540 207 537 c 256
+ 180 524 163 505 127 498 c 257
+ 119 496 114 478 122 476 c 256
+ 141 471 144 453 138 432 c 258
+ 93 286 l 258
+ 80 245 71 218 52 197 c 256
+ 32 174 18 167 2 162 c 256
+ -7 159 -15 154 -18 143 c 256
+ -20 136 -11 135 -4 135 c 256
+204 596 m 256
+ 229 596 250 616 250 638 c 256
+ 250 652 239 665 222 665 c 256
+ 200 665 179 647 179 624 c 256
+ 179 611 188 596 204 596 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-j.ordn+AAoA"
 EndChar

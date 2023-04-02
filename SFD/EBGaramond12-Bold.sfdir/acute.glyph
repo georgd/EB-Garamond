@@ -1,17 +1,20 @@
 StartChar: acute
-Encoding: 180 180 76
-Width: 469
+Encoding: 510 180 509
+GlifName: acute
+Width: 245
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-350 650 m 0
- 376 650 404 647 404 629 c 0
- 404 606 323 576 204 466 c 0
- 196 459 177 444 163 444 c 0
- 150 444 142 448 142 460 c 0
- 142 478 243 598 274 632 c 0
- 291 651 317 650 350 650 c 0
-EndSplineSet
+Refer: 511 769 N 1 0 0 1 123 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" acute.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" acute.sc
+Comment: "+AAoA-acute+AAoA"
 EndChar

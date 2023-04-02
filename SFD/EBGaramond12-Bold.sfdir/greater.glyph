@@ -1,34 +1,35 @@
 StartChar: greater
-Encoding: 62 62 86
-Width: 606
+Encoding: 943 62 942
+GlifName: greater
+Width: 537
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-74 -5 m 1
- 73 -5 71 -6 69 -6 c 0
- 61 -6 54 -2 54 6 c 0
- 54 15 61 32 74 45 c 1
- 74 415 l 1
- 57 428 52 450 52 459 c 0
- 52 467 60 474 69 474 c 0
- 71 474 73 473 74 473 c 1
- 74 -5 l 1
-93 406 m 1
- 89.1974 406 86.1046 410.895 84 413 c 1
- 84 432 84 451 84 470 c 1
- 513 270 l 2
- 529 262 554 251 554 241 c 0
- 554 229 541 202 521 193 c 2
- 84 -8 l 1
- 84 42 l 1
- 89 49 94 54 101 57 c 2
- 473 232 l 1
- 93 406 l 1
-EndSplineSet
-Substitution2: "sups subtable" greater.sups
-Substitution2: "sinf subtable" greater.sinf
-Substitution2: "ordn subtable" greater.ordn
-Substitution2: "subs subtable" greater.subs
+Refer: 1080 60 N -1 0 0 -1 537 465 2
+Guideline: "" "" 384 -1 0 0 0
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|less
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|less
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'ss04' Style Set 4 lookup 33 subtable" uni2767.01
+Substitution2: "'ss02' Style Set 2 lookup 30 subtable" bullet.01
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" greater.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" greater.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" greater.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" greater.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" greater.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" greater.subs
+Comment: "+AAoA-greater+AAoA"
 EndChar

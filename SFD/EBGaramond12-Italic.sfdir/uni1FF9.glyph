@@ -1,11 +1,48 @@
 StartChar: uni1FF9
-Encoding: 8185 8185 978
-Width: 712
+Encoding: 2624 8185 2623
+GlifName: uni1F_F_9
+Width: 745
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 349 -30 basechar 0
+AnchorPoint: "bottomgreek" 362 -30 basechar 0
+AnchorPoint: "top.cap" 540 675 basechar 0
+AnchorPoint: "topgreek" 52 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 2367 -1 N 1 0 0 1 -30 35 2
-Refer: 640 927 N 1 0 0 1 0 0 2
-MultipleSubs2: "CCMP_Precomp subtable" Omicron acutecomb.grk
+Refer: 306 927 N 1 0 0 1 51 0 2
+Refer: 516 -1 N 1 0 0 1 26 20 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOmicron
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vacutecomb.grk
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VOmicron
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1FF9+AAoA"
 EndChar

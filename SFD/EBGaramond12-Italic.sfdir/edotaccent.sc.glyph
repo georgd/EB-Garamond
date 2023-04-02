@@ -1,11 +1,18 @@
 StartChar: edotaccent.sc
-Encoding: 66220 -1 1812
-Width: 503
+Encoding: 760 -1 759
+GlifName: edotaccent.sc
+Width: 480
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 325 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2458 -1 N 1 0 0 1 346 30 2
-Refer: 1675 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 100 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-edotaccent.sc+AAoA"
 EndChar

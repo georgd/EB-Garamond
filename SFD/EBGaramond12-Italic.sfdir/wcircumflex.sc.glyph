@@ -1,11 +1,18 @@
 StartChar: wcircumflex.sc
-Encoding: 66314 -1 1906
-Width: 832
+Encoding: 2999 -1 2998
+GlifName: wcircumflex.sc
+Width: 800
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 537 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2455 -1 N 1 0 0 1 451 30 2
-Refer: 1693 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 451 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-wcircumflex.sc+AAoA"
 EndChar

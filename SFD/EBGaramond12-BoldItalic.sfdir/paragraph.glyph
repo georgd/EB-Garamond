@@ -1,0 +1,84 @@
+StartChar: paragraph
+Encoding: 1195 182 1194
+GlifName: paragraph
+Width: 612
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+142 -288 m 256
+ 231 -288 306 -245 351 -98 c 258
+ 560 589 l 258
+ 564 602 573 607 582 607 c 256
+ 587 607 665 603 671 603 c 256
+ 681 603 685 614 686 624 c 256
+ 687 633 684 641 675 642 c 256
+ 652 645 608 645 580 645 c 256
+ 319 645 101 578 101 322 c 256
+ 101 194 197 119 354 119 c 256
+ 363 119 365 111 362 100 c 258
+ 295 -120 l 258
+ 269 -206 208 -246 140 -246 c 256
+ 92 -246 45 -221 45 -162 c 256
+ 45 -146 54 -123 67 -123 c 256
+ 76 -123 86 -132 97 -140 c 256
+ 108 -149 121 -157 135 -157 c 256
+ 174 -157 194 -135 194 -101 c 256
+ 194 -71 169 -48 126 -48 c 256
+ 56 -48 4 -104 4 -177 c 256
+ 4 -245 62 -288 142 -288 c 256
+358 156 m 256
+ 324 156 307 176 307 224 c 256
+ 307 261 318 316 341 392 c 256
+ 399 582 441 593 487 593 c 256
+ 493 593 502 591 502 586 c 256
+ 502 585 502 585 502 584 c 258
+ 371 169 l 258
+ 368 160 363 156 358 156 c 256
+EndSplineSet
+Fore
+SplineSet
+116 -287 m 256
+ 261 -287 319 -183 352 -78 c 258
+ 552 568 l 258
+ 556 581 570 595 582 595 c 256
+ 641 595 689 579 696 579 c 256
+ 705 579 715 595 720 609 c 256
+ 724 622 722 636 712 639 c 257
+ 695 642 622 648 558 648 c 256
+ 278 648 145 624 78 402 c 256
+ 18 204 139 76 332 76 c 256
+ 341 76 345 67 341 56 c 258
+ 294 -90 l 258
+ 264 -183 206 -240 117 -240 c 256
+ 57 -240 33 -204 33 -174 c 256
+ 33 -154 42 -138 57 -138 c 256
+ 69 -138 80 -145 91 -151 c 256
+ 105 -159 124 -168 142 -168 c 256
+ 182 -168 215 -138 215 -94 c 256
+ 215 -49 184 -29 141 -29 c 256
+ 59 -29 -14 -84 -14 -184 c 256
+ -14 -244 38 -287 116 -287 c 256
+342 124 m 256
+ 302 124 282 146 282 199 c 256
+ 282 240 295 300 322 384 c 256
+ 390 594 430 593 483 593 c 256
+ 490 593 501 591 501 585 c 256
+ 501 584 501 584 501 583 c 258
+ 357 138 l 258
+ 354 128 347 124 342 124 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" paragraph.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" paragraph.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" paragraph.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" paragraph.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" paragraph.subs
+Comment: "+AAoA-paragraph+AAoA"
+EndChar

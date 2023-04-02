@@ -1,0 +1,43 @@
+StartChar: two.osf
+Encoding: 1428 -1 1427
+GlifName: two.osf
+Width: 361
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-23 -5 m 256
+ -5 -5 58 0 110 0 c 256
+ 168 0 200 -4 259 -4 c 256
+ 263 -4 268 -3 276 12 c 256
+ 291 41 329 112 329 132 c 256
+ 329 138 328 144 318 144 c 256
+ 308 144 306 136 295 117 c 256
+ 271 76 246 65 211 65 c 258
+ 91 65 l 258
+ 85 65 78 69 85 73 c 257
+ 96 80 198 155 237 191 c 256
+ 279 230 328 262 328 326 c 256
+ 328 370 279 413 234 413 c 256
+ 133 413 68 330 68 302 c 256
+ 68 293 72 290 78 290 c 256
+ 83 290 89 295 93 300 c 257
+ 126 335 155 358 197 358 c 256
+ 224 358 251 344 251 312 c 256
+ 251 211 67 94 38 74 c 256
+ 14 58 -4 45 -15 35 c 256
+ -28 25 -35 18 -35 14 c 256
+ -35 0 -25 -5 -23 -5 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" two.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" two.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" two.lf
+Comment: "+AAoA-two+AAoA"
+EndChar

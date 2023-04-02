@@ -1,38 +1,38 @@
 StartChar: uni0306.stack
-Encoding: 66412 -1 2113
+Encoding: 1787 -1 1786
+GlifName: uni0306.stack
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 148 465 mark 0
-AnchorPoint: "hookstack" 190 565 basemark 0
-AnchorPoint: "acutestack" 178 566 basemark 0
-AnchorPoint: "gravestack" 194 566 basemark 0
-AnchorPoint: "top_stack" 205 617 basemark 0
-AnchorPoint: "top_accent" 169 550 mark 0
 LayerCount: 2
 Back
 SplineSet
-167 533 m 1024
-86 562 m 0
- 95 538 131 517 167 517 c 0
- 204 517 241 538 250 562 c 0
- 253 571 261 583 271 583 c 0
- 281 583 284 572 284 559 c 0
- 284 524 237 461 167 461 c 0
- 97 461 50 524 50 559 c 0
- 50 572 53 583 63 583 c 0
- 73 583 83 571 86 562 c 0
+74 472 m 256
+ 142 472 221 507 221 573 c 256
+ 221 580 218 585 212 585 c 256
+ 203 585 193 568 185 559 c 257
+ 168 538 130 521 91 521 c 256
+ 66 521 37 536 36 559 c 256
+ 35 568 33 580 26 580 c 256
+ 6 580 -3 550 -3 526 c 256
+ -3 489 44 472 74 472 c 256
 EndSplineSet
 Fore
 SplineSet
-112 559 m 0
- 113 536 142 521 167 521 c 0
- 206 521 244 538 261 559 c 0
- 269 568 279 585 288 585 c 0
- 294 585 297 580 297 573 c 0
- 297 507 218 472 150 472 c 0
- 120 472 73 489 73 526 c 0
- 73 550 82 580 102 580 c 0
- 109 580 111 568 112 559 c 0
+96 472 m 256
+ 186 472 217 538 217 566 c 256
+ 217 577 213 585 207 585 c 256
+ 198 585 189 569 182 559 c 256
+ 163 531 129 521 100 521 c 256
+ 64 521 36 536 36 559 c 256
+ 36 568 29 580 22 580 c 256
+ 10 580 0 563 0 542 c 256
+ 0 505 26 472 96 472 c 256
 EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0306.stack+AAoA"
 EndChar

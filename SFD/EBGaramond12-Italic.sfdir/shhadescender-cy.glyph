@@ -1,0 +1,37 @@
+StartChar: shhadescender-cy
+Encoding: 1352 1319 1351
+GlifName: shhadescender-cy
+Width: 488
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 180 -30 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+155 -220 m 256
+ 164 -220 223 -204 258 -180 c 256
+ 308 -146 327 -78 340 0 c 256
+ 344 24 360 67 384 96 c 257
+ 343 66 l 257
+ 347 60 l 257
+ 320 23 300 -6 286 -29 c 256
+ 272 -53 264 -68 253 -100 c 256
+ 229 -170 190 -187 148 -201 c 257
+ 143 -203 139 -205 139 -210 c 256
+ 139 -218 148 -220 155 -220 c 256
+EndSplineSet
+Refer: 933 104 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vh
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.97,1,0,1
+p5
+s."
+EndChar

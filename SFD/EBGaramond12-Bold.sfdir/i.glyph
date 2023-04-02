@@ -1,38 +1,61 @@
 StartChar: i
-Encoding: 105 105 5
-Width: 262
-Flags: HMW
-LayerCount: 3
-Fore
+Encoding: 992 105 991
+GlifName: i
+Width: 306
+VWidth: 0
+Flags: HW
+AnchorPoint: "bottom" 150 -30 basechar 0
+AnchorPoint: "top" 152 440 basechar 0
+LayerCount: 2
+Back
 SplineSet
-68 559 m 0
- 68 595 98 625 134 625 c 0
- 170 625 198 595 198 559 c 0
- 198 523 170 493 134 493 c 0
- 98 493 68 523 68 559 c 0
-193 420 m 0
- 198 420 202 418 202 415 c 0
- 196 376 188 329 188 286 c 2
- 188 65 l 2
- 188 39 207 35 224 29 c 0
- 233 24 243 20 243 8 c 0
- 243 -1 231 -3 221 -3 c 0
- 180 -3 172 3 134 3 c 0
- 96 3 88 -3 46 -3 c 0
- 37 -3 24 -1 24 8 c 0
- 24 20 35 24 45 29 c 0
- 63 35 83 40 83 65 c 2
- 83 268 l 2
- 83 302 71 329 38 336 c 0
- 33 337 30 345 30 352 c 0
- 30 358 34 366 39 367 c 0
- 125 382 183 420 193 420 c 0
+36 -3 m 256
+ 75 -3 121 2 156 2 c 256
+ 191 2 243 -2 281 -2 c 256
+ 290 -2 296 3 296 12 c 256
+ 296 23 289 27 278 31 c 256
+ 240 43 230 52 230 69 c 258
+ 230 288 l 258
+ 230 337 240 399 243 437 c 257
+ 243 445 238 451 229 451 c 256
+ 226 451 218 448 207 443 c 256
+ 176 429 114 399 42 385 c 257
+ 35 384 30 376 30 367 c 256
+ 30 358 34 349 42 348 c 256
+ 71 344 85 332 85 284 c 258
+ 85 68 l 258
+ 85 47 73 40 37 31 c 256
+ 26 28 20 21 20 11 c 256
+ 20 3 28 -3 36 -3 c 256
+151 488 m 256
+ 200 488 238 526 238 572 c 256
+ 238 621 200 659 151 659 c 256
+ 105 659 67 621 67 572 c 256
+ 67 526 105 488 151 488 c 256
 EndSplineSet
-Substitution2: "Smallcaps subtable" i.sc
-Substitution2: "sups subtable" i.sups
-Substitution2: "sinf subtable" i.sinf
-Substitution2: "ordn subtable" i.ordn
-Substitution2: "subs subtable" i.subs
-Substitution2: "Single Substitution lookup 8 subtable" dotlessi
-Substitution2: "loclTRK subtable" i.TRK
+Fore
+Refer: 747 305 N 1 0 0 1 0 0 2
+Refer: 744 729 N 1 0 0 1 31 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vn
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'ss01' Style Set 1 lookup 29 subtable" I.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals lookup 24 subtable" i.pc
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" i.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" i.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" i.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" i.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" i.subs
+Substitution2: "'locl' Localized Forms in Latin lookup 6 subtable" i.TRK
+Substitution2: "'locl' Localized Forms in Latin lookup 3 subtable" i.TRK
+Substitution2: "'locl' Localized Forms in Latin lookup 2 subtable" i.TRK
+Comment: "+AAoA-i+AAoA"
 EndChar

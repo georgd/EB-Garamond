@@ -1,13 +1,21 @@
 StartChar: omacron
-Encoding: 333 333 242
-Width: 400
+Encoding: 1152 333 1151
+GlifName: omacron
+Width: 380
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 104 -30 basechar 0
+AnchorPoint: "top" 278 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 980 772 N 1 0 0 1 185 0 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" omacron.sc
-MultipleSubs2: "CCMP_Precomp subtable" o uni0304
+Refer: 1127 111 N 1 0 0 1 0 0 2
+Refer: 1083 175 N 1 0 0 1 48 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" omacron.sc
+Comment: "+AAoA-omacron+AAoA"
 EndChar

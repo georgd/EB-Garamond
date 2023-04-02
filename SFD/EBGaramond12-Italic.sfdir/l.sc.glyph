@@ -1,40 +1,18 @@
 StartChar: l.sc
-Encoding: 66090 -1 1682
-Width: 497
+Encoding: 1030 -1 1029
+GlifName: l.sc
+Width: 470
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_right1" 539 457 basechar 0
-AnchorPoint: "top_right" 531 450 basechar 0
-AnchorPoint: "ogonek" 173 18 basechar 0
-AnchorPoint: "below_accent" 222 -100 basechar 0
-AnchorPoint: "top_accent" 311 580 basechar 0
+Flags: W
+AnchorPoint: "top" 253 503 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-343 30 m 2
- 415 29 448 77 478 116 c 0
- 484 124 486 126 494 126 c 0
- 500 126 502 122 502 114 c 0
- 502 96 478 39 460 11 c 0
- 455 3 446 -5 437 -4 c 8
- 323 -2 205 2 145 1 c 8
- 98 0 75 -5 25 -5 c 0
- 9 -5 1 -2 1 6 c 0
- 1 15 14 20 37 24 c 0
- 86 33 119 51 133 97 c 2
- 211 349 l 2
- 225.501953125 395.846679688 214 412 170 421 c 0
- 150 425 146 432 146 441 c 0
- 146 449 160 452 176 452 c 0
- 226 452 241 449 282 449 c 24
- 322 449 334 452 384 452 c 0
- 400 452 408 449 408 441 c 0
- 408 432 394 425 371 421 c 0
- 322 412 297 396 283 349 c 2
- 203 86 l 2
- 194 58 193 33 232 32 c 2
- 343 30 l 2
-EndSplineSet
-Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=65 dv=0
-Comment: "."
+Refer: 238 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-l.sc+AAoA"
 EndChar

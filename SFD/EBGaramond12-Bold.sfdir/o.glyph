@@ -1,27 +1,55 @@
 StartChar: o
-Encoding: 111 111 3
-Width: 512
-Flags: HMW
-AnchorPoint: "top_accent" 250 550 basechar 0
-LayerCount: 3
+Encoding: 1173 111 1172
+GlifName: o
+Width: 505
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 250 -30 basechar 0
+AnchorPoint: "top" 259 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+238 -14 m 256
+ 401 -14 484 95 484 226 c 256
+ 484 339 385 437 260 437 c 256
+ 126 437 21 328 21 197 c 256
+ 21 74 116 -14 238 -14 c 256
+257 33 m 256
+ 208 33 172 127 172 222 c 256
+ 172 266 175 318 191 351 c 256
+ 206 381 223 390 245 390 c 256
+ 298 390 332 293 332 202 c 256
+ 332 166 329 118 319 89 c 256
+ 308 50 284 33 257 33 c 256
+EndSplineSet
 Fore
 SplineSet
-263 414 m 0
- 384 414 477 321 477 213 c 0
- 477 96 398 -14 242 -14 c 0
- 126 -14 35 70 35 187 c 0
- 35 298 135 414 263 414 c 0
-248 377 m 0
- 221 377 200 368 182 338 c 0
- 162 305 158 256 158 210 c 0
- 158 114 202 22 262 22 c 0
- 296 22 324 37 339 75 c 0
- 351 105 354 151 354 189 c 0
- 354 281 312 377 248 377 c 0
+238 -14 m 256
+ 401 -14 484 95 484 226 c 256
+ 484 339 385 437 260 437 c 256
+ 126 437 21 328 21 197 c 256
+ 21 74 116 -14 238 -14 c 256
+257 33 m 256
+ 208 33 172 127 172 222 c 256
+ 172 299 179 349 202 373 c 256
+ 213 384 227 390 245 390 c 256
+ 297 390 332 313 332 202 c 256
+ 332 135 326 89 310 62 c 256
+ 298 43 281 33 257 33 c 256
 EndSplineSet
-Substitution2: "Smallcaps subtable" o.sc
-Substitution2: "sups subtable" o.sups
-Substitution2: "sinf subtable" o.sinf
-Substitution2: "ordn subtable" o.ordn
-Substitution2: "subs subtable" o.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss01' Style Set 1 lookup 29 subtable" O.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals lookup 24 subtable" o.pc
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" o.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" o.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" o.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" o.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" o.subs
+Comment: "+AAoA-o+AAoA"
 EndChar

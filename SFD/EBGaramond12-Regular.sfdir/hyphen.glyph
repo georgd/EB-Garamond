@@ -1,27 +1,32 @@
 StartChar: hyphen
-Encoding: 45 45 93
+Encoding: 985 45 984
 GlifName: hyphen
 Width: 274
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-35 170 m 0
- 30 170 29 172 29 176 c 0
- 29 198 35 229 45 230 c 0
- 109 239 173 248 237 255 c 0
- 241 255 245 253 245 249 c 0
- 245 224 240 197 224 195 c 0
- 164 186 103 176 35 170 c 0
+35 170 m 257
+ 103 176 164 186 224 195 c 256
+ 240 197 245 224 245 249 c 256
+ 245 253 241 255 237 255 c 257
+ 173 248 109 239 45 230 c 257
+ 35 229 29 198 29 176 c 256
+ 29 172 30 170 35 170 c 257
 EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 111 subtable" hyphen.cap
-Substitution2: "sups subtable" hyphen.sups
-Substitution2: "sinf subtable" hyphen.sinf
-Substitution2: "ordn subtable" hyphen.ordn
-Substitution2: "subs subtable" hyphen.subs
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" hyphen.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-137 dv=0
-Position2: "lfbd subtable" dx=-82 dy=0 dh=-82 dv=0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 477 -35 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" hyphen.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" hyphen.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" hyphen.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" hyphen.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" hyphen.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" hyphen.subs
+Comment: "+AAoA-hyphen+AAoA"
 EndChar

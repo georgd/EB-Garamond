@@ -1,0 +1,25 @@
+StartChar: four
+Encoding: 859 52 858
+GlifName: four
+Width: 540
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 860 -1 N 1 0 0 1 -2 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" four.lf
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" four.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" four.sc
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" four.tosf
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 16 subtable" four.lf
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" foursuperior
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" fourinferior
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" four.subs
+Comment: "+AAoA-four.tablining+AAoA"
+EndChar

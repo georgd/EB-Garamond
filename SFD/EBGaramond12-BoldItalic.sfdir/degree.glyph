@@ -1,0 +1,30 @@
+StartChar: degree
+Encoding: 716 176 715
+GlifName: degree
+Width: 359
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+280 376 m 256
+ 371 376 433 452 433 531 c 256
+ 433 610 371 675 280 675 c 256
+ 187 675 124 610 124 531 c 256
+ 124 452 187 376 280 376 c 256
+279 436 m 256
+ 232 436 195 473 195 525 c 256
+ 195 577 232 613 279 613 c 256
+ 324 613 362 577 362 525 c 256
+ 362 473 324 436 279 436 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" degree.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" degree.sc
+Comment: "+AAoA-degree+AAoA"
+EndChar

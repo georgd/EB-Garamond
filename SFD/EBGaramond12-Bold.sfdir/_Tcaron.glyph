@@ -1,0 +1,22 @@
+StartChar: Tcaron
+Encoding: 388 356 387
+GlifName: T_caron
+Width: 701
+VWidth: 0
+Flags: HW
+AnchorPoint: "bottom.cap" 364 -30 basechar 0
+AnchorPoint: "top.cap" 360 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 375 84 N 1 0 0 1 0 0 2
+Refer: 1947 -1 N 1 0 0 1 359 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Tcaron.sc
+Comment: "+AAoA-Tcaron+AAoA"
+EndChar

@@ -1,0 +1,74 @@
+StartChar: uniA749
+Encoding: 2934 42825 2933
+GlifName: uniA_749
+Width: 316
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 87 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+194 62 m 258
+ 194 516 l 257
+ 244 546 l 258
+ 253 551 262 559 262 566 c 256
+ 262 581 257 586 251 586 c 256
+ 249 586 246 585 244 584 c 257
+ 195 554 l 257
+ 195 562 l 258
+ 195 652 201 686 201 698 c 256
+ 201 701 198 705 195 705 c 256
+ 194 705 194 704 193 704 c 257
+ 161 692 128 676 77 664 c 256
+ 73 663 69 658 69 652 c 256
+ 69 646 73 640 78 639 c 256
+ 111 632 124 581 124 566 c 258
+ 124 516 l 257
+ 71 483 l 258
+ 66 480 58 474 58 465 c 256
+ 58 457 70 445 78 449 c 257
+ 124 478 l 257
+ 124 62 l 258
+ 124 35 101 30 81 24 c 257
+ 70 20 58 16 58 6 c 256
+ 58 -2 71 -3 78 -3 c 258
+ 81 -3 l 258
+ 120 -3 124 2 159 2 c 256
+ 194 2 198 -3 237 -3 c 258
+ 240 -3 l 258
+ 247 -3 260 -2 260 6 c 256
+ 260 16 248 20 237 24 c 257
+ 217 30 194 35 194 62 c 258
+EndSplineSet
+Fore
+SplineSet
+125 448 m 258
+ 208 492 l 257
+ 232 497 l 257
+ 343 556 l 258
+ 352 561 361 569 361 576 c 256
+ 361 591 356 596 350 596 c 256
+ 348 596 345 595 343 594 c 258
+ 222 530 l 257
+ 198 525 l 257
+ 118 482 l 257
+ 113 479 105 473 105 464 c 256
+ 105 456 117 444 125 448 c 258
+EndSplineSet
+Refer: 1026 108 N 1 0 0 1 20 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vlslash
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vlslash
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uniA749+AAoA"
+EndChar

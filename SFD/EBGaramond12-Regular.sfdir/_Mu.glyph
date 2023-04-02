@@ -1,12 +1,20 @@
 StartChar: Mu
-Encoding: 924 924 636
+Encoding: 261 924 261
 GlifName: M_u
 Width: 901
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 407 -30 basechar 0
+AnchorPoint: "top.cap" 450 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 27 77 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Mu.sc
+Refer: 254 77 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Mu.sc
+Comment: "+AAoA-Mu+AAoA"
 EndChar

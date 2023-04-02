@@ -1,12 +1,58 @@
 StartChar: uni2241
-Encoding: 8769 8769 869
+Encoding: 2939 8769 2938
 GlifName: uni2241
 Width: 500
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+139 -20 m 256
+ 155 -20 169 -19 177 -5 c 258
+ 450 485 l 257
+ 454 491 450 502 443 502 c 256
+ 426 502 411 500 402 485 c 258
+ 129 -5 l 257
+ 125 -11 132 -20 139 -20 c 256
+64 314 m 258
+ 484 314 l 258
+ 500 314 516 339 516 353 c 256
+ 516 359 508 364 502 364 c 258
+ 74 364 l 258
+ 56 364 50 335 50 326 c 256
+ 50 320 57 314 64 314 c 258
+64 143 m 258
+ 484 143 l 258
+ 500 143 516 164 516 182 c 256
+ 516 188 508 193 502 193 c 258
+ 74 193 l 258
+ 56 193 50 164 50 155 c 256
+ 50 149 57 143 64 143 c 258
+EndSplineSet
 Fore
-Refer: 95 47 N 1 0 0 1 51 22 2
-Refer: 868 8764 N 1 0 0 1 0 0 3
-Validated: 5
+SplineSet
+95 53 m 256
+ 111 53 125 54 133 68 c 258
+ 406 558 l 257
+ 410 564 406 575 399 575 c 256
+ 382 575 367 573 358 558 c 258
+ 85 68 l 257
+ 81 62 88 53 95 53 c 256
+EndSplineSet
+Refer: 566 126 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vasciitilde
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vasciitilde
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni2241+AAoA"
 EndChar

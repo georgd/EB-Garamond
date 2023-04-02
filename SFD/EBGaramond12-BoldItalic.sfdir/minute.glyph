@@ -1,0 +1,36 @@
+StartChar: minute
+Encoding: 1088 8242 1087
+GlifName: minute
+Width: 144
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+130 412 m 256
+ 142 412 152 423 161 440 c 256
+ 200 509 248 610 248 649 c 256
+ 248 666 247 676 231 676 c 256
+ 195 676 156 655 150 622 c 256
+ 145 597 115 462 115 438 c 256
+ 115 423 119 412 130 412 c 256
+EndSplineSet
+Fore
+SplineSet
+131 416 m 256
+ 142 416 150 430 158 443 c 256
+ 183 484 209 543 239 619 c 256
+ 248 642 259 676 244 676 c 256
+ 228 676 206 674 187 660 c 256
+ 176 652 160 637 157 622 c 256
+ 143 554 130 514 117 456 c 256
+ 113 436 117 416 131 416 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-minute+AAoA"
+EndChar

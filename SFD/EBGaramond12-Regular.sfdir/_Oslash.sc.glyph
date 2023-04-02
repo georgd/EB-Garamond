@@ -1,12 +1,67 @@
 StartChar: Oslash.sc
-Encoding: 1114746 -1 1745
+Encoding: 313 -1 312
 GlifName: O_slash.sc
 Width: 616
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 312 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+195 82 m 257
+ 441 325 l 257
+ 457 292 466 254 466 217 c 256
+ 466 138 433 22 318 22 c 256
+ 264 22 223 45 195 82 c 257
+296 426 m 256
+ 348 426 390 399 420 359 c 257
+ 174 117 l 257
+ 158 152 150 193 150 237 c 256
+ 150 332 202 426 296 426 c 256
+113 1 m 258
+ 151 38 l 257
+ 193 5 245 -14 302 -14 c 256
+ 466 -14 556 103 556 226 c 256
+ 556 285 532 337 494 377 c 257
+ 551 433 l 258
+ 554 436 556 437 556 445 c 256
+ 556 452 549 458 542 458 c 256
+ 525 458 515 453 503 441 c 258
+ 465 403 l 257
+ 420 438 361 458 302 458 c 256
+ 175 458 60 342 60 222 c 256
+ 60 162 84 107 122 65 c 257
+ 65 9 l 258
+ 61 5 60 3 60 -2 c 256
+ 60 -9 69 -14 77 -14 c 256
+ 92 -14 102 -10 113 1 c 258
+EndSplineSet
 Fore
-Refer: 1777 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+503 441 m 257
+ 65 9 l 257
+ 61 5 60 3 60 -2 c 256
+ 60 -9 69 -14 77 -14 c 256
+ 92 -14 102 -10 113 1 c 257
+ 551 433 l 257
+ 554 436 556 437 556 445 c 256
+ 556 452 549 458 542 458 c 256
+ 525 458 515 453 503 441 c 257
+EndSplineSet
+Refer: 281 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VO.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VO.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-Oslash.sc+AAoA"
 EndChar

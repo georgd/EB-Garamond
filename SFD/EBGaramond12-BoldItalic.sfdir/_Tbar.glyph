@@ -1,0 +1,39 @@
+StartChar: Tbar
+Encoding: 383 358 382
+GlifName: T_bar
+Width: 701
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 280 -30 basechar 0
+AnchorPoint: "top.cap" 502 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+185 327 m 258
+ 515 327 l 258
+ 537 327 558 350 558 370 c 256
+ 558 380 548 389 535 389 c 258
+ 188 389 l 258
+ 171 389 159 376 159 358 c 256
+ 159 340 170 327 185 327 c 258
+EndSplineSet
+Fore
+SplineSet
+214 327 m 258
+ 544 327 l 258
+ 566 327 595 350 601 370 c 256
+ 604 380 597 389 584 389 c 258
+ 237 389 l 258
+ 220 389 204 376 198 358 c 256
+ 192 340 199 327 214 327 c 258
+EndSplineSet
+Refer: 372 84 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Tbar.sc
+Comment: "+AAoA-Tbar+AAoA"
+EndChar

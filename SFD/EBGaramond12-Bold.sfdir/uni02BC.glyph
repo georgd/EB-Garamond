@@ -1,0 +1,40 @@
+StartChar: uni02BC
+Encoding: 1885 700 1884
+GlifName: uni02B_C_
+Width: 245
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+94 434 m 256
+ 180 434 231 524 229 597 c 256
+ 227 656 190 702 126 702 c 256
+ 97 702 73 683 73 656 c 256
+ 73 634 84 620 114 610 c 256
+ 146 599 170 575 170 546 c 256
+ 170 504 144 474 90 456 c 256
+ 81 453 76 449 76 444 c 256
+ 76 438 82 434 94 434 c 256
+EndSplineSet
+Fore
+SplineSet
+59 413 m 256
+ 145 413 218 504 217 594 c 256
+ 216 664 175 715 103 715 c 256
+ 60 715 28 689 28 657 c 256
+ 28 631 44 614 73 602 c 256
+ 107 588 130 568 130 534 c 256
+ 130 494 110 464 53 445 c 256
+ 38 440 32 436 32 426 c 256
+ 32 418 38 413 59 413 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni02BC+AAoA"
+EndChar

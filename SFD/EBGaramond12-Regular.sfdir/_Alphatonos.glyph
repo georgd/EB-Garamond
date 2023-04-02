@@ -1,14 +1,80 @@
 StartChar: Alphatonos
-Encoding: 902 902 2437
+Encoding: 24 902 24
 GlifName: A_lphatonos
 Width: 692
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 343 -30 basechar 0
+AnchorPoint: "bottom.cap" 335 -30 basechar 0
+AnchorPoint: "top" 119 464 basechar 0
+AnchorPoint: "top.cap" 363 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+156 513 m 256
+ 177 549 227 647 227 657 c 256
+ 227 673 208 698 189 698 c 256
+ 181 698 167 692 164 680 c 256
+ 154 644 123 522 123 504 c 256
+ 123 495 123 491 132 491 c 256
+ 140 491 150 503 156 513 c 256
+243 302 m 257
+ 333 542 l 258
+ 337 553 339 559 341 559 c 256
+ 344 559 346 553 350 541 c 258
+ 429 302 l 257
+ 430 298 431 294 431 292 c 256
+ 431 287 427 287 417 287 c 258
+ 262 287 l 258
+ 249 287 241 287 241 294 c 256
+ 241 296 242 299 243 302 c 257
+668 -5 m 256
+ 685 -5 697 -3 697 5 c 256
+ 697 14 687 24 664 28 c 256
+ 624 35 591 48 563 128 c 256
+ 530 223 449 459 385 662 c 256
+ 382 671 380 686 375 686 c 256
+ 370 686 368 660 354 651 c 256
+ 342 643 330 640 318 636 c 257
+ 316 635 319 620 304 578 c 256
+ 237 393 192 279 117 108 c 256
+ 95 58 65 41 31 31 c 256
+ 9 24 -2 17 -2 8 c 256
+ -2 0 10 -5 27 -5 c 256
+ 60 -5 103 1 147 1 c 256
+ 184 1 220 -1 238 -1 c 256
+ 255 -1 267 2 267 10 c 256
+ 267 19 257 24 234 30 c 256
+ 202 38 176 58 176 87 c 256
+ 176 100 207 200 216 226 c 256
+ 221 240 227 244 233 244 c 258
+ 424 244 l 258
+ 442 244 448 243 451 233 c 256
+ 466 183 489 105 489 76 c 256
+ 489 54 472 38 428 31 c 256
+ 410 28 395 21 395 12 c 256
+ 395 4 407 0 424 0 c 256
+ 448 0 490 1 529 1 c 256
+ 574 1 640 -5 668 -5 c 256
+14 471 m 256
+ 66 471 112 525 112 578 c 256
+ 112 625 87 665 37 665 c 256
+ 13 665 -9 650 -9 627 c 256
+ -9 604 7 591 27 588 c 257
+ 48 586 61 573 61 553 c 256
+ 61 524 36 502 8 494 c 256
+ 0 492 -6 488 -6 481 c 256
+ -6 476 1 471 14 471 c 256
+EndSplineSet
 Fore
-Refer: 2704 -1 N 1 0 0 1 109 35 2
-Refer: 629 913 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Alphatonos.sc
-MultipleSubs2: "CCMP_Precomp subtable" Alpha acutecomb.grk
+Refer: 22 913 N 1 0 0 1 0 0 2
+Refer: 1476 900 N 1 0 0 1 41 24 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Alphatonos.sc
+Comment: "+AAoA-Alphatonos+AAoA"
 EndChar

@@ -1,0 +1,29 @@
+StartChar: tildecomb.capstack
+Encoding: 1473 -1 1472
+GlifName: tildecomb.capstack
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+202 720 m 256
+ 239 720 285 775 285 805 c 256
+ 285 815 278 822 268 822 c 256
+ 256 822 243 783 208 783 c 256
+ 183 783 117 794 92 794 c 256
+ 55 794 5 738 5 705 c 256
+ 5 695 16 688 24 688 c 256
+ 34 688 47 729 81 729 c 256
+ 106 729 177 720 202 720 c 256
+EndSplineSet
+Fore
+Refer: 1471 -1 N 1 0 0 1 0 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-tildecomb.capstack+AAoA"
+EndChar

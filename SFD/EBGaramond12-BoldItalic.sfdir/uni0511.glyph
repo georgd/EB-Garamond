@@ -1,0 +1,42 @@
+StartChar: uni0511
+Encoding: 2092 1297 2091
+GlifName: uni0511
+Width: 426
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 297 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+164 -14 m 256
+ 246 -14 347 80 347 156 c 256
+ 347 162 343 167 337 167 c 256
+ 331 167 323 162 318 155 c 256
+ 296 126 262 108 227 108 c 256
+ 180 108 151 140 152 191 c 256
+ 154 292 206 391 261 391 c 256
+ 277 391 296 370 310 345 c 256
+ 326 318 331 313 342 313 c 256
+ 362 313 385 344 385 371 c 256
+ 385 409 346 437 292 437 c 256
+ 145 437 23 300 19 129 c 256
+ 17 51 82 -14 164 -14 c 256
+EndSplineSet
+Fore
+Refer: 1724 603 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|uni0299
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=c+10
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni0511+AAoA"
+EndChar

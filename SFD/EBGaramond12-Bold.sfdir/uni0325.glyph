@@ -1,0 +1,31 @@
+StartChar: uni0325
+Encoding: 1994 805 1993
+GlifName: uni0325
+Width: 0
+VWidth: 0
+AnchorPoint: "bottom" 1 -30 mark 0
+LayerCount: 2
+Back
+SplineSet
+109 -249 m 256
+ 153 -249 196 -212 196 -160 c 256
+ 196 -116 159 -82 115 -82 c 256
+ 71 -82 28 -122 28 -166 c 256
+ 28 -210 65 -249 109 -249 c 256
+116 -223 m 256
+ 88 -223 69 -194 69 -161 c 256
+ 69 -133 78 -109 106 -109 c 256
+ 134 -109 155 -139 155 -167 c 256
+ 155 -199 146 -223 116 -223 c 256
+EndSplineSet
+Fore
+Refer: 1934 778 N 1 0 0 1 0 -744 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0325+AAoA"
+EndChar

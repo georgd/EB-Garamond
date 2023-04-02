@@ -1,0 +1,52 @@
+StartChar: uni0188
+Encoding: 1532 392 1531
+GlifName: uni0188
+Width: 369
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 156 -30 basechar 0
+AnchorPoint: "top" 265 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+312 361 m 257
+ 374 378 l 257
+ 377 387 364 402 349 423 c 256
+ 331 448 312 482 323 518 c 256
+ 329 537 348 556 368 556 c 256
+ 386 556 397 538 405 521 c 256
+ 412 506 420 494 432 494 c 256
+ 454 494 483 524 493 552 c 256
+ 496 560 496 567 491 576 c 257
+ 483 597 446 610 411 610 c 256
+ 363 610 278 548 264 505 c 256
+ 253 471 256 441 261 417 c 257
+ 251 418 317 361 312 361 c 257
+EndSplineSet
+Fore
+SplineSet
+312 361 m 257
+ 372 385 l 257
+ 375 394 365 402 349 423 c 256
+ 329 448 319 478 320 503 c 256
+ 321 533 336 556 368 556 c 256
+ 386 556 397 538 405 521 c 256
+ 412 506 420 494 432 494 c 256
+ 458 494 495 532 495 559 c 256
+ 493 586 458 610 415 610 c 256
+ 353 610 257 532 257 461 c 256
+ 257 427 270 401 312 361 c 257
+EndSplineSet
+Refer: 644 99 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni0188+AAoA"
+EndChar

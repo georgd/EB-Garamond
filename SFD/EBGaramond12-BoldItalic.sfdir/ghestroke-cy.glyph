@@ -1,0 +1,26 @@
+StartChar: ghestroke-cy
+Encoding: 898 1171 897
+GlifName: ghestroke-cy
+Width: 423
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 255 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+42 165 m 258
+ 345 165 l 258
+ 367 165 388 190 388 208 c 256
+ 388 218 378 227 365 227 c 258
+ 53 227 l 258
+ 36 227 20 204 20 186 c 256
+ 20 174 27 165 42 165 c 258
+EndSplineSet
+Refer: 1981 1075 N 1 0 0 1 12 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.98,0.36,0.67,1
+p2
+s."
+EndChar

@@ -1,12 +1,25 @@
 StartChar: underscore.sups
-Encoding: 1114565 -1 1564
+Encoding: 1552 -1 1551
 GlifName: underscore.sups
 Width: 325
-VWidth: 440
-Flags: HMW
-LayerCount: 3
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1261 -1 N 1 0 0 1 0 440 2
-Validated: 1
-Comment: "."
+Refer: 1547 -1 N 1 0 0 1 0 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vunderscore.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vunderscore.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-underscore.sups+AAoA"
 EndChar

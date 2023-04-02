@@ -1,11 +1,25 @@
 StartChar: uni2011.cap
-Encoding: 1115124 -1 2836
+Encoding: 2814 -1 2813
 GlifName: uni2011.cap
-Width: 274
+Width: 286
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2840 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 985 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vhyphen
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vhyphen
+p4
+sVpublic.markColor
+p5
+V0.99,0.62,0.11,1
+p6
+s."
+Comment: "+AAoA-uni2011.cap+AAoA"
 EndChar

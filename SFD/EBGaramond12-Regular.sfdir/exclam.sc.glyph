@@ -1,25 +1,61 @@
 StartChar: exclam.sc
-Encoding: 1114604 -1 1603
+Encoding: 835 -1 834
 GlifName: exclam.sc
-Width: 270
+Width: 285
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 23
 Fore
 SplineSet
-145 106 m 24
- 178 106 205 79 205 46 c 24
- 205 13 178 -14 145 -14 c 24
- 112 -14 85 13 85 46 c 24
- 85 79 112 106 145 106 c 24
-93 573 m 0
- 93 612 109 649 146 649 c 0
- 180 649 197 612 197 575 c 0
- 197 488 176 358 161 244 c 0
- 158 222 153 205 143 205 c 0
- 133 205 128 215 125 244 c 0
- 113 358 93 510 93 573 c 0
+123 135 m 256
+ 133 135 139 149 141 167 c 256
+ 151 260 171 404 171 457 c 256
+ 171 480 153 501 126 501 c 256
+ 99 501 79 480 79 457 c 256
+ 79 404 93 261 105 167 c 256
+ 108 144 113 135 123 135 c 256
+125 -44 m 256
+ 158 -44 185 -17 185 16 c 256
+ 185 49 158 76 125 76 c 256
+ 92 76 65 49 65 16 c 256
+ 65 -17 92 -44 125 -44 c 256
 EndSplineSet
-Validated: 1
-Comment: "."
+Guideline: "" "" -102 493 0 0 0
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vexclam
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Layer: 22
+SplineSet
+93 573 m 256
+ 93 510 113 358 125 244 c 256
+ 128 215 133 205 143 205 c 256
+ 153 205 158 222 161 244 c 256
+ 176 358 197 488 197 575 c 256
+ 197 612 180 649 146 649 c 256
+ 109 649 93 612 93 573 c 256
+145 106 m 256
+ 112 106 85 79 85 46 c 256
+ 85 13 112 -14 145 -14 c 256
+ 178 -14 205 13 205 46 c 256
+ 205 79 178 106 145 106 c 256
+EndSplineSet
+Refer: 43691 -1 N 1 0 0 1 -16 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vexclam
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-exclam.sc+AAoA"
 EndChar

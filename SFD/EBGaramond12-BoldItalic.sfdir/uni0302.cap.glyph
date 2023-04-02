@@ -1,0 +1,32 @@
+StartChar: uni0302.cap
+Encoding: 1771 -1 1770
+GlifName: uni0302.cap
+Width: 0
+VWidth: 0
+AnchorPoint: "top.cap" 144 675 mark 0
+AnchorPoint: "top.cap" 329 823 basechar 0
+AnchorPoint: "topstack.cap" 193 835 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+2 692 m 256
+ 30 692 120 723 158 740 c 256
+ 169 745 177 744 184 740 c 256
+ 213 724 280 691 298 691 c 256
+ 309 691 317 697 319 705 c 256
+ 320 710 321 716 316 722 c 258
+ 238 817 l 258
+ 220 839 214 847 194 847 c 256
+ 175 847 164 839 133 817 c 258
+ 0 721 l 258
+ -7 716 -12 710 -14 705 c 256
+ -17 697 -10 692 2 692 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0302.cap+AAoA"
+EndChar

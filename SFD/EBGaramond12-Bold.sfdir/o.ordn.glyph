@@ -1,0 +1,42 @@
+StartChar: o.ordn
+Encoding: 1174 -1 1173
+GlifName: o.ordn
+Width: 396
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+175 274 m 256
+ 293 274 345 335 345 418 c 256
+ 345 489 282 544 190 544 c 256
+ 89 544 24 487 24 400 c 256
+ 24 324 83 274 175 274 c 256
+187 311 m 256
+ 162 311 143 363 143 415 c 256
+ 143 455 147 507 181 507 c 256
+ 208 507 225 453 225 404 c 256
+ 225 361 220 311 187 311 c 256
+EndSplineSet
+Fore
+SplineSet
+187 293 m 256
+ 307 293 369 363 369 447 c 256
+ 369 520 295 582 203 582 c 256
+ 102 582 27 518 27 428 c 256
+ 27 351 95 293 187 293 c 256
+200 333 m 256
+ 173 333 153 388 153 444 c 256
+ 153 487 157 542 194 542 c 256
+ 223 542 241 485 241 432 c 256
+ 241 386 235 333 200 333 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-o.ordn+AAoA"
+EndChar

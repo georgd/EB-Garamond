@@ -1,0 +1,51 @@
+StartChar: hadescender-cy
+Encoding: 942 1203 941
+GlifName: hadescender-cy
+Width: 439
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 280 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+176 -220 m 256
+ 185 -220 244 -204 279 -180 c 256
+ 329 -146 348 -78 361 0 c 256
+ 365 24 381 67 405 96 c 257
+ 364 66 l 257
+ 368 60 l 257
+ 341 23 321 -6 307 -29 c 256
+ 293 -53 285 -68 274 -100 c 256
+ 250 -170 211 -187 169 -201 c 257
+ 164 -203 160 -205 160 -210 c 256
+ 160 -218 169 -220 176 -220 c 256
+EndSplineSet
+Fore
+SplineSet
+176 -220 m 256
+ 185 -220 244 -204 279 -180 c 256
+ 329 -146 348 -78 361 0 c 256
+ 365 24 400 74 400 124 c 257
+ 364 66 l 257
+ 368 60 l 257
+ 341 23 321 -6 307 -29 c 256
+ 293 -53 285 -68 274 -100 c 256
+ 250 -170 211 -187 169 -201 c 257
+ 164 -203 160 -205 160 -210 c 256
+ 160 -218 169 -220 176 -220 c 256
+EndSplineSet
+Refer: 3004 120 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vx
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.98,0.36,0.67,1
+p5
+s."
+EndChar

@@ -1,0 +1,42 @@
+StartChar: hcircumflex
+Encoding: 947 293 946
+GlifName: hcircumflex
+Width: 544
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 207 -30 basechar 0
+LayerCount: 2
+Fore
+Refer: 933 104 N 1 0 0 1 0 0 2
+Refer: 1771 -1 N 1 0 0 1 181 58 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vh
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0302.flat
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" hcircumflex.sc
+Comment: "+AAoA-hcircumflex+AAoA"
+EndChar

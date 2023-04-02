@@ -1,11 +1,48 @@
 StartChar: braceleft.sinf
-Encoding: 65799 -1 1391
-Width: 242
-VWidth: -144
-Flags: MW
+Encoding: 613 -1 612
+GlifName: braceleft.sinf
+Width: 261
+VWidth: 0
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+-70 23 m 257
+ -72 24 -73 25 -70 26 c 256
+ -42 36 7 64 19 104 c 256
+ 30 139 30 167 43 208 c 256
+ 56 252 101 269 140 269 c 256
+ 147 269 156 269 158 276 c 257
+ 160 281 155 285 149 285 c 256
+ 91 285 20 261 3 205 c 256
+ -10 163 -11 135 -22 98 c 256
+ -33 63 -65 41 -101 29 c 256
+ -104 28 -108 29 -109 25 c 256
+ -110 21 -106 21 -104 20 c 257
+ -75 8 -57 -15 -68 -50 c 256
+ -79 -87 -95 -115 -108 -157 c 256
+ -125 -213 -68 -236 -10 -236 c 256
+ -4 -236 2 -232 4 -227 c 257
+ 6 -220 -3 -220 -10 -220 c 256
+ -49 -220 -83 -204 -70 -160 c 256
+ -57 -119 -41 -91 -30 -56 c 256
+ -18 -16 -52 18 -70 23 c 257
+EndSplineSet
 Fore
-Refer: 1289 -1 N 1 0 0 1 -44 -144 2
-Validated: 1
-Comment: "."
+Refer: 610 -1 N 1 0 0 1 -131 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbraceleft.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbraceleft.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-braceleft.sinf+AAoA"
 EndChar

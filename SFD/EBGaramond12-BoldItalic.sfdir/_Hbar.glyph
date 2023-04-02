@@ -1,0 +1,29 @@
+StartChar: Hbar
+Encoding: 173 294 173
+GlifName: H_bar
+Width: 800
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 318 -30 basechar 0
+AnchorPoint: "top.cap" 537 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+124 447 m 258
+ 799 447 l 258
+ 821 447 850 470 856 490 c 256
+ 859 500 852 509 839 509 c 258
+ 147 509 l 258
+ 130 509 114 496 108 478 c 256
+ 102 460 109 447 124 447 c 258
+EndSplineSet
+Refer: 161 72 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Hbar.sc
+Comment: "+AAoA-Hbar+AAoA"
+EndChar

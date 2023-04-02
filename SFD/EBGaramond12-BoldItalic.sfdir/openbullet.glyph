@@ -1,0 +1,28 @@
+StartChar: openbullet
+Encoding: 1177 9702 1176
+GlifName: openbullet
+Width: 332
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+178 218 m 256
+ 270 218 346 291 346 373 c 256
+ 346 428 307 490 234 490 c 256
+ 147 490 72 411 72 325 c 256
+ 72 269 119 218 178 218 c 256
+186 255 m 256
+ 143 255 109 292 109 333 c 256
+ 109 396 164 453 227 453 c 256
+ 280 453 309 408 309 368 c 256
+ 309 308 253 255 186 255 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-openbullet+AAoA"
+EndChar

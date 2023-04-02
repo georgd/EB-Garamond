@@ -1,0 +1,26 @@
+StartChar: plusminus.sc
+Encoding: 1247 -1 1246
+GlifName: plusminus.sc
+Width: 504
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+42 50 m 257
+ 435 50 l 257
+ 454 50 469 80 469 97 c 256
+ 469 107 458 113 446 113 c 257
+ 54 113 l 257
+ 33 113 25 78 25 63 c 256
+ 25 57 33 50 42 50 c 257
+EndSplineSet
+Refer: 1241 -1 N 1 0 0 1 -5 93 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-plusminus.sc+AAoA"
+EndChar

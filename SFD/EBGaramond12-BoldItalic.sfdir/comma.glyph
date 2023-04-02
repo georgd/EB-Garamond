@@ -1,0 +1,43 @@
+StartChar: comma
+Encoding: 685 44 684
+GlifName: comma
+Width: 280
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+-16 -129 m 256
+ 45 -129 141 -50 141 50 c 256
+ 141 84 117 120 83 120 c 256
+ 48 120 20 103 20 80 c 256
+ 20 47 81 64 81 25 c 256
+ 81 -25 43 -73 -15 -104 c 256
+ -30 -112 -40 -115 -40 -121 c 256
+ -40 -128 -26 -129 -16 -129 c 256
+EndSplineSet
+Fore
+SplineSet
+-49 -166 m 256
+ 68 -166 178 -58 178 31 c 256
+ 178 85 140 119 91 119 c 256
+ 44 119 7 80 7 35 c 256
+ 7 14 20 1 35 -4 c 256
+ 51 -9 65 -18 65 -36 c 256
+ 65 -77 14 -120 -40 -127 c 256
+ -55 -129 -66 -136 -70 -147 c 256
+ -74 -158 -65 -166 -49 -166 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" comma.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" comma.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" comma.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" comma.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" comma.subs
+Comment: "+AAoA-comma+AAoA"
+EndChar

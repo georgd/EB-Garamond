@@ -1,11 +1,20 @@
 StartChar: wgrave
-Encoding: 7809 7809 482
-Width: 604
+Encoding: 3001 7809 3000
+GlifName: wgrave
+Width: 623
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 242 -30 basechar 0
+AnchorPoint: "top" 385 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 981 768 N 1 0 0 1 352 0 2
-Refer: 23 119 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" w gravecomb
+Refer: 2985 119 N 1 0 0 1 0 0 2
+Refer: 905 768 N 1 0 0 1 230 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-wgrave+AAoA"
 EndChar

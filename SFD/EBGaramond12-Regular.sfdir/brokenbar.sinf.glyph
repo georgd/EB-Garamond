@@ -1,12 +1,25 @@
 StartChar: brokenbar.sinf
-Encoding: 1114395 -1 1394
+Encoding: 641 -1 640
 GlifName: brokenbar.sinf
-Width: 260
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 147
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1293 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 638 -1 N 1 0 0 1 0 -425 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbrokenbar.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbrokenbar.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-brokenbar.sinf+AAoA"
 EndChar

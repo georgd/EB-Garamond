@@ -1,41 +1,55 @@
 StartChar: cent
-Encoding: 162 162 1021
+Encoding: 672 162 671
 GlifName: cent
-Width: 412
+Width: 422
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-194 -12 m 1
- 109 3 35 89 35 188 c 0
- 35 301 119 401 238 412 c 1
- 243 462 l 2
- 244 473 254 479 265 479 c 0
- 273 479 279 470 278 462 c 2
- 273 413 l 1
- 312 411 353 398 380 365 c 0
- 383 361 384 357 384 353 c 0
- 384 341 371 331 360 323 c 0
- 356 321 351 319 347 319 c 0
- 338 319 329 323 326 329 c 0
- 312 354 296 372 269 379 c 1
- 235 46 l 1
- 240 45 245 45 250 45 c 0
- 292 45 340 50 365 88 c 0
- 367 91 370 93 374 93 c 0
- 381 93 387 87 387 81 c 0
- 387 80 387 78 386 77 c 0
- 349 15 300 -12 228 -14 c 1
- 223 -65 l 2
- 222 -74 213 -80 204 -80 c 0
- 195 -80 187 -74 188 -65 c 2
- 194 -12 l 1
-200 53 m 1
- 235 384 l 1
- 233 384 l 2
- 153 384 102 297 102 222 c 0
- 102 135 142 75 200 53 c 1
+202 -13 m 256
+ 211 -13 220 -7 221 2 c 258
+ 228 76 l 257
+ 300 78 349 105 386 167 c 257
+ 387 168 387 170 387 171 c 256
+ 387 177 381 183 374 183 c 256
+ 370 183 367 181 365 178 c 256
+ 340 140 292 135 250 135 c 256
+ 245 135 240 135 235 136 c 257
+ 269 469 l 257
+ 296 462 312 444 326 419 c 257
+ 329 413 338 409 347 409 c 256
+ 361 409 384 430 384 443 c 256
+ 384 447 383 451 380 455 c 257
+ 353 488 312 501 273 503 c 257
+ 277 562 l 258
+ 278 570 272 579 264 579 c 256
+ 253 579 243 573 242 562 c 258
+ 238 502 l 257
+ 119 491 35 391 35 278 c 256
+ 35 179 109 93 194 78 c 257
+ 186 2 l 258
+ 185 -7 193 -13 202 -13 c 256
+200 143 m 257
+ 142 165 102 225 102 312 c 256
+ 102 387 153 474 233 474 c 258
+ 235 474 l 257
+ 200 143 l 257
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" cent.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" cent.sc
+Comment: "+AAoA-cent+AAoA"
 EndChar

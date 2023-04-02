@@ -1,12 +1,18 @@
 StartChar: uni030B.sc
-Encoding: 66470 -1 2461
+Encoding: 1806 -1 1805
+GlifName: uni030B_.sc
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 91 550 mark 0
+AnchorPoint: "top" 47 440 mark 0
 LayerCount: 2
 Fore
-Refer: 623 769 N 1 0 0 1 0 0 2
-Refer: 623 769 N 1 0 0 1 111 0 2
-Validated: 1
+Refer: 520 -1 N 1 0 0 1 62 0 2
+Refer: 520 -1 N 1 0 0 1 -62 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030B.sc+AAoA"
 EndChar

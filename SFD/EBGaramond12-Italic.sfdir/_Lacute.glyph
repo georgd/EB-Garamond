@@ -1,12 +1,56 @@
 StartChar: Lacute
-Encoding: 313 313 227
-Width: 619
+Encoding: 244 313 244
+GlifName: L_acute
+Width: 583
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 301 -30 basechar 0
+AnchorPoint: "top.cap" 353 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+352 697 m 256
+ 355 697 361 699 370 706 c 256
+ 410 736 460 774 500 808 c 256
+ 509 816 513 820 513 827 c 256
+ 513 841 469 850 455 850 c 256
+ 444 850 435 847 428 837 c 256
+ 401 798 375 758 351 718 c 256
+ 348 713 346 707 346 703 c 256
+ 346 700 348 697 352 697 c 256
+293 560 m 258
+ 152 99 l 258
+ 138 52 94 33 45 24 c 256
+ 22 20 9 15 9 6 c 256
+ 9 -2 17 -5 33 -5 c 256
+ 83 -5 109 1 158 1 c 256
+ 251 1 393 -5 544 -5 c 256
+ 553 -5 562 3 567 11 c 256
+ 585 39 609 96 609 114 c 256
+ 609 122 607 126 601 126 c 256
+ 593 126 591 124 585 116 c 256
+ 555 77 522 30 450 30 c 258
+ 269 30 l 258
+ 227 30 220 62 235 113 c 258
+ 370 567 l 258
+ 382 606 421 613 470 622 c 256
+ 493 626 506 633 506 642 c 256
+ 506 650 499 653 483 653 c 256
+ 433 653 411 650 365 650 c 256
+ 324 650 311 653 261 653 c 256
+ 245 653 231 650 231 642 c 256
+ 231 633 236 626 256 622 c 256
+ 300 613 308 608 293 560 c 258
+EndSplineSet
 Fore
-Refer: 2468 -1 N 1 0 0 1 340 0 2
-Refer: 36 76 N 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Lacute.sc
-MultipleSubs2: "CCMP_Precomp subtable" L acutecomb.cap
+Refer: 235 76 N 1 0 0 1 0 0 2
+Refer: 513 -1 N 1 0 0 1 224 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Lacute.sc
+Comment: "+AAoA-Lacute+AAoA"
 EndChar

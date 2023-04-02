@@ -1,16 +1,49 @@
 StartChar: uni01DE
-Encoding: 478 478 307
+Encoding: 1669 478 1668
 GlifName: uni01D_E_
 Width: 692
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 335 -30 basechar 0
+AnchorPoint: "top.cap" 363 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 991 -1 N 1 0 0 1 207 119 2
-Refer: 989 -1 N 1 0 0 1 210 0 2
-Refer: 31 65 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" A uni0308.cap uni0304.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-34 dv=0
-Position2: "lfbd subtable" dx=-34 dy=0 dh=-34 dv=0
+Refer: 17 196 N 1 0 0 1 0 0 2
+Refer: 1912 -1 N 1 0 0 1 367 119 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VAdieresis
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0304.cap
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p10
+VA
+p11
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p12
+g11
+sVpublic.markColor
+p13
+V0.67,0.95,0.38,1
+p14
+s."
+Comment: "+AAoA-uni01DE+AAoA"
 EndChar

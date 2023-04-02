@@ -1,0 +1,73 @@
+StartChar: uni2E29
+Encoding: 2910 11817 2909
+GlifName: uni2E_29
+Width: 522
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+491 281 m 256
+ 491 451 387 623 316 694 c 256
+ 309 701 302 704 292 704 c 256
+ 281 704 265 700 265 691 c 256
+ 265 688 270 682 273 679 c 256
+ 344 608 431 437 431 267 c 256
+ 431 97 342 -110 271 -181 c 256
+ 268 -184 261 -192 261 -195 c 256
+ 261 -205 277 -213 291 -213 c 256
+ 298 -213 304 -211 308 -207 c 256
+ 379 -136 491 111 491 281 c 256
+280 281 m 256
+ 280 451 176 623 105 694 c 256
+ 98 701 91 704 81 704 c 256
+ 70 704 54 700 54 691 c 256
+ 54 688 59 682 62 679 c 256
+ 133 608 220 437 220 267 c 256
+ 220 97 131 -110 60 -181 c 256
+ 57 -184 50 -192 50 -195 c 256
+ 50 -205 66 -213 80 -213 c 256
+ 87 -213 93 -211 97 -207 c 256
+ 168 -136 280 111 280 281 c 256
+EndSplineSet
+Fore
+Refer: 1207 41 N 1 0 0 1 213 0 2
+Refer: 1207 41 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vparenright
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vparenright
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p10
+Vparenright
+p11
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p12
+Vparenright
+p13
+sVpublic.markColor
+p14
+V0.85,0.26,0.06,1
+p15
+s."
+Comment: "+AAoA-uni2E29+AAoA"
+EndChar

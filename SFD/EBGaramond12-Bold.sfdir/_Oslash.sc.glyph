@@ -1,0 +1,52 @@
+StartChar: Oslash.sc
+Encoding: 313 -1 312
+GlifName: O_slash.sc
+Width: 632
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 325 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+494 415 m 257
+ 44 26 l 258
+ 36 20 33 14 33 6 c 256
+ 32 -6 50 -14 66 -14 c 256
+ 87 -14 102 -9 121 7 c 258
+ 571 394 l 257
+ 575 398 580 402 580 413 c 256
+ 580 424 567 437 557 437 c 256
+ 529 437 516 430 494 415 c 257
+EndSplineSet
+Fore
+SplineSet
+482 428 m 257
+ 71 20 l 258
+ 64 13 61 7 62 -1 c 256
+ 62 -13 80 -18 96 -18 c 256
+ 117 -17 131 -10 150 8 c 258
+ 562 413 l 257
+ 565 417 569 422 568 433 c 256
+ 568 444 554 455 544 455 c 256
+ 516 455 503 444 482 428 c 257
+EndSplineSet
+Refer: 281 -1 N 1 0 0 1 0 0 2
+Guideline: "" "" 53 85 90 0 0
+Guideline: "" "" 600 348 90 0 0
+Validated: 5
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VO.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VO.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-Oslash.sc+AAoA"
+EndChar

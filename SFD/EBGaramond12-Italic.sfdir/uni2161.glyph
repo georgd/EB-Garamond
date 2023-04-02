@@ -1,11 +1,67 @@
 StartChar: uni2161
-Encoding: 8545 8545 840
-Width: 684
+Encoding: 2719 8545 2718
+GlifName: uni2161
+Width: 724
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom.cap_1" 118 -30 basechar 0
+AnchorPoint: "bottom.cap_2" 480 -30 basechar 0
+AnchorPoint: "top.cap_1" 331 675 basechar 0
+AnchorPoint: "top.cap_2" 693 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+596 550 m 258
+ 458 98 l 258
+ 444 51 411 33 362 24 c 256
+ 339 20 326 15 326 6 c 256
+ 326 -2 334 -5 350 -5 c 256
+ 400 -5 424 0 470 0 c 256
+ 513 0 528 -5 578 -5 c 256
+ 594 -5 608 -2 608 6 c 256
+ 608 15 603 20 583 24 c 256
+ 539 33 518 51 532 98 c 258
+ 670 550 l 258
+ 684 597 709 613 758 622 c 256
+ 781 626 795 633 795 642 c 256
+ 795 650 787 653 771 653 c 256
+ 721 653 709 650 669 650 c 256
+ 626 650 611 653 561 653 c 256
+ 545 653 531 650 531 642 c 256
+ 531 633 535 626 555 622 c 256
+ 599 613 610 597 596 550 c 258
+275 550 m 258
+ 137 98 l 258
+ 123 51 90 33 41 24 c 256
+ 18 20 5 15 5 6 c 256
+ 5 -2 13 -5 29 -5 c 256
+ 79 -5 103 0 149 0 c 256
+ 192 0 207 -5 257 -5 c 256
+ 273 -5 287 -2 287 6 c 256
+ 287 15 282 20 262 24 c 256
+ 218 33 197 51 211 98 c 258
+ 349 550 l 258
+ 363 597 388 613 437 622 c 256
+ 460 626 474 633 474 642 c 256
+ 474 650 466 653 450 653 c 256
+ 400 653 388 650 348 650 c 256
+ 305 650 290 653 240 653 c 256
+ 224 653 210 650 210 642 c 256
+ 210 633 214 626 234 622 c 256
+ 278 613 289 597 275 550 c 258
+EndSplineSet
 Fore
-Refer: 33 73 N 1 0 0 1 321 0 2
-Refer: 33 73 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 177 73 N 1 0 0 1 362 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VI
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni2161+AAoA"
 EndChar

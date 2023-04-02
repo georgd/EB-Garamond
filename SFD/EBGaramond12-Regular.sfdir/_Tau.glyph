@@ -1,14 +1,20 @@
 StartChar: Tau
-Encoding: 932 932 640
+Encoding: 384 932 383
 GlifName: T_au
 Width: 670
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 328 -30 basechar 0
+AnchorPoint: "top.cap" 340 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 34 84 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Tau.sc
-Position2: "rtbd subtable" dx=0 dy=0 dh=-33 dv=0
-Position2: "lfbd subtable" dx=-33 dy=0 dh=-33 dv=0
+Refer: 375 84 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Tau.sc
+Comment: "+AAoA-Tau+AAoA"
 EndChar

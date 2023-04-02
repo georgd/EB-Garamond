@@ -1,12 +1,20 @@
 StartChar: Beta
-Encoding: 914 914 630
+Encoding: 42 914 42
 GlifName: B_eta
-Width: 578
+Width: 587
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 266 -30 basechar 0
+AnchorPoint: "top.cap" 258 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 30 66 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Beta.sc
+Refer: 35 66 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Beta.sc
+Comment: "+AAoA-Beta+AAoA"
 EndChar

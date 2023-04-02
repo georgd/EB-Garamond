@@ -1,10 +1,18 @@
 StartChar: dieresis.sc
-Encoding: 66116 -1 1708
-Width: 0
+Encoding: 720 -1 719
+GlifName: dieresis.sc
+Width: 300
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 229 419 mark 0
 LayerCount: 2
 Fore
-Refer: 72 168 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 1797 -1 N 1 0 0 1 137 -40 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-dieresis.sc+AAoA"
 EndChar

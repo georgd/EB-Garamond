@@ -1,34 +1,70 @@
 StartChar: paragraph
-Encoding: 182 182 113
-Width: 730
+Encoding: 1244 182 1243
+GlifName: paragraph
+Width: 635
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+319 -317 m 256
+ 388 -317 462 -267 462 -140 c 258
+ 462 562 l 258
+ 462 571 470 580 480 580 c 256
+ 531 580 579 564 585 564 c 256
+ 593 564 599 585 599 594 c 256
+ 599 603 594 612 584 614 c 257
+ 569 616 499 620 444 620 c 256
+ 220 620 82 543 82 355 c 256
+ 82 174 231 91 410 91 c 256
+ 421 91 423 76 423 66 c 258
+ 423 -140 l 258
+ 423 -247 372 -282 323 -282 c 256
+ 279 -282 237 -253 237 -214 c 256
+ 237 -180 257 -163 273 -163 c 256
+ 294 -163 300 -191 328 -191 c 256
+ 351 -191 371 -171 371 -142 c 256
+ 371 -112 350 -89 305 -89 c 256
+ 250 -89 195 -140 195 -207 c 256
+ 195 -275 255 -317 319 -317 c 256
+EndSplineSet
 Fore
 SplineSet
-454 -216 m 0
- 454 -238 468 -257 487 -257 c 0
- 519 -257 541 -222 541 -178 c 2
- 541 96 l 2
- 541 105 539 118 523 118 c 0
- 282 118 45 219 45 383 c 0
- 45 559 280 651 505 651 c 0
- 577 651 667 647 687 645 c 1
- 694 643 698 634 698 623 c 0
- 698 612 693 590 687 590 c 0
- 683 590 650 606 614 606 c 0
- 607 606 602 597 602 591 c 2
- 602 -164 l 2
- 602 -211 559 -287 487 -287 c 0
- 440 -287 398 -254 398 -204 c 0
- 398 -163 429 -135 464 -135 c 0
- 489 -135 516 -151 516 -181 c 0
- 516 -206 503 -227 490 -227 c 0
- 476 -227 463 -208 457 -208 c 0
- 455 -208 454 -210 454 -216 c 0
+314 -317 m 256
+ 422 -317 464 -229 464 -168 c 258
+ 464 559 l 258
+ 464 572 473 586 485 586 c 256
+ 544 586 597 570 604 570 c 256
+ 613 570 620 595 620 609 c 256
+ 620 622 614 636 603 639 c 257
+ 585 642 510 648 446 648 c 256
+ 181 648 10 575 10 349 c 256
+ 10 169 196 54 396 54 c 256
+ 409 54 412 37 412 26 c 258
+ 412 -171 l 258
+ 412 -243 363 -275 319 -275 c 256
+ 249 -275 219 -233 219 -196 c 256
+ 219 -161 238 -142 254 -142 c 256
+ 261 -142 270 -152 281 -163 c 256
+ 293 -175 306 -187 323 -187 c 256
+ 350 -187 374 -161 374 -125 c 256
+ 374 -84 338 -66 296 -65 c 256
+ 240 -64 166 -108 166 -187 c 256
+ 166 -262 228 -317 314 -317 c 256
 EndSplineSet
-Substitution2: "sups subtable" paragraph.sups
-Substitution2: "sinf subtable" paragraph.sinf
-Substitution2: "ordn subtable" paragraph.ordn
-Substitution2: "subs subtable" paragraph.subs
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 3189 -50 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" paragraph.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" paragraph.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" paragraph.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" paragraph.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" paragraph.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" paragraph.subs
+Comment: "+AAoA-paragraph+AAoA"
 EndChar

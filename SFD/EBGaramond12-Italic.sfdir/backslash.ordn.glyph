@@ -1,11 +1,25 @@
 StartChar: backslash.ordn
-Encoding: 65870 -1 1462
-Width: 259
-VWidth: 280
-Flags: MW
+Encoding: 596 -1 595
+GlifName: backslash.ordn
+Width: 243
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1258 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+231 243 m 256
+ 237 243 244 247 244 252 c 257
+ 192 669 l 257
+ 190 678 181 679 171 679 c 256
+ 166 679 160 674 160 669 c 257
+ 212 252 l 258
+ 213 244 222 243 231 243 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-backslash.ordn+AAoA"
 EndChar

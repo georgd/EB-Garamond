@@ -1,13 +1,44 @@
 StartChar: uni1F7A
-Encoding: 8058 8058 2562
+Encoding: 2672 8058 2671
 GlifName: uni1F_7A_
-Width: 424
+Width: 434
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 227 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+217 498 m 256
+ 223 488 233 476 241 476 c 256
+ 250 476 250 480 250 489 c 256
+ 250 507 219 629 209 665 c 256
+ 206 677 192 683 184 683 c 256
+ 165 683 146 658 146 642 c 256
+ 146 632 196 534 217 498 c 256
+120 256 m 256
+ 120 204 82 132 82 106 c 256
+ 82 45 129 -14 198 -14 c 256
+ 297 -14 389 109 389 227 c 256
+ 389 300 347 424 300 424 c 256
+ 296 424 292 421 292 416 c 256
+ 292 409 334 343 334 249 c 256
+ 334 155 264 62 194 62 c 256
+ 148 62 131 81 131 140 c 256
+ 131 166 165 255 165 307 c 256
+ 165 376 142 414 93 414 c 256
+ 58 414 15 359 15 327 c 256
+ 15 317 18 315 25 315 c 256
+ 32 315 41 328 72 328 c 256
+ 118 328 120 277 120 256 c 256
+EndSplineSet
 Fore
-Refer: 2695 -1 N 1 0 0 1 132 20 2
-Refer: 2418 965 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" upsilon gravecomb.grk
+Refer: 3126 965 N 1 0 0 1 0 0 2
+Refer: 935 -1 N 1 0 0 1 201 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1F7A+AAoA"
 EndChar

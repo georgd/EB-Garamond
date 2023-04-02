@@ -1,11 +1,25 @@
 StartChar: uni208D
-Encoding: 8333 8333 809
+Encoding: 2846 8333 2845
 GlifName: uni208D_
-Width: 186
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 206
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1307 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1251 -1 N 1 0 0 1 0 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vparenleft.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vparenleft.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni208D+AAoA"
 EndChar

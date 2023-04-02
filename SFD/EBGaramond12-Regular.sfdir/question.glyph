@@ -1,36 +1,45 @@
 StartChar: question
-Encoding: 63 63 86
+Encoding: 1310 63 1309
 GlifName: question
-Width: 387
+Width: 376
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-180 106 m 24
- 213 106 240 79 240 46 c 24
- 240 13 213 -14 180 -14 c 24
- 147 -14 120 13 120 46 c 24
- 120 79 147 106 180 106 c 24
-140 661 m 0
- 173 661 215 644 248 611 c 0
- 304 555 341 469 341 418 c 0
- 341 369 319 345 299 334 c 0
- 255 310 245 304 213 283 c 0
- 185 265 182 236 181 204 c 0
- 181 194 176 181 166 181 c 0
- 159 181 148 194 144 210 c 0
- 138 231 128 252 128 297 c 0
- 128 331 166 355 229 387 c 0
- 257 401 290 429 290 458 c 0
- 290 524 257 572 189 573 c 0
- 170 573 161 569 142 569 c 0
- 121 569 100 598 100 625 c 0
- 100 644 123 661 140 661 c 0
+136 181 m 256
+ 146 181 151 194 151 204 c 256
+ 152 236 155 265 183 283 c 256
+ 215 304 225 310 269 334 c 256
+ 289 345 311 369 311 418 c 256
+ 311 469 274 555 218 611 c 256
+ 185 644 143 661 110 661 c 256
+ 93 661 70 644 70 625 c 256
+ 70 598 91 569 112 569 c 256
+ 122 569 129 570 136 571 c 256
+ 143 572 150 573 159 573 c 256
+ 227 572 260 524 260 458 c 256
+ 260 429 227 401 199 387 c 256
+ 136 355 98 331 98 297 c 256
+ 98 252 108 231 114 210 c 256
+ 118 194 129 181 136 181 c 256
+150 -14 m 256
+ 183 -14 210 13 210 46 c 256
+ 210 79 183 106 150 106 c 256
+ 117 106 90 79 90 46 c 256
+ 90 13 117 -14 150 -14 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" question.sups
-Substitution2: "sinf subtable" question.sinf
-Substitution2: "ordn subtable" question.ordn
-Substitution2: "subs subtable" question.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" question.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" question.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" question.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" question.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" question.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" question.subs
+Comment: "+AAoA-question+AAoA"
 EndChar

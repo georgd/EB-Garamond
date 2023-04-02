@@ -1,12 +1,72 @@
 StartChar: Z.sinf
-Encoding: 1114358 -1 1357
+Encoding: 483 -1 482
 GlifName: Z_.sinf
-Width: 391
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 439
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+281 -119 m 256
+ 250 -121 219 -122 190 -122 c 256
+ 161 -122 135 -121 116 -119 c 257
+ 109 -118 107 -108 111 -102 c 256
+ 192 13 241 74 331 186 c 256
+ 347 205 356 218 370 235 c 257
+ 373 238 367 245 363 245 c 256
+ 319 244 276 243 228 243 c 256
+ 195 243 159 244 119 244 c 256
+ 100 244 77 245 72 249 c 256
+ 66 254 58 257 55 257 c 256
+ 52 257 47 256 46 247 c 256
+ 43 222 33 194 28 181 c 256
+ 25 173 19 158 29 158 c 256
+ 39 158 44 170 47 177 c 256
+ 59 206 86 217 107 218 c 256
+ 123 219 148 219 173 219 c 256
+ 208 219 245 219 268 218 c 256
+ 284 217 281 213 278 209 c 256
+ 195 93 144 30 56 -82 c 256
+ 41 -101 18 -131 18 -137 c 257
+ 18 -137 19 -146 23 -146 c 258
+ 101 -146 l 258
+ 118 -146 136 -145 155 -145 c 256
+ 211 -145 274 -147 346 -147 c 256
+ 352 -147 355 -142 358 -137 c 257
+ 365 -123 382 -61 382 -54 c 256
+ 382 -49 380 -46 376 -46 c 256
+ 370 -46 364 -54 362 -59 c 257
+ 344 -99 312 -117 281 -119 c 256
+EndSplineSet
 Fore
-Refer: 1256 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 479 -1 N 1 0 0 1 0 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VZ.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+V=Z.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+V=Z.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-Z.sinf+AAoA"
 EndChar

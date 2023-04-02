@@ -1,0 +1,26 @@
+StartChar: braceright
+Encoding: 616 125 615
+GlifName: braceright
+Width: 397
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 609 123 N -1 0 0 -1 440 562 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|braceleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|braceleft
+p4
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" braceright.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" braceright.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" braceright.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" braceright.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" braceright.subs
+Comment: "+AAoA-braceright+AAoA"
+EndChar

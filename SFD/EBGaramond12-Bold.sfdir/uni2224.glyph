@@ -1,0 +1,45 @@
+StartChar: uni2224
+Encoding: 2935 8740 2934
+GlifName: uni2224
+Width: 279
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-28 -122 m 256
+ -9 -122 11 -120 19 -102 c 258
+ 152 189 l 257
+ 179 188 l 257
+ 332 525 l 258
+ 336 534 328 547 310 547 c 256
+ 288 547 272 544 263 525 c 258
+ 144 264 l 257
+ 115 260 l 257
+ -49 -102 l 258
+ -53 -112 -43 -122 -28 -122 c 256
+EndSplineSet
+Refer: 2933 8739 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni2223
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni2224+AAoA"
+EndChar

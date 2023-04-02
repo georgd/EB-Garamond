@@ -1,12 +1,21 @@
 StartChar: racute
-Encoding: 341 341 248
-Width: 383
+Encoding: 1294 341 1293
+GlifName: racute
+Width: 379
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 107 -30 basechar 0
+AnchorPoint: "top" 261 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 623 769 N 1 0 0 1 247 0 2
-Refer: 12 114 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" racute.sc
-MultipleSubs2: "CCMP_Precomp subtable" r acutecomb
+Refer: 1286 114 N 1 0 0 1 0 0 2
+Refer: 512 769 N 1 0 0 1 227 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" racute.sc
+Comment: "+AAoA-racute+AAoA"
 EndChar

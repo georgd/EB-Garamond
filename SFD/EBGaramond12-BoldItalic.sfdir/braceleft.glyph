@@ -1,0 +1,60 @@
+StartChar: braceleft
+Encoding: 610 123 609
+GlifName: braceleft
+Width: 397
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+227 -152 m 256
+ 241 -152 262 -146 262 -131 c 256
+ 262 -115 244 -117 228 -114 c 256
+ 159 -101 135 -88 154 -24 c 256
+ 164 9 204 97 217 140 c 256
+ 239 211 197 264 128 279 c 257
+ 126 280 122 282 128 283 c 256
+ 205 298 278 351 300 422 c 256
+ 313 465 327 553 337 586 c 256
+ 357 650 400 673 470 673 c 256
+ 486 673 509 675 514 691 c 256
+ 518 705 507 714 493 714 c 256
+ 376 714 243 675 222 581 c 256
+ 210 531 195 459 178 404 c 256
+ 156 333 131 324 81 306 c 256
+ 58 298 40 292 40 279 c 256
+ 40 262 52 263 66 257 c 256
+ 108 238 118 214 101 158 c 256
+ 84 103 55 31 35 -19 c 256
+ -3 -113 110 -152 227 -152 c 256
+EndSplineSet
+Fore
+SplineSet
+227 -152 m 256
+ 241 -152 262 -146 262 -131 c 256
+ 262 -115 244 -117 228 -114 c 256
+ 159 -101 135 -88 154 -24 c 256
+ 164 9 204 97 217 140 c 256
+ 239 211 197 264 128 279 c 257
+ 126 280 122 282 128 283 c 256
+ 205 298 278 351 300 422 c 256
+ 313 465 327 553 337 586 c 256
+ 357 650 400 673 470 673 c 256
+ 486 673 509 675 514 691 c 256
+ 518 705 507 714 493 714 c 256
+ 376 714 243 675 222 581 c 256
+ 210 531 197 468 180 413 c 256
+ 158 342 133 332 83 315 c 256
+ 60 307 42 301 42 288 c 256
+ 42 271 54 272 68 266 c 256
+ 110 248 121 225 104 169 c 256
+ 87 114 55 31 35 -19 c 256
+ -3 -113 110 -152 227 -152 c 256
+EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" braceleft.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" braceleft.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" braceleft.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" braceleft.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" braceleft.subs
+Comment: "+AAoA-braceleft+AAoA"
+EndChar

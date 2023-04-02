@@ -1,28 +1,30 @@
 StartChar: uni030C.cap
-Encoding: 1114115 -1 980
+Encoding: 1948 -1 1947
 GlifName: uni030C_.cap
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 151 720 mark 0
-AnchorPoint: "top_stack" 151 850 basemark 0
-AnchorPoint: "top_accent" 151 710 mark 0
-LayerCount: 3
+AnchorPoint: "top.cap" 0 675 mark 0
+LayerCount: 2
 Fore
 SplineSet
-20 822 m 0
- 33 822 115 782 141 767 c 0
- 150 762 152 762 161 767 c 0
- 187 782 269 823 282 823 c 0
- 291 823 296 818 296 812 c 0
- 296 808 295 804 290 800 c 2
- 192 722 l 2
- 172 706 166 700 151 700 c 0
- 136 700 130 706 110 722 c 2
- 12 800 l 2
- 7 804 5 808 5 812 c 0
- 5 818 11 822 20 822 c 0
+-130 822 m 256
+ -139 822 -145 818 -145 812 c 256
+ -145 808 -143 804 -138 800 c 258
+ -40 722 l 258
+ -20 706 -14 700 1 700 c 256
+ 16 700 22 706 42 722 c 258
+ 140 800 l 258
+ 145 804 146 808 146 812 c 256
+ 146 818 141 823 132 823 c 256
+ 119 823 37 782 11 767 c 256
+ 2 762 0 762 -9 767 c 256
+ -35 782 -117 822 -130 822 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "c2sc subtable" uni030C.sc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030C.cap+AAoA"
 EndChar

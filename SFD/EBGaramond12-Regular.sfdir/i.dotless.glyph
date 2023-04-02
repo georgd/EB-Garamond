@@ -1,15 +1,13 @@
 StartChar: i.dotless
-Encoding: 1115140 -1 2887
+Encoding: 995 -1 994
 GlifName: i.dotless
 Width: 245
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 130 8 basechar 0
-AnchorPoint: "ogonek" 169 18 basechar 0
-AnchorPoint: "top_accent" 115 550 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 116 -30 basechar 0
+AnchorPoint: "top" 124 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 76 305 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Smallcaps1 subtable" i.sc
+Refer: 747 305 N 1 0 0 1 0 0 2
+Comment: "+AAoA-i.dotless+AAoA"
 EndChar

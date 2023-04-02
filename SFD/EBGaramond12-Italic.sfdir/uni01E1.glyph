@@ -1,12 +1,34 @@
 StartChar: uni01E1
-Encoding: 481 481 595
-Width: 451
+Encoding: 1617 481 1616
+GlifName: uni01E_1
+Width: 491
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 167 -30 basechar 0
+AnchorPoint: "top" 335 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2102 -1 N 1 0 0 1 217 149 2
-Refer: 2099 -1 N 1 0 0 1 319 0 2
-Refer: 0 97 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" a uni0307.stack uni0304.stack
+Refer: 1678 551 N 1 0 0 1 0 0 2
+Refer: 1083 175 N 1 0 0 1 171 152 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vmacron
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni01E1+AAoA"
 EndChar

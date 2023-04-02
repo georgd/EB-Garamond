@@ -1,33 +1,46 @@
 StartChar: dotlessi
-Encoding: 305 305 76
+Encoding: 748 305 747
 GlifName: dotlessi
 Width: 245
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 130 8 basechar 0
-AnchorPoint: "ogonek" 169 18 basechar 0
-AnchorPoint: "top_accent" 115 550 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 116 -30 basechar 0
+AnchorPoint: "top" 124 440 basechar 0
+LayerCount: 2
 Fore
 SplineSet
-162 434 m 0
- 166 434 169 432 169 429 c 0
- 165 388 160 339 160 294 c 2
- 160 62 l 2
- 160 35 183 30 203 24 c 0
- 214 20 226 16 226 6 c 0
- 226 -2 215 -3 206 -3 c 0
- 168 -3 160 2 125 2 c 0
- 90 2 83 -3 44 -3 c 0
- 36 -3 24 -2 24 6 c 0
- 24 16 36 20 47 24 c 0
- 67 30 90 35 90 62 c 2
- 90 279 l 2
- 90 315 77 345 43 352 c 0
- 38 353 35 359 35 365 c 0
- 35 370 38 376 42 377 c 0
- 109 393 154 434 162 434 c 0
+44 -3 m 256
+ 83 -3 90 2 125 2 c 256
+ 160 2 168 -3 206 -3 c 256
+ 219 -3 226 0 226 8 c 256
+ 226 18 214 21 203 24 c 256
+ 176 31 160 39 160 62 c 258
+ 160 294 l 258
+ 160 339 169 413 169 429 c 256
+ 169 432 167 434 163 434 c 256
+ 159 434 154 431 149 427 c 256
+ 132 413 97 389 44 377 c 256
+ 38 376 35 372 35 365 c 256
+ 35 357 38 353 45 352 c 256
+ 79 347 90 315 90 279 c 258
+ 90 62 l 258
+ 90 38 75 31 47 24 c 256
+ 36 21 24 18 24 8 c 256
+ 24 0 32 -3 44 -3 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" dotlessi.sc
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vi
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" dotlessi.sc
+Comment: "+AAoA-dotlessi+AAoA"
 EndChar

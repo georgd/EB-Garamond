@@ -1,13 +1,20 @@
 StartChar: Ccaron
-Encoding: 268 268 191
-Width: 622
+Encoding: 54 268 54
+GlifName: C_caron
+Width: 631
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top.cap" 488 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 2083 -1 N 1 0 0 1 427 0 2
-Refer: 32 67 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Ccaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" C uni030C.cap
+Refer: 43 67 N 1 0 0 1 0 0 2
+Refer: 1811 -1 N 1 0 0 1 334 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Ccaron.sc
+Comment: "+AAoA-Ccaron+AAoA"
 EndChar

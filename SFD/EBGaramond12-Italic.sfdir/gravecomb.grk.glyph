@@ -1,22 +1,25 @@
 StartChar: gravecomb.grk
-Encoding: 66445 -1 2366
+Encoding: 910 -1 909
+GlifName: gravecomb.grk
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "grk_hstack" 5 640 mark 0
-AnchorPoint: "top_stack" 86 523 mark 0
-AnchorPoint: "top_accent" 90 550 mark 0
-AnchorPoint: "grk_uc_top_left" 77 630 mark 0
+AnchorPoint: "topgreek" 146 440 mark 0
 LayerCount: 2
 Fore
 SplineSet
-56 487 m 0
- 44 521 10 616 10 621 c 0
- 10 645 39 667 55 667 c 0
- 67 667 71 650 73 627 c 0
- 76 586 84 493 84 483 c 0
- 84 475 81 470 76 470 c 0
- 67 470 61 473 56 487 c 0
+138 470 m 256
+ 143 470 146 475 146 483 c 256
+ 146 493 139 586 135 627 c 256
+ 133 650 129 667 117 667 c 256
+ 101 667 72 645 72 621 c 256
+ 72 616 106 521 118 487 c 256
+ 123 473 129 470 138 470 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gravecomb.grk+AAoA"
 EndChar

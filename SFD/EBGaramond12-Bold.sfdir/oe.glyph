@@ -1,0 +1,45 @@
+StartChar: oe
+Encoding: 1188 339 1187
+GlifName: oe
+Width: 763
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom_1" 250 -30 basechar 0
+AnchorPoint: "bottom_2" 566 -30 basechar 0
+AnchorPoint: "top_1" 259 440 basechar 0
+AnchorPoint: "top_2" 578 440 basechar 0
+LayerCount: 2
+Fore
+Refer: 1172 111 N 1 0 0 1 0 0 2
+Refer: 752 101 N 1 0 0 1 340 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Ve
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vo
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+g7
+sVpublic.markColor
+p11
+V0.67,0.95,0.38,1
+p12
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" oe.sc
+Comment: "+AAoA-oe+AAoA"
+EndChar

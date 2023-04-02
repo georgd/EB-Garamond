@@ -1,0 +1,43 @@
+StartChar: parenleft
+Encoding: 1202 40 1201
+GlifName: parenleft
+Width: 298
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+125 -215 m 256
+ 137 -215 146 -203 146 -188 c 256
+ 146 -139 65 -22 154 270 c 256
+ 215 472 320 595 421 671 c 256
+ 431 679 436 687 436 692 c 256
+ 436 701 427 706 414 706 c 256
+ 401 706 386 701 369 692 c 256
+ 212 597 98 435 53 282 c 256
+ -5 86 38 -215 125 -215 c 256
+EndSplineSet
+Fore
+SplineSet
+125 -215 m 256
+ 137 -215 146 -203 146 -188 c 256
+ 146 -156 112 -96 112 22 c 256
+ 112 263 231 528 421 671 c 256
+ 431 679 436 687 436 692 c 256
+ 436 701 427 706 414 706 c 256
+ 401 706 386 701 369 692 c 256
+ 155 563 26 322 26 74 c 256
+ 26 -23 43 -116 71 -169 c 256
+ 86 -198 104 -215 125 -215 c 256
+EndSplineSet
+Guideline: "" "" -19 46 73 0 0
+Guideline: "" "" -30 -334 73 0 0
+Substitution2: "'ss04' Style Set 4 in Latin lookup 35 subtable" uni2619
+Substitution2: "'ss02' Style Set 2 in Latin lookup 32 subtable" uni261C
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" parenleft.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" parenleft.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" parenleft.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" parenleft.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" parenleft.subs
+Comment: "+AAoA-parenleft+AAoA"
+EndChar

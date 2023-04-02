@@ -1,0 +1,34 @@
+StartChar: uni2C61
+Encoding: 2873 11361 2872
+GlifName: uni2C_61
+Width: 278
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 67 -30 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+74 362 m 258
+ 246 362 l 258
+ 262 362 278 368 285 388 c 256
+ 287 394 281 400 275 400 c 258
+ 95 400 l 258
+ 81 400 66 383 63 374 c 256
+ 61 368 67 362 74 362 c 258
+37 242 m 258
+ 209 242 l 258
+ 225 242 241 248 248 268 c 256
+ 250 274 244 280 238 280 c 258
+ 58 280 l 258
+ 44 280 29 263 26 254 c 256
+ 24 248 30 242 37 242 c 258
+EndSplineSet
+Refer: 1026 108 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2C61+AAoA"
+EndChar

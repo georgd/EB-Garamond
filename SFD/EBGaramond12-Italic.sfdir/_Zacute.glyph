@@ -1,12 +1,62 @@
 StartChar: Zacute
-Encoding: 377 377 282
-Width: 636
+Encoding: 488 377 487
+GlifName: Z_acute
+Width: 635
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 266 -30 basechar 0
+AnchorPoint: "top.cap" 423 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+430 697 m 256
+ 433 697 439 699 448 706 c 256
+ 488 736 538 774 578 808 c 256
+ 587 816 591 820 591 827 c 256
+ 591 841 547 850 533 850 c 256
+ 522 850 513 847 506 837 c 256
+ 479 798 453 758 429 718 c 256
+ 426 713 424 707 424 703 c 256
+ 424 700 426 697 430 697 c 256
+189 -2 m 256
+ 272 -2 427 -5 533 -5 c 256
+ 542 -5 549 4 555 12 c 256
+ 573 36 631 139 631 150 c 256
+ 631 159 630 171 624 171 c 256
+ 615 171 601 150 596 142 c 257
+ 556 72 500 45 454 41 c 256
+ 409 38 299 36 257 36 c 256
+ 216 36 179 38 153 41 c 256
+ 143 42 147 62 155 70 c 257
+ 330 262 431 364 616 550 c 258
+ 697 631 l 258
+ 702 636 699 649 693 649 c 256
+ 624 647 554 646 477 646 c 256
+ 435 646 367 646 319 647 c 256
+ 286 648 251 652 235 652 c 256
+ 230 652 215 651 209 636 c 256
+ 192 594 155 526 155 512 c 256
+ 155 505 157 493 166 493 c 256
+ 175 493 186 508 193 520 c 256
+ 229 580 260 602 290 604 c 256
+ 314 606 372 606 408 606 c 256
+ 457 606 510 605 543 604 c 256
+ 565 603 557 593 552 588 c 257
+ 375 395 269 290 86 104 c 256
+ 55 73 7 21 4 11 c 257
+ 4 11 0 -3 6 -3 c 258
+ 78 -3 l 258
+ 113 -3 152 -2 189 -2 c 256
+EndSplineSet
 Fore
-Refer: 2468 -1 N 1 0 0 1 418 0 2
-Refer: 64 90 N 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Zacute.sc
-MultipleSubs2: "CCMP_Precomp subtable" Z acutecomb.cap
+Refer: 479 90 N 1 0 0 1 0 0 2
+Refer: 513 -1 N 1 0 0 1 294 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Zacute.sc
+Comment: "+AAoA-Zacute+AAoA"
 EndChar

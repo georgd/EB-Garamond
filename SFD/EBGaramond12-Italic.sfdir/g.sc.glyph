@@ -1,40 +1,18 @@
 StartChar: g.sc
-Encoding: 66085 -1 1677
-Width: 487
+Encoding: 876 -1 875
+GlifName: g.sc
+Width: 568
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 221 -100 basechar 0
-AnchorPoint: "top_accent" 393 580 basechar 0
+Flags: W
+AnchorPoint: "top" 402 503 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-366 424 m 8
- 233 424 136 298 136 171 c 0
- 136 92 199 27 278 27 c 0
- 320 27 351 58 356 75 c 2
- 374 133 l 2
- 383 161 363 175 320 183 c 0
- 300 187 296 194 296 203 c 0
- 296 211 310 214 326 214 c 0
- 376 214 387 211 426 211 c 24
- 448 211 461 214 483 214 c 0
- 499 214 507 208 507 200 c 0
- 507 191 498 185 475 180 c 0
- 450 174 442 159 436 139 c 2
- 414 68 l 2
- 408 50 430 51 430 46 c 0
- 430 39 419 32 413 28 c 0
- 399 17 313 -10 260 -10 c 0
- 152 -10 56 68 56 176 c 0
- 56 337 194 459 376 459 c 0
- 437 459 476 435 483 435 c 0
- 492 435 505 451 516 451 c 0
- 527 451 527 438 522 430 c 0
- 508 408 484 359 478 332 c 0
- 475 318 467 307 454 307 c 0
- 442 307 440 323 442 335 c 0
- 447 360 447 387 436 401 c 0
- 425 415 393 424 366 424 c 8
-EndSplineSet
-Comment: "."
+Refer: 143 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-g.sc+AAoA"
 EndChar

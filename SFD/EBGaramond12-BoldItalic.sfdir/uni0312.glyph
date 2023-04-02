@@ -1,0 +1,31 @@
+StartChar: uni0312
+Encoding: 1825 786 1824
+GlifName: uni0312
+Width: 0
+VWidth: 0
+AnchorPoint: "top" 70 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+117 464 m 256
+ 160 464 183 481 183 512 c 256
+ 183 543 166 558 144 567 c 256
+ 126 574 108 585 108 611 c 256
+ 108 641 133 659 178 668 c 256
+ 190 670 196 679 196 687 c 256
+ 196 695 190 703 169 703 c 256
+ 109 703 17 664 17 570 c 256
+ 17 509 61 464 117 464 c 256
+EndSplineSet
+Fore
+Refer: 1859 806 N -1 0 0 -1 -4 413 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" uni0312.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" uni0312.sc
+Comment: "+AAoA-uni0312+AAoA"
+EndChar

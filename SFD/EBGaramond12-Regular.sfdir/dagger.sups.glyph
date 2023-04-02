@@ -1,12 +1,25 @@
 StartChar: dagger.sups
-Encoding: 1114602 -1 1601
+Encoding: 719 -1 718
 GlifName: dagger.sups
-Width: 440
-VWidth: 440
-Flags: HMW
-LayerCount: 3
+Width: 318
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1298 -1 N 1 0 0 1 0 440 2
-Validated: 1
-Comment: "."
+Refer: 715 -1 N 1 0 0 1 0 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vdagger.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vdagger.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-dagger.sups+AAoA"
 EndChar

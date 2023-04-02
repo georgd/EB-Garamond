@@ -1,22 +1,25 @@
 StartChar: quotesingle.sc
-Encoding: 1114610 -1 1609
+Encoding: 1334 -1 1333
 GlifName: quotesingle.sc
-Width: 195
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-62 620 m 0
- 62 634 73 648 81 655 c 0
- 97 668 108 676 124 676 c 0
- 134 676 138 661 138 644 c 0
- 138 592 107 505 91 469 c 0
- 86 457 77 444 72 444 c 0
- 67 444 65 458 65 467 c 0
- 66 488 66 506 66 524 c 0
- 66 560 62 619 62 620 c 0
-EndSplineSet
-Validated: 1
-Comment: "."
+Refer: 1330 39 N 1 0 0 1 0 -133 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vquotesingle
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vquotesingle
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-quotesingle.sc+AAoA"
 EndChar

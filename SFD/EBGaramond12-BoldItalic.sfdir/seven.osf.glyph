@@ -1,0 +1,63 @@
+StartChar: seven.osf
+Encoding: 1344 -1 1343
+GlifName: seven.osf
+Width: 522
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+34 -156 m 256
+ 41 -157 60 -142 70 -130 c 258
+ 459 306 l 258
+ 487 337 519 372 519 374 c 256
+ 520 379 517 383 514 384 c 256
+ 508 385 429 399 362 413 c 256
+ 324 421 263 435 211 448 c 256
+ 169 458 133 469 115 474 c 256
+ 108 477 91 477 88 461 c 256
+ 80 422 48 369 29 324 c 256
+ 25 316 21 305 19 294 c 256
+ 17 284 24 276 33 274 c 256
+ 54 269 75 289 85 298 c 256
+ 110 321 126 327 160 319 c 258
+ 331 283 l 258
+ 340 281 347 277 339 267 c 258
+ 42 -75 l 258
+ 28 -90 10 -110 8 -118 c 256
+ 4 -136 17 -152 34 -156 c 256
+EndSplineSet
+Fore
+SplineSet
+7 -193 m 256
+ 14 -193 34 -173 46 -160 c 258
+ 493 347 l 258
+ 525 383 562 424 563 426 c 256
+ 565 431 561 435 558 435 c 256
+ 552 435 465 432 397 432 c 256
+ 358 432 297 433 243 434 c 256
+ 201 436 164 439 146 440 c 256
+ 138 441 121 438 116 422 c 256
+ 104 382 66 323 42 275 c 256
+ 37 267 32 255 28 244 c 256
+ 25 234 32 227 41 227 c 256
+ 63 227 86 251 98 262 c 256
+ 126 289 143 298 178 298 c 256
+ 235 298 304 298 361 298 c 256
+ 370 298 378 295 368 284 c 258
+ 21 -115 l 258
+ 5 -133 -16 -156 -18 -164 c 256
+ -24 -183 -11 -193 7 -193 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 3025 -30 "'kern' Horizontal Kerning lookup 0 subtable" 3048 -20 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" seven.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" seven.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" seven.lf
+Comment: "+AAoA-seven+AAoA"
+EndChar

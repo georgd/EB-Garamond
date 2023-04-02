@@ -1,21 +1,25 @@
 StartChar: zero.subs
-Encoding: 65622 -1 1214
-Width: 278
+Encoding: 3051 -1 3050
+GlifName: zero.subs
+Width: 281
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-233 310 m 8
- 175 310 140 231 121 169 c 0
- 99 98 78 5 144 5 c 16
- 205 5 237 91 257 157 c 16
- 277 224 295 310 233 310 c 8
-251 335 m 16
- 326 335 341 250 316 169 c 16
- 288 77 212 -17 127 -17 c 8
- 49 -17 36 74 62 158 c 8
- 89 247 168 335 251 335 c 16
-EndSplineSet
-Validated: 33
+Refer: 3047 -1 N 1 0 0 1 -87 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vzero.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vzero.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-zero.subs+AAoA"
 EndChar

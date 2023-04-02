@@ -1,24 +1,41 @@
 StartChar: uni0311
-Encoding: 785 785 974
+Encoding: 1958 785 1957
 GlifName: uni0311
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 169 533 mark 0
-LayerCount: 3
+AnchorPoint: "top" 0 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+94 477 m 256
+ 107 499 109 541 169 541 c 256
+ 229 541 231 499 244 477 c 256
+ 249 468 251 456 261 456 c 256
+ 271 456 276 467 276 480 c 256
+ 276 544 239 596 169 596 c 256
+ 99 596 62 555 62 480 c 256
+ 62 467 67 456 77 456 c 256
+ 87 456 89 468 94 477 c 256
+EndSplineSet
 Fore
 SplineSet
-94 477 m 0
- 89 468 87 456 77 456 c 0
- 67 456 62 467 62 480 c 0
- 62 555 99 596 169 596 c 0
- 239 596 276 544 276 480 c 0
- 276 467 271 456 261 456 c 0
- 251 456 249 468 244 477 c 0
- 231 499 229 541 169 541 c 0
- 109 541 107 499 94 477 c 0
+-92 472 m 256
+ -82 472 -80 484 -75 493 c 256
+ -63 515 -60 557 0 557 c 256
+ 60 557 63 515 75 493 c 256
+ 80 484 82 472 92 472 c 256
+ 102 472 107 483 107 496 c 256
+ 107 560 70 612 0 612 c 256
+ -70 612 -107 571 -107 496 c 256
+ -107 483 -102 472 -92 472 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" uni0311.sc
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni0311.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni0311.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni0311.sc
+Comment: "+AAoA-uni0311+AAoA"
 EndChar

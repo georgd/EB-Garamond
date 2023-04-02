@@ -1,19 +1,25 @@
 StartChar: dotbelowcomb
-Encoding: 803 803 2019
+Encoding: 746 803 745
 GlifName: dotbelowcomb
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 50 -100 mark 0
-LayerCount: 3
-Fore
+AnchorPoint: "bottom" 0 -30 mark 0
+LayerCount: 2
+Back
 SplineSet
-0 -142 m 0
- 0 -113 22 -91 50 -91 c 0
- 79 -91 101 -113 101 -142 c 0
- 101 -170 79 -192 50 -192 c 0
- 22 -192 0 -170 0 -142 c 0
+0 -142 m 256
+ 0 -170 22 -192 50 -192 c 256
+ 79 -192 101 -170 101 -142 c 256
+ 101 -113 79 -91 50 -91 c 256
+ 22 -91 0 -113 0 -142 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" dotbelowcomb.cap
+Fore
+Refer: 744 729 N 1 0 0 1 -101 -708 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-dotbelowcomb+AAoA"
 EndChar

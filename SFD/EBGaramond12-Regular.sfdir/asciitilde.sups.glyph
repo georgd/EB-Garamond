@@ -1,12 +1,25 @@
 StartChar: asciitilde.sups
-Encoding: 1114596 -1 1595
+Encoding: 572 -1 571
 GlifName: asciitilde.sups
-Width: 500
-VWidth: 440
-Flags: HMW
-LayerCount: 3
+Width: 376
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1292 -1 N 1 0 0 1 0 440 2
-Validated: 1
-Comment: "."
+Refer: 567 -1 N 1 0 0 1 0 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vasciitilde.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vasciitilde.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-asciitilde.sups+AAoA"
 EndChar

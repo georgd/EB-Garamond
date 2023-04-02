@@ -1,30 +1,36 @@
 StartChar: asciicircum
-Encoding: 94 94 89
+Encoding: 561 94 560
 GlifName: asciicircum
 Width: 500
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-250 603 m 1
- 276 566 408 375 449 305 c 0
- 451 302 452 298 452 295 c 0
- 452 289 448 284 443 284 c 2
- 441 284 l 1
- 429 287 410 295 404 302 c 0
- 368 341 284 470 254 514 c 0
- 249 520 248 520 244 514 c 0
- 214 470 123 332 96 302 c 0
- 89 295 71 287 59 284 c 1
- 57 284 l 2
- 52 284 48 289 48 295 c 0
- 48 298 49 302 51 305 c 0
- 89 369 222 564 250 603 c 1
+57 284 m 256
+ 69 284 90 291 98 303 c 258
+ 244 514 l 257
+ 248 520 249 520 254 514 c 257
+ 402 302 l 258
+ 408 293 428 284 443 284 c 256
+ 452 284 454 297 449 305 c 257
+ 251 603 l 257
+ 248 603 l 257
+ 51 305 l 257
+ 49 302 48 298 48 295 c 256
+ 48 289 52 284 57 284 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" asciicircum.sups
-Substitution2: "sinf subtable" asciicircum.sinf
-Substitution2: "ordn subtable" asciicircum.ordn
-Substitution2: "subs subtable" asciicircum.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" asciicircum.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" asciicircum.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" asciicircum.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" asciicircum.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" asciicircum.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" asciicircum.subs
+Comment: "+AAoA-asciicircum+AAoA"
 EndChar

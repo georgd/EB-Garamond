@@ -1,23 +1,18 @@
 StartChar: arrowdown
-Encoding: 8595 8595 2023
+Encoding: 556 8595 555
+GlifName: arrowdown
 Width: 438
-Flags: MW
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-50 60 m 0
- 112 36 162 -2 196 -35 c 1
- 196 631 l 2
- 196 648 212 656 228 662 c 0
- 235 665 242 656 242 649 c 2
- 242 -35 l 1
- 278 -1 326 37 388 61 c 0
- 406 68 399 35 388 25 c 0
- 329 -32 272 -89 232 -166 c 0
- 226 -179 225 -179 219 -179 c 0
- 213 -179 211 -176 206 -167 c 0
- 166 -90 109 -33 50 24 c 0
- 39 34 32 67 50 60 c 0
-EndSplineSet
-Validated: 33
+Refer: 558 8593 N 1 0 0 -1 -95 480 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" a r r o w d o w n
+Comment: "+AAoA-arrowdown+AAoA"
 EndChar

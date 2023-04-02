@@ -1,13 +1,18 @@
 StartChar: uni0137.sc
-Encoding: 1114841 -1 1840
+Encoding: 1562 -1 1561
 GlifName: uni0137.sc
 Width: 568
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 290 -30 basechar 0
+LayerCount: 2
 Fore
-Refer: 128 806 N 1 0 0 1 196 1 2
-Refer: 1677 -1 N 1 0 0 1 0 0 3
-Validated: 1
-Comment: "."
+Refer: 1559 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0137.sc+AAoA"
 EndChar

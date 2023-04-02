@@ -1,0 +1,27 @@
+StartChar: uni0342.alt
+Encoding: 2033 -1 2032
+GlifName: uni0342.alt
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+-105 456 m 256
+ -93 456 -86 464 -83 477 c 256
+ -74 516 -47 529 0 529 c 256
+ 47 529 74 516 83 477 c 256
+ 86 464 93 456 105 456 c 256
+ 117 456 130 467 130 492 c 256
+ 130 530 103 613 0 613 c 256
+ -103 613 -130 530 -130 492 c 256
+ -130 467 -117 456 -105 456 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0342.alt+AAoA"
+EndChar

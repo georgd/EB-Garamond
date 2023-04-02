@@ -1,0 +1,49 @@
+StartChar: D.sc
+Encoding: 72 -1 72
+GlifName: D_.sc
+Width: 619
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 311 503 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+50 -5 m 256
+ 75 -5 129 0 155 0 c 256
+ 185 0 231 -5 285 -5 c 256
+ 449 -5 577 77 577 230 c 256
+ 577 400 461 455 288 455 c 256
+ 252 455 184 448 164 448 c 256
+ 147 448 75 453 46 453 c 256
+ 38 453 30 447 30 439 c 256
+ 30 431 38 425 48 422 c 257
+ 83 414 87 407 87 379 c 258
+ 87 65 l 258
+ 87 45 80 32 47 28 c 256
+ 38 27 30 19 30 10 c 256
+ 30 4 38 -5 50 -5 c 256
+301 34 m 256
+ 258 34 255 58 255 90 c 258
+ 255 364 l 258
+ 255 389 266 415 296 415 c 256
+ 378 415 402 315 402 201 c 256
+ 402 102 370 34 301 34 c 256
+EndSplineSet
+Guideline: "" "" 276 -5 0 0 0
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vh.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vo.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-D.sc+AAoA"
+EndChar

@@ -1,10 +1,19 @@
 StartChar: breve
-Encoding: 728 728 346
-Width: 225
+Encoding: 634 728 633
+GlifName: breve
+Width: 300
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 224 440 mark 0
+AnchorPoint: "top" 264 585 basechar 0
 LayerCount: 2
 Fore
-Refer: 121 774 N 1 0 0 1 109 0 2
-Validated: 1
+Refer: 1781 774 N 1 0 0 1 150 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-breve+AAoA"
 EndChar

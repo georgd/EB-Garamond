@@ -1,24 +1,16 @@
 StartChar: uni030C.alt
-Encoding: 1115166 -1 2926
+Encoding: 1944 -1 1943
 GlifName: uni030C_.alt
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_right" 35 660 mark 0
-AnchorPoint: "top_left" 22 643 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
-SplineSet
-5 657 m 0
- 5 678 34 705 55 705 c 0
- 67 705 68 691 68 675 c 0
- 68 638 53 574 35 537 c 0
- 27 520 20 512 14 512 c 0
- 10 512 7 522 7 535 c 0
- 7 540 10 569 10 584 c 0
- 10 621 5 641 5 657 c 0
-EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 67 subtable" uni030C.sc
-Substitution2: "cv82 subtable" uni030C.alt1
+Refer: 1945 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030C.alt+AAoA"
 EndChar

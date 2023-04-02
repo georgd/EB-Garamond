@@ -1,10 +1,19 @@
 StartChar: Jcircumflex.sc
-Encoding: 66249 -1 1841
-Width: 270
+Encoding: 219 -1 219
+GlifName: J_circumflex.sc
+Width: 302
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 253 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1842 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 213 -1 N 1 0 0 1 0 0 2
+Refer: 676 710 N 1 0 0 1 41 63 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Jcircumflex.sc+AAoA"
 EndChar

@@ -1,16 +1,46 @@
 StartChar: L.sc
-Encoding: 66058 -1 1650
-Width: 497
+Encoding: 238 -1 238
+GlifName: L_.sc
+Width: 470
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_right1" 539 457 basechar 0
-AnchorPoint: "top_right" 531 450 basechar 0
-AnchorPoint: "ogonek" 173 18 basechar 0
-AnchorPoint: "below_accent" 222 -100 basechar 0
-AnchorPoint: "top_accent" 311 580 basechar 0
+Flags: W
+AnchorPoint: "top" 253 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1682 -1 N 1 0 0 1 0 0 2
-Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=65 dv=0
-Comment: "."
+SplineSet
+-13 -3 m 256
+ 26 -3 51 2 87 3 c 256
+ 156 5 240 -2 339 -2 c 256
+ 346 -2 357 4 359 10 c 257
+ 372 32 397 69 408 96 c 257
+ 410 102 412 112 403 112 c 256
+ 394 112 384 101 380 97 c 257
+ 358 68 319 34 278 34 c 258
+ 180 34 l 258
+ 150 34 146 43 157 78 c 258
+ 242 352 l 258
+ 255 393 278 415 322 422 c 256
+ 335 424 349 431 352 441 c 256
+ 354 449 343 453 336 453 c 256
+ 297 453 270 448 235 448 c 256
+ 199 448 176 453 137 453 c 256
+ 130 453 115 449 113 441 c 256
+ 110 431 120 424 131 422 c 256
+ 171 415 183 401 170 360 c 258
+ 83 79 l 258
+ 72 43 37 31 0 25 c 256
+ -12 23 -26 19 -29 9 c 256
+ -31 1 -20 -3 -13 -3 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH.sc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-L.sc+AAoA"
 EndChar

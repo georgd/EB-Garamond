@@ -1,0 +1,44 @@
+StartChar: omicron
+Encoding: 1204 959 1203
+GlifName: omicron
+Width: 418
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 216 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+185 -14 m 256
+ 319 -14 398 88 398 202 c 256
+ 398 326 346 437 227 437 c 256
+ 99 437 20 328 20 208 c 256
+ 20 104 61 -14 185 -14 c 256
+165 107 m 256
+ 112 106 87 141 87 181 c 256
+ 87 247 163 317 253 314 c 256
+ 305 312 331 276 331 238 c 256
+ 331 171 254 109 165 107 c 256
+EndSplineSet
+Fore
+SplineSet
+176 -14 m 256
+ 319 -14 398 88 398 202 c 256
+ 398 338 334 437 224 437 c 256
+ 96 437 20 328 20 208 c 256
+ 20 104 61 -14 176 -14 c 256
+155 104 m 256
+ 102 101 68 139 68 179 c 256
+ 68 245 163 317 253 314 c 256
+ 305 312 339 290 348 253 c 257
+ 348 182 254 109 155 104 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" omicron.sc
+Comment: "+AAoA-omicron+AAoA"
+EndChar

@@ -1,42 +1,65 @@
 StartChar: l
-Encoding: 108 108 2
+Encoding: 1062 108 1061
 GlifName: l
 Width: 240
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_right" 222 660 basechar 0
-AnchorPoint: "top_right1" 212 650 basechar 0
-AnchorPoint: "cedilla" 130 8 basechar 0
-AnchorPoint: "below_accent" 120 -100 basechar 0
-AnchorPoint: "top_accent" 119 790 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 121 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+39 -3 m 256
+ 78 -3 85 2 120 2 c 256
+ 155 2 162 -3 201 -3 c 256
+ 208 -3 221 -2 221 6 c 256
+ 221 16 209 20 198 24 c 257
+ 178 30 155 35 155 62 c 258
+ 155 562 l 258
+ 155 652 162 686 162 698 c 256
+ 162 701 159 705 156 705 c 256
+ 155 705 155 704 154 704 c 257
+ 122 692 89 676 38 664 c 256
+ 34 663 31 658 31 652 c 256
+ 31 646 34 640 39 639 c 256
+ 72 632 85 605 85 566 c 258
+ 85 62 l 258
+ 85 35 62 30 42 24 c 257
+ 31 20 19 16 19 6 c 256
+ 19 -2 32 -3 39 -3 c 256
+EndSplineSet
 Fore
 SplineSet
-155 62 m 2
- 155 35 178 30 198 24 c 0
- 209 20 221 16 221 6 c 0
- 221 -2 208 -3 201 -3 c 0
- 162 -3 155 2 120 2 c 0
- 85 2 78 -3 39 -3 c 0
- 32 -3 19 -2 19 6 c 0
- 19 16 31 20 42 24 c 0
- 62 30 85 35 85 62 c 2
- 85 566 l 2
- 85 605 72 632 39 639 c 0
- 34 640 31 646 31 652 c 0
- 31 658 34 663 38 664 c 0
- 89 676 122 692 154 704 c 0
- 155 704 155 705 156 705 c 0
- 159 705 162 701 162 698 c 0
- 162 686 155 652 155 562 c 2
- 155 62 l 2
+39 -3 m 256
+ 78 -3 85 2 120 2 c 256
+ 155 2 162 -3 201 -3 c 256
+ 208 -3 221 -2 221 6 c 256
+ 221 16 209 20 198 24 c 257
+ 178 30 155 35 155 62 c 258
+ 155 562 l 258
+ 155 652 162 686 162 698 c 256
+ 162 701 160 705 157 705 c 256
+ 155 705 153 704 151 703 c 256
+ 119 691 89 676 38 664 c 256
+ 34 663 31 658 31 652 c 256
+ 31 646 34 640 39 639 c 256
+ 72 632 85 605 85 566 c 258
+ 85 62 l 258
+ 85 35 62 30 42 24 c 257
+ 31 20 19 16 19 6 c 256
+ 19 -2 32 -3 39 -3 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 89 subtable" l.f_
-Substitution2: "Single Substitution lookup 81 subtable" l.f_
-Substitution2: "Smallcaps1 subtable" l.sc
-Substitution2: "sups subtable" l.sups
-Substitution2: "sinf subtable" l.sinf
-Substitution2: "ordn subtable" l.ordn
-Substitution2: "subs subtable" l.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss01' Style Set 1 lookup 29 subtable" L.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals lookup 24 subtable" l.pc
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" l.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" l.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" l.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" l.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" l.subs
+Comment: "+AAoA-l+AAoA"
 EndChar

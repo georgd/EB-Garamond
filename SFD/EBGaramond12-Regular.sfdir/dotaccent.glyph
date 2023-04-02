@@ -1,11 +1,32 @@
 StartChar: dotaccent
-Encoding: 729 729 346
+Encoding: 745 729 744
 GlifName: dotaccent
-Width: 171
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 100 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+116 515 m 256
+ 145 515 167 537 167 565 c 256
+ 167 594 145 616 116 616 c 256
+ 88 616 66 594 66 565 c 256
+ 66 537 88 515 116 515 c 256
+EndSplineSet
 Fore
-Refer: 121 775 N 1 0 0 1 -27 0 2
-Validated: 1
+SplineSet
+100 516 m 256
+ 129 516 151 538 151 566 c 256
+ 151 595 129 617 100 617 c 256
+ 72 617 50 595 50 566 c 256
+ 50 538 72 516 100 516 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-dotaccent+AAoA"
 EndChar

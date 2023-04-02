@@ -1,24 +1,31 @@
 StartChar: underscore
-Encoding: 95 95 102
+Encoding: 1547 95 1546
 GlifName: underscore
 Width: 500
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-24 -132 m 26
- 487 -132 l 18
- 493 -132 501 -137 501 -143 c 0
- 501 -144 500 -145 500 -146 c 8
- 494 -163 488 -182 469 -182 c 26
- 14 -182 l 26
- 7 -182 0 -176 0 -170 c 0
- 0 -161 6 -132 24 -132 c 26
+487 -132 m 258
+ 24 -132 l 258
+ 6 -132 0 -161 0 -170 c 256
+ 0 -176 7 -182 14 -182 c 258
+ 469 -182 l 258
+ 485 -182 501 -157 501 -143 c 256
+ 501 -137 493 -132 487 -132 c 258
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" underscore.sups
-Substitution2: "sinf subtable" underscore.sinf
-Substitution2: "ordn subtable" underscore.ordn
-Substitution2: "subs subtable" underscore.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" underscore.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" underscore.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" underscore.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" underscore.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" underscore.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" underscore.subs
+Comment: "+AAoA-underscore+AAoA"
 EndChar

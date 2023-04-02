@@ -1,11 +1,17 @@
 StartChar: period.sc
-Encoding: 66028 -1 1620
-Width: 230
+Encoding: 1225 -1 1224
+GlifName: period.sc
+Width: 215
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 39 46 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 1222 46 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-period.sc+AAoA"
 EndChar

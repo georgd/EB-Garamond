@@ -1,0 +1,55 @@
+StartChar: i
+Encoding: 963 105 962
+GlifName: i
+Width: 340
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 97 -30 basechar 0
+AnchorPoint: "top" 249 437 basechar 0
+LayerCount: 2
+Back
+SplineSet
+88 -14 m 256
+ 157 -14 300 99 300 148 c 256
+ 300 156 294 164 286 164 c 256
+ 284 164 283 162 282 161 c 256
+ 256 135 225 105 203 105 c 256
+ 198 105 195 110 195 116 c 256
+ 195 121 197 129 199 136 c 258
+ 283 387 l 258
+ 292 413 250 447 218 434 c 256
+ 172 415 38 325 38 301 c 256
+ 38 292 46 282 56 282 c 256
+ 64 282 89 305 107 305 c 256
+ 112 305 116 302 114 296 c 256
+ 91 219 62 145 34 67 c 256
+ 31 58 29 50 29 44 c 256
+ 29 19 54 -14 88 -14 c 256
+293 665 m 256
+ 242 665 203 621 203 573 c 256
+ 203 542 227 513 259 513 c 256
+ 307 513 347 554 347 600 c 256
+ 347 631 327 665 293 665 c 256
+EndSplineSet
+Fore
+Refer: 733 305 N 1 0 0 1 0 0 2
+Refer: 730 729 N 1 0 0 1 47 -3 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" I.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" i.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" i.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" i.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" i.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" i.subs
+Substitution2: "'locl' Localized Forms in Latin lookup 7 subtable" i.TRK
+Substitution2: "'locl' Localized Forms in Latin lookup 6 subtable" i.TRK
+Substitution2: "'locl' Localized Forms in Latin lookup 2 subtable" i.TRK
+Substitution2: "'locl' Localized Forms in Latin lookup 1 subtable" i.TRK
+Substitution2: "'locl' Localized Forms in Latin lookup 0 subtable" i.TRK
+Comment: "+AAoA-i+AAoA"
+EndChar

@@ -1,0 +1,51 @@
+StartChar: uni1ED5
+Encoding: 2356 7893 2355
+GlifName: uni1E_D_5
+Width: 445
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 170 -30 basechar 0
+AnchorPoint: "top" 317 440 basechar 0
+LayerCount: 2
+Fore
+Refer: 1127 111 N 1 0 0 1 0 0 2
+Refer: 1773 -1 N 1 0 0 1 201 0 2
+Refer: 951 -1 N 1 0 0 1 352 73 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vo
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0302.stack
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vhookabovecomb.stack
+p11
+sasVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1ED5+AAoA"
+EndChar

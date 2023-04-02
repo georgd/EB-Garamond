@@ -1,28 +1,37 @@
 StartChar: less
-Encoding: 60 60 101
+Encoding: 1043 60 1042
+GlifName: less
 Width: 590
-Flags: MW
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-133 229 m 2
- 513 55 l 2
- 532 46 537 16 537 7 c 0
- 537 2 532 -6 526 -6 c 0
- 525 -6 524 -5 523 -5 c 2
- 94 195 l 2
- 77 203 53 216 53 222 c 0
- 53 231 66 259 86 268 c 2
- 523 468 l 2
- 524 468 525 469 526 469 c 0
- 532 469 538 460 536 454 c 0
- 530 433 525 417 505 408 c 2
- 132 234 l 2
- 129 233 130 230 133 229 c 2
+520 -4 m 257
+ 527 -6 537 0 537 11 c 256
+ 537 20 532 46 513 55 c 258
+ 133 229 l 257
+ 130 230 129 233 132 234 c 257
+ 505 408 l 258
+ 525 417 537 436 537 454 c 256
+ 537 469 527 471 516 466 c 258
+ 86 268 l 258
+ 66 259 53 231 53 222 c 256
+ 53 216 77 203 94 195 c 258
+ 520 -4 l 257
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" less.sups
-Substitution2: "sinf subtable" less.sinf
-Substitution2: "ordn subtable" less.ordn
-Substitution2: "subs subtable" less.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss04' Style Set 4 in Latin lookup 35 subtable" bullet.03
+Substitution2: "'ss02' Style Set 2 in Latin lookup 32 subtable" bullet.02
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" less.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" less.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" less.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" less.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" less.subs
+Comment: "+AAoA-less+AAoA"
 EndChar

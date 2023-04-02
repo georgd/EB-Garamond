@@ -1,13 +1,21 @@
 StartChar: scedilla
-Encoding: 351 351 258
+Encoding: 1321 351 1320
+GlifName: scedilla
 Width: 276
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 267 550 basechar 0
+Flags: W
+AnchorPoint: "bottom" 67 -30 basechar 0
+AnchorPoint: "top" 223 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 626 807 N 1 0 0 1 -64 0 2
-Refer: 17 115 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" scedilla.sc
-MultipleSubs2: "CCMP_Precomp subtable" s uni0327
+Refer: 1306 115 N 1 0 0 1 0 0 2
+Refer: 666 184 N 1 0 0 1 30 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" scedilla.sc
+Comment: "+AAoA-scedilla+AAoA"
 EndChar

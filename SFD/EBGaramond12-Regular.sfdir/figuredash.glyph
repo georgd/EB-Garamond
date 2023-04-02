@@ -1,21 +1,25 @@
 StartChar: figuredash
-Encoding: 8210 8210 765
+Encoding: 872 8210 871
 GlifName: figuredash
 Width: 528
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-36 241 m 26
- 499 241 l 18
- 505 241 512 235 512 229 c 0
- 512 207 499 181 481 181 c 26
- 26 181 l 26
- 19 181 12 187 12 193 c 0
- 12 202 15 241 36 241 c 26
+26 181 m 258
+ 481 181 l 258
+ 499 181 512 207 512 229 c 256
+ 512 235 505 241 499 241 c 258
+ 36 241 l 258
+ 15 241 12 202 12 193 c 256
+ 12 187 19 181 26 181 c 258
 EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 111 subtable" figuredash.cap
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" figuredash.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-figuredash+AAoA"
 EndChar

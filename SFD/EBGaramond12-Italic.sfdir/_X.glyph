@@ -1,66 +1,93 @@
 StartChar: X
-Encoding: 88 88 63
-Width: 707
+Encoding: 455 88 454
+GlifName: X_
+Width: 633
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 393 8 basechar 0
-AnchorPoint: "below_accent" 283 -100 basechar 0
-AnchorPoint: "top_accent" 535 710 basechar 0
+Flags: W
+AnchorPoint: "bottom.cap" 237 -30 basechar 0
+AnchorPoint: "top.cap" 464 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+344 -37 m 256
+ 387 -11 404 9 442 33 c 256
+ 478 56 493 60 535 87 c 256
+ 549 96 559 106 555 113 c 256
+ 550 121 543 122 524 115 c 256
+ 481 99 455 102 441 149 c 258
+ 310 603 l 258
+ 296 650 309 677 345 711 c 256
+ 362 727 370 741 365 748 c 256
+ 360 755 352 753 339 744 c 256
+ 298 716 289 708 255 686 c 256
+ 219 663 205 657 163 630 c 256
+ 149 621 139 611 144 604 c 256
+ 149 597 156 593 175 601 c 256
+ 216 618 234 610 248 563 c 258
+ 379 108 l 258
+ 393 61 375 28 338 -6 c 256
+ 321 -22 313 -33 318 -41 c 256
+ 322 -47 331 -45 344 -37 c 256
+EndSplineSet
 Fore
 SplineSet
-674 650 m 0
- 710 650 757 656 782 656 c 0
- 798 656 806 653 806 645 c 0
- 806 636 792 631 769 625 c 0
- 731 615 665 564 613 510 c 18
- 478 370 l 2
- 460 350 457 343 460 331 c 2
- 517 111 l 10
- 530 60 590 36 622 26 c 0
- 642 20 647 15 647 6 c 0
- 647 -2 633 -5 617 -5 c 0
- 591 -5 503 1 459 1 c 0
- 421 1 394 0 372 0 c 0
- 356 0 348 3 348 11 c 0
- 348 20 372 29 386 31 c 0
- 433 37 450 41 430 111 c 2
- 387 262 l 2
- 383 276 377 276 368 267 c 2
- 214 93 l 2
- 187 62 200 39 232 30 c 0
- 252 24 256 19 256 10 c 0
- 256 2 242 -1 226 -1 c 0
- 209 -1 173 1 140 1 c 0
- 98 1 52 -5 21 -5 c 0
- 5 -5 -3 -2 -3 6 c 0
- -3 15 11 25 35 28 c 0
- 82 34 125 53 192 124 c 2
- 344 284 l 2
- 363 304 376 319 373 329 c 2
- 314 529 l 2
- 291 609 260 616 222 622 c 0
- 203 625 190 634 190 643 c 0
- 190 651 212 655 228 655 c 0
- 259 655 322 650 368 650 c 0
- 405 650 433 652 450 652 c 0
- 466 652 474 649 474 641 c 0
- 474 632 461 623 437 621 c 0
- 386 617 380 601 402 528 c 2
- 439 403 l 2
- 442 393 446 388 450 388 c 0
- 454 388 459 391 466 400 c 2
- 586 538 l 2
- 631 590 617 612 593 620 c 0
- 581 624 569 631 569 640 c 0
- 569 648 583 651 599 651 c 0
- 621 651 646 650 674 650 c 0
+-37 -5 m 256
+ -6 -5 40 1 82 1 c 256
+ 115 1 151 -1 168 -1 c 256
+ 184 -1 198 4 198 12 c 256
+ 198 21 194 24 174 30 c 256
+ 142 39 137 62 169 100 c 258
+ 315 275 l 258
+ 323 285 330 284 334 270 c 258
+ 378 111 l 258
+ 390 67 381 43 334 31 c 256
+ 320 27 296 20 296 11 c 256
+ 296 3 304 0 320 0 c 256
+ 342 0 369 1 407 1 c 256
+ 451 1 522 -5 548 -5 c 256
+ 564 -5 578 -2 578 6 c 256
+ 578 15 573 21 553 26 c 256
+ 479 45 463 55 448 111 c 258
+ 388 331 l 258
+ 385 343 388 350 406 370 c 258
+ 538 513 l 258
+ 589 568 659 615 697 625 c 256
+ 720 631 734 636 734 645 c 256
+ 734 653 726 656 710 656 c 256
+ 685 656 638 650 602 650 c 256
+ 574 650 547 651 525 651 c 256
+ 509 651 495 648 495 640 c 256
+ 495 631 507 623 519 620 c 256
+ 552 612 562 595 499 520 c 258
+ 392 394 l 258
+ 378 378 370 378 365 397 c 258
+ 330 528 l 258
+ 310 601 314 617 365 621 c 256
+ 389 623 402 632 402 641 c 256
+ 402 649 394 652 378 652 c 256
+ 361 652 333 650 296 650 c 256
+ 250 650 201 655 170 655 c 256
+ 154 655 132 651 132 643 c 256
+ 132 634 145 625 164 622 c 256
+ 202 616 233 609 256 529 c 258
+ 308 351 l 258
+ 318 319 305 304 286 284 c 258
+ 134 124 l 258
+ 67 53 24 34 -23 28 c 256
+ -47 25 -61 15 -61 6 c 256
+ -61 -2 -53 -5 -37 -5 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "Swash subtable" X.sw
-Substitution2: "c2sc subtable" X.sc
-Substitution2: "sups subtable" X.sups
-Substitution2: "sinf subtable" X.sinf
-Substitution2: "ordn subtable" X.ordn
-Substitution2: "subs subtable" X.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" X.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" X.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" X.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" X.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" X.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" X.subs
+Comment: "+AAoA-X+AAoA"
 EndChar

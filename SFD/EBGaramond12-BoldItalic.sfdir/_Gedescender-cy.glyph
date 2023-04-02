@@ -1,0 +1,54 @@
+StartChar: Gedescender-cy
+Encoding: 156 1270 156
+GlifName: G_edescender-cy
+Width: 534
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+184 -218 m 256
+ 196 -218 208 -208 218 -186 c 256
+ 239 -139 266 -73 291 -27 c 256
+ 308 5 313 35 277 39 c 256
+ 236 44 221 58 237 108 c 258
+ 373 546 l 258
+ 390 602 411 615 444 615 c 258
+ 507 615 l 258
+ 541 615 559 605 570 586 c 256
+ 582 564 583 529 583 485 c 256
+ 583 473 590 469 599 469 c 256
+ 606 469 614 475 618 488 c 256
+ 629 524 645 591 658 640 c 256
+ 661 651 655 655 638 655 c 256
+ 625 655 606 650 590 650 c 257
+ 318 650 l 257
+ 278 650 220 655 176 655 c 256
+ 164 655 154 648 151 639 c 256
+ 148 631 151 622 165 618 c 256
+ 209 605 218 594 205 551 c 258
+ 64 97 l 258
+ 51 56 33 46 -21 34 c 256
+ -34 31 -43 24 -47 12 c 256
+ -50 3 -42 -3 -34 -3 c 256
+ 10 -3 78 2 153 3 c 256
+ 175 3 183 -10 183 -27 c 256
+ 183 -47 179 -73 175 -100 c 256
+ 170 -131 165 -163 164 -187 c 256
+ 163 -207 171 -218 184 -218 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni0413
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni0413
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+EndChar

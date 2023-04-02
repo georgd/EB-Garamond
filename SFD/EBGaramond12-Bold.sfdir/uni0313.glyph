@@ -1,0 +1,41 @@
+StartChar: uni0313
+Encoding: 1963 787 1962
+GlifName: uni0313
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+42 588 m 256
+ 58 585 68 572 68 556 c 256
+ 68 527 48 509 21 496 c 256
+ 13 492 4 489 4 482 c 256
+ 4 477 11 472 24 472 c 256
+ 76 472 120 516 120 569 c 256
+ 120 617 94 666 47 666 c 256
+ 23 666 0 651 0 628 c 256
+ 0 605 19 592 42 588 c 256
+EndSplineSet
+Fore
+SplineSet
+-51 465 m 256
+ 9 465 83 497 83 587 c 256
+ 83 645 37 689 -11 689 c 256
+ -55 689 -83 667 -83 641 c 256
+ -83 611 -66 598 -44 590 c 256
+ -26 583 -8 572 -8 552 c 256
+ -8 526 -21 515 -60 499 c 256
+ -72 494 -78 488 -78 480 c 256
+ -78 473 -72 465 -51 465 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni0313.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni0313.sc
+Comment: "+AAoA-uni0313+AAoA"
+EndChar

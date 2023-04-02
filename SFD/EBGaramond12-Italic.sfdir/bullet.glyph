@@ -1,16 +1,37 @@
 StartChar: bullet
-Encoding: 8226 8226 1932
-Width: 286
+Encoding: 641 8226 640
+GlifName: bullet
+Width: 341
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+168 271 m 256
+ 224 271 269 315 269 371 c 256
+ 269 411 239 448 199 448 c 256
+ 144 448 99 403 99 348 c 256
+ 99 308 128 271 168 271 c 256
+228 231 m 256
+ 300 231 357 288 357 360 c 256
+ 357 432 300 489 228 489 c 256
+ 156 489 99 432 99 360 c 256
+ 99 288 156 231 228 231 c 256
+EndSplineSet
 Fore
 SplineSet
-287 470 m 24
- 343 470 375 421 356 360 c 24
- 337 299 276 250 220 250 c 24
- 164 250 132 299 151 360 c 24
- 170 421 231 470 287 470 c 24
+197 231 m 256
+ 278 231 344 295 344 376 c 256
+ 344 435 300 488 242 488 c 256
+ 162 488 96 423 96 343 c 256
+ 96 284 138 231 197 231 c 256
 EndSplineSet
-Validated: 33
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 478 -60 "'kern' Horizontal Kerning lookup 0 subtable"
+Comment: "+AAoA-bullet+AAoA"
 EndChar

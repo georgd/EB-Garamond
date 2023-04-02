@@ -1,0 +1,21 @@
+StartChar: Emacron
+Encoding: 110 274 110
+GlifName: E_macron
+Width: 572
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 250 -30 basechar 0
+AnchorPoint: "top.cap" 399 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 81 69 N 1 0 0 1 0 0 2
+Refer: 1776 -1 N 1 0 0 1 254 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Emacron.sc
+Comment: "+AAoA-Emacron+AAoA"
+EndChar

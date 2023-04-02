@@ -1,13 +1,60 @@
 StartChar: uni1F49
-Encoding: 8009 8009 2519
+Encoding: 2629 8009 2628
 GlifName: uni1F_49
-Width: 802
+Width: 800
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 409 -30 basechar 0
+AnchorPoint: "top.cap" 428 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+58 588 m 256
+ 81 592 100 605 100 628 c 256
+ 100 651 77 666 53 666 c 256
+ 6 666 -20 616 -20 569 c 256
+ -20 516 23 472 76 472 c 256
+ 89 472 96 477 96 482 c 256
+ 96 489 87 492 79 496 c 256
+ 52 509 32 527 32 556 c 256
+ 32 572 42 585 58 588 c 256
+84 320 m 256
+ 84 130 244 -14 421 -14 c 256
+ 640 -14 757 155 757 335 c 256
+ 757 532 603 664 429 664 c 256
+ 205 664 84 501 84 320 c 256
+414 625 m 256
+ 574 625 660 495 660 305 c 256
+ 660 134 584 25 434 25 c 256
+ 286 25 181 179 181 350 c 256
+ 181 490 266 625 414 625 c 256
+EndSplineSet
 Fore
-Refer: 126 788 N 1 0 0 1 -20 0 2
-Refer: 638 927 N 1 0 0 1 39 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Omicron uni0314
+Refer: 307 927 N 1 0 0 1 37 0 2
+Refer: 2793 8190 N 1 0 0 1 -50 24 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOmicron
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VOmicron
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1F49+AAoA"
 EndChar

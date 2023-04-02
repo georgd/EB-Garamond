@@ -1,61 +1,58 @@
 StartChar: onehalf
-Encoding: 189 189 122
-Width: 699
+Encoding: 1221 189 1220
+GlifName: onehalf
+Width: 719
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-142 628 m 0
- 131 621 102 588 51 583 c 0
- 46 582 40 577 40 567 c 0
- 40 559 44 555 52 552 c 0
- 70 546 105 530 105 507 c 2
- 105 354 l 2
- 105 316 79 312 52 310 c 0
- 44 310 40 306 40 297 c 0
- 40 287 45 280 52 280 c 0
- 106 280 102 286 134 286 c 0
- 166 286 159 280 216 280 c 0
- 224 280 229 286 229 295 c 0
- 229 304 224 309 216 310 c 0
- 172 316 168 317 167 354 c 2
- 167 354 166 403 166 433 c 0
- 166 464 167 500 167 544 c 0
- 167 576 169 599 171 613 c 0
- 172 624 167 630 161 630 c 0
- 160 630 160 630 159 630 c 0
- 157 630 144 629 142 628 c 0
-84 -11 m 2
- 373 638 l 2
- 380 652 388 655 400 655 c 0
- 405 655 411 649 411 640 c 0
- 411 635 l 1
- 121 -16 l 2
- 115 -30 107 -31 96 -31 c 0
- 87.9527 -31 79.0127 -20.9746 84 -11 c 2
-676 95 m 1
- 676 93 l 1
- 663 57 655 34 649 3 c 0
- 647 -11 642 -12 638 -12 c 0
- 637 -12 637 -11 636 -11 c 0
- 585 -8 585 -9 552 -9 c 0
- 504 -9 429 -10 429 -10 c 2
- 423 -11 421 2 429 10 c 2
- 468 50 l 2
- 484 66 578 145 578 207 c 0
- 578 241 552 268 522 268 c 0
- 486 268 472 260 444 230 c 1
- 438 220 426 222 426 237 c 0
- 426 261 474 326 544 326 c 0
- 595 326 636 285 636 231 c 0
- 636 195 619 175 602 150 c 0
- 581 118 514 62 503 51 c 1
- 506 49 512 49 514 49 c 2
- 583 49 l 2
- 613 49 641 69 656 98 c 0
- 658 104 666 107 672 106 c 0
- 675 106 677 104 677 99 c 0
- 677 95 676 95 676 95 c 1
-EndSplineSet
+Refer: 1212 -1 N 1 0 0 1 0 0 2
+Refer: 897 8260 N 1 0 0 1 318 0 2
+Refer: 1483 -1 N 1 0 0 1 369 -294 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vone.ordn
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vfraction
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vtwo.ordn
+p11
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p12
+Vone.ordn
+p13
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p14
+Vtwo.ordn
+p15
+sVpublic.markColor
+p16
+V0.67,0.95,0.38,1
+p17
+s."
+Comment: "+AAoA-onehalf+AAoA"
 EndChar

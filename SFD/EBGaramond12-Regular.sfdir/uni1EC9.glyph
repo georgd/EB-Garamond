@@ -1,13 +1,55 @@
 StartChar: uni1EC9
-Encoding: 7881 7881 1177
+Encoding: 2509 7881 2508
 GlifName: uni1E_C_9
 Width: 245
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 116 -30 basechar 0
+AnchorPoint: "top" 124 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+43 599 m 256
+ 49 599 54 602 57 608 c 256
+ 72 639 79 650 98 650 c 256
+ 114 650 130 638 130 622 c 256
+ 130 606 122 598 108 586 c 256
+ 97 576 82 559 82 547 c 256
+ 82 533 97 515 110 515 c 256
+ 120 515 133 517 128 526 c 257
+ 125 532 123 537 123 541 c 256
+ 123 547 127 552 139 557 c 256
+ 174 572 191 600 191 617 c 256
+ 191 656 152 677 113 677 c 256
+ 75 677 52 666 32 654 c 256
+ 23 649 19 640 19 630 c 256
+ 19 616 25 599 43 599 c 256
+162 434 m 256
+ 154 434 109 393 42 377 c 256
+ 38 376 35 370 35 365 c 256
+ 35 359 38 353 43 352 c 256
+ 77 345 90 315 90 279 c 258
+ 90 62 l 258
+ 90 35 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 36 -3 44 -3 c 256
+ 83 -3 90 2 125 2 c 256
+ 160 2 168 -3 206 -3 c 256
+ 215 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 35 160 62 c 258
+ 160 294 l 258
+ 160 339 165 388 169 429 c 257
+ 169 432 166 434 162 434 c 256
+EndSplineSet
 Fore
-Refer: 1170 777 N 1 0 0 1 -21 0 2
-Refer: 76 305 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" i.dotless hookabovecomb
+Refer: 747 305 N 1 0 0 1 0 0 2
+Refer: 977 777 N 1 0 0 1 113 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1EC9+AAoA"
 EndChar

@@ -1,13 +1,17 @@
 StartChar: uni032F.cap
-Encoding: 1114956 -1 2306
+Encoding: 2012 -1 2011
 GlifName: uni032F_.cap
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 158 -100 mark 0
-LayerCount: 3
+AnchorPoint: "bottom.cap" 0 -30 mark 0
+LayerCount: 2
 Fore
-Refer: 1003 -1 N 1 0 0 1 0 -900 2
-Validated: 1
-Substitution2: "c2sc subtable" uni032F
+Refer: 1918 -1 N 1 0 0 -1 0 612 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni032F.cap+AAoA"
 EndChar

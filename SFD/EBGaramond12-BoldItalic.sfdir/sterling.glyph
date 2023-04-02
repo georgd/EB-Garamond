@@ -1,0 +1,42 @@
+StartChar: sterling
+Encoding: 1375 163 1374
+GlifName: sterling
+Width: 649
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+68 287 m 258
+ 441 312 l 258
+ 462 313 492 338 495 348 c 256
+ 497 355 492 366 482 365 c 258
+ 97 340 l 258
+ 79 339 57 316 53 304 c 256
+ 50 295 58 286 68 287 c 258
+EndSplineSet
+Fore
+SplineSet
+109 287 m 258
+ 479 312 l 258
+ 500 313 522 338 522 348 c 256
+ 522 355 514 366 504 365 c 258
+ 122 340 l 258
+ 104 339 89 316 89 304 c 256
+ 89 295 99 286 109 287 c 258
+EndSplineSet
+Refer: 239 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VL.script
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VL.script
+p4
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" sterling.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" sterling.sc
+Comment: "+AAoA-sterling+AAoA"
+EndChar

@@ -1,11 +1,25 @@
 StartChar: angleright
-Encoding: 9002 9002 2691
+Encoding: 543 9002 542
 GlifName: angleright
-Width: 315
+Width: 307
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2687 10217 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 541 9001 N -1 0 0 -1 307 491 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|angleleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|angleleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-angleright+AAoA"
 EndChar

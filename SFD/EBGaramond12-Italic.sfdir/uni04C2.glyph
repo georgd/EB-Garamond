@@ -1,11 +1,19 @@
 StartChar: uni04C2
-Encoding: 1218 1218 1968
-Width: 681
+Encoding: 2050 1218 2049
+GlifName: uni04C_2
+Width: 692
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 416 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 1965 -1 N 1 0 0 1 347 29 2
-Refer: 1946 1078 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 1986 1078 N 1 0 0 1 0 0 2
+Refer: 1783 -1 N 1 0 0 1 323 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni04C2+AAoA"
 EndChar

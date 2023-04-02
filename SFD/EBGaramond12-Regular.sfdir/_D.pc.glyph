@@ -1,11 +1,64 @@
 StartChar: D.pc
-Encoding: 1115172 -1 2950
+Encoding: 71 -1 71
 GlifName: D_.pc
-Width: 603
+Width: 538
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+252 414 m 256
+ 209 414 155 402 129 390 c 256
+ 120 386 114 379 110 370 c 256
+ 101 350 86 310 86 302 c 256
+ 86 283 110 291 117 308 c 256
+ 136 355 196 380 240 380 c 256
+ 343 380 412 287 412 185 c 256
+ 412 94 344 17 254 17 c 256
+ 182 17 150 31 125 94 c 256
+ 117 114 99 116 99 93 c 256
+ 99 72 103 34 108 16 c 256
+ 110 9 113 5 127 1 c 256
+ 161 -9 196 -14 242 -14 c 256
+ 371 -14 494 71 494 200 c 256
+ 494 326 378 414 252 414 c 256
+EndSplineSet
 Fore
-Refer: 2976 -1 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+58 -3 m 256
+ 92 -3 112 1 144 2 c 256
+ 174 2 219 -3 232 -3 c 256
+ 371 -3 492 77 493 208 c 256
+ 494 358 396 400 234 400 c 256
+ 218 400 170 395 147 396 c 257
+ 116 396 99 400 65 400 c 256
+ 59 400 47 396 47 389 c 256
+ 47 381 58 374 68 373 c 256
+ 105 366 116 347 116 311 c 258
+ 116 69 l 258
+ 116 38 92 28 61 22 c 256
+ 51 20 40 16 40 8 c 256
+ 40 1 51 -3 58 -3 c 256
+253 22 m 256
+ 217 22 186 45 186 77 c 258
+ 186 341 l 258
+ 186 366 212 375 236 375 c 256
+ 348 375 412 314 412 199 c 256
+ 412 107 353 22 253 22 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH.pc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VO.pc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-D.pc+AAoA"
 EndChar

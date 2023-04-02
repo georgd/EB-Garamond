@@ -1,23 +1,39 @@
 StartChar: O.subs
-Encoding: 65653 -1 1245
-Width: 442
+Encoding: 283 -1 282
+GlifName: O_.subs
+Width: 479
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-329 375 m 0
- 247 375 183 294 157 210 c 0
- 126 107 148 16 230 15 c 0
- 231 15 l 0
- 311 15 379 102 404 183 c 0
- 431 272 418 375 329 375 c 0
-86 192 m 0
- 119 300 216 395 340 398 c 0
- 341 398 343 398 344 398 c 0
- 442 398 507 320 471 201 c 0
- 438 93 339 -8 216 -8 c 0
- 116 -8 51 78 86 192 c 0
-EndSplineSet
-Validated: 33
+Refer: 278 -1 N 1 0 0 1 -87 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VO.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VO.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VO.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-O.subs+AAoA"
 EndChar

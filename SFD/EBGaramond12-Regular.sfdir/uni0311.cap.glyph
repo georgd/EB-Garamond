@@ -1,23 +1,38 @@
 StartChar: uni0311.cap
-Encoding: 1114128 -1 1003
+Encoding: 1959 -1 1958
 GlifName: uni0311.cap
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 142 710 mark 0
-LayerCount: 3
-Fore
+AnchorPoint: "top.cap" 0 675 mark 0
+LayerCount: 2
+Back
 SplineSet
-245 713 m 0
- 218 745 185 760 142 760 c 0
- 99 760 66 745 39 713 c 0
- 33 705 25 692 15 692 c 0
- 5 692 5 703 5 716 c 0
- 5 756 57 820 142 820 c 0
- 227 820 279 756 279 716 c 0
- 279 703 279 692 269 692 c 0
- 259 692 251 705 245 713 c 0
+245 713 m 257
+ 251 705 259 692 269 692 c 256
+ 279 692 279 703 279 716 c 256
+ 279 756 227 820 142 820 c 256
+ 57 820 5 756 5 716 c 256
+ 5 703 5 692 15 692 c 256
+ 25 692 33 705 39 713 c 257
+ 66 745 99 760 142 760 c 256
+ 185 760 218 745 245 713 c 257
+147 685 m 256
+ 250 685 294 765 294 813 c 256
+ 294 831 292 840 280 840 c 256
+ 268 840 262 831 250 818 c 256
+ 219 784 194 772 147 772 c 256
+ 100 772 75 784 44 818 c 256
+ 32 831 26 840 14 840 c 256
+ 2 840 0 831 0 813 c 256
+ 0 765 44 685 147 685 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "c2sc subtable" uni0311.sc
+Fore
+Refer: 1918 -1 N 1 0 0 -1 0 1512 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0311.cap+AAoA"
 EndChar

@@ -1,13 +1,20 @@
 StartChar: gbreve
-Encoding: 287 287 208
-Width: 365
+Encoding: 884 287 883
+GlifName: gbreve
+Width: 415
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 309 585 basechar 0
 LayerCount: 2
 Fore
-Refer: 121 774 N 1 0 0 1 118 0 2
-Refer: 25 103 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" gbreve.sc
-MultipleSubs2: "CCMP_Precomp subtable" g uni0306
+Refer: 871 103 N 1 0 0 1 0 0 2
+Refer: 633 728 N 1 0 0 1 45 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" gbreve.sc
+Comment: "+AAoA-gbreve+AAoA"
 EndChar

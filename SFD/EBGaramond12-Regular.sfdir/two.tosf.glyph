@@ -1,0 +1,59 @@
+StartChar: two.tosf
+Encoding: 1488 -1 1487
+GlifName: two.tosf
+Width: 480
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+383 -4 m 256
+ 385 -4 398 2 398 12 c 256
+ 398 22 415 81 431 126 c 257
+ 432 128 432 130 432 132 c 256
+ 432 135 431 138 428 138 c 256
+ 419 138 412 133 409 128 c 257
+ 390 90 354 65 316 65 c 258
+ 161 65 l 258
+ 155 65 146 69 152 73 c 256
+ 162 80 243 155 273 191 c 256
+ 297 220 314 258 314 290 c 256
+ 314 353 274 413 210 413 c 256
+ 92 413 45 313 45 304 c 256
+ 45 298 46 290 52 290 c 256
+ 58 290 61 293 65 297 c 257
+ 99 335 136 345 181 345 c 256
+ 219 345 246 314 246 267 c 256
+ 246 186 132 92 110 74 c 256
+ 94 61 66 34 49 17 c 256
+ 45 13 42 9 42 5 c 256
+ 42 1 46 -3 49 -3 c 256
+ 54 -3 148 0 212 0 c 256
+ 279 0 369 -4 383 -4 c 256
+EndSplineSet
+Fore
+Refer: 1484 -1 N 1 0 0 1 19 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vtwo.osf
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" two.lf
+Substitution2: "'pnum' Proportional Numbers lookup 17 subtable" two.osf
+Comment: "+AAoA-two.taboldstyle+AAoA"
+EndChar

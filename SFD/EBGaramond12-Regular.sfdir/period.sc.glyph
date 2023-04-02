@@ -1,18 +1,25 @@
 StartChar: period.sc
-Encoding: 1114617 -1 1616
+Encoding: 1274 -1 1273
 GlifName: period.sc
 Width: 230
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-115 96 m 24
- 145 96 170 71 170 41 c 24
- 170 11 145 -14 115 -14 c 24
- 85 -14 60 11 60 41 c 24
- 60 71 85 96 115 96 c 24
-EndSplineSet
-Validated: 1
-Comment: "."
+Refer: 1271 46 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vperiod
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vperiod
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-period.sc+AAoA"
 EndChar

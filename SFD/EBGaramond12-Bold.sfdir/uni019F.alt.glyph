@@ -1,0 +1,45 @@
+StartChar: uni019F.alt
+Encoding: 1610 -1 1609
+GlifName: uni019F_.alt
+Width: 759
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 382 -30 basechar 0
+AnchorPoint: "top.cap" 392 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+187 249 m 257
+ 206 259 258 280 292 280 c 256
+ 341 280 394 237 453 237 c 256
+ 494 237 567 287 589 322 c 257
+ 569 409 l 257
+ 541 397 491 368 463 368 c 256
+ 403 368 356 412 305 412 c 256
+ 263 412 172 345 151 313 c 257
+ 187 249 l 257
+EndSplineSet
+Fore
+SplineSet
+178 260 m 257
+ 196 270 253 284 286 284 c 256
+ 315 284 344 274 368 265 c 256
+ 387 254 410 244 440 244 c 256
+ 491 244 549 277 569 312 c 257
+ 569 395 l 257
+ 542 383 504 368 467 368 c 256
+ 449 368 429 376 407 385 c 256
+ 379 398 348 412 315 412 c 256
+ 246 412 194 339 174 307 c 257
+ 178 260 l 257
+EndSplineSet
+Refer: 278 79 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni019F.alt+AAoA"
+EndChar

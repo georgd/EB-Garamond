@@ -1,14 +1,63 @@
 StartChar: ugrave
-Encoding: 249 249 173
+Encoding: 1539 249 1538
 GlifName: ugrave
 Width: 527
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 257 -30 basechar 0
+AnchorPoint: "top" 252 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+244 478 m 256
+ 252 469 266 456 274 456 c 256
+ 283 456 283 460 283 469 c 256
+ 283 484 221 598 202 631 c 256
+ 196 641 185 649 175 649 c 256
+ 150 649 126 642 126 626 c 256
+ 126 612 213 511 244 478 c 256
+434 415 m 258
+ 432 415 l 257
+ 396 405 404 402 303 397 c 257
+ 299 397 280 394 280 382 c 256
+ 280 368 298 365 303 365 c 257
+ 323 364 368 356 368 315 c 258
+ 368 132 l 258
+ 368 91 338 68 323 57 c 256
+ 298 38 273 37 239 37 c 256
+ 196 37 155 80 155 128 c 258
+ 155 323 l 258
+ 155 353 157 369 161 400 c 256
+ 162 410 157 415 147 414 c 257
+ 108 405 98 399 44 397 c 257
+ 39 396 29 393 29 380 c 256
+ 29 370 39 366 42 365 c 257
+ 72 353 85 337 85 308 c 258
+ 85 105 l 258
+ 85 27 134 -14 199 -14 c 256
+ 261 -14 312 6 364 57 c 257
+ 364 51 l 258
+ 364 34 359 -2 359 -15 c 256
+ 359 -18 358 -19 362 -19 c 256
+ 368 -19 382 -15 386 -13 c 257
+ 415 -1 451 14 503 21 c 257
+ 508 21 517 24 517 35 c 256
+ 517 47 507 49 502 48 c 256
+ 492 46 466 45 456 45 c 256
+ 440 45 438 73 438 114 c 258
+ 438 326 l 258
+ 438 342 442 390 446 397 c 257
+ 451 405 443 415 434 415 c 258
+EndSplineSet
 Fore
-Refer: 968 768 N 1 0 0 1 118 0 2
-Refer: 15 117 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" ugrave.sc
-MultipleSubs2: "CCMP_Precomp subtable" u gravecomb
+Refer: 1492 117 N 1 0 0 1 0 0 2
+Refer: 931 768 N 1 0 0 1 204 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" ugrave.sc
+Comment: "+AAoA-ugrave+AAoA"
 EndChar

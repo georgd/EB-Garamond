@@ -1,22 +1,39 @@
 StartChar: colon.subs
-Encoding: 1114225 -1 1224
+Encoding: 695 -1 694
 GlifName: colon.subs
-Width: 162
+Width: 168
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-81 70 m 24
- 103 70 120 53 120 31 c 24
- 120 9 103 -8 81 -8 c 24
- 59 -8 42 9 42 31 c 24
- 42 53 59 70 81 70 c 24
-81 224 m 24
- 103 224 120 207 120 185 c 24
- 120 163 103 146 81 146 c 24
- 59 146 42 163 42 185 c 24
- 42 207 59 224 81 224 c 24
-EndSplineSet
-Validated: 1
+Refer: 691 -1 N 1 0 0 1 0 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vcolon.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vcolon.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vcolon.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-colon.subs+AAoA"
 EndChar

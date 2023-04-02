@@ -1,30 +1,54 @@
 StartChar: uni0327
-Encoding: 807 807 623
+Encoding: 1997 807 1996
 GlifName: uni0327
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 114 8 mark 0
-LayerCount: 3
+LayerCount: 2
+Back
+SplineSet
+25 -129 m 256
+ 32 -129 38 -123 51 -123 c 256
+ 86 -123 110 -144 110 -180 c 256
+ 110 -206 97 -225 71 -225 c 256
+ 38 -225 25 -214 18 -214 c 256
+ 14 -214 5 -219 5 -233 c 256
+ 5 -252 8 -274 35 -274 c 256
+ 71 -274 160 -219 160 -139 c 256
+ 160 -106 131 -77 99 -63 c 257
+ 95 -62 88 -57 88 -51 c 256
+ 88 -49 90 -45 92 -43 c 257
+ 131 8 l 257
+ 100 8 l 257
+ 12 -104 l 258
+ 9 -108 7 -111 7 -114 c 256
+ 7 -123 18 -129 25 -129 c 256
+EndSplineSet
 Fore
 SplineSet
-25 -129 m 0
- 18 -129 7 -123 7 -114 c 0
- 7 -111 9 -108 12 -104 c 2
- 100 8 l 17
- 131 8 l 9
- 92 -43 l 2
- 90 -45 88 -49 88 -51 c 0
- 88 -57 95 -62 99 -63 c 0
- 131 -77 160 -106 160 -139 c 0
- 160 -219 71 -274 35 -274 c 0
- 8 -274 5 -252 5 -233 c 0
- 5 -219 14 -214 18 -214 c 0
- 25 -214 38 -225 71 -225 c 0
- 97 -225 110 -206 110 -180 c 0
- 110 -144 86 -123 51 -123 c 0
- 38 -123 32 -129 25 -129 c 0
+-48 -274 m 256
+ -12 -274 77 -219 77 -139 c 256
+ 77 -106 48 -77 16 -63 c 256
+ 9 -60 5 -56 5 -52 c 256
+ 5 -49 7 -46 10 -42 c 258
+ 48 8 l 257
+ 17 8 l 257
+ -71 -103 l 258
+ -74 -107 -76 -111 -76 -114 c 256
+ -76 -123 -65 -129 -58 -129 c 256
+ -51 -129 -45 -123 -32 -123 c 256
+ 0 -123 27 -141 27 -180 c 256
+ 27 -206 14 -225 -12 -225 c 256
+ -43 -225 -55 -214 -65 -214 c 256
+ -73 -214 -78 -221 -78 -233 c 256
+ -78 -264 -69 -274 -48 -274 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni0327.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni0327.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni0327.sc
+Comment: "+AAoA-uni0327+AAoA"
 EndChar

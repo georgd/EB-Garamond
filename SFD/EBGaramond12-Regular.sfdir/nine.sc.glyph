@@ -1,31 +1,43 @@
 StartChar: nine.sc
-Encoding: 1114628 -1 1627
+Encoding: 1157 -1 1156
 GlifName: nine.sc
-Width: 466
+Width: 448
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-251 414 m 0
- 348 414 426 328 426 210 c 0
- 426 96 354 6 300 -47 c 0
- 245 -101 124 -176 55 -186 c 1
- 50 -186 l 2
- 45 -186 41 -185 41 -181 c 8
- 41 -174 48 -170 55 -168 c 0
- 112 -150 228 -56 270 0 c 0
- 306 48 346 114 346 227 c 0
- 346 310 291 378 218 378 c 0
- 153 378 122 316 122 267 c 0
- 122 206 167 142 220 142 c 0
- 261 142 275 156 300 168 c 0
- 305 170 309 161 307 157 c 0
- 300 144 285 130 274 122 c 0
- 259 111 219 89 182 89 c 0
- 113 89 53 143 53 215 c 0
- 53 306 130 414 251 414 c 0
+74 -41 m 256
+ 150 -41 253 41 294 84 c 256
+ 323 115 392 188 392 302 c 256
+ 392 394 339 461 233 461 c 256
+ 126 461 56 378 56 304 c 256
+ 56 247 104 195 164 195 c 256
+ 195 195 227 212 237 223 c 256
+ 244 231 256 239 263 248 c 256
+ 276 265 270 275 260 270 c 256
+ 241 261 224 259 196 259 c 256
+ 152 259 126 294 126 341 c 256
+ 126 387 159 427 209 427 c 256
+ 269 427 313 376 313 304 c 256
+ 313 212 272 144 244 106 c 256
+ 203 51 158 15 79 -8 c 256
+ 72 -10 55 -14 55 -31 c 256
+ 55 -36 62 -41 74 -41 c 256
 EndSplineSet
-Validated: 1
-Comment: "."
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|six.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|six.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-nine.sc+AAoA"
 EndChar

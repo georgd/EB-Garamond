@@ -1,0 +1,46 @@
+StartChar: guilsinglleft
+Encoding: 930 8249 929
+GlifName: guilsinglleft
+Width: 411
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+283 15 m 256
+ 290 15 299 29 293 43 c 256
+ 261 122 233 164 200 206 c 257
+ 192 214 192 214 204 222 c 256
+ 264 263 317 299 401 395 c 256
+ 412 409 420 425 401 425 c 256
+ 390 425 385 419 378 414 c 256
+ 271 338 232 310 86 236 c 256
+ 78 233 65 223 65 210 c 256
+ 65 195 68 190 87 179 c 256
+ 171 130 194 112 253 36 c 256
+ 258 31 268 15 283 15 c 256
+EndSplineSet
+Fore
+SplineSet
+283 15 m 256
+ 290 15 299 29 293 43 c 256
+ 259 120 221 164 185 203 c 256
+ 177 211 177 211 189 219 c 256
+ 249 259 317 299 401 395 c 256
+ 412 409 420 425 401 425 c 256
+ 390 425 385 419 378 414 c 256
+ 271 338 200 287 72 231 c 256
+ 64 228 47 219 47 210 c 256
+ 47 202 54 199 73 187 c 256
+ 150 138 191 109 253 36 c 256
+ 258 30 268 15 283 15 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss02' Style Set 2 in Latin lookup 32 subtable" bullet.02
+Comment: "+AAoA-guilsinglleft+AAoA"
+EndChar

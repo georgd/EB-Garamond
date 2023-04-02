@@ -1,8 +1,18 @@
 StartChar: uni1D02
-Encoding: 7426 7426 2118
-Width: 1000
+Encoding: 2098 7426 2097
+GlifName: uni1D_02
+Width: 521
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 299 550 basechar 0
+Flags: W
+AnchorPoint: "top" 163 -40 basechar 0
 LayerCount: 2
+Fore
+Refer: 525 230 N -1 0 0 -1 521 400 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1D02+AAoA"
 EndChar

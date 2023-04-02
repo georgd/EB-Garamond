@@ -1,0 +1,35 @@
+StartChar: gravecomb.grk
+Encoding: 910 -1 909
+GlifName: gravecomb.grk
+Width: 0
+VWidth: 0
+AnchorPoint: "topgreek" 155 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+118 487 m 256
+ 123 473 129 470 138 470 c 256
+ 143 470 146 475 146 483 c 256
+ 146 493 139 586 135 627 c 256
+ 133 650 129 667 117 667 c 256
+ 101 667 72 645 72 621 c 256
+ 72 616 106 521 118 487 c 256
+EndSplineSet
+Fore
+SplineSet
+145 467 m 256
+ 154 467 159 472 161 492 c 256
+ 165 532 151 642 147 674 c 256
+ 145 692 135 706 118 706 c 256
+ 87 706 62 677 62 650 c 256
+ 62 629 96 547 122 491 c 256
+ 128 478 138 467 145 467 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gravecomb.grk+AAoA"
+EndChar

@@ -1,13 +1,59 @@
 StartChar: Udieresis
-Encoding: 220 220 154
-Width: 737
+Encoding: 408 220 407
+GlifName: U_dieresis
+Width: 700
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 308 -30 basechar 0
+AnchorPoint: "top.cap" 535 815 basechar 0
 LayerCount: 2
+Back
+SplineSet
+461 800 m 256
+ 428 800 403 772 403 739 c 256
+ 403 719 419 700 440 700 c 256
+ 470 700 497 727 497 757 c 256
+ 497 779 482 800 461 800 c 256
+662 800 m 256
+ 629 800 604 772 604 739 c 256
+ 604 719 620 700 641 700 c 256
+ 671 700 698 727 698 757 c 256
+ 698 779 683 800 662 800 c 256
+752 547 m 256
+ 766 587 786 615 821 622 c 256
+ 844 627 858 633 858 642 c 256
+ 858 650 850 653 834 653 c 256
+ 813 653 788 650 758 650 c 256
+ 731 650 717 651 689 651 c 256
+ 673 651 658 648 658 640 c 256
+ 658 631 671 624 683 620 c 256
+ 707 612 703 562 688 511 c 256
+ 666 434 640 344 627 300 c 256
+ 579 144 516 26 370 26 c 256
+ 272 26 193 90 234 238 c 258
+ 321 549 l 258
+ 333 589 366 616 382 621 c 256
+ 405 628 418 632 418 641 c 256
+ 418 649 411 652 395 652 c 256
+ 375 652 349 650 320 650 c 256
+ 285 650 259 653 231 653 c 256
+ 215 653 193 650 193 642 c 256
+ 193 633 205 626 225 620 c 256
+ 244 614 260 595 246 547 c 258
+ 152 222 l 258
+ 104 55 225 -14 344 -14 c 256
+ 523 -14 601 99 653 254 c 256
+ 684 346 710 432 752 547 c 256
+EndSplineSet
 Fore
-Refer: 2080 -1 N 1 0 0 1 398 0 2
-Refer: 48 85 N 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Udieresis.sc
-MultipleSubs2: "CCMP_Precomp subtable" U uni0308.cap
-Substitution2: "loclDEU subtable" Udieresis.deu
+Refer: 391 85 N 1 0 0 1 0 0 2
+Refer: 1794 -1 N 1 0 0 1 350 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Udieresis.sc
+Comment: "+AAoA-Udieresis+AAoA"
 EndChar

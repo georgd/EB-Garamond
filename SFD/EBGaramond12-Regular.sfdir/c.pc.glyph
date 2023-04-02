@@ -1,27 +1,17 @@
 StartChar: c.pc
-Encoding: 1115197 -1 2975
+Encoding: 650 -1 649
 GlifName: c.pc
-Width: 560
+Width: 493
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-338 458 m 0
- 395 458 436 451 478 437 c 0
- 490 433 495 371 496 340 c 0
- 496 334 491 320 483 320 c 0
- 475 320 472 331 466 346 c 0
- 441 411 404 427 325 427 c 0
- 225 427 150 339 150 239 c 0
- 150 126 227 21 340 21 c 0
- 389 21 451 49 476 99 c 0
- 482 111 491 121 503 121 c 0
- 508 121 510 119 510 109 c 0
- 510 99 481 30 477 23 c 0
- 470 10 387 -14 327 -14 c 0
- 188 -14 60 83 60 222 c 0
- 60 364 196 458 338 458 c 0
-EndSplineSet
-Validated: 1
+Refer: 46 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-c.pc+AAoA"
 EndChar

@@ -1,12 +1,44 @@
 StartChar: uni248F
-Encoding: 9359 9359 902
+Encoding: 2973 9359 2972
 GlifName: uni248F_
-Width: 680
+Width: 682
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 39 46 N 1 0 0 1 452 0 2
-Refer: 85 56 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 785 -1 N 1 0 0 1 0 0 2
+Refer: 1271 46 N 1 0 0 1 452 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Veight.osf
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vperiod
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vperiod
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni248F+AAoA"
 EndChar

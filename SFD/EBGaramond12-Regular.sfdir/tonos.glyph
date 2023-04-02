@@ -1,21 +1,44 @@
 StartChar: tonos
-Encoding: 900 900 2425
+Encoding: 1477 900 1476
 GlifName: tonos
-Width: 0
+Width: 200
 VWidth: 0
-Flags: HMW
-AnchorPoint: "grk_top" 30 510 mark 0
-AnchorPoint: "grk_uc_top_left" 77 630 mark 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 78 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+259 498 m 256
+ 280 534 330 632 330 642 c 256
+ 330 658 311 683 292 683 c 256
+ 284 683 270 677 267 665 c 256
+ 257 629 226 507 226 489 c 256
+ 226 480 226 476 235 476 c 256
+ 243 476 253 488 259 498 c 256
+47 478 m 256
+ 68 514 118 612 118 622 c 256
+ 118 638 99 663 80 663 c 256
+ 72 663 58 657 55 645 c 256
+ 45 609 14 487 14 469 c 256
+ 14 460 14 456 23 456 c 256
+ 31 456 41 468 47 478 c 256
+EndSplineSet
 Fore
 SplineSet
-47 478 m 0
- 41 468 31 456 23 456 c 0
- 14 456 14 460 14 469 c 0
- 14 487 45 609 55 645 c 0
- 58 657 72 663 80 663 c 0
- 99 663 118 638 118 622 c 0
- 118 612 68 514 47 478 c 0
+52 471 m 256
+ 61 471 71 482 79 490 c 256
+ 109 520 155 621 156 631 c 256
+ 158 647 140 675 121 675 c 256
+ 112 675 99 669 94 657 c 256
+ 80 623 45 502 45 484 c 256
+ 45 475 43 471 52 471 c 256
 EndSplineSet
-Validated: 1
+Guideline: "" "" 182 683 0 0 0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-tonos+AAoA"
 EndChar

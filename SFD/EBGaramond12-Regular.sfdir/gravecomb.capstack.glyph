@@ -1,23 +1,26 @@
 StartChar: gravecomb.capstack
-Encoding: 1114998 -1 2707
+Encoding: 934 -1 933
 GlifName: gravecomb.capstack
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "gravestack" 170 710 mark 0
-AnchorPoint: "top_accent" 135 710 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-165 716 m 0
- 165 712 160 710 155 710 c 0
- 152 710 143 711 137 713 c 0
- 106 723 63 738 23 755 c 0
- 12 760 5 765 5 770 c 0
- 5 781 44 810 55 810 c 0
- 60 810 65 808 71 804 c 0
- 95 786 142 745 157 731 c 0
- 163 725 165 721 165 716 c 0
+70 710 m 256
+ 75 710 80 712 80 716 c 256
+ 80 721 78 725 72 731 c 256
+ 57 746 10 786 -14 804 c 256
+ -20 808 -25 810 -30 810 c 256
+ -41 810 -80 781 -80 770 c 256
+ -80 765 -73 760 -62 755 c 256
+ -22 737 21 723 52 713 c 256
+ 58 711 67 710 70 710 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gravecomb.capstack+AAoA"
 EndChar

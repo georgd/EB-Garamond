@@ -1,0 +1,21 @@
+StartChar: zdotaccent
+Encoding: 3041 380 3040
+GlifName: zdotaccent
+Width: 485
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 180 -30 basechar 0
+AnchorPoint: "top" 303 440 basechar 0
+LayerCount: 2
+Fore
+Refer: 3029 122 N 1 0 0 1 0 0 2
+Refer: 730 729 N 1 0 0 1 101 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" zdotaccent.sc
+Comment: "+AAoA-zdotaccent+AAoA"
+EndChar

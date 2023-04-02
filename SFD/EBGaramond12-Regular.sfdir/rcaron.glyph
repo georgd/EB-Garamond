@@ -1,15 +1,61 @@
 StartChar: rcaron
-Encoding: 345 345 251
+Encoding: 1348 345 1347
 GlifName: rcaron
 Width: 334
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 133 -30 basechar 0
+AnchorPoint: "top" 191 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+186 550 m 256
+ 164 580 133 620 120 635 c 256
+ 112 644 98 657 90 657 c 256
+ 81 657 81 653 81 644 c 256
+ 81 631 149 521 169 490 c 256
+ 174 482 181 472 189 472 c 256
+ 197 472 204 482 209 490 c 256
+ 229 521 297 631 297 644 c 256
+ 297 653 297 657 288 657 c 256
+ 280 657 267 644 259 635 c 256
+ 246 620 215 580 193 550 c 256
+ 190 546 189 546 186 550 c 256
+160 67 m 257
+ 160 264 l 258
+ 160 331 198 348 230 348 c 256
+ 250 348 273 330 290 330 c 256
+ 310 330 329 362 329 382 c 256
+ 329 400 309 414 281 414 c 256
+ 257 414 220 399 189 371 c 256
+ 182 365 169 346 165 346 c 256
+ 164 346 164 346 164 348 c 257
+ 166 380 167 416 167 423 c 257
+ 166 426 164 430 161 430 c 256
+ 160 430 160 429 159 429 c 257
+ 132 413 99 386 48 374 c 256
+ 44 373 39 368 39 362 c 256
+ 39 356 44 350 49 349 c 256
+ 82 342 90 313 90 277 c 258
+ 90 62 l 257
+ 89 35 72 30 52 24 c 257
+ 41 20 29 16 29 6 c 256
+ 29 -2 42 -3 49 -3 c 256
+ 89 -3 95 2 130 2 c 256
+ 165 2 177 -3 217 -3 c 256
+ 224 -3 237 -2 237 6 c 256
+ 237 16 225 20 214 24 c 257
+ 194 30 161 40 160 67 c 257
+EndSplineSet
 Fore
-Refer: 92 780 N 1 0 0 1 51 17 2
-Refer: 12 114 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" rcaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" r uni030C
-Position2: "rtbd subtable" dx=0 dy=0 dh=-17 dv=0
+Refer: 1337 114 N 1 0 0 1 0 0 2
+Refer: 659 711 N 1 0 0 1 41 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" rcaron.sc
+Comment: "+AAoA-rcaron+AAoA"
 EndChar

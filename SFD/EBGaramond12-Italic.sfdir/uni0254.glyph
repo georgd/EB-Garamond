@@ -1,25 +1,44 @@
 StartChar: uni0254
-Encoding: 596 596 1992
-Width: 326
+Encoding: 1720 596 1719
+GlifName: uni0254
+Width: 313
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom" 206 430 basechar 0
+AnchorPoint: "top" 82 -40 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
-388 219 m 8
- 351 96 241 -14 135 -14 c 16
- 98 -14 56 5 41 42 c 0
- 35 58 55 73 71 84 c 16
- 75 87 81 88 85 88 c 0
- 94 88 99 83 102 78 c 0
- 119 42 130 23 173 23 c 8
- 235 23 291 100 313 173 c 16
- 342 269 322 361 241 361 c 16
- 205 361 175 340 142 306 c 0
- 139 303 135 301 132 301 c 0
- 126 301 123 309 127 317 c 0
- 146 352 220 413 300 413 c 8
- 387 413 419 322 388 219 c 8
+58 -14 m 256
+ 164 -14 274 96 311 219 c 256
+ 342 322 310 413 223 413 c 256
+ 143 413 69 352 50 317 c 256
+ 46 309 49 301 55 301 c 256
+ 58 301 62 303 65 306 c 256
+ 98 340 128 361 164 361 c 256
+ 245 361 265 269 236 173 c 256
+ 214 100 158 23 96 23 c 256
+ 53 23 42 42 25 78 c 257
+ 22 83 17 88 8 88 c 256
+ 4 88 -2 87 -6 84 c 257
+ -22 73 -42 58 -36 42 c 256
+ -21 5 21 -14 58 -14 c 256
 EndSplineSet
-Validated: 33
+Fore
+Refer: 644 99 N -1 0 0 -1 313 400 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|c
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|c
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni0254+AAoA"
 EndChar

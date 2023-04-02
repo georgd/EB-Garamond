@@ -1,11 +1,13 @@
 StartChar: v.LATmedi
-Encoding: 66337 -1 1936
-Width: 527
+Encoding: 2974 -1 2973
+GlifName: v.L_A_T_medi
+Width: 509
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom" 167 -30 basechar 0
+AnchorPoint: "top" 329 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 15 117 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Smallcaps1 subtable" v.sc
+Refer: 1435 117 N 1 0 0 1 0 0 2
+Comment: "+AAoA-v.LATmedi+AAoA"
 EndChar

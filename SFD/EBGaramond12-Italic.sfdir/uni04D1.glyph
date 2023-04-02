@@ -1,11 +1,20 @@
 StartChar: uni04D1
-Encoding: 1233 1233 685
-Width: 451
+Encoding: 2052 1233 2051
+GlifName: uni04D_1
+Width: 491
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 167 -30 basechar 0
+AnchorPoint: "top" 335 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 1965 -1 N 1 0 0 1 239 17 2
-Refer: 668 1072 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 496 97 N 1 0 0 1 0 0 2
+Refer: 1783 -1 N 1 0 0 1 242 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni04D1+AAoA"
 EndChar

@@ -1,12 +1,21 @@
 StartChar: uni01F4
-Encoding: 500 500 319
+Encoding: 1634 500 1633
+GlifName: uni01F_4
 Width: 687
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 383 -30 basechar 0
+AnchorPoint: "top" 510 675 basechar 0
+AnchorPoint: "top.cap" 515 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 2468 -1 N 1 0 0 1 497 0 2
-Refer: 40 71 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" G acutecomb.cap
+Refer: 140 71 N 1 0 0 1 0 0 2
+Refer: 513 -1 N 1 0 0 1 386 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni01F4+AAoA"
 EndChar

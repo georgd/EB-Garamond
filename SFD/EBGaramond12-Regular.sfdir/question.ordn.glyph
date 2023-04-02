@@ -1,12 +1,36 @@
 StartChar: question.ordn
-Encoding: 1114432 -1 1431
+Encoding: 1311 -1 1310
 GlifName: question.ordn
 Width: 230
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1229 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+87 389 m 256
+ 93 389 97 396 97 402 c 257
+ 98 421 100 439 118 450 c 256
+ 139 463 145 466 174 480 c 257
+ 187 487 201 502 201 531 c 256
+ 201 588 142 677 70 677 c 256
+ 59 677 44 666 44 655 c 256
+ 44 639 58 613 72 613 c 256
+ 127 613 168 588 168 555 c 256
+ 168 538 146 520 128 512 c 256
+ 88 493 62 479 62 458 c 256
+ 62 431 69 419 73 406 c 256
+ 76 396 82 389 87 389 c 256
+92 272 m 256
+ 114 272 131 289 131 311 c 256
+ 131 333 114 350 92 350 c 256
+ 70 350 53 333 53 311 c 256
+ 53 289 70 272 92 272 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-question.ordn+AAoA"
 EndChar

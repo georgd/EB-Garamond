@@ -1,0 +1,35 @@
+StartChar: ordmasculine
+Encoding: 1180 186 1179
+GlifName: ordmasculine
+Width: 397
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+46 159 m 258
+ 283 159 l 258
+ 302 159 324 177 324 190 c 256
+ 324 199 314 206 306 206 c 258
+ 59 206 l 258
+ 43 206 28 186 28 175 c 256
+ 28 168 37 159 46 159 c 258
+EndSplineSet
+Refer: 1128 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vo.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" ordmasculine.sc
+Comment: "+AAoA-ordmasculine+AAoA"
+EndChar

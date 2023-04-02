@@ -1,13 +1,70 @@
 StartChar: uni1FEA
-Encoding: 8170 8170 741
+Encoding: 2777 8170 2776
 GlifName: uni1F_E_A_
-Width: 823
+Width: 864
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top.cap" 490 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+51 513 m 256
+ 57 503 67 491 75 491 c 256
+ 84 491 84 495 84 504 c 256
+ 84 522 53 644 43 680 c 256
+ 40 692 26 698 18 698 c 256
+ -1 698 -20 673 -20 657 c 256
+ -20 647 30 549 51 513 c 256
+676 650 m 256
+ 526 650 453 452 449 452 c 256
+ 445 452 404 650 254 650 c 256
+ 191 650 129 591 116 575 c 256
+ 103 560 104 553 104 553 c 257
+ 104 549 111 546 114 549 c 256
+ 139 573 185 600 234 600 c 256
+ 360 600 409 405 409 287 c 258
+ 409 108 l 258
+ 409 60 381 33 331 24 c 256
+ 308 20 298 15 298 6 c 256
+ 298 -2 310 -5 327 -5 c 256
+ 381 -5 405 0 455 0 c 256
+ 501 0 518 -5 572 -5 c 256
+ 589 -5 601 -2 601 6 c 256
+ 601 15 591 20 568 24 c 256
+ 518 33 489 63 489 108 c 258
+ 489 288 l 258
+ 489 450 555 600 689 600 c 256
+ 730 600 772 589 803 567 c 256
+ 806 565 812 569 812 573 c 256
+ 812 577 805 585 801 589 c 256
+ 774 616 737 650 676 650 c 256
+EndSplineSet
 Fore
-Refer: 2695 -1 N 1 0 0 1 -34 35 2
-Refer: 641 933 N 1 0 0 1 84 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Upsilon gravecomb.grk
+Refer: 424 933 N 1 0 0 1 125 0 2
+Refer: 935 -1 N 1 0 0 1 66 24 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VUpsilon
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VUpsilon
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1FEA+AAoA"
 EndChar

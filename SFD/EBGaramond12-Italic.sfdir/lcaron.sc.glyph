@@ -1,11 +1,18 @@
 StartChar: lcaron.sc
-Encoding: 66259 -1 1851
-Width: 379
+Encoding: 1038 -1 1037
+GlifName: lcaron.sc
+Width: 470
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 253 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2143 -1 N 1 0 0 1 296 -114 2
-Refer: 1682 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 248 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-lcaron.sc+AAoA"
 EndChar

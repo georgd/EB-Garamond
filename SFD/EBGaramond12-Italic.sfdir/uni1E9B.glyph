@@ -1,12 +1,47 @@
 StartChar: uni1E9B
-Encoding: 7835 7835 507
-Width: 249
+Encoding: 2298 7835 2297
+GlifName: uni1E_9B_
+Width: 347
 VWidth: 0
-Flags: HM
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+469 875 m 256
+ 437 875 413 846 413 814 c 256
+ 413 794 428 775 448 775 c 256
+ 478 775 503 802 503 832 c 256
+ 503 853 490 875 469 875 c 256
+287 532 m 256
+ 315 596 356 664 409 665 c 256
+ 459 665 474 640 474 618 c 256
+ 474 604 483 590 494 590 c 256
+ 515 590 536 626 536 651 c 256
+ 536 696 476 706 433 706 c 256
+ 360 706 253 621 172 411 c 256
+ 136 318 69 69 38 -58 c 256
+ 2 -206 -27 -240 -62 -240 c 256
+ -104 -240 -124 -191 -150 -191 c 256
+ -164 -191 -186 -220 -186 -244 c 256
+ -186 -266 -140 -288 -90 -288 c 256
+ -37 -288 68 -216 118 0 c 256
+ 158 172 200 333 287 532 c 256
+EndSplineSet
 Fore
-Refer: 122 775 N 1 0 0 1 403 262 2
-Refer: 19 383 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" longs uni0307
+Refer: 1053 383 N 1 0 0 1 0 0 2
+Refer: 730 729 N 1 0 0 1 217 232 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vf
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uni1E9B+AAoA"
 EndChar

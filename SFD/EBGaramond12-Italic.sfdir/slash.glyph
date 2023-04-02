@@ -1,23 +1,30 @@
 StartChar: slash
-Encoding: 47 47 96
-Width: 370
+Encoding: 1367 47 1366
+GlifName: slash
+Width: 276
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-13 -47 m 26
- 415 648 l 26
- 424 663 439 665 456 665 c 24
- 463 665 467 654 463 648 c 26
- 61 -47 l 26
- 53 -61 39 -62 23 -62 c 24
- 16 -62 9 -53 13 -47 c 26
+-46 -62 m 256
+ -30 -62 -16 -61 -8 -47 c 258
+ 394 648 l 257
+ 398 654 394 665 387 665 c 256
+ 370 665 355 663 346 648 c 258
+ -56 -47 l 257
+ -60 -53 -53 -62 -46 -62 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "frac_slash subtable" fraction
-Substitution2: "sups subtable" slash.sups
-Substitution2: "sinf subtable" slash.sinf
-Substitution2: "ordn subtable" slash.ordn
-Substitution2: "subs subtable" slash.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" slash.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" slash.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" slash.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" slash.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" slash.subs
+Comment: "+AAoA-slash+AAoA"
 EndChar

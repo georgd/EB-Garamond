@@ -1,0 +1,51 @@
+StartChar: uni1EC0
+Encoding: 2335 7872 2334
+GlifName: uni1E_C_0
+Width: 599
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 250 -30 basechar 0
+AnchorPoint: "top.cap" 584 823 basechar 0
+LayerCount: 2
+Fore
+Refer: 81 69 N 1 0 0 1 0 0 2
+Refer: 1770 -1 N 1 0 0 1 255 0 2
+Refer: 907 -1 N 1 0 0 1 62 68 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VE
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0302.cap
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vgravecomb.capstack
+p11
+sasVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1EC0+AAoA"
+EndChar

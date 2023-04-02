@@ -1,0 +1,45 @@
+StartChar: Theta
+Encoding: 389 920 388
+GlifName: T_heta
+Width: 692
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 278 -30 basechar 0
+AnchorPoint: "top.cap" 501 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+430 219 m 256
+ 446 219 452 235 454 249 c 256
+ 461 297 498 377 523 427 c 256
+ 529 439 522 445 514 445 c 256
+ 502 445 493 436 480 421 c 256
+ 465 403 452 395 436 395 c 258
+ 384 395 l 258
+ 361 395 356 411 355 426 c 256
+ 354 438 347 445 338 445 c 256
+ 328 445 319 441 311 421 c 256
+ 304 403 247 274 233 252 c 256
+ 225 240 227 220 239 220 c 256
+ 249 220 263 235 269 240 c 256
+ 292 259 304 274 334 274 c 258
+ 371 274 l 258
+ 399 274 408 261 411 248 c 256
+ 415 231 420 219 430 219 c 256
+EndSplineSet
+Refer: 277 79 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VO
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-Theta+AAoA"
+EndChar

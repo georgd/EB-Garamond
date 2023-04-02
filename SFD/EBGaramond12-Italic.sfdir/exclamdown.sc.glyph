@@ -1,11 +1,25 @@
 StartChar: exclamdown.sc
-Encoding: 66109 -1 1701
-Width: 282
+Encoding: 822 -1 821
+GlifName: exclamdown.sc
+Width: 287
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 67 161 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 815 -1 N -1 0 0 -1 304 457 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|exclam.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|exclam.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-exclamdown.sc+AAoA"
 EndChar

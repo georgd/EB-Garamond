@@ -1,32 +1,65 @@
 StartChar: equal
-Encoding: 61 61 83
-Width: 442
+Encoding: 817 61 816
+GlifName: equal
+Width: 643
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+539 364 m 258
+ 86 364 l 258
+ 68 364 62 335 62 326 c 256
+ 62 320 69 314 76 314 c 258
+ 521 314 l 258
+ 540 314 546 333 552 350 c 257
+ 552 351 553 352 553 353 c 256
+ 553 359 545 364 539 364 c 258
+539 193 m 258
+ 86 193 l 258
+ 68 193 62 164 62 155 c 256
+ 62 149 69 143 76 143 c 258
+ 521 143 l 258
+ 540 143 546 162 552 179 c 257
+ 552 180 553 181 553 182 c 256
+ 553 188 545 193 539 193 c 258
+64 217 m 258
+ 592 217 l 258
+ 613 217 630 248 630 267 c 256
+ 630 277 618 285 603 285 c 258
+ 78 285 l 258
+ 54 285 45 246 45 232 c 256
+ 45 226 54 217 64 217 c 258
+EndSplineSet
 Fore
 SplineSet
-66 196 m 2
- 384 196 l 2
- 388 196 394 192 394 182 c 2
- 394 179 l 1
- 393 178 l 1
- 389 161 385 140 371 140 c 2
- 59 140 l 2
- 54 140 49 145 49 155 c 0
- 49 166 53 196 66 196 c 2
-66 366 m 2
- 384 366 l 2
- 388 366 394 362 394 352 c 0
- 394 348 393 349 393 349 c 1
- 393 348 l 1
- 389 331 385 310 371 310 c 2
- 59 310 l 2
- 54 310 49 315 49 325 c 0
- 49 336 53 366 66 366 c 2
+61 316 m 258
+ 566 316 l 258
+ 583 316 598 342 598 358 c 256
+ 598 367 588 374 575 374 c 258
+ 73 374 l 258
+ 52 374 45 341 45 329 c 256
+ 45 324 52 316 61 316 c 258
+61 133 m 258
+ 566 133 l 258
+ 583 133 598 159 598 175 c 256
+ 598 184 588 191 575 191 c 258
+ 73 191 l 258
+ 52 191 45 158 45 146 c 256
+ 45 141 52 133 61 133 c 258
 EndSplineSet
-Substitution2: "sups subtable" equal.sups
-Substitution2: "sinf subtable" equal.sinf
-Substitution2: "ordn subtable" equal.ordn
-Substitution2: "subs subtable" equal.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" equal.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" equal.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" equal.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" equal.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" equal.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" equal.subs
+Comment: "+AAoA-equal+AAoA"
 EndChar

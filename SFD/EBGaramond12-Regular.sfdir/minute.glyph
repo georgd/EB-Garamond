@@ -1,19 +1,25 @@
 StartChar: minute
-Encoding: 8242 8242 772
+Encoding: 1132 8242 1131
 GlifName: minute
 Width: 178
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-79 633 m 0
- 87 663.400390625 112.184570312 676 137 676 c 0
- 147 676 148 669 148 657 c 0
- 148 631 102 516.400024414 75 469 c 0
- 68.5656008738 457.704049049 61 444 51 444 c 0
- 41 444 40 452 40 461 c 0
- 40 478 74.0693359375 614.262695312 79 633 c 0
+51 444 m 256
+ 61 444 68.566 457.704 75 469 c 256
+ 102 516.4 148 631 148 657 c 256
+ 148 669 147 676 137 676 c 256
+ 112.185 676 87 663.4 79 633 c 256
+ 74.069 614.263 40 478 40 461 c 256
+ 40 452 41 444 51 444 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-minute+AAoA"
 EndChar

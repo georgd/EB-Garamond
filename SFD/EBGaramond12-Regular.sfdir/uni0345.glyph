@@ -1,24 +1,42 @@
 StartChar: uni0345
-Encoding: 837 837 2703
+Encoding: 2038 837 2037
 GlifName: uni0345
 Width: 0
-GlyphClass: 4
-Flags: HMW
-AnchorPoint: "grk_bottom" 76 -151 mark 0
-LayerCount: 3
+VWidth: 0
+AnchorPoint: "bottom" -26 -30 mark 0
+LayerCount: 2
+Back
+SplineSet
+-7 -219 m 256
+ 43 -219 66 -180 66 -171 c 256
+ 66 -165 62 -162 56 -162 c 256
+ 53 -162 38 -169 17 -169 c 256
+ 3 -169 0 -156 0 -131 c 256
+ 0 -115 6 -91 6 -79 c 256
+ 6 -71 1 -67 -9 -68 c 258
+ -39 -70 l 257
+ -56 -73 -66 -84 -66 -140 c 256
+ -66 -190 -41 -219 -7 -219 c 256
+EndSplineSet
 Fore
 SplineSet
-106 -127 m 0
- 106 -152 109 -160 123 -160 c 0
- 144 -160 159 -146 162 -146 c 0
- 171 -146 172 -151 172 -162 c 0
- 172 -171 149 -222 99 -222 c 0
- 65 -222 40 -190 40 -140 c 0
- 40 -94 43 -61 74 -61 c 0
- 97 -61 110 -68 110 -87 c 0
- 110 -99 106 -111 106 -127 c 0
+-7 -219 m 256
+ 38 -219 65 -190 65 -170 c 256
+ 65 -164 61 -161 55 -161 c 256
+ 52 -161 38 -169 22 -168 c 256
+ -1 -167 1 -123 7 -79 c 256
+ 8 -71 2 -67 -8 -68 c 258
+ -39 -70 l 257
+ -56 -73 -66 -84 -66 -140 c 256
+ -66 -190 -41 -219 -7 -219 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" uni0345.sc
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni0345.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni0345.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni0345.sc
+Comment: "+AAoA-uni0345+AAoA"
 EndChar

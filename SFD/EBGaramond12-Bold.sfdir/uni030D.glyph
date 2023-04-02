@@ -1,0 +1,35 @@
+StartChar: uni030D
+Encoding: 1953 781 1952
+GlifName: uni030D_
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+27 657 m 258
+ 27 519 l 258
+ 27 510 32 500 40 500 c 256
+ 55.049 500 73 513 73 520 c 258
+ 73 659 l 258
+ 73 667 68 675 60 675 c 256
+ 51 675 27 665 27 657 c 258
+EndSplineSet
+Fore
+SplineSet
+-15 497 m 256
+ 7 497 33 516 33 526 c 258
+ 33 667 l 258
+ 33 678 25 690 14 690 c 256
+ 1 690 -34 675 -34 664 c 258
+ -34 525 l 258
+ -34 512 -27 497 -15 497 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030D+AAoA"
+EndChar

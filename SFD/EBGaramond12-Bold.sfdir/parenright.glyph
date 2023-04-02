@@ -1,25 +1,48 @@
 StartChar: parenright
-Encoding: 41 41 91
-Width: 295
+Encoding: 1257 41 1256
+GlifName: parenright
+Width: 302
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+LayerCount: 2
+Back
 SplineSet
-246 279 m 0
- 246 107 144 -141 79 -212 c 0
- 75 -216 69 -218 63 -218 c 0
- 51 -218 35 -211 35 -197 c 0
- 35 -191 40 -184 42 -181 c 0
- 92 -110 154 97 154 265 c 0
- 154 433 94 603 44 674 c 0
- 42 677 38 683 38 689 c 0
- 38 702 54 704 63 704 c 0
- 72 704 79 701 86 694 c 0
- 151 623 246 451 246 279 c 0
+46 -215 m 256
+ 57 -215 68 -211 77 -202 c 256
+ 146 -132 250 100 250 267 c 256
+ 250 435 152 616 83 686 c 256
+ 72 697 52 706 33 706 c 256
+ 20 706 -7 693 -7 677 c 256
+ -7 673 13 646 17 642 c 257
+ 76 578 145 441 145 270 c 256
+ 145 124 85 -75 26 -139 c 257
+ 22 -143 -3 -171 -3 -174 c 256
+ -3 -200 22 -215 46 -215 c 256
 EndSplineSet
-Substitution2: "sups subtable" parenright.sups
-Substitution2: "sinf subtable" parenright.sinf
-Substitution2: "ordn subtable" parenright.ordn
-Substitution2: "subs subtable" parenright.subs
+Fore
+Refer: 1250 40 N -1 0 0 1 302 0 2
+Validated: 17
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|parenleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|parenleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'ss04' Style Set 4 lookup 33 subtable" uni2767
+Substitution2: "'ss02' Style Set 2 lookup 30 subtable" uni261E
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" parenright.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" parenright.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" parenright.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" parenright.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" parenright.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" parenright.subs
+Comment: "+AAoA-parenright+AAoA"
 EndChar

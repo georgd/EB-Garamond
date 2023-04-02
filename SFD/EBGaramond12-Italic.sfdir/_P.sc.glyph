@@ -1,12 +1,45 @@
 StartChar: P.sc
-Encoding: 66062 -1 1654
-Width: 489
+Encoding: 317 -1 316
+GlifName: P_.sc
+Width: 500
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 120 -100 basechar 0
-AnchorPoint: "top_accent" 371 580 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1686 -1 N 1 0 0 1 0 0 2
-Comment: "."
+SplineSet
+-6 -5 m 256
+ 44 -5 67 0 114 0 c 256
+ 156 0 172 -5 222 -5 c 256
+ 238 -5 252 -2 252 6 c 256
+ 252 15 247 20 227 24 c 256
+ 183 33 161 51 174 97 c 258
+ 261 396 l 258
+ 269 422 278 429 311 429 c 256
+ 375 429 401 386 401 325 c 256
+ 401 246 326 201 248 194 c 256
+ 240 193 230 189 230 181 c 256
+ 230 170 253 168 263 168 c 256
+ 370 168 484 225 484 332 c 256
+ 484 403 412 456 317 456 c 256
+ 297 456 259 450 230 449 c 256
+ 197 448 195 452 145 452 c 256
+ 129 452 115 449 115 441 c 256
+ 115 432 119 425 139 421 c 256
+ 183 412 195 396 180 349 c 258
+ 102 97 l 258
+ 88 51 55 33 6 24 c 256
+ -17 20 -30 15 -30 6 c 256
+ -30 -2 -22 -5 -6 -5 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH.sc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-P.sc+AAoA"
 EndChar

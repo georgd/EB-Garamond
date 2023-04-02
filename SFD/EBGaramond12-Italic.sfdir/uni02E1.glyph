@@ -1,27 +1,58 @@
 StartChar: uni02E1
-Encoding: 737 737 620
-Width: 138
+Encoding: 1766 737 1765
+GlifName: uni02E_1
+Width: 192
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
-Fore
+Back
 SplineSet
-192 320 m 2
- 187 304 200 302 211 298 c 0
- 217 296 222 289 220 283 c 0
- 218 277 206 273 203 273 c 2
- 101 273 l 2
- 98 273 88 277 90 283 c 0
- 92 289 102 296 109 298 c 0
- 122 302 136 304 141 320 c 2
- 230 608 l 2
- 233 617 233 648 215 652 c 8
- 208 654 214 672 222 674 c 16
- 255 681 277 691 299 698 c 0
- 299 698 299 698 300 698 c 0
- 304 698 311 696 310 694 c 0
- 308 687 298 666 281 612 c 2
- 192 320 l 2
+187 320 m 258
+ 276 612 l 258
+ 293 666 303 687 305 694 c 257
+ 306 696 299 698 295 698 c 258
+ 294 698 l 257
+ 272 691 250 681 217 674 c 257
+ 209 672 203 654 210 652 c 257
+ 228 648 228 617 225 608 c 258
+ 136 320 l 258
+ 131 304 117 302 104 298 c 256
+ 97 296 87 289 85 283 c 256
+ 83 277 93 273 96 273 c 258
+ 198 273 l 258
+ 201 273 213 277 215 283 c 256
+ 217 289 212 296 206 298 c 256
+ 195 302 182 304 187 320 c 258
 EndSplineSet
-Validated: 33
+Fore
+Refer: 1027 -1 N 1 0 0 1 -2 -7 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vl.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vl.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vl.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni02E1+AAoA"
 EndChar

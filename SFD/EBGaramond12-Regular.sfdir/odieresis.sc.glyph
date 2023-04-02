@@ -1,13 +1,41 @@
 StartChar: odieresis.sc
-Encoding: 1114776 -1 1775
+Encoding: 1187 -1 1186
 GlifName: odieresis.sc
 Width: 616
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 312 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+224 658 m 256
+ 199 658 174 633 174 608 c 256
+ 174 583 199 558 224 558 c 256
+ 249 558 274 583 274 608 c 256
+ 274 633 249 658 224 658 c 256
+401 658 m 256
+ 376 658 351 633 351 608 c 256
+ 351 583 376 558 401 558 c 256
+ 426 558 451 583 451 608 c 256
+ 451 633 426 658 401 658 c 256
+60 222 m 256
+ 60 93 169 -14 302 -14 c 256
+ 466 -14 556 103 556 226 c 256
+ 556 360 433 458 302 458 c 256
+ 175 458 60 342 60 222 c 256
+296 426 m 256
+ 400 426 466 318 466 217 c 256
+ 466 138 433 22 318 22 c 256
+ 206 22 150 120 150 237 c 256
+ 150 332 202 426 296 426 c 256
+EndSplineSet
 Fore
-Refer: 2783 -1 N 1 0 0 1 160 84 2
-Refer: 1681 -1 N 1 0 0 1 0 0 3
-Validated: 1
-Comment: "."
+Refer: 295 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-odieresis.sc+AAoA"
 EndChar

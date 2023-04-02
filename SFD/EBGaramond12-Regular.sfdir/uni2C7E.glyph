@@ -1,23 +1,43 @@
 StartChar: uni2C7E
-Encoding: 11390 11390 3010
+Encoding: 3065 11390 3064
 GlifName: uni2C_7E_
 Width: 465
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 226 -30 basechar 0
+AnchorPoint: "top.cap" 269 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+313 -200 m 256
+ 381 -200 416 -182 416 -151 c 256
+ 416 -128 392 -104 377 -104 c 256
+ 360 -104 344 -111 330 -129 c 256
+ 313 -151 300 -159 283 -159 c 256
+ 208 -159 233 18 135 18 c 257
+ 81 18 l 257
+ 190 -22 140 -200 313 -200 c 256
+EndSplineSet
 Fore
 SplineSet
-172 6 m 1
- 217 -42 233 -206 282 -206 c 0
- 306 -206 310 -188 310 -175 c 0
- 310 -164 290 -146 290 -137 c 0
- 290 -119 332 -87 353 -87 c 0
- 361 -87 362 -105 362 -118 c 0
- 362 -181 328 -238 256 -238 c 0
- 160 -238 161 -48 110 0 c 0
- 172 6 l 1
+313 -220 m 256
+ 387 -220 415 -198 415 -162 c 256
+ 415 -143 398 -124 377 -124 c 256
+ 360 -124 344 -131 330 -149 c 256
+ 313 -171 300 -183 283 -183 c 256
+ 260 -183 244 -139 232 -89 c 256
+ 221 -43 212 10 157 10 c 257
+ 81 18 l 257
+ 135 -2 150 -55 172 -104 c 256
+ 195 -154 225 -220 313 -220 c 256
 EndSplineSet
-Refer: 45 83 N 1 0 0 1 0 0 2
-Refer: 45 83 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 355 83 N 1 0 0 1 0 0 2
+Guideline: "" "" 421 85 90 0 0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2C7E+AAoA"
 EndChar

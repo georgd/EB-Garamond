@@ -1,19 +1,24 @@
 StartChar: uni0305
-Encoding: 773 773 983
+Encoding: 1781 773 1780
+GlifName: uni0305
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 200 550 mark 0
 LayerCount: 2
 Fore
 SplineSet
-4 532 m 0
- 4 543 23 583 42 583 c 26
- 379 583 l 18
- 384 583 388 579 388 574 c 0
- 388 551 357 523 344 523 c 26
- 14 523 l 18
- 8 523 4 527 4 532 c 0
+-73 523 m 258
+ 257 523 l 258
+ 270 523 301 551 301 574 c 256
+ 301 579 297 583 292 583 c 258
+ -45 583 l 258
+ -64 583 -83 543 -83 532 c 256
+ -83 527 -79 523 -73 523 c 258
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0305+AAoA"
 EndChar

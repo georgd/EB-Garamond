@@ -1,12 +1,48 @@
 StartChar: notequal
-Encoding: 8800 8800 568
+Encoding: 1162 8800 1161
 GlifName: notequal
-Width: 590
+Width: 566
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 95 47 N 1 0 0 1 96 -48 2
-Refer: 98 61 N 1 0 0 1 0 0 3
-Validated: 5
+SplineSet
+139 -20 m 256
+ 155 -20 169 -19 177 -5 c 258
+ 450 485 l 257
+ 454 491 450 502 443 502 c 256
+ 426 502 411 500 402 485 c 258
+ 129 -5 l 257
+ 125 -11 132 -20 139 -20 c 256
+EndSplineSet
+Refer: 816 61 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vequal
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vequal
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vequal
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-notequal+AAoA"
 EndChar

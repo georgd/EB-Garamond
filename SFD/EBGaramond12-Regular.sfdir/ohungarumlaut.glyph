@@ -1,14 +1,50 @@
 StartChar: ohungarumlaut
-Encoding: 337 337 245
+Encoding: 1195 337 1194
 GlifName: ohungarumlaut
 Width: 495
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -30 basechar 0
+AnchorPoint: "top" 254 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+190 478 m 256
+ 221 511 308 612 308 626 c 256
+ 308 642 284 649 259 649 c 256
+ 249 649 238 641 232 631 c 256
+ 213 598 151 484 151 469 c 256
+ 151 460 151 456 160 456 c 256
+ 168 456 182 469 190 478 c 256
+314 478 m 256
+ 345 511 432 612 432 626 c 256
+ 432 642 408 649 383 649 c 256
+ 373 649 362 641 356 631 c 256
+ 337 598 275 484 275 469 c 256
+ 275 460 275 456 284 456 c 256
+ 292 456 306 469 314 478 c 256
+254 414 m 256
+ 131 414 35 298 35 187 c 256
+ 35 70 122 -14 234 -14 c 256
+ 384 -14 460 96 460 213 c 256
+ 460 321 370 414 254 414 c 256
+237 383 m 256
+ 322 383 378 284 378 189 c 256
+ 378 150 374 102 358 71 c 256
+ 338 32 300 16 255 16 c 256
+ 175 16 117 111 117 210 c 256
+ 117 258 122 309 149 343 c 256
+ 173 374 201 383 237 383 c 256
+EndSplineSet
 Fore
-Refer: 123 779 N 1 0 0 1 137 0 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" ohungarumlaut.sc
-MultipleSubs2: "CCMP_Precomp subtable" o uni030B
+Refer: 1172 111 N 1 0 0 1 0 0 2
+Refer: 1939 779 N 1 0 0 1 297 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" ohungarumlaut.sc
+Comment: "+AAoA-ohungarumlaut+AAoA"
 EndChar

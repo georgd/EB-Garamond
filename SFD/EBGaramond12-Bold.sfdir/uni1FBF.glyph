@@ -1,0 +1,41 @@
+StartChar: uni1FBF
+Encoding: 2738 8127 2737
+GlifName: uni1F_B_F_
+Width: 245
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 102 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+75 476 m 256
+ 113 476 203 508 203 601 c 256
+ 203 669 159 709 106 709 c 256
+ 69 709 41 689 41 656 c 256
+ 41 622 65 613 90 606 c 256
+ 109 601 126 593 126 572 c 256
+ 126 543 104 521 74 513 c 256
+ 59 509 45 502 45 492 c 256
+ 45 482 58 476 75 476 c 256
+EndSplineSet
+Fore
+SplineSet
+75 474 m 256
+ 113 474 203 512 203 612 c 256
+ 203 673 159 712 106 712 c 256
+ 69 712 42 695 42 662 c 256
+ 42 628 65 621 90 611 c 256
+ 109 603 126 589 126 568 c 256
+ 126 539 106 518 67 508 c 256
+ 52 504 47 499 47 489 c 256
+ 47 479 58 474 75 474 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FBF+AAoA"
+EndChar

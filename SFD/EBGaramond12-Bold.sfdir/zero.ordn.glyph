@@ -1,0 +1,42 @@
+StartChar: zero.ordn
+Encoding: 3209 -1 3208
+GlifName: zero.ordn
+Width: 351
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+166 263 m 256
+ 258 263 309 358 309 449 c 256
+ 309 530 265 615 184 615 c 256
+ 95 615 39 527 39 438 c 256
+ 39 354 82 263 166 263 c 256
+177 285 m 256
+ 106 285 99 378 99 449 c 256
+ 99 511 111 590 173 590 c 256
+ 240 590 249 504 249 437 c 256
+ 249 371 243 285 177 285 c 256
+EndSplineSet
+Fore
+SplineSet
+172 263 m 256
+ 255 263 321 322 321 444 c 256
+ 321 545 264 616 179 616 c 256
+ 88 616 30 546 30 436 c 256
+ 30 331 92 263 172 263 c 256
+180 297 m 256
+ 151 297 137 373 137 444 c 256
+ 137 516 145 581 171 581 c 256
+ 200 581 215 507 215 435 c 256
+ 215 362 205 297 180 297 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-zero.ordn+AAoA"
+EndChar

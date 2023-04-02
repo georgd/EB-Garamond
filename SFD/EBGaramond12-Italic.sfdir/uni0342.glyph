@@ -1,24 +1,18 @@
 StartChar: uni0342
-Encoding: 834 834 2098
+Encoding: 1896 834 1895
+GlifName: uni0342
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_stack" 152 474 mark 0
-AnchorPoint: "top_stack" 152 632 basemark 0
-AnchorPoint: "top_accent" 165 550 mark 0
-AnchorPoint: "grk_uc_top_left" 213 517 mark 0
 LayerCount: 2
 Fore
-SplineSet
-40 488 m 0
- 30 488 26 498 26 508 c 0
- 26 518 89 586 114 586 c 0
- 139 586 196 578 221 578 c 0
- 256 578 270 612 278 612 c 0
- 288 612 294 605 294 595 c 0
- 294 585 234 518 209 518 c 0
- 184 518 122 525 97 525 c 0
- 72 525 48 488 40 488 c 0
-EndSplineSet
-Validated: 1
+Refer: 2573 8128 N 1 0 0 1 -147 -17 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" uni0342.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" uni0342.sc
+Comment: "+AAoA-uni0342+AAoA"
 EndChar

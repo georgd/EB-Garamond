@@ -1,14 +1,66 @@
 StartChar: uni247E
-Encoding: 9342 9342 885
+Encoding: 2956 9342 2955
 GlifName: uni247E_
-Width: 1209
+Width: 1213
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 108 41 N 1 0 0 1 893 0 2
-Refer: 50 49 N 1 0 0 1 604 0 2
-Refer: 50 49 N 1 0 0 1 315 0 2
-Refer: 107 40 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1250 40 N 1 0 0 1 0 0 2
+Refer: 1256 41 N 1 0 0 1 893 0 2
+Refer: 1213 -1 N 1 0 0 1 315 0 2
+Refer: 1213 -1 N 1 0 0 1 604 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vparenleft
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vparenright
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vone.osf
+p11
+sa(dp12
+g4
+I-1
+sg5
+I3
+sg6
+Vone.osf
+p13
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p14
+Vparenleft
+p15
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p16
+Vparenright
+p17
+sVpublic.markColor
+p18
+V0.67,0.95,0.38,1
+p19
+s."
+Comment: "+AAoA-uni247E+AAoA"
 EndChar

@@ -1,17 +1,11 @@
 StartChar: uni2216
-Encoding: 8726 8726 873
-Width: 370
-Flags: MW
+Encoding: 2769 8726 2768
+GlifName: uni2216
+Width: 410
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-378 -47 m 2
- 381 -55 371 -62 362 -62 c 0
- 347 -62 332 -61 326 -47 c 2
- 29 648 l 2
- 26 656 34 665 42 665 c 0
- 59 665 74 663 81 648 c 2
- 378 -47 l 2
-EndSplineSet
-Validated: 1
+Refer: 594 92 N 1 0 0 1 0 0 2
+Comment: "+AAoA-uni2216+AAoA"
 EndChar

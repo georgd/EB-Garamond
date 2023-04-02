@@ -1,11 +1,25 @@
 StartChar: braceright.ordn
-Encoding: 65903 -1 1495
-Width: 242
-VWidth: 280
-Flags: MW
+Encoding: 617 -1 616
+GlifName: braceright.ordn
+Width: 260
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1291 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+Refer: 610 -1 N -1 0 0 -1 414 897 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|braceleft.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|braceleft.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-braceright.ordn+AAoA"
 EndChar

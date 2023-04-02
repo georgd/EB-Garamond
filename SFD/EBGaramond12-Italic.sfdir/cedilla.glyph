@@ -1,9 +1,19 @@
 StartChar: cedilla
-Encoding: 184 184 112
-Width: 176
+Encoding: 667 184 666
+GlifName: cedilla
+Width: 200
 VWidth: 0
-Flags: HMW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 626 807 N 1 0 0 1 -76 -15 2
+Refer: 1861 -1 N 1 0 0 1 105 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" cedilla.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" cedilla.sc
+Comment: "+AAoA-cedilla+AAoA"
 EndChar

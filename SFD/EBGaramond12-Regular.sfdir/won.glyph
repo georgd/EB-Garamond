@@ -1,0 +1,27 @@
+StartChar: won
+Encoding: 3164 8361 3163
+GlifName: won
+Width: 916
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 453 -30 basechar 0
+AnchorPoint: "top.cap" 510 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+54 309 m 258
+ 874 316 l 258
+ 891 316 899 330 905 346 c 257
+ 908 353 899 360 892 360 c 258
+ 64 347 l 258
+ 50 347 40 330 40 321 c 256
+ 40 315 47 309 54 309 c 258
+EndSplineSet
+Refer: 442 87 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.98,0.36,0.67,1
+p2
+s."
+EndChar

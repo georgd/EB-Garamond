@@ -1,13 +1,41 @@
 StartChar: cdotaccent.sc
-Encoding: 1114797 -1 1796
+Encoding: 668 -1 667
 GlifName: cdotaccent.sc
 Width: 560
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 321 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+324 662 m 256
+ 294 662 268 637 268 607 c 256
+ 268 577 294 552 324 552 c 256
+ 354 552 378 577 378 607 c 256
+ 378 637 354 662 324 662 c 256
+338 458 m 256
+ 196 458 60 364 60 222 c 256
+ 60 83 188 -14 327 -14 c 256
+ 387 -14 470 10 477 23 c 256
+ 481 30 510 99 510 109 c 256
+ 510 119 508 121 503 121 c 256
+ 491 121 482 111 476 99 c 256
+ 451 49 389 21 340 21 c 256
+ 227 21 150 126 150 239 c 256
+ 150 339 225 427 325 427 c 256
+ 404 427 441 411 466 346 c 256
+ 472 331 475 320 483 320 c 256
+ 491 320 496 334 496 340 c 257
+ 495 371 490 433 478 437 c 256
+ 436 451 395 458 338 458 c 256
+EndSplineSet
 Fore
-Refer: 2782 -1 N 1 0 0 1 211 65 2
-Refer: 1669 -1 N 1 0 0 1 0 0 3
-Validated: 1
-Comment: "."
+Refer: 61 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-cdotaccent.sc+AAoA"
 EndChar

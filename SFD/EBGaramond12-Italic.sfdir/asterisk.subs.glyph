@@ -1,33 +1,25 @@
 StartChar: asterisk.subs
-Encoding: 65616 -1 1208
-Width: 594
+Encoding: 577 -1 576
+GlifName: asterisk.subs
+Width: 181
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-156 331 m 1
- 152 333 114 350 123 361 c 0
- 126 365 131 365 135 364 c 0
- 148 358 159 353 169 348 c 1
- 172 361 175 373 179 389 c 0
- 181 394 185 398 190 399 c 0
- 199 399 190 357 189 350 c 1
- 201 357 215 365 230 373 c 0
- 235 376 239 375 241 371 c 0
- 243 367 240 364 236 361 c 2
- 195 335 l 1
- 205 330 215 324 227 316 c 0
- 231 314 231 309 228 305 c 0
- 225 301 220 301 216 302 c 0
- 203 308 193 313 183 318 c 1
- 180 305 176 293 172 277 c 0
- 170 272 166 268 161 267 c 0
- 151 267 162 309 163 316 c 1
- 151 309 136 301 121 293 c 0
- 116 290 111 291 109 295 c 0
- 107 299 111 302 115 305 c 2
- 156 331 l 1
-EndSplineSet
-Validated: 33
+Refer: 573 -1 N 1 0 0 1 -81 -262 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vasterisk.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vasterisk.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-asterisk.subs+AAoA"
 EndChar

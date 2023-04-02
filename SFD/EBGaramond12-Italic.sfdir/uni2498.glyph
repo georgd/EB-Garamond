@@ -1,12 +1,27 @@
 StartChar: uni2498
-Encoding: 9368 9368 923
-Width: 983
+Encoding: 2819 9368 2818
+GlifName: uni2498
+Width: 943
 VWidth: 0
-Flags: M
+Flags: W
 LayerCount: 2
 Fore
-Refer: 39 46 N 1 0 0 1 768 0 2
-Refer: 80 55 N 1 0 0 1 338 0 2
-Refer: 50 49 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1164 -1 N 1 0 0 1 0 0 2
+Refer: 1343 -1 N 1 0 0 1 298 0 2
+Refer: 1222 46 N 1 0 0 1 728 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vone.osf
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vperiod
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni2498+AAoA"
 EndChar

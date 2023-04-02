@@ -1,24 +1,37 @@
 StartChar: gravecomb.grk
-Encoding: 1114988 -1 2695
+Encoding: 936 -1 935
 GlifName: gravecomb.grk
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "grk_hstack" 5 640 mark 0
-AnchorPoint: "top_stack" 86 523 mark 0
-AnchorPoint: "grk_top" 76 510 mark 0
-AnchorPoint: "grk_uc_top_left" 77 630 mark 0
-LayerCount: 3
+AnchorPoint: "top" 26 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+132 468 m 256
+ 137 469 138 471 138 475 c 256
+ 138 477 138 479 137 483 c 256
+ 133 500 76 612 58 645 c 256
+ 53 654 42 658 34 658 c 256
+ 32 658 31 657 29 657 c 256
+ 11 653 -2 624 2 608 c 256
+ 4 599 75 514 103 484 c 256
+ 111 476 124 466 132 468 c 256
+EndSplineSet
 Fore
 SplineSet
-85 478 m 0
- 64 514 14 612 14 622 c 0
- 14 638 33 663 52 663 c 0
- 60 663 74 657 77 645 c 0
- 87 609 118 487 118 469 c 0
- 118 460 118 456 109 456 c 0
- 101 456 91 468 85 478 c 0
+60 468 m 256
+ 68 468 69 474 67 483 c 256
+ 63 500 6 612 -12 645 c 256
+ -17 654 -28 658 -36 658 c 256
+ -56 658 -72 626 -68 608 c 256
+ -66 599 4 513 33 484 c 256
+ 41 476 52 468 60 468 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" gravecomb.grksc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gravecomb.grk+AAoA"
 EndChar

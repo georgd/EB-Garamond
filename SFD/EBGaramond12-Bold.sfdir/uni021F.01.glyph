@@ -1,0 +1,29 @@
+StartChar: uni021F.01
+Encoding: 1728 -1 1727
+GlifName: uni021F_.01
+Width: 569
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 281 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+116 748 m 256
+ 127 748 142 761 154 770 c 258
+ 240 836 l 258
+ 244 839 246 844 246 848 c 256
+ 246 854 241 859 232 859 c 256
+ 214 859 190 847 126 812 c 256
+ 118 808 114 808 106 812 c 256
+ 46 845 19 859 0 859 c 256
+ -9 859 -15 855 -15 849 c 256
+ -15 845 -13 841 -8 837 c 258
+ 78 770 l 258
+ 90 761 105 748 116 748 c 256
+EndSplineSet
+Fore
+Refer: 959 104 N 1 0 0 1 0 0 2
+Refer: 1948 -1 N 1 0 0 1 2 50 2
+Validated: 9
+Comment: "+AAoA-uni021F.01+AAoA"
+EndChar

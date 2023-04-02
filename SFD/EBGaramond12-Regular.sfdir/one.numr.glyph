@@ -1,0 +1,80 @@
+StartChar: one.numr
+Encoding: 1212 -1 1211
+GlifName: one.numr
+Width: 259
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+178 784 m 256
+ 172 784 119 742 68 737 c 257
+ 63 736 58 730 58 723 c 256
+ 58 718 61 713 69 710 c 256
+ 86 704 123 690 123 663 c 258
+ 123 510 l 258
+ 123 469 95 466 69 464 c 257
+ 61 464 58 459 58 453 c 256
+ 58 446 62 439 69 439 c 256
+ 123 439 119 444 151 444 c 256
+ 183 444 176 439 233 439 c 256
+ 241 439 245 445 245 451 c 256
+ 245 457 241 463 233 464 c 256
+ 189 470 185 471 183 510 c 256
+ 182 534 182 559 182 589 c 256
+ 182 617 183 671 183 716 c 256
+ 183 738 185 757 187 770 c 256
+ 188 778 184 784 178 784 c 256
+48 278 m 256
+ 102 278 98 281 130 281 c 256
+ 162 281 155 278 212 278 c 256
+ 220 278 224 286 224 293 c 256
+ 224 300 220 308 212 309 c 256
+ 168 315 158 317 158 352 c 258
+ 158 538 l 258
+ 158 570 162 594 164 608 c 256
+ 165 616 161 622 155 622 c 256
+ 153 622 148 620 146 618 c 256
+ 135 606 100 580 49 575 c 257
+ 44 574 39 568 39 561 c 256
+ 39 556 45 549 53 548 c 256
+ 79 544 106 529 106 502 c 258
+ 106 352 l 258
+ 106 311 75 311 48 309 c 257
+ 40 309 35 299 35 293 c 256
+ 35 285 41 278 48 278 c 256
+EndSplineSet
+Fore
+Refer: 1212 -1 N 1 0 0 1 0 2 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vone.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vone.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vone.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Substitution2: "Single Substitution lookup 14 subtable" one.dnom
+Substitution2: "Single Substitution lookup 13 subtable" one.dnom
+Comment: "+AAoA-uni00B9+AAoA"
+EndChar

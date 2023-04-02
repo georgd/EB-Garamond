@@ -1,0 +1,22 @@
+StartChar: iacute
+Encoding: 1002 237 1001
+GlifName: iacute
+Width: 306
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 150 -30 basechar 0
+AnchorPoint: "top" 152 440 basechar 0
+LayerCount: 2
+Fore
+Refer: 747 305 N 1 0 0 1 0 0 2
+Refer: 511 769 N 1 0 0 1 203 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" iacute.sc
+Comment: "+AAoA-iacute+AAoA"
+EndChar

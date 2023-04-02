@@ -1,11 +1,19 @@
 StartChar: uni028C
-Encoding: 652 652 2041
+Encoding: 1837 652 1836
 GlifName: uni028C_
 Width: 438
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 218 430 basechar 0
+AnchorPoint: "top" 220 -40 basechar 0
+LayerCount: 2
 Fore
-Refer: 22 118 N -1 0 0 -1 448 400 2
-Validated: 1
+Refer: 3138 118 N -1 0 0 -1 438 400 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni028C+AAoA"
 EndChar

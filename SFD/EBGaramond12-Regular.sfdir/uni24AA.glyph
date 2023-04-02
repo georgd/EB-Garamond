@@ -1,13 +1,80 @@
 StartChar: uni24AA
-Encoding: 9386 9386 929
+Encoding: 3000 9386 2999
 GlifName: uni24A_A_
 Width: 1116
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 563 -30 basechar 0
+AnchorPoint: "top" 570 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+1066 281 m 256
+ 1066 451 962 623 891 694 c 256
+ 884 701 877 704 867 704 c 256
+ 856 704 840 700 840 691 c 256
+ 840 688 845 682 848 679 c 256
+ 919 608 1006 437 1006 267 c 256
+ 1006 97 917 -110 846 -181 c 256
+ 843 -184 836 -192 836 -195 c 256
+ 836 -205 852 -213 866 -213 c 256
+ 873 -213 879 -211 883 -207 c 256
+ 954 -136 1066 111 1066 281 c 256
+569 414 m 256
+ 446 414 350 298 350 187 c 256
+ 350 70 437 -14 549 -14 c 256
+ 699 -14 775 96 775 213 c 256
+ 775 321 685 414 569 414 c 256
+552 383 m 256
+ 637 383 693 284 693 189 c 256
+ 693 150 689 102 673 71 c 256
+ 653 32 615 16 570 16 c 256
+ 490 16 432 111 432 210 c 256
+ 432 258 437 309 464 343 c 256
+ 488 374 516 383 552 383 c 256
+264 -192 m 256
+ 264 -190 250 -175 248 -173 c 256
+ 177 -102 100 111 100 281 c 256
+ 100 451 181 599 252 670 c 256
+ 254 672 265 687 265 689 c 256
+ 265 698 250 705 243 705 c 256
+ 233 705 222 700 216 694 c 256
+ 145 623 40 439 40 269 c 256
+ 40 99 149 -136 220 -207 c 256
+ 225 -212 231 -214 237 -214 c 256
+ 250 -214 264 -206 264 -192 c 256
+EndSplineSet
 Fore
-Refer: 108 41 N 1 0 0 1 800 0 2
-Refer: 3 111 N 1 0 0 1 315 0 2
-Refer: 107 40 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1172 111 N 1 0 0 1 316 0 2
+Refer: 1250 40 N 1 0 0 1 0 0 2
+Refer: 1256 41 N 1 0 0 1 801 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vo
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vparenleft
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vparenright
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni24AA+AAoA"
 EndChar

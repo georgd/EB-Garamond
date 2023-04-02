@@ -1,47 +1,79 @@
 StartChar: U
-Encoding: 85 85 48
-Width: 737
+Encoding: 392 85 391
+GlifName: U_
+Width: 700
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 397 8 basechar 0
-AnchorPoint: "ogonek" 475 18 basechar 0
-AnchorPoint: "below_accent" 355 -100 basechar 0
-AnchorPoint: "top_accent" 544 710 basechar 0
+Flags: W
+AnchorPoint: "bottom.cap" 308 -30 basechar 0
+AnchorPoint: "top.cap" 504 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+301 -14 m 256
+ 480 -14 559 99 615 254 c 256
+ 648 346 676 432 719 547 c 256
+ 734 587 754 614 789 622 c 256
+ 812 627 826 633 827 642 c 256
+ 828 650 819 653 803 653 c 256
+ 782 653 757 650 727 650 c 256
+ 700 650 677 651 649 651 c 256
+ 633 651 618 648 618 640 c 256
+ 618 631 630 624 642 620 c 256
+ 681 607 679 580 657 511 c 256
+ 632 434 606 344 593 300 c 256
+ 547 143 474 26 328 26 c 256
+ 230 26 152 90 196 238 c 258
+ 288 549 l 258
+ 300 589 334 616 350 621 c 256
+ 373 628 386 632 387 641 c 256
+ 388 649 380 652 364 652 c 256
+ 344 652 318 650 289 650 c 256
+ 254 650 228 653 200 653 c 256
+ 184 653 162 650 162 642 c 256
+ 162 633 173 626 193 620 c 256
+ 212 614 228 595 213 547 c 258
+ 123 251 l 258
+ 66 65 172 -14 301 -14 c 256
+EndSplineSet
 Fore
 SplineSet
-752 547 m 0
- 710 432 684 346 653 254 c 0
- 601 99 523 -14 344 -14 c 8
- 225 -14 104 55 152 222 c 2
- 246 547 l 2
- 260 595 244 614 225 620 c 0
- 205 626 193 633 193 642 c 0
- 193 650 215 653 231 653 c 0
- 259 653 285 650 320 650 c 24
- 349 650 375 652 395 652 c 0
- 411 652 418 649 418 641 c 0
- 418 632 405 628 382 621 c 0
- 366 616 333 589 321 549 c 2
- 234 238 l 2
- 193 90 272 26 370 26 c 16
- 516 26 579 144 627 300 c 0
- 640 344 666 434 688 511 c 0
- 703 562 707 612 683 620 c 0
- 671 624 658 631 658 640 c 0
- 658 648 673 651 689 651 c 0
- 717 651 731 650 758 650 c 24
- 788 650 813 653 834 653 c 0
- 850 653 858 650 858 642 c 0
- 858 633 844 627 821 622 c 0
- 786 615 766 587 752 547 c 0
+301 -14 m 256
+ 480 -14 559 99 615 254 c 256
+ 648 346 676 432 704 506 c 256
+ 742 608 756 614 789 622 c 256
+ 812 627 826 633 827 642 c 256
+ 828 650 819 653 803 653 c 256
+ 782 653 757 650 727 650 c 256
+ 700 650 653 651 625 651 c 256
+ 609 651 594 648 594 640 c 256
+ 594 631 608 625 620 622 c 256
+ 668 609 685 593 646 474 c 256
+ 633 434 604 344 582 269 c 256
+ 545 143 474 26 328 26 c 256
+ 230 26 152 90 196 238 c 258
+ 284 535 l 258
+ 300 590 329 615 350 621 c 256
+ 373 628 386 632 387 641 c 256
+ 388 649 380 652 364 652 c 256
+ 344 652 318 650 289 650 c 256
+ 254 650 228 653 200 653 c 256
+ 184 653 162 650 162 642 c 256
+ 162 633 173 626 193 620 c 256
+ 212 614 228 595 213 547 c 258
+ 123 251 l 258
+ 66 65 172 -14 301 -14 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "Swash subtable" U.sw
-Substitution2: "Single Substitution lookup 45 subtable" U.LAT
-Substitution2: "c2sc subtable" U.sc
-Substitution2: "sups subtable" U.sups
-Substitution2: "sinf subtable" U.sinf
-Substitution2: "ordn subtable" U.ordn
-Substitution2: "subs subtable" U.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" U.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" U.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" U.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" U.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" U.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" U.subs
+Comment: "+AAoA-U+AAoA"
 EndChar

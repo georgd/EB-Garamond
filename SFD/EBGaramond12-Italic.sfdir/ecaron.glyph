@@ -1,12 +1,55 @@
 StartChar: ecaron
-Encoding: 283 283 204
-Width: 365
+Encoding: 753 283 752
+GlifName: ecaron
+Width: 341
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 100 -30 basechar 0
+AnchorPoint: "top" 267 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+325 549 m 257
+ 322 545 318 544 316 549 c 256
+ 304 580 288 620 280 640 c 257
+ 275 651 270 657 263 657 c 256
+ 258 657 255 644 255 636 c 256
+ 255 626 268 531 278 492 c 256
+ 284 470 287 462 296 462 c 256
+ 306 462 328 483 346 504 c 256
+ 370 532 426 606 443 630 c 256
+ 447 636 450 642 450 648 c 256
+ 450 654 446 657 441 657 c 256
+ 436 657 425 648 418 641 c 256
+ 395 619 355 580 325 549 c 257
+127 -15 m 256
+ 197 -15 258 26 298 91 c 257
+ 300 94 300 97 300 99 c 256
+ 300 105 296 109 290 109 c 256
+ 285 109 278 106 272 98 c 256
+ 252 72 212 35 164 35 c 256
+ 130 35 114 62 114 112 c 256
+ 114 154 117 177 131 207 c 256
+ 135 215 138 217 146 217 c 256
+ 216 217 375 271 375 351 c 256
+ 375 392 355 414 301 414 c 256
+ 144 414 42 218 42 98 c 256
+ 42 22 88 -15 127 -15 c 256
+286 385 m 256
+ 306 385 314 371 314 353 c 256
+ 314 273 186 246 156 246 c 256
+ 151 246 149 246 149 252 c 256
+ 149 282 231 385 286 385 c 256
+EndSplineSet
 Fore
-Refer: 92 780 N 1 0 0 1 245 0 2
-Refer: 13 101 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" ecaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" e uni030C
+Refer: 738 101 N 1 0 0 1 0 0 2
+Refer: 656 711 N 1 0 0 1 97 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" ecaron.sc
+Comment: "+AAoA-ecaron+AAoA"
 EndChar

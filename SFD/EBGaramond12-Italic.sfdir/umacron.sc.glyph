@@ -1,11 +1,18 @@
 StartChar: umacron.sc
-Encoding: 66304 -1 1896
-Width: 579
+Encoding: 1490 -1 1489
+GlifName: umacron.sc
+Width: 574
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 394 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2456 -1 N 1 0 0 1 298 30 2
-Refer: 1691 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 418 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-umacron.sc+AAoA"
 EndChar

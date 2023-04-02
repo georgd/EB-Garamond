@@ -1,22 +1,39 @@
 StartChar: uni2092
-Encoding: 8338 8338 813
+Encoding: 2850 8338 2849
 GlifName: uni2092
 Width: 309
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-149 42 m 0
- 104 42 86 -1 86 -47 c 0
- 86 -102 116 -150 160 -150 c 0
- 204 -150 223 -108 223 -60 c 0
- 223 -8 194 42 149 42 c 0
-160 75 m 0
- 225 75 284 20 284 -45 c 0
- 284 -115 238 -181 148 -181 c 0
- 81 -181 25 -133 25 -61 c 0
- 25 13 86 75 160 75 c 0
-EndSplineSet
-Validated: 1
+Refer: 1173 -1 N 1 0 0 1 0 -456 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vo.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vo.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vo.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni2092+AAoA"
 EndChar

@@ -1,0 +1,44 @@
+StartChar: nine.osf
+Encoding: 1112 -1 1111
+GlifName: nine.osf
+Width: 391
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-84 -209 m 256
+ 114 -209 360 84 360 286 c 256
+ 360 351 317 414 267 414 c 256
+ 144 414 54 286 54 156 c 256
+ 54 110 90 47 154 47 c 256
+ 164 47 171 48 181 50 c 256
+ 191 52 200 46 196 37 c 257
+ 160 -35 29 -154 -61 -179 c 256
+ -79 -184 -94 -189 -94 -201 c 256
+ -94 -208 -88 -209 -84 -209 c 256
+171 72 m 256
+ 137 72 121 102 121 132 c 256
+ 121 283 211 386 255 386 c 256
+ 285 386 295 352 295 322 c 256
+ 295 240 265 72 171 72 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|six.osf
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|six.osf
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" nine.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" nine.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" nine.lf
+Comment: "+AAoA-nine+AAoA"
+EndChar

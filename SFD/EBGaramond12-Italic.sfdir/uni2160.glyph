@@ -1,10 +1,41 @@
 StartChar: uni2160
-Encoding: 8544 8544 839
-Width: 371
+Encoding: 2718 8544 2717
+GlifName: uni2160
+Width: 362
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom.cap" 118 -30 basechar 0
+AnchorPoint: "top.cap" 331 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+253 550 m 258
+ 115 98 l 258
+ 101 51 68 33 19 24 c 256
+ -4 20 -17 15 -17 6 c 256
+ -17 -2 -9 -5 7 -5 c 256
+ 57 -5 81 0 127 0 c 256
+ 170 0 185 -5 235 -5 c 256
+ 251 -5 265 -2 265 6 c 256
+ 265 15 260 20 240 24 c 256
+ 196 33 175 51 189 98 c 258
+ 327 550 l 258
+ 341 597 366 613 415 622 c 256
+ 438 626 452 633 452 642 c 256
+ 452 650 444 653 428 653 c 256
+ 378 653 366 650 326 650 c 256
+ 283 650 268 653 218 653 c 256
+ 202 653 188 650 188 642 c 256
+ 188 633 192 626 212 622 c 256
+ 256 613 267 597 253 550 c 258
+EndSplineSet
 Fore
-Refer: 33 73 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 177 73 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2160+AAoA"
 EndChar

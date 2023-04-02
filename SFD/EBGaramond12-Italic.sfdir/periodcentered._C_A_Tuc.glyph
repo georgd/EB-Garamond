@@ -1,11 +1,16 @@
 StartChar: periodcentered.CATuc
-Encoding: 66484 -1 2481
+Encoding: 1232 -1 1231
+GlifName: periodcentered.C_A_T_uc
 Width: 0
 VWidth: 0
-Flags: MW
 LayerCount: 2
 Fore
-Refer: 113 183 N 1 0 0 1 -171 124 2
-Validated: 1
-Substitution2: "c2sc subtable" periodcentered.CATsc
+Refer: 1228 183 N 1 0 0 1 -63 121 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-periodcentered.CATuc+AAoA"
 EndChar

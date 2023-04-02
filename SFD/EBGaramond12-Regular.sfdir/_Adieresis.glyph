@@ -1,17 +1,73 @@
 StartChar: Adieresis
-Encoding: 196 196 133
+Encoding: 17 196 17
 GlifName: A_dieresis
 Width: 692
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 335 -30 basechar 0
+AnchorPoint: "top.cap" 363 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+265 795 m 256
+ 237 795 215 773 215 745 c 256
+ 215 717 237 695 265 695 c 256
+ 293 695 315 717 315 745 c 256
+ 315 773 293 795 265 795 c 256
+460 795 m 256
+ 432 795 410 773 410 745 c 256
+ 410 717 432 695 460 695 c 256
+ 488 695 510 717 510 745 c 256
+ 510 773 488 795 460 795 c 256
+243 302 m 257
+ 333 542 l 258
+ 337 553 339 559 341 559 c 256
+ 344 559 346 553 350 541 c 258
+ 429 302 l 257
+ 430 298 431 294 431 292 c 256
+ 431 287 427 287 417 287 c 258
+ 262 287 l 258
+ 249 287 241 287 241 294 c 256
+ 241 296 242 299 243 302 c 257
+668 -5 m 256
+ 685 -5 697 -3 697 5 c 256
+ 697 14 687 24 664 28 c 256
+ 624 35 591 48 563 128 c 256
+ 530 223 449 459 385 662 c 256
+ 382 671 380 686 375 686 c 256
+ 370 686 368 660 354 651 c 256
+ 342 643 330 640 318 636 c 257
+ 316 635 319 620 304 578 c 256
+ 237 393 192 279 117 108 c 256
+ 95 58 65 41 31 31 c 256
+ 9 24 -2 17 -2 8 c 256
+ -2 0 10 -5 27 -5 c 256
+ 60 -5 103 1 147 1 c 256
+ 184 1 220 -1 238 -1 c 256
+ 255 -1 267 2 267 10 c 256
+ 267 19 257 24 234 30 c 256
+ 202 38 176 58 176 87 c 256
+ 176 100 207 200 216 226 c 256
+ 221 240 227 244 233 244 c 258
+ 424 244 l 258
+ 442 244 448 243 451 233 c 256
+ 466 183 489 105 489 76 c 256
+ 489 54 472 38 428 31 c 256
+ 410 28 395 21 395 12 c 256
+ 395 4 407 0 424 0 c 256
+ 448 0 490 1 529 1 c 256
+ 574 1 640 -5 668 -5 c 256
+EndSplineSet
 Fore
-Refer: 989 -1 N 1 0 0 1 210 0 2
-Refer: 31 65 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Adieresis.sc
-MultipleSubs2: "CCMP_Precomp subtable" A uni0308.cap
-Substitution2: "loclDEU subtable" Adieresis.deu
-Position2: "rtbd subtable" dx=0 dy=0 dh=-34 dv=0
-Position2: "lfbd subtable" dx=-34 dy=0 dh=-34 dv=0
+Refer: 1 65 N 1 0 0 1 0 0 2
+Refer: 1930 -1 N 1 0 0 1 363 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Adieresis.sc
+Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" Adieresis.deu
+Comment: "+AAoA-Adieresis+AAoA"
 EndChar

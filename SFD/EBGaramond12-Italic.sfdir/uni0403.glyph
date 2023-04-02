@@ -1,10 +1,19 @@
 StartChar: uni0403
-Encoding: 1027 1027 1139
-Width: 573
+Encoding: 1930 1027 1929
+GlifName: uni0403
+Width: 519
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top.cap" 441 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 2468 -1 N 1 0 0 1 444 -9 2
-Refer: 1084 1043 N 1 0 0 1 0 0 3
+Refer: 1946 1043 N 1 0 0 1 0 0 2
+Refer: 513 -1 N 1 0 0 1 312 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0403+AAoA"
 EndChar

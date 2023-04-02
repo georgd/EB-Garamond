@@ -1,0 +1,45 @@
+StartChar: dcaron
+Encoding: 712 271 711
+GlifName: dcaron
+Width: 651
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 210 -30 basechar 0
+LayerCount: 2
+Fore
+Refer: 694 100 N 1 0 0 1 0 0 2
+Refer: 1807 -1 N 1 0 0 1 626 41 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vd
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni030C.alt
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p10
+g7
+sVpublic.markColor
+p11
+V0.67,0.95,0.38,1
+p12
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" dcaron.sc
+Comment: "+AAoA-dcaron+AAoA"
+EndChar

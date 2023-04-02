@@ -1,0 +1,37 @@
+StartChar: uniA742
+Encoding: 2932 42818 2931
+GlifName: uniA_742
+Width: 699
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 321 -30 basechar 0
+AnchorPoint: "top.cap" 477 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+304 118 m 257
+ 503 318 l 258
+ 514 328 514 341 509 355 c 257
+ 509 356 509 357 508 358 c 256
+ 504 362 495 360 490 356 c 257
+ 285 151 l 257
+ 277 142 275 127 281 121 c 256
+ 285 117 297 112 304 118 c 257
+EndSplineSet
+Refer: 220 75 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VK
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uniA742+AAoA"
+EndChar

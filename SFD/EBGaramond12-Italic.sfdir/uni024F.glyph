@@ -1,0 +1,53 @@
+StartChar: uni024F
+Encoding: 1718 591 1717
+GlifName: uni024F_
+Width: 438
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 260 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+74 170 m 258
+ 461 170 l 258
+ 484 170 499 191 503 208 c 257
+ 503 210 504 211 504 213 c 256
+ 504 223 494 232 481 232 c 258
+ 79 232 l 258
+ 62 232 50 219 50 201 c 256
+ 50 187 57 170 74 170 c 258
+EndSplineSet
+Fore
+SplineSet
+66 187 m 257
+ 420 187 l 257
+ 435 187 444 195 451 208 c 257
+ 451 209 452 210 452 211 c 256
+ 452 216 444 221 438 221 c 257
+ 76 221 l 257
+ 64 221 52 213 52 204 c 256
+ 52 198 57 187 66 187 c 257
+EndSplineSet
+Refer: 3012 121 N 1 0 0 1 21 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vy
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni024F+AAoA"
+EndChar

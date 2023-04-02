@@ -1,12 +1,89 @@
 StartChar: uni2171
-Encoding: 8561 8561 844
+Encoding: 2901 8561 2900
 GlifName: uni2171
-Width: 458
+Width: 474
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom_1" 116 -30 basechar 0
+AnchorPoint: "bottom_2" 345 -30 basechar 0
+AnchorPoint: "top_1" 124 440 basechar 0
+AnchorPoint: "top_2" 353 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+295 565 m 256
+ 295 537 317 515 345 515 c 256
+ 374 515 396 537 396 565 c 256
+ 396 594 374 616 345 616 c 256
+ 317 616 295 594 295 565 c 256
+391 434 m 256
+ 383 434 338 393 271 377 c 256
+ 267 376 264 370 264 365 c 256
+ 264 359 267 353 272 352 c 256
+ 306 345 319 315 319 279 c 258
+ 319 62 l 258
+ 319 35 296 30 276 24 c 257
+ 265 20 253 16 253 6 c 256
+ 253 -2 265 -3 273 -3 c 256
+ 312 -3 319 2 354 2 c 256
+ 389 2 397 -3 435 -3 c 256
+ 444 -3 455 -2 455 6 c 256
+ 455 16 443 20 432 24 c 257
+ 412 30 389 35 389 62 c 258
+ 389 294 l 258
+ 389 339 394 388 398 429 c 257
+ 398 432 395 434 391 434 c 256
+66 565 m 256
+ 66 537 88 515 116 515 c 256
+ 145 515 167 537 167 565 c 256
+ 167 594 145 616 116 616 c 256
+ 88 616 66 594 66 565 c 256
+162 434 m 256
+ 154 434 109 393 42 377 c 256
+ 38 376 35 370 35 365 c 256
+ 35 359 38 353 43 352 c 256
+ 77 345 90 315 90 279 c 258
+ 90 62 l 258
+ 90 35 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 36 -3 44 -3 c 256
+ 83 -3 90 2 125 2 c 256
+ 160 2 168 -3 206 -3 c 256
+ 215 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 35 160 62 c 258
+ 160 294 l 258
+ 160 339 165 388 169 429 c 257
+ 169 432 166 434 162 434 c 256
+EndSplineSet
 Fore
-Refer: 5 105 N 1 0 0 1 229 0 2
-Refer: 5 105 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 991 105 N 1 0 0 1 0 0 2
+Refer: 991 105 N 1 0 0 1 229 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vi
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+g7
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p9
+g7
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni2171+AAoA"
 EndChar

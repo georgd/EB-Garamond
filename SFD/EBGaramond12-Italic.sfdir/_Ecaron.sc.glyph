@@ -1,10 +1,19 @@
 StartChar: Ecaron.sc
-Encoding: 66223 -1 1815
-Width: 421
+Encoding: 94 -1 94
+GlifName: E_caron.sc
+Width: 480
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 325 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1816 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 84 -1 N 1 0 0 1 0 0 2
+Refer: 1813 -1 N 1 0 0 1 259 84 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Ecaron.sc+AAoA"
 EndChar

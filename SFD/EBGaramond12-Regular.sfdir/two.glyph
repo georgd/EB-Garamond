@@ -1,43 +1,66 @@
 StartChar: two
-Encoding: 50 50 77
+Encoding: 1480 50 1479
 GlifName: two
-Width: 422
+Width: 480
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+LayerCount: 2
+Back
 SplineSet
-363 -4 m 0
- 349 -4 259 0 192 0 c 24
- 128 0 34 -3 29 -3 c 0
- 26 -3 22 1 22 5 c 0
- 22 9 25 13 29 17 c 0
- 46 34 74 61 90 74 c 0
- 112 92 226 186 226 267 c 0
- 226 314 199 345 161 345 c 0
- 116 345 79 335 45 297 c 0
- 41 293 38 290 32 290 c 8
- 26 290 25 298 25 304 c 0
- 25 313 72 413 190 413 c 0
- 254 413 294 353 294 290 c 0
- 294 258 277 220 253 191 c 0
- 223 155 142 80 132 73 c 0
- 126 69 135 65 141 65 c 2
- 296 65 l 2
- 334 65 370 90 389 128 c 0
- 392 133 399 138 408 138 c 0
- 411 138 412 135 412 132 c 0
- 412 130 412 128 411 126 c 0
- 395 81 378 22 378 12 c 0
- 378 2 365 -4 363 -4 c 0
+77 482 m 257
+ 88 505 148 568 215 568 c 256
+ 272 568 314 515 314 445 c 256
+ 314 325 230 236 200 205 c 258
+ 29 28 l 258
+ 23 22 21 15 21 9 c 256
+ 21 3 24 -2 29 -2 c 256
+ 49 -2 178 3 273 3 c 256
+ 324 3 392 -3 412 -3 c 256
+ 419 -3 426 0 430 21 c 256
+ 439 74 460 120 460 125 c 256
+ 460 130 459 134 455 133 c 257
+ 441 131 433 119 428 111 c 256
+ 403 71 390 67 333 64 c 256
+ 298 62 257 61 219 61 c 256
+ 182 61 148 62 126 64 c 256
+ 118 65 104 70 113 76 c 257
+ 178 123 400 323 400 461 c 256
+ 400 556 341 630 245 630 c 256
+ 130 630 57 520 47 493 c 256
+ 44 484 54 468 60 468 c 256
+ 66 468 73 475 77 482 c 257
 EndSplineSet
-Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 35 subtable" two.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 33 subtable" two.lnum
-Substitution2: "Single Substitution lookup 32 subtable" two.ordn
-Substitution2: "Single Substitution lookup 31 subtable" two.subs
-Substitution2: "sups subtable" two.sups
-Substitution2: "sinf subtable" two.sinf
-Substitution2: "ordn subtable" two.ordn
-Substitution2: "subs subtable" two.subs
+Fore
+Refer: 1481 -1 N 1 0 0 1 -4 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vtwo.lf
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" two.lf
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" two.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" two.sc
+Substitution2: "'onum' Oldstyle Figures lookup 19 subtable" two.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 17 subtable" two.lf
+Substitution2: "'ordn' Ordinals lookup 15 subtable" two.ordn
+Substitution2: "UP subtable" two.numr
+Substitution2: "'sups' Superscript lookup 9 subtable" twosuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" twoinferior
+Substitution2: "'subs' Subscript lookup 7 subtable" two.subs
+Comment: "+AAoA-two.tablining+AAoA"
 EndChar

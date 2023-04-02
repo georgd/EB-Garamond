@@ -1,13 +1,59 @@
 StartChar: Scaron
-Encoding: 352 352 259
-Width: 464
+Encoding: 363 352 362
+GlifName: S_caron
+Width: 467
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 138 -30 basechar 0
+AnchorPoint: "top.cap" 370 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+521 822 m 256
+ 508 822 405 778 378 767 c 256
+ 368 763 358 760 350 767 c 256
+ 328 785 272 823 259 823 c 256
+ 250 823 245 818 245 812 c 256
+ 245 808 247 805 251 800 c 257
+ 323 718 l 258
+ 333 707 350 696 360 696 c 256
+ 370 696 384 704 405 718 c 258
+ 529 800 l 257
+ 534 804 536 808 536 812 c 256
+ 536 818 530 822 521 822 c 256
+214 16 m 256
+ 139 16 84 82 84 157 c 256
+ 84 184 83 196 72 196 c 256
+ 62 196 58 190 56 176 c 256
+ 45 97 13 35 13 23 c 256
+ 13 9 15 0 23 0 c 256
+ 37 0 57 13 67 13 c 256
+ 77 13 127 -14 194 -14 c 256
+ 304 -14 421 46 421 154 c 256
+ 421 234 347 308 303 354 c 256
+ 270 388 213 455 213 513 c 256
+ 213 577 257 630 328 630 c 256
+ 395 630 432 583 432 493 c 256
+ 432 478 433 459 443 459 c 256
+ 447 459 456 471 459 491 c 256
+ 475 594 497 619 497 622 c 256
+ 497 627 495 638 485 638 c 256
+ 469 638 466 627 446 628 c 256
+ 424 629 383 659 340 659 c 256
+ 215 659 138 584 138 479 c 256
+ 138 421 179 364 233 303 c 256
+ 297 231 339 178 339 120 c 256
+ 339 67 277 16 214 16 c 256
+EndSplineSet
 Fore
-Refer: 2083 -1 N 1 0 0 1 240 0 2
-Refer: 45 83 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Scaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" S uni030C.cap
+Refer: 352 83 N 1 0 0 1 0 0 2
+Refer: 1811 -1 N 1 0 0 1 216 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Scaron.sc
+Comment: "+AAoA-Scaron+AAoA"
 EndChar

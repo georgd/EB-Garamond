@@ -1,0 +1,70 @@
+StartChar: e
+Encoding: 739 101 738
+GlifName: e
+Width: 389
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 142 -30 basechar 0
+AnchorPoint: "top" 280 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+133 -6 m 256
+ 198 -6 251 31 293 95 c 256
+ 295 98 295 101 295 103 c 256
+ 295 109 291 113 285 113 c 256
+ 280 113 274 110 267 102 c 256
+ 246 77 213 48 165 48 c 256
+ 129 48 115 77 115 122 c 256
+ 115 153 122 189 133 218 c 256
+ 136 226 140 226 148 228 c 256
+ 258 255 376 284 376 368 c 256
+ 376 402 349 423 302 423 c 256
+ 160 423 41 232 41 98 c 256
+ 41 51 90 -6 133 -6 c 256
+155 251 m 256
+ 150 251 148 251 148 257 c 256
+ 148 287 236 398 291 398 c 256
+ 308 398 318 383 318 366 c 256
+ 318 286 185 251 155 251 c 256
+EndSplineSet
+Fore
+SplineSet
+142 -15 m 256
+ 242 -15 307 57 345 131 c 256
+ 348 135 348 142 348 146 c 256
+ 348 152 346 157 339 157 c 256
+ 334 157 329 153 322 145 c 256
+ 290 112 261 93 226 93 c 256
+ 171 93 144 136 145 183 c 256
+ 146 189 146 195 148 201 c 256
+ 149 206 151 209 157 210 c 256
+ 254 231 394 266 394 359 c 256
+ 394 400 360 437 276 437 c 256
+ 144 437 5 283 5 111 c 256
+ 5 39 86 -15 142 -15 c 256
+164 248 m 256
+ 160 247 156 248 157 254 c 256
+ 170 334 215 399 260 399 c 256
+ 280 399 289 380 288 366 c 256
+ 282 291 226 266 164 248 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" E.pc
+Substitution2: "'fina' Terminal Forms in Latin lookup 26 subtable" e.fina
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" e.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" e.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" e.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" e.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" e.subs
+Comment: "+AAoA-e+AAoA"
+EndChar

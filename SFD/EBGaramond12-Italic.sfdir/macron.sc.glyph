@@ -1,11 +1,18 @@
 StartChar: macron.sc
-Encoding: 66123 -1 1715
-Width: 250
+Encoding: 1085 -1 1084
+GlifName: macron.sc
+Width: 300
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 219 419 mark 0
 LayerCount: 2
 Fore
-Refer: 115 175 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 1083 175 N 1 0 0 1 -18 -59 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-macron.sc+AAoA"
 EndChar

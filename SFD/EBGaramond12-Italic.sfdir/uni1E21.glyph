@@ -1,11 +1,19 @@
 StartChar: uni1E21
-Encoding: 7713 7713 386
-Width: 365
+Encoding: 2182 7713 2181
+GlifName: uni1E_21
+Width: 415
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 269 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 980 772 N 1 0 0 1 150 0 2
-Refer: 25 103 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" g uni0304
+Refer: 871 103 N 1 0 0 1 0 0 2
+Refer: 1083 175 N 1 0 0 1 39 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E21+AAoA"
 EndChar

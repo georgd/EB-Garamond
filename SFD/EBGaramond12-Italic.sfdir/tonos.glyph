@@ -1,11 +1,36 @@
 StartChar: tonos
-Encoding: 900 900 2184
-Width: 161
+Encoding: 1420 900 1419
+GlifName: tonos
+Width: 200
 VWidth: 0
-Flags: MW
-AnchorPoint: "grk_uc_top_left" 77 630 mark 0
+Flags: W
+AnchorPoint: "topgreek" 139 460 mark 0
 LayerCount: 2
+Back
+SplineSet
+152 476 m 256
+ 161 476 171 487 179 495 c 256
+ 209 525 255 626 256 636 c 256
+ 258 652 240 680 221 680 c 256
+ 212 680 199 674 194 662 c 256
+ 180 628 145 507 145 489 c 256
+ 145 480 143 476 152 476 c 256
+EndSplineSet
 Fore
-Refer: 627 833 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+149 479 m 256
+ 157 479 165 487 172 494 c 257
+ 198 523 282 626 282 631 c 256
+ 282 646 253 668 243 668 c 256
+ 233 668 225 656 218 643 c 256
+ 201 612 154 527 143 499 c 256
+ 141 494 138 479 149 479 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-tonos+AAoA"
 EndChar

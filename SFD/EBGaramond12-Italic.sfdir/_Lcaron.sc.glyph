@@ -1,10 +1,23 @@
 StartChar: Lcaron.sc
-Encoding: 66258 -1 1850
-Width: 379
+Encoding: 248 -1 248
+GlifName: L_caron.sc
+Width: 470
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 253 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1851 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 238 -1 N 1 0 0 1 0 0 2
+Refer: 1807 -1 N 1 0 0 1 348 -110 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VL.sc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-Lcaron.sc+AAoA"
 EndChar

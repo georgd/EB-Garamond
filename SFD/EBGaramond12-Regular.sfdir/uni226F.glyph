@@ -1,12 +1,60 @@
 StartChar: uni226F
-Encoding: 8815 8815 570
+Encoding: 2943 8815 2942
 GlifName: uni226F_
-Width: 590
+Width: 560
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+399 578 m 258
+ 102 -117 l 257
+ 102 -118 101 -119 101 -120 c 256
+ 101 -127 110 -132 118 -132 c 256
+ 133 -132 148 -131 154 -117 c 258
+ 451 578 l 257
+ 451 579 452 581 452 582 c 256
+ 452 589 445 595 438 595 c 256
+ 421 595 406 593 399 578 c 258
+77 408 m 258
+ 457 234 l 257
+ 460 233 461 230 458 229 c 257
+ 85 55 l 258
+ 65 46 54 16 54 4 c 256
+ 54 -1 58 -6 64 -6 c 256
+ 65 -6 66 -5 67 -5 c 257
+ 504 195 l 258
+ 524 204 537 232 537 241 c 256
+ 537 247 513 260 496 268 c 258
+ 67 468 l 257
+ 66 468 65 469 64 469 c 256
+ 58 469 53 461 53 456 c 256
+ 53 447 58 417 77 408 c 258
+EndSplineSet
 Fore
-Refer: 95 47 N 1 0 0 1 72 -70 2
-Refer: 101 62 N 1 0 0 1 0 0 3
-Validated: 5
+SplineSet
+128 -82 m 256
+ 143 -82 158 -81 164 -67 c 258
+ 413 515 l 258
+ 417 524 413 532 400 532 c 256
+ 383 532 367 530 361 515 c 258
+ 112 -67 l 258
+ 109 -75 115 -82 128 -82 c 256
+EndSplineSet
+Refer: 942 62 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vgreater
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vgreater
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni226F+AAoA"
 EndChar

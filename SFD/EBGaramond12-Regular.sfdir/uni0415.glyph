@@ -1,15 +1,19 @@
 StartChar: uni0415
-Encoding: 1045 1045 653
+Encoding: 2094 1045 2093
 GlifName: uni0415
-Width: 535
+Width: 564
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 322 8 basechar 0
-AnchorPoint: "ogonek" 450 18 basechar 0
-AnchorPoint: "below_accent" 280 -100 basechar 0
-AnchorPoint: "top_accent" 287 710 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 293 -30 basechar 0
+AnchorPoint: "top.cap" 298 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 35 69 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 81 69 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0415+AAoA"
 EndChar

@@ -1,42 +1,80 @@
 StartChar: P
-Encoding: 80 80 26
-Width: 570
+Encoding: 314 80 313
+GlifName: P_
+Width: 566
 VWidth: 0
-Flags: MW
-AnchorPoint: "below_accent" 170 -100 basechar 0
-AnchorPoint: "top_accent" 445 710 basechar 0
+Flags: W
+AnchorPoint: "top.cap" 422 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+25 -5 m 256
+ 75 -5 100 2 148 2 c 256
+ 183 2 199 -5 249 -5 c 256
+ 265 -5 279 -2 279 6 c 256
+ 279 15 274 20 254 24 c 256
+ 202 35 189 58 206 111 c 258
+ 352 588 l 258
+ 361 618 365 630 382 630 c 256
+ 482 630 535 563 535 480 c 256
+ 535 376 468 313 383 290 c 256
+ 365 286 347 282 328 280 c 256
+ 316 279 305 275 305 267 c 256
+ 305 256 334 254 347 254 c 256
+ 488 254 620 343 620 472 c 256
+ 620 587 534 657 408 657 c 256
+ 382 657 334 652 297 652 c 256
+ 287 652 218 653 208 653 c 256
+ 192 653 178 650 178 642 c 256
+ 178 633 182 624 202 622 c 256
+ 268 616 281 596 258 522 c 258
+ 129 100 l 258
+ 114 51 86 33 37 24 c 256
+ 14 20 1 15 1 6 c 256
+ 1 -2 9 -5 25 -5 c 256
+EndSplineSet
 Fore
 SplineSet
-157 2 m 24
- 109 2 84 -5 34 -5 c 0
- 18 -5 10 -2 10 6 c 0
- 10 15 23 20 46 24 c 0
- 95 33 123 51 138 100 c 2
- 267 522 l 2
- 290 596 277 616 211 622 c 0
- 191 624 187 633 187 642 c 0
- 187 650 201 653 217 653 c 0
- 227 653 296 652 306 652 c 0
- 343 652 391 657 417 657 c 8
- 524 657 629 595 629 484 c 8
- 629 343 491 254 350 254 c 16
- 337 254 308 256 308 267 c 0
- 308 275 319 279 326 280 c 0
- 455 294 546 357 546 471 c 8
- 546 553 491 630 409 630 c 16
- 374 630 370 618 361 588 c 2
- 215 111 l 2
- 200 63 207 33 251 24 c 0
- 271 20 276 15 276 6 c 0
- 276 -2 262 -5 246 -5 c 0
- 196 -5 192 2 157 2 c 24
+25 -5 m 256
+ 75 -5 100 2 148 2 c 256
+ 183 2 199 -5 249 -5 c 256
+ 265 -5 279 -2 279 6 c 256
+ 279 15 274 20 254 24 c 256
+ 202 35 189 58 206 111 c 258
+ 352 588 l 258
+ 361 618 365 630 382 630 c 256
+ 482 630 535 563 535 480 c 256
+ 535 376 468 313 383 290 c 256
+ 365 286 347 282 328 280 c 256
+ 316 279 305 275 305 267 c 256
+ 305 256 334 254 347 254 c 256
+ 488 254 620 343 620 472 c 256
+ 620 587 534 656 408 656 c 256
+ 382 656 318 652 297 652 c 256
+ 268 652 218 653 208 653 c 256
+ 192 653 177 650 177 642 c 256
+ 177 633 182 629 202 627 c 256
+ 268 621 281 596 263 537 c 258
+ 129 100 l 258
+ 114 51 86 33 37 24 c 256
+ 14 20 1 15 1 6 c 256
+ 1 -2 9 -5 25 -5 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "Swash subtable" P.sw
-Substitution2: "c2sc subtable" P.sc
-Substitution2: "sups subtable" P.sups
-Substitution2: "sinf subtable" P.sinf
-Substitution2: "ordn subtable" P.ordn
-Substitution2: "subs subtable" P.subs
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" P.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" P.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" P.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" P.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" P.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" P.subs
+Comment: "+AAoA-P+AAoA"
 EndChar

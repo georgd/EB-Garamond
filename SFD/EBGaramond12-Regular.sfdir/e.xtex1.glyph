@@ -1,12 +1,41 @@
 StartChar: e.xtex1
-Encoding: 1115221 -1 2999
+Encoding: 760 -1 759
 GlifName: e.xtex1
-Width: 535
+Width: 564
 VWidth: 0
-Flags: MW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 293 -30 basechar 0
+AnchorPoint: "top.cap" 298 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 35 69 S 1 0 0 1 0 0 2
-Validated: 1
-Position2: "Single Positioning lookup 128 subtable" dx=-180 dy=-180 dh=-280 dv=0
+Refer: 81 69 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.annotations
+p1
+(lp2
+(dp3
+Vposition
+p4
+(lp5
+F311.508
+aF514.828
+asVtype
+p6
+VText
+p7
+sVwidth
+p8
+I100
+sa(dp9
+g4
+(lp10
+F278.945
+aF498.938
+asg6
+VText
+p11
+sg8
+I100
+sas."
+Comment: "+AAoA-e.xtex1+AAoA"
 EndChar

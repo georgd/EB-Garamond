@@ -1,0 +1,52 @@
+StartChar: o
+Encoding: 1128 111 1127
+GlifName: o
+Width: 475
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 170 -30 basechar 0
+AnchorPoint: "top" 317 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+161 -14 m 256
+ 324 -14 447 95 494 226 c 256
+ 535 339 472 437 347 437 c 256
+ 213 437 68 328 21 197 c 256
+ -23 74 39 -14 161 -14 c 256
+197 33 m 256
+ 148 33 146 127 181 222 c 256
+ 197 266 219 318 247 351 c 256
+ 273 381 293 390 315 390 c 256
+ 368 390 367 293 334 202 c 256
+ 321 166 300 118 279 89 c 256
+ 252 51 224 33 197 33 c 256
+EndSplineSet
+Fore
+SplineSet
+165 -14 m 256
+ 356 -14 467 167 467 289 c 256
+ 467 384 403 437 310 437 c 256
+ 119 437 8 256 8 134 c 256
+ 8 44 83 -14 165 -14 c 256
+185 27 m 256
+ 166 27 152 40 152 67 c 256
+ 152 187 239 399 292 399 c 256
+ 313 399 324 386 324 360 c 256
+ 324 239 247 27 185 27 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" O.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" o.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" o.sc
+Substitution2: "Single Substitution lookup 14 subtable" ordmasculine
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" o.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" o.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" o.subs
+Comment: "+AAoA-o+AAoA"
+EndChar

@@ -1,0 +1,44 @@
+StartChar: uni0145
+Encoding: 1567 325 1566
+GlifName: uni0145
+Width: 795
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 366 -30 basechar 0
+AnchorPoint: "top.cap" 429 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 263 78 N 1 0 0 1 0 0 2
+Refer: 1995 806 N 1 0 0 1 402 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VN
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0326
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni0145.sc
+Comment: "+AAoA-uni0145+AAoA"
+EndChar

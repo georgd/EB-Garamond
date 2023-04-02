@@ -1,11 +1,48 @@
 StartChar: uni1F48
-Encoding: 8008 8008 2294
-Width: 721
+Encoding: 2463 8008 2462
+GlifName: uni1F_48
+Width: 759
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 363 -30 basechar 0
+AnchorPoint: "bottomgreek" 376 -30 basechar 0
+AnchorPoint: "top.cap" 554 675 basechar 0
+AnchorPoint: "topgreek" 66 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 126 787 N 1 0 0 1 -26 0 2
-Refer: 640 927 N 1 0 0 1 9 0 2
-MultipleSubs2: "CCMP_Precomp subtable" Omicron uni0313
+Refer: 306 927 N 1 0 0 1 65 0 2
+Refer: 2572 8127 N 1 0 0 1 -77 20 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOmicron
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni1FBF
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VOmicron
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1F48+AAoA"
 EndChar

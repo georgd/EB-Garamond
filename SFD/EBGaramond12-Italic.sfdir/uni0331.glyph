@@ -1,12 +1,25 @@
 StartChar: uni0331
-Encoding: 817 817 2073
+Encoding: 1879 817 1878
+GlifName: uni0331
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "below_accent" 148 -100 mark 0
+AnchorPoint: "bottom" -69 -30 mark 0
 LayerCount: 2
 Fore
-Refer: 980 772 N 1 0 0 1 0 -720 2
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" uni0331.cap
+SplineSet
+-213 -141 m 258
+ 2 -141 l 258
+ 20 -141 33 -111 33 -102 c 256
+ 33 -96 26 -91 20 -91 c 258
+ -203 -91 l 258
+ -221 -91 -227 -120 -227 -129 c 256
+ -227 -135 -220 -141 -213 -141 c 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0331+AAoA"
 EndChar

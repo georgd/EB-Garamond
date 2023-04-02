@@ -1,12 +1,50 @@
 StartChar: uni1ED8
-Encoding: 7896 7896 548
-Width: 712
+Encoding: 2359 7896 2358
+GlifName: uni1E_D_8
+Width: 694
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 642 823 basechar 0
 LayerCount: 2
+Back
+SplineSet
+360 689 m 256
+ 373 689 476 733 503 744 c 256
+ 513 748 523 751 531 744 c 256
+ 553 726 609 688 622 688 c 256
+ 631 688 636 693 636 699 c 256
+ 636 703 634 706 630 711 c 257
+ 558 793 l 258
+ 548 804 531 815 521 815 c 256
+ 511 815 501 809 476 793 c 258
+ 352 711 l 257
+ 347 707 345 703 345 699 c 256
+ 345 693 351 689 360 689 c 256
+311 -90 m 256
+ 276 -90 249 -120 249 -155 c 256
+ 249 -176 266 -197 288 -197 c 256
+ 320 -197 349 -168 349 -136 c 256
+ 349 -112 333 -90 311 -90 c 256
+484 664 m 256
+ 254 664 89 456 89 226 c 256
+ 89 94 197 -14 329 -14 c 256
+ 565 -14 724 208 724 444 c 256
+ 724 571 611 664 484 664 c 256
+479 628 m 256
+ 564 628 642 569 642 484 c 256
+ 642 284 536 21 336 21 c 256
+ 245 21 171 95 171 186 c 256
+ 171 386 279 628 479 628 c 256
+EndSplineSet
 Fore
-Refer: 2075 -1 N 1 0 0 1 340 0 2
-Refer: 2086 -1 N 1 0 0 1 244 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" O dotbelowcomb.cap uni0302.cap
+Refer: 291 212 N 1 0 0 1 0 0 2
+Refer: 732 -1 N 1 0 0 1 369 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1ED8+AAoA"
 EndChar

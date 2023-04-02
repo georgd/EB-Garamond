@@ -1,0 +1,55 @@
+StartChar: dollar.sc
+Encoding: 740 -1 739
+GlifName: dollar.sc
+Width: 385
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+174 -9 m 256
+ 294 -9 350 67 350 134 c 256
+ 350 187 327 228 282 254 c 258
+ 208 297 l 258
+ 174 317 159 337 159 353 c 256
+ 159 371 174 393 210 393 c 256
+ 250 393 286 367 297 310 c 256
+ 298 300 311 291 319 291 c 256
+ 328 291 337 301 337 308 c 256
+ 337 353 339 374 334 392 c 257
+ 328 413 324 413 309 419 c 256
+ 286 427 246 436 209 436 c 256
+ 125 436 33 389 33 301 c 256
+ 33 236 67 203 117 174 c 258
+ 177 139 l 258
+ 219 115 232 101 232 76 c 256
+ 232 58 220 39 183 39 c 256
+ 131 39 96 80 67 149 c 256
+ 63 159 56 171 39 171 c 256
+ 32 171 20 161 20 148 c 256
+ 20 91 22 65 36 34 c 257
+ 39 27 47 20 56 15 c 256
+ 93 -4 134 -9 174 -9 c 256
+143 -72 m 258
+ 141 -96 185 -97 188 -71 c 258
+ 244 488 l 258
+ 247 518 205 531 203 511 c 258
+ 143 -72 l 258
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vdollar
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vdollar
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-dollar.sc+AAoA"
+EndChar

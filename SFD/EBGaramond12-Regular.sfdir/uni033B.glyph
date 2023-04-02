@@ -1,27 +1,31 @@
 StartChar: uni033B
-Encoding: 827 827 2289
+Encoding: 2026 827 2025
 GlifName: uni033B_
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 85 -100 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-45 -142 m 25
- 45 -227 l 25
- 124 -227 l 25
- 124 -142 l 1
- 45 -142 l 25
-152 -112 m 2
- 158 -112 164 -117 164 -126 c 2
- 164 -229 l 2
- 164 -239 155 -257 140 -257 c 10
- 18 -257 l 10
- 12 -257 5 -253 5 -247 c 2
- 5 -136 l 2
- 5 -122 24 -112 33 -112 c 2
- 152 -112 l 2
+-66 -257 m 258
+ 56 -257 l 258
+ 71 -257 80 -239 80 -229 c 258
+ 80 -126 l 258
+ 80 -117 74 -112 68 -112 c 258
+ -51 -112 l 258
+ -60 -112 -79 -122 -79 -136 c 258
+ -79 -247 l 258
+ -79 -253 -72 -257 -66 -257 c 258
+-39 -227 m 257
+ -39 -142 l 257
+ 40 -142 l 257
+ 40 -227 l 257
+ -39 -227 l 257
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni033B+AAoA"
 EndChar

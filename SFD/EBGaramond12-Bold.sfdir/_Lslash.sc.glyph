@@ -1,0 +1,53 @@
+StartChar: Lslash.sc
+Encoding: 253 -1 253
+GlifName: L_slash.sc
+Width: 500
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 246 -30 basechar 0
+AnchorPoint: "top" 173 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+275 323 m 257
+ 33 191 l 258
+ 22 185 18 176 18 169 c 256
+ 18 160 25 151 35 151 c 256
+ 37 151 39 151 40 152 c 257
+ 275 280 l 258
+ 292 289 293 296 293 312 c 258
+ 293 317 l 258
+ 293 322 288 325 282 325 c 256
+ 280 325 277 324 275 323 c 257
+EndSplineSet
+Fore
+SplineSet
+193 182 m 257
+ 366 280 l 257
+ 372 283 379 287 379 301 c 256
+ 379 318 364 327 339 327 c 256
+ 324 327 312 323 294 315 c 257
+ 153 234 l 257
+ 193 182 l 257
+60 137 m 256
+ 73 137 85 141 100 149 c 258
+ 193 202 l 257
+ 153 254 l 257
+ 28 182 l 258
+ 18 176 14 170 14 160 c 256
+ 14 144 40 137 60 137 c 256
+EndSplineSet
+Refer: 239 -1 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+Vl.sc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-Lslash.sc+AAoA"
+EndChar

@@ -1,9 +1,19 @@
 StartChar: uni216C
-Encoding: 8556 8556 851
-Width: 619
+Encoding: 2730 8556 2729
+GlifName: uni216C_
+Width: 583
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom.cap" 301 -30 basechar 0
+AnchorPoint: "top.cap" 353 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 36 76 N 1 0 0 1 0 0 3
+Refer: 235 76 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni216C+AAoA"
 EndChar

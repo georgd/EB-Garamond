@@ -1,27 +1,31 @@
 StartChar: uni0308
-Encoding: 776 776 624
+Encoding: 1794 776 1793
+GlifName: uni0308
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 112 474 mark 0
-AnchorPoint: "acutestack" 122 579 basemark 0
-AnchorPoint: "top_stack" 136 636 basemark 0
-AnchorPoint: "gravestack" 141 579 basemark 0
-AnchorPoint: "top_accent" 127 550 mark 0
+AnchorPoint: "top" 72 440 mark 0
+AnchorPoint: "top" 118 581 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-212 594 m 16
- 233 594 246 572 246 551 c 16
- 246 521 221 494 191 494 c 8
- 171 494 156 513 156 533 c 8
- 156 565 180 594 212 594 c 16
-61 594 m 16
- 82 594 95 572 95 551 c 16
- 95 521 70 494 40 494 c 8
- 20 494 5 513 5 533 c 8
- 5 565 29 594 61 594 c 16
+181 494 m 256
+ 211 494 236 521 236 551 c 256
+ 236 572 223 594 202 594 c 256
+ 170 594 146 565 146 533 c 256
+ 146 513 161 494 181 494 c 256
+10 494 m 256
+ 40 494 65 521 65 551 c 256
+ 65 572 52 594 31 594 c 256
+ -1 594 -25 565 -25 533 c 256
+ -25 513 -10 494 10 494 c 256
 EndSplineSet
-Substitution2: "Single Substitution lookup 18 subtable" uni0308.grkstack
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" uni0308.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" uni0308.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" uni0308.sc
+Comment: "+AAoA-uni0308+AAoA"
 EndChar

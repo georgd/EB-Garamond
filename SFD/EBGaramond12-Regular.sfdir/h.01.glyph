@@ -1,14 +1,12 @@
 StartChar: h.01
-Encoding: 1115141 -1 2888
+Encoding: 961 -1 960
 GlifName: h.01
 Width: 515
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 130 8 basechar 0
-AnchorPoint: "below_accent" 231 -100 basechar 0
-AnchorPoint: "top_accent" 107 790 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 252 -30 basechar 0
+LayerCount: 2
 Fore
-Refer: 4 104 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 959 104 N 1 0 0 1 0 0 2
+Comment: "+AAoA-h.01+AAoA"
 EndChar

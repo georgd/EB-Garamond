@@ -1,15 +1,51 @@
 StartChar: uni020C
-Encoding: 524 524 2128
+Encoding: 1708 524 1707
 GlifName: uni020C_
 Width: 763
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 391 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+332 829 m 256
+ 332 821 341 811 350 803 c 256
+ 371 785 423 734 437 718 c 256
+ 443 711 457 700 465 700 c 256
+ 470 700 476 705 476 713 c 256
+ 476 720 430 812 416 836 c 256
+ 406 852 399 857 386 857 c 258
+ 382 857 l 257
+ 360 855 332 845 332 829 c 256
+274 836 m 256
+ 264 852 257 857 244 857 c 258
+ 240 857 l 257
+ 210 854 191 847 191 829 c 256
+ 191 820 199 811 208 803 c 256
+ 229 785 281 734 295 718 c 256
+ 301 711 315 700 323 700 c 256
+ 329 700 334 705 334 712 c 256
+ 334 722 288 812 274 836 c 256
+45 320 m 256
+ 45 130 205 -14 382 -14 c 256
+ 601 -14 718 155 718 335 c 256
+ 718 532 564 664 390 664 c 256
+ 166 664 45 501 45 320 c 256
+375 625 m 256
+ 535 625 621 495 621 305 c 256
+ 621 134 545 25 395 25 c 256
+ 247 25 142 179 142 350 c 256
+ 142 490 227 625 375 625 c 256
+EndSplineSet
 Fore
-Refer: 2309 -1 N 1 0 0 1 186 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" O uni030F.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+Refer: 278 79 N 1 0 0 1 0 0 2
+Refer: 1955 -1 N 1 0 0 1 338 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni020C+AAoA"
 EndChar

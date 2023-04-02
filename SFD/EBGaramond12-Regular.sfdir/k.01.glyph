@@ -1,14 +1,12 @@
 StartChar: k.01
-Encoding: 1115142 -1 2889
+Encoding: 1043 -1 1042
 GlifName: k.01
 Width: 469
 VWidth: 0
-Flags: MW
-AnchorPoint: "below_accent" 233 -100 basechar 0
-AnchorPoint: "top_accent" 107 790 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 234 -30 basechar 0
+LayerCount: 2
 Fore
-Refer: 62 107 N 1 0 0 1 0 0 2
-Validated: 1
-Position2: "rtbd subtable" dx=0 dy=0 dh=-23 dv=0
+Refer: 1041 107 N 1 0 0 1 0 0 2
+Comment: "+AAoA-k.01+AAoA"
 EndChar

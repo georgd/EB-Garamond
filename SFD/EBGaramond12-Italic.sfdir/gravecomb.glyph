@@ -1,25 +1,19 @@
 StartChar: gravecomb
-Encoding: 768 768 981
+Encoding: 906 768 905
+GlifName: gravecomb
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 90 550 mark 0
+AnchorPoint: "top" 155 440 mark 0
 LayerCount: 2
 Fore
-SplineSet
-56 487 m 0
- 44 521 10 616 10 621 c 0
- 10 645 39 667 55 667 c 0
- 67 667 71 650 73 627 c 0
- 76 586 84 493 84 483 c 0
- 84 475 81 470 76 470 c 0
- 67 470 61 473 56 487 c 0
-EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 23 subtable" gravecomb.grkstack
-Substitution2: "Single Substitution lookup 21 subtable" gravecomb.grk
-Substitution2: "Single Substitution lookup 16 subtable" gravecomb.stack
-Substitution2: "Single Substitution lookup 14 subtable" gravecomb.flat
-Substitution2: "Single Substitution lookup 12 subtable" gravecomb.flat
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" gravecomb.cap
+Refer: 512 769 N -1 0 0 1 220 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" gravecomb.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" gravecomb.sc
+Comment: "+AAoA-gravecomb+AAoA"
 EndChar

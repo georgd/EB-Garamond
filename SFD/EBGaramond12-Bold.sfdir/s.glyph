@@ -1,35 +1,71 @@
 StartChar: s
-Encoding: 115 115 17
-Width: 381
-Flags: HMW
-AnchorPoint: "top_accent" 225 550 basechar 0
-LayerCount: 3
+Encoding: 1360 115 1359
+GlifName: s
+Width: 368
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 188 -30 basechar 0
+AnchorPoint: "top" 202 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+170 -14 m 256
+ 284 -14 342 37 342 127 c 256
+ 342 199 308 233 220 279 c 256
+ 184 298 153 317 153 344 c 256
+ 153 370 178 391 208 391 c 256
+ 240 391 264 365 287 317 c 256
+ 290 310 302 301 312 301 c 256
+ 324 301 332 306 332 312 c 256
+ 332 360 326 401 315 415 c 257
+ 300 424 256 437 211 437 c 256
+ 120 437 45 385 45 304 c 256
+ 45 224 107 184 163 157 c 256
+ 196 141 230 119 230 85 c 256
+ 230 59 213 34 179 34 c 256
+ 129 34 100 83 74 137 c 256
+ 71 144 62 154 50 154 c 256
+ 38 154 29 149 29 141 c 256
+ 27 89 33 40 46 19 c 257
+ 82 -5 125 -14 170 -14 c 256
+EndSplineSet
 Fore
 SplineSet
-212 383 m 0
- 177 383 154 358 154 318 c 0
- 154 278 212 248 247 228 c 0
- 280 209 351 170 351 105 c 0
- 351 37 310 -14 175 -14 c 0
- 109 -14 53 10 46 23 c 0
- 37 37 31 62 30 86 c 0
- 30 92 44 95 56 95 c 0
- 66 95 76 93 78 88 c 0
- 85 55 133 18 176 18 c 0
- 226 18 249 47 249 87 c 0
- 249 123 214 146 167 177 c 0
- 115 211 64 249 64 297 c 0
- 64 353 105 414 218 414 c 0
- 264 414 292 399 304 387 c 1
- 322 372 330 337 330 310 c 0
- 330 307 327 306 321 306 c 0
- 306 306 270 318 270 327 c 0
- 269 354 242 383 212 383 c 0
+170 -14 m 256
+ 284 -14 342 37 342 127 c 256
+ 342 199 308 233 220 279 c 256
+ 184 298 152 319 152 346 c 256
+ 152 376 179 397 209 397 c 256
+ 241 397 269 370 287 317 c 256
+ 289 310 302 301 312 301 c 256
+ 324 301 332 306 332 312 c 256
+ 332 360 326 401 315 415 c 257
+ 300 424 256 437 211 437 c 256
+ 120 437 45 385 45 304 c 256
+ 45 224 107 184 163 157 c 256
+ 196 141 230 119 230 85 c 256
+ 230 59 213 34 179 34 c 256
+ 129 34 100 83 74 137 c 256
+ 71 144 62 154 50 154 c 256
+ 38 154 29 149 29 141 c 256
+ 27 89 33 40 46 19 c 257
+ 82 -5 125 -14 170 -14 c 256
 EndSplineSet
-Substitution2: "Smallcaps subtable" s.sc
-Substitution2: "Single Substitution lookup 41 subtable" longs
-Substitution2: "sups subtable" s.sups
-Substitution2: "sinf subtable" s.sinf
-Substitution2: "ordn subtable" s.ordn
-Substitution2: "subs subtable" s.subs
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss07' Style Set 7 lookup 36 subtable" longs
+Substitution2: "'ss01' Style Set 1 lookup 29 subtable" S.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals lookup 24 subtable" s.pc
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" s.sc
+Substitution2: "'hist' Historical Forms lookup 20 subtable" longs
+Substitution2: "'ordn' Ordinals lookup 15 subtable" s.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" s.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" s.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" s.subs
+Comment: "+AAoA-s+AAoA"
 EndChar

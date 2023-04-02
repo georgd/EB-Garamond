@@ -1,13 +1,70 @@
 StartChar: D.sc
-Encoding: 66050 -1 1642
-Width: 587
+Encoding: 71 -1 71
+GlifName: D_.sc
+Width: 618
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 309 10 basechar 0
-AnchorPoint: "below_accent" 228 -100 basechar 0
-AnchorPoint: "top_accent" 415 580 basechar 0
+Flags: W
+AnchorPoint: "top" 382 503 basechar 0
 LayerCount: 2
+Back
+SplineSet
+-6 -5 m 256
+ 44 -5 67 0 114 0 c 256
+ 158 0 176 -5 227 -5 c 256
+ 419 -5 570 103 570 282 c 256
+ 570 402 451 454 315 454 c 256
+ 283 454 266 449 234 449 c 256
+ 199 449 195 452 145 452 c 256
+ 129 452 115 449 115 441 c 256
+ 115 432 119 425 139 421 c 256
+ 183 412 195 396 180 349 c 258
+ 102 97 l 258
+ 88 51 55 33 6 24 c 256
+ -17 20 -30 15 -30 6 c 256
+ -30 -2 -22 -5 -6 -5 c 256
+238 26 m 256
+ 166 26 155 34 174 93 c 258
+ 258 357 l 258
+ 273 404 285 426 322 426 c 256
+ 411 426 481 372 481 271 c 256
+ 481 147 373 26 238 26 c 256
+EndSplineSet
 Fore
-Refer: 1674 -1 N 1 0 0 1 0 0 2
-Comment: "."
+SplineSet
+-6 -5 m 256
+ 44 -5 67 0 114 0 c 256
+ 158 0 176 -5 227 -5 c 256
+ 419 -5 570 103 570 282 c 256
+ 570 402 451 454 315 454 c 256
+ 283 454 266 449 234 449 c 256
+ 199 449 195 452 145 452 c 256
+ 129 452 115 449 115 441 c 256
+ 115 432 119 425 139 421 c 256
+ 183 412 195 396 180 349 c 258
+ 102 97 l 258
+ 88 51 55 33 6 24 c 256
+ -17 20 -30 15 -30 6 c 256
+ -30 -2 -22 -5 -6 -5 c 256
+238 24 m 256
+ 166 24 156 32 174 91 c 258
+ 258 360 l 258
+ 273 407 285 429 322 429 c 256
+ 411 429 487 374 487 273 c 256
+ 487 149 373 24 238 24 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VO.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-D.sc+AAoA"
 EndChar

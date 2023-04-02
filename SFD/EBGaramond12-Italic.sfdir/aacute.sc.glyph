@@ -1,11 +1,18 @@
 StartChar: aacute.sc
-Encoding: 66166 -1 1758
-Width: 601
+Encoding: 506 -1 505
+GlifName: aacute.sc
+Width: 518
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 433 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2454 -1 N 1 0 0 1 539 30 2
-Refer: 1671 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 13 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-aacute.sc+AAoA"
 EndChar

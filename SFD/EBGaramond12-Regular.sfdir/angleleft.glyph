@@ -1,11 +1,32 @@
 StartChar: angleleft
-Encoding: 9001 9001 2690
+Encoding: 542 9001 541
 GlifName: angleleft
-Width: 315
+Width: 307
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2686 10216 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+231 -214 m 256
+ 252 -214 260 -206 260 -192 c 256
+ 260 -190 257 -176 256 -173 c 257
+ 196 31 148 155 104 264 c 257
+ 102 270 101 272 104 278 c 257
+ 175 435 182 474 260 670 c 256
+ 262 675 265 686 265 692 c 256
+ 265 701 260 705 253 705 c 256
+ 243 705 219 702 216 694 c 256
+ 158 528 121 438 43 280 c 256
+ 42 278 40 275 40 272 c 256
+ 40 263 45 254 49 244 c 256
+ 139 37 158 -11 220 -205 c 256
+ 222 -212 225 -214 231 -214 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-angleleft+AAoA"
 EndChar

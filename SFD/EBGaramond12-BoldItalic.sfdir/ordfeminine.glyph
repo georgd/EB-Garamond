@@ -1,0 +1,35 @@
+StartChar: ordfeminine
+Encoding: 1178 170 1177
+GlifName: ordfeminine
+Width: 361
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+35 159 m 258
+ 265 159 l 258
+ 284 159 306 177 306 190 c 256
+ 306 199 296 206 288 206 c 258
+ 48 206 l 258
+ 32 206 17 186 17 175 c 256
+ 17 168 26 159 35 159 c 258
+EndSplineSet
+Refer: 497 -1 N 1 0 0 1 -3 -7 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Va.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Va.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" ordfeminine.sc
+Comment: "+AAoA-ordfeminine+AAoA"
+EndChar

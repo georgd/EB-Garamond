@@ -1,0 +1,38 @@
+StartChar: napostrophe
+Encoding: 1102 329 1101
+GlifName: napostrophe
+Width: 700
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 329 -30 basechar 0
+AnchorPoint: "top" 459 440 basechar 0
+LayerCount: 2
+Fore
+Refer: 1091 110 N 1 0 0 1 86 0 2
+Refer: 1276 8217 N 1 0 0 1 -88 14 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+g7
+sVpublic.markColor
+p9
+V0.67,0.95,0.38,1
+p10
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" napostrophe.sc
+Comment: "+AAoA-napostrophe+AAoA"
+EndChar

@@ -1,0 +1,94 @@
+StartChar: longs_i
+Encoding: 1101 -1 1100
+GlifName: longs_i
+Width: 600
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 444 -30 basechar 0
+AnchorPoint: "top" 446 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+40 -3 m 256
+ 80 -3 120 2 155 2 c 256
+ 190 2 242 -3 282 -3 c 256
+ 290 -3 298 4 298 12 c 256
+ 298 22 290 30 279 33 c 257
+ 247 40 225 48 225 75 c 258
+ 225 336 l 258
+ 225 346 229 361 265 361 c 256
+ 278 361 292 362 305 362 c 256
+ 318 362 330 361 343 361 c 256
+ 372 361 386 345 386 297 c 258
+ 386 68 l 258
+ 386 47 374 40 338 31 c 256
+ 327 28 321 21 321 11 c 256
+ 321 3 329 -3 337 -3 c 256
+ 376 -3 422 2 457 2 c 256
+ 492 2 544 -2 582 -2 c 256
+ 591 -2 597 3 597 12 c 256
+ 597 23 590 27 579 31 c 257
+ 541 43 531 52 531 69 c 258
+ 531 288 l 258
+ 531 337 541 399 544 437 c 257
+ 544 445 539 451 530 451 c 256
+ 527 451 519 448 508 443 c 256
+ 496 438 479 430 459 421 c 257
+ 388 415 325 418 250 423 c 256
+ 237 424 225 427 225 445 c 258
+ 225 496 l 258
+ 225 599 259 647 307 647 c 256
+ 352 647 383 612 395 590 c 256
+ 409 564 429 546 445 546 c 256
+ 481 546 504 580 504 624 c 256
+ 504 676 459 706 362 706 c 256
+ 250 706 95 635 80 423 c 257
+ 60 412 40 406 24 400 c 257
+ 18 398 14 395 14 390 c 256
+ 14 379 20 359 28 358 c 256
+ 49 356 67 356 80 356 c 257
+ 80 71 l 258
+ 80 44 63 39 43 33 c 257
+ 32 29 20 23 20 12 c 256
+ 20 3 32 -3 40 -3 c 256
+EndSplineSet
+Fore
+Refer: 1093 -1 N 1 0 0 1 0 0 2
+Refer: 747 305 N 1 0 0 1 294 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vlongs._i
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vdotlessi
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p10
+Vlongs._i
+p11
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p12
+Vdotlessi
+p13
+s."
+Ligature2: "'dlig' Discretionary Ligatures lookup 37 subtable" longs i
+Ligature2: "'hlig' Historic Ligatures lookup 26 subtable" longs i
+Comment: "+AAoA-longs_i+AAoA"
+EndChar

@@ -1,0 +1,52 @@
+StartChar: Ohorn
+Encoding: 299 416 298
+GlifName: O_horn
+Width: 692
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 278 -30 basechar 0
+AnchorPoint: "top.cap" 512 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+741 544 m 257
+ 733 558 743 557 748 558 c 256
+ 815 571 858 617 858 673 c 256
+ 858 697 850 733 826 733 c 256
+ 798 733 759 718 759 692 c 256
+ 759 680 771 669 783 658 c 256
+ 793 649 803 639 803 629 c 256
+ 803 611 791 601 764 601 c 256
+ 724 601 697 616 665 632 c 1280
+EndSplineSet
+Fore
+SplineSet
+292 -14 m 256
+ 520 -14 710 189 710 408 c 256
+ 710 443 705 478 684 521 c 256
+ 680 527 686 537 699 537 c 256
+ 780 537 858 597 858 672 c 256
+ 858 711 842 734 821 734 c 256
+ 774 734 715 706 715 674 c 256
+ 715 662 726 652 736 641 c 256
+ 746 630 756 620 756 608 c 256
+ 756 584 741 576 718 576 c 256
+ 695 576 662 586 629 611 c 256
+ 595 636 545 664 470 664 c 256
+ 241 664 53 463 53 242 c 256
+ 53 89 158 -14 292 -14 c 256
+294 28 m 256
+ 232 28 203 93 203 176 c 256
+ 203 336 330 622 466 622 c 256
+ 528 622 559 557 559 473 c 256
+ 559 314 431 28 294 28 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Ohorn.sc
+Comment: "+AAoA-Ohorn+AAoA"
+EndChar

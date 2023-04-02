@@ -1,11 +1,12 @@
 StartChar: kappa.sc
-Encoding: 1115016 -1 2728
+Encoding: 1056 -1 1055
 GlifName: kappa.sc
-Width: 524
+Width: 568
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 290 -30 basechar 0
+LayerCount: 2
 Fore
-Refer: 1841 -1 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 224 -1 N 1 0 0 1 0 0 2
+Comment: "+AAoA-kappa.sc+AAoA"
 EndChar

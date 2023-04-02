@@ -1,11 +1,18 @@
 StartChar: icircumflex.sc
-Encoding: 66179 -1 1771
-Width: 327
+Encoding: 979 -1 978
+GlifName: icircumflex.sc
+Width: 315
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 252 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2455 -1 N 1 0 0 1 169 30 2
-Refer: 1679 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 192 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-icircumflex.sc+AAoA"
 EndChar

@@ -1,0 +1,26 @@
+StartChar: chedescenderabkhasian-cy
+Encoding: 673 1215 672
+GlifName: chedescenderabkhasian-cy
+Width: 445
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 204 -30 basechar 0
+AnchorPoint: "top" 370 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+141 -141 m 257
+ 181 -141 l 257
+ 231 15 l 257
+ 191 15 l 257
+ 141 -141 l 257
+EndSplineSet
+Refer: 670 1213 N 1 0 0 1 0 0 2
+Refer: 718 168 N 1 0 0 1 148 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.97,1,0,1
+p2
+s."
+EndChar

@@ -1,13 +1,20 @@
 StartChar: uni1FB2
-Encoding: 8114 8114 2374
-Width: 562
+Encoding: 2561 8114 2560
+GlifName: uni1F_B_2
+Width: 468
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottomgreek" 187 -28 basechar 0
+AnchorPoint: "topgreek" 312 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2366 -1 N 1 0 0 1 401 4 2
-Refer: 2371 837 N 1 0 0 1 110 -74 2
-Refer: 2161 945 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" alpha uni0345 gravecomb.grk
+Refer: 2496 8048 N 1 0 0 1 0 0 2
+Refer: 1901 837 N 1 0 0 1 282 2 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FB2+AAoA"
 EndChar

@@ -1,21 +1,28 @@
 StartChar: tildecomb.capstack
-Encoding: 66454 -1 2437
+Encoding: 1416 -1 1415
+GlifName: tildecomb.capstack
 Width: 0
-Flags: MW
-AnchorPoint: "gravestack" 201 818 basemark 0
-AnchorPoint: "acutestack" 93 818 basemark 0
+VWidth: 0
 LayerCount: 2
-Fore
+Back
 SplineSet
-202 720 m 0
- 177 720 106 729 81 729 c 0
- 47 729 34 688 24 688 c 0
- 16 688 5 695 5 705 c 0
- 5 738 55 794 92 794 c 0
- 117 794 183 783 208 783 c 0
- 243 783 256 822 268 822 c 0
- 278 822 285 815 285 805 c 0
- 285 775 239 720 202 720 c 0
+202 720 m 256
+ 239 720 285 775 285 805 c 256
+ 285 815 278 822 268 822 c 256
+ 256 822 243 783 208 783 c 256
+ 183 783 117 794 92 794 c 256
+ 55 794 5 738 5 705 c 256
+ 5 695 16 688 24 688 c 256
+ 34 688 47 729 81 729 c 256
+ 106 729 177 720 202 720 c 256
 EndSplineSet
-Validated: 1
+Fore
+Refer: 1414 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-tildecomb.capstack+AAoA"
 EndChar

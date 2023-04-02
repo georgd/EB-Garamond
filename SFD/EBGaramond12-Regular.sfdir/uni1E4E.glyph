@@ -1,16 +1,74 @@
 StartChar: uni1E4E
-Encoding: 7758 7758 430
+Encoding: 2389 7758 2388
 GlifName: uni1E_4E_
 Width: 763
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 391 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+286 926 m 256
+ 258 926 236 904 236 876 c 256
+ 236 848 258 826 286 826 c 256
+ 314 826 336 848 336 876 c 256
+ 336 904 314 926 286 926 c 256
+481 926 m 256
+ 453 926 431 904 431 876 c 256
+ 431 848 453 826 481 826 c 256
+ 509 826 531 848 531 876 c 256
+ 531 904 509 926 481 926 c 256
+442 715 m 256
+ 469 715 525 764 525 784 c 256
+ 525 794 518 801 508 801 c 256
+ 496 801 483 770 448 770 c 256
+ 423 770 354 779 329 779 c 256
+ 304 779 245 734 245 711 c 256
+ 245 701 253 694 261 694 c 256
+ 271 694 298 725 318 725 c 256
+ 343 725 417 715 442 715 c 256
+45 320 m 256
+ 45 130 205 -14 382 -14 c 256
+ 601 -14 718 155 718 335 c 256
+ 718 532 564 664 390 664 c 256
+ 166 664 45 501 45 320 c 256
+375 625 m 256
+ 535 625 621 495 621 305 c 256
+ 621 134 545 25 395 25 c 256
+ 247 25 142 179 142 350 c 256
+ 142 490 227 625 375 625 c 256
+EndSplineSet
 Fore
-Refer: 989 -1 N 1 0 0 1 231 131 2
-Refer: 987 -1 N 1 0 0 1 240 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" O tildecomb.cap uni0308.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+Refer: 314 213 N 1 0 0 1 0 0 2
+Refer: 1930 -1 N 1 0 0 1 403 141 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOtilde
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0308.cap
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1E4E+AAoA"
 EndChar

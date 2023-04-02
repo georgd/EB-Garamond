@@ -1,11 +1,45 @@
 StartChar: greater.ordn
-Encoding: 65840 -1 1432
-Width: 354
-VWidth: 280
-Flags: MW
+Encoding: 918 -1 917
+GlifName: greater.ordn
+Width: 370
+VWidth: 0
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+107 296 m 257
+ 396 392 l 258
+ 409 396 424 402 425 406 c 256
+ 426 411 417 429 406 435 c 258
+ 132 579 l 257
+ 128 582 123 569 123 565 c 256
+ 123 551 128 538 140 532 c 258
+ 354 419 l 257
+ 356 418 355 417 353 416 c 257
+ 119 342 l 257
+ 105 337 100 315 100 310 c 256
+ 100 307 103 295 107 296 c 257
+EndSplineSet
 Fore
-Refer: 1228 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+89 280 m 258
+ 386 391 l 258
+ 400 396 414 416 414 423 c 256
+ 414 427 404 434 395 439 c 258
+ 179 554 l 258
+ 166 561 153 553 153 547 c 256
+ 153 537 156 524 168 518 c 258
+ 356 420 l 258
+ 358 419 358 418 356 417 c 257
+ 101 320 l 258
+ 87 315 74 302 74 289 c 256
+ 74 277 82 277 89 280 c 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-greater.ordn+AAoA"
 EndChar

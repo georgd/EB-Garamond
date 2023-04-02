@@ -1,38 +1,44 @@
 StartChar: longs_l
-Encoding: 65544 -1 1052
-Width: 495
-Flags: HMW
+Encoding: 1062 -1 1061
+GlifName: longs_l
+Width: 586
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 367 -30 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-443 559 m 2
- 449 578 453 599 453 616 c 0
- 453 638 440 665 390 665 c 0
- 337 664 295 580 275 532 c 8
- 192 332 159 172 118 0 c 0
- 68 -216 -37 -288 -90 -288 c 0
- -140 -288 -186 -266 -186 -244 c 0
- -186 -220 -164 -191 -150 -191 c 0
- -124 -191 -104 -240 -62 -240 c 0
- -27 -240 2 -206 38 -58 c 0
- 70 69 124 318 160 411 c 0
- 241 621 305 704 424 704 c 0
- 447 704 470 700 482 689 c 0
- 486 686 493 685 497 688 c 0
- 513 700 536 707 543 707 c 0
- 549 707 550 707 550 697 c 0
- 550 686 549 683 546 674 c 2
- 374 86 l 2
- 371 75 369 65 369 57 c 0
- 369 47 372 41 379 41 c 0
- 411 41 466 89 476 99 c 0
- 484 107 491 120 496 120 c 0
- 501 120 501 115 501 107 c 0
- 501 47 372 -14 337 -14 c 0
- 305 -14 287 2 287 21 c 0
- 287 38 291 52 298 76 c 2
- 443 559 l 2
+-111 -290 m 256
+ -5 -290 68 -186 108 -42 c 258
+ 168 172 l 258
+ 236 413 281 663 421 663 c 256
+ 472 663 502 640 528 579 c 257
+ 564 626 l 257
+ 564 667 523 705 453 705 c 256
+ 263 705 172 436 106 184 c 258
+ 48 -38 l 258
+ 14 -161 -21 -250 -71 -250 c 256
+ -95 -250 -111 -239 -123 -226 c 256
+ -136 -212 -145 -198 -155 -198 c 256
+ -168 -198 -194 -220 -194 -240 c 256
+ -194 -273 -161 -290 -111 -290 c 256
 EndSplineSet
-Ligature2: "liga_standard subtable" longs l
-LCarets2: 1 261
+Refer: 1026 108 N 1 0 0 1 300 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vlongs
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vl
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'dlig' Discretionary Ligatures in Latin lookup 39 subtable" longs l
+Ligature2: "'hlig' Historic Ligatures in Latin lookup 28 subtable" longs l
+Comment: "+AAoA-longs_l+AAoA"
 EndChar

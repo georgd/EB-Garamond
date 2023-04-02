@@ -1,0 +1,39 @@
+StartChar: C.sc
+Encoding: 47 -1 47
+GlifName: C_.sc
+Width: 550
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 334 503 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+327 -9 m 256
+ 401 -9 449 5 487 22 c 257
+ 492 25 502 36 504 44 c 256
+ 514 88 515 110 515 138 c 256
+ 515 152 488 157 480 136 c 256
+ 453 67 417 33 342 33 c 256
+ 246 33 216 103 216 236 c 256
+ 216 327 257 416 345 416 c 256
+ 426 416 449 377 466 327 c 256
+ 471 312 505 305 506 327 c 257
+ 506 334 507 371 500 414 c 257
+ 498 423 493 425 487 428 c 256
+ 461 441 389 459 350 459 c 256
+ 138 459 42 329 42 213 c 256
+ 42 81 162 -9 327 -9 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo.sc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-C.sc+AAoA"
+EndChar

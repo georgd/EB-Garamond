@@ -1,0 +1,38 @@
+StartChar: uni0442.SRB
+Encoding: 2001 -1 2000
+GlifName: uni0442.S_R_B_
+Width: 831
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 340 -30 basechar 0
+AnchorPoint: "top" 502 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+359 510 m 258
+ 624 510 l 258
+ 649 510 683 558 683 582 c 256
+ 683 592 677 596 659 596 c 258
+ 398 596 l 258
+ 379 596 343 563 343 529 c 256
+ 343 517 346 510 359 510 c 258
+EndSplineSet
+Fore
+SplineSet
+344 510 m 258
+ 668 510 l 258
+ 693 510 727 558 727 582 c 256
+ 727 592 721 596 703 596 c 258
+ 383 596 l 258
+ 364 596 328 563 328 529 c 256
+ 328 517 331 510 344 510 c 258
+EndSplineSet
+Refer: 2006 1096 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0442.SRB+AAoA"
+EndChar

@@ -1,0 +1,64 @@
+StartChar: greater.sc
+Encoding: 945 -1 944
+GlifName: greater.sc
+Width: 497
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+194 38 m 256
+ 209 38 244 46 244 67 c 258
+ 244 206 l 258
+ 244 215 248 219 257 219 c 258
+ 400 219 l 258
+ 419 219 434 249 434 266 c 256
+ 434 276 423 282 411 282 c 258
+ 257 282 l 258
+ 248 282 244 286 244 296 c 258
+ 244 439 l 258
+ 244 451 238 462 228 462 c 256
+ 211 462 181 447 181 428 c 258
+ 181 296 l 258
+ 181 286 180 282 167 282 c 258
+ 19 282 l 258
+ -2 282 -10 247 -10 232 c 256
+ -10 226 -2 219 7 219 c 258
+ 168 219 l 258
+ 178 219 181 213 181 206 c 258
+ 181 55 l 258
+ 181 46 188 38 194 38 c 256
+EndSplineSet
+Fore
+SplineSet
+59 445 m 257
+ 48 451 35 444 35 423 c 256
+ 35 403 50 384 72 373 c 258
+ 360 236 l 258
+ 367 233 365 229 360 226 c 258
+ 72 88 l 258
+ 50 77 35 58 35 38 c 256
+ 35 26 39 14 52 14 c 256
+ 54 14 57 15 59 16 c 258
+ 422 193 l 257
+ 446 202 462 235 462 245 c 256
+ 462 253 433 267 412 277 c 257
+ 59 445 l 257
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vgreater
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vgreater
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-greater.sc+AAoA"
+EndChar

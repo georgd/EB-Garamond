@@ -1,11 +1,27 @@
 StartChar: comma.ordn
-Encoding: 65822 -1 1414
-Width: 148
-VWidth: 280
-Flags: MW
+Encoding: 686 -1 685
+GlifName: comma.ordn
+Width: 160
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1210 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+42 192 m 256
+ 89 192 162 260 162 314 c 256
+ 162 336 145 350 123 350 c 256
+ 103 350 83 336 83 317 c 256
+ 83 307 91 298 105 295 c 256
+ 116 293 119 284 119 275 c 256
+ 119 245 81 211 43 206 c 256
+ 36 205 32 201 32 198 c 256
+ 32 195 35 192 42 192 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-comma.ordn+AAoA"
 EndChar

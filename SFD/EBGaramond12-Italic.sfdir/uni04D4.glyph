@@ -1,10 +1,18 @@
 StartChar: uni04D4
-Encoding: 1236 1236 1041
-Width: 805
+Encoding: 2055 1236 2054
+GlifName: uni04D_4
+Width: 800
 VWidth: 0
-Flags: M
+Flags: W
+AnchorPoint: "top.cap" 670 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 1000 198 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 9 198 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni04D4+AAoA"
 EndChar

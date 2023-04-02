@@ -1,0 +1,37 @@
+StartChar: eltail-cy
+Encoding: 781 1222 780
+GlifName: eltail-cy
+Width: 489
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+124 -218 m 256
+ 178 -218 220 -204 254 -181 c 256
+ 314 -140 350 -71 379 0 c 256
+ 400 51 430 88 433 110 c 257
+ 393 66 l 257
+ 396 60 l 257
+ 357 11 334 -13 315 -33 c 256
+ 292 -57 275 -75 243 -124 c 256
+ 223 -155 192 -170 123 -201 c 256
+ 114 -205 110 -206 110 -212 c 256
+ 110 -216 113 -218 124 -218 c 256
+EndSplineSet
+Refer: 1991 1083 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni043B
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni043B
+p4
+sVpublic.markColor
+p5
+V0.97,1,0,1
+p6
+s."
+EndChar

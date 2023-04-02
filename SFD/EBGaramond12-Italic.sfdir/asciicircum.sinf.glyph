@@ -1,11 +1,25 @@
 StartChar: asciicircum.sinf
-Encoding: 65770 -1 1362
-Width: 325
-VWidth: -144
-Flags: MW
+Encoding: 564 -1 563
+GlifName: asciicircum.sinf
+Width: 343
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1260 -1 N 1 0 0 1 -44 -144 2
-Validated: 1
-Comment: "."
+Refer: 561 -1 N 1 0 0 1 -131 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vasciicircum.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vasciicircum.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-asciicircum.sinf+AAoA"
 EndChar

@@ -1,0 +1,49 @@
+StartChar: notequal
+Encoding: 1162 8800 1161
+GlifName: notequal
+Width: 643
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+144 -35 m 256
+ 163 -36 182 -36 192 -19 c 258
+ 493 501 l 258
+ 498 510 491 523 473 525 c 256
+ 451 527 434 525 424 507 c 258
+ 125 -13 l 258
+ 119 -23 129 -34 144 -35 c 256
+EndSplineSet
+Refer: 816 61 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vequal
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vequal
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vequal
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-notequal+AAoA"
+EndChar

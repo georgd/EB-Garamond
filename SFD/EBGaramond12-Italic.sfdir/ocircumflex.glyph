@@ -1,13 +1,21 @@
 StartChar: ocircumflex
-Encoding: 244 244 172
-Width: 400
+Encoding: 1139 244 1138
+GlifName: ocircumflex
+Width: 380
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 104 -30 basechar 0
+AnchorPoint: "top" 278 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 91 770 N 1 0 0 1 188 0 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" ocircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" o uni0302
+Refer: 1127 111 N 1 0 0 1 0 0 2
+Refer: 676 710 N 1 0 0 1 66 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" ocircumflex.sc
+Comment: "+AAoA-ocircumflex+AAoA"
 EndChar

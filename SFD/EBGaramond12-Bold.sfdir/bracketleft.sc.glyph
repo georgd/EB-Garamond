@@ -1,0 +1,60 @@
+StartChar: bracketleft.sc
+Encoding: 627 -1 626
+GlifName: bracketleft.sc
+Width: 362
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+145 -127 m 258
+ 289 -127 l 258
+ 301 -127 315 -124 315 -112 c 256
+ 315 -100 302 -96 289 -94 c 257
+ 185 -81 l 258
+ 173 -79 162 -66 162 -48 c 258
+ 162 433 l 258
+ 162 444 176 457 185 458 c 258
+ 289 464 l 258
+ 302 465 315 469 315 479 c 256
+ 315 489 306 492 297 492 c 258
+ 152 493 l 258
+ 120 493 114 493 114 459 c 258
+ 114 -102 l 258
+ 114 -126 122 -127 145 -127 c 258
+EndSplineSet
+Fore
+SplineSet
+156 -134 m 258
+ 332 -133 l 258
+ 342 -133 352 -128 352 -112 c 256
+ 352 -100 331 -94 313 -91 c 258
+ 237 -79 l 258
+ 225 -77 220 -67 220 -58 c 258
+ 217 418 l 258
+ 217 428 222 439 235 441 c 258
+ 316 453 l 258
+ 327 455 352 460 352 475 c 256
+ 352 491 338 492 328 492 c 258
+ 152 493 l 258
+ 117 493 110 493 110 437 c 258
+ 114 -78 l 258
+ 114 -134 121 -134 156 -134 c 258
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbracketleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbracketleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-bracketleft.sc+AAoA"
+EndChar

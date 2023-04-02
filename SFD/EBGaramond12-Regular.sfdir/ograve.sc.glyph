@@ -1,13 +1,38 @@
 StartChar: ograve.sc
-Encoding: 1114772 -1 1771
+Encoding: 1192 -1 1191
 GlifName: ograve.sc
 Width: 616
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 312 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+301 543 m 256
+ 309 534 323 521 331 521 c 256
+ 340 521 340 525 340 534 c 256
+ 340 549 278 663 259 696 c 256
+ 253 706 242 714 232 714 c 256
+ 207 714 183 707 183 691 c 256
+ 183 677 270 576 301 543 c 256
+60 222 m 256
+ 60 93 169 -14 302 -14 c 256
+ 466 -14 556 103 556 226 c 256
+ 556 360 433 458 302 458 c 256
+ 175 458 60 342 60 222 c 256
+296 426 m 256
+ 400 426 466 318 466 217 c 256
+ 466 138 433 22 318 22 c 256
+ 206 22 150 120 150 237 c 256
+ 150 332 202 426 296 426 c 256
+EndSplineSet
 Fore
-Refer: 2776 -1 N 1 0 0 1 175 65 2
-Refer: 1681 -1 N 1 0 0 1 0 0 3
-Validated: 1
-Comment: "."
+Refer: 297 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-ograve.sc+AAoA"
 EndChar

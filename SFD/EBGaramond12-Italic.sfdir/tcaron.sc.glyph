@@ -1,10 +1,18 @@
 StartChar: tcaron.sc
-Encoding: 66298 -1 1890
-Width: 486
+Encoding: 1391 -1 1390
+GlifName: tcaron.sc
+Width: 533
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 364 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1889 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 385 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-tcaron.sc+AAoA"
 EndChar

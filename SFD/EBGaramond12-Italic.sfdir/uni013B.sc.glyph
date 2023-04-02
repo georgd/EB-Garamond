@@ -1,11 +1,19 @@
 StartChar: uni013B.sc
-Encoding: 66256 -1 1848
-Width: 444
+Encoding: 1509 -1 1508
+GlifName: uni013B_.sc
+Width: 470
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 253 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1849 -1 N 1 0 0 1 0 0 2
-Position2: "Single Positioning lookup 4 subtable" dx=0 dy=0 dh=65 dv=0
-Comment: "."
+Refer: 238 -1 N 1 0 0 1 0 0 2
+Refer: 1859 806 N 1 0 0 1 276 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni013B.sc+AAoA"
 EndChar

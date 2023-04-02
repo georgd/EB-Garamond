@@ -1,0 +1,40 @@
+StartChar: uni018F
+Encoding: 1539 399 1538
+GlifName: uni018F_
+Width: 688
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 453 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+291 -15 m 256
+ 474 -15 618 142 618 332 c 256
+ 618 559 460 663 304 663 c 256
+ 228 663 166 641 130 627 c 256
+ 105 617 86 614 81 606 c 256
+ 66 583 52 527 48 502 c 257
+ 48 500 47 497 47 494 c 256
+ 47 485 50 476 54 476 c 256
+ 67 476 76 485 81 495 c 257
+ 109 546 169 622 281 622 c 256
+ 451 622 532 475 532 315 c 256
+ 532 181 450 26 307 22 c 256
+ 203 19 115 74 115 196 c 256
+ 115 213 127 226 146 226 c 258
+ 551 227 l 257
+ 551 258 l 257
+ 69 258 l 258
+ 48 258 25 247 25 218 c 256
+ 25 84 146 -15 291 -15 c 256
+EndSplineSet
+Fore
+Refer: 2058 1240 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni018F+AAoA"
+EndChar

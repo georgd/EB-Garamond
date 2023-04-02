@@ -1,23 +1,16 @@
 StartChar: uni0312.sc
-Encoding: 1115077 -1 2789
+Encoding: 1962 -1 1961
 GlifName: uni0312.sc
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 107 550 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
-SplineSet
-115 547 m 0
- 144 547 162 527 162 505 c 0
- 162 489 144 469 115 469 c 0
- 67 469 32 510 32 566 c 0
- 32 630 106 689 158 689 c 0
- 170 689 176 684 176 679 c 0
- 176 675 171 670 162 668 c 0
- 118 659 84 626 84 592 c 0
- 84 571 96 547 115 547 c 0
-EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 68 subtable" uni0326
+Refer: 1960 786 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0312.sc+AAoA"
 EndChar

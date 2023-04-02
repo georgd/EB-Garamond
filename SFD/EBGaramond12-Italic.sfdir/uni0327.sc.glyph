@@ -1,23 +1,16 @@
 StartChar: uni0327.sc
-Encoding: 66510 -1 2513
+Encoding: 1863 -1 1862
+GlifName: uni0327.sc
 Width: 0
 VWidth: 0
-Flags: HW
-AnchorPoint: "cedilla" 183 8 mark 0
 LayerCount: 2
 Fore
-SplineSet
-71 -100 m 0
- 71 -67 127 -5 185 25 c 9
- 215 25 l 17
- 153 -24 130 -62 130 -80 c 0
- 130 -101 182 -146 182 -179 c 0
- 182 -226 117 -273 78 -273 c 0
- 29 -273 14 -219 14 -210 c 0
- 14 -202 15 -190 26 -190 c 0
- 33 -190 38.0914649065 -194.447708992 42 -199 c 0
- 59 -218.799987793 72 -235 99 -235 c 0
- 114 -235 123 -222 123 -207 c 0
- 123 -175 71 -150 71 -100 c 0
-EndSplineSet
+Refer: 666 184 N 1 0 0 1 -100 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0327.sc+AAoA"
 EndChar

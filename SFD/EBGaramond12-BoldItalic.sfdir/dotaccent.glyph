@@ -1,0 +1,24 @@
+StartChar: dotaccent
+Encoding: 731 729 730
+GlifName: dotaccent
+Width: 245
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 202 440 mark 0
+LayerCount: 2
+Fore
+SplineSet
+223 505 m 256
+ 271 505 311 546 311 592 c 256
+ 311 623 291 657 257 657 c 256
+ 206 657 167 613 167 565 c 256
+ 167 534 191 505 223 505 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-dotaccent+AAoA"
+EndChar

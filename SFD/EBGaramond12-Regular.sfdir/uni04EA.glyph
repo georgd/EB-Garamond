@@ -1,14 +1,46 @@
 StartChar: uni04EA
-Encoding: 1258 1258 1974
+Encoding: 2218 1258 2217
 GlifName: uni04E_A_
 Width: 763
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 391 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+285 795 m 256
+ 257 795 235 773 235 745 c 256
+ 235 717 257 695 285 695 c 256
+ 313 695 335 717 335 745 c 256
+ 335 773 313 795 285 795 c 256
+480 795 m 256
+ 452 795 430 773 430 745 c 256
+ 430 717 452 695 480 695 c 256
+ 508 695 530 717 530 745 c 256
+ 530 773 508 795 480 795 c 256
+145 301 m 257
+ 621 301 l 257
+ 620 132 544 25 395 25 c 256
+ 261 25 163 151 145 301 c 257
+617 371 m 257
+ 143 371 l 257
+ 151 503 234 625 375 625 c 256
+ 516 625 599 524 617 371 c 257
+45 320 m 256
+ 45 130 205 -14 382 -14 c 256
+ 601 -14 717 155 717 335 c 256
+ 717 532 564 664 390 664 c 256
+ 166 664 45 501 45 320 c 256
+EndSplineSet
 Fore
-Refer: 989 -1 N 1 0 0 1 230 0 2
-Refer: 1973 1256 N 1 0 0 1 0 0 3
-Validated: 1
-Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+Refer: 1608 415 N 1 0 0 1 0 0 2
+Refer: 1930 -1 N 1 0 0 1 391 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni04EA+AAoA"
 EndChar

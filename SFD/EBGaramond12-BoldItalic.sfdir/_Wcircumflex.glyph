@@ -1,0 +1,21 @@
+StartChar: Wcircumflex
+Encoding: 451 372 450
+GlifName: W_circumflex
+Width: 1121
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 437 -30 basechar 0
+AnchorPoint: "top.cap" 905 823 basechar 0
+LayerCount: 2
+Fore
+Refer: 439 87 N 1 0 0 1 0 0 2
+Refer: 1770 -1 N 1 0 0 1 576 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Wcircumflex.sc
+Comment: "+AAoA-Wcircumflex+AAoA"
+EndChar

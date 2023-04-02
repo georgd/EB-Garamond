@@ -1,23 +1,26 @@
 StartChar: uni2199
-Encoding: 8601 8601 2029
+Encoding: 2753 8601 2752
+GlifName: uni2199
 Width: 810
-Flags: MW
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-101 147 m 0
- 128 86 136 24 137 -23 c 1
- 714 555 l 2
- 726 567 743 561 759 554 c 0
- 766 551 765 540 760 535 c 2
- 169 -56 l 1
- 218 -57 279 -64 340 -91 c 0
- 358 -99 330 -117 315 -116 c 0
- 233 -115 153 -115 70 -141 c 0
- 57 -146 55 -145 51 -141 c 0
- 47 -137 47 -133 50 -123 c 0
- 76 -40 76 40 75 122 c 0
- 74 137 93 165 101 147 c 0
-EndSplineSet
-Validated: 33
+Refer: 2750 8599 N -1 0 0 -1 813 410 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|uni2197
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|uni2197
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" s o u t h w e s t
+Comment: "+AAoA-uni2199+AAoA"
 EndChar

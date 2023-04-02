@@ -1,13 +1,40 @@
 StartChar: uni022F
-Encoding: 559 559 339
+Encoding: 1744 559 1743
 GlifName: uni022F_
 Width: 495
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -30 basechar 0
+AnchorPoint: "top" 254 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+197 543 m 256
+ 197 515 219 493 247 493 c 256
+ 276 493 298 515 298 543 c 256
+ 298 572 276 594 247 594 c 256
+ 219 594 197 572 197 543 c 256
+254 414 m 256
+ 131 414 35 298 35 187 c 256
+ 35 70 122 -14 234 -14 c 256
+ 384 -14 460 96 460 213 c 256
+ 460 321 370 414 254 414 c 256
+237 383 m 256
+ 322 383 378 284 378 189 c 256
+ 378 150 374 102 358 71 c 256
+ 338 32 300 16 255 16 c 256
+ 175 16 117 111 117 210 c 256
+ 117 258 122 309 149 343 c 256
+ 173 374 201 383 237 383 c 256
+EndSplineSet
 Fore
-Refer: 121 775 N 1 0 0 1 135 0 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" o uni0307
+Refer: 1172 111 N 1 0 0 1 0 0 2
+Refer: 744 729 N 1 0 0 1 154 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni022F+AAoA"
 EndChar

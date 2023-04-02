@@ -1,13 +1,85 @@
 StartChar: uni24A7
-Encoding: 9383 9383 926
+Encoding: 2997 9383 2996
 GlifName: uni24A_7
-Width: 867
+Width: 865
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 435 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+817 281 m 256
+ 817 451 713 623 642 694 c 256
+ 635 701 628 704 618 704 c 256
+ 607 704 591 700 591 691 c 256
+ 591 688 596 682 599 679 c 256
+ 670 608 757 437 757 267 c 256
+ 757 97 668 -110 597 -181 c 256
+ 594 -184 587 -192 587 -195 c 256
+ 587 -205 603 -213 617 -213 c 256
+ 624 -213 630 -211 634 -207 c 256
+ 705 -136 817 111 817 281 c 256
+470 62 m 258
+ 470 562 l 258
+ 470 652 477 686 477 698 c 256
+ 477 701 474 705 471 705 c 256
+ 470 705 470 704 469 704 c 257
+ 437 692 404 676 353 664 c 256
+ 349 663 346 658 346 652 c 256
+ 346 646 349 640 354 639 c 256
+ 387 632 400 605 400 566 c 258
+ 400 62 l 258
+ 400 35 377 30 357 24 c 257
+ 346 20 334 16 334 6 c 256
+ 334 -2 347 -3 354 -3 c 256
+ 393 -3 400 2 435 2 c 256
+ 470 2 477 -3 516 -3 c 256
+ 523 -3 536 -2 536 6 c 256
+ 536 16 524 20 513 24 c 257
+ 493 30 470 35 470 62 c 258
+264 -192 m 256
+ 264 -190 250 -175 248 -173 c 256
+ 177 -102 100 111 100 281 c 256
+ 100 451 181 599 252 670 c 256
+ 254 672 265 687 265 689 c 256
+ 265 698 250 705 243 705 c 256
+ 233 705 222 700 216 694 c 256
+ 145 623 40 439 40 269 c 256
+ 40 99 149 -136 220 -207 c 256
+ 225 -212 231 -214 237 -214 c 256
+ 250 -214 264 -206 264 -192 c 256
+EndSplineSet
 Fore
-Refer: 108 41 N 1 0 0 1 551 0 2
-Refer: 2 108 N 1 0 0 1 315 0 2
-Refer: 107 40 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1061 108 N 1 0 0 1 314 0 2
+Refer: 1250 40 N 1 0 0 1 0 0 2
+Refer: 1256 41 N 1 0 0 1 550 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vl
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vparenleft
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vparenright
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni24A7+AAoA"
 EndChar

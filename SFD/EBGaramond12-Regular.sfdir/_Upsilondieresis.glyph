@@ -1,16 +1,56 @@
 StartChar: Upsilondieresis
-Encoding: 939 939 644
+Encoding: 428 939 427
 GlifName: U_psilondieresis
 Width: 739
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top.cap" 365 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+278 795 m 256
+ 250 795 228 773 228 745 c 256
+ 228 717 250 695 278 695 c 256
+ 306 695 328 717 328 745 c 256
+ 328 773 306 795 278 795 c 256
+473 795 m 256
+ 445 795 423 773 423 745 c 256
+ 423 717 445 695 473 695 c 256
+ 501 695 523 717 523 745 c 256
+ 523 773 501 795 473 795 c 256
+592 650 m 256
+ 442 650 369 452 365 452 c 256
+ 361 452 320 650 170 650 c 256
+ 107 650 45 591 32 575 c 256
+ 19 560 20 553 20 553 c 257
+ 20 549 27 546 30 549 c 256
+ 55 573 101 600 150 600 c 256
+ 276 600 325 405 325 287 c 258
+ 325 108 l 258
+ 325 60 297 33 247 24 c 256
+ 224 20 214 15 214 6 c 256
+ 214 -2 226 -5 243 -5 c 256
+ 297 -5 321 0 371 0 c 256
+ 417 0 434 -5 488 -5 c 256
+ 505 -5 517 -2 517 6 c 256
+ 517 15 507 20 484 24 c 256
+ 434 33 405 63 405 108 c 258
+ 405 288 l 258
+ 405 450 471 600 605 600 c 256
+ 646 600 688 589 719 567 c 256
+ 722 565 728 569 728 573 c 256
+ 728 577 721 585 717 589 c 256
+ 690 616 653 650 592 650 c 256
+EndSplineSet
 Fore
-Refer: 989 -1 N 1 0 0 1 223 0 2
-Refer: 641 933 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Upsilondieresis.sc
-MultipleSubs2: "CCMP_Precomp subtable" Upsilon uni0308.cap
-Position2: "Single Positioning lookup 33 subtable" dx=0 dy=0 dh=-70 dv=0
-Position2: "Single Positioning lookup 32 subtable" dx=0 dy=0 dh=-70 dv=0
+Refer: 424 933 N 1 0 0 1 0 0 2
+Refer: 1930 -1 N 1 0 0 1 365 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Upsilondieresis.sc
+Comment: "+AAoA-Upsilondieresis+AAoA"
 EndChar

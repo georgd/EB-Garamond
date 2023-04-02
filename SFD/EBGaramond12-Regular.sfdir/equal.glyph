@@ -1,32 +1,38 @@
 StartChar: equal
-Encoding: 61 61 98
+Encoding: 817 61 816
 GlifName: equal
-Width: 590
+Width: 566
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-74 193 m 26
- 527 193 l 18
- 533 193 541 188 541 182 c 0
- 541 181 540 180 540 179 c 8
- 534 162 528 143 509 143 c 26
- 64 143 l 26
- 57 143 50 149 50 155 c 0
- 50 164 56 193 74 193 c 26
-74 364 m 26
- 527 364 l 18
- 533 364 541 359 541 353 c 0
- 541 352 540 351 540 350 c 8
- 534 333 528 314 509 314 c 26
- 64 314 l 26
- 57 314 50 320 50 326 c 0
- 50 335 56 364 74 364 c 26
+64 314 m 258
+ 484 314 l 258
+ 500 314 516 339 516 353 c 256
+ 516 359 508 364 502 364 c 258
+ 74 364 l 258
+ 56 364 50 335 50 326 c 256
+ 50 320 57 314 64 314 c 258
+64 143 m 258
+ 484 143 l 258
+ 500 143 516 164 516 182 c 256
+ 516 188 508 193 502 193 c 258
+ 74 193 l 258
+ 56 193 50 164 50 155 c 256
+ 50 149 57 143 64 143 c 258
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" equal.sups
-Substitution2: "sinf subtable" equal.sinf
-Substitution2: "ordn subtable" equal.ordn
-Substitution2: "subs subtable" equal.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" equal.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" equal.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" equal.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" equal.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" equal.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" equal.subs
+Comment: "+AAoA-equal+AAoA"
 EndChar

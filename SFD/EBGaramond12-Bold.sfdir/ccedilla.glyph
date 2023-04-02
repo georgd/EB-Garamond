@@ -1,0 +1,28 @@
+StartChar: ccedilla
+Encoding: 663 231 662
+GlifName: ccedilla
+Width: 412
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 229 440 basechar 0
+LayerCount: 2
+Fore
+Refer: 647 99 N 1 0 0 1 0 0 2
+Refer: 669 184 N 1 0 0 1 56 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" ccedilla.sc
+Comment: "+AAoA-ccedilla+AAoA"
+EndChar

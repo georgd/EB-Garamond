@@ -1,16 +1,47 @@
 StartChar: D.sc
-Encoding: 1114639 -1 1638
+Encoding: 72 -1 72
 GlifName: D_.sc
 Width: 603
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 276 615 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 275 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1670 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Position2: "Single Positioning lookup 105 subtable" dx=0 dy=0 dh=-15 dv=0
-Position2: "Single Positioning lookup 104 subtable" dx=0 dy=0 dh=-25 dv=0
-Position2: "Single Positioning lookup 103 subtable" dx=0 dy=0 dh=-25 dv=0
-Comment: "."
+SplineSet
+50 -3 m 256
+ 89 -3 112 2 148 3 c 256
+ 182 3 233 -3 247 -3 c 256
+ 405 -3 542 88 543 236 c 256
+ 544 405 433 453 249 453 c 256
+ 231 453 177 447 151 448 c 257
+ 116 448 97 453 58 453 c 256
+ 51 453 38 449 38 441 c 256
+ 38 431 50 424 62 422 c 256
+ 104 415 120 393 120 352 c 258
+ 120 79 l 258
+ 120 43 89 32 54 25 c 256
+ 43 23 30 19 30 9 c 256
+ 30 1 43 -3 50 -3 c 256
+271 25 m 256
+ 230 25 195 51 195 88 c 258
+ 195 386 l 258
+ 195 414 225 425 252 425 c 256
+ 378 425 453 356 453 225 c 256
+ 453 122 384 25 271 25 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vh.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vo.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-D.sc+AAoA"
 EndChar

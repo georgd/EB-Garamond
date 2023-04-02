@@ -1,14 +1,45 @@
 StartChar: uni1FCF
-Encoding: 8143 8143 735
+Encoding: 2753 8143 2752
 GlifName: uni1F_C_F_
-Width: 328
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 160 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+44 604 m 256
+ 52 604 81 645 105 645 c 256
+ 130 645 188 621 213 621 c 256
+ 255 621 298 678 298 688 c 256
+ 298 698 292 705 282 705 c 256
+ 274 705 254 679 225 679 c 256
+ 200 679 143 704 118 704 c 256
+ 75 704 30 629 30 619 c 256
+ 30 609 34 604 44 604 c 256
+EndSplineSet
 Fore
-Refer: 2265 834 N 1 0 0 1 4 156 2
-Refer: 2701 -1 N 1 0 0 1 101 -20 2
-Refer: 2713 -1 N 1 0 0 1 -9 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0313.grkstack uni0342
+Refer: 2738 8128 N 1 0 0 1 0 134 2
+Refer: 1966 -1 N 1 0 0 1 145 -20 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni1FC0
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni1FCF+AAoA"
 EndChar

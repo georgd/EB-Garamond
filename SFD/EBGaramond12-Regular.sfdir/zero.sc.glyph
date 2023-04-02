@@ -1,23 +1,28 @@
 StartChar: zero.sc
-Encoding: 1114619 -1 1618
+Encoding: 3211 -1 3210
 GlifName: zero.sc
-Width: 527
+Width: 589
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-259 372 m 0
- 177 372 118 301 118 204 c 0
- 118 119 165 26 247 26 c 0
- 329 26 389 78 389 203 c 0
- 389 286 343 372 259 372 c 0
-252 413 m 0
- 370 413 467 320 467 203 c 16
- 467 84 372 -15 254 -15 c 0
- 134 -15 40 85 40 204 c 16
- 40 320 136 413 252 413 c 0
+293 455 m 256
+ 165 455 60 352 60 225 c 256
+ 60 94 163 -15 295 -15 c 256
+ 425 -15 529 93 529 224 c 256
+ 529 352 422 455 293 455 c 256
+300 415 m 256
+ 393 415 445 320 445 224 c 256
+ 445 84 377 27 287 27 c 256
+ 197 27 142 129 143 225 c 256
+ 143 337 210 415 300 415 c 256
 EndSplineSet
-Validated: 1
-Comment: "."
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-zero.sc+AAoA"
 EndChar

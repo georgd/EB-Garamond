@@ -1,0 +1,58 @@
+StartChar: sigma1
+Encoding: 1406 962 1405
+GlifName: sigma1
+Width: 353
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+206 -197 m 256
+ 284 -197 357 -78 357 29 c 256
+ 357 86 338 129 288 129 c 256
+ 250 129 191 123 153 123 c 256
+ 111 123 75 148 75 190 c 256
+ 75 283 138 305 296 305 c 256
+ 341 305 356 338 356 377 c 256
+ 356 410 325 441 289 441 c 256
+ 207 440 19 352 19 164 c 256
+ 19 32 75 -7 130 -7 c 256
+ 161 -7 249 -4 282 -4 c 256
+ 293 -4 299 -12 299 -19 c 256
+ 299 -40 247 -87 159 -87 c 256
+ 138 -87 123 -99 123 -129 c 256
+ 123 -156 181 -197 206 -197 c 256
+EndSplineSet
+Fore
+SplineSet
+196 -200 m 256
+ 269 -200 338 -80 338 28 c 256
+ 338 86 320 129 273 129 c 256
+ 237 129 184 123 148 123 c 256
+ 109 123 75 148 75 191 c 256
+ 75 284 134 306 280 306 c 256
+ 323 306 337 340 337 379 c 256
+ 337 412 308 444 274 444 c 256
+ 197 444 20 354 20 164 c 256
+ 20 31 73 -8 125 -8 c 256
+ 154 -8 236 -5 267 -5 c 256
+ 278 -5 283 -13 283 -20 c 256
+ 283 -41 234 -89 152 -89 c 256
+ 132 -89 118 -101 118 -131 c 256
+ 118 -158 172 -200 196 -200 c 256
+EndSplineSet
+Guideline: "" "" 356 222 90 0 0
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vomicron
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" sigma1.sc
+Comment: "+AAoA-sigma1+AAoA"
+EndChar

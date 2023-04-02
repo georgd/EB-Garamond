@@ -1,0 +1,38 @@
+StartChar: endescender-cy
+Encoding: 790 1187 789
+GlifName: endescender-cy
+Width: 588
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 366 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+230 -276 m 256
+ 240 -276 326 -258 368 -233 c 256
+ 428 -197 443 -139 456 -74 c 256
+ 469 -7 485 64 523 103 c 257
+ 431 39 l 257
+ 444 19 l 257
+ 432 12 378 -28 361 -50 c 256
+ 329 -91 313 -124 300 -168 c 256
+ 283 -227 255 -242 224 -253 c 257
+ 218 -256 213 -258 213 -264 c 256
+ 213 -273 222 -276 230 -276 c 256
+EndSplineSet
+Refer: 1993 1085 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni043D
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni043D
+p4
+sVpublic.markColor
+p5
+V0.98,0.36,0.67,1
+p6
+s."
+EndChar

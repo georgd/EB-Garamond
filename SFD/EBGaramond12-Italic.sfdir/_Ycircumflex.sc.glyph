@@ -1,10 +1,19 @@
 StartChar: Ycircumflex.sc
-Encoding: 66315 -1 1907
-Width: 494
+Encoding: 475 -1 474
+GlifName: Y_circumflex.sc
+Width: 517
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 347 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1908 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 466 -1 N 1 0 0 1 0 0 2
+Refer: 676 710 N 1 0 0 1 135 63 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Ycircumflex.sc+AAoA"
 EndChar

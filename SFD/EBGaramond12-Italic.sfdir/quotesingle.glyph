@@ -1,23 +1,32 @@
 StartChar: quotesingle
-Encoding: 39 39 69
-Width: 178
+Encoding: 1280 39 1279
+GlifName: quotesingle
+Width: 200
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-202 467 m 0
- 220 520 232 557 246 619 c 0
- 249 633 263 648 274 655 c 0
- 293 667 306 676 321 676 c 0
- 335 676 325 645 316 624 c 0
- 286 555 253 505 227 469 c 0
- 219 457 206 444 201 444 c 0
- 196 444 199 458 202 467 c 0
+150 444 m 256
+ 155 444 168 457 176 469 c 256
+ 201 506 235 555 265 624 c 256
+ 274 645 284 676 270 676 c 256
+ 255 676 242 667 223 655 c 256
+ 212 648 198 633 195 619 c 256
+ 186 577 178 547 167 515 c 256
+ 162 500 157 484 151 467 c 256
+ 148 458 145 444 150 444 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "sups subtable" quotesingle.sups
-Substitution2: "sinf subtable" quotesingle.sinf
-Substitution2: "ordn subtable" quotesingle.ordn
-Substitution2: "subs subtable" quotesingle.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" quotesingle.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" quotesingle.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" quotesingle.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" quotesingle.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" quotesingle.subs
+Comment: "+AAoA-quotesingle+AAoA"
 EndChar

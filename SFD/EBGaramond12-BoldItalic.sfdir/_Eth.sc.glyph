@@ -1,0 +1,28 @@
+StartChar: Eth.sc
+Encoding: 129 -1 129
+GlifName: E_th.sc
+Width: 613
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 397 503 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+51 195 m 258
+ 296 195 l 258
+ 318 195 345 220 344 235 c 256
+ 343 246 344 256 330 256 c 258
+ 70 256 l 258
+ 50 256 33 240 26 218 c 256
+ 21 202 34 195 51 195 c 258
+EndSplineSet
+Refer: 71 -1 N 1 0 0 1 0 0 2
+Guideline: "" "" 99 344 73 0 0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Eth.sc+AAoA"
+EndChar

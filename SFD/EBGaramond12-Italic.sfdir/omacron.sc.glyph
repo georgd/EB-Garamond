@@ -1,11 +1,18 @@
 StartChar: omacron.sc
-Encoding: 66274 -1 1866
-Width: 524
+Encoding: 1153 -1 1152
+GlifName: omacron.sc
+Width: 585
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 385 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2456 -1 N 1 0 0 1 256 30 2
-Refer: 1685 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 303 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-omacron.sc+AAoA"
 EndChar

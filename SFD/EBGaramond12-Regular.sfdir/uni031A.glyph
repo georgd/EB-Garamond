@@ -1,23 +1,27 @@
 StartChar: uni031A
-Encoding: 794 794 2285
+Encoding: 1983 794 1982
 GlifName: uni031A_
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 100 550 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-180 664 m 2
- 187 664 194 657 194 651 c 10
- 194 555 l 10
- 194 541 175 531 166 531 c 0
- 160 531 154 538 154 545 c 26
- 154 624 l 25
- 34 624 l 10
- 27 624 20 630 20 636 c 0
- 20 645 30 664 44 664 c 2
- 180 664 l 2
+59 531 m 256
+ 68 531 87 541 87 555 c 258
+ 87 651 l 258
+ 87 657 80 664 73 664 c 258
+ -63 664 l 258
+ -77 664 -87 645 -87 636 c 256
+ -87 630 -80 624 -73 624 c 258
+ 47 624 l 257
+ 47 545 l 258
+ 47 538 53 531 59 531 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni031A+AAoA"
 EndChar

@@ -1,14 +1,48 @@
 StartChar: uni1E6B
-Encoding: 7787 7787 459
+Encoding: 2418 7787 2417
 GlifName: uni1E_6B_
 Width: 314
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 188 -30 basechar 0
+AnchorPoint: "top" 136 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+84 543 m 256
+ 84 515 106 493 134 493 c 256
+ 163 493 185 515 185 543 c 256
+ 185 572 163 594 134 594 c 256
+ 106 594 84 572 84 543 c 256
+189 -14 m 256
+ 250 -14 306 36 306 47 c 256
+ 306 55 302 64 296 60 c 257
+ 280 48 260 41 221 41 c 256
+ 190 41 155 61 155 135 c 258
+ 155 324 l 258
+ 155 351 161 352 195 352 c 258
+ 294 352 l 258
+ 299 352 304 364 304 376 c 256
+ 304 388 299 400 294 400 c 258
+ 180 400 l 258
+ 167 400 153 405 155 414 c 257
+ 163 458 l 257
+ 164 467 152 468 146 468 c 256
+ 136 468 93 394 40 379 c 257
+ 38 378 35 375 35 372 c 256
+ 35 365 43 352 47 352 c 256
+ 78 352 85 349 85 337 c 258
+ 85 105 l 258
+ 85 22 127 -14 189 -14 c 256
+EndSplineSet
 Fore
-Refer: 121 775 N 1 0 0 1 22 0 2
-Refer: 1 116 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" t uni0307
-Position2: "rtbd subtable" dx=0 dy=0 dh=-22 dv=0
+Refer: 1430 116 N 1 0 0 1 0 0 2
+Refer: 744 729 N 1 0 0 1 36 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E6B+AAoA"
 EndChar

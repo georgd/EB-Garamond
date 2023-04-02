@@ -1,11 +1,47 @@
 StartChar: uni1FEB
-Encoding: 8171 8171 977
-Width: 686
+Encoding: 2613 8171 2612
+GlifName: uni1F_E_B_
+Width: 779
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottomgreek" 365 -30 basechar 0
+AnchorPoint: "top.cap" 575 675 basechar 0
+AnchorPoint: "topgreek" 59 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 2367 -1 N 1 0 0 1 -4 35 2
-Refer: 643 933 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" Upsilon acutecomb.grk
+Refer: 421 933 N 1 0 0 1 90 0 2
+Refer: 516 -1 N 1 0 0 1 26 20 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VUpsilon
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vacutecomb.grk
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VUpsilon
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1FEB+AAoA"
 EndChar

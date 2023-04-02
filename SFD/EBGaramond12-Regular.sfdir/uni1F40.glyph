@@ -1,13 +1,41 @@
 StartChar: uni1F40
-Encoding: 8000 8000 2512
+Encoding: 2622 8000 2621
 GlifName: uni1F_40
 Width: 400
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 217 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+181 558 m 256
+ 197 555 207 542 207 526 c 256
+ 207 497 187 479 160 466 c 256
+ 152 462 143 459 143 452 c 256
+ 143 447 150 442 163 442 c 256
+ 215 442 259 486 259 539 c 256
+ 259 587 233 636 186 636 c 256
+ 162 636 139 621 139 598 c 256
+ 139 575 158 562 181 558 c 256
+325 235 m 256
+ 325 141 249 64 155 64 c 256
+ 106 64 75 111 75 160 c 256
+ 75 252 148 334 240 334 c 256
+ 289 334 325 284 325 235 c 256
+175 -14 m 256
+ 285 -14 365 85 365 195 c 256
+ 365 299 319 414 215 414 c 256
+ 104 414 35 306 35 195 c 256
+ 35 97 77 -14 175 -14 c 256
+EndSplineSet
 Fore
-Refer: 125 787 N 1 0 0 1 139 -30 2
-Refer: 2412 959 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" omicron uni0313
+Refer: 1203 959 N 1 0 0 1 0 0 2
+Refer: 2737 8127 N 1 0 0 1 101 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1F40+AAoA"
 EndChar

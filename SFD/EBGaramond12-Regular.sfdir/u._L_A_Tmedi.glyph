@@ -1,11 +1,13 @@
 StartChar: u.LATmedi
-Encoding: 1114193 -1 1188
+Encoding: 1495 -1 1494
 GlifName: u.L_A_T_medi
 Width: 527
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 257 -30 basechar 0
+AnchorPoint: "top" 252 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 15 117 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1492 117 N 1 0 0 1 0 0 2
+Comment: "+AAoA-u.LATmedi+AAoA"
 EndChar

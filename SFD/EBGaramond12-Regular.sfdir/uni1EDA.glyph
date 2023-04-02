@@ -1,13 +1,20 @@
 StartChar: uni1EDA
-Encoding: 7898 7898 548
+Encoding: 2526 7898 2525
 GlifName: uni1E_D_A_
-Width: 792
+Width: 763
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 382 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 984 -1 N 1 0 0 1 339 -10 2
-Refer: 287 416 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Ohorn acutecomb.cap
+Refer: 298 416 N 1 0 0 1 0 0 2
+Refer: 512 -1 N 1 0 0 1 427 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1EDA+AAoA"
 EndChar

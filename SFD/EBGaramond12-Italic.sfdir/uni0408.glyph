@@ -1,11 +1,18 @@
 StartChar: uni0408
-Encoding: 1032 1032 656
-Width: 335
+Encoding: 1935 1032 1934
+GlifName: uni0408
+Width: 293
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 335 700 basechar 0
+Flags: W
+AnchorPoint: "top.cap" 295 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 42 74 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 209 74 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0408+AAoA"
 EndChar

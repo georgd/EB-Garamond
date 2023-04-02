@@ -1,0 +1,45 @@
+StartChar: uni022B
+Encoding: 1683 555 1682
+GlifName: uni022B_
+Width: 475
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 170 -30 basechar 0
+AnchorPoint: "top" 317 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+231 629 m 258
+ 496 629 l 258
+ 521 629 555 677 555 701 c 256
+ 555 711 549 715 531 715 c 258
+ 270 715 l 258
+ 251 715 215 682 215 648 c 256
+ 215 636 218 629 231 629 c 258
+EndSplineSet
+Fore
+Refer: 1127 111 N 1 0 0 1 0 0 2
+Refer: 718 168 N 1 0 0 1 6 0 2
+Refer: 1083 175 N 1 0 0 1 127 170 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I2
+sVname
+p6
+Vmacron
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni022B+AAoA"
+EndChar

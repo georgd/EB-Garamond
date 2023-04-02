@@ -1,12 +1,75 @@
 StartChar: uni1E2E
-Encoding: 7726 7726 399
-Width: 371
+Encoding: 2195 7726 2194
+GlifName: uni1E_2E_
+Width: 362
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 118 -30 basechar 0
+AnchorPoint: "top.cap" 362 815 basechar 0
 LayerCount: 2
+Back
+SplineSet
+352 812 m 256
+ 355 812 361 814 370 821 c 256
+ 410 851 460 889 500 923 c 256
+ 509 931 513 935 513 942 c 256
+ 513 956 469 965 455 965 c 256
+ 444 965 435 962 428 952 c 256
+ 401 913 375 873 351 833 c 256
+ 348 828 346 822 346 818 c 256
+ 346 815 348 812 352 812 c 256
+276 800 m 256
+ 243 800 218 772 218 739 c 256
+ 218 719 234 700 255 700 c 256
+ 285 700 312 727 312 757 c 256
+ 312 779 297 800 276 800 c 256
+477 800 m 256
+ 444 800 419 772 419 739 c 256
+ 419 719 435 700 456 700 c 256
+ 486 700 513 727 513 757 c 256
+ 513 779 498 800 477 800 c 256
+275 550 m 258
+ 137 98 l 258
+ 123 51 90 33 41 24 c 256
+ 18 20 5 15 5 6 c 256
+ 5 -2 13 -5 29 -5 c 256
+ 79 -5 103 0 149 0 c 256
+ 192 0 207 -5 257 -5 c 256
+ 273 -5 287 -2 287 6 c 256
+ 287 15 282 20 262 24 c 256
+ 218 33 197 51 211 98 c 258
+ 349 550 l 258
+ 363 597 388 613 437 622 c 256
+ 460 626 474 633 474 642 c 256
+ 474 650 466 653 450 653 c 256
+ 400 653 388 650 348 650 c 256
+ 305 650 290 653 240 653 c 256
+ 224 653 210 650 210 642 c 256
+ 210 633 214 626 234 622 c 256
+ 278 613 289 597 275 550 c 258
+EndSplineSet
 Fore
-Refer: 2468 -1 N 1 0 0 1 340 115 2
-Refer: 2080 -1 N 1 0 0 1 213 0 2
-Refer: 33 73 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" I uni0308.cap acutecomb.cap
+Refer: 193 207 N 1 0 0 1 0 0 2
+Refer: 513 -1 N 1 0 0 1 245 100 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vacutecomb.cap
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni1E2E+AAoA"
 EndChar

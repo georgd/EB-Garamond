@@ -1,0 +1,35 @@
+StartChar: arrowright
+Encoding: 558 8594 557
+GlifName: arrowright
+Width: 1013
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+716 95 m 256
+ 731 95 746 111 752 116 c 257
+ 835 192 871 213 985 270 c 256
+ 999 277 1004 282 1004 293 c 256
+ 1004 301 995 310 981 316 c 256
+ 849 373 835 406 752 482 c 257
+ 746 487 731 503 716 503 c 256
+ 707 503 707 491 715 475 c 257
+ 766 385 786 356 821 323 c 257
+ 85 323 l 258
+ 64 323 56 288 56 276 c 256
+ 56 270 64 262 73 262 c 258
+ 814 262 l 257
+ 789 231 768 204 715 123 c 257
+ 712 118 709 112 709 107 c 256
+ 709 100 712 95 716 95 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" a r r o w r i g h t
+Comment: "+AAoA-arrowright+AAoA"
+EndChar

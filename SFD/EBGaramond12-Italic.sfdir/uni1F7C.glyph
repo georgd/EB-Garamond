@@ -1,11 +1,20 @@
 StartChar: uni1F7C
-Encoding: 8060 8060 2338
-Width: 557
+Encoding: 2509 8060 2508
+GlifName: uni1F_7C_
+Width: 560
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottomgreek" 206 -30 basechar 0
+AnchorPoint: "topgreek" 382 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2366 -1 N 1 0 0 1 321.65 4 2
-Refer: 2180 969 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" omega gravecomb.grk
+Refer: 1153 969 N 1 0 0 1 0 0 2
+Refer: 909 -1 N 1 0 0 1 236 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1F7C+AAoA"
 EndChar

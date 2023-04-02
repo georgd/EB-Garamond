@@ -1,20 +1,24 @@
 StartChar: uni0305
-Encoding: 773 773 970
+Encoding: 1917 773 1916
 GlifName: uni0305
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 200 550 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-24 573 m 26
- 387 573 l 18
- 393 573 400 567 400 561 c 0
- 400 539 388 523 369 523 c 26
- 14 523 l 26
- 7 523 0 529 0 535 c 0
- 0 544 6 573 24 573 c 26
+-186 523 m 258
+ 169 523 l 258
+ 188 523 200 539 200 561 c 256
+ 200 567 193 573 187 573 c 258
+ -176 573 l 258
+ -194 573 -200 544 -200 535 c 256
+ -200 529 -193 523 -186 523 c 258
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0305+AAoA"
 EndChar

@@ -1,10 +1,19 @@
 StartChar: uni04E7
-Encoding: 1255 1255 691
-Width: 400
+Encoding: 2074 1255 2073
+GlifName: uni04E_7
+Width: 380
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 104 -30 basechar 0
+AnchorPoint: "top" 278 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 624 776 N 1 0 0 1 195 0 2
-Refer: 670 1086 N 1 0 0 1 0 0 3
+Refer: 1140 246 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni04E7+AAoA"
 EndChar

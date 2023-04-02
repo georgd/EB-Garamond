@@ -1,0 +1,48 @@
+StartChar: uni1FDB
+Encoding: 2598 8155 2597
+GlifName: uni1F_D_B_
+Width: 496
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 230 -30 basechar 0
+AnchorPoint: "bottomgreek" 220 -30 basechar 0
+AnchorPoint: "top.cap" 442 675 basechar 0
+AnchorPoint: "topgreek" 77 400 basechar 0
+LayerCount: 2
+Fore
+Refer: 204 921 N 1 0 0 1 115 0 2
+Refer: 516 -1 N 1 0 0 1 21 -40 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VIota
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vacutecomb.grk
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VIota
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1FDB+AAoA"
+EndChar

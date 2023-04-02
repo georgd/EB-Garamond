@@ -1,0 +1,42 @@
+StartChar: uni0239
+Encoding: 1697 569 1696
+GlifName: uni0239
+Width: 693
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+392 -8 m 256
+ 527 -8 698 187 698 340 c 256
+ 698 383 667 414 624 414 c 256
+ 574 414 500 356 422 252 c 256
+ 413 240 405 243 410 257 c 257
+ 330 195 l 257
+ 315 151 307 107 307 74 c 256
+ 307 24 340 -8 392 -8 c 256
+418 24 m 256
+ 390 24 366 55 366 91 c 256
+ 366 116 395 172 439 234 c 256
+ 508 331 561 376 603 376 c 256
+ 619 376 632 359 632 336 c 256
+ 632 288 593 196 545 132 c 256
+ 498 70 444 24 418 24 c 256
+EndSplineSet
+Refer: 1250 113 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vq
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vp
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni0239+AAoA"
+EndChar

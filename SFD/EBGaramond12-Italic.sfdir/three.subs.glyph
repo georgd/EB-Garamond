@@ -1,33 +1,25 @@
 StartChar: three.subs
-Encoding: 65625 -1 1217
-Width: 277
+Encoding: 1407 -1 1406
+GlifName: three.subs
+Width: 284
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-101 -6 m 0
- 74 -6 41 -1 50 27 c 0
- 52 35 67 55 75 55 c 0
- 81 55 85 52 86 50 c 0
- 95 42 112 28 140 28 c 0
- 152 28 196 32 214 90 c 8
- 225 126 206 155 171 155 c 0
- 162 155 146 151 135 148 c 0
- 129 146 119 155 125 159 c 24
- 148 174 172 175 187 184 c 0
- 221 204 241 220 251 253 c 16
- 258 274 236 290 219 290 c 0
- 218 290 218 290 217 290 c 0
- 196 289 168 273 140 253 c 0
- 136 250 133 246 129 247 c 24
- 125 248 123 254 126 258 c 0
- 150 289 199 337 248 337 c 0
- 286 337 321 314 306 266 c 0
- 298 241 268 210 229 192 c 0
- 225 190 223 187 227 187 c 8
- 262 187 282 158 271 121 c 16
- 246 40 150 -6 101 -6 c 0
-EndSplineSet
-Validated: 33
+Refer: 1403 -1 N 1 0 0 1 -87 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vthree.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vthree.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-three.subs+AAoA"
 EndChar

@@ -1,0 +1,35 @@
+StartChar: acutecomb.stack
+Encoding: 522 -1 521
+GlifName: acutecomb.stack
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+71 478 m 257
+ 97 507 167 588 167 593 c 256
+ 167 608 138 630 128 630 c 256
+ 118 630 110 618 103 605 c 256
+ 86 574 55 510 42 483 c 256
+ 40 479 40 475 40 471 c 256
+ 40 467 43 463 48 463 c 256
+ 56 463 64 471 71 478 c 257
+EndSplineSet
+Fore
+SplineSet
+30 464 m 256
+ 42 464 51 468 61 477 c 256
+ 72 487 183 591 183 608 c 256
+ 183 629 137 656 114 656 c 256
+ 100 656 92 649 86 638 c 256
+ 80 627 27 501 23 482 c 256
+ 21 472 24 464 30 464 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-acutecomb.stack+AAoA"
+EndChar

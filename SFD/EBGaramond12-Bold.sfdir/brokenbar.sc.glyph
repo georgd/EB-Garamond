@@ -1,0 +1,51 @@
+StartChar: brokenbar.sc
+Encoding: 640 -1 639
+GlifName: brokenbar.sc
+Width: 281
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+104 -138 m 256
+ 122 -138 199 -132 199 -90 c 258
+ 199 535 l 258
+ 199 549 185 561 171 561 c 256
+ 159 561 80 543 80 500 c 258
+ 80 -110 l 258
+ 80 -124 91 -138 104 -138 c 256
+EndSplineSet
+Fore
+SplineSet
+106 -137 m 256
+ 124 -137 201 -131 201 -89 c 258
+ 201 168 l 258
+ 201 182 187 194 173 194 c 256
+ 161 194 82 176 82 133 c 258
+ 82 -109 l 258
+ 82 -123 93 -137 106 -137 c 256
+104 242 m 256
+ 122 242 199 248 199 290 c 258
+ 199 535 l 258
+ 199 549 185 561 171 561 c 256
+ 159 561 80 543 80 500 c 258
+ 80 270 l 258
+ 80 256 91 242 104 242 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbrokenbar
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbrokenbar
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-brokenbar.sc+AAoA"
+EndChar

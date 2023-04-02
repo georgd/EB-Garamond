@@ -1,0 +1,39 @@
+StartChar: uni01E5
+Encoding: 1621 485 1620
+GlifName: uni01E_5
+Width: 480
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 299 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+2 -176 m 258
+ 471 -176 l 258
+ 494 -176 509 -155 513 -138 c 257
+ 513 -136 514 -135 514 -133 c 256
+ 514 -123 504 -114 491 -114 c 258
+ 7 -114 l 258
+ -10 -114 -22 -127 -22 -145 c 256
+ -22 -159 -15 -176 2 -176 c 258
+EndSplineSet
+Fore
+SplineSet
+-121 -171 m 258
+ 406 -171 l 258
+ 426 -171 439 -153 442 -139 c 257
+ 442 -137 443 -136 443 -134 c 256
+ 443 -126 435 -118 424 -118 c 258
+ -117 -118 l 258
+ -132 -118 -142 -129 -142 -145 c 256
+ -142 -156 -136 -171 -121 -171 c 258
+EndSplineSet
+Refer: 871 103 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni01E5+AAoA"
+EndChar

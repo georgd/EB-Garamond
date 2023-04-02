@@ -1,0 +1,39 @@
+StartChar: uni0357
+Encoding: 1910 855 1909
+GlifName: uni0357
+Width: 0
+VWidth: 0
+AnchorPoint: "top" 60 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+18 480 m 256
+ 78 480 147 522 167 586 c 256
+ 185 645 145 680 91 680 c 256
+ 79 680 66 666 61 652 c 256
+ 58 642 63 638 68 638 c 256
+ 98 638 111 612 100 578 c 256
+ 91 548 67 518 40 518 c 256
+ 30 518 16 505 12 494 c 256
+ 10 486 9 480 18 480 c 256
+EndSplineSet
+Fore
+SplineSet
+41 463 m 256
+ 102 463 178 511 178 582 c 256
+ 178 630 144 663 106 663 c 256
+ 85 663 70 653 64 639 c 256
+ 60 629 71 622 76 621 c 256
+ 99 616 113 601 113 576 c 256
+ 113 540 82 505 48 501 c 256
+ 39 500 19 492 19 475 c 256
+ 19 471 26 463 41 463 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0357+AAoA"
+EndChar

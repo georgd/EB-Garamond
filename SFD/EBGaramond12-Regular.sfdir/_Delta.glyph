@@ -1,13 +1,17 @@
 StartChar: Delta
-Encoding: 8710 8710 2852
+Encoding: 80 8710 80
 GlifName: D_elta
 Width: 676
 VWidth: 0
-Flags: MW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1080 916 N 1 0 0 1 0 0 2
-Validated: 1
-Position2: "rtbd subtable" dx=0 dy=0 dh=-34 dv=0
-Position2: "lfbd subtable" dx=-34 dy=0 dh=-34 dv=0
+Refer: 2052 916 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Delta+AAoA"
 EndChar

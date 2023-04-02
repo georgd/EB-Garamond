@@ -1,0 +1,42 @@
+StartChar: one.osf
+Encoding: 1214 -1 1213
+GlifName: one.osf
+Width: 348
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+40 -5 m 256
+ 109 -5 119 2 173 2 c 256
+ 227 2 235 -5 307 -5 c 256
+ 317 -5 327 3 327 11 c 256
+ 327 20 318 28 308 29 c 256
+ 267 33 246 39 246 92 c 258
+ 246 332 l 258
+ 246 385 270 391 311 395 c 256
+ 321 396 328 404 328 413 c 256
+ 328 421 320 429 310 429 c 256
+ 238 429 227 422 173 422 c 256
+ 119 422 110 429 41 429 c 256
+ 30 429 21 419 21 410 c 256
+ 21 402 31 397 41 395 c 256
+ 66 390 101 388 101 332 c 258
+ 101 92 l 258
+ 101 36 65 32 40 29 c 256
+ 33 29 20 22 20 14 c 256
+ 20 5 28 -5 40 -5 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 3186 -65 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" one.lf
+Substitution2: "'tnum' Tabular Numbers lookup 18 subtable" one.tosf
+Substitution2: "'lnum' Lining Figures lookup 16 subtable" one.lf
+Comment: "+AAoA-one+AAoA"
+EndChar

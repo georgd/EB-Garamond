@@ -1,0 +1,49 @@
+StartChar: uni2C70
+Encoding: 2888 11376 2887
+GlifName: uni2C_70
+Width: 801
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+341 -15 m 256
+ 673 -15 819 221 819 411 c 256
+ 819 566 729 664 589 664 c 256
+ 501 664 431 613 403 583 c 256
+ 388 566 381 579 383 585 c 256
+ 391 608 405 658 385 658 c 256
+ 355 658 316 649 284 649 c 256
+ 244 649 221 654 174 654 c 256
+ 164 654 150 648 147 639 c 256
+ 143 626 150 619 163 616 c 256
+ 216 605 223 594 210 552 c 258
+ 76 118 l 258
+ 59 64 51 55 -7 32 c 256
+ -32 22 -37 21 -40 10 c 256
+ -43 1 -37 -5 -15 -5 c 256
+ 24 -5 46 -2 96 -2 c 256
+ 170 -2 221 -15 341 -15 c 256
+355 37 m 256
+ 261 37 241 92 256 142 c 258
+ 350 447 l 258
+ 372 517 465 603 538 603 c 256
+ 600 603 640 551 642 447 c 256
+ 646 279 545 37 355 37 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VI
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VD
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni2C70+AAoA"
+EndChar

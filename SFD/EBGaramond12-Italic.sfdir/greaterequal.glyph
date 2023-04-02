@@ -1,0 +1,32 @@
+StartChar: greaterequal
+Encoding: 923 8805 922
+GlifName: greaterequal
+Width: 590
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+64 81 m 256
+ 65 81 66 82 67 82 c 257
+ 496 262 l 258
+ 514 269 537 283 537 289 c 256
+ 537 298 524 327 504 335 c 258
+ 67 515 l 257
+ 63 515 54 518 54 506 c 256
+ 54 494 63 464 85 455 c 258
+ 458 301 l 257
+ 461 300 460 297 457 296 c 257
+ 77 142 l 258
+ 58 134 53 103 53 94 c 256
+ 53 89 58 81 64 81 c 256
+EndSplineSet
+Refer: 1086 8722 N 0.984 0 0 -0.984 1 276 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-greaterequal+AAoA"
+EndChar

@@ -1,11 +1,50 @@
 StartChar: arrowdblright
-Encoding: 8658 8658 2944
+Encoding: 554 8658 553
 GlifName: arrowdblright
 Width: 1000
 VWidth: 0
-Flags: MW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2938 8656 N -1 0 0 -1 1001 584 2
-Validated: 1
+SplineSet
+719 112 m 256
+ 728 112 740 117 746 123 c 256
+ 803 182 860 239 937 279 c 257
+ 950 285 950 286 950 292 c 256
+ 950 298 947 300 938 305 c 256
+ 861 345 804 402 747 461 c 256
+ 741 467 729 472 720 472 c 256
+ 712 472 708 467 711 461 c 256
+ 725 435 739 409 754 385 c 257
+ 81 385 l 258
+ 64 385 56 369 50 353 c 257
+ 50 348 50 339 63 339 c 258
+ 785 339 l 257
+ 795 327 805 315 816 305 c 256
+ 826 295 825 287 816 279 c 257
+ 805 269 794 257 785 245 c 257
+ 81 245 l 258
+ 64 245 56 229 50 213 c 257
+ 50 208 50 199 63 199 c 258
+ 753 199 l 257
+ 738 175 724 149 710 123 c 257
+ 709 121 709 120 709 119 c 256
+ 709 114 713 112 719 112 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Varrowright
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Varrowright
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'ss03' Style Set 3 lookup 32 subtable" a r r o w r i g h t two
+Comment: "+AAoA-arrowdblright+AAoA"
 EndChar

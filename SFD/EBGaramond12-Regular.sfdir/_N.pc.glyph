@@ -1,11 +1,35 @@
 StartChar: N.pc
-Encoding: 1115182 -1 2960
+Encoding: 265 -1 265
 GlifName: N_.pc
-Width: 510
+Width: 554
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2986 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1811 628 N 1 0 0 1 21 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni0274
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VH.pc
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-N.pc+AAoA"
 EndChar

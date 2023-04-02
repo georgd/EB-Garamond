@@ -1,13 +1,54 @@
 StartChar: uni01CF
-Encoding: 463 463 293
+Encoding: 1654 463 1653
 GlifName: uni01C_F_
 Width: 340
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 170 -30 basechar 0
+AnchorPoint: "top.cap" 170 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+41 842 m 256
+ 32 842 26 838 26 832 c 256
+ 26 828 28 824 33 820 c 258
+ 131 742 l 258
+ 151 726 157 720 172 720 c 256
+ 187 720 193 726 213 742 c 258
+ 311 820 l 258
+ 316 824 317 828 317 832 c 256
+ 317 838 312 843 303 843 c 256
+ 290 843 208 802 182 787 c 256
+ 173 782 171 782 162 787 c 256
+ 136 802 54 842 41 842 c 256
+130 550 m 258
+ 130 98 l 258
+ 130 51 102 33 52 24 c 256
+ 29 20 19 15 19 6 c 256
+ 19 -2 31 -5 48 -5 c 256
+ 102 -5 126 0 176 0 c 256
+ 222 0 239 -5 293 -5 c 256
+ 310 -5 322 -2 322 6 c 256
+ 322 15 312 20 289 24 c 256
+ 239 33 210 51 210 98 c 258
+ 210 550 l 258
+ 210 597 231 613 281 622 c 256
+ 304 626 314 633 314 642 c 256
+ 314 650 302 653 285 653 c 256
+ 231 653 219 650 176 650 c 256
+ 130 650 113 653 59 653 c 256
+ 42 653 30 650 30 642 c 256
+ 30 633 40 626 63 622 c 256
+ 113 613 130 597 130 550 c 258
+EndSplineSet
 Fore
-Refer: 980 -1 S 1 0 0 1 21 20 2
-Refer: 33 73 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" I uni030C.cap
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 1947 -1 N 1 0 0 1 170 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni01CF+AAoA"
 EndChar

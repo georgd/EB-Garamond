@@ -1,13 +1,88 @@
 StartChar: uni24AF
-Encoding: 9391 9391 934
+Encoding: 3005 9391 3004
 GlifName: uni24A_F_
-Width: 964
+Width: 968
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 503 -30 basechar 0
+AnchorPoint: "top" 451 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+914 281 m 256
+ 914 451 810 623 739 694 c 256
+ 732 701 725 704 715 704 c 256
+ 704 704 688 700 688 691 c 256
+ 688 688 693 682 696 679 c 256
+ 767 608 854 437 854 267 c 256
+ 854 97 765 -110 694 -181 c 256
+ 691 -184 684 -192 684 -195 c 256
+ 684 -205 700 -213 714 -213 c 256
+ 721 -213 727 -211 731 -207 c 256
+ 802 -136 914 111 914 281 c 256
+504 -14 m 256
+ 565 -14 621 36 621 47 c 256
+ 621 55 617 64 611 60 c 257
+ 595 48 575 41 536 41 c 256
+ 505 41 470 61 470 135 c 258
+ 470 324 l 258
+ 470 351 476 352 510 352 c 258
+ 609 352 l 258
+ 614 352 619 364 619 376 c 256
+ 619 388 614 400 609 400 c 258
+ 495 400 l 258
+ 482 400 468 405 470 414 c 257
+ 478 458 l 257
+ 479 467 467 468 461 468 c 256
+ 451 468 408 394 355 379 c 257
+ 353 378 350 375 350 372 c 256
+ 350 365 358 352 362 352 c 256
+ 393 352 400 349 400 337 c 258
+ 400 105 l 258
+ 400 22 442 -14 504 -14 c 256
+264 -192 m 256
+ 264 -190 250 -175 248 -173 c 256
+ 177 -102 100 111 100 281 c 256
+ 100 451 181 599 252 670 c 256
+ 254 672 265 687 265 689 c 256
+ 265 698 250 705 243 705 c 256
+ 233 705 222 700 216 694 c 256
+ 145 623 40 439 40 269 c 256
+ 40 99 149 -136 220 -207 c 256
+ 225 -212 231 -214 237 -214 c 256
+ 250 -214 264 -206 264 -192 c 256
+EndSplineSet
 Fore
-Refer: 108 41 N 1 0 0 1 648 0 2
-Refer: 1 116 N 1 0 0 1 315 0 2
-Refer: 107 40 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1430 116 N 1 0 0 1 315 0 2
+Refer: 1250 40 N 1 0 0 1 0 0 2
+Refer: 1256 41 N 1 0 0 1 648 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vt
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vparenleft
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vparenright
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni24AF+AAoA"
 EndChar

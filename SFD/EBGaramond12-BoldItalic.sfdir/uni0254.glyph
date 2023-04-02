@@ -1,0 +1,48 @@
+StartChar: uni0254
+Encoding: 1720 596 1719
+GlifName: uni0254
+Width: 378
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 222 453 basechar 0
+AnchorPoint: "top" 113 -17 basechar 0
+LayerCount: 2
+Back
+SplineSet
+97 -14 m 256
+ 268 -14 372 156 372 288 c 256
+ 372 368 325 437 231 437 c 256
+ 125 437 55 348 41 291 c 256
+ 40 287 38 280 38 276 c 256
+ 38 270 40 265 47 265 c 256
+ 52 265 58 268 64 277 c 256
+ 89 315 116 329 151 329 c 256
+ 205 329 236 290 236 240 c 256
+ 236 227 235 213 232 199 c 256
+ 231 194 229 190 223 190 c 256
+ 116 190 -24 162 -24 68 c 256
+ -24 19 25 -14 97 -14 c 256
+117 23 m 256
+ 97 23 83 40 84 54 c 256
+ 89 124 161 158 216 158 c 256
+ 220 158 225 158 223 152 c 256
+ 196 71 162 23 117 23 c 256
+EndSplineSet
+Fore
+Refer: 644 99 N -1 0 0 -1 378 423 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|c
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|c
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni0254+AAoA"
+EndChar

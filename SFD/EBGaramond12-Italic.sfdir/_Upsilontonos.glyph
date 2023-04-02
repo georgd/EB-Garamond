@@ -1,11 +1,39 @@
 StartChar: Upsilontonos
-Encoding: 910 910 2222
-Width: 686
+Encoding: 425 910 424
+GlifName: U_psilontonos
+Width: 824
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottomgreek" 410 -30 basechar 0
+AnchorPoint: "top.cap" 620 675 basechar 0
+AnchorPoint: "topgreek" 104 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 2367 -1 N 1 0 0 1 -4 35 2
-Refer: 643 933 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" Upsilon acutecomb.grk
+Refer: 421 933 N 1 0 0 1 135 0 2
+Refer: 1419 900 N 1 0 0 1 -35 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VUpsilon
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VUpsilon
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-Upsilontonos+AAoA"
 EndChar

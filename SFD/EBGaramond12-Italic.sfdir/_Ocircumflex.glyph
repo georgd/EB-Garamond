@@ -1,13 +1,46 @@
 StartChar: Ocircumflex
-Encoding: 212 212 148
-Width: 712
+Encoding: 292 212 291
+GlifName: O_circumflex
+Width: 694
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 642 823 basechar 0
 LayerCount: 2
+Back
+SplineSet
+358 689 m 256
+ 371 689 474 733 501 744 c 256
+ 511 748 521 751 529 744 c 256
+ 551 726 607 688 620 688 c 256
+ 629 688 634 693 634 699 c 256
+ 634 703 632 706 628 711 c 257
+ 556 793 l 258
+ 546 804 529 815 519 815 c 256
+ 509 815 499 809 474 793 c 258
+ 350 711 l 257
+ 345 707 343 703 343 699 c 256
+ 343 693 349 689 358 689 c 256
+484 664 m 256
+ 254 664 89 456 89 226 c 256
+ 89 94 197 -14 329 -14 c 256
+ 565 -14 724 208 724 444 c 256
+ 724 571 611 664 484 664 c 256
+479 628 m 256
+ 564 628 642 569 642 484 c 256
+ 642 284 536 21 336 21 c 256
+ 245 21 171 95 171 186 c 256
+ 171 386 279 628 479 628 c 256
+EndSplineSet
 Fore
-Refer: 2075 -1 N 1 0 0 1 338 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Ocircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" O uni0302.cap
+Refer: 277 79 N 1 0 0 1 0 0 2
+Refer: 1770 -1 N 1 0 0 1 343 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Ocircumflex.sc
+Comment: "+AAoA-Ocircumflex+AAoA"
 EndChar

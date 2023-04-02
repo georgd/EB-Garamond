@@ -1,0 +1,56 @@
+StartChar: lslash
+Encoding: 1119 322 1118
+GlifName: lslash
+Width: 292
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 152 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+41 288 m 258
+ 223 385 l 258
+ 232 390 241 398 241 405 c 256
+ 241 420 236 425 230 425 c 256
+ 228 425 225 424 223 423 c 258
+ 34 322 l 257
+ 29 319 21 313 21 304 c 256
+ 21 296 33 284 41 288 c 258
+10 221 m 258
+ 71 252 l 257
+ 137 276 l 257
+ 268 345 l 258
+ 290 357 295 372 292 396 c 256
+ 288 410 274 411 263 406 c 258
+ 130 336 l 257
+ 60 308 l 257
+ -2 275 l 258
+ -16 269 -22 248 -19 227 c 256
+ -17 214 -2 214 10 221 c 258
+EndSplineSet
+Fore
+SplineSet
+46 283 m 258
+ 113 319 l 257
+ 172 342 l 257
+ 269 394 l 258
+ 283 401 297 415 297 426 c 256
+ 297 450 288 457 280 457 c 256
+ 276 457 272 456 269 454 c 258
+ 172 403 l 257
+ 112 379 l 257
+ 36 338 l 258
+ 26 332 15 323 15 308 c 256
+ 15 296 35 277 46 283 c 258
+EndSplineSet
+Refer: 1061 108 N 1 0 0 1 6 0 2
+Validated: 37
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" lslash.sc
+Comment: "+AAoA-lslash+AAoA"
+EndChar

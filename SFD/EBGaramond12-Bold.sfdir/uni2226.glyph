@@ -1,0 +1,49 @@
+StartChar: uni2226
+Encoding: 2937 8742 2936
+GlifName: uni2226
+Width: 450
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-14 -34 m 256
+ 5 -38 24 -41 36 -25 c 258
+ 149 127 l 257
+ 175 118 l 257
+ 314 305 l 257
+ 342 308 l 257
+ 485 502 l 258
+ 491 510 486 524 468 528 c 256
+ 447 533 431 533 418 516 c 258
+ 319 383 l 257
+ 288 376 l 257
+ 150 189 l 257
+ 109 179 l 257
+ -30 -11 l 258
+ -36 -19 -28 -31 -14 -34 c 256
+EndSplineSet
+Refer: 2935 8741 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni2225
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni2226+AAoA"
+EndChar

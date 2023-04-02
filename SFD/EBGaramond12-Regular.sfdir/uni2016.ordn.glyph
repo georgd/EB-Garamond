@@ -1,12 +1,32 @@
 StartChar: uni2016.ordn
-Encoding: 1114500 -1 1499
+Encoding: 2817 -1 2816
 GlifName: uni2016.ordn
-Width: 520
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+Width: 277
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1297 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+181 172 m 256
+ 187 172 216 171 216 186 c 258
+ 216 671 l 258
+ 216 677 208 679 203 679 c 256
+ 199 679 169 675 169 660 c 258
+ 169 180 l 258
+ 169 174 177 172 181 172 c 256
+73 172 m 256
+ 79 172 108 171 108 186 c 258
+ 108 671 l 258
+ 108 677 100 679 95 679 c 256
+ 91 679 61 675 61 660 c 258
+ 61 180 l 258
+ 61 174 69 172 73 172 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2016.ordn+AAoA"
 EndChar

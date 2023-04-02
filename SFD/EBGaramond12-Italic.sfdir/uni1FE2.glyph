@@ -1,12 +1,19 @@
 StartChar: uni1FE2
-Encoding: 8162 8162 2351
-Width: 486
+Encoding: 2604 8162 2603
+GlifName: uni1F_E_2
+Width: 423
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "top" 294 420 basechar 0
 LayerCount: 2
 Fore
-Refer: 2366 -1 N 1 0 0 1 345.825 -12 2
-Refer: 2360 -1 N 1 0 0 1 283.825 -40 2
-Refer: 2177 965 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" upsilon uni0308.grkstack gravecomb.grk
+Refer: 2962 965 N 1 0 0 1 0 0 2
+Refer: 2614 8173 N 1 0 0 1 68 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FE2+AAoA"
 EndChar

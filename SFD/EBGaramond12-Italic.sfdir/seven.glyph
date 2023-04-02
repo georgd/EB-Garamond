@@ -1,38 +1,25 @@
 StartChar: seven
-Encoding: 55 55 80
-Width: 430
+Encoding: 1339 55 1338
+GlifName: seven
+Width: 480
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-359 326 m 2
- 362 331 367 335 353 336 c 0
- 339 336 301 337 282 337 c 0
- 245 337 184 336 160 336 c 0
- 141 336 120 321 100 297 c 0
- 95 290 78 272 70 272 c 0
- 63 272 62 281 62 285 c 0
- 62 303 118 383 125 395 c 0
- 130 404 135 406 138 406 c 0
- 141 406 173 403 196 402 c 0
- 223 401 276 401 313 401 c 0
- 396 401 409 407 424 407 c 0
- 426 407 430 401 430 394 c 0
- 430 384 403 342 390 323 c 2
- 52 -166 l 10
- 44 -178 25 -186 16 -186 c 0
- 4 -186 0 -178 0 -173 c 0
- 0 -168 14 -151 32 -126 c 2
- 359 326 l 2
-EndSplineSet
-Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" seven.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 32 subtable" seven.lnum
-Substitution2: "Single Substitution lookup 31 subtable" seven.ordn
-Substitution2: "Single Substitution lookup 30 subtable" seven.subs
-Substitution2: "sups subtable" seven.sups
-Substitution2: "sinf subtable" seven.sinf
-Substitution2: "ordn subtable" seven.ordn
-Substitution2: "subs subtable" seven.subs
+Refer: 1340 -1 N 1 0 0 1 22 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" seven.lf
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" seven.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" seven.sc
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" seven.tosf
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 16 subtable" seven.lf
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" sevensuperior
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" seveninferior
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" seven.subs
+Comment: "+AAoA-seven.tablining+AAoA"
 EndChar

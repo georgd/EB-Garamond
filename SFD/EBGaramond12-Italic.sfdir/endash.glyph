@@ -1,19 +1,25 @@
 StartChar: endash
-Encoding: 8211 8211 104
-Width: 509
+Encoding: 788 8211 787
+GlifName: endash
+Width: 519
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-141 239 m 26
- 525 239 l 26
- 532 239 537 232 533 225 c 24
- 522 206 511 185 492 185 c 26
- 115 185 l 26
- 108 185 104 191 106 197 c 0
- 109 206 123 239 141 239 c 26
+58 185 m 258
+ 435 185 l 258
+ 454 185 465 206 476 225 c 256
+ 480 232 475 239 468 239 c 258
+ 84 239 l 258
+ 66 239 52 206 49 197 c 256
+ 47 191 51 185 58 185 c 258
 EndSplineSet
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" endash.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-endash+AAoA"
 EndChar

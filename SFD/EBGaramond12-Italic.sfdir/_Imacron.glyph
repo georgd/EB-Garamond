@@ -1,12 +1,21 @@
 StartChar: Imacron
-Encoding: 298 298 217
-Width: 371
+Encoding: 200 298 200
+GlifName: I_macron
+Width: 362
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 118 -30 basechar 0
+AnchorPoint: "top.cap" 331 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 2077 -1 N 1 0 0 1 226 0 2
-Refer: 33 73 N 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Imacron.sc
-MultipleSubs2: "CCMP_Precomp subtable" I uni0304.cap
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 1776 -1 N 1 0 0 1 185 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Imacron.sc
+Comment: "+AAoA-Imacron+AAoA"
 EndChar

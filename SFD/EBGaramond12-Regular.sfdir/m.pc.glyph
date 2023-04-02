@@ -1,11 +1,17 @@
 StartChar: m.pc
-Encoding: 1115207 -1 2985
+Encoding: 1123 -1 1122
 GlifName: m.pc
-Width: 625
+Width: 662
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1925 1084 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 256 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-m.pc+AAoA"
 EndChar

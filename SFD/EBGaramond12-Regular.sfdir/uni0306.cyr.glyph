@@ -1,24 +1,41 @@
 StartChar: uni0306.cyr
-Encoding: 1114927 -1 1961
+Encoding: 1920 -1 1919
 GlifName: uni0306.cyr
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 125 533 mark 0
-LayerCount: 3
+AnchorPoint: "top" 2 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+-2 476 m 256
+ 64 476 121 529 121 594 c 256
+ 121 604 119 612 113 612 c 256
+ 108 612 104 609 96 586 c 256
+ 81 545 51 516 4 516 c 256
+ -24 516 -46 532 -46 551 c 256
+ -46 564 -46 577 -46 592 c 256
+ -46 608 -59 621 -80 621 c 256
+ -100 621 -118 603 -118 568 c 256
+ -118 513 -66 476 -2 476 c 256
+EndSplineSet
 Fore
 SplineSet
-127 493 m 16
- 177 493 206 541 212 570 c 0
- 217 593 227 595 232 595 c 0
- 238 595 242 585 242 575 c 8
- 242 510 187 461 121 461 c 8
- 64 461 5 498 5 551 c 0
- 5 584 34 600 50 600 c 0
- 65 600 97 586 97 565 c 0
- 97 550 72 543 72 530 c 0
- 72 512 101 493 127 493 c 16
+-2 476 m 256
+ 59 476 121 516 121 598 c 256
+ 121 608 119 612 113 612 c 256
+ 108 612 104 609 96 586 c 256
+ 78 535 44 518 14 518 c 256
+ -18 518 -47 538 -47 558 c 256
+ -47 571 -46 577 -46 592 c 256
+ -46 608 -59 621 -80 621 c 256
+ -100 621 -118 603 -118 568 c 256
+ -118 509 -61 476 -2 476 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni0306.cyrcap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0306.cyr+AAoA"
 EndChar

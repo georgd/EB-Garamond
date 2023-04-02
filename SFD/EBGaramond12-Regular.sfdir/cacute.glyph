@@ -1,14 +1,44 @@
 StartChar: cacute
-Encoding: 263 263 185
+Encoding: 658 263 657
 GlifName: cacute
-Width: 377
+Width: 407
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 237 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+237 478 m 256
+ 268 511 355 612 355 626 c 256
+ 355 642 331 649 306 649 c 256
+ 296 649 285 641 279 631 c 256
+ 260 598 198 484 198 469 c 256
+ 198 460 198 456 207 456 c 256
+ 215 456 229 469 237 478 c 256
+333 319 m 256
+ 343 319 371 336 371 353 c 256
+ 371 357 369 361 366 365 c 257
+ 336 402 289 413 246 413 c 256
+ 123 413 35 303 35 180 c 256
+ 35 77 105 -14 206 -14 c 256
+ 292 -14 372 42 372 79 c 256
+ 372 86 366 93 360 93 c 256
+ 357 93 354 91 351 88 c 257
+ 325 54 305 38 263 38 c 256
+ 167 38 104 130 104 226 c 256
+ 104 299 141 376 214 376 c 256
+ 264 376 275 365 308 329 c 257
+ 313 324 324 319 333 319 c 256
+EndSplineSet
 Fore
-Refer: 2705 769 N 1 0 0 1 184 0 2
-Refer: 14 99 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" cacute.sc
-MultipleSubs2: "CCMP_Precomp subtable" c acutecomb
+Refer: 647 99 N 1 0 0 1 0 0 2
+Refer: 511 769 N 1 0 0 1 283 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" cacute.sc
+Comment: "+AAoA-cacute+AAoA"
 EndChar

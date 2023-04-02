@@ -1,0 +1,40 @@
+StartChar: longs_s
+Encoding: 1115 -1 1114
+GlifName: longs_s
+Width: 666
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 486 -30 basechar 0
+AnchorPoint: "top" 500 440 basechar 0
+LayerCount: 2
+Fore
+Refer: 1091 383 N 1 0 0 1 0 0 2
+Refer: 1359 115 N 1 0 0 1 298 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vs
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vlongs
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+g7
+s."
+Ligature2: "'dlig' Discretionary Ligatures lookup 37 subtable" longs s
+Ligature2: "'hlig' Historic Ligatures lookup 26 subtable" longs s
+Comment: "+AAoA-longs_s+AAoA"
+EndChar

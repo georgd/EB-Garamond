@@ -1,13 +1,51 @@
 StartChar: jcircumflex
-Encoding: 309 309 224
-Width: 255
+Encoding: 1008 309 1007
+GlifName: jcircumflex
+Width: 259
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 200 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+242 570 m 257
+ 245 574 249 575 251 570 c 256
+ 263 539 279 499 287 479 c 257
+ 292 468 297 462 304 462 c 256
+ 309 462 312 475 312 483 c 256
+ 312 493 299 588 289 627 c 256
+ 283 649 280 657 271 657 c 256
+ 261 657 239 636 221 615 c 256
+ 197 587 141 513 124 489 c 256
+ 120 483 117 477 117 471 c 256
+ 117 465 121 462 126 462 c 256
+ 131 462 142 471 149 478 c 256
+ 172 500 212 539 242 570 c 257
+136 270 m 258
+ 14 -144 l 258
+ -3 -202 -26 -242 -62 -242 c 256
+ -107 -242 -115 -201 -139 -201 c 256
+ -153 -201 -175 -232 -175 -245 c 256
+ -175 -264 -148 -283 -101 -283 c 256
+ -30 -283 63 -205 94 -102 c 258
+ 235 370 l 258
+ 240 387 245 400 245 414 c 256
+ 245 425 232 421 226 418 c 257
+ 165 384 129 362 63 315 c 256
+ 55 309 54 305 54 300 c 256
+ 54 296 65 293 69 295 c 256
+ 99 309 125 318 136 318 c 256
+ 149 318 143 293 136 270 c 258
+EndSplineSet
 Fore
-Refer: 91 770 N 1 0 0 1 107 0 2
-Refer: 345 567 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" jcircumflex.sc
-MultipleSubs2: "CCMP_Precomp subtable" j.dotless uni0302
+Refer: 999 -1 N 1 0 0 1 0 0 2
+Refer: 676 710 N 1 0 0 1 -12 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" jcircumflex.sc
+Comment: "+AAoA-jcircumflex+AAoA"
 EndChar

@@ -1,20 +1,42 @@
 StartChar: uni0345
-Encoding: 837 837 2371
+Encoding: 1902 837 1901
+GlifName: uni0345
 Width: 0
-Flags: HMW
-AnchorPoint: "grk_bottom" 76 -151 mark 0
+VWidth: 0
+AnchorPoint: "bottomgreek" -95 -30 mark 0
 LayerCount: 2
+Back
+SplineSet
+-137 -219 m 256
+ -92 -219 -57 -190 -50 -170 c 256
+ -48 -164 -51 -161 -57 -161 c 256
+ -60 -161 -77 -169 -93 -168 c 256
+ -115 -167 -102 -122 -80 -79 c 256
+ -76 -71 -81 -67 -92 -68 c 258
+ -123 -70 l 257
+ -141 -73 -155 -84 -172 -140 c 256
+ -187 -190 -171 -219 -137 -219 c 256
+EndSplineSet
 Fore
 SplineSet
-106 -127 m 0
- 106 -152 109 -160 123 -160 c 0
- 144 -160 159 -146 162 -146 c 0
- 171 -146 172 -151 172 -162 c 0
- 172 -171 149 -222 99 -222 c 0
- 65 -222 40 -190 40 -140 c 0
- 40 -94 43 -61 74 -61 c 0
- 97 -61 110 -68 110 -87 c 0
- 110 -99 106 -111 106 -127 c 0
+-131 -218 m 256
+ -84 -218 -49 -187 -49 -168 c 256
+ -49 -160 -52 -160 -57 -160 c 256
+ -62 -160 -65 -161 -69 -163 c 256
+ -75 -165 -81 -168 -92 -168 c 256
+ -99 -168 -103 -160 -103 -150 c 256
+ -103 -131 -94 -103 -80 -79 c 256
+ -73 -66 -95 -62 -114 -62 c 256
+ -150 -62 -177 -133 -177 -177 c 256
+ -177 -208 -157 -218 -131 -218 c 256
 EndSplineSet
-Validated: 513
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" uni0345.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" uni0345.sc
+Comment: "+AAoA-uni0345+AAoA"
 EndChar

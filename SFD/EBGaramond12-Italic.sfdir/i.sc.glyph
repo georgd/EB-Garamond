@@ -1,33 +1,18 @@
 StartChar: i.sc
-Encoding: 66087 -1 1679
-Width: 327
+Encoding: 969 -1 968
+GlifName: i.sc
+Width: 315
 VWidth: 0
-Flags: HMW
-AnchorPoint: "ogonek" 196 18 basechar 0
-AnchorPoint: "below_accent" 120 -100 basechar 0
-AnchorPoint: "top_accent" 303 580 basechar 0
+Flags: W
+AnchorPoint: "top" 252 503 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-282 349 m 2
- 204 97 l 2
- 190 51 213 33 257 24 c 0
- 277 20 282 15 282 6 c 0
- 282 -2 268 -5 252 -5 c 0
- 202 -5 186 0 144 0 c 24
- 97 0 74 -5 24 -5 c 0
- 8 -5 0 -2 0 6 c 0
- 0 15 13 20 36 24 c 0
- 85 33 118 51 132 97 c 2
- 210 349 l 2
- 224.501953125 395.846679688 213 412 169 421 c 0
- 149 425 145 432 145 441 c 0
- 145 449 159 452 175 452 c 0
- 225 452 240 449 281 449 c 24
- 321 449 333 452 383 452 c 0
- 399 452 407 449 407 441 c 0
- 407 432 393 425 370 421 c 0
- 321 412 297 396 282 349 c 2
-EndSplineSet
-Comment: "."
+Refer: 180 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-i.sc+AAoA"
 EndChar

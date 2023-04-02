@@ -1,12 +1,57 @@
 StartChar: uni2105
-Encoding: 8453 8453 830
-Width: 606
+Encoding: 2702 8453 2701
+GlifName: uni2105
+Width: 626
 VWidth: 0
-Flags: HMW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1469 -1 N 1 0 0 1 55 123 2
-Refer: 1277 -1 N 1 0 0 1 303 0 2
-Refer: 1165 8260 N 1 0 0 1 256 0 2
-Validated: 1
+Refer: 645 -1 N 1 0 0 1 38 123 2
+Refer: 869 8260 N 1 0 0 1 276 -1 2
+Refer: 1128 -1 N 1 0 0 1 235 -279 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vc.ordn
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vfraction
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vo.ordn
+p11
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p12
+Vc.ordn
+p13
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p14
+Vo.ordn
+p15
+sVpublic.markColor
+p16
+V0.67,0.95,0.38,1
+p17
+s."
+Comment: "+AAoA-uni2105+AAoA"
 EndChar

@@ -1,0 +1,31 @@
+StartChar: uni0247
+Encoding: 1767 583 1766
+GlifName: uni0247
+Width: 423
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 226 -30 basechar 0
+AnchorPoint: "top" 238 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+38 -77 m 256
+ 61 -77 81 -74 91 -56 c 258
+ 388 451 l 258
+ 389 452 394 463 394 464 c 256
+ 394 472 386 479 377 479 c 256
+ 354 479 335 478 324 459 c 258
+ 26 -45 l 258
+ 21 -53 20 -57 20 -60 c 257
+ 20 -68 25 -77 38 -77 c 256
+EndSplineSet
+Refer: 752 101 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0247+AAoA"
+EndChar

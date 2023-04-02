@@ -1,18 +1,25 @@
 StartChar: underscore.subs
-Encoding: 65669 -1 1261
+Encoding: 1495 -1 1494
+GlifName: underscore.subs
 Width: 302
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
--9 -79 m 26
- 271 -79 l 26
- 276 -79 278 -84 275 -88 c 24
- 268 -98 261 -109 250 -109 c 26
- -25 -109 l 26
- -30 -109 -32 -106 -31 -102 c 0
- -29 -97 -19 -79 -9 -79 c 26
-EndSplineSet
-Validated: 1
+Refer: 1491 -1 N 1 0 0 1 -86 -279 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vunderscore.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vunderscore.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-underscore.subs+AAoA"
 EndChar

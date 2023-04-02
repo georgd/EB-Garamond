@@ -1,12 +1,41 @@
 StartChar: Otilde.sc
-Encoding: 1114743 -1 1742
+Encoding: 316 -1 315
 GlifName: O_tilde.sc
 Width: 616
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 312 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+196 535 m 256
+ 204 535 228 572 253 572 c 256
+ 278 572 340 565 365 565 c 256
+ 390 565 450 638 450 648 c 256
+ 450 658 444 665 434 665 c 256
+ 426 665 412 631 377 631 c 256
+ 352 631 295 639 270 639 c 256
+ 245 639 182 565 182 555 c 256
+ 182 545 186 535 196 535 c 256
+60 222 m 256
+ 60 93 169 -14 302 -14 c 256
+ 466 -14 556 103 556 226 c 256
+ 556 360 433 458 302 458 c 256
+ 175 458 60 342 60 222 c 256
+296 426 m 256
+ 400 426 466 318 466 217 c 256
+ 466 138 433 22 318 22 c 256
+ 206 22 150 120 150 237 c 256
+ 150 332 202 426 296 426 c 256
+EndSplineSet
 Fore
-Refer: 1774 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 281 -1 N 1 0 0 1 0 0 2
+Refer: 1473 -1 N 1 0 0 1 329 84 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Otilde.sc+AAoA"
 EndChar

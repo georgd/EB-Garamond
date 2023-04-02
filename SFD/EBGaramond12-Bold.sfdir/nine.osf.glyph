@@ -1,0 +1,61 @@
+StartChar: nine.osf
+Encoding: 1156 -1 1155
+GlifName: nine.osf
+Width: 564
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+30 -186 m 256
+ 33 -186 36 -186 43 -185 c 256
+ 111 -173 225 -101 280 -47 c 256
+ 334 6 406 96 406 210 c 256
+ 406 328 328 414 231 414 c 256
+ 110 414 33 306 33 215 c 256
+ 33 143 93 89 162 89 c 256
+ 199 89 239 111 254 122 c 256
+ 265 130 280 144 287 157 c 256
+ 289 161 285 170 280 168 c 257
+ 255 156 241 142 200 142 c 256
+ 147 142 102 206 102 267 c 256
+ 102 316 133 378 198 378 c 256
+ 271 378 326 310 326 227 c 256
+ 326 114 286 48 250 0 c 256
+ 208 -56 92 -150 35 -168 c 256
+ 28 -170 21 -174 21 -181 c 256
+ 21 -185 25 -186 30 -186 c 256
+EndSplineSet
+Fore
+SplineSet
+35 -246 m 256
+ 41 -246 46 -245 52 -244 c 256
+ 135 -232 279 -149 344 -87 c 256
+ 408 -27 516 76 516 206 c 256
+ 516 351 408 436 278 436 c 256
+ 139 436 32 317 32 220 c 256
+ 32 117 98 59 184 59 c 256
+ 222 59 270 85 286 99 c 257
+ 293 106 300 111 307 120 c 257
+ 324 139 321 161 288 148 c 256
+ 278 144 268 141 253 141 c 256
+ 217 141 186 199 186 275 c 256
+ 186 320 209 377 257 377 c 256
+ 311 377 353 309 353 227 c 256
+ 353 108 290 -2 254 -51 c 256
+ 203 -119 148 -161 60 -198 c 257
+ 55 -201 20 -215 20 -238 c 256
+ 20 -243 26 -246 35 -246 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" nine.lf
+Substitution2: "'tnum' Tabular Numbers lookup 18 subtable" nine.tosf
+Substitution2: "'lnum' Lining Figures lookup 16 subtable" nine.lf
+Comment: "+AAoA-nine+AAoA"
+EndChar

@@ -1,0 +1,34 @@
+StartChar: gedescender-cy
+Encoding: 891 1271 890
+GlifName: gedescender-cy
+Width: 381
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 243 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+39 -276 m 256
+ 49 -276 135 -258 177 -233 c 256
+ 237 -197 252 -139 265 -74 c 256
+ 276 -19 288 39 313 79 c 257
+ 240 39 l 257
+ 253 19 l 257
+ 241 12 187 -28 170 -50 c 256
+ 138 -91 122 -124 109 -168 c 256
+ 92 -227 64 -242 33 -253 c 257
+ 27 -256 22 -258 22 -264 c 256
+ 22 -273 31 -276 39 -276 c 256
+EndSplineSet
+Refer: 1981 1075 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni0433
+p2
+sVpublic.markColor
+p3
+V0.97,1,0,1
+p4
+s."
+EndChar

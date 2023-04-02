@@ -1,13 +1,84 @@
 StartChar: tcaron
-Encoding: 357 357 264
-Width: 285
+Encoding: 1390 357 1389
+GlifName: tcaron
+Width: 265
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 77 -30 basechar 0
+AnchorPoint: "top" 219 471 basechar 0
 LayerCount: 2
+Back
+SplineSet
+292 490 m 256
+ 289 483 286 478 286 473 c 256
+ 286 469 287 467 291 467 c 256
+ 295 467 307 476 317 487 c 256
+ 332 503 389 572 389 637 c 256
+ 389 644 387 652 381 652 c 256
+ 359 652 326 622 322 601 c 256
+ 312 549 304 518 292 490 c 256
+209 68 m 256
+ 221 79 226 89 226 98 c 256
+ 226 106 214 105 198 93 c 256
+ 176 76 157 59 130 59 c 256
+ 111 59 106 80 112 99 c 258
+ 194 348 l 258
+ 197 357 213 362 225 362 c 256
+ 241 362 301 364 311 365 c 256
+ 326 366 330 374 330 377 c 256
+ 330 384 328 388 307 392 c 256
+ 289 395 259 400 232 400 c 256
+ 221 400 216 402 219 411 c 257
+ 241 470 l 258
+ 243 475 249 502 233 502 c 256
+ 224 502 190 479 179 457 c 258
+ 159 416 l 258
+ 152 401 149 398 135 398 c 258
+ 99 398 l 258
+ 81 398 65 377 65 374 c 256
+ 65 369 66 361 83 360 c 258
+ 123 358 l 257
+ 129 358 136 355 133 346 c 258
+ 43 79 l 258
+ 31 42 29 35 29 23 c 256
+ 29 -5 41 -14 62 -14 c 256
+ 90 -14 160 23 209 68 c 256
+EndSplineSet
 Fore
-Refer: 2143 -1 N 1 0 0 1 208 37 2
-Refer: 1 116 N 1 0 0 1 0 0 3
-MultipleSubs2: "cv82_decomp subtable" t uni030C.alt
-Substitution2: "Smallcaps1 subtable" tcaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" t uni030C.alt
+Refer: 1377 116 N 1 0 0 1 0 0 2
+Refer: 1807 -1 N 1 0 0 1 239 39 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vt
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni030C.alt
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vdcaron
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" tcaron.sc
+Comment: "+AAoA-tcaron+AAoA"
 EndChar

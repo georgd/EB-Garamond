@@ -1,0 +1,46 @@
+StartChar: I.sc
+Encoding: 180 -1 180
+GlifName: I_.sc
+Width: 330
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 252 503 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-18 -1 m 256
+ 10 -1 71 2 97 2 c 256
+ 123 2 194 0 220 0 c 256
+ 228 0 236 4 239 14 c 256
+ 243 25 235 29 227 33 c 256
+ 207 42 200 48 207 72 c 258
+ 302 377 l 258
+ 309 400 306 406 354 422 c 256
+ 364 426 372 430 375 439 c 256
+ 377 447 375 452 363 452 c 256
+ 337 452 262 449 235 449 c 256
+ 207 449 146 453 118 453 c 256
+ 108 453 99 449 96 440 c 256
+ 93 428 97 424 107 421 c 256
+ 136 413 142 405 134 379 c 258
+ 38 68 l 258
+ 29 40 18 36 -9 31 c 256
+ -20 29 -28 23 -31 13 c 256
+ -34 4 -27 -1 -18 -1 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VH.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-I.sc+AAoA"
+EndChar

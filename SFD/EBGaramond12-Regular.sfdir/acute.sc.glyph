@@ -1,20 +1,27 @@
 StartChar: acute.sc
-Encoding: 1114715 -1 1714
+Encoding: 511 -1 510
 GlifName: acute.sc
-Width: 382
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+LayerCount: 2
+Back
 SplineSet
-281 650 m 0
- 299 650 316 645 316 631 c 0
- 316 612 263 582 183 471 c 0
- 178 464 165 449 156 449 c 0
- 147 449 143 453 143 462 c 0
- 143 477 210 598 231 632 c 0
- 242 650 259 650 281 650 c 0
+281 650 m 256
+ 259 650 242 650 231 632 c 256
+ 210 598 143 477 143 462 c 256
+ 143 453 147 449 156 449 c 256
+ 165 449 178 464 183 471 c 256
+ 263 582 316 612 316 631 c 256
+ 316 645 299 650 281 650 c 256
 EndSplineSet
-Validated: 1
-Comment: "."
+Fore
+Refer: 519 -1 N 1 0 0 1 99 1 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-acute.sc+AAoA"
 EndChar

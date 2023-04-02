@@ -1,14 +1,12 @@
 StartChar: iota.sc
-Encoding: 1115015 -1 2727
+Encoding: 1022 -1 1021
 GlifName: iota.sc
 Width: 315
 VWidth: 0
-Flags: HM
-AnchorPoint: "grk_top" 157 590 basechar 0
-AnchorPoint: "grk_bottom" 160 -147 basechar 0
-AnchorPoint: "grk_uc_right" 301 190 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 158 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1675 -1 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 180 -1 N 1 0 0 1 0 0 2
+Comment: "+AAoA-iota.sc+AAoA"
 EndChar

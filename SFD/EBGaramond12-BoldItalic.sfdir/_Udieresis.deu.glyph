@@ -1,0 +1,43 @@
+StartChar: Udieresis.deu
+Encoding: 409 -1 408
+GlifName: U_dieresis.deu
+Width: 715
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 368 -30 basechar 0
+AnchorPoint: "top.cap" 543 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 391 85 N 1 0 0 1 0 0 2
+Refer: 1789 -1 N 0.7544 0 0 0.784 343 45 2
+Refer: 1789 -1 N 0.7544 0 0 0.784 495 47 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vuni0307.cap
+p7
+sa(dp8
+g4
+I-1
+sg5
+I2
+sg6
+Vuni0307.cap
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-Udieresis.deu+AAoA"
+EndChar

@@ -1,0 +1,74 @@
+StartChar: I
+Encoding: 177 73 177
+GlifName: I_
+Width: 381
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 115 -30 basechar 0
+AnchorPoint: "top.cap" 327 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-33 -3 m 256
+ 11 -3 79 2 119 2 c 256
+ 158 2 230 -2 272 -2 c 256
+ 282 -2 290 3 293 13 c 256
+ 297 26 291 30 281 34 c 256
+ 234 53 224 61 235 98 c 258
+ 375 550 l 258
+ 387 590 401 601 461 618 c 256
+ 475 622 483 626 487 639 c 256
+ 490 649 486 654 476 654 c 256
+ 434 654 358 650 319 650 c 256
+ 279 650 215 655 171 655 c 256
+ 163 655 151 649 148 640 c 256
+ 144 628 149 621 160 618 c 256
+ 210 604 219 594 206 551 c 258
+ 65 97 l 258
+ 52 56 34 46 -20 34 c 256
+ -33 31 -42 24 -46 12 c 256
+ -49 3 -41 -3 -33 -3 c 256
+EndSplineSet
+Fore
+SplineSet
+-33 -3 m 256
+ 11 -3 79 2 119 2 c 256
+ 158 2 242 -2 284 -2 c 256
+ 294 -2 302 3 305 13 c 256
+ 309 26 303 31 272 39 c 256
+ 227 51 224 61 249 142 c 258
+ 375 550 l 258
+ 387 590 401 601 461 618 c 256
+ 475 622 483 626 487 639 c 256
+ 490 649 486 654 476 654 c 256
+ 434 654 358 650 319 650 c 256
+ 279 650 215 655 171 655 c 256
+ 163 655 151 649 148 640 c 256
+ 144 628 149 621 160 618 c 256
+ 210 604 219 594 206 551 c 258
+ 65 97 l 258
+ 52 56 34 46 -20 34 c 256
+ -33 31 -42 24 -46 12 c 256
+ -49 3 -41 -3 -33 -3 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" I.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" I.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" I.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" I.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" I.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" I.subs
+Comment: "+AAoA-I+AAoA"
+EndChar

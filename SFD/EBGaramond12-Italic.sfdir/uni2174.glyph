@@ -1,9 +1,19 @@
 StartChar: uni2174
-Encoding: 8564 8564 859
-Width: 395
+Encoding: 2738 8564 2737
+GlifName: uni2174
+Width: 410
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 137 -30 basechar 0
+AnchorPoint: "top" 265 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 22 118 N 1 0 0 1 0 0 3
+Refer: 2970 118 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2174+AAoA"
 EndChar

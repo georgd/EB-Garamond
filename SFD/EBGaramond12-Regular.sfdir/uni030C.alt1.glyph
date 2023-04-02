@@ -1,24 +1,26 @@
 StartChar: uni030C.alt1
-Encoding: 1114121 -1 986
+Encoding: 1945 -1 1944
 GlifName: uni030C_.alt1
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_right1" 35 650 mark 0
-AnchorPoint: "top_left" 22 650 mark 0
-LayerCount: 3
+LayerCount: 2
 Fore
 SplineSet
-17 646 m 0
- 7.78059771688 653.681316394 0 662 0 675 c 0
- 0 693 16 705 34 705 c 0
- 63 705 79 674 79 644 c 0
- 79 582 29 535 14 535 c 0
- 4 535 4.28626379702e-16 536 0 543 c 0
- -4.28626379702e-16 550 8.63603896932 556.636038969 15 563 c 0
- 26.313708499 574.313708499 34 591 34 611 c 0
- 34 624 26.9876858067 637.678573907 17 646 c 0
+-27 530 m 256
+ -8 530 39 582 39 644 c 256
+ 39 674 23 705 -6 705 c 256
+ -24 705 -40 693 -40 675 c 256
+ -40 662 -32 654 -23 646 c 256
+ -13 637 -6 624 -6 611 c 256
+ -6 591 -14 574 -25 563 c 256
+ -31 557 -40 550 -40 543 c 256
+ -40 536 -37 530 -27 530 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 67 subtable" uni030C.sc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030C.alt1+AAoA"
 EndChar

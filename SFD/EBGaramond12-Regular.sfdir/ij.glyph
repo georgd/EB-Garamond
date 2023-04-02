@@ -1,13 +1,88 @@
 StartChar: ij
-Encoding: 307 307 578
+Encoding: 1013 307 1012
 GlifName: ij
-Width: 427
+Width: 463
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 116 -30 basechar 0
+AnchorPoint: "top_1" 124 440 basechar 0
+AnchorPoint: "top_2" 353 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+289 564 m 256
+ 289 536 311 514 339 514 c 256
+ 368 514 390 536 390 564 c 256
+ 390 593 368 615 339 615 c 256
+ 311 615 289 593 289 564 c 256
+382 91 m 258
+ 382 275 l 258
+ 382 320 385 388 389 429 c 257
+ 389 432 386 434 382 434 c 256
+ 374 434 329 393 262 377 c 256
+ 258 376 255 370 255 365 c 256
+ 255 359 258 353 263 352 c 256
+ 297 345 309 315 309 279 c 258
+ 309 69 l 258
+ 309 0 309 -136 280 -197 c 256
+ 261 -237 238 -254 214 -260 c 257
+ 212 -261 203 -269 203 -277 c 256
+ 203 -284 217 -287 224 -287 c 256
+ 264 -287 327 -220 352 -152 c 256
+ 381 -72 382 29 382 91 c 258
+66 565 m 256
+ 66 537 88 515 116 515 c 256
+ 145 515 167 537 167 565 c 256
+ 167 594 145 616 116 616 c 256
+ 88 616 66 594 66 565 c 256
+162 434 m 256
+ 154 434 109 393 42 377 c 256
+ 38 376 35 370 35 365 c 256
+ 35 359 38 353 43 352 c 256
+ 77 345 90 315 90 279 c 258
+ 90 62 l 258
+ 90 35 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 36 -3 44 -3 c 256
+ 83 -3 90 2 125 2 c 256
+ 160 2 168 -3 206 -3 c 256
+ 215 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 35 160 62 c 258
+ 160 294 l 258
+ 160 339 165 388 169 429 c 257
+ 169 432 166 434 162 434 c 256
+EndSplineSet
 Fore
-Refer: 16 106 N 1 0 0 1 238 0 2
-Refer: 5 105 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Smallcaps1 subtable" ij.sc
+Refer: 991 105 N 1 0 0 1 0 0 2
+Refer: 1030 106 N 1 0 0 1 237 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vj
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vi
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+g7
+sVpublic.markColor
+p11
+V0.67,0.95,0.38,1
+p12
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" ij.sc
+Comment: "+AAoA-ij+AAoA"
 EndChar

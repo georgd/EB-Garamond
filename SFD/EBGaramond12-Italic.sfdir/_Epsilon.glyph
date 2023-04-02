@@ -1,12 +1,21 @@
 StartChar: Epsilon
-Encoding: 917 917 633
-Width: 621
+Encoding: 122 917 122
+GlifName: E_psilon
+Width: 576
 VWidth: 0
-Flags: MW
-AnchorPoint: "grk_uc_top" 493 710 basechar 0
-AnchorPoint: "grk_uc_top_left" 66 665 basechar 0
+Flags: W
+AnchorPoint: "bottomgreek" 255 -30 basechar 0
+AnchorPoint: "topgreek" -6 470 basechar 0
+AnchorPoint: "bottom.cap" 288 -30 basechar 0
+AnchorPoint: "top.cap" 426 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 35 69 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 81 69 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Epsilon+AAoA"
 EndChar

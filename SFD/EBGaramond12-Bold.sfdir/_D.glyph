@@ -1,38 +1,47 @@
 StartChar: D
-Encoding: 68 68 41
-Width: 736
+Encoding: 69 68 69
+GlifName: D_
+Width: 769
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 369 10 basechar 0
-AnchorPoint: "below_accent" 340 -98 basechar 0
-AnchorPoint: "top_accent" 320 708 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 364 -30 basechar 0
+AnchorPoint: "top.cap" 381 675 basechar 0
+LayerCount: 2
 Fore
 SplineSet
-346 -7 m 0
- 328 -7 229 0 158 0 c 0
- 122 0 103 -5 55 -5 c 0
- 40 -5 28 -3 28 9 c 0
- 28 22 36 25 52 29 c 0
- 87 38 106 56 106 101 c 2
- 106 547 l 2
- 106 592 87 608 52 617 c 0
- 36 621 28 627 28 640 c 0
- 28 652 40 653 55 653 c 0
- 106.581 653 122.975 651 164 651 c 0
- 203 651 294 659 318 659 c 0
- 563 659 702 519 702 342 c 0
- 702 148 519 -7 346 -7 c 0
-228 123 m 2
- 228 46 279 33 332 33 c 0
- 441 33 557 155 557 325 c 0
- 557 512 418 623 322 623 c 0
- 261 623 228 621 228 565 c 2
- 228 123 l 2
+385 -7 m 256
+ 619 -7 744 159 744 335 c 256
+ 744 528 580 659 394 659 c 256
+ 340 659 222 650 183 650 c 256
+ 143 650 77 655 33 655 c 256
+ 25 655 15 649 15 640 c 256
+ 15 628 22 621 34 618 c 256
+ 87 606 100 594 100 551 c 258
+ 100 97 l 258
+ 100 56 85 45 34 34 c 256
+ 22 31 15 24 15 12 c 256
+ 15 3 25 -3 33 -3 c 256
+ 77 -3 143 0 183 0 c 256
+ 209 0 305 -7 385 -7 c 256
+369 48 m 256
+ 301 48 270 72 270 134 c 258
+ 270 568 l 258
+ 270 599 299 601 359 601 c 256
+ 496 601 561 481 561 306 c 256
+ 561 149 500 48 369 48 c 256
 EndSplineSet
-Substitution2: "c2sc subtable" D.sc
-Substitution2: "sups subtable" D.sups
-Substitution2: "sinf subtable" D.sinf
-Substitution2: "ordn subtable" D.ordn
-Substitution2: "subs subtable" D.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2pc' Capitals to Petite Capitals lookup 23 subtable" D.pc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" D.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" D.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" D.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" D.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" D.subs
+Comment: "+AAoA-D+AAoA"
 EndChar

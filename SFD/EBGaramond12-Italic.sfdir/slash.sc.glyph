@@ -1,11 +1,25 @@
 StartChar: slash.sc
-Encoding: 66029 -1 1621
-Width: 399
+Encoding: 1369 -1 1368
+GlifName: slash.sc
+Width: 233
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 96 47 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+-46 -62 m 256
+ -30 -62 -16 -61 -8 -47 c 258
+ 284 458 l 257
+ 288 464 284 475 277 475 c 256
+ 260 475 245 473 236 458 c 258
+ -56 -47 l 257
+ -60 -53 -53 -62 -46 -62 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-slash.sc+AAoA"
 EndChar

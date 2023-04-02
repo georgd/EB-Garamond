@@ -1,14 +1,19 @@
 StartChar: uni0430
-Encoding: 1072 1072 662
+Encoding: 2122 1072 2121
 GlifName: uni0430
 Width: 399
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 131 -100 basechar 0
-AnchorPoint: "top_accent" 190 550 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 193 -14 basechar 0
+AnchorPoint: "top" 201 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 0 97 N 1 0 0 1 0 0 3
-Validated: 1
-AlternateSubs2: "alternate_a subtable" uni0430.alt
+Refer: 495 97 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0430+AAoA"
 EndChar

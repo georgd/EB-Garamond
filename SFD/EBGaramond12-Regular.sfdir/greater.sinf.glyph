@@ -1,12 +1,25 @@
 StartChar: greater.sinf
-Encoding: 1114330 -1 1329
+Encoding: 946 -1 945
 GlifName: greater.sinf
-Width: 354
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 385
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1228 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 943 -1 N 1 0 0 1 0 -426 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vgreater.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vgreater.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-greater.sinf+AAoA"
 EndChar

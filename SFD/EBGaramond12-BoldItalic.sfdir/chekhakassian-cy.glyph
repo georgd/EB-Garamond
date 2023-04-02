@@ -1,0 +1,51 @@
+StartChar: chekhakassian-cy
+Encoding: 674 1228 673
+GlifName: chekhakassian-cy
+Width: 588
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 353 437 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-41 -276 m 256
+ -31 -276 55 -258 97 -233 c 256
+ 157 -197 172 -139 185 -74 c 256
+ 198 -7 214 64 252 103 c 257
+ 160 39 l 257
+ 173 19 l 257
+ 161 12 107 -28 90 -50 c 256
+ 58 -91 42 -124 29 -168 c 256
+ 12 -227 -16 -242 -47 -253 c 257
+ -53 -256 -58 -258 -58 -264 c 256
+ -58 -273 -49 -276 -41 -276 c 256
+EndSplineSet
+Fore
+SplineSet
+-41 -276 m 256
+ -31 -276 55 -258 97 -233 c 256
+ 157 -197 172 -139 185 -74 c 256
+ 198 -7 217 55 255 94 c 257
+ 250 94 l 257
+ 177 58 131 3 90 -50 c 256
+ 58 -91 42 -124 29 -168 c 256
+ 12 -227 -16 -242 -47 -253 c 257
+ -53 -256 -58 -258 -58 -264 c 256
+ -58 -273 -49 -276 -41 -276 c 256
+EndSplineSet
+Refer: 2005 1095 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni0447
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni0447
+p4
+sVpublic.markColor
+p5
+V0.98,0.36,0.67,1
+p6
+s."
+EndChar

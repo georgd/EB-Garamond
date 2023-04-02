@@ -1,14 +1,59 @@
 StartChar: Omicrontonos
-Encoding: 908 908 2654
+Encoding: 310 908 309
 GlifName: O_microntonos
-Width: 781
+Width: 814
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 423 -30 basechar 0
+AnchorPoint: "top.cap" 442 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+46 513 m 256
+ 66 548 117 647 117 657 c 256
+ 117 673 98 698 79 698 c 256
+ 71 698 57 692 54 680 c 256
+ 44 644 13 522 13 504 c 256
+ 13 495 13 491 22 491 c 256
+ 30 491 40 503 46 513 c 256
+96 320 m 256
+ 96 130 256 -14 433 -14 c 256
+ 652 -14 769 155 769 335 c 256
+ 769 532 615 664 441 664 c 256
+ 217 664 96 501 96 320 c 256
+426 625 m 256
+ 586 625 672 495 672 305 c 256
+ 672 134 596 25 446 25 c 256
+ 298 25 193 179 193 350 c 256
+ 193 490 278 625 426 625 c 256
+EndSplineSet
 Fore
-Refer: 2704 -1 N 1 0 0 1 -34 35 2
-Refer: 638 927 N 1 0 0 1 18 0 2
-Validated: 1
-Substitution2: "c2sc subtable" Omicrontonos.sc
-MultipleSubs2: "CCMP_Precomp subtable" Omicron acutecomb.grk
+Refer: 307 927 N 1 0 0 1 51 0 2
+Refer: 1476 900 N 1 0 0 1 -51 14 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOmicron
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VOmicron
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Omicrontonos.sc
+Comment: "+AAoA-Omicrontonos+AAoA"
 EndChar

@@ -1,14 +1,20 @@
 StartChar: uni1FB7
-Encoding: 8119 8119 2619
+Encoding: 2730 8119 2729
 GlifName: uni1F_B_7
-Width: 502
+Width: 452
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -28 basechar 0
+AnchorPoint: "top" 248 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 2265 834 N 1 0 0 1 90 23 2
-Refer: 2703 837 N 1 0 0 1 192 4 2
-Refer: 2400 945 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" alpha uni0345 uni0342
+Refer: 2728 8118 N 1 0 0 1 0 0 2
+Refer: 2037 837 N 1 0 0 1 273 2 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FB7+AAoA"
 EndChar

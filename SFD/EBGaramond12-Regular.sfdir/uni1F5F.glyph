@@ -1,16 +1,81 @@
 StartChar: uni1F5F
-Encoding: 8031 8031 2535
+Encoding: 2645 8031 2644
 GlifName: uni1F_5F_
-Width: 956
+Width: 955
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top.cap" 581 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-6 624 m 256
+ 2 624 31 665 55 665 c 256
+ 80 665 138 641 163 641 c 256
+ 205 641 248 698 248 708 c 256
+ 248 718 242 725 232 725 c 256
+ 224 725 204 699 175 699 c 256
+ 150 699 93 724 68 724 c 256
+ 25 724 -20 649 -20 639 c 256
+ -20 629 -16 624 -6 624 c 256
+125 560 m 256
+ 144 561 161 572 161 594 c 256
+ 161 610 143 620 114 620 c 256
+ 74 620 41 588 41 547 c 256
+ 41 492 94 456 133 456 c 256
+ 145 456 151 461 151 466 c 256
+ 151 470 146 475 137 478 c 256
+ 108 488 88 503 88 526 c 256
+ 88 546 105 559 125 560 c 256
+809 650 m 256
+ 659 650 586 452 582 452 c 256
+ 578 452 537 650 387 650 c 256
+ 324 650 262 591 249 575 c 256
+ 236 560 237 553 237 553 c 257
+ 237 549 244 546 247 549 c 256
+ 272 573 318 600 367 600 c 256
+ 493 600 542 405 542 287 c 258
+ 542 108 l 258
+ 542 60 514 33 464 24 c 256
+ 441 20 431 15 431 6 c 256
+ 431 -2 443 -5 460 -5 c 256
+ 514 -5 538 0 588 0 c 256
+ 634 0 651 -5 705 -5 c 256
+ 722 -5 734 -2 734 6 c 256
+ 734 15 724 20 701 24 c 256
+ 651 33 622 63 622 108 c 258
+ 622 288 l 258
+ 622 450 688 600 822 600 c 256
+ 863 600 905 589 936 567 c 256
+ 939 565 945 569 945 573 c 256
+ 945 577 938 585 934 589 c 256
+ 907 616 870 650 809 650 c 256
+EndSplineSet
 Fore
-Refer: 2265 834 N 1 0 0 1 -46 176 2
-Refer: 2702 -1 N 1 0 0 1 41 0 2
-Refer: 641 933 N 1 0 0 1 217 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Upsilon uni0314.grkstack uni0342
-Position2: "Single Positioning lookup 33 subtable" dx=0 dy=0 dh=-70 dv=0
-Position2: "Single Positioning lookup 32 subtable" dx=0 dy=0 dh=-70 dv=0
+Refer: 424 933 N 1 0 0 1 216 0 2
+Refer: 2765 8159 N 1 0 0 1 -50 24 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VUpsilon
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VUpsilon
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1F5F+AAoA"
 EndChar

@@ -1,0 +1,44 @@
+StartChar: ertick-cy
+Encoding: 823 1167 822
+GlifName: ertick-cy
+Width: 558
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 295 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+496 -133 m 256
+ 504 -127 506 -114 499 -103 c 257
+ 328 146 l 258
+ 312 170 287 176 273 167 c 256
+ 256 156 257 140 267 126 c 258
+ 436 -122 l 257
+ 448 -140 482 -144 496 -133 c 256
+EndSplineSet
+Fore
+SplineSet
+469 -86 m 256
+ 476 -81 477 -70 472 -60 c 257
+ 320 149 l 258
+ 306 168 285 174 273 166 c 256
+ 260 157 260 144 268 132 c 258
+ 418 -76 l 257
+ 429 -91 457 -95 469 -86 c 256
+EndSplineSet
+Refer: 1235 112 N 1 0 0 1 0 0 2
+Validated: 549
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vp
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.97,1,0,1
+p5
+s."
+EndChar

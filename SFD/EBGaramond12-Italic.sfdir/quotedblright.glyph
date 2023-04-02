@@ -1,34 +1,25 @@
 StartChar: quotedblright
-Encoding: 8221 8221 58
-Width: 377
+Encoding: 1275 8221 1274
+GlifName: quotedblright
+Width: 390
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
-Back
-SplineSet
-452 602 m 4
- 426 605 414 622 421 644 c 4
- 429 671 459 690 486 690 c 4
- 531 690 551 649 534 593 c 4
- 503 492 399 428 351 426 c 4
- 350 426 350 426 349 426 c 4
- 328 426 332 445 352 449 c 4
- 395 458 454 488 475 558 c 4
- 480 574 472 600 452 602 c 4
-286 602 m 4
- 260 605 249 622 256 644 c 4
- 264 671 294 690 321 690 c 4
- 366 690 385 649 368 593 c 4
- 337 492 233 428 185 426 c 4
- 184 426 185 426 184 426 c 4
- 163 426 167 445 187 449 c 4
- 230 458 288 488 309 558 c 4
- 314 574 306 600 286 602 c 4
-EndSplineSet
 Fore
-Refer: 60 8217 N 1 0 0 1 165 0 2
-Refer: 60 8217 N 1 0 0 1 0 0 2
-Validated: 1
-Position2: "Single Positioning lookup 5 subtable" dx=0 dy=0 dh=65 dv=0
-Position2: "Single Positioning lookup 3 subtable" dx=0 dy=0 dh=40 dv=0
+Refer: 1272 8222 N 1 0 0 1 178 573 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vcomma
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vcomma
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-quotedblright+AAoA"
 EndChar

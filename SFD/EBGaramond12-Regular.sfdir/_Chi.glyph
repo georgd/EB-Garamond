@@ -1,14 +1,20 @@
 StartChar: Chi
-Encoding: 935 935 642
+Encoding: 67 935 67
 GlifName: C_hi
 Width: 707
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 325 -30 basechar 0
+AnchorPoint: "top.cap" 380 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 63 88 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Chi.sc
-Position2: "rtbd subtable" dx=0 dy=0 dh=-35 dv=0
-Position2: "lfbd subtable" dx=-35 dy=0 dh=-35 dv=0
+Refer: 454 88 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Chi.sc
+Comment: "+AAoA-Chi+AAoA"
 EndChar

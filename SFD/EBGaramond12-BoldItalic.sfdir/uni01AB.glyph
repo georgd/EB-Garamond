@@ -1,0 +1,50 @@
+StartChar: uni01AB
+Encoding: 1565 427 1564
+GlifName: uni01A_B_
+Width: 398
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 137 -30 basechar 0
+AnchorPoint: "top" 290 534 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-26 -290 m 256
+ 45 -290 223 -187 268 -48 c 258
+ 338 167 l 257
+ 152 32 l 257
+ 107 -108 l 258
+ 83 -182 56 -234 23 -234 c 256
+ 4 -234 -7 -222 -19 -207 c 256
+ -32 -191 -46 -171 -69 -171 c 256
+ -85 -171 -121 -196 -124 -233 c 256
+ -126 -262 -99 -290 -26 -290 c 256
+EndSplineSet
+Fore
+SplineSet
+-26 -290 m 256
+ 70 -290 199 -178 249 -101 c 256
+ 303 -19 338 79 338 167 c 257
+ 161 32 l 257
+ 136 -178 66 -234 23 -234 c 256
+ 4 -234 -7 -222 -19 -207 c 256
+ -32 -191 -51 -175 -74 -175 c 256
+ -90 -175 -121 -196 -124 -233 c 256
+ -126 -262 -99 -290 -26 -290 c 256
+EndSplineSet
+Refer: 1377 116 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vt
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uni01AB+AAoA"
+EndChar

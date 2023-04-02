@@ -1,0 +1,40 @@
+StartChar: acutecomb.cap
+Encoding: 514 -1 513
+GlifName: acutecomb.cap
+Width: 0
+VWidth: 0
+AnchorPoint: "top.cap" 114 675 mark 0
+LayerCount: 2
+Back
+SplineSet
+98 697 m 256
+ 101 697 107 699 116 706 c 256
+ 155 737 207 773 246 808 c 256
+ 255 816 259 820 259 827 c 256
+ 259 841 215 850 201 850 c 256
+ 190 850 181 847 174 837 c 256
+ 147 798 121 758 97 718 c 256
+ 94 713 92 707 92 703 c 256
+ 92 700 94 697 98 697 c 256
+EndSplineSet
+Fore
+SplineSet
+75 681 m 256
+ 79 681 89 683 101 691 c 256
+ 153 726 211 770 262 808 c 256
+ 274 817 279 824 280 832 c 256
+ 282 849 218 865 202 865 c 256
+ 188 865 177 861 168 850 c 256
+ 131 805 101 761 70 712 c 256
+ 63 701 60 695 61 689 c 256
+ 62 684 66 681 75 681 c 256
+EndSplineSet
+Guideline: "" "" 298 681 0 0 0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-acutecomb.cap+AAoA"
+EndChar

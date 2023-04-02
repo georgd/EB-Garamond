@@ -1,0 +1,26 @@
+StartChar: Chedescenderabkhasian-cy
+Encoding: 64 1214 64
+GlifName: C_hedescenderabkhasian-cy
+Width: 800
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 485 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+455 -139 m 257
+ 501 -139 l 257
+ 501 15 l 257
+ 455 15 l 257
+ 455 -139 l 257
+EndSplineSet
+Refer: 62 1212 N 1 0 0 1 0 0 2
+Refer: 1930 -1 N 1 0 0 1 485 0 2
+Guideline: "" "" 478 -139 180 0 0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.97,1,0,1
+p2
+s."
+EndChar

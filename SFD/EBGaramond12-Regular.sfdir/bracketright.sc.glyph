@@ -1,28 +1,25 @@
 StartChar: bracketright.sc
-Encoding: 1114664 -1 1663
+Encoding: 633 -1 632
 GlifName: bracketright.sc
-Width: 370
+Width: 331
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-219 702 m 18
- 251 702 257 702 257 668 c 2
- 257 -175 l 2
- 257 -199 249 -200 226 -200 c 10
- 62 -200 l 26
- 50 -200 36 -197 36 -185 c 24
- 36 -173 49 -169 62 -167 c 2
- 174 -154 l 2
- 192 -152 209 -132 209 -105 c 2
- 209 624 l 2
- 209 643 185 667 170 667 c 2
- 62 673 l 2
- 49 674 36 678 36 688 c 0
- 36 698 45 701 54 701 c 26
- 219 702 l 18
-EndSplineSet
-Validated: 1
-Comment: "."
+Refer: 626 -1 N -1 0 0 1 331 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|bracketleft.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|bracketleft.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-bracketright.sc+AAoA"
 EndChar

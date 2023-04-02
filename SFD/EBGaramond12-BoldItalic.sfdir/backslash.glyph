@@ -1,0 +1,41 @@
+StartChar: backslash
+Encoding: 595 92 594
+GlifName: backslash
+Width: 395
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+271 -68 m 256
+ 281 -69 293 -65 292 -54 c 258
+ 199 651 l 258
+ 197 665 184 669 170 671 c 256
+ 161 672 151 665 152 655 c 258
+ 243 -50 l 258
+ 245 -62 258 -67 271 -68 c 256
+EndSplineSet
+Fore
+SplineSet
+274 -63 m 256
+ 289 -63 302 -53 301 -43 c 258
+ 214 645 l 258
+ 211 664 196 668 174 668 c 256
+ 156 668 144 655 145 646 c 258
+ 233 -42 l 258
+ 235 -60 255 -63 274 -63 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 2034 -140 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" backslash.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" backslash.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" backslash.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" backslash.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" backslash.subs
+Comment: "+AAoA-backslash+AAoA"
+EndChar

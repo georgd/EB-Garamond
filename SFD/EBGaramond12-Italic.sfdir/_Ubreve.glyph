@@ -1,13 +1,58 @@
 StartChar: Ubreve
-Encoding: 364 364 269
-Width: 737
+Encoding: 404 364 403
+GlifName: U_breve
+Width: 700
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 308 -30 basechar 0
+AnchorPoint: "top.cap" 537 815 basechar 0
 LayerCount: 2
+Back
+SplineSet
+672 799 m 256
+ 643 762 608 758 562 758 c 256
+ 531 758 501 769 494 799 c 256
+ 492 807 494 820 485 820 c 256
+ 469 820 458 797 458 774 c 256
+ 458 733 499 706 541 706 c 256
+ 619 706 705 736 705 813 c 256
+ 705 817 703 820 699 820 c 256
+ 690 820 679 808 672 799 c 256
+752 547 m 256
+ 766 587 786 615 821 622 c 256
+ 844 627 858 633 858 642 c 256
+ 858 650 850 653 834 653 c 256
+ 813 653 788 650 758 650 c 256
+ 731 650 717 651 689 651 c 256
+ 673 651 658 648 658 640 c 256
+ 658 631 671 624 683 620 c 256
+ 707 612 703 562 688 511 c 256
+ 666 434 640 344 627 300 c 256
+ 579 144 516 26 370 26 c 256
+ 272 26 193 90 234 238 c 258
+ 321 549 l 258
+ 333 589 366 616 382 621 c 256
+ 405 628 418 632 418 641 c 256
+ 418 649 411 652 395 652 c 256
+ 375 652 349 650 320 650 c 256
+ 285 650 259 653 231 653 c 256
+ 215 653 193 650 193 642 c 256
+ 193 633 205 626 225 620 c 256
+ 244 614 260 595 246 547 c 258
+ 152 222 l 258
+ 104 55 225 -14 344 -14 c 256
+ 523 -14 601 99 653 254 c 256
+ 684 346 710 432 752 547 c 256
+EndSplineSet
 Fore
-Refer: 2078 -1 N 1 0 0 1 453 0 2
-Refer: 48 85 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Ubreve.sc
-MultipleSubs2: "CCMP_Precomp subtable" U uni0306.cap
+Refer: 391 85 N 1 0 0 1 0 0 2
+Refer: 1782 -1 N 1 0 0 1 349 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Ubreve.sc
+Comment: "+AAoA-Ubreve+AAoA"
 EndChar

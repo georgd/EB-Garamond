@@ -1,10 +1,20 @@
 StartChar: uni01C9
-Encoding: 457 457 590
-Width: 420
+Encoding: 1593 457 1592
+GlifName: uni01C_9
+Width: 545
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 67 -30 basechar 0
+AnchorPoint: "top" 486 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 16 106 N 1 0 0 1 233 0 2
-Refer: 2 108 N 1 0 0 1 0 0 2
+Refer: 1026 108 N 1 0 0 1 0 0 2
+Refer: 998 106 N 1 0 0 1 286 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni01C9+AAoA"
 EndChar

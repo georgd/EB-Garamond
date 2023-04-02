@@ -1,35 +1,44 @@
 StartChar: uni019F.alt
-Encoding: 1115149 -1 2909
+Encoding: 1610 -1 1609
 GlifName: uni019F_.alt
 Width: 763
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 412 8 basechar 0
-AnchorPoint: "ogonek" 520 18 basechar 0
-AnchorPoint: "below_accent" 370 -100 basechar 0
-AnchorPoint: "top_accent" 383 710 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 391 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+139 257 m 257
+ 148 261 230 320 273 320 c 256
+ 327 320 429 276 477 276 c 256
+ 515 276 598 341 626 375 c 257
+ 626 414 l 257
+ 603 401 526 353 489 353 c 256
+ 410 353 336 397 290 397 c 256
+ 253 397 159 313 131 282 c 257
+ 139 257 l 257
+EndSplineSet
 Fore
 SplineSet
-45 320 m 0
- 45 501 166 664 390 664 c 0
- 564 664 718 532 718 335 c 0
- 718 155 601 -14 382 -14 c 0
- 205 -14 45 130 45 320 c 0
-375 625 m 0
- 227 625 142 490 142 350 c 0
- 142 332 143 314 145 297 c 1
- 173 328 253 397 290 397 c 0
- 336 397 410 353 489 353 c 0
- 526 353 589 392 612 405 c 1
- 586 539 505 625 375 625 c 0
-618 366 m 1
- 588 334 515 276 477 276 c 0
- 429 276 327 320 273 320 c 0
- 230 320 160 269 151 265 c 1
- 179 131 272 25 395 25 c 0
- 545 25 621 134 621 305 c 0
- 621 326 620 346 618 366 c 1
+139 257 m 257
+ 179 311 234 329 276 329 c 256
+ 301 329 332 320 363 309 c 256
+ 404 295 446 279 477 279 c 256
+ 539 279 609 330 626 376 c 257
+ 626 406 l 257
+ 602 383 551 351 502 351 c 256
+ 463 351 422 364 383 376 c 256
+ 348 387 314 397 282 397 c 256
+ 218 397 159 338 131 282 c 257
+ 139 257 l 257
 EndSplineSet
-Validated: 1
+Refer: 278 79 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni019F.alt+AAoA"
 EndChar

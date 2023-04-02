@@ -1,14 +1,68 @@
 StartChar: uni1E4F
-Encoding: 7759 7759 431
+Encoding: 2390 7759 2389
 GlifName: uni1E_4F_
 Width: 495
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -30 basechar 0
+AnchorPoint: "top" 254 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+170 717 m 256
+ 145 717 120 692 120 667 c 256
+ 120 642 145 617 170 617 c 256
+ 195 617 220 642 220 667 c 256
+ 220 692 195 717 170 717 c 256
+347 717 m 256
+ 322 717 297 692 297 667 c 256
+ 297 642 322 617 347 617 c 256
+ 372 617 397 642 397 667 c 256
+ 397 692 372 717 347 717 c 256
+134 475 m 256
+ 142 475 166 507 191 507 c 256
+ 216 507 278 481 303 481 c 256
+ 328 481 388 543 388 553 c 256
+ 388 563 382 570 372 570 c 256
+ 364 570 350 537 315 537 c 256
+ 290 537 233 564 208 564 c 256
+ 183 564 120 505 120 495 c 256
+ 120 485 124 475 134 475 c 256
+254 414 m 256
+ 131 414 35 298 35 187 c 256
+ 35 70 122 -14 234 -14 c 256
+ 384 -14 460 96 460 213 c 256
+ 460 321 370 414 254 414 c 256
+237 383 m 256
+ 322 383 378 284 378 189 c 256
+ 378 150 374 102 358 71 c 256
+ 338 32 300 16 255 16 c 256
+ 175 16 117 111 117 210 c 256
+ 117 258 122 309 149 343 c 256
+ 173 374 201 383 237 383 c 256
+EndSplineSet
 Fore
-Refer: 621 776 N 1 0 0 1 106 143 2
-Refer: 2251 -1 N 1 0 0 1 115 17 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" o tildecomb.stack uni0308
+Refer: 1233 245 N 1 0 0 1 0 0 2
+Refer: 732 168 N 1 0 0 1 114 122 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vdieresis
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni1E4F+AAoA"
 EndChar

@@ -1,0 +1,103 @@
+StartChar: c
+Encoding: 645 99 644
+GlifName: c
+Width: 378
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 156 -30 basechar 0
+AnchorPoint: "top" 265 440 basechar 0
+AnchorPoint: "bottom" 156 -30 basechar 0
+AnchorPoint: "top" 265 440 basechar 0
+LayerCount: 6
+Back
+SplineSet
+155 -14 m 256
+ 237 -14 338 80 338 156 c 256
+ 338 162 334 167 328 167 c 256
+ 322 167 314 162 309 155 c 256
+ 287 126 253 108 218 108 c 256
+ 171 108 142 140 143 191 c 256
+ 145 292 197 385 252 385 c 256
+ 268 385 287 370 301 345 c 256
+ 317 318 322 313 333 313 c 256
+ 353 313 376 344 376 371 c 256
+ 376 409 337 437 283 437 c 256
+ 136 437 14 300 10 129 c 256
+ 8 51 73 -14 155 -14 c 256
+EndSplineSet
+Fore
+SplineSet
+155 -14 m 256
+ 237 -14 338 80 338 156 c 256
+ 338 162 334 167 328 167 c 256
+ 322 167 314 162 309 155 c 256
+ 287 126 253 108 218 108 c 256
+ 171 108 142 140 143 191 c 256
+ 145 292 197 391 252 391 c 256
+ 268 391 287 370 301 345 c 256
+ 317 318 322 313 333 313 c 256
+ 353 313 376 344 376 371 c 256
+ 376 409 337 437 283 437 c 256
+ 136 437 14 300 10 129 c 256
+ 8 51 73 -14 155 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Layer: 4
+SplineSet
+158 -14 m 256
+ 255 -14 345 88 345 149 c 256
+ 345 155 341 160 334 160 c 256
+ 329 160 322 156 315 148 c 256
+ 285 113 257 99 228 98 c 256
+ 180 97 147 131 147 183 c 256
+ 147 304 216 400 263 400 c 256
+ 284 400 303 372 315 353 c 256
+ 326 336 334 321 350 321 c 256
+ 375 321 395 357 395 386 c 256
+ 395 409 367 437 298 437 c 256
+ 135 437 8 281 8 125 c 256
+ 8 43 84 -14 158 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Layer: 5
+SplineSet
+80 -15 m 256
+ 161 -15 233 63 233 84 c 256
+ 233 91 231 97 225 97 c 256
+ 217 97 214 93 205 84 c 256
+ 180 59 159 41 116 41 c 256
+ 87 41 68 54 68 98 c 256
+ 68 208 153 387 217 387 c 256
+ 239 387 250 372 258 357 c 256
+ 265 344 271 333 282 333 c 256
+ 296 333 312 360 312 382 c 256
+ 312 399 293 414 257 414 c 256
+ 87 414 -2 210 -4 90 c 256
+ -5 28 44 -15 80 -15 c 256
+EndSplineSet
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" C.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" c.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" c.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" c.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" c.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" c.subs
+Comment: "+AAoA-c+AAoA"
+EndChar

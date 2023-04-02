@@ -1,11 +1,18 @@
 StartChar: semicolon.ordn
-Encoding: 65837 -1 1429
-Width: 148
-VWidth: 280
-Flags: MW
+Encoding: 1333 -1 1332
+GlifName: semicolon.ordn
+Width: 161
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1225 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+Refer: 1223 -1 N 1 0 0 1 51 154 2
+Refer: 685 -1 N 1 0 0 1 -2 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-semicolon.ordn+AAoA"
 EndChar

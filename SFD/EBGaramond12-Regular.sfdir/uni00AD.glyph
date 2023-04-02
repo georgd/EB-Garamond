@@ -1,11 +1,27 @@
 StartChar: uni00AD
-Encoding: 173 173 119
+Encoding: 1553 173 1552
 GlifName: uni00A_D_
 Width: 274
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 93 45 S 1 0 0 1 0 0 2
-Validated: 1
+Refer: 984 45 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vhyphen
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vhyphen
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni00AD.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni00AD.sc
+Comment: "+AAoA-uni00AD+AAoA"
 EndChar

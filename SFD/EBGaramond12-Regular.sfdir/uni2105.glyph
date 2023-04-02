@@ -1,13 +1,94 @@
 StartChar: uni2105
-Encoding: 8453 8453 818
+Encoding: 2868 8453 2867
 GlifName: uni2105
-Width: 606
+Width: 602
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+146 401 m 256
+ 192 401 234 426 246 449 c 256
+ 248 453 251 457 251 461 c 256
+ 251 467 246 471 239 471 c 256
+ 237 471 235 470 234 469 c 256
+ 215 450 197 446 170 446 c 256
+ 120 446 94 483 94 541 c 256
+ 94 583 115 625 157 625 c 256
+ 189 625 202 617 215 596 c 256
+ 217 593 221 587 227 587 c 256
+ 240 587 253 608 253 617 c 256
+ 253 620 252 622 250 625 c 257
+ 230 647 200 654 172 654 c 256
+ 97 654 33 594 33 519 c 256
+ 33 457 83 401 146 401 c 256
+464 647 m 258
+ 26 -48 l 257
+ 25 -49 25 -50 25 -51 c 256
+ 25 -57 34 -63 42 -63 c 256
+ 57 -63 70 -61 78 -48 c 258
+ 516 647 l 257
+ 517 648 517 650 517 651 c 256
+ 517 657 510 664 503 664 c 256
+ 486 664 473 661 464 647 c 258
+441 -4 m 256
+ 531 -4 577 62 577 132 c 256
+ 577 197 518 252 453 252 c 256
+ 379 252 318 190 318 116 c 256
+ 318 44 374 -4 441 -4 c 256
+453 25 m 256
+ 409 25 381 75 381 130 c 256
+ 381 176 397 221 442 221 c 256
+ 487 221 514 169 514 117 c 256
+ 514 69 497 25 453 25 c 256
+EndSplineSet
 Fore
-Refer: 1467 -1 N 1 0 0 1 17 123 2
-Refer: 1277 -1 N 1 0 0 1 303 0 2
-Refer: 1165 8260 N 1 0 0 1 256 0 2
-Validated: 1
+Refer: 648 -1 N 1 0 0 1 8 123 2
+Refer: 897 8260 N 1 0 0 1 246 -1 2
+Refer: 1173 -1 N 1 0 0 1 293 -279 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vc.ordn
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vfraction
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vo.ordn
+p11
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p12
+Vc.ordn
+p13
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p14
+Vo.ordn
+p15
+sVpublic.markColor
+p16
+V0.67,0.95,0.38,1
+p17
+s."
+Comment: "+AAoA-uni2105+AAoA"
 EndChar

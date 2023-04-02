@@ -1,12 +1,69 @@
 StartChar: Aacute
-Encoding: 193 193 131
-Width: 772
+Encoding: 12 193 12
+GlifName: A_acute
+Width: 658
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 256 -30 basechar 0
+AnchorPoint: "top.cap" 598 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+711 697 m 256
+ 714 697 720 699 729 706 c 256
+ 768 737 820 773 859 808 c 256
+ 868 816 872 820 872 827 c 256
+ 872 841 828 850 814 850 c 256
+ 803 850 794 847 787 837 c 256
+ 760 798 734 758 710 718 c 256
+ 707 713 705 707 705 703 c 256
+ 705 700 707 697 711 697 c 256
+388 310 m 258
+ 586 506 l 258
+ 611 531 625 539 630 539 c 256
+ 636 539 635 521 626 494 c 258
+ 568 324 l 258
+ 561 303 552 297 538 296 c 258
+ 404 288 l 258
+ 368 286 376 298 388 310 c 258
+618 -5 m 256
+ 634 -5 650 -1 650 7 c 256
+ 650 16 644 24 624 28 c 256
+ 589 35 576 67 594 128 c 258
+ 749 644 l 258
+ 754 662 752 676 747 676 c 256
+ 742 676 715 644 698 636 c 256
+ 676 626 665 622 652 622 c 256
+ 644 622 627 592 598 564 c 258
+ 126 108 l 258
+ 82 65 33 42 -2 31 c 256
+ -25 24 -39 18 -39 8 c 256
+ -39 -1 -32 -5 -16 -5 c 256
+ 15 -5 56 1 97 1 c 256
+ 131 1 164 -1 181 -1 c 256
+ 197 -1 212 3 212 12 c 256
+ 212 22 208 27 187 30 c 256
+ 174 32 141 54 186 102 c 258
+ 302 226 l 258
+ 313 238 332 244 337 244 c 257
+ 518 253 l 257
+ 537 253 550 246 546 235 c 258
+ 505 112 l 258
+ 486 56 479 46 411 31 c 256
+ 393 27 374 21 374 12 c 256
+ 374 4 382 0 398 0 c 256
+ 420 0 454 1 490 1 c 256
+ 532 1 592 -5 618 -5 c 256
+EndSplineSet
 Fore
-Refer: 2468 -1 N 1 0 0 1 753 0 2
-Refer: 31 65 N 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Aacute.sc
-MultipleSubs2: "CCMP_Precomp subtable" A acutecomb.cap
+Refer: 1 65 N 1 0 0 1 0 0 2
+Refer: 513 -1 N 1 0 0 1 469 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Aacute.sc
+Comment: "+AAoA-Aacute+AAoA"
 EndChar

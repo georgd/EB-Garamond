@@ -1,0 +1,53 @@
+StartChar: uniFB03
+Encoding: 3117 64259 3116
+GlifName: uniF_B_03
+Width: 921
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+40 -3 m 256
+ 80 -3 120 2 155 2 c 256
+ 190 2 242 -3 282 -3 c 256
+ 290 -3 298 4 298 12 c 256
+ 298 22 290 30 279 33 c 256
+ 247 40 225 48 225 75 c 258
+ 225 331 l 258
+ 225 341 229 356 265 356 c 258
+ 431 356 l 258
+ 438 356 444 393 444 412 c 256
+ 444 418 443 423 440 423 c 258
+ 250 423 l 258
+ 237 423 225 427 225 445 c 258
+ 225 464 l 258
+ 225 567 260 618 310 618 c 256
+ 357 618 382 591 401 569 c 256
+ 414 552 424 538 436 538 c 256
+ 462 538 491 569 491 600 c 256
+ 491 644 437 674 345 674 c 256
+ 240 674 94 603 80 423 c 257
+ 61 412 40 406 24 400 c 256
+ 18 398 14 395 14 390 c 256
+ 14 379 20 359 28 358 c 256
+ 49 356 67 356 80 356 c 257
+ 80 71 l 258
+ 80 44 63 39 43 33 c 256
+ 32 29 20 23 20 12 c 256
+ 20 3 32 -3 40 -3 c 256
+EndSplineSet
+Refer: 3114 64257 N 1 0 0 1 314 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vf
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vi
+p4
+s."
+Ligature2: "'dlig' Discretionary Ligatures lookup 37 subtable" f f i
+Comment: "+AAoA-uniFB03+AAoA"
+EndChar

@@ -1,11 +1,23 @@
 StartChar: period.ordn
-Encoding: 65824 -1 1416
-Width: 149
-VWidth: 280
-Flags: MW
+Encoding: 1224 -1 1223
+GlifName: period.ordn
+Width: 157
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1212 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+102 272 m 256
+ 121 272 138 287 144 305 c 256
+ 150 323 141 338 122 338 c 256
+ 103 338 84 323 78 305 c 256
+ 72 287 83 272 102 272 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-period.ordn+AAoA"
 EndChar

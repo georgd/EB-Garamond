@@ -1,0 +1,58 @@
+StartChar: c_h
+Encoding: 652 -1 651
+GlifName: c_h
+Width: 930
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 156 -30 basechar 0
+AnchorPoint: "top" 265 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+476 -14 m 256
+ 496 -14 522 0 541 35 c 256
+ 611 165 712 351 751 351 c 256
+ 767 351 774 337 774 317 c 256
+ 774 234 730 47 699 47 c 256
+ 686 47 675 58 665 67 c 256
+ 654 77 650 86 635 86 c 256
+ 617 86 598 44 598 34 c 256
+ 598 17 635 -14 663 -14 c 256
+ 692 -14 805 59 823 83 c 256
+ 876 153 918 240 918 346 c 256
+ 918 396 889 437 832 437 c 256
+ 749 437 663 341 588 233 c 257
+ 583 225 573 225 577 235 c 258
+ 705 574 l 257
+ 746 593 761 624 761 646 c 256
+ 761 669 746 691 705 691 c 256
+ 656 691 613 665 594 624 c 257
+ 519 624 457 676 375 676 c 256
+ 284 676 230 614 230 530 c 256
+ 230 475 259 426 288 376 c 257
+ 311 396 l 257
+ 302 440 289 457 289 500 c 256
+ 289 553 319 583 390 583 c 256
+ 473 583 509 569 569 568 c 257
+ 428 111 l 257
+ 419 83 414 61 414 39 c 256
+ 414 6 458 -14 476 -14 c 256
+EndSplineSet
+Refer: 644 99 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vh
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'dlig' Discretionary Ligatures in Latin lookup 39 subtable" c h
+Comment: "+AAoA-c_h+AAoA"
+EndChar

@@ -1,11 +1,30 @@
 StartChar: breve
-Encoding: 728 728 345
+Encoding: 637 728 636
 GlifName: breve
-Width: 258
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 150 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+114 587 m 256
+ 112 597 109 608 99 608 c 256
+ 89 608 84 597 84 584 c 256
+ 84 534 121 478 191 478 c 256
+ 261 478 298 534 298 584 c 256
+ 298 597 293 608 283 608 c 256
+ 273 608 270 597 268 587 c 256
+ 263 562 241 538 191 538 c 256
+ 141 538 119 562 114 587 c 256
+EndSplineSet
 Fore
-Refer: 120 774 N 1 0 0 1 -40 0 2
-Validated: 1
+Refer: 1917 774 N 1 0 0 1 150 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-breve+AAoA"
 EndChar

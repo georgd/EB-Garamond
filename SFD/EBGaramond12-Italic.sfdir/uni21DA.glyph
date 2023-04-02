@@ -1,0 +1,53 @@
+StartChar: uni21DA
+Encoding: 2762 8666 2761
+GlifName: uni21D_A_
+Width: 1032
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+309 112 m 256
+ 315 112 319 114 319 119 c 256
+ 319 120 319 121 318 123 c 256
+ 311 137 303 151 296 164 c 257
+ 948 164 l 258
+ 968 164 980 183 980 199 c 256
+ 980 205 972 210 966 210 c 258
+ 268 210 l 257
+ 254 232 240 252 223 269 c 257
+ 948 269 l 258
+ 964 269 980 292 980 304 c 256
+ 980 310 972 315 966 315 c 258
+ 224 315 l 257
+ 240 332 255 352 269 374 c 257
+ 948 374 l 258
+ 968 374 980 393 980 409 c 256
+ 980 415 972 420 966 420 c 258
+ 296 420 l 257
+ 304 433 311 447 319 461 c 257
+ 321 465 321 472 310 472 c 256
+ 301 472 289 467 283 461 c 256
+ 226 402 169 345 92 305 c 257
+ 79 299 79 298 79 292 c 256
+ 79 286 82 284 91 279 c 256
+ 168 239 225 182 282 123 c 256
+ 288 117 300 112 309 112 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Varrowleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Varrowleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" a r r o w l e f t three
+Comment: "+AAoA-uni21DA+AAoA"
+EndChar

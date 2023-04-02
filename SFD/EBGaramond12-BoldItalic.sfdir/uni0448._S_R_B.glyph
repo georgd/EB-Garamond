@@ -1,0 +1,28 @@
+StartChar: uni0448.SRB
+Encoding: 2008 -1 2007
+GlifName: uni0448.S_R_B_
+Width: 831
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 340 -30 basechar 0
+AnchorPoint: "top" 502 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+137 -162 m 258
+ 461 -162 l 258
+ 486 -162 520 -114 520 -90 c 256
+ 520 -80 514 -76 496 -76 c 258
+ 176 -76 l 258
+ 157 -76 121 -109 121 -143 c 256
+ 121 -155 124 -162 137 -162 c 258
+EndSplineSet
+Refer: 2006 1096 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0448.SRB+AAoA"
+EndChar

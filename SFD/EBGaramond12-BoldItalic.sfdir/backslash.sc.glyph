@@ -1,0 +1,35 @@
+StartChar: backslash.sc
+Encoding: 597 -1 596
+GlifName: backslash.sc
+Width: 320
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+200 -62 m 256
+ 215 -62 229 -52 227 -42 c 258
+ 150 456 l 258
+ 147 475 132 478 110 478 c 256
+ 92 478 80 465 81 456 c 258
+ 159 -42 l 258
+ 162 -60 181 -62 200 -62 c 256
+EndSplineSet
+Fore
+SplineSet
+196 -63 m 256
+ 210 -67 224 -62 222 -51 c 258
+ 153 434 l 258
+ 150 456 136 464 115 471 c 256
+ 98 477 86 466 87 456 c 258
+ 157 -29 l 258
+ 160 -49 177 -58 196 -63 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-backslash.sc+AAoA"
+EndChar

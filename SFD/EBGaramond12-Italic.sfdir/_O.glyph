@@ -1,31 +1,50 @@
 StartChar: O
-Encoding: 79 79 46
-Width: 712
+Encoding: 278 79 277
+GlifName: O_
+Width: 694
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 341 8 basechar 0
-AnchorPoint: "ogonek" 463 18 basechar 0
-AnchorPoint: "below_accent" 304 -100 basechar 0
-AnchorPoint: "top_accent" 501 710 basechar 0
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 489 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+303 -14 m 256
+ 558 -14 703 215 703 407 c 256
+ 703 545 629 664 468 664 c 256
+ 213 664 68 435 68 243 c 256
+ 68 105 142 -14 303 -14 c 256
+306 17 m 256
+ 199 17 153 111 153 205 c 256
+ 153 399 287 636 465 636 c 256
+ 572 636 618 539 618 445 c 256
+ 618 251 492 17 306 17 c 256
+EndSplineSet
 Fore
 SplineSet
-479 628 m 0
- 279 628 171 386 171 186 c 8
- 171 95 245 21 336 21 c 16
- 536 21 642 284 642 484 c 0
- 642 569 564 628 479 628 c 0
-484 664 m 16
- 611 664 724 571 724 444 c 8
- 724 208 565 -14 329 -14 c 8
- 197 -14 89 94 89 226 c 16
- 89 456 254 664 484 664 c 16
+303 -14 m 256
+ 553 -14 693 215 693 407 c 256
+ 693 545 624 664 468 664 c 256
+ 218 664 78 435 78 243 c 256
+ 78 105 147 -14 303 -14 c 256
+306 17 m 256
+ 204 17 163 111 163 205 c 256
+ 163 399 292 636 465 636 c 256
+ 567 636 608 539 608 445 c 256
+ 608 251 487 17 306 17 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Swash subtable" O.sw
-Substitution2: "c2sc subtable" O.sc
-Substitution2: "sups subtable" O.sups
-Substitution2: "sinf subtable" O.sinf
-Substitution2: "ordn subtable" O.ordn
-Substitution2: "subs subtable" O.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" O.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" O.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" O.sc
+Substitution2: "Single Substitution lookup 14 subtable" ordmasculine
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" O.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" O.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" O.subs
+Comment: "+AAoA-O+AAoA"
 EndChar

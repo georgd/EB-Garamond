@@ -1,12 +1,62 @@
 StartChar: IJ
-Encoding: 306 306 579
-Width: 669
+Encoding: 185 306 185
+GlifName: I_J_
+Width: 655
 VWidth: 0
-Flags: M
+Flags: W
+AnchorPoint: "bottom.cap" 118 -30 basechar 0
+AnchorPoint: "top.cap_1" 331 675 basechar 0
+AnchorPoint: "top.cap_2" 657 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+343 -158 m 256
+ 327 -158 315 -152 308 -129 c 256
+ 302 -111 294 -103 270 -103 c 256
+ 253 -103 220 -130 220 -158 c 256
+ 220 -180 243 -200 303 -200 c 256
+ 358 -200 400 -173 437 -134 c 256
+ 475 -94 507 -68 571 142 c 258
+ 696 551 l 258
+ 711 597 722 613 771 622 c 256
+ 794 626 807 633 807 642 c 256
+ 807 650 800 653 784 653 c 256
+ 734 653 729 650 695 650 c 256
+ 652 650 638 653 588 653 c 256
+ 572 653 557 650 557 642 c 256
+ 557 633 562 626 582 622 c 256
+ 626 613 636 597 621 551 c 258
+ 453 0 l 258
+ 423 -97 387 -158 343 -158 c 256
+275 550 m 258
+ 137 98 l 258
+ 123 51 90 33 41 24 c 256
+ 18 20 5 15 5 6 c 256
+ 5 -2 13 -5 29 -5 c 256
+ 79 -5 103 0 149 0 c 256
+ 192 0 207 -5 257 -5 c 256
+ 273 -5 287 -2 287 6 c 256
+ 287 15 282 20 262 24 c 256
+ 218 33 197 51 211 98 c 258
+ 349 550 l 258
+ 363 597 388 613 437 622 c 256
+ 460 626 474 633 474 642 c 256
+ 474 650 466 653 450 653 c 256
+ 400 653 388 650 348 650 c 256
+ 305 650 290 653 240 653 c 256
+ 224 653 210 650 210 642 c 256
+ 210 633 214 626 234 622 c 256
+ 278 613 289 597 275 550 c 258
+EndSplineSet
 Fore
-Refer: 42 74 N 1 0 0 1 353 0 2
-Refer: 33 73 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "c2sc subtable" IJ.sc
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 209 74 N 1 0 0 1 362 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" IJ.sc
+Comment: "+AAoA-IJ+AAoA"
 EndChar

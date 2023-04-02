@@ -1,23 +1,43 @@
 StartChar: uni2C7A
-Encoding: 11386 11386 3008
+Encoding: 3061 11386 3060
 GlifName: uni2C_7A_
 Width: 495
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-265 157 m 0
- 309 157 346 123 346 79 c 0
- 346 27 303 -10 259 -10 c 0
- 215 -10 178 29 178 73 c 0
- 178 117 221 157 265 157 c 0
-219 78 m 0
- 219 45 238 16 266 16 c 0
- 296 16 305 40 305 72 c 0
- 305 100 284 130 256 130 c 0
- 228 130 219 106 219 78 c 0
+234 -14 m 256
+ 384 -14 460 96 460 213 c 256
+ 460 321 370 414 254 414 c 256
+ 131 414 35 298 35 187 c 256
+ 35 70 122 -14 234 -14 c 256
+259 -10 m 256
+ 303 -10 346 27 346 79 c 256
+ 346 123 309 157 265 157 c 256
+ 221 157 178 117 178 73 c 256
+ 178 29 215 -10 259 -10 c 256
+266 16 m 256
+ 238 16 219 45 219 78 c 256
+ 219 106 228 130 256 130 c 256
+ 284 130 305 100 305 72 c 256
+ 305 40 296 16 266 16 c 256
+255 16 m 256
+ 175 16 117 111 117 210 c 256
+ 117 258 122 309 149 343 c 256
+ 173 374 201 383 237 383 c 256
+ 322 383 378 284 378 189 c 256
+ 378 150 374 102 358 71 c 256
+ 338 32 300 16 255 16 c 256
 EndSplineSet
-Refer: 3 111 N 1 0 0 1 0 0 2
-Validated: 5
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+s."
+Comment: "+AAoA-uni2C7A+AAoA"
 EndChar

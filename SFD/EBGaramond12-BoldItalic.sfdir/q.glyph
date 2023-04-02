@@ -1,0 +1,81 @@
+StartChar: q
+Encoding: 1251 113 1250
+GlifName: q
+Width: 558
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+108 -288 m 256
+ 166 -282 263 -277 373 -277 c 256
+ 385 -277 395 -272 395 -265 c 256
+ 395 -256 386 -250 361 -246 c 256
+ 336 -242 318 -227 328 -198 c 258
+ 514 355 l 258
+ 541 438 529 469 507 469 c 256
+ 486 469 462 458 438 424 c 258
+ 430 412 l 258
+ 420 398 411 395 402 395 c 256
+ 395 395 385 402 375 416 c 256
+ 363 433 338 444 318 444 c 256
+ 256 444 184 403 126 344 c 256
+ 51 267 -7 176 -7 89 c 256
+ -7 29 32 -14 83 -14 c 256
+ 149 -14 220 31 308 148 c 256
+ 314 156 318 156 314 146 c 256
+ 270 27 221 -119 189 -205 c 256
+ 177 -238 163 -244 119 -256 c 256
+ 108 -259 100 -264 99 -274 c 256
+ 98 -281 102 -289 108 -288 c 256
+163 68 m 256
+ 146 68 140 80 140 96 c 256
+ 140 171 255 393 321 393 c 256
+ 345 393 367 357 367 336 c 256
+ 367 309 335 267 299 212 c 256
+ 252 140 198 68 163 68 c 256
+EndSplineSet
+Fore
+SplineSet
+108 -288 m 256
+ 166 -282 263 -277 373 -277 c 256
+ 385 -277 395 -272 395 -265 c 256
+ 395 -256 386 -250 361 -246 c 256
+ 336 -242 318 -227 328 -198 c 258
+ 514 355 l 258
+ 541 438 529 469 507 469 c 256
+ 486 469 462 458 438 424 c 258
+ 430 412 l 258
+ 424 404 418 399 412 399 c 256
+ 405 398 398 404 389 416 c 256
+ 377 433 352 444 332 444 c 256
+ 270 444 198 403 140 344 c 256
+ 65 267 7 176 7 89 c 256
+ 7 29 46 -14 97 -14 c 256
+ 163 -14 211 20 299 137 c 256
+ 305 145 314 145 310 135 c 256
+ 266 17 221 -119 189 -205 c 256
+ 177 -238 163 -244 119 -256 c 256
+ 108 -259 100 -264 99 -274 c 256
+ 98 -281 102 -289 108 -288 c 256
+177 68 m 256
+ 160 68 154 80 154 96 c 256
+ 154 171 269 393 335 393 c 256
+ 359 393 381 357 381 336 c 256
+ 381 309 349 267 313 212 c 256
+ 266 140 212 68 177 68 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" Q.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" q.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" q.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" q.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" q.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" q.subs
+Comment: "+AAoA-q+AAoA"
+EndChar

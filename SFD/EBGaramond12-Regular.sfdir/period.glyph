@@ -1,22 +1,29 @@
 StartChar: period
-Encoding: 46 46 39
+Encoding: 1272 46 1271
 GlifName: period
 Width: 230
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-115 96 m 24
- 145 96 170 71 170 41 c 24
- 170 11 145 -14 115 -14 c 24
- 85 -14 60 11 60 41 c 24
- 60 71 85 96 115 96 c 24
+115 -14 m 256
+ 145 -14 170 11 170 41 c 256
+ 170 71 145 96 115 96 c 256
+ 85 96 60 71 60 41 c 256
+ 60 11 85 -14 115 -14 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" period.sups
-Substitution2: "sinf subtable" period.sinf
-Substitution2: "ordn subtable" period.ordn
-Substitution2: "subs subtable" period.subs
-Position2: "rtbd subtable" dx=0 dy=0 dh=-161 dv=0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" period.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" period.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" period.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" period.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" period.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" period.subs
+Comment: "+AAoA-period+AAoA"
 EndChar

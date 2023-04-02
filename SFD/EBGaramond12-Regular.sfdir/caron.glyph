@@ -1,11 +1,33 @@
 StartChar: caron
-Encoding: 711 711 972
+Encoding: 660 711 659
 GlifName: caron
-Width: 277
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 150 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+135 550 m 257
+ 110 580 81 618 69 634 c 256
+ 62 643 47 656 39 656 c 256
+ 30 656 30 652 30 643 c 256
+ 30 628 98 506 118 473 c 257
+ 123 464 130 455 138 455 c 256
+ 146 455 153 464 158 473 c 257
+ 178 506 247 628 247 643 c 256
+ 247 652 247 656 238 656 c 256
+ 230 656 215 644 208 634 c 256
+ 196 618 166 580 142 550 c 256
+ 139 546 138 546 135 550 c 257
+EndSplineSet
 Fore
-Refer: 92 780 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1942 780 N 1 0 0 1 150 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-caron+AAoA"
 EndChar

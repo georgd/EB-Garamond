@@ -1,0 +1,51 @@
+StartChar: uni203E
+Encoding: 2828 8254 2827
+GlifName: uni203E_
+Width: 585
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+62 60 m 258
+ 417 60 l 258
+ 436 60 448 76 448 98 c 256
+ 448 104 441 110 435 110 c 258
+ 72 110 l 258
+ 54 110 48 81 48 72 c 256
+ 48 66 55 60 62 60 c 258
+312 570 m 258
+ 667 570 l 258
+ 686 570 698 586 698 608 c 256
+ 698 614 691 620 685 620 c 258
+ 322 620 l 258
+ 304 620 298 591 298 582 c 256
+ 298 576 305 570 312 570 c 258
+EndSplineSet
+Fore
+SplineSet
+50 565 m 258
+ 520 565 l 258
+ 537 565 550 592 550 607 c 256
+ 550 616 542 622 529 622 c 258
+ 61 622 l 258
+ 42 622 35 590 35 578 c 256
+ 35 573 42 565 50 565 c 258
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vendash
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vendash
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni203E+AAoA"
+EndChar

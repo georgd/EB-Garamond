@@ -1,37 +1,71 @@
 StartChar: I
-Encoding: 73 73 31
-Width: 329
+Encoding: 177 73 177
+GlifName: I_
+Width: 369
 VWidth: 0
-Flags: MW
-AnchorPoint: "ogonek" 219 21 basechar 0
-AnchorPoint: "below_accent" 165 -98 basechar 0
-AnchorPoint: "top_accent" 165 708 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 183 -30 basechar 0
+AnchorPoint: "top.cap" 188 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+13 -3 m 256
+ 57 -3 108 2 148 2 c 256
+ 187 2 245 -2 287 -2 c 256
+ 297 -2 303 3 303 13 c 256
+ 303 26 296 30 284 34 c 256
+ 242 49 229 59 229 78 c 258
+ 229 574 l 258
+ 229 593 242 603 284 618 c 256
+ 296 622 303 626 303 639 c 256
+ 303 649 297 654 287 654 c 256
+ 245 654 187 650 148 650 c 256
+ 108 650 57 655 13 655 c 256
+ 5 655 -5 649 -5 640 c 256
+ -5 628 2 621 14 618 c 256
+ 55 607 70 598 70 575 c 258
+ 70 77 l 258
+ 70 54 55 45 14 34 c 256
+ 2 31 -5 24 -5 12 c 256
+ -5 3 5 -3 13 -3 c 256
+EndSplineSet
 Fore
 SplineSet
-104 548 m 2
- 104 592 85 608 50 617 c 0
- 34 621 26 626 26 639 c 0
- 26 651 38 653 53 653 c 0
- 103 653 127 650 170 650 c 0
- 210 650 229 653 279 653 c 0
- 294 653 306 651 306 639 c 0
- 306 626 299 621 283 617 c 0
- 248 608 226 592 226 548 c 2
- 226 100 l 2
- 226 56 253 38 288 29 c 0
- 304 25 312 22 312 9 c 0
- 312 -3 300 -5 285 -5 c 0
- 236 -5 212 0 170 0 c 0
- 124 0 94 -5 45 -5 c 0
- 30 -5 18 -3 18 9 c 0
- 18 22 26 25 42 29 c 0
- 77 38 104 56 104 100 c 2
- 104 548 l 2
+33 -3 m 256
+ 77 -3 143 2 183 2 c 256
+ 222 2 296 -2 338 -2 c 256
+ 348 -2 354 3 354 13 c 256
+ 354 26 347 30 335 34 c 256
+ 283 49 270 61 270 98 c 258
+ 270 550 l 258
+ 270 590 280 602 335 618 c 256
+ 347 622 354 626 354 639 c 256
+ 354 649 348 654 338 654 c 256
+ 296 654 222 650 183 650 c 256
+ 143 650 77 655 33 655 c 256
+ 25 655 15 649 15 640 c 256
+ 15 628 22 621 34 618 c 256
+ 87 606 100 594 100 551 c 258
+ 100 97 l 258
+ 100 56 85 45 34 34 c 256
+ 22 31 15 24 15 12 c 256
+ 15 3 25 -3 33 -3 c 256
 EndSplineSet
-Substitution2: "c2sc subtable" I.sc
-Substitution2: "sups subtable" I.sups
-Substitution2: "sinf subtable" I.sinf
-Substitution2: "ordn subtable" I.ordn
-Substitution2: "subs subtable" I.subs
+Guideline: "" "" 70 68 90 0 0
+Guideline: "" "" 352 98 0.3603 0 0
+Guideline: "" "" 268 550 0 0 0
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2pc' Capitals to Petite Capitals lookup 23 subtable" I.pc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" I.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" I.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" I.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" I.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" I.subs
+Comment: "+AAoA-I+AAoA"
 EndChar

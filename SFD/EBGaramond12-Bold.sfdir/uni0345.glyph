@@ -1,0 +1,42 @@
+StartChar: uni0345
+Encoding: 2038 837 2037
+GlifName: uni0345
+Width: 0
+VWidth: 0
+AnchorPoint: "bottom" -21 -30 mark 0
+LayerCount: 2
+Back
+SplineSet
+-10 -252 m 256
+ 60 -252 103 -191 103 -164 c 256
+ 103 -155 96 -151 87 -151 c 256
+ 82 -151 66 -162 41 -160 c 256
+ 5 -157 11 -118 22 -56 c 256
+ 24 -45 14 -40 -3 -41 c 258
+ -60 -43 l 257
+ -87 -48 -103 -64 -103 -142 c 256
+ -103 -211 -64 -252 -10 -252 c 256
+EndSplineSet
+Fore
+SplineSet
+-10 -252 m 256
+ 60 -252 103 -191 103 -164 c 256
+ 103 -155 96 -151 87 -151 c 256
+ 82 -151 66 -162 41 -160 c 256
+ 5 -157 11 -118 22 -56 c 256
+ 24 -45 14 -40 -3 -41 c 258
+ -60 -43 l 257
+ -87 -48 -103 -64 -103 -142 c 256
+ -103 -211 -64 -252 -10 -252 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni0345.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni0345.sc
+Comment: "+AAoA-uni0345+AAoA"
+EndChar

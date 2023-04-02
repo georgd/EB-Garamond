@@ -1,11 +1,18 @@
 StartChar: uni1D1C
-Encoding: 7452 7452 2867
+Encoding: 2252 7452 2251
 GlifName: uni1D_1C_
-Width: 600
+Width: 532
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 277.474 445.909 basechar 0
+LayerCount: 2
 Fore
-Refer: 2993 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 400 -1 N 0.8865 0 0 0.8865 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1D1C+AAoA"
 EndChar

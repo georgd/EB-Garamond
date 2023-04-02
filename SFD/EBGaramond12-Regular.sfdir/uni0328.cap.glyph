@@ -1,23 +1,38 @@
 StartChar: uni0328.cap
-Encoding: 1114153 -1 1076
+Encoding: 2001 -1 2000
 GlifName: uni0328.cap
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "ogonek" 188 18 mark 0
-LayerCount: 3
+LayerCount: 2
+Back
+SplineSet
+119 -287 m 256
+ 173 -287 250 -225 250 -182 c 256
+ 250 -174 243 -173 238 -176 c 256
+ 229 -181 191 -216 156 -216 c 256
+ 121 -216 90 -190 90 -155 c 256
+ 90 -55 202 18 202 18 c 257
+ 176 18 l 257
+ 176 18 5 -73 5 -174 c 256
+ 5 -237 56 -287 119 -287 c 256
+EndSplineSet
 Fore
 SplineSet
-119 -287 m 8
- 56 -287 5 -237 5 -174 c 16
- 5 -73 176 18 176 18 c 9
- 202 18 l 17
- 202 18 90 -55 90 -155 c 0
- 90 -190 121 -216 156 -216 c 16
- 191 -216 229 -181 238 -176 c 8
- 243 -173 250 -174 250 -182 c 0
- 250 -225 173 -287 119 -287 c 8
+-8 -287 m 256
+ 46 -287 123 -225 123 -182 c 256
+ 123 -174 116 -173 111 -176 c 256
+ 102 -181 64 -216 29 -216 c 256
+ -6 -216 -37 -190 -37 -155 c 256
+ -37 -55 75 18 75 18 c 257
+ 49 18 l 257
+ 49 18 -122 -73 -122 -174 c 256
+ -122 -237 -71 -287 -8 -287 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "c2sc subtable" uni0328
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0328.cap+AAoA"
 EndChar

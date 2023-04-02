@@ -1,9 +1,31 @@
 StartChar: uni1D38
-Encoding: 7480 7480 704
-Width: 619
+Encoding: 2112 7480 2111
+GlifName: uni1D_38
+Width: 364
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 36 76 N 1 0 0 1 0 0 3
+Refer: 236 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I1
+sVindex
+p5
+I0
+sVname
+p6
+VL.ordn
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni1D38+AAoA"
 EndChar

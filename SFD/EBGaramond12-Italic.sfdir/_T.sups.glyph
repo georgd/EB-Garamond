@@ -1,11 +1,39 @@
 StartChar: T.sups
-Encoding: 65964 -1 1556
-Width: 412
-VWidth: 440
-Flags: MW
+Encoding: 379 -1 378
+GlifName: T_.sups
+Width: 437
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1250 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 373 -1 N 1 0 0 1 50 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VT.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VT.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VT.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-T.sups+AAoA"
 EndChar

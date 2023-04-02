@@ -1,0 +1,41 @@
+StartChar: hyphen
+Encoding: 956 45 955
+GlifName: hyphen
+Width: 333
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+25 163 m 256
+ 101 170 201 183 279 194 c 256
+ 295 197 303 207 316 250 c 256
+ 319 261 318 268 304 267 c 256
+ 229 261 138 250 61 238 c 256
+ 44 235 31 218 17 174 c 256
+ 15 167 16 162 25 163 c 256
+EndSplineSet
+Fore
+SplineSet
+30 163 m 256
+ 106 170 201 183 279 194 c 256
+ 295 197 318 232 318 249 c 256
+ 318 260 318 268 304 267 c 256
+ 229 261 138 250 61 238 c 256
+ 44 235 17 212 17 174 c 256
+ 17 167 21 162 30 163 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 3028 -45 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" hyphen.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" hyphen.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" hyphen.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" hyphen.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" hyphen.subs
+Comment: "+AAoA-hyphen+AAoA"
+EndChar

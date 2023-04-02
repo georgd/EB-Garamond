@@ -1,45 +1,85 @@
 StartChar: asterisk
-Encoding: 42 42 1017
+Encoding: 573 42 572
 GlifName: asterisk
 Width: 340
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+184 372 m 256
+ 196 372 201 383 201 394 c 257
+ 200 429 198 459 195 487 c 257
+ 221 476 250 466 282 452 c 257
+ 285 451 287 451 290 451 c 256
+ 299 451 307 455 307 465 c 256
+ 307 472 302 480 295 483 c 257
+ 264 501 239 513 213 525 c 257
+ 286 583 l 257
+ 291 588 295 594 295 600 c 256
+ 295 610 285 614 277 614 c 256
+ 273 614 269 613 266 610 c 257
+ 236 592 210 576 187 560 c 257
+ 174 652 l 258
+ 173 661 166 670 157 670 c 256
+ 145 670 140 659 140 648 c 256
+ 141 613 143 583 146 555 c 257
+ 120 566 91 576 59 590 c 257
+ 56 591 54 591 51 591 c 256
+ 42 591 34 587 34 577 c 256
+ 34 570 39 562 46 559 c 257
+ 77 541 102 529 128 517 c 257
+ 55 459 l 257
+ 50 454 46 448 46 442 c 256
+ 46 432 56 428 64 428 c 256
+ 68 428 72 429 75 432 c 257
+ 105 450 131 466 154 482 c 257
+ 167 390 l 258
+ 168 381 175 372 184 372 c 256
+EndSplineSet
 Fore
 SplineSet
-34 577 m 0
- 34 587 42 591 51 591 c 0
- 54 591 56 591 59 590 c 0
- 91 576 120 566 146 555 c 1
- 143 583 141 613 140 648 c 0
- 140 659 145 670 157 670 c 0
- 166 670 173 661 174 652 c 2
- 187 560 l 1
- 210 576 236 592 266 610 c 1
- 269 613 273 614 277 614 c 0
- 285 614 295 610 295 600 c 0
- 295 594 291 588 286 583 c 2
- 213 525 l 1
- 239 513 264 501 295 483 c 0
- 302 480 307 472 307 465 c 0
- 307 455 299 451 290 451 c 0
- 287 451 285 451 282 452 c 0
- 250 466 221 476 195 487 c 1
- 198 459 200 429 201 394 c 0
- 201 383 196 372 184 372 c 0
- 175 372 168 381 167 390 c 2
- 154 482 l 1
- 131 466 105 450 75 432 c 1
- 72 429 68 428 64 428 c 0
- 56 428 46 432 46 442 c 0
- 46 448 50 454 55 459 c 2
- 128 517 l 1
- 102 529 77 541 46 559 c 0
- 39 562 34 570 34 577 c 0
+184 372 m 256
+ 196 372 201 383 201 394 c 257
+ 200 429 198 459 195 487 c 257
+ 221 476 250 466 282 452 c 256
+ 290 449 307 451 307 465 c 256
+ 307 472 302 480 295 483 c 257
+ 264 501 239 513 213 525 c 257
+ 286 583 l 257
+ 291 588 295 594 295 600 c 256
+ 295 610 285 614 277 614 c 256
+ 273 614 269 613 266 610 c 257
+ 236 592 210 576 187 560 c 257
+ 174 652 l 258
+ 173 661 166 670 157 670 c 256
+ 145 670 140 659 140 648 c 256
+ 141 613 143 583 146 555 c 257
+ 120 566 91 576 59 590 c 257
+ 51 593 34 591 34 577 c 256
+ 34 570 39 562 46 559 c 257
+ 77 541 102 529 128 517 c 257
+ 55 459 l 257
+ 50 454 46 448 46 442 c 256
+ 46 432 56 428 64 428 c 256
+ 68 428 72 429 75 432 c 257
+ 105 450 131 466 154 482 c 257
+ 167 390 l 258
+ 168 381 175 372 184 372 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" asterisk.sups
-Substitution2: "sinf subtable" asterisk.sinf
-Substitution2: "ordn subtable" asterisk.ordn
-Substitution2: "subs subtable" asterisk.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 477 -25 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'ss04' Style Set 4 lookup 33 subtable" uni2766
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" asterisk.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" asterisk.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" asterisk.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" asterisk.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" asterisk.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" asterisk.subs
+Comment: "+AAoA-asterisk+AAoA"
 EndChar

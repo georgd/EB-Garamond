@@ -1,45 +1,44 @@
 StartChar: longs_h
-Encoding: 65596 -1 1124
-Width: 764
-Flags: MW
+Encoding: 1058 -1 1057
+GlifName: longs_h
+Width: 799
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 491 -30 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-517 674 m 2
- 385 212 l 2
- 382 202 389 202 394 208 c 0
- 521 368 608 421 673 421 c 0
- 712 421 729 394 729 333 c 0
- 729 213 627 -14 490 -14 c 0
- 467 -14 447 1 447 23 c 16
- 447 36 462 52 474 52 c 0
- 498 52 508 27 530 27 c 0
- 598 27 663 255 663 332 c 0
- 663 356 653 379 640 379 c 0
- 618 379 584 368 508 292 c 0
- 473 258 390 151 350 78 c 0
- 315 14 304 -18 288 -18 c 0
- 278 -18 271 4 271 16 c 0
- 271 22 273 36 284 75 c 2
- 425 558 l 2
- 431 579 435 599 435 616 c 0
- 435 638 422 665 372 665 c 0
- 319 664 264 580 244 532 c 8
- 161 332 128 172 87 0 c 0
- 37 -216 -68 -288 -121 -288 c 0
- -171 -288 -217 -266 -217 -244 c 0
- -217 -220 -195 -191 -181 -191 c 0
- -155 -191 -135 -240 -93 -240 c 0
- -58 -240 -29 -206 7 -58 c 0
- 39 69 93 318 129 411 c 0
- 210 621 289 704 408 704 c 0
- 431 704 439 700 451 689 c 0
- 455 686 462 685 466 688 c 0
- 482 700 505 707 512 707 c 0
- 518 707 519 707 519 697 c 0
- 519 686 520 684 517 674 c 2
+-111 -290 m 256
+ -5 -290 68 -186 108 -42 c 258
+ 168 172 l 258
+ 236 413 281 663 421 663 c 256
+ 472 663 502 640 528 579 c 257
+ 564 626 l 257
+ 564 667 523 705 453 705 c 256
+ 263 705 172 436 106 184 c 258
+ 48 -38 l 258
+ 14 -161 -21 -250 -71 -250 c 256
+ -95 -250 -111 -239 -123 -226 c 256
+ -136 -212 -145 -198 -155 -198 c 256
+ -168 -198 -194 -220 -194 -240 c 256
+ -194 -273 -161 -290 -111 -290 c 256
 EndSplineSet
-Validated: 1
-Ligature2: "liga_standard subtable" longs h
-LCarets2: 1 269
+Refer: 933 104 N 1 0 0 1 311 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vlongs
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vh
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'dlig' Discretionary Ligatures in Latin lookup 39 subtable" longs h
+Ligature2: "'hlig' Historic Ligatures in Latin lookup 28 subtable" longs h
+Comment: "+AAoA-longs_h+AAoA"
 EndChar

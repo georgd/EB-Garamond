@@ -1,31 +1,32 @@
 StartChar: uni030C
-Encoding: 780 780 92
+Encoding: 1943 780 1942
 GlifName: uni030C_
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 139 533 mark 0
-LayerCount: 3
+AnchorPoint: "top" 1 440 mark 0
+LayerCount: 2
 Fore
 SplineSet
-135 533 m 0
- 138 529 139 529 142 533 c 0
- 164 563 195 603 208 618 c 0
- 216 627 229 640 237 640 c 0
- 246 640 246 636 246 627 c 0
- 246 614 178 504 158 473 c 0
- 153 465 146 455 138 455 c 0
- 130 455 123 465 118 473 c 0
- 98 504 30 614 30 627 c 0
- 30 636 30 640 39 640 c 0
- 47 640 61 627 69 618 c 0
- 82 603 113 563 135 533 c 0
+0 455 m 256
+ 8 455 15 465 20 473 c 256
+ 40 504 108 622 108 635 c 256
+ 108 644 108 648 99 648 c 256
+ 91 648 78 635 70 626 c 256
+ 57 611 26 571 4 541 c 256
+ 1 537 0 537 -3 541 c 256
+ -25 571 -56 611 -69 626 c 256
+ -77 635 -91 648 -99 648 c 256
+ -108 648 -108 644 -108 635 c 256
+ -108 622 -40 504 -20 473 c 256
+ -15 465 -8 455 0 455 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" uni030C.sc
-Substitution2: "Single Substitution lookup 17 subtable" uni030C.stack
-Substitution2: "Single Substitution lookup 15 subtable" uni030C.stack
-Substitution2: "Single Substitution lookup 13 subtable" uni030C.flat
-Substitution2: "Single Substitution lookup 12 subtable" uni030C.alt
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni030C.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni030C.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni030C.sc
+Comment: "+AAoA-uni030C+AAoA"
 EndChar

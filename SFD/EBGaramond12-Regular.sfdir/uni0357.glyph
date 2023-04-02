@@ -1,22 +1,27 @@
 StartChar: uni0357
-Encoding: 855 855 2264
+Encoding: 2046 855 2045
 GlifName: uni0357
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 99 531 mark 0
-LayerCount: 3
+AnchorPoint: "top" -63 440 mark 0
+LayerCount: 2
 Fore
 SplineSet
-58 647 m 0
- 111 647 149 612 149 568 c 0
- 149 516 107 479 54 479 c 0
- 47 479 44 482 44 487 c 0
- 44 495 52 505 58 505 c 0
- 94 505 111 529 111 557 c 0
- 111 596 90 622 54 622 c 0
- 48 622 46 626 46 630 c 0
- 46 637 52 647 58 647 c 0
+-43 479 m 256
+ 10 479 52 516 52 568 c 256
+ 52 612 14 647 -39 647 c 256
+ -45 647 -51 637 -51 630 c 256
+ -51 626 -49 622 -43 622 c 256
+ -7 622 14 596 14 557 c 256
+ 14 529 -3 505 -39 505 c 256
+ -45 505 -53 495 -53 487 c 256
+ -53 482 -50 479 -43 479 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0357+AAoA"
 EndChar

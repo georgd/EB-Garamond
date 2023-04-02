@@ -1,21 +1,23 @@
 StartChar: uni0307.cap
-Encoding: 1114130 -1 1011
+Encoding: 1926 -1 1925
 GlifName: uni0307.cap
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 60 725 mark 0
-AnchorPoint: "top_stack" 60 830 basemark 0
-AnchorPoint: "top_accent" 60 710 mark 0
-LayerCount: 3
+AnchorPoint: "top.cap" 0 675 mark 0
+LayerCount: 2
 Fore
 SplineSet
-60 805 m 24
- 90 805 115 780 115 750 c 24
- 115 720 90 695 60 695 c 24
- 30 695 5 720 5 750 c 24
- 5 780 30 805 60 805 c 24
+0 695 m 256
+ 30 695 55 720 55 750 c 256
+ 55 780 30 805 0 805 c 256
+ -30 805 -55 780 -55 750 c 256
+ -55 720 -30 695 0 695 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "c2sc subtable" uni0307.sc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0307.cap+AAoA"
 EndChar

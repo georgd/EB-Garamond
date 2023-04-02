@@ -1,0 +1,27 @@
+StartChar: Ccedilla
+Encoding: 56 199 56
+GlifName: C_cedilla
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 537 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 43 67 N 1 0 0 1 0 0 2
+Refer: 1861 -1 N 1 0 0 1 398 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VC
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Ccedilla.sc
+Comment: "+AAoA-Ccedilla+AAoA"
+EndChar

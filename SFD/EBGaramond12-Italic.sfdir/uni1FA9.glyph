@@ -1,12 +1,24 @@
 StartChar: uni1FA9
-Encoding: 8105 8105 2423
-Width: 770
+Encoding: 2552 8105 2551
+GlifName: uni1F_A_9
+Width: 856
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottomgreek" 386 -30 basechar 0
+AnchorPoint: "topgreek" 115 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 127 788 N 1 0 0 1 -88 100 2
-Refer: 2371 837 N 1 0 0 1 365 -65 2
-Refer: 1133 937 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" uni03A9 uni0314
+Refer: 2489 8041 N 1 0 0 1 0 0 2
+Refer: 1901 837 N 1 0 0 1 481 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VOmega
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni1FA9+AAoA"
 EndChar

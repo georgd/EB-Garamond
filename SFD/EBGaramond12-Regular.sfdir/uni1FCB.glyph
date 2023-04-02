@@ -1,13 +1,94 @@
 StartChar: uni1FCB
-Encoding: 8139 8139 959
+Encoding: 2749 8139 2748
 GlifName: uni1F_C_B_
-Width: 889
+Width: 912
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 507 -30 basechar 0
+AnchorPoint: "bottom.cap" 507 -30 basechar 0
+AnchorPoint: "top.cap" 507 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+36 513 m 256
+ 57 549 107 647 107 657 c 256
+ 107 673 88 698 69 698 c 256
+ 61 698 47 692 44 680 c 256
+ 34 644 3 522 3 504 c 256
+ 3 495 3 491 12 491 c 256
+ 20 491 30 503 36 513 c 256
+784 100 m 258
+ 784 552 l 258
+ 784 590 787 613 837 622 c 256
+ 860 626 870 633 870 642 c 256
+ 870 650 858 653 841 653 c 256
+ 787 653 786 650 750 650 c 256
+ 705 650 688 653 634 653 c 256
+ 617 653 605 650 605 642 c 256
+ 605 633 615 626 638 622 c 256
+ 688 613 704 588 704 552 c 258
+ 704 362 l 258
+ 704 353 702 350 697 350 c 258
+ 326 350 l 258
+ 320 350 312 351 312 359 c 258
+ 312 551 l 258
+ 312 590 330 613 380 622 c 256
+ 403 626 413 633 413 642 c 256
+ 413 650 401 653 384 653 c 256
+ 330 653 319 650 278 650 c 256
+ 238 650 229 653 175 653 c 256
+ 158 653 146 650 146 642 c 256
+ 146 633 156 626 179 622 c 256
+ 229 613 232 597 232 551 c 258
+ 232 99 l 258
+ 232 51 222 33 172 24 c 256
+ 149 20 139 15 139 6 c 256
+ 139 -2 151 -5 168 -5 c 256
+ 222 -5 235 0 278 0 c 256
+ 324 0 341 -5 395 -5 c 256
+ 412 -5 424 -2 424 6 c 256
+ 424 15 414 20 391 24 c 256
+ 345 32 312 64 312 106 c 258
+ 312 291 l 258
+ 312 299 312 302 317 302 c 258
+ 699 302 l 258
+ 705 302 704 294 704 287 c 258
+ 704 97 l 258
+ 704 54 678 32 636 24 c 256
+ 613 20 603 15 603 6 c 256
+ 603 -2 615 -5 632 -5 c 256
+ 686 -5 697 0 739 0 c 256
+ 780 0 789 -5 843 -5 c 256
+ 860 -5 872 -2 872 6 c 256
+ 872 15 862 20 839 24 c 256
+ 789 33 784 51 784 100 c 258
+EndSplineSet
 Fore
-Refer: 2704 -1 N 1 0 0 1 -34 35 2
-Refer: 633 919 N 1 0 0 1 79 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Eta acutecomb.grk
+Refer: 127 919 N 1 0 0 1 102 0 2
+Refer: 515 -1 N 1 0 0 1 46 24 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VEta
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VH
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1FCB+AAoA"
 EndChar

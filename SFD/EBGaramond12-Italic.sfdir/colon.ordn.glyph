@@ -1,11 +1,18 @@
 StartChar: colon.ordn
-Encoding: 65836 -1 1428
-Width: 161
-VWidth: 280
-Flags: MW
+Encoding: 679 -1 678
+GlifName: colon.ordn
+Width: 158
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1224 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+Refer: 1223 -1 N 1 0 0 1 5 0 2
+Refer: 1223 -1 N 1 0 0 1 51 154 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-colon.ordn+AAoA"
 EndChar

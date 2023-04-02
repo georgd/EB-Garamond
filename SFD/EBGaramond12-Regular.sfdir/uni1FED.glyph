@@ -1,14 +1,40 @@
 StartChar: uni1FED
-Encoding: 8173 8173 566
+Encoding: 2780 8173 2779
 GlifName: uni1F_E_D_
-Width: 353
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 152 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+171 525 m 256
+ 177 515 187 503 195 503 c 256
+ 204 503 204 507 204 516 c 256
+ 204 534 173 656 163 692 c 256
+ 160 704 146 710 138 710 c 256
+ 119 710 100 685 100 669 c 256
+ 100 659 150 561 171 525 c 256
+78 591 m 256
+ 53 591 30 568 30 543 c 256
+ 30 518 53 495 78 495 c 256
+ 103 495 124 518 124 543 c 256
+ 124 568 103 591 78 591 c 256
+275 591 m 256
+ 250 591 229 568 229 543 c 256
+ 229 518 250 495 275 495 c 256
+ 300 495 323 518 323 543 c 256
+ 323 568 300 591 275 591 c 256
+EndSplineSet
 Fore
-Refer: 2695 -1 N 1 0 0 1 86 47 2
-Refer: 2700 -1 N 1 0 0 1 24 19 2
-Refer: 2713 -1 N 1 0 0 1 7 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0308.grkstack gravecomb.grk
+Refer: 1932 -1 N 1 0 0 1 151 19 2
+Refer: 936 -1 N 1 0 0 1 123 47 2
+Guideline: "" "" 45 440 0 0 0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FED+AAoA"
 EndChar

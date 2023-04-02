@@ -1,0 +1,102 @@
+StartChar: A
+Encoding: 1 65 1
+GlifName: A_
+Width: 766
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 248 -30 basechar 0
+AnchorPoint: "top.cap" 654 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-45 -5 m 256
+ -3 -5 52 1 91 1 c 256
+ 131 1 171 -2 215 -2 c 256
+ 229 -2 246 3 247 12 c 256
+ 248 24 234 31 222 34 c 256
+ 165 48 153 76 204 140 c 258
+ 266 219 l 258
+ 272 227 281 236 292 236 c 258
+ 453 236 l 258
+ 463 236 469 230 466 219 c 258
+ 436 97 l 258
+ 427 59 401 44 356 34 c 256
+ 343 31 330 24 329 12 c 256
+ 328 3 336 -3 347 -3 c 256
+ 391 -3 467 2 507 2 c 256
+ 552 2 624 -2 666 -2 c 256
+ 676 -2 697 3 697 13 c 256
+ 697 27 686 30 671 34 c 256
+ 620 48 600 70 608 112 c 258
+ 706 606 l 257
+ 726 677 729 701 713 701 c 256
+ 698 701 670 676 647 650 c 256
+ 630 630 592 625 543 625 c 256
+ 530 625 513 574 476 532 c 256
+ 348 387 221 243 93 98 c 256
+ 61 62 -4 42 -40 34 c 256
+ -53 31 -64 25 -67 12 c 256
+ -70 -1 -60 -5 -45 -5 c 256
+342 284 m 258
+ 321 284 320 288 332 302 c 258
+ 516 523 l 258
+ 520 527 526 530 528 530 c 256
+ 533 530 531 522 529 514 c 258
+ 482 295 l 258
+ 480 286 476 284 465 284 c 258
+ 342 284 l 258
+EndSplineSet
+Fore
+SplineSet
+-45 -5 m 256
+ -3 -5 52 1 91 1 c 256
+ 131 1 171 -2 215 -2 c 256
+ 229 -2 246 3 247 12 c 256
+ 248 24 234 31 222 34 c 256
+ 165 48 153 76 204 140 c 258
+ 266 219 l 258
+ 272 227 281 236 292 236 c 258
+ 453 236 l 258
+ 463 236 469 230 466 219 c 258
+ 436 97 l 258
+ 427 59 401 44 356 34 c 256
+ 343 31 330 24 329 12 c 256
+ 328 3 336 -3 347 -3 c 256
+ 391 -3 467 2 507 2 c 256
+ 552 2 624 -2 666 -2 c 256
+ 676 -2 697 3 697 13 c 256
+ 697 27 686 30 671 34 c 256
+ 620 48 600 70 608 112 c 258
+ 706 606 l 258
+ 713 639 712 672 697 672 c 256
+ 684 672 662 656 640 644 c 256
+ 614 630 578 625 543 625 c 256
+ 530 625 513 574 476 532 c 256
+ 348 387 221 243 93 98 c 256
+ 61 62 -4 42 -40 34 c 256
+ -53 31 -64 25 -67 12 c 256
+ -70 -1 -60 -5 -45 -5 c 256
+342 284 m 258
+ 321 284 320 288 332 302 c 258
+ 516 523 l 258
+ 520 527 526 530 528 530 c 256
+ 533 530 531 522 529 514 c 258
+ 482 295 l 258
+ 480 286 476 284 465 284 c 258
+ 342 284 l 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" A.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" A.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" A.sc
+Substitution2: "Single Substitution lookup 13 subtable" ordfeminine
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" A.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" A.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" A.subs
+Comment: "+AAoA-A+AAoA"
+EndChar

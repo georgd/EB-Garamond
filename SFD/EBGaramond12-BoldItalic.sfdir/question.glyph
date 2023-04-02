@@ -1,0 +1,68 @@
+StartChar: question
+Encoding: 1259 63 1258
+GlifName: question
+Width: 404
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+165 177 m 256
+ 177 177 189 179 189 189 c 256
+ 189 197 187 206 185 216 c 256
+ 183 225 182 234 182 245 c 256
+ 182 267 191 279 227 293 c 258
+ 321 330 l 258
+ 388 356 430 419 430 491 c 256
+ 430 586 359 661 278 661 c 256
+ 225 661 174 634 174 588 c 256
+ 173 560 192 543 216 543 c 256
+ 230 543 240 547 251 552 c 256
+ 269 560 287 565 303 565 c 256
+ 351 565 375 544 375 521 c 256
+ 375 479 344 450 270 429 c 256
+ 129 386 109 330 109 261 c 256
+ 109 217 150 177 165 177 c 256
+162 -14 m 256
+ 212 -14 255 27 255 72 c 256
+ 255 102 234 136 193 136 c 256
+ 146 136 104 93 104 45 c 256
+ 104 14 130 -14 162 -14 c 256
+EndSplineSet
+Fore
+SplineSet
+168 177 m 256
+ 180 177 192 179 192 189 c 256
+ 192 197 187 206 185 216 c 256
+ 183 225 182 234 182 245 c 256
+ 182 267 191 279 227 293 c 258
+ 321 330 l 258
+ 382 354 430 414 430 467 c 256
+ 430 586 352 661 271 661 c 256
+ 218 661 174 634 174 588 c 256
+ 173 560 192 543 216 543 c 256
+ 230 543 247 553 258 558 c 256
+ 275 566 295 580 314 580 c 256
+ 366 580 386 555 386 521 c 256
+ 386 479 344 450 270 429 c 256
+ 129 386 109 330 109 261 c 256
+ 109 217 153 177 168 177 c 256
+130 -14 m 256
+ 180 -14 223 27 223 72 c 256
+ 223 102 202 136 161 136 c 256
+ 114 136 72 93 72 45 c 256
+ 72 14 98 -14 130 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" question.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" question.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" question.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" question.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" question.subs
+Comment: "+AAoA-question+AAoA"
+EndChar

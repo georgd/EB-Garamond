@@ -1,0 +1,54 @@
+StartChar: uni219E
+Encoding: 2756 8606 2755
+GlifName: uni219E_
+Width: 999
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+309 112 m 256
+ 315 112 319 114 319 119 c 256
+ 319 147 255 236 223 269 c 257
+ 309 269 l 257
+ 377 230 430 177 482 123 c 256
+ 488 117 500 112 509 112 c 256
+ 515 112 519 114 519 119 c 256
+ 519 147 455 236 423 269 c 257
+ 948 269 l 258
+ 964 269 980 292 980 304 c 256
+ 980 310 972 315 966 315 c 258
+ 423 315 l 257
+ 457 351 495 399 519 461 c 257
+ 520 463 520 464 520 465 c 256
+ 520 470 516 472 510 472 c 256
+ 501 472 489 467 483 461 c 256
+ 431 407 378 354 310 315 c 257
+ 223 315 l 257
+ 257 351 295 399 319 461 c 257
+ 320 463 320 464 320 465 c 256
+ 320 470 316 472 310 472 c 256
+ 301 472 289 467 283 461 c 256
+ 226 402 169 345 92 305 c 257
+ 79 299 79 298 79 292 c 256
+ 79 286 82 284 91 279 c 256
+ 168 239 225 182 282 123 c 256
+ 288 117 300 112 309 112 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Varrowleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Varrowleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" a r r o w l e f t a r r o w l e f t
+Comment: "+AAoA-uni219E+AAoA"
+EndChar

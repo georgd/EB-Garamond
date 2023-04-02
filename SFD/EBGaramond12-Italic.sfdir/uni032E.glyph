@@ -1,12 +1,18 @@
 StartChar: uni032E
-Encoding: 814 814 2070
+Encoding: 1873 814 1872
+GlifName: uni032E_
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "below_accent" 198 -100 mark 0
+AnchorPoint: "bottom" -72 -30 mark 0
+AnchorPoint: "top" -101 -108 basechar 0
 LayerCount: 2
 Fore
-Refer: 121 774 N 1 0 0 1 0 -720 2
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" uni032E.cap
+Refer: 1781 774 N 1 0 0 1 -215 -693 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni032E+AAoA"
 EndChar

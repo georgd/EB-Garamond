@@ -1,0 +1,39 @@
+StartChar: uni0313.sc
+Encoding: 1968 -1 1967
+GlifName: uni0313.sc
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+-41 472 m 256
+ 16 472 60 531 60 580 c 256
+ 60 628 32 666 -13 666 c 256
+ -37 666 -60 651 -60 628 c 256
+ -60 605 -41 596 -18 588 c 256
+ -2 582 10 568 10 552 c 256
+ 10 523 -9 501 -42 493 c 256
+ -50 491 -55 488 -55 481 c 256
+ -55 476 -49 472 -41 472 c 256
+EndSplineSet
+Fore
+SplineSet
+-46 465 m 256
+ 4 465 73 505 73 588 c 256
+ 73 643 35 684 -21 684 c 256
+ -53 684 -71 666 -71 642 c 256
+ -71 621 -64 607 -33 594 c 256
+ -14 586 0 575 0 552 c 256
+ 0 525 -18 504 -54 493 c 256
+ -64 490 -69 485 -69 477 c 256
+ -69 470 -64 465 -46 465 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0313.sc+AAoA"
+EndChar

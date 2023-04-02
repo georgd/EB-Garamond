@@ -1,0 +1,33 @@
+StartChar: bullet
+Encoding: 644 8226 643
+GlifName: bullet
+Width: 379
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+173 200 m 256
+ 277 200 364 282 364 376 c 256
+ 364 438 319 508 236 508 c 256
+ 138 508 52 419 52 321 c 256
+ 52 257 106 200 173 200 c 256
+EndSplineSet
+Fore
+SplineSet
+190 199 m 256
+ 275 199 344 268 344 353 c 256
+ 344 440 275 508 190 508 c 256
+ 103 508 35 440 35 353 c 256
+ 35 268 103 199 190 199 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 477 -50 "'kern' Horizontal Kerning lookup 0 subtable"
+Comment: "+AAoA-bullet+AAoA"
+EndChar

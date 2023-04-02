@@ -1,12 +1,25 @@
 StartChar: backslash.sups
-Encoding: 1114562 -1 1561
+Encoding: 601 -1 600
 GlifName: backslash.sups
-Width: 259
-VWidth: 440
-Flags: HMW
-LayerCount: 3
+Width: 262
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1258 -1 N 1 0 0 1 0 440 2
-Validated: 1
-Comment: "."
+Refer: 596 -1 N 1 0 0 1 0 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbackslash.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbackslash.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-backslash.sups+AAoA"
 EndChar

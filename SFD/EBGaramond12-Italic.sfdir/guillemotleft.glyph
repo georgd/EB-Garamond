@@ -1,40 +1,28 @@
 StartChar: guillemotleft
-Encoding: 171 171 117
-Width: 657
+Encoding: 924 171 923
+GlifName: guillemotleft
+Width: 620
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
-Back
-SplineSet
-454 217 m 4
- 445 211 444 209 450 203 c 4
- 481 169 515 125 541 40 c 4
- 544 30 536 19 529 19 c 4
- 528 19 528 19 527 19 c 4
- 517 22 511 31 507 37 c 4
- 463 104 408 155 361 182 c 4
- 351 188 349 213 358 218 c 4
- 472 279 534 316 618 382 c 4
- 625 388 637 397 649 400 c 4
- 651 400 l 4
- 657 400 653 386 644 376 c 4
- 566 291 505 251 454 217 c 4
-257 217 m 4
- 248 211 247 209 253 203 c 4
- 284 169 318 125 344 40 c 4
- 347 30 339 19 332 19 c 4
- 331 19 331 19 330 19 c 4
- 320 22 314 31 310 37 c 4
- 266 104 210 155 163 182 c 4
- 153 188 151 213 160 218 c 4
- 274 279 337 316 421 382 c 4
- 428 388 440 397 452 400 c 4
- 454 400 l 4
- 460 400 456 386 447 376 c 4
- 369 291 308 251 257 217 c 4
-EndSplineSet
 Fore
-Refer: 119 8249 N 1 0 0 1 165 0 2
-Refer: 119 8249 N 1 0 0 1 -33 0 2
-Validated: 1
+Refer: 929 8249 N 1 0 0 1 0 0 2
+Refer: 929 8249 N 1 0 0 1 211 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vguilsinglleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vguilsinglleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" guillemotleft.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" guillemotleft.sc
+Comment: "+AAoA-guillemotleft+AAoA"
 EndChar

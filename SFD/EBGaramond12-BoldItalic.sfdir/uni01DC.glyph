@@ -1,0 +1,51 @@
+StartChar: uni01DC
+Encoding: 1612 476 1611
+GlifName: uni01D_C_
+Width: 600
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 233 -30 basechar 0
+AnchorPoint: "top" 395 440 basechar 0
+LayerCount: 2
+Fore
+Refer: 1435 117 N 1 0 0 1 0 0 2
+Refer: 718 168 N 1 0 0 1 84 0 2
+Refer: 914 -1 N 1 0 0 1 314 177 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vu
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vdieresis
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vgravecomb.stack
+p11
+sasVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni01DC+AAoA"
+EndChar

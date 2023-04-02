@@ -1,14 +1,42 @@
 StartChar: O.sc
-Encoding: 66061 -1 1653
-Width: 524
+Encoding: 281 -1 280
+GlifName: O_.sc
+Width: 585
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 251 12 basechar 0
-AnchorPoint: "ogonek" 336 18 basechar 0
-AnchorPoint: "below_accent" 215 -100 basechar 0
-AnchorPoint: "top_accent" 393 580 basechar 0
+Flags: W
+AnchorPoint: "top" 385 503 basechar 0
 LayerCount: 2
+Back
+SplineSet
+238 -14 m 256
+ 429 -14 537 146 537 280 c 256
+ 537 376 483 459 361 459 c 256
+ 170 459 62 300 62 165 c 256
+ 62 69 118 -14 238 -14 c 256
+246 20 m 256
+ 176 20 139 82 139 145 c 256
+ 139 272 240 425 354 425 c 256
+ 425 425 461 364 461 300 c 256
+ 461 172 366 20 246 20 c 256
+EndSplineSet
 Fore
-Refer: 1685 -1 N 1 0 0 1 0 0 2
-Comment: "."
+SplineSet
+238 -14 m 256
+ 429 -14 537 146 537 280 c 256
+ 537 376 483 459 361 459 c 256
+ 170 459 62 300 62 165 c 256
+ 62 69 118 -14 238 -14 c 256
+246 17 m 256
+ 176 17 139 82 139 145 c 256
+ 139 272 240 428 354 428 c 256
+ 425 428 461 364 461 300 c 256
+ 461 172 366 17 246 17 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-O.sc+AAoA"
 EndChar

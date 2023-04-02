@@ -1,14 +1,78 @@
 StartChar: uni1EC5
-Encoding: 7877 7877 533
+Encoding: 2505 7877 2504
 GlifName: uni1E_C_5
 Width: 390
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 214 -30 basechar 0
+AnchorPoint: "top" 222 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+91 625 m 256
+ 99 625 123 657 148 657 c 256
+ 173 657 235 631 260 631 c 256
+ 285 631 345 693 345 703 c 256
+ 345 713 339 720 329 720 c 256
+ 321 720 307 687 272 687 c 256
+ 247 687 190 714 165 714 c 256
+ 140 714 77 655 77 645 c 256
+ 77 635 81 625 91 625 c 256
+135 460 m 258
+ 204 526 l 258
+ 209 531 214 531 219 526 c 258
+ 288 460 l 257
+ 297 452 306 447 314 447 c 256
+ 323 447 323 451 323 460 c 256
+ 323 475 233 590 233 590 c 257
+ 227 598 219 608 211 608 c 256
+ 203 608 195 598 189 590 c 257
+ 189 590 100 475 100 460 c 256
+ 100 451 100 447 109 447 c 256
+ 117 447 127 452 135 460 c 258
+213 383 m 256
+ 252 383 295 361 295 321 c 256
+ 295 310 292 294 285 293 c 257
+ 264 289 241 288 212 288 c 258
+ 130 288 l 258
+ 116 288 111 295 111 303 c 256
+ 111 329 157 383 213 383 c 256
+229 414 m 256
+ 116 414 30 316 30 203 c 256
+ 30 70 107 -14 198 -14 c 256
+ 290 -14 346 43 356 78 c 256
+ 358 86 357 98 350 98 c 256
+ 347 98 342 94 339 91 c 257
+ 313 57 268 46 243 46 c 256
+ 153 46 92 130 92 220 c 256
+ 92 254 101 257 117 257 c 258
+ 325 257 l 258
+ 351 257 360 272 360 302 c 256
+ 360 376 306 414 229 414 c 256
+EndSplineSet
 Fore
-Refer: 2251 -1 N 1 0 0 1 72 167 2
-Refer: 2250 -1 N 1 0 0 1 95 0 2
-Refer: 13 101 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" e uni0302.stack tildecomb.stack
+Refer: 752 101 N 1 0 0 1 0 0 2
+Refer: 1909 -1 N 1 0 0 1 213 0 2
+Refer: 1474 -1 N 1 0 0 1 227 146 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I2
+sVname
+p6
+Vtildecomb.stack
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni1EC5+AAoA"
 EndChar

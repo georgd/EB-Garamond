@@ -1,0 +1,47 @@
+StartChar: four.osf
+Encoding: 864 -1 863
+GlifName: four.osf
+Width: 461
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+157 -181 m 256
+ 164 -181 210 -175 218 -150 c 258
+ 280 46 l 257
+ 280 47 289 56 294 56 c 256
+ 316 56 347 57 369 57 c 256
+ 376 57 401 78 401 99 c 256
+ 401 103 400 114 394 114 c 257
+ 359 112 310 110 305 110 c 256
+ 300 110 295 113 298 119 c 256
+ 337 235 357 299 403 413 c 256
+ 405 418 404 425 398 425 c 256
+ 390 424 348 393 328 376 c 256
+ 254 315 97 170 -17 61 c 256
+ -19 59 -27 51 -27 45 c 256
+ -27 39 -19 35 -16 35 c 256
+ -11 35 123 50 199 50 c 256
+ 212 50 212 46 210 38 c 258
+ 147 -168 l 258
+ 144 -178 150 -181 157 -181 c 256
+76 96 m 257
+ 72 96 76 102 79 105 c 256
+ 159 181 204 224 286 297 c 257
+ 289 299 296 299 295 296 c 258
+ 232 112 l 258
+ 231 106 226 104 219 104 c 258
+ 76 96 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" four.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" four.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" four.lf
+Comment: "+AAoA-four+AAoA"
+EndChar

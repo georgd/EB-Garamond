@@ -1,19 +1,20 @@
 StartChar: periodcentered
-Encoding: 183 183 112
+Encoding: 1278 183 1277
 GlifName: periodcentered
 Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-100 260 m 24
- 130 260 155 235 155 205 c 24
- 155 175 130 150 100 150 c 24
- 70 150 45 175 45 205 c 24
- 45 235 70 260 100 260 c 24
-EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 5 subtable" periodcentered.CATuc
-Substitution2: "Single Substitution lookup 4 subtable" periodcentered.CAT
+Refer: 1271 46 N 1 0 0 1 -15 164 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 477 -45 "'kern' Horizontal Kerning lookup 0 subtable" 3189 -25 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" periodcentered.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" periodcentered.sc
+Comment: "+AAoA-periodcentered+AAoA"
 EndChar

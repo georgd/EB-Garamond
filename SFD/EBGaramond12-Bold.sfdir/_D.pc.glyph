@@ -1,0 +1,47 @@
+StartChar: D.pc
+Encoding: 71 -1 71
+GlifName: D_.pc
+Width: 560
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+49 -5 m 256
+ 72 -5 117 0 141 0 c 256
+ 169 0 207 -5 257 -5 c 256
+ 406 -5 525 71 525 214 c 256
+ 525 372 417 423 260 423 c 256
+ 227 423 168 416 150 416 c 256
+ 134 416 72 421 45 421 c 256
+ 37 421 30 416 30 408 c 256
+ 30 401 37 395 47 392 c 257
+ 79 385 83 378 83 352 c 258
+ 83 60 l 258
+ 83 42 77 29 46 26 c 256
+ 37 25 30 17 30 9 c 256
+ 30 3 37 -5 49 -5 c 256
+272 31 m 256
+ 232 31 229 54 229 83 c 258
+ 229 338 l 258
+ 229 362 240 386 267 386 c 256
+ 344 386 370 293 370 187 c 256
+ 370 95 336 31 272 31 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH.pc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VO.pc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-D.pc+AAoA"
+EndChar

@@ -1,14 +1,80 @@
 StartChar: Scedilla
-Encoding: 350 350 257
+Encoding: 365 350 364
+GlifName: S_cedilla
 Width: 464
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 364 710 basechar 0
+Flags: W
+AnchorPoint: "bottom.cap" 138 -30 basechar 0
+AnchorPoint: "top.cap" 370 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+144 -108 m 256
+ 144 -158 203 -173 203 -215 c 256
+ 203 -225 190 -243 175 -243 c 256
+ 113 -243 110 -198 98 -198 c 256
+ 87 -198 81 -210 81 -218 c 256
+ 81 -227 101 -281 150 -281 c 256
+ 189 -281 269 -234 269 -187 c 256
+ 269 -154 210 -109 210 -88 c 256
+ 210 -70 233 -32 295 17 c 257
+ 265 17 l 257
+ 207 -13 144 -75 144 -108 c 256
+214 16 m 256
+ 139 16 84 82 84 157 c 256
+ 84 184 83 196 72 196 c 256
+ 62 196 58 190 56 176 c 256
+ 45 97 13 35 13 23 c 256
+ 13 9 15 0 23 0 c 256
+ 37 0 57 13 67 13 c 256
+ 77 13 127 -14 194 -14 c 256
+ 304 -14 421 46 421 154 c 256
+ 421 234 347 308 303 354 c 256
+ 270 388 213 455 213 513 c 256
+ 213 577 257 630 328 630 c 256
+ 395 630 432 583 432 493 c 256
+ 432 478 433 459 443 459 c 256
+ 447 459 456 471 459 491 c 256
+ 475 594 497 619 497 622 c 256
+ 497 627 495 638 485 638 c 256
+ 469 638 466 627 446 628 c 256
+ 424 629 383 659 340 659 c 256
+ 215 659 138 584 138 479 c 256
+ 138 421 179 364 233 303 c 256
+ 297 231 339 178 339 120 c 256
+ 339 67 277 16 214 16 c 256
+EndSplineSet
 Fore
-Refer: 2089 -1 N 1 0 0 1 80 -8 2
-Refer: 45 83 N 1 0 0 1 0 0 3
-Validated: 5
-Substitution2: "c2sc subtable" Scedilla.sc
-MultipleSubs2: "CCMP_Precomp subtable" S uni0327.cap
+Refer: 352 83 N 1 0 0 1 0 0 2
+Refer: 1861 -1 N 1 0 0 1 242 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VS
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0327.cap
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Scedilla.sc
+Comment: "+AAoA-Scedilla+AAoA"
 EndChar

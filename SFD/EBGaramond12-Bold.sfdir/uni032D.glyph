@@ -1,0 +1,33 @@
+StartChar: uni032D
+Encoding: 2007 813 2006
+GlifName: uni032D_
+Width: 0
+VWidth: 0
+AnchorPoint: "bottom" 0 -30 mark 0
+LayerCount: 2
+Back
+SplineSet
+39 -259 m 256
+ 47 -259 62 -246 69 -237 c 256
+ 81 -221 110 -183 135 -153 c 256
+ 138 -149 139 -149 142 -153 c 257
+ 167 -183 196 -221 208 -237 c 256
+ 215 -246 230 -259 238 -259 c 256
+ 246 -259 250 -247 241 -229 c 256
+ 224 -190 175 -103 159 -76 c 256
+ 154 -67 147 -58 139 -58 c 256
+ 131 -58 123 -67 118 -76 c 256
+ 102 -103 53 -190 36 -229 c 256
+ 27 -247 31 -259 39 -259 c 256
+EndSplineSet
+Fore
+Refer: 1905 770 N 1 0 0 1 0 -709 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni032D+AAoA"
+EndChar

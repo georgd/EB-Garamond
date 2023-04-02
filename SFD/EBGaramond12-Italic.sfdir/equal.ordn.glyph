@@ -1,11 +1,32 @@
 StartChar: equal.ordn
-Encoding: 65839 -1 1431
-Width: 390
-VWidth: 280
-Flags: MW
+Encoding: 802 -1 801
+GlifName: equal.ordn
+Width: 393
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1227 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+137 468 m 258
+ 411 468 l 258
+ 424 468 431 483 439 496 c 257
+ 441 500 438 504 433 504 c 258
+ 153 504 l 258
+ 140 504 132 481 130 476 c 257
+ 129 472 132 468 137 468 c 258
+104 360 m 258
+ 378 360 l 258
+ 391 360 398 374 406 387 c 257
+ 408 391 405 396 400 396 c 258
+ 120 396 l 258
+ 107 396 99 372 97 367 c 257
+ 96 363 99 360 104 360 c 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-equal.ordn+AAoA"
 EndChar

@@ -1,12 +1,20 @@
 StartChar: etatonos
-Encoding: 942 942 2189
-Width: 486
+Encoding: 811 942 810
+GlifName: etatonos
+Width: 461
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottomgreek" 48 -28 basechar 0
+AnchorPoint: "topgreek" 307 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2367 -1 S 1 0 0 1 308 13 2
-Refer: 2167 951 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" eta acutecomb.grk
+Refer: 809 951 N 1 0 0 1 0 0 2
+Refer: 1419 900 N 1 0 0 1 168 -20 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-etatonos+AAoA"
 EndChar

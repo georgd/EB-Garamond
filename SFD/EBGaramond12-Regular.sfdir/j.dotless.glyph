@@ -1,13 +1,35 @@
 StartChar: j.dotless
-Encoding: 1115139 -1 2886
+Encoding: 1032 -1 1031
 GlifName: j.dotless
-Width: 212
+Width: 226
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 100 550 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 116 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 344 567 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Smallcaps1 subtable" j.sc
+SplineSet
+1 -287 m 256
+ 41 -287 104 -220 129 -152 c 256
+ 158 -72 159 29 159 91 c 258
+ 159 275 l 258
+ 159 320 162 388 166 429 c 257
+ 166 432 163 434 159 434 c 256
+ 157 434 153 431 146 427 c 256
+ 127 415 92 389 42 377 c 256
+ 38 376 35 370 35 365 c 256
+ 35 359 38 353 43 352 c 256
+ 77 345 89 315 89 279 c 258
+ 89 69 l 258
+ 89 0 86 -136 57 -197 c 256
+ 38 -237 15 -254 -9 -260 c 257
+ -11 -261 -20 -269 -20 -277 c 256
+ -20 -284 -6 -287 1 -287 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-j.dotless+AAoA"
 EndChar

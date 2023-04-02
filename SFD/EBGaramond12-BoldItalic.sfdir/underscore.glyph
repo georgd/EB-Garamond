@@ -1,0 +1,40 @@
+StartChar: underscore
+Encoding: 1491 95 1490
+GlifName: underscore
+Width: 609
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+480 -127 m 258
+ -76 -127 l 258
+ -97 -127 -115 -162 -119 -174 c 256
+ -121 -180 -115 -188 -106 -188 c 258
+ 452 -188 l 258
+ 471 -188 494 -160 499 -143 c 256
+ 502 -134 494 -127 480 -127 c 258
+EndSplineSet
+Fore
+SplineSet
+475 -127 m 258
+ -80 -127 l 258
+ -101 -127 -119 -162 -119 -174 c 256
+ -119 -180 -115 -188 -106 -188 c 258
+ 455 -188 l 258
+ 474 -188 496 -162 496 -145 c 256
+ 496 -136 489 -127 475 -127 c 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" underscore.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" underscore.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" underscore.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" underscore.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" underscore.subs
+Comment: "+AAoA-underscore+AAoA"
+EndChar

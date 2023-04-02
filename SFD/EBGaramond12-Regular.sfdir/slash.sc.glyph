@@ -1,22 +1,25 @@
 StartChar: slash.sc
-Encoding: 1114618 -1 1617
+Encoding: 1422 -1 1421
 GlifName: slash.sc
-Width: 399
+Width: 319
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-30 -47 m 10
- 327 648 l 26
- 334 663 349 665 366 665 c 16
- 373 665 380 659 380 652 c 0
- 380 651 379 649 379 648 c 10
- 82 -47 l 26
- 76 -61 61 -62 46 -62 c 16
- 38 -62 29 -57 29 -50 c 0
- 29 -49 30 -48 30 -47 c 10
-EndSplineSet
-Validated: 1
-Comment: "."
+Refer: 597 -1 N -1 0 0 1 319 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|backslash.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|backslash.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-slash.sc+AAoA"
 EndChar

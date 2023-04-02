@@ -1,34 +1,25 @@
 StartChar: nine
-Encoding: 57 57 82
-Width: 367
+Encoding: 1107 57 1106
+GlifName: nine
+Width: 480
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-177 72 m 0
- 271 72 301 240 301 322 c 0
- 301 352 291 386 261 386 c 0
- 217 386 127 283 127 132 c 8
- 127 102 143 72 177 72 c 0
-366 286 m 0
- 366 84 120 -209 -78 -209 c 0
- -82 -209 -88 -208 -88 -201 c 0
- -88 -189 -73 -184 -55 -179 c 0
- 35 -154 166 -35 202 37 c 0
- 206 46 197 52 187 50 c 0
- 177 48 170 47 160 47 c 0
- 96 47 60 110 60 156 c 8
- 60 286 150 414 273 414 c 0
- 323 414 366 351 366 286 c 0
-EndSplineSet
-Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 34 subtable" nine.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 32 subtable" nine.lnum
-Substitution2: "Single Substitution lookup 31 subtable" nine.ordn
-Substitution2: "Single Substitution lookup 30 subtable" nine.subs
-Substitution2: "sups subtable" nine.sups
-Substitution2: "sinf subtable" nine.sinf
-Substitution2: "ordn subtable" nine.ordn
-Substitution2: "subs subtable" nine.subs
+Refer: 1108 -1 N 1 0 0 1 14 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" nine.lf
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" nine.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" nine.sc
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" nine.tosf
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 16 subtable" nine.lf
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" ninesuperior
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" nineinferior
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" nine.subs
+Comment: "+AAoA-nine.tablining+AAoA"
 EndChar

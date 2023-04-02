@@ -1,0 +1,64 @@
+StartChar: uni2016
+Encoding: 2816 8214 2815
+GlifName: uni2016
+Width: 462
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+80 676 m 258
+ 80 -275 l 258
+ 80 -282 86 -289 92 -289 c 256
+ 101 -289 140 -286 140 -265 c 258
+ 140 694 l 258
+ 140 701 133 707 126 707 c 256
+ 120 707 80 698 80 676 c 258
+206 -14 m 256
+ 286 -14 360 41 360 53 c 256
+ 360 65 356 75 349 75 c 256
+ 346 75 344 74 342 73 c 256
+ 327 67 314 57 277 57 c 256
+ 238 57 213 86 213 149 c 258
+ 213 336 l 258
+ 213 353 224 361 253 361 c 258
+ 345 361 l 258
+ 352 361 358 383 358 404 c 256
+ 358 411 353 423 350 423 c 258
+ 230 423 l 258
+ 214 423 203 428 205 445 c 258
+ 212 496 l 258
+ 214 514 209 518 196 518 c 256
+ 185 518 179 512 169 504 c 256
+ 135 474 60 424 11 408 c 256
+ 6 406 5 402 5 399 c 256
+ 5 386 13 364 22 364 c 258
+ 37 364 l 258
+ 59 363 68 358 68 346 c 258
+ 68 116 l 258
+ 68 33 113 -14 206 -14 c 256
+EndSplineSet
+Fore
+Refer: 2933 8739 N 1 0 0 1 0 0 2
+Refer: 2933 8739 N 1 0 0 1 183 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni2223
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni2223
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'ordn' Ordinals lookup 15 subtable" uni2016.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" uni2016.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" uni2016.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" uni2016.subs
+Comment: "+AAoA-uni2016+AAoA"
+EndChar

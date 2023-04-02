@@ -1,22 +1,28 @@
 StartChar: exclamdown
-Encoding: 161 161 59
-Width: 342
+Encoding: 840 161 839
+GlifName: exclamdown
+Width: 299
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-182 371 m 0
- 133 371 91 398 91 434 c 0
- 91 470 133 496 182 496 c 0
- 231 496 273 470 273 434 c 0
- 273 398 231 371 182 371 c 0
-183 -180 m 0
- 129 -180 104 -145 104 -104 c 0
- 104 -41 123 89 138 206 c 0
- 141 236 158 266 181 266 c 0
- 197 266 212 235 215 212 c 0
- 233 97 256 -19 256 -106 c 0
- 256 -144 232 -180 183 -180 c 0
-EndSplineSet
+Refer: 832 33 N 1 0 0 -1 0 480 2
+Validated: 17
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|exclam
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|exclam
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" exclamdown.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" exclamdown.sc
+Comment: "+AAoA-exclamdown+AAoA"
 EndChar

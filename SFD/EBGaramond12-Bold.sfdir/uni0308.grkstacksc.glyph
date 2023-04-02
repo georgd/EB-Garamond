@@ -1,0 +1,41 @@
+StartChar: uni0308.grkstacksc
+Encoding: 1933 -1 1932
+GlifName: uni0308.grkstacksc
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+54 572 m 256
+ 29 572 6 549 6 524 c 256
+ 6 499 29 476 54 476 c 256
+ 79 476 100 499 100 524 c 256
+ 100 549 79 572 54 572 c 256
+251 572 m 256
+ 226 572 205 549 205 524 c 256
+ 205 499 226 476 251 476 c 256
+ 276 476 299 499 299 524 c 256
+ 299 549 276 572 251 572 c 256
+EndSplineSet
+Fore
+SplineSet
+102 470 m 256
+ 143 470 176 502 176 540 c 256
+ 176 581 143 611 102 611 c 256
+ 63 611 32 581 32 540 c 256
+ 32 502 63 470 102 470 c 256
+-107 470 m 256
+ -65 470 -33 502 -33 540 c 256
+ -33 581 -65 611 -107 611 c 256
+ -145 611 -177 581 -177 540 c 256
+ -177 502 -145 470 -107 470 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0308.grkstacksc+AAoA"
+EndChar

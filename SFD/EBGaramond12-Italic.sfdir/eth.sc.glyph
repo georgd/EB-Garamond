@@ -1,19 +1,18 @@
 StartChar: eth.sc
-Encoding: 66181 -1 1773
-Width: 604
+Encoding: 813 -1 812
+GlifName: eth.sc
+Width: 618
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 382 503 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-129 251 m 26
- 346 251 l 18
- 351 251 355 246 355 241 c 0
- 355 224 334 213 315 213 c 26
- 109 213 l 18
- 104 213 100 217 100 222 c 0
- 100 233 113 251 129 251 c 26
-EndSplineSet
-Refer: 1674 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 129 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-eth.sc+AAoA"
 EndChar

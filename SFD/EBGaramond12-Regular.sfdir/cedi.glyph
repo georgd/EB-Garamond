@@ -1,0 +1,27 @@
+StartChar: cedi
+Encoding: 669 8373 668
+GlifName: cedi
+Width: 710
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 392 -30 basechar 0
+AnchorPoint: "top.cap" 401 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+333 -82 m 256
+ 344 -82 357 -78 358 -67 c 257
+ 463 717 l 257
+ 463 724 457 732 450 732 c 256
+ 437 732 423 728 421 715 c 257
+ 318 -62 l 258
+ 316 -75 325 -82 333 -82 c 256
+EndSplineSet
+Refer: 44 67 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.98,0.36,0.67,1
+p2
+s."
+EndChar

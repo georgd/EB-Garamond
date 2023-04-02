@@ -1,13 +1,47 @@
 StartChar: edotaccent
-Encoding: 279 279 200
-Width: 365
+Encoding: 759 279 758
+GlifName: edotaccent
+Width: 341
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 100 -30 basechar 0
+AnchorPoint: "top" 267 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+331 613 m 256
+ 299 613 275 584 275 552 c 256
+ 275 532 290 513 310 513 c 256
+ 340 513 365 540 365 570 c 256
+ 365 591 352 613 331 613 c 256
+127 -15 m 256
+ 197 -15 258 26 298 91 c 257
+ 300 94 300 97 300 99 c 256
+ 300 105 296 109 290 109 c 256
+ 285 109 278 106 272 98 c 256
+ 252 72 212 35 164 35 c 256
+ 130 35 114 62 114 112 c 256
+ 114 154 117 177 131 207 c 256
+ 135 215 138 217 146 217 c 256
+ 216 217 375 271 375 351 c 256
+ 375 392 355 414 301 414 c 256
+ 144 414 42 218 42 98 c 256
+ 42 22 88 -15 127 -15 c 256
+286 385 m 256
+ 306 385 314 371 314 353 c 256
+ 314 273 186 246 156 246 c 256
+ 151 246 149 246 149 252 c 256
+ 149 282 231 385 286 385 c 256
+EndSplineSet
 Fore
-Refer: 122 775 N 1 0 0 1 265 0 2
-Refer: 13 101 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" edotaccent.sc
-MultipleSubs2: "CCMP_Precomp subtable" e uni0307
+Refer: 738 101 N 1 0 0 1 0 0 2
+Refer: 730 729 N 1 0 0 1 113 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" edotaccent.sc
+Comment: "+AAoA-edotaccent+AAoA"
 EndChar

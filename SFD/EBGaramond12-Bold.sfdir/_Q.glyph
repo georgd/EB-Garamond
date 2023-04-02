@@ -1,42 +1,62 @@
 StartChar: Q
-Encoding: 81 81 42
-Width: 706
+Encoding: 332 81 331
+GlifName: Q_
+Width: 759
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 373 708 basechar 0
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+375 -14 m 256
+ 609 -14 734 155 734 335 c 256
+ 734 532 570 664 384 664 c 256
+ 150 664 25 495 25 315 c 256
+ 25 118 189 -14 375 -14 c 256
+393 37 m 256
+ 262 37 206 208 206 367 c 256
+ 206 513 259 612 364 612 c 256
+ 496 612 553 443 553 283 c 256
+ 553 136 499 37 393 37 c 256
+EndSplineSet
 Fore
 SplineSet
-357 621 m 0
- 254 621 187 488 187 352 c 0
- 187 182 274 14 390 14 c 0
- 496 14 555 186 555 323 c 0
- 555 473 471 621 357 621 c 0
-335 -57 m 0
- 317 -41 247 3 233 7 c 0
- 166 27 44 138 44 306 c 0
- 44 506 181 662 371 662 c 0
- 531 662 700 555 700 349 c 0
- 700 109 538 15 441 -11 c 0
- 431 -14 428 -16 428 -17 c 0
- 428 -19 428 -21 430 -24 c 0
- 465 -66 493 -90 538 -126 c 0
- 598 -174 641 -189 711 -189 c 0
- 732 -189 753 -186 761 -182 c 0
- 766 -180 773 -178 778 -178 c 0
- 783 -178 789 -180 789 -189 c 0
- 789 -203 785 -208 772 -217 c 0
- 738 -239 702 -250 669 -250 c 0
- 584 -250 530 -221 474 -175 c 0
- 428 -138 393 -109 335 -57 c 0
+726 -248 m 256
+ 788 -248 838 -238 865 -221 c 256
+ 880 -212 885 -204 885 -192 c 256
+ 885 -176 873 -169 854 -169 c 256
+ 846 -169 839 -170 831 -171 c 256
+ 823 -172 813 -173 800 -173 c 256
+ 749 -173 694 -151 629 -97 c 256
+ 579 -56 554 -33 525 -5 c 256
+ 522 -2 520 0 520 5 c 256
+ 520 10 524 14 531 16 c 257
+ 664 73 734 201 734 335 c 256
+ 734 532 570 664 384 664 c 256
+ 150 664 25 495 25 315 c 256
+ 25 122 159 41 243 11 c 256
+ 298 -9 333 -49 356 -70 c 256
+ 400 -110 436 -136 484 -170 c 256
+ 554 -220 650 -248 726 -248 c 256
+393 36 m 256
+ 262 36 206 201 206 367 c 256
+ 206 519 259 612 364 612 c 256
+ 496 612 553 449 553 283 c 256
+ 553 129 499 36 393 36 c 256
 EndSplineSet
-Substitution2: "Single Substitution lookup 58 subtable" Q.low
-Substitution2: "Single Substitution lookup 57 subtable" Q.short
-Substitution2: "Single Substitution lookup 56 subtable" Q.long
-Substitution2: "Single Substitution lookup 55 subtable" Q.long
-Substitution2: "c2sc subtable" Q.sc
-Substitution2: "sups subtable" Q.sups
-Substitution2: "sinf subtable" Q.sinf
-Substitution2: "ordn subtable" Q.ordn
-Substitution2: "subs subtable" Q.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss06' Style Set 6 lookup 35 subtable" Q.long
+Substitution2: "'swsh' Swash lookup 28 subtable" Q.long
+Substitution2: "'c2pc' Capitals to Petite Capitals lookup 23 subtable" Q.pc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Q.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" Q.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" Q.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" Q.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" Q.subs
+Comment: "+AAoA-Q+AAoA"
 EndChar

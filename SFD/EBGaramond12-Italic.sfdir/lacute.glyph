@@ -1,12 +1,42 @@
 StartChar: lacute
-Encoding: 314 314 228
+Encoding: 1034 314 1033
+GlifName: lacute
 Width: 252
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 67 -30 basechar 0
 LayerCount: 2
 Fore
-Refer: 2101 -1 N 1 0 0 1 253 262 2
-Refer: 2 108 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" lacute.sc
-MultipleSubs2: "CCMP_Precomp subtable" l acutecomb.flat
+Refer: 1026 108 N 1 0 0 1 0 0 2
+Refer: 515 -1 N 1 0 0 1 217 247 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vl
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vacutecomb.flat
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" lacute.sc
+Comment: "+AAoA-lacute+AAoA"
 EndChar

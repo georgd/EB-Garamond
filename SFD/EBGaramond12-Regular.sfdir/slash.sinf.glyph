@@ -1,12 +1,25 @@
 StartChar: slash.sinf
-Encoding: 1114315 -1 1314
+Encoding: 1423 -1 1422
 GlifName: slash.sinf
-Width: 259
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 262
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1213 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 1420 -1 N 1 0 0 1 0 -426 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vslash.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vslash.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-slash.sinf+AAoA"
 EndChar

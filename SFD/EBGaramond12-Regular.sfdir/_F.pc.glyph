@@ -1,11 +1,35 @@
 StartChar: F.pc
-Encoding: 1115174 -1 2952
+Encoding: 136 -1 136
 GlifName: F_.pc
-Width: 371
+Width: 410
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2978 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 3091 42800 N 1 0 0 1 24 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VuniA730
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VH.pc
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-F.pc+AAoA"
 EndChar

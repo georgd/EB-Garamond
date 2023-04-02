@@ -1,27 +1,25 @@
 StartChar: one.subs
-Encoding: 65623 -1 1215
-Width: 276
+Encoding: 1167 -1 1166
+GlifName: one.subs
+Width: 245
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-260 340 m 0
- 263 341 265 342 267 342 c 0
- 273 342 274 336 271 328 c 0
- 265 314 254 290 244 258 c 0
- 230 214 219 179 210 149 c 0
- 201 119 194 96 187 72 c 0
- 176 33 184 32 223 26 c 0
- 238 24 230 -3 215 -3 c 0
- 162 -3 170 2 140 2 c 24
- 110 2 112 -3 62 -3 c 0
- 51 -3 55 25 71 26 c 0
- 97 28 126 31 139 72 c 2
- 185 221 l 2
- 193 248 161 262 147 268 c 0
- 132 274 145 294 154 295 c 0
- 203 300 247 334 260 340 c 0
-EndSplineSet
-Validated: 33
+Refer: 1163 -1 N 1 0 0 1 -86 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vone.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vone.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-one.subs+AAoA"
 EndChar

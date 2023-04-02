@@ -1,17 +1,52 @@
 StartChar: egrave
-Encoding: 232 232 161
-Width: 365
+Encoding: 761 232 760
+GlifName: egrave
+Width: 341
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 100 -30 basechar 0
+AnchorPoint: "top" 267 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+282 487 m 256
+ 287 473 293 470 302 470 c 256
+ 307 470 310 475 310 483 c 256
+ 310 493 302 586 299 627 c 256
+ 297 650 293 667 281 667 c 256
+ 265 667 236 645 236 621 c 256
+ 236 616 270 521 282 487 c 256
+127 -15 m 256
+ 197 -15 258 26 298 91 c 257
+ 300 94 300 97 300 99 c 256
+ 300 105 296 109 290 109 c 256
+ 285 109 278 106 272 98 c 256
+ 252 72 212 35 164 35 c 256
+ 130 35 114 62 114 112 c 256
+ 114 154 117 177 131 207 c 256
+ 135 215 138 217 146 217 c 256
+ 216 217 375 271 375 351 c 256
+ 375 392 355 414 301 414 c 256
+ 144 414 42 218 42 98 c 256
+ 42 22 88 -15 127 -15 c 256
+286 385 m 256
+ 306 385 314 371 314 353 c 256
+ 314 273 186 246 156 246 c 256
+ 151 246 149 246 149 252 c 256
+ 149 282 231 385 286 385 c 256
+EndSplineSet
 Fore
-Refer: 981 768 N 1 0 0 1 226 0 2
-Refer: 13 101 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" egrave.sc
-Substitution2: "sups subtable" egrave.sups
-Substitution2: "sinf subtable" egrave.sinf
-Substitution2: "ordn subtable" egrave.ordn
-Substitution2: "subs subtable" egrave.subs
-MultipleSubs2: "CCMP_Precomp subtable" e gravecomb
+Refer: 738 101 N 1 0 0 1 0 0 2
+Refer: 905 768 N 1 0 0 1 112 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" egrave.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" egrave.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" egrave.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" egrave.subs
+Comment: "+AAoA-egrave+AAoA"
 EndChar

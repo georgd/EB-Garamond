@@ -1,17 +1,25 @@
 StartChar: period.subs
-Encoding: 1114213 -1 1212
+Encoding: 1276 -1 1275
 GlifName: period.subs
-Width: 154
+Width: 168
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-79 70 m 24
- 101 70 118 53 118 31 c 24
- 118 9 101 -8 79 -8 c 24
- 57 -8 40 9 40 31 c 24
- 40 53 57 70 79 70 c 24
-EndSplineSet
-Validated: 1
+Refer: 1272 -1 N 1 0 0 1 0 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vperiod.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vperiod.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-period.subs+AAoA"
 EndChar

@@ -1,42 +1,65 @@
 StartChar: three
-Encoding: 51 51 84
+Encoding: 1457 51 1456
 GlifName: three
-Width: 372
+Width: 480
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+LayerCount: 2
+Back
 SplineSet
-181 413 m 0
- 246 413 289 372 289 309 c 0
- 289 277 273 212 195 167 c 0
- 191 165 191 161 196 161 c 0
- 288 159 319 97 319 53 c 0
- 319 -68 234 -130 155 -169 c 0
- 131 -181 98 -190 86 -190 c 0
- 75 -190 59 -186 59 -176 c 0
- 59 -164 74 -146 86 -146 c 0
- 95 -146 136 -145 153 -136 c 0
- 204 -109 243 -79 243 17 c 0
- 243 49 231 112 157 112 c 0
- 126 112 99 92 95 92 c 0
- 87 92 78 94 78 101 c 16
- 78 110 97 128 109 135 c 0
- 131 148 150 160 179 186 c 0
- 197 202 219 239 219 292 c 0
- 219 330 194 358 155 358 c 0
- 110 358 86 337 59 308 c 0
- 56 304 48 300 43 300 c 8
- 37 300 36 305 36 312 c 0
- 36 333 104 413 181 413 c 0
+55 0 m 256
+ 55 -20 104 -38 141 -38 c 256
+ 284 -38 429 53 429 203 c 256
+ 429 302 355 357 277 360 c 257
+ 272 360 272 364 276 366 c 257
+ 354 411 381 468 381 516 c 256
+ 381 588 308 630 252 630 c 256
+ 163 630 94 575 62 502 c 257
+ 59 496 54 482 62 482 c 256
+ 76 482 89 499 92 503 c 256
+ 126 546 156 570 208 570 c 256
+ 261 570 302 521 302 466 c 256
+ 302 395 199 343 176 332 c 256
+ 163 326 151 315 146 298 c 256
+ 144 291 156 285 163 289 c 256
+ 186 302 213 304 228 304 c 256
+ 321 304 344 222 344 146 c 256
+ 344 68 289 0 188 0 c 256
+ 154 0 132 18 111 39 c 256
+ 103 47 96 51 84 51 c 256
+ 62 51 55 22 55 0 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 35 subtable" three.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 33 subtable" three.lnum
-Substitution2: "Single Substitution lookup 32 subtable" three.ordn
-Substitution2: "Single Substitution lookup 31 subtable" three.subs
-Substitution2: "sups subtable" three.sups
-Substitution2: "sinf subtable" three.sinf
-Substitution2: "ordn subtable" three.ordn
-Substitution2: "subs subtable" three.subs
+Fore
+Refer: 1458 -1 N 1 0 0 1 10 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vthree.lf
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" three.lf
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" three.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" three.sc
+Substitution2: "'onum' Oldstyle Figures lookup 19 subtable" three.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 17 subtable" three.lf
+Substitution2: "'ordn' Ordinals lookup 15 subtable" three.ordn
+Substitution2: "UP subtable" three.numr
+Substitution2: "'sups' Superscript lookup 9 subtable" threesuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" threeinferior
+Substitution2: "'subs' Subscript lookup 7 subtable" three.subs
+Comment: "+AAoA-three.tablining+AAoA"
 EndChar

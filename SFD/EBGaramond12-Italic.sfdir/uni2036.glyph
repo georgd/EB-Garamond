@@ -1,11 +1,26 @@
 StartChar: uni2036
-Encoding: 8246 8246 788
-Width: 614
+Encoding: 2659 8246 2658
+GlifName: uni2036
+Width: 374
 VWidth: 0
-Flags: M
+Flags: W
 LayerCount: 2
 Fore
-Refer: 787 8245 N 1 0 0 1 307 0 2
-Refer: 787 8245 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 2657 8245 N 1 0 0 1 0 0 2
+Refer: 2657 8245 N 1 0 0 1 138 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni2035
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni2035
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni2036+AAoA"
 EndChar

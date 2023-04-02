@@ -1,14 +1,21 @@
 StartChar: uni1EA9
-Encoding: 7849 7849 1172
+Encoding: 2477 7849 2476
 GlifName: uni1E_A_9
 Width: 399
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 193 -14 basechar 0
+AnchorPoint: "top" 201 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 2255 -1 N 1 0 0 1 167 89 2
-Refer: 2250 -1 N 1 0 0 1 75 0 2
-Refer: 0 97 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" a uni0302.stack hookabovecomb.stack
+Refer: 495 97 N 1 0 0 1 0 0 2
+Refer: 1909 -1 N 1 0 0 1 185 0 2
+Refer: 980 -1 N 1 0 0 1 282 93 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1EA9+AAoA"
 EndChar

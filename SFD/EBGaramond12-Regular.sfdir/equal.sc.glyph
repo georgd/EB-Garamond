@@ -1,29 +1,49 @@
 StartChar: equal.sc
-Encoding: 1114632 -1 1631
+Encoding: 819 -1 818
 GlifName: equal.sc
-Width: 590
+Width: 500
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+LayerCount: 2
+Back
 SplineSet
-74 193 m 26
- 527 193 l 18
- 533 193 541 188 541 182 c 0
- 541 181 540 180 540 179 c 8
- 534 162 528 143 509 143 c 26
- 64 143 l 26
- 57 143 50 149 50 155 c 0
- 50 164 56 193 74 193 c 26
-74 364 m 26
- 527 364 l 18
- 533 364 541 359 541 353 c 0
- 541 352 540 351 540 350 c 8
- 534 333 528 314 509 314 c 26
- 64 314 l 26
- 57 314 50 320 50 326 c 0
- 50 335 56 364 74 364 c 26
+232 42 m 256
+ 241 42 280 45 280 66 c 258
+ 280 218 l 258
+ 280 221 281 222 284 222 c 258
+ 419 222 l 258
+ 438 222 450 245 450 262 c 256
+ 450 268 444 272 437 272 c 258
+ 282 272 l 258
+ 280 272 280 273 280 278 c 258
+ 280 419 l 258
+ 280 426 273 432 266 432 c 256
+ 260 432 220 423 220 401 c 258
+ 220 280 l 258
+ 220 274 219 272 213 272 c 258
+ 74 272 l 258
+ 56 272 50 243 50 234 c 256
+ 50 228 57 222 64 222 c 258
+ 216 222 l 258
+ 219 222 220 220 220 217 c 258
+ 220 56 l 258
+ 220 49 226 42 232 42 c 256
 EndSplineSet
-Validated: 1
-Comment: "."
+Fore
+Refer: 816 61 N 0.8584 0 0 1 7 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vequal
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vequal
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-equal.sc+AAoA"
 EndChar

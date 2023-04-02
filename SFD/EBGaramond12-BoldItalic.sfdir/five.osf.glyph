@@ -1,0 +1,64 @@
+StartChar: five.osf
+Encoding: 851 -1 850
+GlifName: five.osf
+Width: 388
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+236 -133 m 256
+ 276 -77 272 -62 300 -16 c 256
+ 328 30 337 27 374 89 c 256
+ 380 99 380 115 372 119 c 256
+ 364 123 357 122 351 116 c 256
+ 323 88 313 75 277 117 c 258
+ 113 307 l 258
+ 76 349 84 370 104 411 c 256
+ 107 417 107 435 99 440 c 256
+ 91 445 83 442 77 432 c 256
+ 40 370 42 362 13 317 c 256
+ -16 271 -21 267 -61 211 c 256
+ -66 204 -73 184 -62 177 c 256
+ -53 171 -41 178 -38 184 c 256
+ -27 206 -2 228 36 184 c 258
+ 201 -6 l 258
+ 239 -50 220 -81 212 -106 c 256
+ 209 -115 206 -131 213 -135 c 256
+ 222 -140 231 -140 236 -133 c 256
+EndSplineSet
+Fore
+SplineSet
+-15 -194 m 256
+ 145 -194 282 -83 282 21 c 256
+ 282 67 268 112 240 158 c 256
+ 220 190 194 222 162 254 c 256
+ 153 263 138 272 142 279 c 258
+ 149 291 l 258
+ 153 298 160 301 169 302 c 256
+ 190 304 266 307 310 313 c 256
+ 342 318 385 375 399 419 c 256
+ 402 430 398 440 387 440 c 256
+ 369 440 248 420 195 404 c 256
+ 179 399 161 390 143 370 c 256
+ 128 353 71 270 48 198 c 256
+ 38 168 57 156 84 129 c 256
+ 136 75 159 10 159 -48 c 256
+ 159 -107 126 -149 64 -149 c 256
+ 38 -149 20 -143 5 -136 c 256
+ -16 -125 -29 -113 -45 -113 c 256
+ -64 -113 -92 -145 -92 -165 c 256
+ -92 -184 -60 -194 -15 -194 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 771 -25 "'kern' Horizontal Kerning lookup 0 subtable" 3025 -65 "'kern' Horizontal Kerning lookup 0 subtable" 3048 -15 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" five.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" five.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" five.lf
+Comment: "+AAoA-five+AAoA"
+EndChar

@@ -1,23 +1,25 @@
 StartChar: emdash
-Encoding: 8212 8212 104
+Encoding: 798 8212 797
 GlifName: emdash
 Width: 950
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-74 239 m 26
- 887 239 l 18
- 893 239 900 233 900 227 c 0
- 900 207 885 185 869 185 c 26
- 64 185 l 26
- 57 185 50 191 50 197 c 0
- 50 206 55 239 74 239 c 26
+64 185 m 258
+ 869 185 l 258
+ 885 185 900 207 900 227 c 256
+ 900 233 893 239 887 239 c 258
+ 74 239 l 258
+ 55 239 50 206 50 197 c 256
+ 50 191 57 185 64 185 c 258
 EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 111 subtable" emdash.cap
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" emdash.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-190 dv=0
-Position2: "lfbd subtable" dx=-190 dy=0 dh=-190 dv=0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-emdash+AAoA"
 EndChar

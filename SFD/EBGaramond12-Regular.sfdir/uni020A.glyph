@@ -1,13 +1,51 @@
 StartChar: uni020A
-Encoding: 522 522 601
+Encoding: 1706 522 1705
 GlifName: uni020A_
 Width: 340
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 170 -30 basechar 0
+AnchorPoint: "top.cap" 170 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+276 713 m 257
+ 282 705 290 692 300 692 c 256
+ 310 692 310 703 310 716 c 256
+ 310 756 258 820 173 820 c 256
+ 88 820 36 756 36 716 c 256
+ 36 703 36 692 46 692 c 256
+ 56 692 64 705 70 713 c 257
+ 97 745 130 760 173 760 c 256
+ 216 760 249 745 276 713 c 257
+130 550 m 258
+ 130 98 l 258
+ 130 51 102 33 52 24 c 256
+ 29 20 19 15 19 6 c 256
+ 19 -2 31 -5 48 -5 c 256
+ 102 -5 126 0 176 0 c 256
+ 222 0 239 -5 293 -5 c 256
+ 310 -5 322 -2 322 6 c 256
+ 322 15 312 20 289 24 c 256
+ 239 33 210 51 210 98 c 258
+ 210 550 l 258
+ 210 597 231 613 281 622 c 256
+ 304 626 314 633 314 642 c 256
+ 314 650 302 653 285 653 c 256
+ 231 653 219 650 176 650 c 256
+ 130 650 113 653 59 653 c 256
+ 42 653 30 650 30 642 c 256
+ 30 633 40 626 63 622 c 256
+ 113 613 130 597 130 550 c 258
+EndSplineSet
 Fore
-Refer: 1003 -1 S 1 0 0 1 31 0 2
-Refer: 33 73 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" I uni0311.cap
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 1958 -1 N 1 0 0 1 170 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni020A+AAoA"
 EndChar

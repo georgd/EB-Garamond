@@ -1,11 +1,18 @@
 StartChar: uhungarumlaut.sc
-Encoding: 66310 -1 1902
-Width: 579
+Encoding: 1488 -1 1487
+GlifName: uhungarumlaut.sc
+Width: 574
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 394 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2461 -1 N 1 0 0 1 344 30 2
-Refer: 1691 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 416 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uhungarumlaut.sc+AAoA"
 EndChar

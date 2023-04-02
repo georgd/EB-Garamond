@@ -1,0 +1,27 @@
+StartChar: dotbelowcomb
+Encoding: 746 803 745
+GlifName: dotbelowcomb
+Width: 0
+VWidth: 0
+Flags: H
+AnchorPoint: "bottom" 1 -30 mark 0
+LayerCount: 2
+Back
+SplineSet
+50 -192 m 256
+ 79 -192 101 -170 101 -142 c 256
+ 101 -113 79 -91 50 -91 c 256
+ 22 -91 0 -113 0 -142 c 256
+ 0 -170 22 -192 50 -192 c 256
+EndSplineSet
+Fore
+Refer: 744 729 N 1 0 0 1 -115 -728 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-dotbelowcomb+AAoA"
+EndChar

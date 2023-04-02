@@ -1,12 +1,63 @@
 StartChar: Q.sinf
-Encoding: 1114349 -1 1348
+Encoding: 339 -1 338
 GlifName: Q_.sinf
-Width: 527
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 542
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+248 -176 m 256
+ 291 -207 316 -226 350 -248 c 256
+ 392 -276 433 -293 495 -293 c 256
+ 519 -293 546 -286 571 -273 c 256
+ 581 -268 582 -264 582 -257 c 256
+ 582 -250 571 -252 563 -255 c 256
+ 558 -257 544 -259 528 -259 c 258
+ 521 -259 l 258
+ 474 -258 453 -249 411 -221 c 256
+ 379 -199 358 -186 333 -161 c 257
+ 327 -154 333 -148 343 -144 c 256
+ 396 -122 500 -76 500 66 c 256
+ 500 188 380 253 266 253 c 256
+ 131 253 34 159 34 40 c 256
+ 34 -60 125 -126 174 -138 c 257
+ 184 -140 235 -166 248 -176 c 256
+254 232 m 256
+ 360 232 438 142 438 50 c 256
+ 438 -34 384 -137 285 -137 c 256
+ 177 -137 96 -35 96 69 c 256
+ 96 152 159 232 254 232 c 256
+EndSplineSet
 Fore
-Refer: 1247 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 334 -1 N 1 0 0 1 0 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VQ.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+V=Q.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+V=Q.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-Q.sinf+AAoA"
 EndChar

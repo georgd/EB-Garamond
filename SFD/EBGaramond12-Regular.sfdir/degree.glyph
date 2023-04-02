@@ -1,22 +1,30 @@
 StartChar: degree
-Encoding: 176 176 971
+Encoding: 729 176 728
 GlifName: degree
 Width: 290
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-145 645 m 0
- 208 645 265 592 265 528 c 0
- 265 464 208 402 145 402 c 0
- 82 402 25 464 25 528 c 0
- 25 592 82 645 145 645 c 0
-72 523 m 0
- 72 483 105 449 145 449 c 0
- 185 449 218 483 218 523 c 0
- 218 564 185 597 145 597 c 0
- 105 597 72 564 72 523 c 0
+145 402 m 256
+ 208 402 265 464 265 528 c 256
+ 265 592 208 645 145 645 c 256
+ 82 645 25 590 25 526 c 256
+ 25 462 82 402 145 402 c 256
+145 444 m 256
+ 103 444 68 481 68 523 c 256
+ 68 567 103 602 145 602 c 256
+ 187 602 222 567 222 523 c 256
+ 222 481 187 444 145 444 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" degree.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" degree.sc
+Comment: "+AAoA-degree+AAoA"
 EndChar

@@ -1,11 +1,19 @@
 StartChar: uni1FB9
-Encoding: 8121 8121 737
-Width: 772
+Encoding: 2567 8121 2566
+GlifName: uni1F_B_9
+Width: 658
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 256 -30 basechar 0
+AnchorPoint: "top.cap" 598 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 2077 -1 N 1 0 0 1 637 -10 2
-Refer: 631 913 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" Alpha uni0304.cap
+Refer: 25 256 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FB9+AAoA"
 EndChar

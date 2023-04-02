@@ -1,34 +1,47 @@
 StartChar: plus.sc
-Encoding: 1114614 -1 1613
+Encoding: 1291 -1 1290
 GlifName: plus.sc
-Width: 590
+Width: 490
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-330 278 m 2
- 330 273 330 272 332 272 c 0
- 400 272 469 272 537 272 c 8
- 544 272 550 268 550 262 c 0
- 550 245 538 222 519 222 c 18
- 334 222 l 2
- 331 222 330 221 330 218 c 2
- 330 16 l 10
- 330 -5 291 -8 282 -8 c 0
- 276 -8 270 -1 270 6 c 18
- 270 217 l 2
- 270 220 269 222 266 222 c 2
- 64 222 l 10
- 57 222 50 228 50 234 c 0
- 50 243 56 272 74 272 c 18
- 263 272 l 2
- 269 272 270 274 270 280 c 2
- 270 451 l 10
- 270 473 310 482 316 482 c 0
- 323 482 330 476 330 469 c 18
- 330 278 l 2
+232 42 m 256
+ 241 42 280 45 280 66 c 258
+ 280 218 l 258
+ 280 221 281 222 284 222 c 258
+ 419 222 l 258
+ 438 222 450 245 450 262 c 256
+ 450 268 444 272 437 272 c 258
+ 282 272 l 258
+ 280 272 280 273 280 278 c 258
+ 280 419 l 258
+ 280 426 273 432 266 432 c 256
+ 260 432 220 423 220 401 c 258
+ 220 280 l 258
+ 220 274 219 272 213 272 c 258
+ 74 272 l 258
+ 56 272 50 243 50 234 c 256
+ 50 228 57 222 64 222 c 258
+ 216 222 l 258
+ 219 222 220 220 220 217 c 258
+ 220 56 l 258
+ 220 49 226 42 232 42 c 256
 EndSplineSet
-Validated: 1
-Comment: "."
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vplus
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vplus
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-plus.sc+AAoA"
 EndChar

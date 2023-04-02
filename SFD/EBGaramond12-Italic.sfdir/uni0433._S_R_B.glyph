@@ -1,36 +1,19 @@
 StartChar: uni0433.SRB
-Encoding: 66433 -1 2199
-Width: 274
+Encoding: 1983 -1 1982
+GlifName: uni0433.S_R_B_
+Width: 294
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom" 88 -30 basechar 0
+AnchorPoint: "top" 220 440 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-149 559 m 26
- 342 558 l 18
- 347 558 351 553 351 548 c 0
- 351 531 334 514 315 514 c 26
- 129 515 l 18
- 124 515 120 519 120 524 c 0
- 120 535 131 559 149 559 c 26
-61 76 m 2
- 133 270 l 2
- 141 293 146 318 133 318 c 0
- 122 318 96 309 66 295 c 0
- 62 293 51 296 51 300 c 0
- 51 305 52 309 60 315 c 0
- 126 362 162 384 223 418 c 0
- 229 421 242 425 242 414 c 0
- 242 400 238 387 232 370 c 2
- 129 86 l 2
- 125 75 122 65 122 57 c 0
- 122 47 127 41 134 41 c 0
- 166 41 236 108 246 118 c 0
- 247 119 248 120 250 120 c 0
- 253 120 256 118 256 115 c 0
- 256 38 127 -14 92 -14 c 0
- 60 -14 50 2 50 21 c 0
- 50 44 52 53 61 76 c 2
-EndSplineSet
-Validated: 33
+Refer: 986 299 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0433.SRB+AAoA"
 EndChar

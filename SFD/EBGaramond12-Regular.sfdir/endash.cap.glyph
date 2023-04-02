@@ -1,19 +1,25 @@
 StartChar: endash.cap
-Encoding: 1115126 -1 2838
+Encoding: 803 -1 802
 GlifName: endash.cap
 Width: 550
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-74 349 m 26
- 487 349 l 18
- 493 349 500 343 500 337 c 0
- 500 317 485 295 469 295 c 26
- 64 295 l 26
- 57 295 50 301 50 307 c 0
- 50 316 55 349 74 349 c 26
-EndSplineSet
-Validated: 1
+Refer: 801 8211 N 1 0 0 1 0 110 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vendash
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vendash
+p4
+sVpublic.markColor
+p5
+V0.99,0.62,0.11,1
+p6
+s."
+Comment: "+AAoA-endash.cap+AAoA"
 EndChar

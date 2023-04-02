@@ -1,31 +1,50 @@
 StartChar: questiondown
-Encoding: 191 191 1026
-Width: 327
+Encoding: 1265 191 1264
+GlifName: questiondown
+Width: 316
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
-Fore
+Back
 SplineSet
-330 374 m 24
- 299 374 282 401 292 434 c 24
- 302 467 335 494 366 494 c 24
- 397 494 414 467 404 434 c 24
- 394 401 361 374 330 374 c 24
-197 -181 m 0
- 166 -181 133 -164 112 -131 c 0
- 77 -75 66 14 82 65 c 0
- 97 114 130 149 152 160 c 0
- 200 184 216 192 252 213 c 0
- 284 231 288 244 299 276 c 0
- 302 286 311 299 320 299 c 0
- 327 299 332 286 331 270 c 0
- 330 247 331 233 321 187 c 0
- 313 151 269 126 198 93 c 0
- 168 79 129 51 120 22 c 0
- 100 -44 116 -92 179 -93 c 0
- 197 -93 205 -89 223 -89 c 0
- 243 -89 253 -118 245 -145 c 0
- 239 -164 213 -181 197 -181 c 0
+138 -181 m 256
+ 154 -181 180 -164 186 -145 c 256
+ 194 -118 184 -89 164 -89 c 256
+ 146 -89 138 -93 120 -93 c 256
+ 57 -92 41 -44 61 22 c 256
+ 70 51 109 79 139 93 c 256
+ 210 126 254 151 262 187 c 256
+ 272 233 271 247 272 270 c 256
+ 273 286 268 299 261 299 c 256
+ 252 299 243 286 240 276 c 257
+ 229 244 225 231 193 213 c 256
+ 157 192 141 184 93 160 c 256
+ 71 149 38 114 23 65 c 256
+ 7 14 18 -75 53 -131 c 256
+ 74 -164 107 -181 138 -181 c 256
+271 374 m 256
+ 302 374 335 401 345 434 c 256
+ 355 467 338 494 307 494 c 256
+ 276 494 243 467 233 434 c 256
+ 223 401 240 374 271 374 c 256
 EndSplineSet
-Validated: 33
+Fore
+Refer: 1258 63 N -1 0 0 -1 342 483 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|question
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|question
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" questiondown.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" questiondown.sc
+Comment: "+AAoA-questiondown+AAoA"
 EndChar

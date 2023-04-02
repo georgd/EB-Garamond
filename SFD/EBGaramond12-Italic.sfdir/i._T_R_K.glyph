@@ -1,16 +1,19 @@
 StartChar: i.TRK
-Encoding: 65601 -1 1189
-Width: 274
+Encoding: 964 -1 963
+GlifName: i.T_R_K_
+Width: 294
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom" 88 -30 basechar 0
+AnchorPoint: "top" 220 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 5 105 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Smallcaps1 subtable" i.TRKsc
-Substitution2: "sups subtable" i.sups
-Substitution2: "sinf subtable" i.sinf
-Substitution2: "ordn subtable" i.ordn
-Substitution2: "subs subtable" i.subs
-LCarets2: 1 0
+Refer: 962 105 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-i.TRK+AAoA"
 EndChar

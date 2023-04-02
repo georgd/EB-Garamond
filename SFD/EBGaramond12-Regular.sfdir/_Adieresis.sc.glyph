@@ -1,12 +1,19 @@
 StartChar: Adieresis.sc
-Encoding: 1114726 -1 1725
+Encoding: 19 -1 19
 GlifName: A_dieresis.sc
-Width: 549
+Width: 544
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 273 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1757 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 4 -1 N 1 0 0 1 0 0 2
+Refer: 733 -1 N 1 0 0 1 123 84 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Adieresis.sc+AAoA"
 EndChar

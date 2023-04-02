@@ -1,24 +1,35 @@
 StartChar: asciitilde
-Encoding: 126 126 110
+Encoding: 567 126 566
+GlifName: asciitilde
 Width: 500
-Flags: MW
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 279 m 0
- 71 318 130 381 175 381 c 0
- 221 381 271 333 337 333 c 0
- 364 333 420 358 437 380 c 0
- 438 381 439 382 440 382 c 0
- 445 382 453 367 450 362 c 0
- 436 335 374 260 325 260 c 0
- 277 260 212 308 158 308 c 0
- 135 308 81 279 65 261 c 0
- 60 256 47 273 50 279 c 0
+102 258 m 257
+ 118 276 172 308 195 308 c 256
+ 223 308 254 295 284 283 c 256
+ 312 272 339 260 362 260 c 256
+ 411 260 473 335 487 362 c 257
+ 490 367 482 382 477 382 c 256
+ 468 382 457 371 441 359 c 256
+ 424 346 402 333 374 333 c 256
+ 345 333 319 342 295 353 c 256
+ 265 367 238 381 212 381 c 256
+ 167 381 107 316 87 276 c 256
+ 84 270 97 253 102 258 c 257
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" asciitilde.sups
-Substitution2: "sinf subtable" asciitilde.sinf
-Substitution2: "ordn subtable" asciitilde.ordn
-Substitution2: "subs subtable" asciitilde.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" asciitilde.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" asciitilde.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" asciitilde.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" asciitilde.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" asciitilde.subs
+Comment: "+AAoA-asciitilde+AAoA"
 EndChar

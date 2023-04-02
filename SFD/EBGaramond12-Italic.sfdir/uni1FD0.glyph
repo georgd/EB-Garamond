@@ -1,11 +1,19 @@
 StartChar: uni1FD0
-Encoding: 8144 8144 2344
+Encoding: 2589 8144 2588
+GlifName: uni1F_D_0
 Width: 189
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "topgreek" 192 444 basechar 0
 LayerCount: 2
 Fore
-Refer: 121 774 N 1 0 0 1 23.6398 -10 2
-Refer: 2169 953 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" iota uni0306
+Refer: 992 953 N 1 0 0 1 0 0 2
+Refer: 633 728 N 1 0 0 1 -52 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FD0+AAoA"
 EndChar

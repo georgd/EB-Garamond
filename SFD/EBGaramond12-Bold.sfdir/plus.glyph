@@ -1,34 +1,70 @@
 StartChar: plus
-Encoding: 43 43 84
-Width: 488
+Encoding: 1289 43 1288
+GlifName: plus
+Width: 604
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+329 278 m 258
+ 329 469 l 258
+ 329 476 322 482 315 482 c 256
+ 309 482 269 473 269 451 c 258
+ 269 280 l 258
+ 269 274 268 272 262 272 c 258
+ 73 272 l 258
+ 55 272 49 243 49 234 c 256
+ 49 228 56 222 63 222 c 258
+ 265 222 l 258
+ 268 222 269 220 269 217 c 258
+ 269 6 l 258
+ 269 -1 275 -8 281 -8 c 256
+ 290 -8 329 -5 329 16 c 258
+ 329 218 l 258
+ 329 221 330 222 333 222 c 258
+ 518 222 l 258
+ 537 222 549 245 549 262 c 256
+ 549 268 543 272 536 272 c 258
+ 331 272 l 258
+ 329 272 329 273 329 278 c 258
+EndSplineSet
 Fore
 SplineSet
-295 466 m 2
- 295 272 l 1
- 439 272 l 2
- 444 272 449 269 449 260 c 0
- 449 240 440 217 427 217 c 2
- 297 217 l 2
- 292 217 295 216 295 216 c 1
- 295 18 l 2
- 295 -7 234 -8 222 -8 c 0
- 213 -8 203 -2 203 8 c 2
- 203 215 l 2
- 203 216 203 217 201 217 c 2
- 60 217 l 2
- 55 217 49 222 49 231 c 0
- 49 242 53 272 66 272 c 2
- 199 272 l 2
- 208 272 203 274 203 278 c 2
- 203 449 l 2
- 203 475 265 482 273 482 c 0
- 283 482 295 476 295 466 c 2
+284 -12 m 256
+ 299 -12 334 -4 334 17 c 258
+ 334 206 l 258
+ 334 215 338 219 347 219 c 258
+ 540 219 l 258
+ 559 219 574 249 574 266 c 256
+ 574 276 563 282 551 282 c 258
+ 347 282 l 258
+ 338 282 334 286 334 296 c 258
+ 334 489 l 258
+ 334 501 328 512 318 512 c 256
+ 301 512 271 497 271 478 c 258
+ 271 296 l 258
+ 271 286 270 282 257 282 c 258
+ 59 282 l 258
+ 38 282 30 247 30 232 c 256
+ 30 226 38 219 47 219 c 258
+ 258 219 l 258
+ 268 219 271 213 271 206 c 258
+ 271 5 l 258
+ 271 -4 278 -12 284 -12 c 256
 EndSplineSet
-Substitution2: "sups subtable" plus.sups
-Substitution2: "sinf subtable" plus.sinf
-Substitution2: "ordn subtable" plus.ordn
-Substitution2: "subs subtable" plus.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" plus.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" plus.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" plus.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" plus.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" plus.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" plus.subs
+Comment: "+AAoA-plus+AAoA"
 EndChar

@@ -1,13 +1,43 @@
 StartChar: Oacute
-Encoding: 211 211 147
-Width: 712
+Encoding: 288 211 287
+GlifName: O_acute
+Width: 694
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 489 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+474 697 m 256
+ 477 697 483 699 492 706 c 256
+ 532 736 582 774 622 808 c 256
+ 631 816 635 820 635 827 c 256
+ 635 841 591 850 577 850 c 256
+ 566 850 557 847 550 837 c 256
+ 523 798 497 758 473 718 c 256
+ 470 713 468 707 468 703 c 256
+ 468 700 470 697 474 697 c 256
+484 664 m 256
+ 254 664 89 456 89 226 c 256
+ 89 94 197 -14 329 -14 c 256
+ 565 -14 724 208 724 444 c 256
+ 724 571 611 664 484 664 c 256
+479 628 m 256
+ 564 628 642 569 642 484 c 256
+ 642 284 536 21 336 21 c 256
+ 245 21 171 95 171 186 c 256
+ 171 386 279 628 479 628 c 256
+EndSplineSet
 Fore
-Refer: 2468 -1 N 1 0 0 1 462 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Oacute.sc
-MultipleSubs2: "CCMP_Precomp subtable" O acutecomb.cap
+Refer: 277 79 N 1 0 0 1 0 0 2
+Refer: 513 -1 N 1 0 0 1 360 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Oacute.sc
+Comment: "+AAoA-Oacute+AAoA"
 EndChar

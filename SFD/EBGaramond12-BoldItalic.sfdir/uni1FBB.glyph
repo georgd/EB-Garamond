@@ -1,0 +1,36 @@
+StartChar: uni1FBB
+Encoding: 2569 8123 2568
+GlifName: uni1F_B_B_
+Width: 766
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 248 -30 basechar 0
+AnchorPoint: "bottomgreek" 321 -30 basechar 0
+AnchorPoint: "top.cap" 654 675 basechar 0
+AnchorPoint: "topgreek" 254 460 basechar 0
+LayerCount: 2
+Back
+SplineSet
+134 467 m 256
+ 143 467 148 472 150 492 c 256
+ 150 532 140 642 136 674 c 256
+ 134 692 124 706 107 706 c 256
+ 76 706 51 677 51 650 c 256
+ 51 629 84 547 111 491 c 256
+ 117 478 127 467 134 467 c 256
+EndSplineSet
+Fore
+Refer: 23 913 N 1 0 0 1 0 0 2
+Refer: 516 -1 N 1 0 0 1 212 20 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VAlpha
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni1FBB+AAoA"
+EndChar

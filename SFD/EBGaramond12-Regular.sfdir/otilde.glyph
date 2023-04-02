@@ -1,14 +1,45 @@
 StartChar: otilde
-Encoding: 245 245 172
+Encoding: 1234 245 1233
 GlifName: otilde
 Width: 495
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -30 basechar 0
+AnchorPoint: "top" 254 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+134 470 m 256
+ 142 470 166 507 191 507 c 256
+ 216 507 278 500 303 500 c 256
+ 328 500 388 573 388 583 c 256
+ 388 593 382 600 372 600 c 256
+ 364 600 350 566 315 566 c 256
+ 290 566 233 574 208 574 c 256
+ 183 574 120 500 120 490 c 256
+ 120 480 124 470 134 470 c 256
+254 414 m 256
+ 131 414 35 298 35 187 c 256
+ 35 70 122 -14 234 -14 c 256
+ 384 -14 460 96 460 213 c 256
+ 460 321 370 414 254 414 c 256
+237 383 m 256
+ 322 383 378 284 378 189 c 256
+ 378 150 374 102 358 71 c 256
+ 338 32 300 16 255 16 c 256
+ 175 16 117 111 117 210 c 256
+ 117 258 122 309 149 343 c 256
+ 173 374 201 383 237 383 c 256
+EndSplineSet
 Fore
-Refer: 110 771 N 1 0 0 1 94 17 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" otilde.sc
-MultipleSubs2: "CCMP_Precomp subtable" o tildecomb
+Refer: 1172 111 N 1 0 0 1 0 0 2
+Refer: 1469 732 N 1 0 0 1 103 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" otilde.sc
+Comment: "+AAoA-otilde+AAoA"
 EndChar

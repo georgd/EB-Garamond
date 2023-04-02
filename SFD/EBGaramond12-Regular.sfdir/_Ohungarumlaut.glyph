@@ -1,16 +1,52 @@
 StartChar: Ohungarumlaut
-Encoding: 336 336 244
+Encoding: 301 336 300
 GlifName: O_hungarumlaut
 Width: 763
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 391 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+292 697 m 256
+ 295 697 301 699 310 706 c 256
+ 350 736 400 774 440 808 c 256
+ 449 816 453 820 453 827 c 256
+ 453 841 409 850 395 850 c 256
+ 384 850 375 847 368 837 c 256
+ 341 798 315 758 291 718 c 256
+ 288 713 286 707 286 703 c 256
+ 286 700 288 697 292 697 c 256
+424 697 m 256
+ 427 697 433 699 442 706 c 256
+ 482 736 532 774 572 808 c 256
+ 581 816 585 820 585 827 c 256
+ 585 841 541 850 527 850 c 256
+ 516 850 507 847 500 837 c 256
+ 473 798 447 758 423 718 c 256
+ 420 713 418 707 418 703 c 256
+ 418 700 420 697 424 697 c 256
+45 320 m 256
+ 45 130 205 -14 382 -14 c 256
+ 601 -14 718 155 718 335 c 256
+ 718 532 564 664 390 664 c 256
+ 166 664 45 501 45 320 c 256
+375 625 m 256
+ 535 625 621 495 621 305 c 256
+ 621 134 545 25 395 25 c 256
+ 247 25 142 179 142 350 c 256
+ 142 490 227 625 375 625 c 256
+EndSplineSet
 Fore
-Refer: 990 -1 N 1 0 0 1 280 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Ohungarumlaut.sc
-MultipleSubs2: "CCMP_Precomp subtable" O uni030B.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+Refer: 278 79 N 1 0 0 1 0 0 2
+Refer: 1940 -1 N 1 0 0 1 433 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Ohungarumlaut.sc
+Comment: "+AAoA-Ohungarumlaut+AAoA"
 EndChar

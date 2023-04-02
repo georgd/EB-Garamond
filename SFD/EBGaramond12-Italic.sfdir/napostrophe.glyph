@@ -1,12 +1,38 @@
 StartChar: napostrophe
-Encoding: 329 329 965
-Width: 508
+Encoding: 1102 329 1101
+GlifName: napostrophe
+Width: 603
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 256 -30 basechar 0
+AnchorPoint: "top" 382 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2143 -1 N 1 0 0 1 3 0 2
-Refer: 6 110 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" n uni030C.alt
+Refer: 1091 110 N 1 0 0 1 76 0 2
+Refer: 1276 8217 N 1 0 0 1 -75 14 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+g7
+sVpublic.markColor
+p9
+V0.67,0.95,0.38,1
+p10
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" napostrophe.sc
+Comment: "+AAoA-napostrophe+AAoA"
 EndChar

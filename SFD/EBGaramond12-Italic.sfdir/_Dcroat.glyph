@@ -1,20 +1,20 @@
 StartChar: Dcroat
-Encoding: 272 272 994
-Width: 754
+Encoding: 78 272 78
+GlifName: D_croat
+Width: 752
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom.cap" 301 -30 basechar 0
+AnchorPoint: "top.cap" 475 675 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-173 353 m 26
- 459 353 l 26
- 466 353 471 346 466 339 c 24
- 456 326 445 317 431 317 c 26
- 153 317 l 26
- 145 317 143 329 145 335 c 0
- 148 344 162 353 173 353 c 26
-EndSplineSet
-Refer: 43 68 N 1 0 0 1 0 0 2
-Validated: 5
-Substitution2: "c2sc subtable" Dcroat.sc
+Refer: 128 208 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Dcroat.sc
+Comment: "+AAoA-Dcroat+AAoA"
 EndChar

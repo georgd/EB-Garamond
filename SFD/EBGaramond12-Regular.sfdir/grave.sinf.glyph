@@ -1,12 +1,35 @@
 StartChar: grave.sinf
-Encoding: 1114364 -1 1363
+Encoding: 929 -1 928
 GlifName: grave.sinf
-Width: 181
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+116 139 m 257
+ 120 135 127 125 133 125 c 256
+ 139 125 142 128 142 133 c 256
+ 142 142 95 218 81 238 c 257
+ 74 249 63 254 48 254 c 256
+ 37 254 26 246 26 238 c 256
+ 26 227 64 206 116 139 c 257
+EndSplineSet
 Fore
-Refer: 1262 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 926 -1 N 1 0 0 1 0 -445 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vgrave.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vgrave.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-grave.sinf+AAoA"
 EndChar

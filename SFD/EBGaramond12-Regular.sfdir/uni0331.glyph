@@ -1,21 +1,25 @@
 StartChar: uni0331
-Encoding: 817 817 2108
+Encoding: 2015 817 2014
 GlifName: uni0331
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 180 -100 mark 0
-LayerCount: 3
+AnchorPoint: "bottom" 0 -30 mark 0
+LayerCount: 2
 Fore
 SplineSet
-279 -141 m 10
- 64 -141 l 26
- 57 -141 50 -135 50 -129 c 0
- 50 -120 56 -91 74 -91 c 26
- 297 -91 l 18
- 303 -91 310 -96 310 -102 c 0
- 310 -111 297 -141 279 -141 c 10
+-116 -141 m 258
+ 99 -141 l 258
+ 117 -141 130 -111 130 -102 c 256
+ 130 -96 123 -91 117 -91 c 258
+ -106 -91 l 258
+ -124 -91 -130 -120 -130 -129 c 256
+ -130 -135 -123 -141 -116 -141 c 258
 EndSplineSet
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni0331.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0331+AAoA"
 EndChar

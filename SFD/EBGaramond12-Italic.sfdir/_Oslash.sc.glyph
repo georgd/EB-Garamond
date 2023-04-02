@@ -1,10 +1,29 @@
 StartChar: Oslash.sc
-Encoding: 66157 -1 1749
-Width: 524
+Encoding: 310 -1 309
+GlifName: O_slash.sc
+Width: 585
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 385 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1781 -1 N 1 0 0 1 0 0 2
-Comment: "."
+SplineSet
+81 -28 m 256
+ 87 -28 100 -15 108 -7 c 258
+ 523 422 l 258
+ 534 434 542 449 542 459 c 256
+ 542 469 532 476 522 476 c 256
+ 512 476 502 467 496 460 c 257
+ 70 19 l 258
+ 60 9 54 0 54 -10 c 256
+ 54 -20 71 -28 81 -28 c 256
+EndSplineSet
+Refer: 280 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Oslash.sc+AAoA"
 EndChar

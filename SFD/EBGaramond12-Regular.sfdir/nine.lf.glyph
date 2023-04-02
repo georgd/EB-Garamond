@@ -1,0 +1,45 @@
+StartChar: nine.lf
+Encoding: 1153 -1 1152
+GlifName: nine.lf
+Width: 484
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+57 -31 m 256
+ 127 -31 236 7 309 87 c 256
+ 400 186 453 275 453 400 c 256
+ 453 515 358 629 261 629 c 256
+ 140 629 55 521 55 430 c 256
+ 55 358 126 304 195 304 c 256
+ 232 304 272 326 287 337 c 256
+ 298 345 313 359 320 372 c 256
+ 322 376 318 385 313 383 c 257
+ 288 371 274 357 233 357 c 256
+ 180 357 130 421 130 482 c 256
+ 130 531 163 593 228 593 c 256
+ 301 593 368 485 368 389 c 256
+ 368 292 343 217 279 134 c 256
+ 215 52 117 -13 57 -13 c 256
+ 50 -13 43 -16 43 -23 c 256
+ 43 -27 46 -31 57 -31 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|six.lf
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|six.lf
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'onum' Oldstyle Figures lookup 19 subtable" nine.osf
+Substitution2: "'tnum' Tabular Numbers lookup 18 subtable" nine
+Comment: "+AAoA-nine.lnum+AAoA"
+EndChar

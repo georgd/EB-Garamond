@@ -1,23 +1,39 @@
 StartChar: uni032E
-Encoding: 814 814 2111
+Encoding: 2009 814 2008
 GlifName: uni032E_
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 169 -100 mark 0
-LayerCount: 3
-Fore
+AnchorPoint: "bottom" 0 -30 mark 0
+LayerCount: 2
+Back
 SplineSet
-92 -106 m 0
- 97 -131 119 -165 169 -165 c 0
- 219 -165 241 -131 246 -106 c 0
- 248 -96 251 -85 261 -85 c 0
- 271 -85 276 -96 276 -109 c 0
- 276 -159 239 -215 169 -215 c 0
- 99 -215 62 -159 62 -109 c 0
- 62 -96 67 -85 77 -85 c 0
- 87 -85 90 -96 92 -106 c 0
+92 -106 m 256
+ 90 -96 87 -85 77 -85 c 256
+ 67 -85 62 -96 62 -109 c 256
+ 62 -159 99 -215 169 -215 c 256
+ 239 -215 276 -159 276 -109 c 256
+ 276 -96 271 -85 261 -85 c 256
+ 251 -85 248 -96 246 -106 c 256
+ 241 -131 219 -165 169 -165 c 256
+ 119 -165 97 -131 92 -106 c 256
+169 -215 m 256
+ 239 -215 276 -159 276 -109 c 256
+ 276 -96 271 -85 261 -85 c 256
+ 251 -85 248 -96 246 -106 c 256
+ 241 -131 219 -155 169 -155 c 256
+ 119 -155 97 -131 92 -106 c 256
+ 90 -96 87 -85 77 -85 c 256
+ 67 -85 62 -96 62 -109 c 256
+ 62 -159 99 -215 169 -215 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni032E.cap
+Fore
+Refer: 1917 774 N 1 0 0 1 0 -693 2
+Guideline: "" "" 168 -86 90 0 0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni032E+AAoA"
 EndChar

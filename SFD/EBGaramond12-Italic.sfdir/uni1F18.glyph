@@ -1,11 +1,40 @@
 StartChar: uni1F18
-Encoding: 7960 7960 2250
-Width: 621
+Encoding: 2419 7960 2418
+GlifName: uni1F_18
+Width: 699
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 411 -30 basechar 0
+AnchorPoint: "bottomgreek" 378 -30 basechar 0
+AnchorPoint: "top.cap" 549 675 basechar 0
+AnchorPoint: "topgreek" 117 470 basechar 0
 LayerCount: 2
 Fore
-Refer: 126 787 N 1 0 0 1 -16 0 2
-Refer: 633 917 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" Epsilon uni0313
+Refer: 122 917 N 1 0 0 1 123 0 2
+Refer: 2572 8127 N 1 0 0 1 -74 30 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VEpsilon
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VEpsilon
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1F18+AAoA"
 EndChar

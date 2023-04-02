@@ -1,0 +1,21 @@
+StartChar: Obreve
+Encoding: 290 334 289
+GlifName: O_breve
+Width: 692
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 278 -30 basechar 0
+AnchorPoint: "top.cap" 544 832 basechar 0
+LayerCount: 2
+Fore
+Refer: 277 79 N 1 0 0 1 0 0 2
+Refer: 1782 -1 N 1 0 0 1 357 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Obreve.sc
+Comment: "+AAoA-Obreve+AAoA"
+EndChar

@@ -1,0 +1,68 @@
+StartChar: three.osf
+Encoding: 1405 -1 1404
+GlifName: three.osf
+Width: 410
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+-21 -194 m 256
+ 152 -194 342 -81 342 68 c 256
+ 342 114 314 172 234 183 c 256
+ 229 184 231 189 237 191 c 256
+ 340 224 397 285 397 338 c 256
+ 397 382 357 437 264 437 c 256
+ 187 437 53 370 53 320 c 256
+ 53 313 55 309 60 309 c 256
+ 70 309 81 315 87 320 c 256
+ 119 346 155 365 191 365 c 256
+ 227 365 245 341 245 310 c 256
+ 245 268 216 237 175 211 c 256
+ 150 194 120 180 89 166 c 256
+ 69 157 34 134 31 123 c 256
+ 27 110 32 101 49 101 c 256
+ 67 101 79 122 112 122 c 256
+ 150 122 177 96 177 35 c 256
+ 177 -48 110 -153 31 -153 c 256
+ -2 -153 -21 -125 -48 -125 c 256
+ -64 -125 -74 -140 -74 -161 c 256
+ -74 -171 -59 -194 -21 -194 c 256
+EndSplineSet
+Fore
+SplineSet
+-21 -194 m 256
+ 38 -194 98 -174 155 -144 c 256
+ 253 -92 341 -14 341 63 c 256
+ 341 109 295 171 216 187 c 256
+ 211 188 213 193 219 195 c 256
+ 324 237 396 293 396 346 c 256
+ 396 390 357 437 264 437 c 256
+ 171 437 55 365 55 317 c 256
+ 55 310 57 306 62 306 c 256
+ 72 306 83 311 89 317 c 256
+ 118 346 155 365 191 365 c 256
+ 227 365 245 341 245 310 c 256
+ 245 268 216 237 175 211 c 256
+ 150 194 120 180 89 166 c 256
+ 69 157 34 134 31 123 c 256
+ 27 110 32 101 49 101 c 256
+ 67 101 79 122 112 122 c 256
+ 150 122 177 96 177 35 c 256
+ 177 -48 117 -153 31 -153 c 256
+ -2 -153 -21 -125 -48 -125 c 256
+ -64 -125 -74 -140 -74 -161 c 256
+ -74 -171 -59 -194 -21 -194 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 857 80 "'kern' Horizontal Kerning lookup 0 subtable" 3025 -75 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" three.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" three.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" three.lf
+Comment: "+AAoA-three+AAoA"
+EndChar

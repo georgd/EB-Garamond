@@ -1,19 +1,24 @@
 StartChar: gravecomb.stack
-Encoding: 66407 -1 2108
+Encoding: 915 -1 914
+GlifName: gravecomb.stack
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "gravestack" 76 456 mark 0
-AnchorPoint: "top_accent" 90 550 mark 0
 LayerCount: 2
 Fore
 SplineSet
-56 480 m 0
- 44 514 17 579 17 584 c 0
- 17 608 46 630 62 630 c 0
- 74 630 78 613 80 590 c 0
- 83 549 84 486 84 476 c 0
- 84 468 81 463 76 463 c 0
- 67 463 61 466 56 480 c 0
+127 463 m 256
+ 132 463 135 468 135 476 c 256
+ 135 486 135 549 131 590 c 256
+ 129 613 125 630 113 630 c 256
+ 97 630 68 608 68 584 c 256
+ 68 579 95 514 107 480 c 256
+ 112 466 118 463 127 463 c 256
 EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gravecomb.stack+AAoA"
 EndChar

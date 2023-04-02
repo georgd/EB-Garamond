@@ -1,11 +1,19 @@
 StartChar: uni0400
-Encoding: 1024 1024 966
-Width: 621
+Encoding: 1927 1024 1926
+GlifName: uni0400
+Width: 576
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 288 -30 basechar 0
+AnchorPoint: "top.cap" 426 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 2074 -1 N 1 0 0 1 361 1 2
-Refer: 659 1045 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 101 200 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0400+AAoA"
 EndChar

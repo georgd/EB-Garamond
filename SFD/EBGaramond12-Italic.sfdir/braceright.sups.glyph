@@ -1,11 +1,25 @@
 StartChar: braceright.sups
-Encoding: 66005 -1 1597
-Width: 242
-VWidth: 440
-Flags: MW
+Encoding: 621 -1 620
+GlifName: braceright.sups
+Width: 261
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1291 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 616 -1 N 1 0 0 1 50 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbraceright.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbraceright.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-braceright.sups+AAoA"
 EndChar

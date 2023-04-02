@@ -1,0 +1,69 @@
+StartChar: I.sc
+Encoding: 180 -1 180
+GlifName: I_.sc
+Width: 340
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 175 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+12 -1 m 256
+ 40 -1 108 2 134 2 c 256
+ 160 2 241 0 267 0 c 256
+ 271 0 273 5 273 13 c 256
+ 273 24 268 27 264 29 c 256
+ 226 46 223 48 223 68 c 258
+ 223 380 l 258
+ 223 403 225 409 268 425 c 256
+ 273 427 277 428 277 439 c 256
+ 277 447 275 452 270 452 c 256
+ 244 452 161 449 134 449 c 256
+ 106 449 35 453 7 453 c 256
+ 5 453 -2 447 -2 440 c 256
+ -2 431 2 425 6 424 c 256
+ 47 414 55 408 55 381 c 258
+ 55 66 l 258
+ 55 41 50 38 11 29 c 256
+ 7 28 3 22 3 12 c 256
+ 3 5 9 -1 12 -1 c 256
+EndSplineSet
+Fore
+SplineSet
+52 -1 m 256
+ 80 -1 140 2 166 2 c 256
+ 192 2 264 0 290 0 c 256
+ 298 0 305 4 305 14 c 256
+ 305 25 296 29 287 33 c 256
+ 264 42 255 48 255 72 c 258
+ 255 377 l 258
+ 255 400 250 406 293 422 c 256
+ 302 426 309 430 309 439 c 256
+ 309 447 305 452 293 452 c 256
+ 267 452 193 449 166 449 c 256
+ 138 449 76 453 48 453 c 256
+ 38 453 30 449 30 440 c 256
+ 30 428 36 424 47 421 c 256
+ 78 413 87 405 87 379 c 258
+ 87 68 l 258
+ 87 40 77 36 51 31 c 256
+ 41 29 35 23 35 13 c 256
+ 35 4 43 -1 52 -1 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vh.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vh.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-I.sc+AAoA"
+EndChar

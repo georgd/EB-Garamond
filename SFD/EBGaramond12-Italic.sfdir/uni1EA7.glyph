@@ -1,12 +1,51 @@
 StartChar: uni1EA7
-Encoding: 7847 7847 513
-Width: 451
+Encoding: 2310 7847 2309
+GlifName: uni1E_A_7
+Width: 484
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 167 -30 basechar 0
+AnchorPoint: "top" 335 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2108 -1 N 1 0 0 1 230 102 2
-Refer: 2110 -1 N 1 0 0 1 236 0 2
-Refer: 0 97 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" a uni0302.stack gravecomb.stack
+Refer: 496 97 N 1 0 0 1 0 0 2
+Refer: 1773 -1 N 1 0 0 1 238 0 2
+Refer: 914 -1 N 1 0 0 1 143 102 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Va
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0302.stack
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vgravecomb.stack
+p11
+sasVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni1EA7+AAoA"
 EndChar

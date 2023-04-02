@@ -1,23 +1,30 @@
 StartChar: uni030A.sc
-Encoding: 1115073 -1 2785
+Encoding: 1937 -1 1936
 GlifName: uni030A_.sc
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 111 550 mark 0
-LayerCount: 3
-Fore
+AnchorPoint: "top" 0 419 mark 0
+LayerCount: 2
+Back
 SplineSet
-115 647 m 0
- 159 647 196 613 196 569 c 0
- 196 517 153 480 109 480 c 0
- 65 480 28 519 28 563 c 0
- 28 607 71 647 115 647 c 0
-69 568 m 0
- 69 535 88 506 116 506 c 0
- 146 506 155 530 155 562 c 0
- 155 590 134 620 106 620 c 0
- 78 620 69 596 69 568 c 0
+69 568 m 256
+ 69 596 78 620 106 620 c 256
+ 134 620 155 590 155 562 c 256
+ 155 530 146 506 116 506 c 256
+ 88 506 69 535 69 568 c 256
+115 647 m 256
+ 71 647 28 607 28 563 c 256
+ 28 519 65 480 109 480 c 256
+ 153 480 196 517 196 569 c 256
+ 196 613 159 647 115 647 c 256
 EndSplineSet
-Validated: 1
+Fore
+Refer: 1357 730 N 1 0 0 1 -100 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030A.sc+AAoA"
 EndChar

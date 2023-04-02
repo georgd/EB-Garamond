@@ -1,11 +1,25 @@
 StartChar: slash.sups
-Encoding: 65927 -1 1519
-Width: 259
-VWidth: 440
-Flags: MW
+Encoding: 1372 -1 1371
+GlifName: slash.sups
+Width: 263
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1213 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 1367 -1 N 1 0 0 1 49 158 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vslash.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vslash.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-slash.sups+AAoA"
 EndChar

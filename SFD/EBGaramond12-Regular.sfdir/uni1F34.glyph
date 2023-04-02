@@ -1,14 +1,48 @@
 StartChar: uni1F34
-Encoding: 7988 7988 2500
+Encoding: 2610 7988 2609
 GlifName: uni1F_34
-Width: 221
+Width: 238
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 130 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+155 458 m 256
+ 176 494 226 592 226 602 c 256
+ 226 618 207 643 188 643 c 256
+ 180 643 166 637 163 625 c 256
+ 153 589 122 467 122 449 c 256
+ 122 440 122 436 131 436 c 256
+ 139 436 149 448 155 458 c 256
+25 558 m 256
+ 41 555 51 542 51 526 c 256
+ 51 497 31 479 4 466 c 256
+ -4 462 -13 459 -13 452 c 256
+ -13 447 -6 442 7 442 c 256
+ 59 442 103 486 103 539 c 256
+ 103 587 77 636 30 636 c 256
+ 6 636 -17 621 -17 598 c 256
+ -17 575 2 562 25 558 c 256
+150 343 m 256
+ 150 391 140 418 111 418 c 256
+ 73 418 63 374 65 332 c 257
+ 67 86 l 258
+ 68 19 87 -14 121 -14 c 256
+ 171 -14 198 28 198 62 c 256
+ 198 73 197 78 188 78 c 256
+ 185 78 174 64 153 64 c 256
+ 139 64 125 70 125 95 c 256
+ 125 155 150 307 150 343 c 256
+EndSplineSet
 Fore
-Refer: 2712 -1 N 1 0 0 1 108 -20 2
-Refer: 2696 -1 N 1 0 0 1 -17 -20 2
-Refer: 2407 953 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" iota uni0313.grk acutecomb.grkstack
+Refer: 1020 953 N 1 0 0 1 0 0 2
+Refer: 2751 8142 N 1 0 0 1 -19 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1F34+AAoA"
 EndChar

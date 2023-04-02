@@ -1,0 +1,42 @@
+StartChar: uni023A
+Encoding: 1698 570 1697
+GlifName: uni023A_
+Width: 658
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 256 -30 basechar 0
+AnchorPoint: "top.cap" 598 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+107 -39 m 256
+ 126 -43 143 -45 155 -31 c 257
+ 736 645 l 257
+ 736 646 738 648 738 649 c 256
+ 738 656 734 663 727 664 c 256
+ 708 670 691 671 678 657 c 257
+ 97 -20 l 257
+ 92 -25 95 -22 95 -22 c 257
+ 94 -29 96 -38 107 -39 c 256
+EndSplineSet
+Fore
+SplineSet
+73 -92 m 256
+ 92 -92 109 -90 118 -74 c 257
+ 782 700 l 257
+ 782 701 783 703 783 704 c 256
+ 783 711 776 717 769 717 c 256
+ 750 717 724 717 715 700 c 257
+ 50 -74 l 257
+ 46 -80 49 -77 49 -77 c 257
+ 49 -84 56 -92 73 -92 c 256
+EndSplineSet
+Refer: 1 65 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni023A+AAoA"
+EndChar

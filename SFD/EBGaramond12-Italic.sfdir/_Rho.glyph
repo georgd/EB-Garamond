@@ -1,11 +1,19 @@
 StartChar: Rho
-Encoding: 929 929 641
-Width: 570
+Encoding: 352 929 351
+GlifName: R_ho
+Width: 566
 VWidth: 0
-Flags: MW
-AnchorPoint: "grk_uc_top_left" 100 665 basechar 0
+Flags: W
+AnchorPoint: "topgreek" 17 460 basechar 0
+AnchorPoint: "top.cap" 422 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 26 80 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 313 80 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Rho+AAoA"
 EndChar

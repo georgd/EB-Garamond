@@ -1,28 +1,50 @@
 StartChar: o
-Encoding: 111 111 3
-Width: 400
-Flags: MW
-AnchorPoint: "ogonek" 228 18 basechar 0
-AnchorPoint: "below_accent" 137 -100 basechar 0
-AnchorPoint: "top_accent" 322 550 basechar 0
+Encoding: 1128 111 1127
+GlifName: o
+Width: 380
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 104 -30 basechar 0
+AnchorPoint: "top" 278 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+108 -14 m 256
+ 262 -14 362 176 362 296 c 256
+ 362 362 324 414 257 414 c 256
+ 123 414 17 224 17 99 c 256
+ 17 41 59 -14 108 -14 c 256
+124 16 m 256
+ 97 16 81 34 81 78 c 256
+ 81 210 178 384 255 384 c 256
+ 289 384 298 359 298 324 c 256
+ 298 211 204 16 124 16 c 256
+EndSplineSet
 Fore
 SplineSet
-326 304 m 0
- 326 354 317 384 283 384 c 0
- 203 384 109 189 109 96 c 0
- 109 46 118 16 152 16 c 0
- 232 16 326 211 326 304 c 0
-390 296 m 0
- 390 176 290 -14 140 -14 c 0
- 100 -14 45 28 45 104 c 0
- 45 224 145 414 295 414 c 0
- 335 414 390 372 390 296 c 0
+108 -14 m 256
+ 262 -14 362 176 362 296 c 256
+ 362 362 324 414 257 414 c 256
+ 123 414 17 224 17 99 c 256
+ 17 41 59 -14 108 -14 c 256
+124 16 m 256
+ 97 16 81 34 81 78 c 256
+ 81 210 178 384 255 384 c 256
+ 289 384 298 359 298 324 c 256
+ 298 211 204 16 124 16 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" o.sc
-Substitution2: "sups subtable" o.sups
-Substitution2: "sinf subtable" o.sinf
-Substitution2: "ordn subtable" o.ordn
-Substitution2: "subs subtable" o.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" O.pc
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" o.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" o.sc
+Substitution2: "Single Substitution lookup 14 subtable" ordmasculine
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" o.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" o.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" o.subs
+Comment: "+AAoA-o+AAoA"
 EndChar

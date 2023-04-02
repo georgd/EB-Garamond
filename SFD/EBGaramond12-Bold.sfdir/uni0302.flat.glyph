@@ -1,0 +1,30 @@
+StartChar: uni0302.flat
+Encoding: 1908 -1 1907
+GlifName: uni0302.flat
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+-135 679 m 256
+ -119 679 -50 700 -13 712 c 256
+ -4 715 4 717 13 712 c 256
+ 47 693 119 679 135 679 c 256
+ 147 679 155 684 155 692 c 256
+ 155 697 152 703 146 708 c 258
+ 52 789 l 258
+ 27 811 19 819 0 819 c 257
+ -19 819 -27 811 -52 789 c 258
+ -146 708 l 258
+ -152 703 -155 697 -155 692 c 256
+ -155 684 -147 679 -135 679 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0302.flat+AAoA"
+EndChar

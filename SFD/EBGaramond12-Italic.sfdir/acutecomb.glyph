@@ -1,26 +1,28 @@
 StartChar: acutecomb
-Encoding: 769 769 623
+Encoding: 513 769 512
+GlifName: acutecomb
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 40 550 mark 0
+AnchorPoint: "top" 34 440 mark 0
 LayerCount: 2
 Fore
 SplineSet
-41 478 m 0
- 34 471 26 463 18 463 c 0
- 13 463 10 467 10 471 c 0
- 10 475 10 479 12 483 c 0
- 25 510 70 596 87 627 c 0
- 94 640 102 652 112 652 c 0
- 122 652 151 630 151 615 c 0
- 151 610 67 507 41 478 c 0
+48 475 m 256
+ 56 475 65 482 71 490 c 258
+ 163 598 l 258
+ 175 613 181 622 181 628 c 256
+ 181 643 152 664 142 664 c 256
+ 132 664 124 652 117 639 c 257
+ 42 495 l 258
+ 37 485 37 475 48 475 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 23 subtable" acutecomb.grkstack
-Substitution2: "Single Substitution lookup 21 subtable" acutecomb.grk
-Substitution2: "Single Substitution lookup 16 subtable" acutecomb.stack
-Substitution2: "Single Substitution lookup 14 subtable" acutecomb.flat
-Substitution2: "Single Substitution lookup 12 subtable" acutecomb.flat
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" acutecomb.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" acutecomb.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" acutecomb.sc
+Comment: "+AAoA-acutecomb+AAoA"
 EndChar

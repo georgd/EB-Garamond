@@ -1,12 +1,21 @@
 StartChar: uni1E51
-Encoding: 7761 7761 434
-Width: 400
+Encoding: 2230 7761 2229
+GlifName: uni1E_51
+Width: 380
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 104 -30 basechar 0
+AnchorPoint: "top" 278 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2108 -1 N 1 0 0 1 242 158 2
-Refer: 2102 -1 N 1 0 0 1 132 44 2
-Refer: 3 111 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" o uni0304.stack gravecomb.stack
+Refer: 1127 111 N 1 0 0 1 0 0 2
+Refer: 1083 175 N 1 0 0 1 48 0 2
+Refer: 914 -1 N 1 0 0 1 175 154 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E51+AAoA"
 EndChar

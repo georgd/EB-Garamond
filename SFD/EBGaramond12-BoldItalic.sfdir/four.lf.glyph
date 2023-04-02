@@ -1,0 +1,57 @@
+StartChar: four.lf
+Encoding: 861 -1 860
+GlifName: four.lf
+Width: 569
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+144 -3 m 256
+ 188 -3 250 2 290 2 c 256
+ 329 2 395 -2 437 -2 c 256
+ 447 -2 455 3 458 13 c 256
+ 462 26 456 30 446 34 c 257
+ 398 49 388 61 400 98 c 258
+ 413 139 l 258
+ 416 149 422 151 431 153 c 256
+ 440 154 444 154 457 154 c 256
+ 474 154 487 153 503 153 c 256
+ 511 153 546 214 550 230 c 256
+ 551 234 547 237 540 237 c 257
+ 516 236 504 235 483 235 c 256
+ 470 235 465 235 448 236 c 257
+ 445 236 444 240 445 243 c 258
+ 477 344 l 258
+ 493 396 501 423 471 423 c 256
+ 454 423 399 420 354 401 c 257
+ 336 394 332 388 324 363 c 258
+ 289 249 l 258
+ 288 246 284 243 280 243 c 258
+ 161 243 l 258
+ 152 243 145 246 157 258 c 257
+ 491 620 l 257
+ 491 620 510 642 501 642 c 258
+ 474 642 l 258
+ 458 642 432 624 414 605 c 258
+ 48 207 l 258
+ 34 191 24 184 8 168 c 256
+ 2 162 6 148 12 148 c 256
+ 79 148 185 156 243 156 c 256
+ 251 156 259 153 256 142 c 258
+ 242 97 l 258
+ 229 56 211 46 157 34 c 256
+ 144 31 135 24 131 12 c 256
+ 128 3 136 -3 144 -3 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 1401 -15 "'kern' Horizontal Kerning lookup 0 subtable" 3025 -45 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" four.osf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" four
+Comment: "+AAoA-four.lnum+AAoA"
+EndChar

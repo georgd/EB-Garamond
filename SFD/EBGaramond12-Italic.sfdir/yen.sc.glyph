@@ -1,11 +1,34 @@
 StartChar: yen.sc
-Encoding: 66113 -1 1705
-Width: 619
+Encoding: 3027 -1 3026
+GlifName: yen.sc
+Width: 538
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "top" 358 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1020 165 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+127 186 m 257
+ 371 186 l 257
+ 386 186 407 200 410 210 c 256
+ 412 218 407 221 400 221 c 257
+ 148 221 l 257
+ 135 221 120 207 117 198 c 256
+ 115 192 120 186 127 186 c 257
+102 104 m 257
+ 346 104 l 257
+ 361 104 381 118 384 128 c 256
+ 386 136 382 139 375 139 c 257
+ 123 139 l 257
+ 110 139 94 125 92 116 c 256
+ 91 110 95 104 102 104 c 257
+EndSplineSet
+Refer: 466 -1 N 1 0 0 1 11 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-yen.sc+AAoA"
 EndChar

@@ -1,0 +1,67 @@
+StartChar: J
+Encoding: 209 74 209
+GlifName: J_
+Width: 397
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 348 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-64 -200 m 256
+ 15 -200 81 -167 132 -118 c 256
+ 190 -63 232 13 268 131 c 258
+ 398 550 l 258
+ 410 590 424 602 484 618 c 256
+ 497 622 505 626 509 639 c 256
+ 512 649 508 654 498 654 c 256
+ 456 654 381 650 342 650 c 256
+ 302 650 237 655 193 655 c 256
+ 185 655 173 649 171 640 c 256
+ 167 628 172 621 183 618 c 256
+ 232 606 241 594 228 551 c 258
+ 65 25 l 258
+ 26 -103 5 -161 -27 -161 c 256
+ -47 -161 -72 -137 -97 -114 c 256
+ -121 -91 -144 -69 -162 -69 c 256
+ -186 -69 -203 -101 -203 -142 c 256
+ -202 -178 -167 -200 -64 -200 c 256
+EndSplineSet
+Fore
+SplineSet
+-64 -200 m 256
+ 0 -200 64 -169 117 -124 c 256
+ 179 -73 227 -4 244 52 c 258
+ 398 550 l 258
+ 410 590 424 602 484 618 c 256
+ 497 622 505 626 509 639 c 256
+ 512 649 508 654 498 654 c 256
+ 456 654 381 650 342 650 c 256
+ 302 650 237 655 193 655 c 256
+ 185 655 173 649 171 640 c 256
+ 167 628 172 621 183 618 c 256
+ 232 606 241 594 228 551 c 258
+ 65 25 l 258
+ 26 -103 5 -161 -27 -161 c 256
+ -47 -161 -72 -137 -97 -114 c 256
+ -121 -91 -144 -69 -162 -69 c 256
+ -186 -69 -203 -101 -203 -142 c 256
+ -202 -178 -167 -200 -64 -200 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss07' Style Set 7 in Latin lookup 38 subtable" J.hist
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" J.swsh
+Substitution2: "'hist' Historical Forms in Latin lookup 27 subtable" J.hist
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" J.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" J.sc
+Substitution2: "'hist' Historical Forms in Latin lookup 19 subtable" J.hist
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" J.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" J.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" J.subs
+Comment: "+AAoA-J+AAoA"
+EndChar

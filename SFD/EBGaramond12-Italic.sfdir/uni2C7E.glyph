@@ -1,0 +1,43 @@
+StartChar: uni2C7E
+Encoding: 2902 11390 2901
+GlifName: uni2C_7E_
+Width: 467
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 138 -30 basechar 0
+AnchorPoint: "top.cap" 370 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+172 6 m 257
+ 110 0 l 257
+ 161 -48 160 -238 256 -238 c 256
+ 328 -238 362 -181 362 -118 c 256
+ 362 -105 361 -87 353 -87 c 256
+ 332 -87 290 -119 290 -137 c 256
+ 290 -146 310 -164 310 -175 c 256
+ 310 -188 306 -206 282 -206 c 256
+ 233 -206 217 -42 172 6 c 257
+EndSplineSet
+Fore
+SplineSet
+243 -220 m 256
+ 333 -220 364 -189 365 -162 c 256
+ 366 -142 349 -124 330 -124 c 256
+ 313 -124 301 -130 281 -148 c 256
+ 257 -170 251 -183 234 -183 c 256
+ 199 -183 191 -127 184 -87 c 256
+ 174 -41 166 10 113 10 c 257
+ 40 18 l 257
+ 96 -6 106 -61 123 -109 c 256
+ 139 -157 162 -220 243 -220 c 256
+EndSplineSet
+Refer: 352 83 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2C7E+AAoA"
+EndChar

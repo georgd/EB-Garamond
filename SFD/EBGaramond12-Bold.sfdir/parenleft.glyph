@@ -1,25 +1,52 @@
 StartChar: parenleft
-Encoding: 40 40 90
-Width: 295
+Encoding: 1251 40 1250
+GlifName: parenleft
+Width: 302
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+283 -192 m 256
+ 283 -190 269 -175 267 -173 c 256
+ 196 -102 119 111 119 281 c 256
+ 119 451 200 599 271 670 c 256
+ 273 672 284 687 284 689 c 256
+ 284 698 269 705 262 705 c 256
+ 252 705 241 700 235 694 c 256
+ 164 623 59 439 59 269 c 256
+ 59 99 168 -136 239 -207 c 256
+ 244 -212 250 -214 256 -214 c 256
+ 269 -214 283 -206 283 -192 c 256
+EndSplineSet
 Fore
 SplineSet
-245 -194 m 0
- 245 -211 232 -219 220 -219 c 0
- 214 -219 209 -217 204 -212 c 0
- 139 -141 39 94 39 266 c 0
- 39 438 135 623 200 694 c 0
- 206 700 216 705 225 705 c 0
- 231 705 246 699 246 686 c 0
- 246 681 238 667 237 665 c 0
- 188 594 131 447 131 279 c 0
- 131 111 185 -102 234 -173 c 0
- 235 -175 245 -188 245 -194 c 0
+239 -215 m 256
+ 263 -215 288 -200 288 -174 c 256
+ 288 -171 264 -143 261 -139 c 257
+ 211 -75 160 124 160 270 c 256
+ 160 441 219 578 269 642 c 257
+ 272 646 292 673 292 677 c 256
+ 292 693 265 706 252 706 c 256
+ 233 706 213 697 202 686 c 256
+ 133 616 35 435 35 267 c 256
+ 35 100 139 -132 208 -202 c 256
+ 217 -211 228 -215 239 -215 c 256
 EndSplineSet
-Substitution2: "sups subtable" parenleft.sups
-Substitution2: "sinf subtable" parenleft.sinf
-Substitution2: "ordn subtable" parenleft.ordn
-Substitution2: "subs subtable" parenleft.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss04' Style Set 4 lookup 33 subtable" uni2619
+Substitution2: "'ss02' Style Set 2 lookup 30 subtable" uni261C
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" parenleft.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" parenleft.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" parenleft.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" parenleft.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" parenleft.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" parenleft.subs
+Comment: "+AAoA-parenleft+AAoA"
 EndChar

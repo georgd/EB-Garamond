@@ -1,30 +1,69 @@
 StartChar: asciicircum
-Encoding: 94 94 77
-Width: 378
+Encoding: 561 94 560
+GlifName: asciicircum
+Width: 517
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+256 603 m 257
+ 228 564 95 369 57 305 c 257
+ 55 302 54 298 54 295 c 256
+ 54 289 58 284 63 284 c 258
+ 65 284 l 257
+ 77 287 95 295 102 302 c 257
+ 129 332 220 470 250 514 c 256
+ 254 520 255 520 260 514 c 257
+ 290 470 374 341 410 302 c 257
+ 416 295 435 287 447 284 c 257
+ 449 284 l 258
+ 454 284 458 289 458 295 c 256
+ 458 298 457 302 455 305 c 257
+ 414 375 282 566 256 603 c 257
+54 242 m 256
+ 74 242 91 259 104 279 c 258
+ 253 505 l 258
+ 256 510 259 512 263 505 c 258
+ 413 279 l 258
+ 426 259 443 242 463 242 c 256
+ 484 242 491 255 485 266 c 257
+ 300 566 l 258
+ 288 587 270 603 261 608 c 257
+ 254 608 l 257
+ 248 608 228 577 215 556 c 258
+ 32 266 l 258
+ 31 264 30 261 30 259 c 256
+ 30 246 42 242 54 242 c 256
+EndSplineSet
 Fore
 SplineSet
-49 306 m 0
- 76 370 169 566 189 605 c 1
- 189 606 l 1
- 189 605 l 1
- 207 568 300 376 329 306 c 0
- 331 303 331 298 331 294 c 0
- 331 285 327 280 324 280 c 2
- 323 280 l 1
- 315 283 300 291 296 298 c 0
- 271 337 212 467 191 511 c 0
- 188 517 188 517 185 511 c 0
- 164 467 101 328 82 298 c 0
- 77 291 63 283 55 280 c 1
- 54 280 l 2
- 51 280 47 285 47 294 c 0
- 47 298 47 303 49 306 c 0
+54 242 m 256
+ 74 242 91 259 104 279 c 258
+ 252 500 l 258
+ 255 505 257 507 262 500 c 258
+ 413 279 l 258
+ 426 259 443 242 463 242 c 256
+ 484 242 491 255 485 266 c 257
+ 261 609 l 257
+ 253 609 l 257
+ 32 266 l 257
+ 31 264 30 261 30 259 c 256
+ 30 246 42 242 54 242 c 256
 EndSplineSet
-Substitution2: "sups subtable" asciicircum.sups
-Substitution2: "sinf subtable" asciicircum.sinf
-Substitution2: "ordn subtable" asciicircum.ordn
-Substitution2: "subs subtable" asciicircum.subs
+Guideline: "" "" 256 242 0 0 0
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" asciicircum.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" asciicircum.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" asciicircum.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" asciicircum.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" asciicircum.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" asciicircum.subs
+Comment: "+AAoA-asciicircum+AAoA"
 EndChar

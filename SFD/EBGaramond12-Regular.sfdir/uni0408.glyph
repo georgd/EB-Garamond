@@ -1,12 +1,18 @@
 StartChar: uni0408
-Encoding: 1032 1032 650
+Encoding: 2079 1032 2078
 GlifName: uni0408
-Width: 300
+Width: 340
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top.cap" 164 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 42 74 N 1 0 0 1 0 0 3
-Validated: 1
-Position2: "lfbd subtable" dx=-15 dy=0 dh=-15 dv=0
+Refer: 211 74 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0408+AAoA"
 EndChar

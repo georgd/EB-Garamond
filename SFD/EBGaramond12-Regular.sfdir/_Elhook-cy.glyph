@@ -1,0 +1,52 @@
+StartChar: Elhook-cy
+Encoding: 107 1298 107
+GlifName: E_lhook-cy
+Width: 703
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+383 -200 m 256
+ 422 -200 453 -178 480 -146 c 256
+ 512 -108 559 -37 559 47 c 258
+ 559 550 l 258
+ 559 597 580 613 630 622 c 256
+ 653 626 663 633 663 642 c 256
+ 663 650 651 653 634 653 c 256
+ 580 653 568 650 525 650 c 256
+ 432 649 352 649 258 649 c 256
+ 221 649 183 653 163 653 c 256
+ 146 653 134 650 134 642 c 256
+ 134 633 144 626 167 622 c 256
+ 217 613 231 595 231 557 c 256
+ 231 192 179 74 112 74 c 256
+ 79 74 45 81 30 86 c 257
+ 18 86 5 71 5 44 c 256
+ 5 11 29 -14 76 -14 c 256
+ 135 -14 276 54 276 567 c 256
+ 276 599 284 611 305 611 c 258
+ 447 611 l 258
+ 472 611 479 589 479 555 c 258
+ 479 -1 l 258
+ 479 -98 460 -159 413 -159 c 256
+ 396 -159 383 -151 366 -129 c 256
+ 352 -111 336 -104 319 -104 c 256
+ 304 -104 280 -128 280 -151 c 256
+ 280 -182 315 -200 383 -200 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni041B
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VJ
+p4
+sVpublic.markColor
+p5
+V0.97,1,0,1
+p6
+s."
+EndChar

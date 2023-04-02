@@ -1,0 +1,37 @@
+StartChar: tonos
+Encoding: 1477 900 1476
+GlifName: tonos
+Width: 245
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 93 439 mark 0
+LayerCount: 2
+Back
+SplineSet
+52 471 m 256
+ 61 471 71 482 79 490 c 256
+ 109 520 155 621 156 631 c 256
+ 158 647 140 675 121 675 c 256
+ 112 675 99 669 94 657 c 256
+ 80 623 45 502 45 484 c 256
+ 45 475 43 471 52 471 c 256
+EndSplineSet
+Fore
+SplineSet
+68 476 m 256
+ 80 476 94 492 102 504 c 256
+ 129 545 189 664 190 676 c 256
+ 192 694 161 722 135 724 c 256
+ 123 725 107 717 100 701 c 256
+ 82 660 55 513 55 491 c 256
+ 55 481 56 476 68 476 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-tonos+AAoA"
+EndChar

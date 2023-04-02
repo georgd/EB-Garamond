@@ -1,10 +1,19 @@
 StartChar: Tau
-Encoding: 932 932 642
-Width: 635
+Encoding: 382 932 381
+GlifName: T_au
+Width: 622
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottom.cap" 280 -30 basechar 0
+AnchorPoint: "top.cap" 455 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 34 84 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 372 84 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Tau+AAoA"
 EndChar

@@ -1,0 +1,59 @@
+StartChar: seven.lf
+Encoding: 1341 -1 1340
+GlifName: seven.lf
+Width: 459
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+10 -32 m 256
+ 14 -32 27 -16 36 -5 c 258
+ 494 538 l 258
+ 512 559 536 589 550 607 c 256
+ 553 611 547 621 541 621 c 256
+ 522 618 425 616 333 616 c 256
+ 290 616 249 616 222 617 c 256
+ 199 618 173 621 165 621 c 256
+ 162 621 156 619 152 610 c 257
+ 144 585 130 565 115 536 c 256
+ 108 524 106 506 116 506 c 256
+ 125 506 140 519 146 525 c 256
+ 166 545 193 551 226 551 c 258
+ 448 551 l 257
+ 462 550 457 545 454 541 c 257
+ 24 35 l 258
+ 11 19 -7 -2 -8 -6 c 257
+ -13 -21 -4 -32 10 -32 c 256
+EndSplineSet
+Fore
+SplineSet
+25 -32 m 256
+ 29 -32 42 -16 51 -5 c 258
+ 509 538 l 258
+ 527 559 551 589 565 607 c 256
+ 568 611 562 621 556 621 c 256
+ 537 618 440 616 348 616 c 256
+ 305 616 264 616 237 617 c 256
+ 214 618 188 621 180 621 c 256
+ 177 621 171 619 167 610 c 257
+ 159 585 145 554 126 522 c 256
+ 119 510 117 492 127 492 c 256
+ 136 492 152 504 157 511 c 256
+ 177 539 208 551 241 551 c 258
+ 468 551 l 257
+ 482 550 477 545 474 541 c 257
+ 44 35 l 258
+ 31 19 13 -2 12 -6 c 257
+ 7 -21 11 -32 25 -32 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" seven.osf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" seven
+Comment: "+AAoA-seven.lnum+AAoA"
+EndChar

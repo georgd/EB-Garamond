@@ -1,0 +1,80 @@
+StartChar: L
+Encoding: 235 76 235
+GlifName: L_
+Width: 578
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 268 -30 basechar 0
+AnchorPoint: "top.cap" 346 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-28 -5 m 256
+ 11 -5 77 0 117 0 c 256
+ 238 0 450 -5 487 -5 c 256
+ 499 -5 504 5 510 14 c 256
+ 533 48 571 132 571 174 c 256
+ 571 183 567 190 560 190 c 256
+ 552 190 546 188 537 178 c 256
+ 471 88 438 59 369 59 c 258
+ 272 59 l 258
+ 238 59 227 73 238 110 c 258
+ 375 550 l 258
+ 387 590 401 602 461 618 c 257
+ 474 622 482 626 486 639 c 256
+ 489 649 485 654 475 654 c 256
+ 433 654 358 650 319 650 c 256
+ 279 650 214 655 170 655 c 256
+ 162 655 150 649 148 640 c 256
+ 145 628 149 621 160 618 c 256
+ 209 605 218 594 205 551 c 258
+ 64 95 l 258
+ 51 54 32 46 -16 32 c 256
+ -30 28 -40 19 -42 11 c 256
+ -44 3 -40 -5 -28 -5 c 256
+EndSplineSet
+Fore
+SplineSet
+-28 -5 m 256
+ 11 -5 77 0 117 0 c 256
+ 238 0 435 -5 472 -5 c 256
+ 484 -5 489 5 495 14 c 256
+ 518 48 558 142 558 184 c 256
+ 558 193 553 204 546 204 c 256
+ 538 204 529 195 524 184 c 256
+ 502 138 475 101 437 75 c 256
+ 403 53 358 40 305 40 c 258
+ 279 40 l 258
+ 241 40 225 62 253 154 c 258
+ 375 550 l 258
+ 387 590 401 602 461 618 c 257
+ 474 622 482 626 486 639 c 256
+ 489 649 485 654 475 654 c 256
+ 433 654 358 650 319 650 c 256
+ 279 650 214 655 170 655 c 256
+ 162 655 150 649 148 640 c 256
+ 145 628 149 621 160 618 c 256
+ 209 605 218 594 205 551 c 258
+ 64 95 l 258
+ 51 54 32 46 -16 32 c 256
+ -30 28 -40 19 -42 11 c 256
+ -44 3 -40 -5 -28 -5 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" L.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" L.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" L.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" L.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" L.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" L.subs
+Comment: "+AAoA-L+AAoA"
+EndChar

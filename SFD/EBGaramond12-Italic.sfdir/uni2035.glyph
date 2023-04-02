@@ -1,10 +1,25 @@
 StartChar: uni2035
-Encoding: 8245 8245 787
-Width: 257
+Encoding: 2658 8245 2657
+GlifName: uni2035
+Width: 236
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 87 96 N 1 0 0 1 0 0 3
-Validated: 1
+SplineSet
+261 449 m 256
+ 270 449 274 453 277 462 c 256
+ 282 477 253 603 244 637 c 256
+ 239 655 227 664 206 664 c 256
+ 190 664 169 650 165 636 c 256
+ 159 617 203 582 243 471 c 257
+ 246 464 253 449 261 449 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2035+AAoA"
 EndChar

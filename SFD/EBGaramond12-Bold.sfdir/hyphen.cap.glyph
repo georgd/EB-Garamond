@@ -1,0 +1,36 @@
+StartChar: hyphen.cap
+Encoding: 986 -1 985
+GlifName: hyphen.cap
+Width: 336
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+42 292 m 256
+ 116 299 212 312 286 323 c 256
+ 302 326 306 336 306 379 c 256
+ 306 390 303 397 289 396 c 256
+ 216 390 128 379 55 367 c 256
+ 39 364 31 347 31 303 c 256
+ 31 296 33 291 42 292 c 256
+EndSplineSet
+Fore
+SplineSet
+37 287 m 256
+ 115 296 208 308 289 320 c 256
+ 307 323 311 335 311 382 c 256
+ 311 395 308 402 292 401 c 256
+ 219 395 132 382 51 369 c 256
+ 34 366 25 347 25 298 c 256
+ 25 291 27 286 37 287 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.99,0.62,0.11,1
+p2
+s."
+Comment: "+AAoA-hyphen.cap+AAoA"
+EndChar

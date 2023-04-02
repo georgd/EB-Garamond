@@ -1,0 +1,42 @@
+StartChar: uni0308.cap
+Encoding: 1931 -1 1930
+GlifName: uni0308.cap
+Width: 0
+VWidth: 0
+AnchorPoint: "top.cap" -1 675 mark 0
+LayerCount: 2
+Back
+SplineSet
+55 795 m 256
+ 27 795 5 773 5 745 c 256
+ 5 717 27 695 55 695 c 256
+ 83 695 105 717 105 745 c 256
+ 105 773 83 795 55 795 c 256
+250 795 m 256
+ 222 795 200 773 200 745 c 256
+ 200 717 222 695 250 695 c 256
+ 278 695 300 717 300 745 c 256
+ 300 773 278 795 250 795 c 256
+EndSplineSet
+Fore
+SplineSet
+97 686 m 256
+ 142 686 177 721 177 762 c 256
+ 177 806 142 839 97 839 c 256
+ 55 839 21 806 21 762 c 256
+ 21 721 55 686 97 686 c 256
+-101 686 m 256
+ -56 686 -21 721 -21 762 c 256
+ -21 806 -56 839 -101 839 c 256
+ -143 839 -177 806 -177 762 c 256
+ -177 721 -143 686 -101 686 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0308.cap+AAoA"
+EndChar

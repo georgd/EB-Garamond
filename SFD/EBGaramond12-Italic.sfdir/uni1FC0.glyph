@@ -1,12 +1,33 @@
 StartChar: uni1FC0
-Encoding: 8128 8128 566
-Width: 328
+Encoding: 2574 8128 2573
+GlifName: uni1F_C_0
+Width: 300
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "topgreek" 224 440 mark 0
+AnchorPoint: "top" 172 440 mark 0
 LayerCount: 2
+Back
+SplineSet
+44 470 m 256
+ 52 470 81 511 105 511 c 256
+ 117 511 137 505 158 499 c 256
+ 179 493 200 487 213 487 c 256
+ 255 487 298 544 298 554 c 256
+ 298 564 292 571 282 571 c 256
+ 274 571 254 545 225 545 c 256
+ 212 545 191 551 170 558 c 256
+ 150 564 130 570 118 570 c 256
+ 75 570 30 495 30 485 c 256
+ 30 475 34 470 44 470 c 256
+EndSplineSet
 Fore
-Refer: 2098 834 N 1 0 0 1 4 69 2
-Refer: 2375 -1 N 1 0 0 1 -26 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0342
+Refer: 1412 732 N 1 0 0 1 1 1 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FC0+AAoA"
 EndChar

@@ -1,0 +1,29 @@
+StartChar: uni0306
+Encoding: 1782 774 1781
+GlifName: uni0306
+Width: 0
+VWidth: 0
+AnchorPoint: "top" 116 605 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+91 475 m 256
+ 184 475 244 558 250 599 c 256
+ 254 624 248 635 236 635 c 256
+ 224 635 214 627 207 614 c 256
+ 186 575 155 562 108 562 c 256
+ 61 562 38 575 41 614 c 256
+ 42 627 38 635 26 635 c 256
+ 14 635 -3 624 -10 599 c 256
+ -26 544 0 475 91 475 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" uni0306.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" uni0306.sc
+Comment: "+AAoA-uni0306+AAoA"
+EndChar

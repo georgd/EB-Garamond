@@ -1,0 +1,62 @@
+StartChar: one.osf
+Encoding: 1214 -1 1213
+GlifName: one.osf
+Width: 289
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+36 -3 m 256
+ 90 -3 102 2 145 2 c 256
+ 187 2 195 -3 252 -3 c 256
+ 260 -3 264 3 264 9 c 256
+ 264 15 260 21 252 22 c 256
+ 208 28 181 29 181 68 c 258
+ 181 333 l 258
+ 181 379 214 378 242 384 c 256
+ 247 385 250 391 250 396 c 256
+ 250 401 248 406 242 406 c 256
+ 184 406 183 403 145 403 c 256
+ 106 403 106 406 46 406 c 256
+ 41 406 39 401 39 395 c 256
+ 39 390 41 384 46 384 c 257
+ 73 380 109 380 109 333 c 258
+ 109 68 l 258
+ 109 27 63 24 36 22 c 257
+ 28 22 25 17 25 11 c 256
+ 25 4 29 -3 36 -3 c 256
+EndSplineSet
+Fore
+SplineSet
+44 -3 m 256
+ 98 -3 102 2 145 2 c 256
+ 187 2 189 -3 246 -3 c 256
+ 258 -3 264 3 264 9 c 256
+ 264 15 258 20 246 22 c 256
+ 202 28 181 29 181 68 c 258
+ 181 333 l 258
+ 181 379 210 378 238 384 c 256
+ 243 385 254 388 254 396 c 256
+ 254 403 244 406 238 406 c 256
+ 180 406 183 403 145 403 c 256
+ 106 403 108 406 48 406 c 256
+ 40 406 33 401 33 395 c 256
+ 33 390 39 385 48 384 c 256
+ 86 380 109 374 109 333 c 258
+ 109 68 l 258
+ 109 27 71 25 44 22 c 256
+ 34 21 25 17 25 11 c 256
+ 25 1 36 -3 44 -3 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" one.lf
+Substitution2: "'tnum' Tabular Numbers lookup 18 subtable" one.tosf
+Substitution2: "'lnum' Lining Figures lookup 16 subtable" one.lf
+Comment: "+AAoA-one+AAoA"
+EndChar

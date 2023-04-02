@@ -1,0 +1,45 @@
+StartChar: two.tosf
+Encoding: 1431 -1 1430
+GlifName: two.tosf
+Width: 480
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+147 297 m 257
+ 190 335 227 345 269 345 c 256
+ 305 345 321 312 305 264 c 256
+ 279 185 146 92 120 74 c 256
+ 101 61 67 34 46 17 c 256
+ 36 9 34 -3 40 -3 c 257
+ 100 0 133 0 193 0 c 256
+ 258 0 300 0 358 -4 c 257
+ 359 -4 l 258
+ 363 -4 370 -3 377 12 c 256
+ 396 52 413 81 442 126 c 256
+ 445 131 448 138 443 138 c 257
+ 436 139 426 133 422 128 c 256
+ 393 90 352 65 317 65 c 258
+ 205 65 l 257
+ 165 65 l 258
+ 159 65 152 69 159 73 c 257
+ 170 80 269 155 308 191 c 256
+ 339 220 366 258 376 290 c 256
+ 395 353 377 413 317 413 c 256
+ 207 413 133 313 130 304 c 256
+ 128 298 128 292 133 290 c 257
+ 137 288 142 293 147 297 c 257
+EndSplineSet
+Fore
+Refer: 1427 -1 N 1 0 0 1 51 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" two.lf
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 16 subtable" two.osf
+Comment: "+AAoA-two.taboldstyle+AAoA"
+EndChar

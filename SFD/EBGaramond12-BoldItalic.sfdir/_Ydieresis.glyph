@@ -1,0 +1,21 @@
+StartChar: Ydieresis
+Encoding: 476 376 475
+GlifName: Y_dieresis
+Width: 669
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 288 -30 basechar 0
+AnchorPoint: "top.cap" 550 828 basechar 0
+LayerCount: 2
+Fore
+Refer: 463 89 N 1 0 0 1 0 0 2
+Refer: 1794 -1 N 1 0 0 1 365 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Ydieresis.sc
+Comment: "+AAoA-Ydieresis+AAoA"
+EndChar

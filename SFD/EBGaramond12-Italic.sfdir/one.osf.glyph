@@ -1,0 +1,40 @@
+StartChar: one.osf
+Encoding: 1165 -1 1164
+GlifName: one.osf
+Width: 298
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-17 -3 m 256
+ 33 -3 46 2 87 2 c 256
+ 125 2 132 -3 185 -3 c 256
+ 194 -3 214 3 214 10 c 256
+ 214 14 199 21 193 22 c 256
+ 154 28 130 29 141 68 c 258
+ 222 333 l 258
+ 237 380 266 378 294 384 c 257
+ 301 385 315 390 315 396 c 256
+ 315 399 305 406 301 406 c 256
+ 247 406 245 403 209 403 c 256
+ 173 403 173 406 117 406 c 256
+ 112 406 95 403 95 396 c 256
+ 95 393 108 384 111 384 c 257
+ 135 380 168 380 154 333 c 258
+ 73 68 l 258
+ 60 27 17 24 -9 22 c 256
+ -19 21 -35 14 -35 7 c 256
+ -35 2 -21 -3 -17 -3 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" one.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" one.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" one.lf
+Comment: "+AAoA-one+AAoA"
+EndChar

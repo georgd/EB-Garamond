@@ -1,0 +1,25 @@
+StartChar: six
+Encoding: 1356 54 1355
+GlifName: six
+Width: 540
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1357 -1 N 1 0 0 1 26 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" six.lf
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" six.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" six.sc
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" six.tosf
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 16 subtable" six.lf
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" sixsuperior
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" sixinferior
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" six.subs
+Comment: "+AAoA-six.tablining+AAoA"
+EndChar

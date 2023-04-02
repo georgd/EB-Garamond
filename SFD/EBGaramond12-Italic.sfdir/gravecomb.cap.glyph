@@ -1,22 +1,27 @@
 StartChar: gravecomb.cap
-Encoding: 66377 -1 2074
+Encoding: 907 -1 906
+GlifName: gravecomb.cap
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_stack" 127 710 mark 0
-AnchorPoint: "top_accent" 130 710 mark 0
+AnchorPoint: "top.cap" 217 675 mark 0
 LayerCount: 2
 Fore
 SplineSet
-167 697 m 0
- 164 697 158 699 149 706 c 0
- 109 736 59 774 19 808 c 0
- 10 816 6 820 6 827 c 0
- 6 841 50 850 64 850 c 0
- 75 850 84 847 91 837 c 0
- 118 798 144 758 168 718 c 0
- 171 713 173 707 173 703 c 0
- 173 700 171 697 167 697 c 0
+252 697 m 256
+ 256 697 258 700 258 703 c 256
+ 258 707 256 713 253 718 c 256
+ 229 758 203 798 176 837 c 256
+ 169 847 160 850 149 850 c 256
+ 135 850 91 841 91 827 c 256
+ 91 820 95 816 104 808 c 256
+ 143 773 195 737 234 706 c 256
+ 243 699 249 697 252 697 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gravecomb.cap+AAoA"
 EndChar

@@ -1,0 +1,31 @@
+StartChar: zero.osf
+Encoding: 3210 -1 3209
+GlifName: zero.osf
+Width: 507
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+252 413 m 256
+ 136 413 40 320 40 204 c 256
+ 40 85 134 -15 254 -15 c 256
+ 372 -15 467 84 467 203 c 256
+ 467 320 370 413 252 413 c 256
+259 372 m 256
+ 343 372 389 286 389 203 c 256
+ 389 78 329 26 247 26 c 256
+ 165 26 118 119 118 204 c 256
+ 118 301 177 372 259 372 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" zero.lf
+Substitution2: "'tnum' Tabular Numbers lookup 18 subtable" zero.tosf
+Substitution2: "'lnum' Lining Figures lookup 16 subtable" zero.lf
+Comment: "+AAoA-zero+AAoA"
+EndChar

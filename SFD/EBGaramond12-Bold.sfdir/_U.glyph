@@ -1,46 +1,81 @@
 StartChar: U
-Encoding: 85 85 46
-Width: 742
+Encoding: 396 85 395
+GlifName: U_
+Width: 746
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 391 10 basechar 0
-AnchorPoint: "ogonek" 445 20 basechar 0
-AnchorPoint: "below_accent" 362 -98 basechar 0
-AnchorPoint: "top_accent" 376 708 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 387 -30 basechar 0
+AnchorPoint: "top.cap" 410 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+373 -14 m 256
+ 523 -14 646 100 646 265 c 256
+ 646 352 647 433 651 530 c 256
+ 653 580 665 604 712 618 c 256
+ 729 623 738 630 738 640 c 256
+ 738 652 727 655 713 655 c 256
+ 671 655 657 651 619 651 c 256
+ 582 651 565 654 513 654 c 256
+ 494 654 483 649 483 639 c 256
+ 483 625 509 622 524 614 c 256
+ 564 593 574 573 577 476 c 256
+ 579 418 577 350 577 296 c 256
+ 577 151 527 81 410 81 c 256
+ 328 81 258 140 258 272 c 258
+ 258 530 l 258
+ 258 575 274 598 295 608 c 256
+ 316 618 344 623 344 639 c 256
+ 344 649 334 654 318 654 c 256
+ 276 654 210 650 171 650 c 256
+ 131 650 78 655 34 655 c 256
+ 19 655 8 649 8 640 c 256
+ 8 630 16 623 35 618 c 256
+ 71 608 87 570 87 536 c 258
+ 87 256 l 258
+ 87 94 183 -14 373 -14 c 256
+EndSplineSet
 Fore
 SplineSet
-648 545 m 2
- 648 250 l 2
- 648 98 481 -14 350 -14 c 0
- 191 -14 78 85 78 240 c 2
- 78 545 l 2
- 78 590 54 609 39 615 c 0
- 23 621 15 626 15 639 c 0
- 15 651 28 653 44 653 c 0
- 73 653 109 648 145 648 c 0
- 175 648 211 652 231 652 c 0
- 247 652 260 650 260 638 c 0
- 260 625 252 623 237 616 c 0
- 226 611 200 584 200 547 c 2
- 200 269 l 2
- 200 113 293 48 379 48 c 0
- 476 48 595 132 595 284 c 2
- 595 533 l 2
- 595 583 566 607 547 615 c 0
- 538 619 523 624 523 637 c 0
- 523 649 536 651 551 651 c 0
- 578 651 590 648 616 648 c 0
- 645 648 679 653 700 653 c 0
- 715 653 727 651 727 639 c 0
- 727 626 719 622 703 617 c 0
- 679 610 648 583 648 545 c 2
+373 -14 m 256
+ 523 -14 643 100 643 265 c 256
+ 643 352 644 430 648 527 c 256
+ 650 577 665 604 712 618 c 256
+ 729 623 738 630 738 640 c 256
+ 738 652 727 655 713 655 c 256
+ 671 655 659 651 621 651 c 256
+ 589 651 572 654 520 654 c 256
+ 501 654 490 649 490 639 c 256
+ 490 625 516 622 531 614 c 256
+ 571 593 584 574 587 477 c 256
+ 589 419 586 345 586 291 c 256
+ 586 146 527 81 410 81 c 256
+ 328 81 258 140 258 272 c 258
+ 258 530 l 258
+ 258 575 274 598 295 608 c 256
+ 316 618 344 623 344 639 c 256
+ 344 649 334 654 318 654 c 256
+ 276 654 210 650 171 650 c 256
+ 131 650 78 655 34 655 c 256
+ 19 655 8 649 8 640 c 256
+ 8 630 16 623 35 618 c 256
+ 71 608 87 570 87 536 c 258
+ 87 256 l 258
+ 87 94 183 -14 373 -14 c 256
 EndSplineSet
-Substitution2: "c2sc subtable" U.sc
-Substitution2: "Single Substitution lookup 38 subtable" U.LAT
-Substitution2: "sups subtable" U.sups
-Substitution2: "sinf subtable" U.sinf
-Substitution2: "ordn subtable" U.ordn
-Substitution2: "subs subtable" U.subs
-Substitution2: "loclLAT subtable" U.LAT
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2pc' Capitals to Petite Capitals lookup 23 subtable" U.pc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" U.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" U.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" U.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" U.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" U.subs
+Substitution2: "'locl' Localized Forms in Latin lookup 5 subtable" U.LAT
+Comment: "+AAoA-U+AAoA"
 EndChar

@@ -1,22 +1,18 @@
 StartChar: circumflex
-Encoding: 710 710 90
-Width: 237
+Encoding: 677 710 676
+GlifName: circumflex
+Width: 300
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 212 440 mark 0
 LayerCount: 2
 Fore
-SplineSet
-192 465 m 6
- 184 457 172 447 161 447 c 4
- 154 447 151 456 160 468 c 6
- 160 468 247 582 278 619 c 4
- 293 637 306 648 313 648 c 4
- 320 648 326 637 330 619 c 4
- 340 576 357 468 357 468 c 6
- 359 456 350 447 343 447 c 4
- 332 447 325 458 322 465 c 6
- 287 561 l 5
- 192 465 l 6
-EndSplineSet
-Validated: 1
+Refer: 656 711 N -1 0 0 -1 468 1103 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-circumflex+AAoA"
 EndChar

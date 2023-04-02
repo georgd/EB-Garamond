@@ -1,13 +1,57 @@
 StartChar: Lcaron
-Encoding: 317 317 231
-Width: 619
+Encoding: 247 317 247
+GlifName: L_caron
+Width: 583
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 301 -30 basechar 0
+AnchorPoint: "top.cap" 353 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+14 -5 m 257
+ 14 -5 100 0 150 0 c 256
+ 250 0 358 -5 492 -5 c 256
+ 502 -5 507 3 511 12 c 256
+ 529 53 547 87 577 139 c 257
+ 578 140 579 142 580 144 c 256
+ 584 151 581 162 573 162 c 256
+ 564 162 548 140 542 132 c 256
+ 515 96 501 84 468 61 c 256
+ 445 45 409 35 404 35 c 258
+ 258 35 l 258
+ 192 35 187 55 200 96 c 258
+ 346 567 l 258
+ 358 606 399 613 452 622 c 256
+ 476 626 488 633 491 642 c 256
+ 494 650 482 653 465 653 c 256
+ 411 653 387 650 338 650 c 256
+ 294 650 281 653 227 653 c 256
+ 210 653 197 650 195 642 c 256
+ 193 633 200 626 222 622 c 256
+ 269 613 279 608 264 560 c 258
+ 120 96 l 258
+ 106 52 72 34 17 24 c 257
+ 12 23 -8 19 -11 7 c 256
+ -13 0 -4 -5 14 -5 c 257
+524 476 m 256
+ 530 476 539 484 552 501 c 256
+ 581 539 616 602 628 639 c 256
+ 633 655 636 669 624 669 c 256
+ 603 669 566 642 559 621 c 256
+ 554 605 554 585 542 548 c 256
+ 537 533 525 504 524 499 c 256
+ 521 486 520 476 524 476 c 256
+EndSplineSet
 Fore
-Refer: 2487 -1 N 1 0 0 1 438 45 2
-Refer: 36 76 N 1 0 0 1 0 0 3
-MultipleSubs2: "cv82_decomp subtable" L uni030C.altcap
-Substitution2: "c2sc subtable" Lcaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" L uni030C.alt
+Refer: 235 76 N 1 0 0 1 0 0 2
+Refer: 1809 -1 N 1 0 0 1 458 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Lcaron.sc
+Comment: "+AAoA-Lcaron+AAoA"
 EndChar

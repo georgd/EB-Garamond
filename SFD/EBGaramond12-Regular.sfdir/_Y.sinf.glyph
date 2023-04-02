@@ -1,12 +1,78 @@
 StartChar: Y.sinf
-Encoding: 1114357 -1 1356
+Encoding: 468 -1 467
 GlifName: Y_.sinf
-Width: 402
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 428
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+166 241 m 256
+ 166 246 158 247 147 247 c 256
+ 133 247 115 246 95 246 c 256
+ 65 246 39 248 19 248 c 256
+ 8 248 0 246 0 241 c 256
+ 0 236 7 232 21 228 c 256
+ 43 222 69 183 79 169 c 257
+ 155 54 l 257
+ 158 49 172 34 172 10 c 258
+ 172 -79 l 258
+ 172 -108 153 -125 121 -130 c 256
+ 106 -132 99 -135 99 -140 c 256
+ 99 -145 107 -147 118 -147 c 256
+ 153 -147 170 -144 202 -144 c 256
+ 232 -144 243 -147 278 -147 c 256
+ 289 -147 296 -145 296 -140 c 256
+ 296 -135 290 -132 275 -130 c 256
+ 243 -125 224 -106 224 -79 c 258
+ 224 10 l 258
+ 224 33 224 38 240 64 c 256
+ 270 111 277 123 312 172 c 256
+ 326 191 354 225 377 229 c 256
+ 392 232 398 236 398 241 c 256
+ 398 246 391 248 380 248 c 256
+ 365 248 341 246 317 246 c 256
+ 298 246 288 247 268 247 c 256
+ 257 247 250 245 250 240 c 256
+ 250 235 262 230 271 228 c 256
+ 283 225 291 211 291 196 c 256
+ 291 189 289 183 286 176 c 257
+ 269 141 252 121 231 93 c 256
+ 220 79 215 70 210 70 c 256
+ 206 70 202 78 192 93 c 257
+ 132 192 l 258
+ 128 199 126 204 126 209 c 256
+ 126 232 166 229 166 241 c 256
+EndSplineSet
 Fore
-Refer: 1255 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 464 -1 N 1 0 0 1 0 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VY.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+V=Y.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+V=Y.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-Y.sinf+AAoA"
 EndChar

@@ -1,0 +1,22 @@
+StartChar: ograve
+Encoding: 1191 242 1190
+GlifName: ograve
+Width: 505
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 250 -30 basechar 0
+AnchorPoint: "top" 259 440 basechar 0
+LayerCount: 2
+Fore
+Refer: 1172 111 N 1 0 0 1 0 0 2
+Refer: 931 768 N 1 0 0 1 221 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" ograve.sc
+Comment: "+AAoA-ograve+AAoA"
+EndChar

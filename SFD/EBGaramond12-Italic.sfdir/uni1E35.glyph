@@ -1,11 +1,19 @@
 StartChar: uni1E35
-Encoding: 7733 7733 406
-Width: 469
+Encoding: 2202 7733 2201
+GlifName: uni1E_35
+Width: 455
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 147 -30 basechar 0
 LayerCount: 2
 Fore
-Refer: 2073 817 N 1 0 0 1 16 0 2
-Refer: 62 107 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" k uni0331
+Refer: 1009 107 N 1 0 0 1 0 0 2
+Refer: 1878 817 N 1 0 0 1 216 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E35+AAoA"
 EndChar

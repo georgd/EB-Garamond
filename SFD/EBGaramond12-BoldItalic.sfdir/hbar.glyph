@@ -1,0 +1,52 @@
+StartChar: hbar
+Encoding: 945 295 944
+GlifName: hbar
+Width: 579
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 207 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+131 535 m 258
+ 358 535 l 258
+ 373 535 382 543 389 556 c 257
+ 389 557 390 558 390 559 c 256
+ 390 564 382 569 376 569 c 258
+ 141 569 l 258
+ 129 569 117 561 117 552 c 256
+ 117 546 122 535 131 535 c 258
+125 515 m 258
+ 352 515 l 258
+ 367 515 376 523 383 536 c 257
+ 383 537 384 538 384 539 c 256
+ 384 544 376 549 370 549 c 258
+ 135 549 l 258
+ 123 549 111 541 111 532 c 256
+ 111 526 116 515 125 515 c 258
+EndSplineSet
+Fore
+SplineSet
+123 491 m 258
+ 396 492 l 258
+ 419 492 437 507 446 524 c 256
+ 447 526 448 533 449 535 c 256
+ 454 544 445 554 432 554 c 258
+ 148 553 l 258
+ 131 553 115 540 109 522 c 256
+ 104 508 106 491 123 491 c 258
+EndSplineSet
+Refer: 933 104 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+Vh
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" hbar.sc
+Comment: "+AAoA-hbar+AAoA"
+EndChar

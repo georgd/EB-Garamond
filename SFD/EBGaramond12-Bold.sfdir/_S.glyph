@@ -1,39 +1,72 @@
 StartChar: S
-Encoding: 83 83 43
-Width: 495
+Encoding: 356 83 355
+GlifName: S_
+Width: 500
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 275 11 basechar 0
-AnchorPoint: "below_accent" 247 -97 basechar 0
-AnchorPoint: "top_accent" 257 708 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 229 -30 basechar 0
+AnchorPoint: "top.cap" 274 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+222 -14 m 256
+ 368 -14 465 47 465 189 c 256
+ 465 277 432 331 317 400 c 256
+ 234 449 183 484 183 528 c 256
+ 183 573 225 605 272 605 c 256
+ 332 605 378 567 398 488 c 257
+ 401 478 415 472 426 472 c 256
+ 438 472 449 478 449 485 c 256
+ 449 537 446 578 439 606 c 257
+ 432 628 428 632 411 639 c 256
+ 382 651 329 664 278 664 c 256
+ 148 664 39 588 39 469 c 256
+ 39 350 126 301 210 255 c 256
+ 289 212 324 186 324 126 c 256
+ 324 90 291 45 235 45 c 256
+ 152 45 100 124 72 206 c 257
+ 67 215 59 219 45 219 c 256
+ 34 219 21 215 21 206 c 257
+ 18 147 23 90 38 52 c 256
+ 42 42 51 33 61 27 c 256
+ 109 -2 164 -14 222 -14 c 256
+EndSplineSet
 Fore
 SplineSet
-228 22 m 0
- 292 22 325 67 325 134 c 0
- 325 196 261 261 185 316 c 0
- 121 362 67 414 67 496 c 0
- 67 586 153 664 277 664 c 0
- 343 664 390 644 400 644 c 0
- 410 644 417 630 419 620 c 0
- 420 615 428 566 428 535 c 0
- 428 520 425 508 416 508 c 0
- 388 508 368 520 363 537 c 1
- 355 593 319 626 275 626 c 0
- 226 626 185 584 185 521 c 0
- 185 461 261 410 309 377 c 0
- 362 341 453 265 453 161 c 0
- 453 79 390 -16 232 -16 c 0
- 155 -16 108 0 90 8 c 0
- 76 14 69 20 67 26 c 2
- 67 26 40 124 40 142 c 0
- 40 154 56 173 73 173 c 0
- 87 173 103 137 118 106 c 1
- 134 47 179 22 228 22 c 0
+222 -14 m 256
+ 368 -14 465 47 465 189 c 256
+ 465 277 432 331 317 400 c 256
+ 234 449 183 484 183 528 c 256
+ 183 583 210 613 272 613 c 256
+ 337 613 384 570 405 488 c 256
+ 408 478 419 472 430 472 c 256
+ 442 472 449 478 449 485 c 256
+ 449 537 446 578 439 606 c 257
+ 432 628 428 632 411 639 c 256
+ 382 651 329 664 278 664 c 256
+ 148 664 39 588 39 469 c 256
+ 39 350 126 301 210 255 c 256
+ 289 212 324 186 324 126 c 256
+ 324 86 297 34 235 34 c 256
+ 153 34 92 107 62 206 c 257
+ 57 215 54 219 40 219 c 256
+ 29 219 21 215 21 206 c 257
+ 18 147 23 90 38 52 c 256
+ 42 42 51 33 61 27 c 256
+ 109 -2 164 -14 222 -14 c 256
 EndSplineSet
-Substitution2: "c2sc subtable" S.sc
-Substitution2: "sups subtable" S.sups
-Substitution2: "sinf subtable" S.sinf
-Substitution2: "ordn subtable" S.ordn
-Substitution2: "subs subtable" S.subs
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2pc' Capitals to Petite Capitals lookup 23 subtable" S.pc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" S.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" S.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" S.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" S.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" S.subs
+Comment: "+AAoA-S+AAoA"
 EndChar

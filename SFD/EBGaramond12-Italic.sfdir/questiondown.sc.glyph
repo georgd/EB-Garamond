@@ -1,11 +1,25 @@
 StartChar: questiondown.sc
-Encoding: 66132 -1 1724
-Width: 355
+Encoding: 1266 -1 1265
+GlifName: questiondown.sc
+Width: 373
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1026 191 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 1260 -1 N -1 0 0 -1 393 465 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|question.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|question.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-questiondown.sc+AAoA"
 EndChar

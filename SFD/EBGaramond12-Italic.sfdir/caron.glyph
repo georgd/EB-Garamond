@@ -1,22 +1,32 @@
 StartChar: caron
-Encoding: 711 711 985
-Width: 237
+Encoding: 657 711 656
+GlifName: caron
+Width: 200
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 170 440 mark 0
 LayerCount: 2
-Fore
+Back
 SplineSet
-244 630 m 6
- 279 534 l 5
- 373 630 l 6
- 380 637 394 648 405 648 c 4
- 412 648 415 639 406 627 c 6
- 406 627 324 519 288 476 c 4
- 273 458 260 447 253 447 c 4
- 246 447 240 458 236 476 c 4
- 227 513 209 627 209 627 c 6
- 207 639 216 648 223 648 c 4
- 234 648 241 638 244 630 c 6
+196 447 m 256
+ 203 447 216 458 231 476 c 256
+ 270 526 310 577 346 623 c 256
+ 358 639 355 648 348 648 c 256
+ 337 648 323 637 316 630 c 258
+ 218 536 l 257
+ 187 630 l 258
+ 184 638 177 648 166 648 c 256
+ 159 648 150 639 152 627 c 258
+ 179 476 l 258
+ 183 458 189 447 196 447 c 256
 EndSplineSet
-Validated: 1
+Fore
+Refer: 1806 780 N 1 0 0 1 100 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-caron+AAoA"
 EndChar

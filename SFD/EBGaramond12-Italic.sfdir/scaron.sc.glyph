@@ -1,11 +1,18 @@
 StartChar: scaron.sc
-Encoding: 66294 -1 1886
-Width: 415
+Encoding: 1320 -1 1319
+GlifName: scaron.sc
+Width: 428
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 287 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 2462 -1 N 1 0 0 1 274 30 2
-Refer: 1689 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 363 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-scaron.sc+AAoA"
 EndChar

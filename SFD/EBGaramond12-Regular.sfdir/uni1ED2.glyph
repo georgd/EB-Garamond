@@ -1,16 +1,69 @@
 StartChar: uni1ED2
-Encoding: 7890 7890 542
+Encoding: 2518 7890 2517
 GlifName: uni1E_D_2
 Width: 763
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 391 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+288 764 m 256
+ 288 769 286 773 280 779 c 256
+ 265 793 218 834 194 852 c 257
+ 188 856 183 858 178 858 c 256
+ 167 858 128 829 128 818 c 256
+ 128 813 135 808 146 803 c 256
+ 186 786 229 771 260 761 c 256
+ 266 759 275 758 278 758 c 256
+ 283 758 288 760 288 764 c 256
+252 681 m 256
+ 265 681 347 721 373 736 c 256
+ 382 741 384 741 393 736 c 256
+ 419 721 501 680 514 680 c 256
+ 523 680 528 685 528 691 c 256
+ 528 695 527 699 522 703 c 258
+ 424 786 l 258
+ 405 803 398 808 383 808 c 256
+ 368 808 361 803 342 786 c 258
+ 244 703 l 258
+ 239 699 237 695 237 691 c 256
+ 237 685 243 681 252 681 c 256
+45 320 m 256
+ 45 130 205 -14 382 -14 c 256
+ 601 -14 718 155 718 335 c 256
+ 718 532 564 664 390 664 c 256
+ 166 664 45 501 45 320 c 256
+375 625 m 256
+ 535 625 621 495 621 305 c 256
+ 621 134 545 25 395 25 c 256
+ 247 25 142 179 142 350 c 256
+ 142 490 227 625 375 625 c 256
+EndSplineSet
 Fore
-Refer: 2707 -1 N 1 0 0 1 123 48 2
-Refer: 981 -1 N 1 0 0 1 232 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" O uni0302.cap gravecomb.capstack
-Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+Refer: 278 79 N 1 0 0 1 0 0 2
+Refer: 1906 -1 N 1 0 0 1 396 -15 2
+Refer: 933 -1 N 1 0 0 1 221 49 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vuni0302.cap
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni1ED2+AAoA"
 EndChar

@@ -1,0 +1,36 @@
+StartChar: quotesingle.alt
+Encoding: 1281 -1 1280
+GlifName: quotesingle.alt
+Width: 195
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+103 426 m 256
+ 118 427 115 431 121 456 c 256
+ 133 504 149 622 149 644 c 256
+ 149 672 132 690 103 690 c 256
+ 74 690 57 671 57 644 c 256
+ 57 622 73 506 85 458 c 256
+ 91 432 88 426 103 426 c 256
+  PathStart: -1
+EndSplineSet
+Fore
+SplineSet
+103 426 m 256
+ 113 426 117 438 119 449 c 256
+ 133 504 149 622 149 644 c 256
+ 149 672 132 690 103 690 c 256
+ 74 690 57 671 57 644 c 256
+ 57 622 73 506 87 449 c 256
+ 89 439 95 426 103 426 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.85,0.26,0.06,1
+p2
+s."
+Comment: "+AAoA-quotesingle.alt+AAoA"
+EndChar

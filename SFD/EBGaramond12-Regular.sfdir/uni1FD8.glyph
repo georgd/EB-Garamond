@@ -1,13 +1,50 @@
 StartChar: uni1FD8
-Encoding: 8152 8152 736
+Encoding: 2760 8152 2759
 GlifName: uni1F_D_8
 Width: 340
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 170 -30 basechar 0
+AnchorPoint: "top.cap" 170 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+57 799 m 257
+ 51 807 43 820 33 820 c 256
+ 27 820 23 809 23 796 c 256
+ 23 756 75 692 160 692 c 256
+ 245 692 297 756 297 796 c 256
+ 297 809 297 820 287 820 c 256
+ 277 820 269 807 263 799 c 257
+ 236 767 203 752 160 752 c 256
+ 117 752 84 767 57 799 c 257
+130 550 m 258
+ 130 98 l 258
+ 130 51 102 33 52 24 c 256
+ 29 20 19 15 19 6 c 256
+ 19 -2 31 -5 48 -5 c 256
+ 102 -5 126 0 176 0 c 256
+ 222 0 239 -5 293 -5 c 256
+ 310 -5 322 -2 322 6 c 256
+ 322 15 312 20 289 24 c 256
+ 239 33 210 51 210 98 c 258
+ 210 550 l 258
+ 210 597 231 613 281 622 c 256
+ 304 626 314 633 314 642 c 256
+ 314 650 302 653 285 653 c 256
+ 231 653 219 650 176 650 c 256
+ 130 650 113 653 59 653 c 256
+ 42 653 30 650 30 642 c 256
+ 30 633 40 626 63 622 c 256
+ 113 613 130 597 130 550 c 258
+EndSplineSet
 Fore
-Refer: 988 -1 N 1 0 0 1 18 0 2
-Refer: 634 921 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Iota uni0306.cap
+Refer: 188 300 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FD8+AAoA"
 EndChar

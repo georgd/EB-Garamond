@@ -1,15 +1,89 @@
 StartChar: longs_longs
-Encoding: 1114192 -1 1127
+Encoding: 1105 -1 1104
 GlifName: longs_longs
-Width: 516
+Width: 504
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+418 69 m 258
+ 418 475 l 258
+ 418 610 460 665 522 665 c 256
+ 601 665 611 606 640 606 c 256
+ 667 606 674 630 674 647 c 256
+ 674 660 669 672 658 681 c 256
+ 629 705 609 706 564 706 c 256
+ 521 706 466 688 421 638 c 257
+ 418 634 416 634 409 638 c 256
+ 383 653 339 663 318 663 c 256
+ 259 663 90 622 90 402 c 257
+ 70 393 61 384 31 376 c 256
+ 23 374 32 353 38 352 c 257
+ 59 350 77 350 90 350 c 257
+ 90 68 l 258
+ 90 40 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 37 -3 44 -3 c 256
+ 84 -3 90 2 125 2 c 256
+ 160 2 166 -3 206 -3 c 256
+ 213 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 41 160 69 c 257
+ 159 475 l 257
+ 159 606 236 624 275 624 c 256
+ 338 624 363 597 377 578 c 257
+ 379 575 379 573 378 570 c 257
+ 359 527 347 472 347 402 c 257
+ 327 393 318 384 288 376 c 256
+ 280 374 289 353 295 352 c 257
+ 316 350 335 350 348 350 c 257
+ 348 68 l 258
+ 348 40 325 30 305 24 c 257
+ 294 20 282 16 282 6 c 256
+ 282 -2 295 -3 302 -3 c 256
+ 342 -3 348 2 383 2 c 256
+ 418 2 424 -3 464 -3 c 256
+ 471 -3 484 -2 484 6 c 256
+ 484 16 472 20 461 24 c 257
+ 441 30 418 41 418 69 c 258
+EndSplineSet
 Fore
-Refer: 1049 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Single Substitution lookup 105 subtable" longs_longs.short
-Substitution2: "Single Substitution lookup 104 subtable" longs_longs.short
-Substitution2: "Single Substitution lookup 103 subtable" longs_longs.short
-LCarets2: 1 0
+SplineSet
+44 -3 m 256
+ 84 -3 92 2 127 2 c 256
+ 162 2 166 -3 206 -3 c 256
+ 219 -3 226 0 226 8 c 256
+ 226 18 217 21 203 24 c 256
+ 182 29 160 42 160 68 c 257
+ 160 433 l 257
+ 160 568 206 623 273 623 c 256
+ 317 623 342 606 359 589 c 256
+ 372 577 381 566 393 566 c 257
+ 417 628 l 257
+ 399 647 361 664 310 664 c 256
+ 223 664 90 591 90 402 c 257
+ 70 392 61 384 31 376 c 257
+ 29 375 24 373 24 370 c 256
+ 24 363 34 353 38 352 c 257
+ 59 350 77 350 90 350 c 257
+ 90 68 l 258
+ 90 41 67 30 47 24 c 256
+ 33 20 24 18 24 8 c 256
+ 24 0 31 -3 44 -3 c 256
+EndSplineSet
+Refer: 1091 383 N 1 0 0 1 243 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vf
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vlongs
+p4
+s."
+Ligature2: "'dlig' Discretionary Ligatures lookup 37 subtable" longs longs
+Ligature2: "'hlig' Historic Ligatures lookup 26 subtable" longs longs
+Comment: "+AAoA-longs_longs+AAoA"
 EndChar

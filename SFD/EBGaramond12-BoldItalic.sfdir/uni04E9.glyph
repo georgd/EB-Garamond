@@ -1,0 +1,33 @@
+StartChar: uni04E9
+Encoding: 2076 1257 2075
+GlifName: uni04E_9
+Width: 475
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 302 440 basechar 0
+AnchorPoint: "bottom" 170 -30 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+101 183 m 257
+ 393 183 l 257
+ 393 237 l 257
+ 100 237 l 257
+ 101 183 l 257
+EndSplineSet
+Refer: 1127 111 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uni04E9+AAoA"
+EndChar

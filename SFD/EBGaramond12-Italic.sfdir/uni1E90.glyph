@@ -1,12 +1,20 @@
 StartChar: uni1E90
-Encoding: 7824 7824 497
-Width: 636
+Encoding: 2287 7824 2286
+GlifName: uni1E_90
+Width: 635
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 266 -30 basechar 0
+AnchorPoint: "top.cap" 576 823 basechar 0
 LayerCount: 2
 Fore
-Refer: 2075 -1 N 1 0 0 1 296 0 2
-Refer: 64 90 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Z uni0302.cap
+Refer: 479 90 N 1 0 0 1 0 0 2
+Refer: 1770 -1 N 1 0 0 1 277 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E90+AAoA"
 EndChar

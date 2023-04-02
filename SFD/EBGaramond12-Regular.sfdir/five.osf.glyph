@@ -1,0 +1,63 @@
+StartChar: five.osf
+Encoding: 879 -1 878
+GlifName: five.osf
+Width: 359
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+86 -189 m 256
+ 186 -189 309 -112 309 17 c 256
+ 309 109 213 195 111 252 c 256
+ 97 260 91 268 91 276 c 256
+ 91 296 103 308 110 309 c 256
+ 147 314 181 318 232 328 c 256
+ 259 333 283 376 283 401 c 256
+ 283 408 279 415 272 415 c 256
+ 257 415 165 395 125 380 c 256
+ 115 376 98 366 89 347 c 256
+ 81 330 58 276 58 222 c 256
+ 58 205 70 190 108 167 c 256
+ 171 129 229 67 229 0 c 256
+ 229 -106 160 -147 85 -160 c 256
+ 73 -162 52 -167 52 -177 c 256
+ 52 -186 71 -189 86 -189 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.annotations
+p1
+(lp2
+(dp3
+Vposition
+p4
+(lp5
+F259.133
+aF226.797
+asVtype
+p6
+VText
+p7
+sVwidth
+p8
+I100
+sa(dp9
+g4
+(lp10
+F235.516
+aF255.023
+asg6
+VText
+p11
+sg8
+I100
+sasVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" five.lf
+Substitution2: "'tnum' Tabular Numbers lookup 18 subtable" five.tosf
+Substitution2: "'lnum' Lining Figures lookup 16 subtable" five.lf
+Comment: "+AAoA-five+AAoA"
+EndChar

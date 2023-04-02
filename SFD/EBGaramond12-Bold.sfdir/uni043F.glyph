@@ -1,0 +1,60 @@
+StartChar: uni043F
+Encoding: 2140 1087 2139
+GlifName: uni043F_
+Width: 579
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+40 -3 m 256
+ 80 -3 120 2 155 2 c 256
+ 190 2 222 -3 262 -3 c 256
+ 270 -3 278 4 278 12 c 256
+ 278 22 270 29 259 33 c 256
+ 240 40 225 43 225 70 c 258
+ 225 342 l 257
+ 225 369 240 374 259 374 c 257
+ 323 374 l 257
+ 343 374 357 369 357 342 c 257
+ 357 70 l 258
+ 357 43 343 39 323 33 c 256
+ 312 29 304 23 304 12 c 256
+ 304 3 312 -3 320 -3 c 256
+ 360 -3 395 2 430 2 c 256
+ 465 2 502 -3 542 -3 c 256
+ 550 -3 559 3 559 12 c 256
+ 559 23 550 29 539 33 c 256
+ 519 39 502 43 502 70 c 258
+ 502 355 l 257
+ 502 382 519 386 539 392 c 256
+ 550 396 559 402 559 413 c 256
+ 559 422 550 428 542 428 c 256
+ 502 428 465 423 430 423 c 257
+ 155 423 l 257
+ 120 423 80 428 40 428 c 256
+ 32 428 20 422 20 413 c 256
+ 20 402 32 396 43 392 c 256
+ 63 386 80 381 80 354 c 257
+ 80 71 l 258
+ 80 44 63 39 43 33 c 256
+ 32 29 20 23 20 12 c 256
+ 20 3 32 -3 40 -3 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|n
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni043F+AAoA"
+EndChar

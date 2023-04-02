@@ -1,16 +1,50 @@
 StartChar: uni1E52
-Encoding: 7762 7762 434
+Encoding: 2393 7762 2392
 GlifName: uni1E_52
 Width: 763
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 372 -30 basechar 0
+AnchorPoint: "top.cap" 391 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+331 808 m 256
+ 375 820 484 853 506 865 c 257
+ 509 867 510 871 510 874 c 256
+ 510 886 494 924 470 924 c 256
+ 463 924 456 921 449 918 c 256
+ 415 904 312 840 294 821 c 257
+ 291 817 290 814 290 811 c 256
+ 290 806 297 803 304 803 c 256
+ 313 803 323 806 331 808 c 256
+520 777 m 258
+ 257 777 l 258
+ 238 777 233 744 233 735 c 256
+ 233 729 240 723 247 723 c 258
+ 502 723 l 258
+ 518 723 533 745 533 765 c 256
+ 533 771 526 777 520 777 c 258
+45 320 m 256
+ 45 130 205 -14 382 -14 c 256
+ 601 -14 718 155 718 335 c 256
+ 718 532 564 664 390 664 c 256
+ 166 664 45 501 45 320 c 256
+375 625 m 256
+ 535 625 621 495 621 305 c 256
+ 621 134 545 25 395 25 c 256
+ 247 25 142 179 142 350 c 256
+ 142 490 227 625 375 625 c 256
+EndSplineSet
 Fore
-Refer: 2297 -1 N 1 0 0 1 290 304 2
-Refer: 991 -1 N 1 0 0 1 228 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" O uni0304.cap acutecomb.flat
-Position2: "rtbd subtable" dx=0 dy=0 dh=-38 dv=0
-Position2: "lfbd subtable" dx=-38 dy=0 dh=-38 dv=0
+Refer: 302 332 N 1 0 0 1 0 0 2
+Refer: 514 -1 N 1 0 0 1 407 304 2
+Guideline: "" "" 256 803 0 0 0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E52+AAoA"
 EndChar

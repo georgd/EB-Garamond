@@ -1,13 +1,85 @@
 StartChar: uni1FFB
-Encoding: 8187 8187 1135
+Encoding: 2791 8187 2790
 GlifName: uni1F_F_B_
-Width: 830
+Width: 833
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 418 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+33 513 m 256
+ 54 549 104 647 104 657 c 256
+ 104 673 85 698 66 698 c 256
+ 58 698 44 692 41 680 c 256
+ 31 644 0 522 0 504 c 256
+ 0 495 0 491 9 491 c 256
+ 17 491 27 503 33 513 c 256
+280 81 m 257
+ 285 79 275 72 269 72 c 257
+ 250 70 229 70 211 70 c 258
+ 190 70 l 258
+ 141 70 103 76 82 113 c 256
+ 73 129 64 143 51 143 c 256
+ 46 143 42 139 42 134 c 256
+ 42 133 43 131 43 130 c 257
+ 61 79 79 37 84 12 c 256
+ 86 3 88 -5 98 -5 c 256
+ 128 -5 150 0 178 0 c 256
+ 215 0 237 1 253 1 c 256
+ 287 1 297 0 353 0 c 256
+ 360 0 362 6 361 11 c 257
+ 357 37 351 60 336 71 c 256
+ 249 135 203 252 203 377 c 256
+ 203 497 283 631 411 631 c 256
+ 548 631 633 469 633 332 c 256
+ 633 227 569 124 506 77 c 256
+ 502 74 488 58 484 48 c 257
+ 483 45 475 24 475 11 c 256
+ 475 4 477 0 483 0 c 256
+ 539 0 549 1 582 1 c 256
+ 599 1 621 0 658 0 c 256
+ 686 0 708 -5 738 -5 c 256
+ 748 -5 750 3 752 12 c 256
+ 757 37 775 79 793 130 c 257
+ 793 131 794 133 794 134 c 256
+ 794 139 790 143 785 143 c 256
+ 772 143 763 129 754 113 c 256
+ 733 76 694 70 646 70 c 258
+ 621 70 l 258
+ 599 70 573 70 550 74 c 256
+ 545 75 554 83 558 85 c 256
+ 660 137 733 242 733 365 c 256
+ 733 531 585 664 424 664 c 256
+ 248 664 103 523 103 345 c 256
+ 103 226 177 128 280 81 c 257
+EndSplineSet
 Fore
-Refer: 2704 -1 N 1 0 0 1 -17 35 2
-Refer: 1133 937 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" uni03A9 acutecomb.grk
+Refer: 304 8486 N 1 0 0 1 3 0 2
+Refer: 515 -1 N 1 0 0 1 49 24 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOmega
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VOmega
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1FFB+AAoA"
 EndChar

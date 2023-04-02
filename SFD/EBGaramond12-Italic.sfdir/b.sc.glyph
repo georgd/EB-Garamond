@@ -1,42 +1,21 @@
 StartChar: b.sc
-Encoding: 66080 -1 1672
-Width: 496
+Encoding: 591 -1 590
+GlifName: b.sc
+Width: 524
 VWidth: 0
-Flags: HMW
-AnchorPoint: "below_accent" 158 -100 basechar 0
-AnchorPoint: "top_accent" 317 580 basechar 0
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-266 294 m 18
- 261 279 269 260 289 260 c 0
- 356 260 436 284 436 354 c 0
- 436 399 397 425 352 425 c 0
- 327 425 304.392578125 417.881835938 297 394 c 2
- 266 294 l 18
-275 451 m 0
- 307 451 326 457 358 457 c 0
- 479 457 509 414 509 360 c 0
- 509 298 436 263 400 254 c 0
- 390.25 251.5625 388 246 393 245 c 0
- 445 235 474 187 474 134 c 0
- 474 26 324 -3 216 -3 c 0
- 203 -3 174 1 145 1 c 8
- 98 1 74 -5 24 -5 c 0
- 8 -5 0 -2 0 6 c 0
- 0 15 13 20 36 24 c 0
- 85 33 118 51 132 97 c 2
- 210 349 l 2
- 224.501953125 395.846679688 213 412 169 421 c 0
- 149 425 145 432 145 441 c 0
- 145 449 159 452 175 452 c 0
- 225 452 236 451 275 451 c 0
-239 31 m 0
- 311 31 391 66 391 138 c 0
- 391 195 334 231 277 231 c 0
- 259 231 243 224 238 207 c 2
- 198 78 l 18
- 191 55 215 31 239 31 c 0
-EndSplineSet
-Comment: "."
+Refer: 37 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH.sc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-b.sc+AAoA"
 EndChar

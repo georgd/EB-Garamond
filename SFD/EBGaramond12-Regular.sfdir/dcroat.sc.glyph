@@ -1,12 +1,18 @@
 StartChar: dcroat.sc
-Encoding: 1114803 -1 1802
+Encoding: 728 -1 727
 GlifName: dcroat.sc
 Width: 603
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 275 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1769 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 79 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-dcroat.sc+AAoA"
 EndChar

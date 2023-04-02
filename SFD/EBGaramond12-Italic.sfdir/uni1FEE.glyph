@@ -1,12 +1,21 @@
 StartChar: uni1FEE
-Encoding: 8174 8174 2354
-Width: 313
+Encoding: 2616 8174 2615
+GlifName: uni1F_E_E_
+Width: 300
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 233 420 mark 0
 LayerCount: 2
 Fore
-Refer: 2367 -1 N 1 0 0 1 132 -436 2
-Refer: 2360 -1 N 1 0 0 1 20.0004 -464 2
-Refer: 2375 -1 N 1 0 0 1 117.176 0 2
-MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0308.grkstack acutecomb.grk
+Refer: 718 168 N 1 0 0 1 9 -19 2
+Refer: 510 180 N 0.99 0.139 -0.139 0.99 169 19 2
+Guideline: "" "" 249 494 0 0 0
+Guideline: "" "" 278 420 0 0 0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FEE+AAoA"
 EndChar

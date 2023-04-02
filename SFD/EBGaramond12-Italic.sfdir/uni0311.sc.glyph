@@ -1,21 +1,16 @@
 StartChar: uni0311.sc
-Encoding: 66472 -1 2463
+Encoding: 1824 -1 1823
+GlifName: uni0311.sc
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 139 550 mark 0
 LayerCount: 2
 Fore
-SplineSet
-63 518 m 0
- 60 507 50 497 41 497 c 0
- 35 497 32 502 32 509 c 0
- 32 596 117 637 169 637 c 0
- 218 637 241 600 241 558 c 0
- 241 538 233 497 212 497 c 0
- 203 497 204 509 203 518 c 0
- 201 551 194 588 154 588 c 0
- 113 588 78 572 63 518 c 0
-EndSplineSet
-Validated: 1
+Refer: 633 728 N -1 0 0 -1 371 1114 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0311.sc+AAoA"
 EndChar

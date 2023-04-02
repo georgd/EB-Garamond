@@ -1,17 +1,11 @@
 StartChar: f.DEU
-Encoding: 65606 -1 1198
-Width: 307
+Encoding: 824 -1 823
+GlifName: f.D_E_U_
+Width: 321
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 18 102 N 1 0 0 1 0 0 2
-Substitution2: "Single Substitution lookup 80 subtable" f.short
-Substitution2: "Single Substitution lookup 79 subtable" f.short
-Substitution2: "Smallcaps1 subtable" f.sc
-Substitution2: "sups subtable" f.sups
-Substitution2: "sinf subtable" f.sinf
-Substitution2: "ordn subtable" f.ordn
-Substitution2: "subs subtable" f.subs
-Substitution2: "loclDEU_no_fReplacement subtable" f
+Refer: 822 102 N 1 0 0 1 0 0 2
+Comment: "+AAoA-f.DEU+AAoA"
 EndChar

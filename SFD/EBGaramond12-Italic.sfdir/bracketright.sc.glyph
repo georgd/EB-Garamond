@@ -1,11 +1,25 @@
 StartChar: bracketright.sc
-Encoding: 66075 -1 1667
-Width: 370
+Encoding: 630 -1 629
+GlifName: bracketright.sc
+Width: 332
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 52 93 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 623 -1 N -1 0 0 -1 321 366 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|bracketleft.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|bracketleft.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-bracketright.sc+AAoA"
 EndChar

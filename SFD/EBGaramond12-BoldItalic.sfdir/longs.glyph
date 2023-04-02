@@ -1,0 +1,41 @@
+StartChar: longs
+Encoding: 1054 383 1053
+GlifName: longs
+Width: 427
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-58 -291 m 256
+ 33 -291 163 -150 193 -32 c 258
+ 259 232 l 257
+ 337 567 362 650 444 650 c 256
+ 476 650 489 629 500 605 c 256
+ 511 581 516 555 539 555 c 256
+ 568 555 586 594 586 629 c 256
+ 586 673 531 705 452 705 c 256
+ 299 705 196 563 108 219 c 258
+ 49 -21 l 258
+ 16 -154 -13 -242 -51 -242 c 256
+ -76 -242 -89 -218 -104 -196 c 256
+ -117 -176 -135 -149 -148 -149 c 256
+ -175 -149 -202 -173 -202 -209 c 256
+ -202 -248 -162 -291 -58 -291 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vf
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" longs.sc
+Comment: "+AAoA-longs+AAoA"
+EndChar

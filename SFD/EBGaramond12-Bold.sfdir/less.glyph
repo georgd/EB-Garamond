@@ -1,26 +1,59 @@
 StartChar: less
-Encoding: 60 60 85
-Width: 589
+Encoding: 1081 60 1080
+GlifName: less
+Width: 537
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+503 0 m 258
+ 511 -4 521 0 523 5 c 256
+ 536 29 519 59 490 72 c 258
+ 111 242 l 258
+ 100 247 64 254 60 245 c 256
+ 54 230 34 242 34 222 c 256
+ 34 206 63 201 77 194 c 257
+ 503 0 l 258
+503 469 m 258
+ 82 275 l 258
+ 47 259 34 241 34 222 c 256
+ 34 207 72 238 78 223 c 256
+ 82 214 101 222 112 227 c 258
+ 490 397 l 258
+ 519 410 536 440 523 464 c 256
+ 521 469 511 473 503 469 c 258
+EndSplineSet
 Fore
 SplineSet
-526 471 m 0
- 86 270 l 2
- 66.0547 260.889 52 234 52 222 c 0
- 52 214 67 205 82 198 c 0
- 86 196 91 195 94 193 c 2
- 523 -7 l 1
- 523 50 l 1
- 520 53 517 55 513 57 c 2
- 133 231 l 1
- 505 406 l 2
- 521.811 413.205 537 441.873 537 459 c 0
- 537 468 532 471 526 471 c 0
+478 0 m 257
+ 489 -6 502 1 502 22 c 256
+ 502 42 487 62 465 72 c 258
+ 137 229 l 258
+ 130 232 132 237 137 239 c 258
+ 465 397 l 258
+ 487 407 502 427 502 447 c 256
+ 502 459 498 471 485 471 c 256
+ 483 471 480 470 478 469 c 258
+ 75 272 l 257
+ 51 263 35 230 35 220 c 256
+ 35 212 64 198 85 188 c 257
+ 478 0 l 257
 EndSplineSet
-Substitution2: "sups subtable" less.sups
-Substitution2: "sinf subtable" less.sinf
-Substitution2: "ordn subtable" less.ordn
-Substitution2: "subs subtable" less.subs
+Validated: 41
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss04' Style Set 4 lookup 33 subtable" bullet.03
+Substitution2: "'ss02' Style Set 2 lookup 30 subtable" bullet.02
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" less.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" less.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" less.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" less.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" less.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" less.subs
+Comment: "+AAoA-less+AAoA"
 EndChar

@@ -1,0 +1,48 @@
+StartChar: Epsilontonos
+Encoding: 123 904 123
+GlifName: E_psilontonos
+Width: 745
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 423 -30 basechar 0
+AnchorPoint: "bottomgreek" 421 -30 basechar 0
+AnchorPoint: "top.cap" 572 675 basechar 0
+AnchorPoint: "topgreek" 115 400 basechar 0
+LayerCount: 2
+Fore
+Refer: 122 917 N 1 0 0 1 173 0 2
+Refer: 1419 900 N 1 0 0 1 -42 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VEpsilon
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vtonos
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VEpsilon
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-Epsilontonos+AAoA"
+EndChar

@@ -1,12 +1,39 @@
 StartChar: asterisk.sups
-Encoding: 1114512 -1 1511
+Encoding: 578 -1 577
 GlifName: asterisk.sups
-Width: 650
-VWidth: 440
-Flags: HMW
-LayerCount: 3
+Width: 168
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1208 -1 N 1 0 0 1 0 440 2
-Validated: 1
-Comment: "."
+Refer: 573 -1 N 1 0 0 1 0 163 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vasterisk.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vasterisk.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vasterisk.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-asterisk.sups+AAoA"
 EndChar

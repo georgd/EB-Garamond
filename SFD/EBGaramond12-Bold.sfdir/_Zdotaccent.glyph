@@ -1,0 +1,22 @@
+StartChar: Zdotaccent
+Encoding: 490 379 489
+GlifName: Z_dotaccent
+Width: 595
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 302 -30 basechar 0
+AnchorPoint: "top.cap" 324 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 478 90 N 1 0 0 1 0 0 2
+Refer: 1925 -1 N 1 0 0 1 326 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Zdotaccent.sc
+Comment: "+AAoA-Zdotaccent+AAoA"
+EndChar

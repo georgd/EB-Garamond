@@ -1,0 +1,21 @@
+StartChar: Iotadieresis
+Encoding: 205 938 205
+GlifName: I_otadieresis
+Width: 369
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 183 -30 basechar 0
+AnchorPoint: "top.cap" 188 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 192 207 N 1 0 0 1 0 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Iotadieresis.sc
+Comment: "+AAoA-Iotadieresis+AAoA"
+EndChar

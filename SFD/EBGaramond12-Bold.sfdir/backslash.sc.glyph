@@ -1,0 +1,44 @@
+StartChar: backslash.sc
+Encoding: 598 -1 597
+GlifName: backslash.sc
+Width: 326
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+201 -57 m 256
+ 214 -57 221 -50 217 -42 c 258
+ 0 463 l 258
+ -6 478 -22 480 -39 480 c 256
+ -52 480 -56 472 -52 463 c 258
+ 165 -42 l 258
+ 171 -56 186 -57 201 -57 c 256
+EndSplineSet
+Fore
+SplineSet
+290 -62 m 256
+ 305 -62 316 -52 311 -42 c 258
+ 80 456 l 258
+ 71 475 55 478 33 478 c 256
+ 15 478 7 465 11 456 c 258
+ 243 -42 l 258
+ 251 -60 271 -62 290 -62 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbackslash
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbackslash
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-backslash.sc+AAoA"
+EndChar

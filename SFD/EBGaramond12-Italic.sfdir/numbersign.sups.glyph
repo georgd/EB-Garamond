@@ -1,11 +1,25 @@
 StartChar: numbersign.sups
-Encoding: 65915 -1 1507
-Width: 304
-VWidth: 440
-Flags: MW
+Encoding: 1127 -1 1126
+GlifName: numbersign.sups
+Width: 294
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1201 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 1122 -1 N 1 0 0 1 49 159 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vnumbersign.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vnumbersign.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-numbersign.sups+AAoA"
 EndChar

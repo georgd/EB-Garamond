@@ -1,11 +1,18 @@
 StartChar: gbreve.sc
-Encoding: 66228 -1 1820
-Width: 487
+Encoding: 885 -1 884
+GlifName: gbreve.sc
+Width: 568
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 442 648 basechar 0
 LayerCount: 2
 Fore
-Refer: 2457 -1 N 1 0 0 1 224 30 2
-Refer: 1677 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 150 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gbreve.sc+AAoA"
 EndChar

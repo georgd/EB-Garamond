@@ -1,0 +1,43 @@
+StartChar: quotesingle
+Encoding: 1280 39 1279
+GlifName: quotesingle
+Width: 245
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+161 467 m 256
+ 158 458 155 444 160 444 c 256
+ 165 444 178 457 186 469 c 257
+ 212 505 245 555 275 624 c 256
+ 284 645 294 676 280 676 c 256
+ 265 676 252 667 233 655 c 256
+ 222 648 208 633 205 619 c 256
+ 192 557 179 520 161 467 c 256
+EndSplineSet
+Fore
+SplineSet
+140 400 m 256
+ 147 400 169 417 182 432 c 256
+ 221 477 298 582 318 647 c 256
+ 324 667 319 685 303 685 c 256
+ 277 685 259 676 230 660 c 257
+ 215 652 193 637 187 617 c 256
+ 176 582 171 543 156 496 c 256
+ 149 474 146 455 137 429 c 257
+ 133 418 130 400 140 400 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" quotesingle.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" quotesingle.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" quotesingle.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" quotesingle.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" quotesingle.subs
+Comment: "+AAoA-quotesingle+AAoA"
+EndChar

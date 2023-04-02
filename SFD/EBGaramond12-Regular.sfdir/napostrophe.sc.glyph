@@ -1,12 +1,87 @@
 StartChar: napostrophe.sc
-Encoding: 1114859 -1 1858
+Encoding: 1147 -1 1146
 GlifName: napostrophe.sc
-Width: 631
+Width: 640
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 355 -30 basechar 0
+AnchorPoint: "top" 363 503 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-23 478 m 256
+ -17 478 -10 486 -2 503 c 256
+ 16 540 31 604 31 641 c 256
+ 31 657 30 671 18 671 c 256
+ -3 671 -32 644 -32 623 c 256
+ -32 607 -27 587 -27 550 c 256
+ -27 535 -30 506 -30 501 c 256
+ -30 488 -27 478 -23 478 c 256
+524 -14 m 256
+ 535 -14 540 1 540 21 c 258
+ 540 351 l 258
+ 540 391 549 415 591 422 c 256
+ 603 424 615 431 615 441 c 256
+ 615 449 602 453 595 453 c 256
+ 556 453 554 448 519 448 c 256
+ 483 448 472 453 433 453 c 256
+ 426 453 413 449 413 441 c 256
+ 413 431 425 424 437 422 c 256
+ 479 415 494 391 495 351 c 258
+ 499 143 l 258
+ 499 133 496 130 494 130 c 256
+ 490 130 484 139 481 143 c 257
+ 238 434 l 258
+ 232 441 225 449 217 449 c 256
+ 165 449 125 453 85 453 c 256
+ 78 453 65 449 65 441 c 256
+ 65 431 77 424 89 422 c 256
+ 123 416 163 380 163 363 c 256
+ 163 298 159 109 156 79 c 256
+ 153 42 133 32 98 25 c 256
+ 87 23 74 19 74 9 c 256
+ 74 1 87 -3 94 -3 c 256
+ 133 -3 147 3 181 3 c 256
+ 213 3 223 -3 262 -3 c 256
+ 269 -3 282 1 282 9 c 256
+ 282 19 269 23 258 25 c 256
+ 223 32 210 43 207 79 c 256
+ 203 135 202 220 202 310 c 256
+ 202 329 204 337 209 337 c 256
+ 213 337 225 329 234 318 c 258
+ 481 13 l 258
+ 494 -3 511 -14 524 -14 c 256
+EndSplineSet
 Fore
-Refer: 1680 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 266 -1 N 1 0 0 1 35 0 2
+Refer: 1945 -1 N 1 0 0 1 0 -34 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VN.sc
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vuni030C.altcap
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VN.sc
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-napostrophe.sc+AAoA"
 EndChar

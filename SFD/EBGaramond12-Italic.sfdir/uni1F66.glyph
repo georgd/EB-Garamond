@@ -1,12 +1,20 @@
 StartChar: uni1F66
-Encoding: 8038 8038 2318
-Width: 557
+Encoding: 2487 8038 2486
+GlifName: uni1F_66
+Width: 560
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottomgreek" 206 -30 basechar 0
+AnchorPoint: "topgreek" 382 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2098 834 N 1 0 0 1 79.0792 224 2
-Refer: 2364 -1 N 1 0 0 1 176.079 48 2
-Refer: 2180 969 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" omega uni0313.grkstack uni0342
+Refer: 1153 969 N 1 0 0 1 0 0 2
+Refer: 2587 8143 N 1 0 0 1 127 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1F66+AAoA"
 EndChar

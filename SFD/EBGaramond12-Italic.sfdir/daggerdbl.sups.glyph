@@ -1,11 +1,25 @@
 StartChar: daggerdbl.sups
-Encoding: 66014 -1 1606
-Width: 440
-VWidth: 440
-Flags: MW
+Encoding: 711 -1 710
+GlifName: daggerdbl.sups
+Width: 329
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1300 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 707 -1 N 1 0 0 1 49 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vdaggerdbl.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vdaggerdbl.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-daggerdbl.sups+AAoA"
 EndChar

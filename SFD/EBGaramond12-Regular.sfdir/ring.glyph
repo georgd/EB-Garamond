@@ -1,11 +1,18 @@
 StartChar: ring
-Encoding: 730 730 347
+Encoding: 1358 730 1357
 GlifName: ring
-Width: 212
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 100 440 mark 0
+LayerCount: 2
 Fore
-Refer: 122 778 N 1 0 0 1 -6 0 2
-Validated: 1
+Refer: 1934 778 N 1 0 0 1 100 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-ring+AAoA"
 EndChar

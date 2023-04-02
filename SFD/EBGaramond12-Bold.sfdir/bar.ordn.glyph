@@ -1,0 +1,36 @@
+StartChar: bar.ordn
+Encoding: 603 -1 602
+GlifName: bar.ordn
+Width: 185
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+82 172 m 256
+ 88 172 117 171 117 186 c 258
+ 117 671 l 258
+ 117 677 109 679 104 679 c 256
+ 100 679 70 675 70 660 c 258
+ 70 180 l 258
+ 70 174 78 172 82 172 c 256
+EndSplineSet
+Fore
+SplineSet
+73 169 m 256
+ 82 169 125 171 125 194 c 258
+ 125 666 l 258
+ 125 672 118 679 111 679 c 256
+ 104 679 60 669 60 646 c 258
+ 60 183 l 258
+ 60 176 66 169 73 169 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-bar.ordn+AAoA"
+EndChar

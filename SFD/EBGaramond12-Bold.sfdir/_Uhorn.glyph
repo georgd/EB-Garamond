@@ -1,0 +1,55 @@
+StartChar: Uhorn
+Encoding: 417 431 416
+GlifName: U_horn
+Width: 746
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 387 -30 basechar 0
+AnchorPoint: "top.cap" 410 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+373 -14 m 256
+ 523 -14 646 100 646 265 c 256
+ 646 352 647 438 651 535 c 256
+ 652 574 666 594 702 608 c 256
+ 750 626 810 662 810 724 c 256
+ 810 761 783 811 755 811 c 256
+ 722 811 662 772 662 744 c 256
+ 662 729 677 721 692 714 c 256
+ 706 708 720 702 720 690 c 256
+ 720 671 706 651 672 651 c 257
+ 619 651 l 257
+ 582 651 565 654 513 654 c 256
+ 494 654 483 649 483 639 c 256
+ 483 625 509 622 524 614 c 256
+ 564 593 574 573 577 476 c 256
+ 579 418 577 350 577 296 c 256
+ 577 151 527 81 410 81 c 256
+ 328 81 258 140 258 272 c 258
+ 258 530 l 258
+ 258 575 274 598 295 608 c 256
+ 316 618 344 623 344 639 c 256
+ 344 649 334 654 318 654 c 256
+ 276 654 210 650 171 650 c 256
+ 131 650 78 655 34 655 c 256
+ 19 655 8 649 8 640 c 256
+ 8 630 16 623 35 618 c 256
+ 71 608 87 570 87 536 c 258
+ 87 256 l 258
+ 87 94 183 -14 373 -14 c 256
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VU
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Uhorn.sc
+Comment: "+AAoA-Uhorn+AAoA"
+EndChar

@@ -1,11 +1,25 @@
 StartChar: parenleft.sups
-Encoding: 65920 -1 1512
-Width: 204
-VWidth: 440
-Flags: MW
+Encoding: 1207 -1 1206
+GlifName: parenleft.sups
+Width: 195
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1206 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 1202 -1 N 1 0 0 1 49 159 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vparenleft.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vparenleft.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-parenleft.sups+AAoA"
 EndChar

@@ -1,0 +1,39 @@
+StartChar: acutecomb.flat
+Encoding: 515 -1 514
+GlifName: acutecomb.flat
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+41 504 m 256
+ 85 516 194 549 216 561 c 257
+ 219 563 220 567 220 570 c 256
+ 220 582 204 620 180 620 c 256
+ 173 620 166 617 159 614 c 256
+ 125 600 22 536 4 517 c 257
+ 1 513 0 510 0 507 c 256
+ 0 502 7 499 14 499 c 256
+ 23 499 33 502 41 504 c 256
+EndSplineSet
+Fore
+SplineSet
+-101 497 m 256
+ -88 497 -73 502 -62 505 c 256
+ -2 521 50 541 111 561 c 256
+ 120 564 122 571 122 580 c 256
+ 122 593 102 646 67 646 c 256
+ 60 646 54 645 48 641 c 256
+ 2 612 -63 568 -103 536 c 256
+ -118 524 -121 518 -121 511 c 256
+ -121 502 -111 497 -101 497 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-acutecomb.flat+AAoA"
+EndChar

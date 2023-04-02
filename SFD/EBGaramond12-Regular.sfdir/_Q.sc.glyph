@@ -1,14 +1,42 @@
 StartChar: Q.sc
-Encoding: 1114652 -1 1651
+Encoding: 337 -1 336
 GlifName: Q_.sc
 Width: 626
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 308 615 basechar 0
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1683 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Substitution2: "Single Substitution lookup 98 subtable" q.longsc
-Comment: "."
+SplineSet
+649 -222 m 256
+ 709 -222 734 -215 763 -204 c 256
+ 778 -198 787 -185 787 -173 c 256
+ 787 -167 779 -169 773 -169 c 256
+ 766 -169 737 -178 690 -178 c 256
+ 582 -178 448 -84 383 -23 c 256
+ 376 -16 388 -11 399 -7 c 256
+ 459 17 566 80 566 247 c 256
+ 566 373 441 458 314 458 c 256
+ 174 458 60 347 60 207 c 256
+ 60 90 178 -1 228 -13 c 257
+ 239 -15 265 -25 279 -35 c 256
+ 416 -131 503 -222 649 -222 c 256
+330 11 m 256
+ 213 11 150 120 150 241 c 256
+ 150 339 208 428 312 428 c 256
+ 428 428 476 322 476 220 c 256
+ 476 121 437 11 330 11 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo.sc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'ss06' Style Set 6 lookup 35 subtable" q.longsc
+Substitution2: "'swsh' Swash lookup 28 subtable" q.longsc
+Comment: "+AAoA-Q.sc+AAoA"
 EndChar

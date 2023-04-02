@@ -1,12 +1,19 @@
 StartChar: uni01F5
-Encoding: 501 501 320
-Width: 365
+Encoding: 1635 501 1634
+GlifName: uni01F_5
+Width: 415
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 269 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 623 769 N 1 0 0 1 247 0 2
-Refer: 25 103 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" g acutecomb
+Refer: 871 103 N 1 0 0 1 0 0 2
+Refer: 512 769 N 1 0 0 1 235 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni01F5+AAoA"
 EndChar

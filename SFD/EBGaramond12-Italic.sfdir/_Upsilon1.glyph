@@ -1,10 +1,20 @@
 StartChar: Upsilon1
-Encoding: 978 978 650
-Width: 686
+Encoding: 423 978 422
+GlifName: U_psilon1
+Width: 689
 VWidth: 0
-Flags: MW
+Flags: W
+AnchorPoint: "bottomgreek" 275 -30 basechar 0
+AnchorPoint: "top.cap" 485 675 basechar 0
+AnchorPoint: "topgreek" -31 460 basechar 0
 LayerCount: 2
 Fore
-Refer: 643 933 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 421 933 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.85,0.26,0.06,1
+p2
+s."
+Comment: "+AAoA-Upsilon1+AAoA"
 EndChar

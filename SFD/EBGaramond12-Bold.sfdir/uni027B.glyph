@@ -1,0 +1,48 @@
+StartChar: uni027B
+Encoding: 1820 635 1819
+GlifName: uni027B_
+Width: 513
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+362 -288 m 256
+ 469 -288 553 -235 553 -152 c 256
+ 553 -127 552 -104 536 -104 c 256
+ 500 -104 424 -155 424 -188 c 256
+ 424 -212 419 -231 394 -231 c 256
+ 364 -231 347 -172 347 30 c 257
+ 347 288 l 257
+ 347 337 357 399 360 437 c 256
+ 360 445 355 451 346 451 c 256
+ 343 451 335 448 324 443 c 256
+ 293 429 231 399 159 385 c 256
+ 152 384 147 376 147 367 c 256
+ 147 358 151 349 159 348 c 256
+ 188 344 202 332 202 284 c 258
+ 202 187 l 258
+ 202 110 180 90 145 90 c 256
+ 135 90 121 97 107 104 c 256
+ 93 111 78 119 65 119 c 256
+ 34 119 3 68 3 36 c 256
+ 3 7 21 -14 70 -14 c 256
+ 121 -14 172 36 202 77 c 257
+ 207 77 209 70 209 62 c 258
+ 209 -48 l 257
+ 209 -187 258 -288 362 -288 c 256
+EndSplineSet
+Guideline: "" "" 347 141 90 0 0
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni0279
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni0256
+p4
+s."
+Comment: "+AAoA-uni027B+AAoA"
+EndChar

@@ -1,11 +1,40 @@
 StartChar: uni2016.ordn
-Encoding: 65910 -1 1502
-Width: 520
-VWidth: 280
-Flags: MW
+Encoding: 2652 -1 2651
+GlifName: uni2016.ordn
+Width: 255
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1298 -1 N 1 0 0 1 86 280 2
-Validated: 1
-Comment: "."
+SplineSet
+239 172 m 256
+ 245 172 274 171 274 186 c 258
+ 274 671 l 258
+ 274 677 266 679 261 679 c 256
+ 257 679 227 675 227 660 c 258
+ 227 180 l 258
+ 227 174 235 172 239 172 c 256
+131 172 m 256
+ 137 172 166 171 166 186 c 258
+ 166 671 l 258
+ 166 677 158 679 153 679 c 256
+ 149 679 119 675 119 660 c 258
+ 119 180 l 258
+ 119 174 127 172 131 172 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbar.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbar.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni2016.ordn+AAoA"
 EndChar

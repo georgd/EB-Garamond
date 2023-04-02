@@ -1,0 +1,51 @@
+StartChar: tildecomb
+Encoding: 1471 771 1470
+GlifName: tildecomb
+Width: 0
+VWidth: 0
+AnchorPoint: "top" 1 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+-131 464 m 256
+ -126 464 -117 477 -107 489 c 256
+ -96 503 -88 511 -78 511 c 256
+ -53 511 48 502 71 502 c 256
+ 80 502 94 504 102 516 c 256
+ 125 549 165 601 165 615 c 256
+ 165 621 147 640 141 640 c 256
+ 136 640 127 627 114 611 c 256
+ 103 598 91 591 79 591 c 256
+ 67 591 46 593 15 595 c 256
+ -30 598 -44 603 -57 603 c 256
+ -82 603 -152 498 -152 485 c 256
+ -152 478 -138 464 -131 464 c 256
+EndSplineSet
+Fore
+SplineSet
+-129 467 m 256
+ -124 467 -118 476 -101 500 c 256
+ -96 507 -91 511 -82 511 c 256
+ -57 511 48 502 71 502 c 256
+ 80 502 94 504 102 516 c 256
+ 115 534 130 561 145 583 c 256
+ 157 600 166 610 166 616 c 256
+ 166 622 149 636 143 636 c 256
+ 138 636 133 627 120 611 c 256
+ 109 598 97 591 85 591 c 256
+ 73 591 46 593 15 595 c 256
+ -30 598 -44 603 -57 603 c 256
+ -74 603 -152 502 -152 487 c 256
+ -152 481 -134 467 -129 467 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" tildecomb.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" tildecomb.sc
+Comment: "+AAoA-tildecomb+AAoA"
+EndChar

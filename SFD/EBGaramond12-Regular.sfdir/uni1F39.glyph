@@ -1,13 +1,69 @@
 StartChar: uni1F39
-Encoding: 7993 7993 2505
+Encoding: 2615 7993 2614
 GlifName: uni1F_39
 Width: 440
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 270 -30 basechar 0
+AnchorPoint: "top.cap" 270 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+58 588 m 256
+ 81 592 100 605 100 628 c 256
+ 100 651 77 666 53 666 c 256
+ 6 666 -20 616 -20 569 c 256
+ -20 516 23 472 76 472 c 256
+ 89 472 96 477 96 482 c 256
+ 96 489 87 492 79 496 c 256
+ 52 509 32 527 32 556 c 256
+ 32 572 42 585 58 588 c 256
+230 550 m 258
+ 230 98 l 258
+ 230 51 202 33 152 24 c 256
+ 129 20 119 15 119 6 c 256
+ 119 -2 131 -5 148 -5 c 256
+ 202 -5 226 0 276 0 c 256
+ 322 0 339 -5 393 -5 c 256
+ 410 -5 422 -2 422 6 c 256
+ 422 15 412 20 389 24 c 256
+ 339 33 310 51 310 98 c 258
+ 310 550 l 258
+ 310 597 331 613 381 622 c 256
+ 404 626 414 633 414 642 c 256
+ 414 650 402 653 385 653 c 256
+ 331 653 319 650 276 650 c 256
+ 230 650 213 653 159 653 c 256
+ 142 653 130 650 130 642 c 256
+ 130 633 140 626 163 622 c 256
+ 213 613 230 597 230 550 c 258
+EndSplineSet
 Fore
-Refer: 126 788 N 1 0 0 1 -20 0 2
-Refer: 634 921 N 1 0 0 1 100 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" Iota uni0314
+Refer: 203 921 N 1 0 0 1 100 0 2
+Refer: 2793 8190 N 1 0 0 1 -50 24 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VIota
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VI
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1F39+AAoA"
 EndChar

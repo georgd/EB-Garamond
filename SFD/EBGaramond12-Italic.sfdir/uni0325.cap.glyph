@@ -1,10 +1,30 @@
 StartChar: uni0325.cap
-Encoding: 66391 -1 2088
+Encoding: 1859 -1 1858
+GlifName: uni0325.cap
 Width: 0
-Flags: MW
-AnchorPoint: "below_accent" 106 -100 mark 0
+VWidth: 0
+AnchorPoint: "bottom.cap" -71 -30 mark 0
 LayerCount: 2
+Back
+SplineSet
+52 -171 m 256
+ 52 -140 70 -107 101 -107 c 256
+ 120 -107 136 -122 136 -141 c 256
+ 136 -172 120 -206 89 -206 c 256
+ 69 -206 52 -191 52 -171 c 256
+108 -84 m 256
+ 56 -84 10 -122 10 -174 c 256
+ 10 -208 46 -228 80 -228 c 256
+ 132 -228 178 -188 178 -136 c 256
+ 178 -102 142 -84 108 -84 c 256
+EndSplineSet
 Fore
-Refer: 2081 -1 N 1 0 0 1 0 -928 2
-Validated: 1
+Refer: 1799 -1 N 1 0 0 1 -283 -912 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0325.cap+AAoA"
 EndChar

@@ -1,11 +1,25 @@
 StartChar: hyphen.sc
-Encoding: 66027 -1 1619
-Width: 274
+Encoding: 959 -1 958
+GlifName: hyphen.sc
+Width: 268
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 94 45 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 955 45 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vhyphen
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vhyphen
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-hyphen.sc+AAoA"
 EndChar

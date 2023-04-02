@@ -1,0 +1,37 @@
+StartChar: eldescender-cy
+Encoding: 778 1327 777
+GlifName: eldescender-cy
+Width: 553
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+199 -276 m 256
+ 209 -276 295 -258 337 -233 c 256
+ 397 -197 412 -139 425 -74 c 256
+ 438 -7 454 64 492 103 c 257
+ 400 39 l 257
+ 413 19 l 257
+ 401 12 347 -28 330 -50 c 256
+ 298 -91 282 -124 269 -168 c 256
+ 252 -227 224 -242 193 -253 c 257
+ 187 -256 182 -258 182 -264 c 256
+ 182 -273 191 -276 199 -276 c 256
+EndSplineSet
+Refer: 1991 1083 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni043B
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni043B
+p4
+sVpublic.markColor
+p5
+V0.97,1,0,1
+p6
+s."
+EndChar

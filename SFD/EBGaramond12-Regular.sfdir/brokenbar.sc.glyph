@@ -1,27 +1,50 @@
 StartChar: brokenbar.sc
-Encoding: 1114703 -1 1702
+Encoding: 640 -1 639
 GlifName: brokenbar.sc
 Width: 260
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+112 -127 m 256
+ 121 -127 160 -124 160 -103 c 258
+ 160 536 l 258
+ 160 543 153 549 146 549 c 256
+ 140 549 100 540 100 518 c 258
+ 100 -113 l 258
+ 100 -120 106 -127 112 -127 c 256
+EndSplineSet
 Fore
 SplineSet
-112 276 m 0
- 106 276 100 289 100 299 c 2
- 100 674 l 10
- 100 696 140 705 146 705 c 0
- 153 705 160 699 160 692 c 18
- 160 297 l 2
- 160 287 121 276 112 276 c 0
-146 179 m 0
- 153 179 160 167 160 157 c 2
- 160 -266 l 10
- 160 -287 121 -290 112 -290 c 0
- 106 -290 100 -283 100 -276 c 18
- 100 156 l 2
- 100 166 140 179 146 179 c 0
+112 -127 m 256
+ 121 -127 160 -124 160 -103 c 258
+ 160 172 l 258
+ 160 182 153 194 146 194 c 256
+ 140 194 100 181 100 171 c 258
+ 100 -113 l 258
+ 100 -120 106 -127 112 -127 c 256
+112 261 m 256
+ 121 261 160 272 160 282 c 258
+ 160 536 l 258
+ 160 543 153 549 146 549 c 256
+ 140 549 100 540 100 518 c 258
+ 100 284 l 258
+ 100 274 106 261 112 261 c 256
 EndSplineSet
-Validated: 1
-Comment: "."
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbrokenbar
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbrokenbar
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-brokenbar.sc+AAoA"
 EndChar

@@ -1,11 +1,20 @@
 StartChar: uni020B
-Encoding: 523 523 604
-Width: 274
+Encoding: 1651 523 1650
+GlifName: uni020B_
+Width: 294
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 88 -30 basechar 0
+AnchorPoint: "top" 220 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 987 785 N 1 0 0 1 106 0 2
-Refer: 76 305 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" i uni0311
+Refer: 733 305 N 1 0 0 1 0 0 2
+Refer: 1821 785 N 1 0 0 1 147 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni020B+AAoA"
 EndChar

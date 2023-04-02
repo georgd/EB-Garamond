@@ -1,18 +1,25 @@
 StartChar: backslash.subs
-Encoding: 65666 -1 1258
-Width: 240
+Encoding: 599 -1 598
+GlifName: backslash.subs
+Width: 244
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-220 -28 m 26
- 220 -33 213 -37 207 -37 c 24
- 198 -37 189 -36 188 -28 c 26
- 136 389 l 26
- 136 394 142 399 147 399 c 24
- 157 399 166 398 168 389 c 26
- 220 -28 l 26
-EndSplineSet
-Validated: 1
+Refer: 595 -1 N 1 0 0 1 -85 -276 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbackslash.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbackslash.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-backslash.subs+AAoA"
 EndChar

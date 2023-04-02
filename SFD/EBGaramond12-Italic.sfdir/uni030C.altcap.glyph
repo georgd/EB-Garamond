@@ -1,20 +1,24 @@
 StartChar: uni030C.altcap
-Encoding: 66489 -1 2487
+Encoding: 1810 -1 1809
+GlifName: uni030C_.altcap
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_right" 174 570 mark 0
-AnchorPoint: "topleft" 169 552 mark 0
 LayerCount: 2
 Fore
 SplineSet
-104 453 m 0
- 115 481 123 512 134 564 c 0
- 138 585 176 615 198 615 c 0
- 204 615 206 607 206 600 c 0
- 206 533.183903808 116 430 103 430 c 0
- 99 430 98 432 98 436 c 0
- 98 441 101 446 104 453 c 0
+65 479 m 256
+ 78 479 168 582 168 649 c 256
+ 168 656 166 664 160 664 c 256
+ 138 664 100 634 96 613 c 256
+ 86 561 78 530 66 502 c 256
+ 63 495 60 490 60 485 c 256
+ 60 481 61 479 65 479 c 256
 EndSplineSet
-Substitution2: "cv82 subtable" uni030C.altcap1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030C.altcap+AAoA"
 EndChar

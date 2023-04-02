@@ -1,0 +1,29 @@
+StartChar: gestrokehook-cy
+Encoding: 896 1275 895
+GlifName: gestrokehook-cy
+Width: 423
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 255 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-8 -290 m 256
+ 63 -290 241 -187 286 -48 c 258
+ 334 100 l 257
+ 177 51 l 257
+ 125 -108 l 258
+ 101 -182 74 -234 41 -234 c 256
+ 22 -234 11 -222 -1 -207 c 256
+ -14 -191 -28 -171 -51 -171 c 256
+ -67 -171 -103 -196 -106 -233 c 256
+ -108 -262 -81 -290 -8 -290 c 256
+EndSplineSet
+Refer: 897 1171 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.97,1,0,1
+p2
+s."
+EndChar

@@ -1,0 +1,44 @@
+StartChar: ohorn
+Encoding: 1148 417 1147
+GlifName: ohorn
+Width: 504
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 155 -30 basechar 0
+AnchorPoint: "top" 302 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+150 -14 m 256
+ 341 -14 437 167 437 299 c 256
+ 437 308 436 318 434 326 c 256
+ 429 336 429 346 438 346 c 256
+ 497 346 580 434 580 504 c 256
+ 580 531 570 557 553 557 c 256
+ 511 557 459 519 459 495 c 256
+ 459 489 462 485 466 482 c 256
+ 479 473 489 463 489 447 c 256
+ 489 422 468 390 449 390 c 256
+ 434 390 395 409 366 421 c 256
+ 349 428 322 437 295 437 c 256
+ 104 437 8 256 8 124 c 256
+ 8 48 74 -14 150 -14 c 256
+170 27 m 256
+ 151 27 137 40 137 67 c 256
+ 137 187 224 399 277 399 c 256
+ 298 399 309 386 309 360 c 256
+ 309 239 232 27 170 27 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vo
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" ohorn.sc
+Comment: "+AAoA-ohorn+AAoA"
+EndChar

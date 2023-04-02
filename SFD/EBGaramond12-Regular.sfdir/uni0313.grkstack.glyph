@@ -1,25 +1,38 @@
 StartChar: uni0313.grkstack
-Encoding: 1114994 -1 2701
+Encoding: 1966 -1 1965
 GlifName: uni0313.grkstack
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_stack" 55 650 basemark 0
-AnchorPoint: "grk_top" 55 550 mark 0
-AnchorPoint: "grk_uc_top_left" 135 665 mark 0
-LayerCount: 3
+LayerCount: 2
+Back
+SplineSet
+-32 456 m 256
+ 7 456 60 492 60 547 c 256
+ 60 588 27 620 -13 620 c 256
+ -42 620 -60 610 -60 594 c 256
+ -60 572 -43 561 -24 560 c 256
+ -4 559 13 546 13 526 c 256
+ 13 503 -7 488 -36 478 c 256
+ -45 475 -50 470 -50 466 c 256
+ -50 461 -44 456 -32 456 c 256
+EndSplineSet
 Fore
 SplineSet
-36 560 m 0
- 17 561 0 572 0 594 c 0
- 0 610 18 620 47 620 c 0
- 87 620 120 588 120 547 c 0
- 120 492 67 456 28 456 c 0
- 16 456 10 461 10 466 c 0
- 10 470 15 475 24 478 c 0
- 53 488 73 503 73 526 c 0
- 73 546 56 559 36 560 c 0
+-32 456 m 256
+ 7 456 60 492 60 547 c 256
+ 60 588 22 622 -18 622 c 256
+ -47 622 -60 608 -60 592 c 256
+ -60 570 -43 564 -24 560 c 256
+ -6 556 12 546 12 526 c 256
+ 12 503 -7 485 -36 475 c 256
+ -45 472 -48 469 -48 465 c 256
+ -48 460 -44 456 -32 456 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" uni0313.grkstacksc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0313.grkstack+AAoA"
 EndChar

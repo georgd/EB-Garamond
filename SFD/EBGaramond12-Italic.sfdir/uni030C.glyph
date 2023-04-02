@@ -1,15 +1,33 @@
 StartChar: uni030C
-Encoding: 780 780 92
+Encoding: 1807 780 1806
+GlifName: uni030C_
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 71 550 mark 0
+AnchorPoint: "top" 73 440 mark 0
 LayerCount: 2
 Fore
-Refer: 91 770 N -1 0 0 -1 215 1119 2
-Substitution2: "Single Substitution lookup 16 subtable" uni030C.stack
-Substitution2: "Single Substitution lookup 14 subtable" uni030C.stack
-Substitution2: "Single Substitution lookup 12 subtable" uni030C.flat
-Substitution2: "Single Substitution lookup 11 subtable" uni030C.alt
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" uni030C.cap
+SplineSet
+81 462 m 256
+ 91 462 113 483 131 504 c 256
+ 155 532 212 606 228 630 c 256
+ 232 636 235 642 235 648 c 256
+ 235 654 231 657 226 657 c 256
+ 221 657 210 648 203 641 c 256
+ 180 618 140 580 110 549 c 257
+ 107 545 103 544 101 549 c 256
+ 89 580 73 620 65 640 c 257
+ 60 651 55 657 48 657 c 256
+ 43 657 40 644 40 636 c 256
+ 40 626 52 531 63 492 c 256
+ 69 470 72 462 81 462 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" uni030C.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" uni030C.sc
+Comment: "+AAoA-uni030C+AAoA"
 EndChar

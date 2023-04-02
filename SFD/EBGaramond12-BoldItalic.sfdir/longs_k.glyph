@@ -1,0 +1,44 @@
+StartChar: longs_k
+Encoding: 1061 -1 1060
+GlifName: longs_k
+Width: 928
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 586 -30 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-58 -291 m 256
+ 33 -291 163 -150 193 -32 c 258
+ 259 232 l 257
+ 337 567 377 650 459 650 c 256
+ 496 650 539 622 554 526 c 257
+ 611 611 l 257
+ 605 665 525 705 455 705 c 256
+ 314 705 196 563 108 219 c 258
+ 49 -21 l 258
+ 16 -154 -13 -242 -51 -242 c 256
+ -76 -242 -89 -218 -104 -196 c 256
+ -117 -176 -135 -149 -148 -149 c 256
+ -175 -149 -202 -173 -202 -209 c 256
+ -202 -248 -162 -291 -58 -291 c 256
+EndSplineSet
+Refer: 1009 107 N 1 0 0 1 376 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vlongs
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vk
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'dlig' Discretionary Ligatures in Latin lookup 39 subtable" longs k
+Ligature2: "'hlig' Historic Ligatures in Latin lookup 28 subtable" longs k
+Comment: "+AAoA-longs_k+AAoA"
+EndChar

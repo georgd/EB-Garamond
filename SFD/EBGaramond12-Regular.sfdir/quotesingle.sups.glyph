@@ -1,12 +1,25 @@
 StartChar: quotesingle.sups
-Encoding: 1114509 -1 1508
+Encoding: 1337 -1 1336
 GlifName: quotesingle.sups
-Width: 126
-VWidth: 440
-Flags: HMW
-LayerCount: 3
+Width: 89
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1205 -1 N 1 0 0 1 0 440 2
-Validated: 1
-Comment: "."
+Refer: 1332 -1 N 1 0 0 1 0 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vquotesingle.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vquotesingle.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-quotesingle.sups+AAoA"
 EndChar

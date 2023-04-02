@@ -1,27 +1,25 @@
 StartChar: asciicircum.sc
-Encoding: 1114665 -1 1664
+Encoding: 563 -1 562
 GlifName: asciicircum.sc
 Width: 500
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-250 603 m 1
- 276 566 408 375 449 305 c 0
- 451 302 452 298 452 295 c 0
- 452 289 448 284 443 284 c 2
- 441 284 l 1
- 429 287 410 295 404 302 c 0
- 368 341 284 470 254 514 c 0
- 249 520 248 520 244 514 c 0
- 214 470 123 332 96 302 c 0
- 89 295 71 287 59 284 c 1
- 57 284 l 2
- 52 284 48 289 48 295 c 0
- 48 298 49 302 51 305 c 0
- 89 369 222 564 250 603 c 1
-EndSplineSet
-Validated: 1
-Comment: "."
+Refer: 560 94 N 1 0 0 1 0 -66 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vasciicircum
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vasciicircum
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-asciicircum.sc+AAoA"
 EndChar

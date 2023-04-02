@@ -1,11 +1,25 @@
 StartChar: uni2016.subs
-Encoding: 65706 -1 1298
-Width: 520
+Encoding: 2654 -1 2653
+GlifName: uni2016.subs
+Width: 254
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 106 124 N 1 0 0 1 0 0 2
-Refer: 106 124 N 1 0 0 1 260 0 2
-Validated: 1
+Refer: 2651 -1 N 1 0 0 1 -76 -244 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni2016.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni2016.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni2016.subs+AAoA"
 EndChar

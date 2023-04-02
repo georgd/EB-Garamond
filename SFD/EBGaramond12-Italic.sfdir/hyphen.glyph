@@ -1,23 +1,31 @@
 StartChar: hyphen
-Encoding: 45 45 94
-Width: 274
+Encoding: 956 45 955
+GlifName: hyphen
+Width: 268
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-62 170 m 2
- 54 169 50 169 50 173 c 0
- 50 195 74 229 83 230 c 2
- 266 255 l 2
- 272 256 274 254 274 247 c 0
- 274 222 248 196 238 195 c 2
- 62 170 l 2
+38 170 m 256
+ 97 178 155 187 214 195 c 256
+ 234 198 250 224 250 247 c 256
+ 250 254 248 256 242 255 c 256
+ 181 247 120 238 59 230 c 256
+ 48 229 27 206 27 184 c 256
+ 27 177 33 169 38 170 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" hyphen.sups
-Substitution2: "sinf subtable" hyphen.sinf
-Substitution2: "ordn subtable" hyphen.ordn
-Substitution2: "subs subtable" hyphen.subs
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" hyphen.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 3028 -80 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" hyphen.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" hyphen.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" hyphen.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" hyphen.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" hyphen.subs
+Comment: "+AAoA-hyphen+AAoA"
 EndChar

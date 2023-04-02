@@ -1,20 +1,28 @@
 StartChar: macron.sc
-Encoding: 1114712 -1 1711
+Encoding: 1129 -1 1128
 GlifName: macron.sc
-Width: 250
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+AnchorPoint: "top" 152 419 mark 0
+LayerCount: 2
+Back
 SplineSet
-74 58 m 10
- -141 58 l 26
- -148 58 -155 64 -155 70 c 0
- -155 79 -149 108 -131 108 c 26
- 92 108 l 18
- 98 108 105 103 105 97 c 0
- 105 88 92 58 74 58 c 10
+-141 58 m 258
+ 74 58 l 258
+ 92 58 105 88 105 97 c 256
+ 105 103 98 108 92 108 c 258
+ -131 108 l 258
+ -149 108 -155 79 -155 70 c 256
+ -155 64 -148 58 -141 58 c 258
 EndSplineSet
-Validated: 1
-Comment: "."
+Fore
+Refer: 1127 175 N 1 0 0 1 0 -20 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-macron.sc+AAoA"
 EndChar

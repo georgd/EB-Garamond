@@ -1,28 +1,38 @@
 StartChar: greater
-Encoding: 62 62 102
+Encoding: 917 62 916
+GlifName: greater
 Width: 590
-Flags: MW
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-457 234 m 2
- 77 408 l 2
- 58 417 53 447 53 456 c 0
- 53 461 58 469 64 469 c 0
- 65 469 66 468 67 468 c 2
- 496 268 l 2
- 513 260 537 247 537 241 c 0
- 537 232 524 204 504 195 c 2
- 67 -5 l 2
- 66 -5 65 -6 64 -6 c 0
- 58 -6 52 3 54 9 c 0
- 60 30 65 46 85 55 c 2
- 458 229 l 2
- 461 230 460 233 457 234 c 2
+78 -2 m 258
+ 504 195 l 258
+ 524 204 537 232 537 241 c 256
+ 537 247 513 260 496 268 c 258
+ 67 468 l 257
+ 66 468 65 469 64 469 c 256
+ 58 469 53 461 53 456 c 256
+ 53 447 58 417 77 408 c 258
+ 457 234 l 257
+ 460 233 461 230 458 229 c 257
+ 85 55 l 258
+ 65 46 54 25 54 13 c 256
+ 54 -5 65 -8 78 -2 c 258
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" greater.sups
-Substitution2: "sinf subtable" greater.sinf
-Substitution2: "ordn subtable" greater.ordn
-Substitution2: "subs subtable" greater.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss04' Style Set 4 in Latin lookup 35 subtable" uni2767.01
+Substitution2: "'ss02' Style Set 2 in Latin lookup 32 subtable" bullet.01
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" greater.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" greater.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" greater.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" greater.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" greater.subs
+Comment: "+AAoA-greater+AAoA"
 EndChar

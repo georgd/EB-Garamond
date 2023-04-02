@@ -1,11 +1,25 @@
 StartChar: dotmath
-Encoding: 8901 8901 872
+Encoding: 750 8901 749
 GlifName: dotmath
 Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 112 183 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 1277 183 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vperiodcentered
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vperiodcentered
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-dotmath+AAoA"
 EndChar

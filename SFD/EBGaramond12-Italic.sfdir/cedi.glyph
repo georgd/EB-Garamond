@@ -1,0 +1,33 @@
+StartChar: cedi
+Encoding: 666 8373 665
+GlifName: cedi
+Width: 631
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 488 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+210 -82 m 256
+ 221 -82 235 -78 240 -67 c 257
+ 587 717 l 257
+ 590 724 586 732 579 732 c 256
+ 566 732 551 728 545 715 c 257
+ 201 -62 l 258
+ 195 -75 202 -82 210 -82 c 256
+EndSplineSet
+Refer: 43 67 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VC
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.98,0.36,0.67,1
+p5
+s."
+EndChar

@@ -1,0 +1,41 @@
+StartChar: oslash
+Encoding: 1182 248 1181
+GlifName: oslash
+Width: 445
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 302 440 basechar 0
+AnchorPoint: "bottom" 170 -30 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-9 -14 m 256
+ 5 -15 11 -11 19 -4 c 258
+ 74 42 l 257
+ 107 61 l 257
+ 326 265 l 257
+ 396 314 l 257
+ 468 375 l 258
+ 479 384 485 400 485 411 c 256
+ 485 425 482 436 469 437 c 256
+ 460 438 452 434 445 429 c 258
+ 382 377 l 257
+ 332 347 l 257
+ 93 132 l 257
+ 47 102 l 257
+ -23 44 l 258
+ -32 37 -37 28 -39 11 c 256
+ -41 -3 -24 -13 -9 -14 c 256
+EndSplineSet
+Refer: 1127 111 N 1 0 0 1 0 0 2
+Guideline: "" "" 391 103 72.8 0 0
+Guideline: "" "" -48 -14 72.8 0 0
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" oslash.sc
+Comment: "+AAoA-oslash+AAoA"
+EndChar

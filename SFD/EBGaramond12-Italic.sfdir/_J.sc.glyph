@@ -1,11 +1,41 @@
 StartChar: J.sc
-Encoding: 66056 -1 1648
-Width: 278
+Encoding: 213 -1 213
+GlifName: J_.sc
+Width: 302
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 287 580 basechar 0
+Flags: W
+AnchorPoint: "top" 253 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1680 -1 N 1 0 0 1 0 0 2
-Comment: "."
+SplineSet
+-78 -175 m 256
+ -57 -175 -7 -161 35 -128 c 256
+ 110 -69 131 -9 163 95 c 258
+ 243 353 l 258
+ 255 393 278 415 323 422 c 256
+ 335 424 349 431 352 441 c 256
+ 354 449 343 453 336 453 c 256
+ 297 453 271 448 236 448 c 256
+ 200 448 176 453 137 453 c 256
+ 130 453 116 449 113 441 c 256
+ 109 431 120 424 132 422 c 256
+ 171 415 180 393 168 353 c 258
+ 58 -2 l 258
+ 33 -82 4 -132 -37 -132 c 256
+ -53 -132 -64 -126 -73 -103 c 256
+ -79 -85 -87 -77 -111 -77 c 256
+ -128 -77 -162 -104 -162 -132 c 256
+ -162 -155 -139 -175 -78 -175 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+V=H.sc-5
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-J.sc+AAoA"
 EndChar

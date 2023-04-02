@@ -1,24 +1,42 @@
 StartChar: backslash
-Encoding: 92 92 81
-Width: 293
+Encoding: 596 92 595
+GlifName: backslash
+Width: 407
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+365 -62 m 256
+ 384 -62 397 -50 391 -37 c 258
+ 101 638 l 258
+ 90 662 69 665 42 665 c 256
+ 20 665 11 650 16 638 c 258
+ 306 -37 l 258
+ 316 -60 341 -62 365 -62 c 256
+EndSplineSet
 Fore
 SplineSet
-274 -50 m 0
- 274 -61 266 -64 261 -64 c 0
- 251 -64 241 -64 236 -49 c 2
- 28 647 l 1
- 28 648 l 2
- 28 649 27 649 27 652 c 0
- 27 662 32 668 37 668 c 0
- 49 668 60 666 65 650 c 2
- 273 -46 l 2
- 274 -48 274 -48 274 -50 c 0
+371 -62 m 256
+ 386 -62 396 -52 392 -42 c 258
+ 80 645 l 258
+ 71 664 55 667 33 667 c 256
+ 15 667 7 654 11 645 c 258
+ 324 -42 l 258
+ 332 -60 352 -62 371 -62 c 256
 EndSplineSet
-Substitution2: "sups subtable" backslash.sups
-Substitution2: "sinf subtable" backslash.sinf
-Substitution2: "ordn subtable" backslash.ordn
-Substitution2: "subs subtable" backslash.subs
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" backslash.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" backslash.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" backslash.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" backslash.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" backslash.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" backslash.subs
+Comment: "+AAoA-backslash+AAoA"
 EndChar

@@ -1,37 +1,41 @@
 StartChar: five
-Encoding: 53 53 78
+Encoding: 874 53 873
 GlifName: five
-Width: 359
+Width: 480
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-86 -189 m 0
- 71 -189 52 -186 52 -177 c 0
- 52 -167 73 -162 85 -160 c 0
- 160 -147 229 -106 229 0 c 0
- 229 67 171 129 108 167 c 0
- 70 190 58 205 58 222 c 0
- 58 276 81 330 89 347 c 0
- 98 366 115 376 125 380 c 0
- 165 395 257 415 272 415 c 0
- 279 415 283 408 283 401 c 0
- 283 376 259 333 232 328 c 0
- 181 318 147 314 110 309 c 0
- 103 308 91 296 91 276 c 0
- 91 268 97 260 111 252 c 0
- 169 220 219 178 247 150 c 0
- 274 123 309 69 309 17 c 0
- 309 -112 186 -189 86 -189 c 0
-EndSplineSet
-Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 35 subtable" five.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 33 subtable" five.lnum
-Substitution2: "Single Substitution lookup 32 subtable" five.ordn
-Substitution2: "Single Substitution lookup 31 subtable" five.subs
-Substitution2: "sups subtable" five.sups
-Substitution2: "sinf subtable" five.sinf
-Substitution2: "ordn subtable" five.ordn
-Substitution2: "subs subtable" five.subs
+Refer: 875 -1 N 1 0 0 1 20 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vfive.lf
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" five.lf
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" five.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" five.sc
+Substitution2: "'onum' Oldstyle Figures lookup 19 subtable" five.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 17 subtable" five.lf
+Substitution2: "'ordn' Ordinals lookup 15 subtable" five.ordn
+Substitution2: "UP subtable" five.numr
+Substitution2: "'sups' Superscript lookup 9 subtable" fivesuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" fiveinferior
+Substitution2: "'subs' Subscript lookup 7 subtable" five.subs
+Comment: "+AAoA-five.tablining+AAoA"
 EndChar

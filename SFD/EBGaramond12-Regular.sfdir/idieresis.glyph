@@ -1,14 +1,51 @@
 StartChar: idieresis
-Encoding: 239 239 167
+Encoding: 1008 239 1007
 GlifName: idieresis
 Width: 245
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 116 -30 basechar 0
+AnchorPoint: "top" 124 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+31 593 m 256
+ 6 593 -19 568 -19 543 c 256
+ -19 518 6 493 31 493 c 256
+ 56 493 81 518 81 543 c 256
+ 81 568 56 593 31 593 c 256
+208 593 m 256
+ 183 593 158 568 158 543 c 256
+ 158 518 183 493 208 493 c 256
+ 233 493 258 518 258 543 c 256
+ 258 568 233 593 208 593 c 256
+162 434 m 256
+ 154 434 109 393 42 377 c 256
+ 38 376 35 370 35 365 c 256
+ 35 359 38 353 43 352 c 256
+ 77 345 90 315 90 279 c 258
+ 90 62 l 258
+ 90 35 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 36 -3 44 -3 c 256
+ 83 -3 90 2 125 2 c 256
+ 160 2 168 -3 206 -3 c 256
+ 215 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 35 160 62 c 258
+ 160 294 l 258
+ 160 339 165 388 169 429 c 257
+ 169 432 166 434 162 434 c 256
+EndSplineSet
 Fore
-Refer: 621 776 N 1 0 0 1 -33 19 2
-Refer: 76 305 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" idieresis.sc
-MultipleSubs2: "CCMP_Precomp subtable" i.dotless uni0308
+Refer: 747 305 N 1 0 0 1 0 0 2
+Refer: 732 168 N 1 0 0 1 -26 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" idieresis.sc
+Comment: "+AAoA-idieresis+AAoA"
 EndChar

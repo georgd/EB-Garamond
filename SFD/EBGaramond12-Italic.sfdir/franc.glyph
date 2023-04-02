@@ -1,0 +1,41 @@
+StartChar: franc
+Encoding: 871 8355 870
+GlifName: franc
+Width: 509
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 118 -30 basechar 0
+AnchorPoint: "top.cap" 435 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+24 138 m 258
+ 359 138 l 258
+ 380 138 390 159 390 181 c 256
+ 390 187 383 193 377 193 c 258
+ 34 193 l 258
+ 15 193 10 159 10 150 c 256
+ 10 144 17 138 24 138 c 258
+EndSplineSet
+Fore
+SplineSet
+31 145 m 258
+ 375 145 l 258
+ 392 145 408 162 411 179 c 256
+ 412 184 408 188 404 188 c 258
+ 53 188 l 258
+ 38 188 25 162 23 154 c 256
+ 22 150 26 145 31 145 c 258
+EndSplineSet
+Refer: 132 70 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VF
+p2
+sVpublic.markColor
+p3
+V0.98,0.36,0.67,1
+p4
+s."
+EndChar

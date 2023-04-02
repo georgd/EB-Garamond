@@ -1,21 +1,25 @@
 StartChar: asciitilde.subs
-Encoding: 65700 -1 1292
-Width: 463
+Encoding: 571 -1 570
+GlifName: asciitilde.subs
+Width: 333
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-131 279 m 0
- 162 318 236 381 278 381 c 0
- 321 381 353 333 414 333 c 16
- 439 333 499 358 522 380 c 0
- 523 381 524 382 525 382 c 0
- 530 382 532 367 528 362 c 0
- 507 335 427 260 381 260 c 0
- 336 260 290 308 240 308 c 0
- 219 308 159 279 139 261 c 0
- 133 256 126 273 131 279 c 0
-EndSplineSet
-Validated: 1
+Refer: 567 -1 N 1 0 0 1 -87 -279 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vasciitilde.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vasciitilde.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-asciitilde.subs+AAoA"
 EndChar

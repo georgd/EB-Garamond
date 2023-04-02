@@ -1,23 +1,28 @@
 StartChar: uni0313
-Encoding: 787 787 126
+Encoding: 1827 787 1826
+GlifName: uni0313
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 66 550 mark 0
-AnchorPoint: "grk_uc_top_left" 82 665 mark 0
 LayerCount: 2
 Fore
 SplineSet
-181 626 m 0
- 181 539 88 481 31 481 c 0
- 21 481 17 489 17 493 c 0
- 17 498 23.3085128283 502.731284341 34 506 c 0
- 74.4516911772 518.36732311 116 544 116 577 c 0
- 116 590.61 108.036317603 604.088069771 96 609 c 0
- 79.86328125 615.584960938 67 627 67 643 c 0
- 67 666 93 686 127 686 c 0
- 161 686 181 662 181 626 c 0
+41 481 m 256
+ 98 481 191 539 191 626 c 256
+ 191 662 171 686 137 686 c 256
+ 103 686 77 666 77 643 c 256
+ 77 627 90 616 106 609 c 256
+ 118 604 126 591 126 577 c 256
+ 126 544 84 517 44 506 c 256
+ 33 503 27 498 27 493 c 256
+ 27 489 31 481 41 481 c 256
 EndSplineSet
-Substitution2: "Single Substitution lookup 20 subtable" uni0313.grkstack
-Substitution2: "Single Substitution lookup 19 subtable" uni0313.grk
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" uni0313.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" uni0313.sc
+Comment: "+AAoA-uni0313+AAoA"
 EndChar

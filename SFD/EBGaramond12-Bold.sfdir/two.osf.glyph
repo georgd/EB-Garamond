@@ -1,0 +1,70 @@
+StartChar: two.osf
+Encoding: 1485 -1 1484
+GlifName: two.osf
+Width: 484
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+406 -4 m 256
+ 409 -4 427 4 427 18 c 256
+ 427 31 451 113 473 174 c 256
+ 477 185 472 196 461 196 c 256
+ 448 196 436 184 432 175 c 256
+ 414 134 384 111 343 111 c 258
+ 216 111 l 258
+ 208 111 197 114 204 119 c 256
+ 233 139 278 166 318 203 c 256
+ 350 233 370 275 370 309 c 256
+ 370 375 318 437 233 437 c 256
+ 79 437 17 331 17 321 c 256
+ 17 310 19 296 31 296 c 256
+ 42 296 46 302 54 308 c 257
+ 81 331 110 341 137 341 c 256
+ 185 341 211 312 211 267 c 256
+ 211 191 159 128 90 77 c 256
+ 73 65 39 36 21 18 c 256
+ 17 14 14 10 14 6 c 256
+ 14 1 18 -3 21 -3 c 256
+ 27 -3 126 0 194 0 c 256
+ 264 0 391 -4 406 -4 c 256
+EndSplineSet
+Fore
+SplineSet
+406 -4 m 256
+ 409 -4 427 4 427 18 c 256
+ 427 31 451 113 473 174 c 256
+ 477 185 472 196 461 196 c 256
+ 448 196 436 184 432 175 c 256
+ 414 134 384 111 343 111 c 258
+ 205 111 l 258
+ 197 111 186 115 193 119 c 256
+ 246 151 278 166 318 203 c 256
+ 350 233 370 275 370 309 c 256
+ 370 375 318 437 233 437 c 256
+ 79 437 17 331 17 321 c 256
+ 17 310 19 296 31 296 c 256
+ 42 296 46 302 54 308 c 257
+ 81 331 110 341 137 341 c 256
+ 185 341 211 312 211 267 c 256
+ 211 191 159 128 90 77 c 256
+ 73 65 39 36 21 18 c 256
+ 17 14 14 10 14 6 c 256
+ 14 1 18 -3 21 -3 c 256
+ 27 -3 126 0 194 0 c 256
+ 264 0 391 -4 406 -4 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 1394 -20 "'kern' Horizontal Kerning lookup 0 subtable" 3186 -75 "'kern' Horizontal Kerning lookup 0 subtable"
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" two.lf
+Substitution2: "'tnum' Tabular Numbers lookup 18 subtable" two.tosf
+Substitution2: "'lnum' Lining Figures lookup 16 subtable" two.lf
+Comment: "+AAoA-two+AAoA"
+EndChar

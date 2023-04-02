@@ -1,0 +1,63 @@
+StartChar: nine.lf
+Encoding: 1109 -1 1108
+GlifName: nine.lf
+Width: 467
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+-23 -31 m 256
+ 186 -31 488 267 488 471 c 256
+ 488 558 439 629 368 629 c 256
+ 255 629 111 501 111 396 c 256
+ 111 342 154 304 207 304 c 256
+ 241 304 286 326 303 337 c 256
+ 316 345 334 359 344 372 c 256
+ 345 373 348 378 348 380 c 256
+ 348 383 345 385 341 383 c 256
+ 314 371 297 357 259 357 c 256
+ 221 357 195 396 195 443 c 256
+ 195 513 260 593 326 593 c 256
+ 376 593 405 534 405 465 c 256
+ 405 286 149 -13 -18 -13 c 256
+ -29 -13 -35 -17 -35 -23 c 256
+ -35 -27 -33 -31 -23 -31 c 256
+EndSplineSet
+Fore
+SplineSet
+-8 -31 m 256
+ 201 -31 503 267 503 471 c 256
+ 503 558 454 629 383 629 c 256
+ 270 629 126 501 126 396 c 256
+ 126 342 172 298 225 298 c 256
+ 259 298 304 323 321 334 c 256
+ 334 342 350 356 360 369 c 256
+ 361 370 363 378 363 380 c 256
+ 363 383 360 385 356 383 c 256
+ 329 371 312 357 274 357 c 256
+ 236 357 210 396 210 443 c 256
+ 210 513 275 593 341 593 c 256
+ 391 593 420 534 420 465 c 256
+ 420 286 166 -8 -1 -9 c 256
+ -12 -9 -19 -15 -19 -21 c 256
+ -19 -25 -18 -31 -8 -31 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|six.lf
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|six.lf
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 18 subtable" nine.osf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" nine
+Comment: "+AAoA-nine.lnum+AAoA"
+EndChar

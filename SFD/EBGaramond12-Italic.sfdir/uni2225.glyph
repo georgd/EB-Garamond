@@ -1,11 +1,22 @@
 StartChar: uni2225
-Encoding: 8741 8741 877
+Encoding: 2773 8741 2772
+GlifName: uni2225
 Width: 380
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 106 124 N 1 0 0 1 120 0 2
-Refer: 106 124 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 2770 8739 N 1 0 0 1 0 0 2
+Refer: 2770 8739 N 1 0 0 1 120 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni2223
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni2223
+p4
+s."
+Comment: "+AAoA-uni2225+AAoA"
 EndChar

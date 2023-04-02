@@ -1,11 +1,41 @@
 StartChar: uni0122.sc
-Encoding: 66231 -1 1823
+Encoding: 1501 -1 1500
+GlifName: uni0122.sc
 Width: 487
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 402 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 129 806 N 1 0 0 1 167 0 2
-Refer: 1645 -1 N 1 0 0 1 0 0 3
-Comment: "."
+Refer: 143 -1 N 1 0 0 1 0 0 2
+Refer: 1859 806 N 1 0 0 1 328 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VG.sc
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0326
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni0122.sc+AAoA"
 EndChar

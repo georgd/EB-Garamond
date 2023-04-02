@@ -1,11 +1,19 @@
 StartChar: uni1E8D
-Encoding: 7821 7821 494
+Encoding: 2284 7821 2283
+GlifName: uni1E_8D_
 Width: 438
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "top" 280 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 624 776 N 1 0 0 1 180 0 2
-Refer: 53 120 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" x uni0308
+Refer: 3004 120 N 1 0 0 1 0 0 2
+Refer: 718 168 N 1 0 0 1 58 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E8D+AAoA"
 EndChar

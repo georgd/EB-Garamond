@@ -1,0 +1,41 @@
+StartChar: tugrik
+Encoding: 1479 8366 1478
+GlifName: tugrik
+Width: 670
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 328 -30 basechar 0
+AnchorPoint: "top.cap" 340 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+132 274 m 257
+ 543 430 l 257
+ 557 435 560 450 560 465 c 257
+ 560 473 551 476 544 473 c 257
+ 129 309 l 257
+ 116 305 113 287 116 280 c 256
+ 118 275 125 271 132 274 c 257
+132 160 m 257
+ 543 316 l 257
+ 557 321 560 336 560 351 c 257
+ 560 359 551 362 544 359 c 257
+ 129 195 l 257
+ 116 191 113 173 116 166 c 256
+ 118 161 125 157 132 160 c 257
+EndSplineSet
+Refer: 375 84 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VT
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.99,0.62,0.11,1
+p5
+s."
+EndChar

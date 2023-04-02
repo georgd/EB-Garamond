@@ -1,0 +1,52 @@
+StartChar: arrowboth
+Encoding: 551 8596 550
+GlifName: arrowboth
+Width: 1016
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+347 95 m 256
+ 351 95 354 100 354 107 c 256
+ 354 112 351 118 348 123 c 257
+ 295 204 274 231 249 262 c 257
+ 817 262 l 257
+ 792 231 771 204 718 123 c 257
+ 715 118 712 112 712 107 c 256
+ 712 100 715 95 719 95 c 256
+ 734 95 749 111 755 116 c 257
+ 838 192 873 214 988 270 c 257
+ 1001 278 1007 282 1007 293 c 256
+ 1007 301 998 310 984 316 c 257
+ 861 390 838 406 755 482 c 257
+ 749 487 734 503 719 503 c 256
+ 710 503 710 491 718 475 c 257
+ 769 385 789 356 824 323 c 257
+ 242 323 l 257
+ 277 356 297 385 348 475 c 257
+ 356 491 356 503 347 503 c 256
+ 332 503 317 487 311 482 c 257
+ 228 406 205 390 82 316 c 257
+ 68 310 59 301 59 293 c 256
+ 59 282 65 278 78 270 c 257
+ 193 214 228 192 311 116 c 257
+ 317 111 332 95 347 95 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Varrowleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Varrowright
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'ss03' Style Set 3 in Latin lookup 34 subtable" a r r o w b o t h
+Comment: "+AAoA-arrowboth+AAoA"
+EndChar

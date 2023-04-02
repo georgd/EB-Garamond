@@ -1,11 +1,49 @@
 StartChar: plus.sinf
-Encoding: 65719 -1 1311
-Width: 390
-VWidth: -144
-Flags: MW
+Encoding: 1243 -1 1242
+GlifName: plus.sinf
+Width: 394
+VWidth: 0
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+157 29 m 257
+ 192 143 l 257
+ 193 147 191 151 186 151 c 256
+ 182 151 158 146 154 133 c 258
+ 122 30 l 257
+ 121 26 120 25 116 25 c 258
+ 2 25 l 258
+ -11 25 -20 1 -22 -4 c 257
+ -23 -8 -20 -11 -15 -11 c 258
+ 107 -11 l 258
+ 109 -11 110 -12 109 -14 c 257
+ 70 -140 l 257
+ 69 -144 70 -149 74 -149 c 256
+ 80 -149 103 -147 107 -134 c 258
+ 144 -13 l 257
+ 145 -11 146 -11 148 -11 c 258
+ 259 -11 l 258
+ 272 -11 280 4 288 17 c 257
+ 290 21 287 25 282 25 c 258
+ 159 25 l 258
+ 157 25 156 25 157 29 c 257
+EndSplineSet
 Fore
-Refer: 1209 -1 N 1 0 0 1 -44 -144 2
-Validated: 1
-Comment: "."
+Refer: 1240 -1 N 1 0 0 1 -132 -428 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vplus.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vplus.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-plus.sinf+AAoA"
 EndChar

@@ -1,27 +1,40 @@
 StartChar: acutecomb
-Encoding: 769 769 2705
+Encoding: 512 769 511
 GlifName: acutecomb
 Width: 0
 VWidth: 0
-Flags: HM
-AnchorPoint: "top_accent" 46 550 mark 0
-LayerCount: 3
+AnchorPoint: "top" -46 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+23 456 m 256
+ 31 456 45 469 53 478 c 256
+ 77 504 137 572 161 607 c 256
+ 167 616 171 623 171 626 c 256
+ 171 642 147 649 122 649 c 256
+ 112 649 101 641 95 631 c 256
+ 76 598 14 484 14 469 c 256
+ 14 460 14 456 23 456 c 256
+EndSplineSet
 Fore
 SplineSet
-53 478 m 0
- 45 469 31 456 23 456 c 0
- 14 456 14 460 14 469 c 0
- 14 484 76 598 95 631 c 0
- 101 641 112 649 122 649 c 0
- 147 649 171 642 171 626 c 0
- 171 612 84 511 53 478 c 0
+-70 457 m 256
+ -63 457 -53 464 -39 478 c 256
+ -13 504 45 572 69 607 c 256
+ 75 616 79 620 79 628 c 256
+ 79 642 55 649 30 649 c 256
+ 20 649 9 641 3 631 c 256
+ -13 604 -60 521 -74 484 c 256
+ -77 476 -78 470 -78 466 c 256
+ -78 459 -75 457 -70 457 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" acutecomb.sc
-Substitution2: "Single Substitution lookup 24 subtable" acutecomb.grkstack
-Substitution2: "Single Substitution lookup 22 subtable" acutecomb.grk
-Substitution2: "Single Substitution lookup 17 subtable" acutecomb.stack
-Substitution2: "Single Substitution lookup 15 subtable" acutecomb.flat
-Substitution2: "Single Substitution lookup 13 subtable" acutecomb.flat
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" acutecomb.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" acutecomb.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" acutecomb.sc
+Comment: "+AAoA-acutecomb+AAoA"
 EndChar

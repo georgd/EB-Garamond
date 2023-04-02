@@ -1,20 +1,25 @@
 StartChar: hyphen.cap
-Encoding: 1115128 -1 2840
+Encoding: 986 -1 985
 GlifName: hyphen.cap
 Width: 286
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-39 297 m 1
- 35 297 l 2
- 30 297 29 299 29 303 c 8
- 29 328 35 364 45 365 c 0
- 109 374 185 383 249 390 c 0
- 253 390 257 388 257 384 c 0
- 255 359 252 324 236 322 c 0
- 176 313 103 304 39 297 c 1
+35 297 m 256
+ 106 304 177 313 236 322 c 256
+ 252 324 255 359 257 384 c 257
+ 257 388 253 390 249 390 c 257
+ 185 383 109 374 45 365 c 257
+ 35 364 29 328 29 303 c 256
+ 29 299 30 297 35 297 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.99,0.62,0.11,1
+p2
+s."
+Comment: "+AAoA-hyphen.cap+AAoA"
 EndChar

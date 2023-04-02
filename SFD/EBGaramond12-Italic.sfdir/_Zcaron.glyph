@@ -1,12 +1,65 @@
 StartChar: Zcaron
-Encoding: 381 381 286
-Width: 636
+Encoding: 490 381 489
+GlifName: Z_caron
+Width: 635
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 266 -30 basechar 0
+AnchorPoint: "top.cap" 423 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+614 822 m 256
+ 601 822 498 778 471 767 c 256
+ 461 763 451 760 443 767 c 256
+ 421 785 365 823 352 823 c 256
+ 343 823 338 818 338 812 c 256
+ 338 808 340 805 344 800 c 257
+ 416 718 l 258
+ 426 707 443 696 453 696 c 256
+ 463 696 477 704 498 718 c 258
+ 622 800 l 257
+ 627 804 629 808 629 812 c 256
+ 629 818 623 822 614 822 c 256
+189 -2 m 256
+ 272 -2 427 -5 533 -5 c 256
+ 542 -5 549 4 555 12 c 256
+ 573 36 631 139 631 150 c 256
+ 631 159 630 171 624 171 c 256
+ 615 171 601 150 596 142 c 257
+ 556 72 500 45 454 41 c 256
+ 409 38 299 36 257 36 c 256
+ 216 36 179 38 153 41 c 256
+ 143 42 147 62 155 70 c 257
+ 330 262 431 364 616 550 c 258
+ 697 631 l 258
+ 702 636 699 649 693 649 c 256
+ 624 647 554 646 477 646 c 256
+ 435 646 367 646 319 647 c 256
+ 286 648 251 652 235 652 c 256
+ 230 652 215 651 209 636 c 256
+ 192 594 155 526 155 512 c 256
+ 155 505 157 493 166 493 c 256
+ 175 493 186 508 193 520 c 256
+ 229 580 260 602 290 604 c 256
+ 314 606 372 606 408 606 c 256
+ 457 606 510 605 543 604 c 256
+ 565 603 557 593 552 588 c 257
+ 375 395 269 290 86 104 c 256
+ 55 73 7 21 4 11 c 257
+ 4 11 0 -3 6 -3 c 258
+ 78 -3 l 258
+ 113 -3 152 -2 189 -2 c 256
+EndSplineSet
 Fore
-Refer: 2083 -1 N 1 0 0 1 333 0 2
-Refer: 64 90 N 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Zcaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" Z uni030C.cap
+Refer: 479 90 N 1 0 0 1 0 0 2
+Refer: 1811 -1 N 1 0 0 1 269 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Zcaron.sc
+Comment: "+AAoA-Zcaron+AAoA"
 EndChar

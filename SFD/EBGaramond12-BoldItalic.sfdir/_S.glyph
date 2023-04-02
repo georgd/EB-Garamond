@@ -1,0 +1,83 @@
+StartChar: S
+Encoding: 353 83 352
+GlifName: S_
+Width: 539
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 185 -30 basechar 0
+AnchorPoint: "top.cap" 416 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+227 -14 m 256
+ 386 -14 483 102 483 205 c 256
+ 483 283 451 326 387 379 c 256
+ 318 437 280 460 280 524 c 256
+ 280 573 323 612 386 612 c 256
+ 430 612 508 575 502 481 c 256
+ 500 450 507 437 521 437 c 256
+ 535 437 541 446 545 460 c 256
+ 560 511 593 590 619 624 c 256
+ 628 636 625 648 611 648 c 256
+ 601 648 591 643 581 637 c 256
+ 572 632 565 631 555 631 c 256
+ 538 631 525 636 498 644 c 256
+ 469 653 427 664 376 664 c 256
+ 234 664 132 577 132 465 c 256
+ 132 384 162 337 228 279 c 256
+ 301 214 331 184 331 141 c 256
+ 331 83 285 44 206 44 c 256
+ 122 44 86 95 86 158 c 256
+ 86 205 84 226 65 226 c 256
+ 48 226 41 216 37 191 c 256
+ 27 115 -17 39 -17 24 c 256
+ -17 14 -1 0 7 0 c 256
+ 13 0 22 6 32 12 c 256
+ 39 16 49 20 58 20 c 256
+ 62 20 76 15 95 7 c 256
+ 132 -9 176 -14 227 -14 c 256
+EndSplineSet
+Fore
+SplineSet
+227 -14 m 256
+ 386 -14 482 96 482 199 c 256
+ 482 267 460 319 378 387 c 256
+ 296 455 280 477 280 524 c 256
+ 280 571 311 624 384 624 c 256
+ 455 624 502 567 502 481 c 256
+ 502 450 507 437 521 437 c 256
+ 535 437 541 446 545 460 c 256
+ 560 511 593 590 619 624 c 256
+ 628 636 625 648 611 648 c 256
+ 601 648 591 643 581 637 c 256
+ 572 632 565 631 555 631 c 256
+ 538 631 525 636 498 644 c 256
+ 469 653 427 664 376 664 c 256
+ 234 664 132 577 132 465 c 256
+ 132 384 162 337 228 279 c 256
+ 314 203 331 177 331 134 c 256
+ 331 77 288 29 209 29 c 256
+ 125 29 86 95 86 158 c 256
+ 86 205 84 226 65 226 c 256
+ 48 226 41 216 37 191 c 256
+ 27 115 -17 39 -17 24 c 256
+ -17 14 -1 0 7 0 c 256
+ 13 0 22 6 32 12 c 256
+ 39 16 49 20 58 20 c 256
+ 62 20 76 15 95 7 c 256
+ 132 -9 176 -14 227 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" S.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" S.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" S.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" S.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" S.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" S.subs
+Comment: "+AAoA-S+AAoA"
+EndChar

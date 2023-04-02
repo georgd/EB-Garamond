@@ -1,11 +1,13 @@
 StartChar: u.LAT
-Encoding: 66336 -1 1935
-Width: 395
+Encoding: 1437 -1 1436
+GlifName: u.L_A_T_
+Width: 410
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 137 -30 basechar 0
+AnchorPoint: "top" 265 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 22 118 N 1 0 0 1 0 0 2
-Substitution2: "Single Substitution lookup 82 subtable" u.LATmedi
-Substitution2: "Smallcaps1 subtable" u.sc
+Refer: 2970 118 N 1 0 0 1 0 0 2
+Comment: "+AAoA-u.LAT+AAoA"
 EndChar

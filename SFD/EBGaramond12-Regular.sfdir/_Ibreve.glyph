@@ -1,14 +1,52 @@
 StartChar: Ibreve
-Encoding: 300 300 218
+Encoding: 188 300 188
 GlifName: I_breve
 Width: 340
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 170 -30 basechar 0
+AnchorPoint: "top.cap" 170 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+70 799 m 257
+ 64 807 56 820 46 820 c 256
+ 40 820 36 809 36 796 c 256
+ 36 756 88 692 173 692 c 256
+ 258 692 310 756 310 796 c 256
+ 310 809 310 820 300 820 c 256
+ 290 820 282 807 276 799 c 257
+ 249 767 216 752 173 752 c 256
+ 130 752 97 767 70 799 c 257
+130 550 m 258
+ 130 98 l 258
+ 130 51 102 33 52 24 c 256
+ 29 20 19 15 19 6 c 256
+ 19 -2 31 -5 48 -5 c 256
+ 102 -5 126 0 176 0 c 256
+ 222 0 239 -5 293 -5 c 256
+ 310 -5 322 -2 322 6 c 256
+ 322 15 312 20 289 24 c 256
+ 239 33 210 51 210 98 c 258
+ 210 550 l 258
+ 210 597 231 613 281 622 c 256
+ 304 626 314 633 314 642 c 256
+ 314 650 302 653 285 653 c 256
+ 231 653 219 650 176 650 c 256
+ 130 650 113 653 59 653 c 256
+ 42 653 30 650 30 642 c 256
+ 30 633 40 626 63 622 c 256
+ 113 613 130 597 130 550 c 258
+EndSplineSet
 Fore
-Refer: 988 -1 S 1 0 0 1 31 0 2
-Refer: 33 73 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Ibreve.sc
-MultipleSubs2: "CCMP_Precomp subtable" I uni0306.cap
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 1918 -1 N 1 0 0 1 170 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Ibreve.sc
+Comment: "+AAoA-Ibreve+AAoA"
 EndChar

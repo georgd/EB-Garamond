@@ -1,13 +1,20 @@
 StartChar: gdotaccent
-Encoding: 289 289 210
-Width: 365
+Encoding: 889 289 888
+GlifName: gdotaccent
+Width: 415
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 269 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 122 775 N 1 0 0 1 236 0 2
-Refer: 25 103 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" gdotaccent.sc
-MultipleSubs2: "CCMP_Precomp subtable" g uni0307
+Refer: 871 103 N 1 0 0 1 0 0 2
+Refer: 730 729 N 1 0 0 1 115 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" gdotaccent.sc
+Comment: "+AAoA-gdotaccent+AAoA"
 EndChar

@@ -1,10 +1,19 @@
 StartChar: uni0457
-Encoding: 1111 1111 679
-Width: 274
+Encoding: 2024 1111 2023
+GlifName: uni0457
+Width: 294
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 88 -30 basechar 0
+AnchorPoint: "top" 220 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 624 776 N 1 0 0 1 118 0 2
-Refer: 76 305 N 1 0 0 1 0 0 3
+Refer: 979 239 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0457+AAoA"
 EndChar

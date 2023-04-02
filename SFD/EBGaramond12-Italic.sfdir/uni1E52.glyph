@@ -1,12 +1,71 @@
 StartChar: uni1E52
-Encoding: 7762 7762 435
+Encoding: 2231 7762 2230
+GlifName: uni1E_52
 Width: 712
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 489 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+471 808 m 256
+ 515 820 624 853 646 865 c 257
+ 649 867 650 871 650 874 c 256
+ 650 886 634 924 610 924 c 256
+ 603 924 596 921 589 918 c 256
+ 555 904 452 840 434 821 c 257
+ 431 817 430 814 430 811 c 256
+ 430 806 437 803 444 803 c 256
+ 453 803 463 806 471 808 c 256
+645 772 m 258
+ 397 772 l 258
+ 378 772 373 744 373 735 c 256
+ 373 729 380 723 387 723 c 258
+ 627 723 l 258
+ 643 723 658 740 658 760 c 256
+ 658 766 651 772 645 772 c 258
+484 664 m 256
+ 254 664 89 456 89 226 c 256
+ 89 94 197 -14 329 -14 c 256
+ 565 -14 724 208 724 444 c 256
+ 724 571 611 664 484 664 c 256
+479 628 m 256
+ 564 628 642 569 642 484 c 256
+ 642 284 536 21 336 21 c 256
+ 245 21 171 95 171 186 c 256
+ 171 386 279 628 479 628 c 256
+EndSplineSet
 Fore
-Refer: 2101 -1 N 1 0 0 1 430 304 2
-Refer: 2077 -1 N 1 0 0 1 368 0 2
-Refer: 46 79 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" O uni0304.cap acutecomb.flat
+Refer: 302 332 N 1 0 0 1 0 0 2
+Refer: 515 -1 N 1 0 0 1 443 304 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VOmacron
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vacutecomb.flat
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-uni1E52+AAoA"
 EndChar

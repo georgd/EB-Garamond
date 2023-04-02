@@ -1,17 +1,25 @@
 StartChar: minus
-Encoding: 8722 8722 871
-Width: 600
-Flags: MW
+Encoding: 1087 8722 1086
+GlifName: minus
+Width: 595
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-64 222 m 2
- 57 222 50 228 50 234 c 0
- 50 243 53 282 74 282 c 2
- 537 282 l 2
- 544 282 552 275 550 268 c 0
- 544 247 541 222 519 222 c 2
- 64 222 l 2
+79 222 m 258
+ 534 222 l 258
+ 556 222 559 247 565 268 c 256
+ 567 275 559 282 552 282 c 258
+ 89 282 l 258
+ 68 282 65 243 65 234 c 256
+ 65 228 72 222 79 222 c 258
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-minus+AAoA"
 EndChar

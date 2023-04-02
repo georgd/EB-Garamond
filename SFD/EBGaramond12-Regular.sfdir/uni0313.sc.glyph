@@ -1,24 +1,38 @@
 StartChar: uni0313.sc
-Encoding: 1115078 -1 2790
+Encoding: 1968 -1 1967
 GlifName: uni0313.sc
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 59 550 mark 0
-AnchorPoint: "grk_top" 59 560 mark 0
-AnchorPoint: "grk_uc_top_left" 82 665 mark 0
-LayerCount: 3
+LayerCount: 2
+Back
+SplineSet
+-36 472 m 256
+ 16 472 60 516 60 569 c 256
+ 60 617 34 666 -13 666 c 256
+ -37 666 -60 651 -60 628 c 256
+ -60 605 -41 592 -18 588 c 256
+ -2 585 8 572 8 556 c 256
+ 8 527 -12 509 -39 496 c 256
+ -47 492 -56 489 -56 482 c 256
+ -56 477 -49 472 -36 472 c 256
+EndSplineSet
 Fore
 SplineSet
-42 588 m 0
- 19 592 0 605 0 628 c 0
- 0 651 23 666 47 666 c 0
- 94 666 120 617 120 569 c 0
- 120 516 76 472 24 472 c 0
- 11 472 4 477 4 482 c 0
- 4 489 13 492 21 496 c 0
- 48 509 68 527 68 556 c 0
- 68 572 58 585 42 588 c 0
+-41 472 m 256
+ 16 472 60 531 60 580 c 256
+ 60 628 32 666 -13 666 c 256
+ -37 666 -60 651 -60 628 c 256
+ -60 605 -41 596 -18 588 c 256
+ -2 582 10 568 10 552 c 256
+ 10 523 -9 501 -42 493 c 256
+ -50 491 -55 488 -55 481 c 256
+ -55 476 -49 472 -41 472 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0313.sc+AAoA"
 EndChar

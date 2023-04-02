@@ -1,14 +1,55 @@
 StartChar: uni1FC1
-Encoding: 8129 8129 565
+Encoding: 2740 8129 2739
 GlifName: uni1F_C_1
-Width: 337
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 150 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+52 629 m 256
+ 60 629 89 670 113 670 c 256
+ 138 670 196 646 221 646 c 256
+ 263 646 306 703 306 713 c 256
+ 306 723 300 730 290 730 c 256
+ 282 730 262 704 233 704 c 256
+ 208 704 151 729 126 729 c 256
+ 83 729 38 654 38 644 c 256
+ 38 634 42 629 52 629 c 256
+80 593 m 256
+ 55 593 30 568 30 543 c 256
+ 30 518 55 493 80 493 c 256
+ 105 493 130 518 130 543 c 256
+ 130 568 105 593 80 593 c 256
+257 593 m 256
+ 232 593 207 568 207 543 c 256
+ 207 518 232 493 257 493 c 256
+ 282 493 307 518 307 543 c 256
+ 307 568 282 593 257 593 c 256
+EndSplineSet
 Fore
-Refer: 2265 834 N 1 0 0 1 12 181 2
-Refer: 621 776 N 1 0 0 1 16 19 2
-Refer: 2713 -1 N 1 0 0 1 -1 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0308 uni0342
+Refer: 732 168 N 1 0 0 1 0 -15 2
+Refer: 2738 8128 N 1 0 0 1 6 159 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vdieresis
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni1FC1+AAoA"
 EndChar

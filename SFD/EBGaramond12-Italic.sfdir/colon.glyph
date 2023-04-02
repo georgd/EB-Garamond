@@ -1,25 +1,44 @@
 StartChar: colon
-Encoding: 58 58 70
-Width: 258
+Encoding: 678 58 677
+GlifName: colon
+Width: 216
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
-Fore
+Back
 SplineSet
-176 383 m 16
- 202 383 221 359 221 333 c 8
- 221 297 192 268 156 268 c 8
- 130 268 111 292 111 318 c 8
- 111 354 140 383 176 383 c 16
-95 101 m 16
- 121 101 140 77 140 51 c 8
- 140 15 111 -14 75 -14 c 8
- 49 -14 30 10 30 36 c 8
- 30 72 59 101 95 101 c 16
+79 101 m 256
+ 43 101 14 72 14 36 c 256
+ 14 10 33 -14 59 -14 c 256
+ 95 -14 124 15 124 51 c 256
+ 124 77 105 101 79 101 c 256
+160 383 m 256
+ 124 383 95 354 95 318 c 256
+ 95 292 114 268 140 268 c 256
+ 176 268 205 297 205 333 c 256
+ 205 359 186 383 160 383 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" colon.sups
-Substitution2: "sinf subtable" colon.sinf
-Substitution2: "ordn subtable" colon.ordn
-Substitution2: "subs subtable" colon.subs
+Fore
+Refer: 1222 46 N 1 0 0 1 86 276 2
+Refer: 1222 46 N 1 0 0 1 1 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vperiod
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vperiod
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" colon.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" colon.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" colon.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" colon.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" colon.subs
+Comment: "+AAoA-colon+AAoA"
 EndChar

@@ -1,0 +1,41 @@
+StartChar: uni0306.cyr
+Encoding: 1784 -1 1783
+GlifName: uni0306.cyr
+Width: 0
+VWidth: 0
+AnchorPoint: "top" 72 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+79 461 m 256
+ 153 461 232 523 251 592 c 256
+ 254 603 256 611 248 611 c 256
+ 239 611 235 606 224 590 c 256
+ 188 538 146 520 117 520 c 256
+ 75 520 53 536 65 572 c 256
+ 66 575 70 586 72 592 c 256
+ 78 610 74 626 45 626 c 256
+ 18 626 -11 603 -25 557 c 256
+ -39 512 -20 461 79 461 c 256
+EndSplineSet
+Fore
+SplineSet
+97 461 m 256
+ 201 461 252 570 252 595 c 256
+ 252 605 250 611 242 611 c 256
+ 233 611 229 606 219 589 c 256
+ 187 534 146 517 117 517 c 256
+ 82 517 65 530 65 554 c 256
+ 65 573 73 587 73 605 c 256
+ 73 617 61 626 39 626 c 256
+ 1 626 -26 594 -26 553 c 256
+ -26 513 9 461 97 461 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0306.cyr+AAoA"
+EndChar

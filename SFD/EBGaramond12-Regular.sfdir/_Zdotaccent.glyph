@@ -1,14 +1,62 @@
 StartChar: Zdotaccent
-Encoding: 379 379 283
+Encoding: 490 379 489
 GlifName: Z_dotaccent
 Width: 603
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 302 -30 basechar 0
+AnchorPoint: "top.cap" 315 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+315 805 m 256
+ 285 805 260 780 260 750 c 256
+ 260 720 285 695 315 695 c 256
+ 345 695 370 720 370 750 c 256
+ 370 780 345 805 315 805 c 256
+231 -2 m 256
+ 320 -2 419 -5 533 -5 c 256
+ 543 -5 547 4 551 12 c 256
+ 562 36 588 139 588 150 c 256
+ 588 159 585 163 579 163 c 256
+ 569 163 560 150 557 142 c 257
+ 529 76 481 45 433 41 c 256
+ 386 38 337 36 292 36 c 256
+ 248 36 208 38 179 41 c 257
+ 172 42 168 50 168 58 c 256
+ 168 62 169 67 171 70 c 256
+ 295 262 371 364 509 550 c 258
+ 570 631 l 258
+ 574 636 565 649 559 649 c 256
+ 485 647 411 646 328 646 c 256
+ 283 646 235 646 183 647 c 256
+ 154 647 118 649 110 655 c 256
+ 100 663 90 669 85 669 c 256
+ 80 669 71 667 70 652 c 256
+ 66 610 50 562 43 541 c 257
+ 40 533 36 522 36 514 c 256
+ 36 508 39 503 45 503 c 256
+ 60 503 68 523 73 535 c 257
+ 91 584 133 602 165 604 c 256
+ 190 606 228 606 267 606 c 256
+ 320 606 377 605 413 604 c 257
+ 428 603 432 600 432 596 c 256
+ 432 593 430 591 428 588 c 256
+ 301 395 222 290 86 104 c 256
+ 63 73 28 21 28 11 c 257
+ 28 11 29 -3 35 -3 c 258
+ 112 -3 l 258
+ 150 -3 191 -2 231 -2 c 256
+EndSplineSet
 Fore
-Refer: 1011 -1 N 1 0 0 1 255 0 2
-Refer: 64 90 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Zdotaccent.sc
-MultipleSubs2: "CCMP_Precomp subtable" Z uni0307.cap
+Refer: 478 90 N 1 0 0 1 0 0 2
+Refer: 1925 -1 N 1 0 0 1 315 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Zdotaccent.sc
+Comment: "+AAoA-Zdotaccent+AAoA"
 EndChar

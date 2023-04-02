@@ -1,34 +1,46 @@
 StartChar: multiply
-Encoding: 215 215 1024
+Encoding: 1090 215 1089
+GlifName: multiply
 Width: 600
-Flags: MW
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-290 299 m 2
- 295 294 295 296 297 298 c 2
- 441 441 l 2
- 443 444 447 446 451 446 c 0
- 455 446 458 444 460 441 c 0
- 470 422 486 401 470 386 c 2
- 339 255 l 2
- 337 253 337 252 339 250 c 2
- 482 107 l 2
- 497 92 472 62 465 56 c 0
- 463 54 460 53 457 53 c 0
- 453 53 450 54 447 57 c 2
- 298 207 l 2
- 296 209 293 209 291 207 c 2
- 148 64 l 2
- 143 59 134 59 130 63 c 0
- 124 69 98 99 113 114 c 2
- 247 248 l 2
- 251 252 250 254 246 258 c 2
- 125 379 l 2
- 110 394 132 429 136 434 c 0
- 141 439 150 439 155 434 c 2
- 290 299 l 2
+462 53 m 256
+ 473 53 492 77 492 95 c 256
+ 492 100 490 104 487 107 c 258
+ 344 250 l 258
+ 342 252 342 253 344 255 c 258
+ 475 386 l 258
+ 480 391 482 396 482 401 c 256
+ 482 413 472 428 465 441 c 257
+ 463 444 459 446 456 446 c 256
+ 452 446 449 444 446 441 c 258
+ 302 298 l 258
+ 300 296 300 294 295 299 c 258
+ 160 434 l 258
+ 155 439 146 439 141 434 c 257
+ 138 430 125 409 125 393 c 256
+ 125 388 126 383 130 379 c 258
+ 251 258 l 258
+ 255 254 256 252 252 248 c 258
+ 118 114 l 258
+ 115 111 113 106 113 102 c 256
+ 113 87 130 68 135 63 c 256
+ 139 59 148 59 153 64 c 258
+ 296 207 l 258
+ 298 209 301 209 303 207 c 258
+ 452 57 l 258
+ 455 54 458 53 462 53 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "Smallcaps1 subtable" multiply.sc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" multiply.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" multiply.sc
+Comment: "+AAoA-multiply+AAoA"
 EndChar

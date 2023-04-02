@@ -1,23 +1,18 @@
 StartChar: dieresis.sc
-Encoding: 1114705 -1 1704
+Encoding: 734 -1 733
 GlifName: dieresis.sc
-Width: 0
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 150 419 mark 0
+LayerCount: 2
 Fore
-SplineSet
-247 574 m 0
- 272 574 297 549 297 524 c 0
- 297 499 272 474 247 474 c 0
- 222 474 197 499 197 524 c 0
- 197 549 222 574 247 574 c 0
-70 574 m 0
- 95 574 120 549 120 524 c 0
- 120 499 95 474 70 474 c 0
- 45 474 20 499 20 524 c 0
- 20 549 45 574 70 574 c 0
-EndSplineSet
-Validated: 1
-Comment: "."
+Refer: 1933 -1 N 1 0 0 1 150 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-dieresis.sc+AAoA"
 EndChar

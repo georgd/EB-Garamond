@@ -1,20 +1,32 @@
 StartChar: uni02BF
-Encoding: 703 703 2106
-Width: 198
+Encoding: 1752 703 1751
+GlifName: uni02B_F_
+Width: 200
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 89 531 mark 0
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-232 430 m 0
- 184 430 139 461 139 509 c 0
- 139 594 235 650 304 650 c 0
- 311 650 320 648 320 643 c 0
- 320 632 300 626 289 622 c 0
- 246 606 204 577 204 527 c 0
- 204 492 230.224609375 463.961914062 265 460 c 0
- 269.967773438 459.43359375 278 458 278 453 c 0
- 278 440 252 430 232 430 c 0
-EndSplineSet
+Refer: 1750 702 N -1 0 0 -1 399 1041 2
+Guideline: "" "" 429 631 0 0 0
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni02BE
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni02BF+AAoA"
 EndChar

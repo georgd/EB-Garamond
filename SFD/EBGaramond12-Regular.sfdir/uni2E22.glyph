@@ -1,22 +1,25 @@
 StartChar: uni2E22
-Encoding: 11810 11810 2369
+Encoding: 3068 11810 3067
 GlifName: uni2E_22
-Width: 373
+Width: 331
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-112 668 m 2
- 112 702 118 702 150 702 c 10
- 315 701 l 26
- 324 701 333 698 333 688 c 0
- 333 678 320 674 307 673 c 2
- 199 667 l 2
- 184 667 160 643 160 624 c 2
- 160 404 l 9
- 112 404 l 25
- 112 668 l 2
-EndSplineSet
-Validated: 1
+Refer: 3069 11812 N 1 0 0 -1 0 502 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni2E24
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni2E24
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni2E22+AAoA"
 EndChar

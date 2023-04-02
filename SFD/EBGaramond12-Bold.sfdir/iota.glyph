@@ -1,0 +1,44 @@
+StartChar: iota
+Encoding: 1021 953 1020
+GlifName: iota
+Width: 299
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 135 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+156 -15 m 256
+ 241 -15 289 54 289 106 c 256
+ 289 121 281 127 272 127 c 256
+ 261 127 237 121 215 121 c 256
+ 192 121 171 124 171 144 c 256
+ 171 207 199 352 199 401 c 256
+ 199 424 186 437 133 437 c 256
+ 89 437 56 431 56 409 c 258
+ 55 116 l 258
+ 55 29 99 -15 156 -15 c 256
+EndSplineSet
+Fore
+SplineSet
+166 -15 m 256
+ 251 -15 289 54 289 106 c 256
+ 289 121 281 127 272 127 c 256
+ 261 127 237 121 215 121 c 256
+ 192 121 171 124 171 144 c 256
+ 171 207 199 352 199 401 c 256
+ 199 424 186 437 133 437 c 256
+ 89 437 66 431 66 409 c 258
+ 65 116 l 258
+ 65 29 109 -15 166 -15 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.98,0.36,0.67,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" iota.sc
+Comment: "+AAoA-iota+AAoA"
+EndChar

@@ -1,49 +1,93 @@
 StartChar: T
-Encoding: 84 84 34
-Width: 635
+Encoding: 373 84 372
+GlifName: T_
+Width: 622
 VWidth: 0
-Flags: MW
-AnchorPoint: "cedilla" 290 18 basechar 0
-AnchorPoint: "below_accent" 247 -100 basechar 0
-AnchorPoint: "top_accent" 450 710 basechar 0
+Flags: W
+AnchorPoint: "bottom.cap" 280 -30 basechar 0
+AnchorPoint: "top.cap" 455 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+147 -5 m 256
+ 197 -5 221 0 268 0 c 256
+ 310 0 325 -5 375 -5 c 256
+ 391 -5 405 -2 405 6 c 256
+ 405 15 400 18 380 22 c 256
+ 336 31 316 54 330 102 c 258
+ 460 557 l 258
+ 473 595 485 607 511 607 c 258
+ 623 607 l 258
+ 690 607 674 525 674 520 c 256
+ 674 506 679 497 688 497 c 256
+ 693 497 697 500 699 511 c 256
+ 709 565 727 614 734 627 c 256
+ 738 634 744 646 744 655 c 256
+ 744 661 742 666 734 666 c 256
+ 729 666 724 661 717 655 c 256
+ 710 649 699 642 684 642 c 258
+ 238 642 l 258
+ 219 642 211 648 205 654 c 256
+ 199 660 192 666 187 666 c 256
+ 182 666 173 655 170 646 c 256
+ 160 611 141 575 128 548 c 256
+ 120 531 118 519 118 517 c 256
+ 118 506 121 504 129 504 c 256
+ 140 504 153 530 168 553 c 256
+ 190 585 226 607 265 607 c 258
+ 366 607 l 258
+ 391 607 396 591 390 570 c 258
+ 256 102 l 258
+ 242 54 209 31 160 22 c 256
+ 137 18 123 15 123 6 c 256
+ 123 -2 131 -5 147 -5 c 256
+EndSplineSet
 Fore
 SplineSet
-327 102 m 6
- 313 54 333 31 377 22 c 4
- 397 18 402 15 402 6 c 4
- 402 -2 388 -5 372 -5 c 4
- 322 -5 307 0 265 0 c 28
- 218 0 194 -5 144 -5 c 4
- 128 -5 120 -2 120 6 c 4
- 120 15 134 18 157 22 c 4
- 206 31 239 54 253 102 c 6
- 383 557 l 6
- 389 575 393 607 379 607 c 4
- 349 607 289 607 250 607 c 4
- 194 607 161 560 142 524 c 4
- 135 511 131 506 123 506 c 4
- 115 506 115 506 115 517 c 4
- 115 522 143 596 161 646 c 4
- 164 655 169 666 174 666 c 4
- 184 666 184 642 223 642 c 6
- 691 642 l 6
- 720 642 733 666 743 666 c 0
- 746 666 749 658 749 650 c 0
- 749 643 745 634 741 627 c 0
- 734 614 714 565 706 511 c 0
- 704 500 700 497 695 497 c 0
- 686 497 681 506 681 520 c 0
- 681 525 697 607 630 607 c 4
- 582 607 507 607 488 607 c 4
- 474 607 463 575 457 557 c 6
- 327 102 l 6
+147 -5 m 256
+ 197 -5 221 0 268 0 c 256
+ 310 0 325 -5 375 -5 c 256
+ 391 -5 405 -2 405 6 c 256
+ 405 15 400 18 380 22 c 256
+ 336 31 316 54 330 102 c 258
+ 451 527 l 258
+ 472 603 481 614 507 614 c 258
+ 607 614 l 258
+ 657 614 674 581 674 520 c 256
+ 674 506 679 497 688 497 c 256
+ 693 497 697 500 699 511 c 256
+ 709 565 727 614 734 627 c 256
+ 738 634 744 646 744 655 c 256
+ 744 661 742 666 734 666 c 256
+ 729 666 724 661 717 655 c 256
+ 710 649 699 642 638 642 c 258
+ 281 642 l 258
+ 219 642 211 648 205 654 c 256
+ 199 660 192 666 187 666 c 256
+ 182 666 173 655 170 646 c 256
+ 160 611 141 575 128 548 c 256
+ 120 531 118 519 118 517 c 256
+ 118 506 121 504 129 504 c 256
+ 140 504 154 532 172 553 c 256
+ 196 582 227 614 292 614 c 258
+ 375 614 l 258
+ 392 614 397 598 378 530 c 258
+ 256 102 l 258
+ 242 54 209 31 160 22 c 256
+ 137 18 123 15 123 6 c 256
+ 123 -2 131 -5 147 -5 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "Swash subtable" T.sw
-Substitution2: "c2sc subtable" T.sc
-Substitution2: "sups subtable" T.sups
-Substitution2: "sinf subtable" T.sinf
-Substitution2: "ordn subtable" T.ordn
-Substitution2: "subs subtable" T.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" T.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" T.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" T.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" T.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" T.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" T.subs
+Comment: "+AAoA-T+AAoA"
 EndChar

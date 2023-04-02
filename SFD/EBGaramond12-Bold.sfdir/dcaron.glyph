@@ -1,0 +1,80 @@
+StartChar: dcaron
+Encoding: 725 271 724
+GlifName: dcaron
+Width: 591
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 252 -30 basechar 0
+LayerCount: 2
+Back
+SplineSet
+402 -19 m 256
+ 408 -19 419 -15 423 -13 c 257
+ 452 -1 488 14 540 21 c 257
+ 545 21 554 24 554 35 c 256
+ 554 47 546 49 539 48 c 256
+ 529 47 503 45 493 45 c 256
+ 477 45 472 68 472 110 c 258
+ 472 562 l 258
+ 472 652 479 686 479 698 c 257
+ 478 702 476 704 472 704 c 256
+ 469 704 464 703 459 701 c 256
+ 440 693 410 679 351 664 c 256
+ 345 662 343 657 343 652 c 256
+ 343 646 346 640 352 639 c 256
+ 384 633 402 620 402 566 c 258
+ 402 408 l 258
+ 402 390 401 384 398 384 c 256
+ 396 384 392 388 388 393 c 256
+ 382 400 338 414 310 414 c 256
+ 170 414 85 306 85 190 c 256
+ 85 89 156 -14 270 -14 c 256
+ 336 -14 381 26 401 57 c 257
+ 401 51 l 258
+ 401 34 396 0 396 -13 c 256
+ 396 -16 398 -19 402 -19 c 256
+307 31 m 256
+ 263 31 159 62 159 213 c 256
+ 159 347 240 379 279 379 c 256
+ 357 379 402 311 402 255 c 258
+ 402 120 l 258
+ 402 72 363 31 307 31 c 256
+518 512 m 256
+ 524 512 531 520 539 537 c 256
+ 557 574 572 638 572 675 c 256
+ 572 691 571 705 559 705 c 256
+ 538 705 509 678 509 657 c 256
+ 509 641 514 621 514 584 c 256
+ 514 569 511 540 511 535 c 256
+ 511 522 514 512 518 512 c 256
+EndSplineSet
+Fore
+Refer: 707 100 N 1 0 0 1 0 0 2
+Refer: 1943 -1 N 1 0 0 1 604 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vd
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+g7
+sVpublic.markColor
+p9
+V0.67,0.95,0.38,1
+p10
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" dcaron.sc
+Comment: "+AAoA-dcaron+AAoA"
+EndChar

@@ -1,0 +1,38 @@
+StartChar: one.sc
+Encoding: 1215 -1 1214
+GlifName: one.sc
+Width: 348
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+40 -5 m 256
+ 109 -5 119 2 173 2 c 256
+ 227 2 235 -5 307 -5 c 256
+ 317 -5 327 3 327 11 c 256
+ 327 20 318 28 308 29 c 256
+ 267 33 246 39 246 92 c 258
+ 246 358 l 258
+ 246 411 270 417 311 421 c 256
+ 321 422 328 430 328 439 c 256
+ 328 447 320 455 310 455 c 256
+ 238 455 227 448 173 448 c 256
+ 119 448 110 455 41 455 c 256
+ 30 455 21 445 21 436 c 256
+ 21 428 31 423 41 421 c 256
+ 66 416 101 414 101 358 c 258
+ 101 92 l 258
+ 101 36 65 32 40 29 c 256
+ 33 29 20 22 20 14 c 256
+ 20 5 28 -5 40 -5 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-one.sc+AAoA"
+EndChar

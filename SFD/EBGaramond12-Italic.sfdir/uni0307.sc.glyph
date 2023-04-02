@@ -1,17 +1,17 @@
 StartChar: uni0307.sc
-Encoding: 66467 -1 2458
+Encoding: 1791 -1 1790
+GlifName: uni0307.sc
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 51 550 mark 0
+AnchorPoint: "top" 70 439 mark 0
 LayerCount: 2
 Fore
-SplineSet
-66 613 m 16
- 87 613 100 591 100 570 c 16
- 100 540 75 513 45 513 c 8
- 25 513 10 532 10 552 c 8
- 10 584 34 613 66 613 c 16
-EndSplineSet
-Validated: 1
+Refer: 1789 -1 N 1 0 0 1 -64 -208 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0307.sc+AAoA"
 EndChar

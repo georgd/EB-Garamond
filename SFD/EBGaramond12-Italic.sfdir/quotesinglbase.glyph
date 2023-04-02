@@ -1,32 +1,25 @@
 StartChar: quotesinglbase
-Encoding: 8218 8218 56
-Width: 210
+Encoding: 1279 8218 1278
+GlifName: quotesinglbase
+Width: 215
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
-Back
-SplineSet
-111 29 m 0
- 85 32 73 49 80 71 c 0
- 88 98 119 117 146 117 c 0
- 191 117 210 76 193 20 c 0
- 162 -81 58 -145 10 -147 c 0
- 9 -147 9 -147 8 -147 c 0
- -13 -147 -8 -128 12 -124 c 0
- 55 -115 113 -85 134 -15 c 0
- 139 1 131 27 111 29 c 0
-EndSplineSet
 Fore
-SplineSet
-45 60 m 0
- 42 61 30 70 30 80 c 0
- 30 103 58 120 93 120 c 0
- 127 120 151 84 151 50 c 0
- 151 -50 55 -129 -6 -129 c 8
- -16 -129 -30 -128 -30 -121 c 0
- -30 -115 -20 -112 -5 -104 c 0
- 53 -73 91 -25 91 25 c 0
- 91 48 63 56 45 60 c 0
-EndSplineSet
-Validated: 1
+Refer: 684 44 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vcomma
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vcomma
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-quotesinglbase+AAoA"
 EndChar

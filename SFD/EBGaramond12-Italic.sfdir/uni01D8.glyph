@@ -1,12 +1,51 @@
 StartChar: uni01D8
-Encoding: 472 472 303
+Encoding: 1608 472 1607
+GlifName: uni01D_8
 Width: 498
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 167 -30 basechar 0
+AnchorPoint: "top" 329 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 2109 -1 N 1 0 0 1 364 123 2
-Refer: 624 776 N 1 0 0 1 260 0 2
-Refer: 15 117 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" u uni0308 acutecomb.stack
+Refer: 1435 117 N 1 0 0 1 0 0 2
+Refer: 718 168 N 1 0 0 1 107 0 2
+Refer: 521 -1 N 1 0 0 1 315 133 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vu
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vdieresis
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vacutecomb.stack
+p11
+sasVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni01D8+AAoA"
 EndChar

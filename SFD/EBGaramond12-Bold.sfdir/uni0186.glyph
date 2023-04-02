@@ -1,0 +1,50 @@
+StartChar: uni0186
+Encoding: 1585 390 1584
+GlifName: uni0186
+Width: 709
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 297 680 basechar 0
+AnchorPoint: "top.cap" 304 -25 basechar 0
+LayerCount: 2
+Back
+SplineSet
+265 -14 m 256
+ 513 -14 655 155 655 335 c 256
+ 655 532 492 664 286 664 c 256
+ 217 664 168 641 132 625 c 256
+ 117 619 106 614 95 612 c 256
+ 85 610 78 605 76 601 c 256
+ 71 594 67 583 62 571 c 257
+ 50 537 35 485 35 469 c 256
+ 35 458 38 448 48 448 c 256
+ 61 448 67 458 73 468 c 256
+ 125 566 179 607 272 607 c 256
+ 411 607 472 482 472 306 c 256
+ 472 167 400 41 264 41 c 256
+ 182 41 103 111 77 215 c 256
+ 74 227 69 234 62 234 c 256
+ 50 234 38 212 38 198 c 256
+ 38 152 46 88 58 59 c 256
+ 63 47 69 36 81 29 c 257
+ 127 -4 179 -14 265 -14 c 256
+EndSplineSet
+Fore
+Refer: 44 67 N -1 0 0 -1 709 650 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|C
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VO
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni0186+AAoA"
+EndChar

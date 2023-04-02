@@ -1,12 +1,95 @@
 StartChar: uni2173
-Encoding: 8563 8563 846
+Encoding: 2903 8563 2902
 GlifName: uni2173
-Width: 656
+Width: 667
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom_1" 116 -30 basechar 0
+AnchorPoint: "bottom_2" 449 -30 basechar 0
+AnchorPoint: "top_1" 124 440 basechar 0
+AnchorPoint: "top_2" 447 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+523 378 m 257
+ 537 374 548 356 548 331 c 256
+ 548 320 546 308 541 295 c 258
+ 469 110 l 258
+ 464 96 462 97 457 111 c 258
+ 383 310 l 258
+ 380 318 379 328 379 337 c 256
+ 379 356 385 374 399 378 c 257
+ 410 382 422 386 422 396 c 256
+ 422 404 409 405 402 405 c 256
+ 363 405 362 400 327 400 c 256
+ 292 400 293 405 254 405 c 256
+ 247 405 234 404 234 396 c 256
+ 234 386 246 382 257 378 c 257
+ 277 372 293 353 303 329 c 258
+ 425 17 l 257
+ 428 8 440 -22 445 -22 c 256
+ 450 -22 472 23 472 23 c 257
+ 472 23 504 112 509 123 c 258
+ 587 311 l 258
+ 601 344 629 372 649 378 c 257
+ 660 382 672 386 672 396 c 256
+ 672 404 659 405 652 405 c 256
+ 633 405 628 400 593 400 c 256
+ 558 400 535 405 520 405 c 256
+ 513 405 500 404 500 396 c 256
+ 500 386 512 382 523 378 c 257
+66 565 m 256
+ 66 537 88 515 116 515 c 256
+ 145 515 167 537 167 565 c 256
+ 167 594 145 616 116 616 c 256
+ 88 616 66 594 66 565 c 256
+162 434 m 256
+ 154 434 109 393 42 377 c 256
+ 38 376 35 370 35 365 c 256
+ 35 359 38 353 43 352 c 256
+ 77 345 90 315 90 279 c 258
+ 90 62 l 258
+ 90 35 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 36 -3 44 -3 c 256
+ 83 -3 90 2 125 2 c 256
+ 160 2 168 -3 206 -3 c 256
+ 215 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 35 160 62 c 258
+ 160 294 l 258
+ 160 339 165 388 169 429 c 257
+ 169 432 166 434 162 434 c 256
+EndSplineSet
 Fore
-Refer: 22 118 N 1 0 0 1 229 0 2
-Refer: 5 105 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 991 105 N 1 0 0 1 0 0 2
+Refer: 3138 118 N 1 0 0 1 229 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vv
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vi
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+g7
+sVpublic.markColor
+p11
+V0.67,0.95,0.38,1
+p12
+s."
+Comment: "+AAoA-uni2173+AAoA"
 EndChar

@@ -1,10 +1,19 @@
 StartChar: Edieresis.sc
-Encoding: 66144 -1 1736
-Width: 503
+Encoding: 98 -1 98
+GlifName: E_dieresis.sc
+Width: 480
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 325 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1768 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 84 -1 N 1 0 0 1 0 0 2
+Refer: 719 -1 N 1 0 0 1 96 84 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Edieresis.sc+AAoA"
 EndChar

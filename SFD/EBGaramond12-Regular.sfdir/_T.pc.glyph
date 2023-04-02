@@ -1,11 +1,31 @@
 StartChar: T.pc
-Encoding: 1115188 -1 2966
+Encoding: 378 -1 377
 GlifName: T_.pc
-Width: 403
+Width: 450
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2992 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 2250 7451 N 1 0 0 1 20 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni1D1B
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-T.pc+AAoA"
 EndChar

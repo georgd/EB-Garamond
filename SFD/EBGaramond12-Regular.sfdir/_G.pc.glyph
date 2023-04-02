@@ -1,11 +1,35 @@
 StartChar: G.pc
-Encoding: 1115175 -1 2953
+Encoding: 143 -1 143
 GlifName: G_.pc
-Width: 498
+Width: 508
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2979 -1 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1793 610 N 1 0 0 1 10 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni0262
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VO.pc
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Comment: "+AAoA-G.pc+AAoA"
 EndChar

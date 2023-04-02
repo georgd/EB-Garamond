@@ -1,0 +1,43 @@
+StartChar: uni03D9
+Encoding: 2061 985 2060
+GlifName: uni03D_9
+Width: 418
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 216 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+227 14 m 257
+ 182 6 l 257
+ 181 -120 174 -198 174 -228 c 256
+ 174 -250 197 -276 224 -276 c 256
+ 243 -276 247 -261 247 -241 c 256
+ 247 -239 230 -125 227 14 c 257
+247 -285 m 256
+ 283 -285 292 -244 292 -223 c 256
+ 292 -205 271 -152 249 -69 c 256
+ 239 -33 234 -7 234 23 c 257
+ 127 31 l 257
+ 127 -14 129 -148 129 -207 c 256
+ 129 -256 189 -285 247 -285 c 256
+EndSplineSet
+Fore
+SplineSet
+232 -276 m 256
+ 268 -276 292 -249 292 -214 c 256
+ 292 -172 262 -28 251 31 c 257
+ 127 24 l 257
+ 127 -21 129 -139 129 -198 c 256
+ 129 -247 174 -276 232 -276 c 256
+EndSplineSet
+Refer: 1203 959 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni03D9+AAoA"
+EndChar

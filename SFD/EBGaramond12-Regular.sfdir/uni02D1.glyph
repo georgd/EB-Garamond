@@ -1,16 +1,22 @@
 StartChar: uni02D1
-Encoding: 721 721 2260
+Encoding: 1899 721 1898
 GlifName: uni02D_1
-Width: 220
-VWidth: 2048
-Flags: HMW
-LayerCount: 3
+Width: 200
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-110 250 m 1
- 35 370 l 1
- 185 370 l 1
- 110 250 l 1
+25 370 m 257
+ 100 250 l 257
+ 175 370 l 257
+ 25 370 l 257
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni02D1+AAoA"
 EndChar

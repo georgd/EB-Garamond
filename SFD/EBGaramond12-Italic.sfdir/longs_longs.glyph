@@ -1,43 +1,56 @@
 StartChar: longs_longs
-Encoding: 65543 -1 1051
-Width: 460
-Flags: HMW
+Encoding: 1063 -1 1062
+GlifName: longs_longs
+Width: 652
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-105 -249 m 0
- 72 -249 38 -234 24 -219 c 1
- -13 -262 -47 -288 -74 -288 c 0
- -124 -288 -186 -266 -186 -244 c 0
- -186 -220 -164 -191 -150 -191 c 0
- -124 -191 -104 -240 -62 -240 c 0
- -5 -240 2 -206 38 -58 c 0
- 69 69 136 318 172 411 c 0
- 253 621 361 669 435 669 c 0
- 466 669 497 664 512 645 c 0
- 516 640 518 639 523 644 c 0
- 572 688 623 706 660 706 c 0
- 703 706 748 696 747 651 c 0
- 747 626 726 590 705 590 c 0
- 694 590 685 604 685 618 c 0
- 685 640 670 665 620 665 c 0
- 567 664 526 596 498 532 c 24
- 411 333 369 172 329 0 c 0
- 279 -216 161 -249 105 -249 c 0
-468 580 m 0
- 469 581 469 586 469 587 c 0
- 469 609 461 628 411 628 c 0
- 356 628 313 587 287 532 c 24
- 195 335 158 170 118 0 c 0
- 86 -135 77 -149 72 -160 c 0
- 70 -164 74 -173 77 -177 c 0
- 89 -191 108 -209 137 -209 c 0
- 180 -209 213 -206 249 -58 c 0
- 280 69 347 318 383 411 c 0
- 414 492 440 538 468 580 c 0
+100 -290 m 256
+ 193 -290 317 -221 370 -33 c 258
+ 428 172 l 258
+ 496 413 541 666 703 666 c 256
+ 732 666 748 651 760 624 c 256
+ 770 602 782 585 795 585 c 256
+ 813 585 834 602 834 636 c 256
+ 834 676 790 705 713 705 c 256
+ 523 705 433 436 366 184 c 258
+ 294 -86 l 257
+ 259 -201 208 -248 132 -248 c 256
+ 81 -248 51 -225 25 -164 c 257
+ -11 -211 l 257
+ -11 -252 30 -290 100 -290 c 256
+-111 -290 m 256
+ -5 -290 68 -186 108 -42 c 258
+ 168 172 l 258
+ 236 413 275 647 415 647 c 256
+ 466 647 496 624 522 563 c 257
+ 558 610 l 257
+ 558 651 517 689 447 689 c 256
+ 257 689 172 436 106 184 c 258
+ 48 -38 l 258
+ 14 -161 -21 -250 -71 -250 c 256
+ -95 -250 -111 -239 -123 -226 c 256
+ -136 -212 -145 -198 -155 -198 c 256
+ -168 -198 -194 -220 -194 -240 c 256
+ -194 -273 -161 -290 -111 -290 c 256
 EndSplineSet
-Substitution2: "Single Substitution lookup 80 subtable" longs_longs.short
-Substitution2: "Single Substitution lookup 79 subtable" longs_longs.short
-Ligature2: "liga_standard subtable" longs longs
-LCarets2: 1 251
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vlongs
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vlongs
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Ligature2: "'dlig' Discretionary Ligatures in Latin lookup 39 subtable" longs longs
+Ligature2: "'hlig' Historic Ligatures in Latin lookup 28 subtable" longs longs
+Comment: "+AAoA-longs_longs+AAoA"
 EndChar

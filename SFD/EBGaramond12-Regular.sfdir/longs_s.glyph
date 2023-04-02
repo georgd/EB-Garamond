@@ -1,13 +1,82 @@
 StartChar: longs_s
-Encoding: 1114149 -1 1064
+Encoding: 1115 -1 1114
 GlifName: longs_s
-Width: 529
+Width: 550
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 395 -30 basechar 0
+AnchorPoint: "top" 403 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+90 350 m 257
+ 90 68 l 258
+ 90 41 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 36 -3 44 -3 c 256
+ 84 -3 92 2 127 2 c 256
+ 162 2 166 -3 206 -3 c 256
+ 214 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 42 160 68 c 258
+ 160 475 l 258
+ 160 610 204 665 266 665 c 256
+ 345 665 355 606 384 606 c 256
+ 411 606 418 630 418 647 c 256
+ 418 660 413 672 402 681 c 256
+ 373 705 353 706 308 706 c 256
+ 221 706 90 633 90 402 c 257
+ 71 392 61 384 31 376 c 257
+ 29 375 25 372 25 369 c 256
+ 25 362 34 353 38 352 c 257
+ 59 350 77 350 90 350 c 257
+386 388 m 256
+ 419 388 448 358 449 330 c 257
+ 449 321 473 309 483 309 c 256
+ 487 309 489 310 489 313 c 256
+ 489 341 484 376 472 391 c 257
+ 462 401 437 414 397 414 c 256
+ 299 414 263 353 263 296 c 256
+ 263 247 311 208 359 174 c 256
+ 403 143 435 119 435 83 c 256
+ 435 43 413 13 365 13 c 256
+ 324 13 279 51 272 85 c 256
+ 271 90 264 92 257 92 c 256
+ 249 92 240 89 240 83 c 257
+ 241 60 246 36 253 22 c 256
+ 259 9 305 -14 359 -14 c 256
+ 470 -14 503 37 503 106 c 256
+ 503 172 438 212 408 231 c 256
+ 376 251 323 282 323 322 c 256
+ 323 362 348 388 386 388 c 256
+EndSplineSet
 Fore
-Refer: 1126 -1 N 1 0 0 1 0 0 2
-Refer: 17 115 N 1 0 0 1 210 0 2
-Validated: 1
-LCarets2: 1 238
+Refer: 1091 383 N 1 0 0 1 0 0 2
+Refer: 1359 115 N 1 0 0 1 227 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I1
+sVname
+p6
+Vs
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vlongs
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+g7
+s."
+Ligature2: "'dlig' Discretionary Ligatures lookup 37 subtable" longs s
+Ligature2: "'hlig' Historic Ligatures lookup 26 subtable" longs s
+Comment: "+AAoA-longs_s+AAoA"
 EndChar

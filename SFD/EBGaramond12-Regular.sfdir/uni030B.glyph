@@ -1,29 +1,55 @@
 StartChar: uni030B
-Encoding: 779 779 123
+Encoding: 1940 779 1939
 GlifName: uni030B_
 Width: 0
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 109 550 mark 0
-LayerCount: 3
+AnchorPoint: "top" -43 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+147 456 m 256
+ 155 456 169 469 177 478 c 256
+ 208 511 295 612 295 626 c 256
+ 295 642 271 649 246 649 c 256
+ 236 649 225 641 219 631 c 256
+ 200 598 138 484 138 469 c 256
+ 138 460 138 456 147 456 c 256
+23 456 m 256
+ 31 456 45 469 53 478 c 256
+ 84 511 171 612 171 626 c 256
+ 171 642 147 649 122 649 c 256
+ 112 649 101 641 95 631 c 256
+ 76 598 14 484 14 469 c 256
+ 14 460 14 456 23 456 c 256
+EndSplineSet
 Fore
 SplineSet
-177 478 m 0
- 169 469 155 456 147 456 c 0
- 138 456 138 460 138 469 c 0
- 138 484 200 598 219 631 c 0
- 225 641 236 649 246 649 c 0
- 271 649 295 642 295 626 c 0
- 295 612 208 511 177 478 c 0
-53 478 m 0
- 45 469 31 456 23 456 c 0
- 14 456 14 460 14 469 c 0
- 14 484 76 598 95 631 c 0
- 101 641 112 649 122 649 c 0
- 147 649 171 642 171 626 c 0
- 171 612 84 511 53 478 c 0
+-7 456 m 256
+ 1 456 15 469 23 478 c 256
+ 47 504 105 571 130 606 c 256
+ 137 616 141 623 141 626 c 256
+ 141 642 117 649 92 649 c 256
+ 82 649 71 641 65 631 c 256
+ 50 606 13 532 -7 493 c 256
+ -13 481 -16 472 -16 469 c 256
+ -16 460 -16 456 -7 456 c 256
+-131 456 m 256
+ -123 456 -109 469 -101 478 c 256
+ -77 505 -16 572 7 607 c 256
+ 13 616 17 623 17 626 c 256
+ 17 642 -7 649 -32 649 c 256
+ -42 649 -53 641 -59 631 c 256
+ -73 607 -109 540 -128 500 c 256
+ -135 485 -140 473 -140 469 c 256
+ -140 460 -140 456 -131 456 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" uni030B.sc
-Substitution2: "'case' Case-Sensitive Forms lookup 8 subtable" uni030B.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" uni030B.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" uni030B.sc
+Comment: "+AAoA-uni030B+AAoA"
 EndChar

@@ -1,12 +1,32 @@
 StartChar: uni2172
-Encoding: 8562 8562 857
-Width: 687
+Encoding: 2736 8562 2735
+GlifName: uni2172
+Width: 882
 VWidth: 0
-Flags: M
+Flags: W
+AnchorPoint: "bottom_1" 88 -30 basechar 0
+AnchorPoint: "bottom_2" 382 -30 basechar 0
+AnchorPoint: "bottom_3" 676 -30 basechar 0
+AnchorPoint: "top_1" 220 440 basechar 0
+AnchorPoint: "top_2" 514 440 basechar 0
+AnchorPoint: "top_3" 808 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 5 105 N 1 0 0 1 458 0 2
-Refer: 5 105 N 1 0 0 1 229 0 2
-Refer: 5 105 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 962 105 N 1 0 0 1 0 0 2
+Refer: 962 105 N 1 0 0 1 294 0 2
+Refer: 962 105 N 1 0 0 1 588 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vi
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uni2172+AAoA"
 EndChar

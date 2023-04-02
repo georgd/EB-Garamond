@@ -1,29 +1,53 @@
 StartChar: hookabovecomb
-Encoding: 777 777 1170
+Encoding: 949 777 948
+GlifName: hookabovecomb
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 136 550 mark 0
+AnchorPoint: "top" 82 440 mark 0
 LayerCount: 2
+Back
+SplineSet
+97 509 m 256
+ 107 509 118 517 119 526 c 256
+ 120 532 118 537 119 541 c 256
+ 121 547 127 552 141 557 c 256
+ 176 569 217 596 217 634 c 256
+ 217 661 191 677 159 677 c 256
+ 121 677 93 665 69 654 c 256
+ 59 650 45 629 45 621 c 256
+ 45 609 54 596 61 596 c 256
+ 67 596 73 602 79 608 c 256
+ 107 636 116 647 135 647 c 256
+ 148 647 157 642 157 631 c 256
+ 157 610 141 599 120 586 c 256
+ 102 575 78 554 78 537 c 256
+ 78 524 87 509 97 509 c 256
+EndSplineSet
 Fore
 SplineSet
-98 654 m 0
- 120 666 146 677 181 677 c 0
- 217 677 247 656 235 617 c 0
- 230 600 211 573 166 550 c 0
- 146 540 148 531 157 523 c 0
- 164 517 148 508 139 508 c 0
- 127 508 114 526 118 540 c 0
- 124 558 138 571 151 581 c 0
- 169 595 177 606 182 622 c 0
- 187 638 182 653 168 653 c 0
- 148 653 136 640 111 602 c 0
- 107 596 101 593 95 593 c 0
- 90 593 86 595 84 599 c 0
- 79 609 75 617 79 630 c 0
- 82 640 88 649 98 654 c 0
+100 509 m 256
+ 110 509 116 517 117 526 c 256
+ 118 532 116 537 117 541 c 256
+ 119 547 127 552 141 557 c 256
+ 176 569 217 596 217 627 c 256
+ 217 658 188 677 154 677 c 256
+ 121 677 89 665 66 652 c 256
+ 56 646 45 637 45 629 c 256
+ 45 617 56 596 63 596 c 256
+ 69 596 75 602 81 608 c 256
+ 109 636 114 645 133 645 c 256
+ 148 645 157 637 157 625 c 256
+ 157 610 141 599 120 586 c 256
+ 102 575 78 554 78 537 c 256
+ 78 524 88 509 100 509 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "Single Substitution lookup 16 subtable" hookabovecomb.stack
-Substitution2: "Single Substitution lookup 14 subtable" hookabovecomb.stack
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" hookabovecomb.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" hookabovecomb.sc
+Comment: "+AAoA-hookabovecomb+AAoA"
 EndChar

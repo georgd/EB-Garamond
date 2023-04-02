@@ -1,12 +1,33 @@
 StartChar: backslash.ordn
-Encoding: 1114461 -1 1460
+Encoding: 597 -1 596
 GlifName: backslash.ordn
-Width: 259
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+Width: 262
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1258 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+228 243 m 256
+ 236 243 250 245 247 252 c 258
+ 54 669 l 258
+ 50 678 41 679 31 679 c 256
+ 24 679 12 676 15 669 c 258
+ 208 252 l 258
+ 212 244 219 243 228 243 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|slash.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|slash.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-backslash.ordn+AAoA"
 EndChar

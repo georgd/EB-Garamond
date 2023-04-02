@@ -1,26 +1,25 @@
 StartChar: seven.subs
-Encoding: 65629 -1 1221
+Encoding: 1346 -1 1345
+GlifName: seven.subs
 Width: 278
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-290 275 m 2
- 293 279 298 284 284 284 c 2
- 160 284 l 2
- 140 284 132 278 121 261 c 0
- 116 254 102 237 93 237 c 0
- 78 237 128 316 132 323 c 0
- 137 332 142 334 145 334 c 2
- 356 334 l 2
- 360 334 360 324 358 320 c 0
- 344 302 335 293 317 272 c 2
- 108 17 l 2
- 99 6 86 -10 82 -10 c 0
- 68 -10 63 -3 68 12 c 0
- 69 16 82 32 92 44 c 18
- 290 275 l 2
-EndSplineSet
-Validated: 33
+Refer: 1342 -1 N 1 0 0 1 -87 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vseven.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vseven.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-seven.subs+AAoA"
 EndChar

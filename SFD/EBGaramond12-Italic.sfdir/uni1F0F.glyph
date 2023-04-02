@@ -1,12 +1,26 @@
 StartChar: uni1F0F
-Encoding: 7951 7951 2243
-Width: 772
+Encoding: 2412 7951 2411
+GlifName: uni1F_0F_
+Width: 658
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 256 -30 basechar 0
+AnchorPoint: "bottomgreek" 275 -30 basechar 0
+AnchorPoint: "top.cap" 598 675 basechar 0
+AnchorPoint: "topgreek" 244 470 basechar 0
 LayerCount: 2
 Fore
-Refer: 2098 834 N 1 0 0 1 83 176 2
-Refer: 2365 -1 N 1 0 0 1 170 0 2
-Refer: 631 913 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" Alpha uni0314.grkstack uni0342
+Refer: 23 913 N 1 0 0 1 0 0 2
+Refer: 2600 8159 N 1 0 0 1 -16 30 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p1
+VAlpha
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-uni1F0F+AAoA"
 EndChar

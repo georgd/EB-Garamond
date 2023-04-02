@@ -1,14 +1,55 @@
 StartChar: scaron
-Encoding: 353 353 259
+Encoding: 1370 353 1369
 GlifName: scaron
 Width: 323
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 168 -30 basechar 0
+AnchorPoint: "top" 176 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+172 550 m 256
+ 150 580 119 620 106 635 c 256
+ 98 644 84 657 76 657 c 256
+ 67 657 67 653 67 644 c 256
+ 67 631 135 521 155 490 c 256
+ 160 482 167 472 175 472 c 256
+ 183 472 190 482 195 490 c 256
+ 215 521 283 631 283 644 c 256
+ 283 653 283 657 274 657 c 256
+ 266 657 253 644 245 635 c 256
+ 232 620 201 580 179 550 c 256
+ 176 546 175 546 172 550 c 256
+176 388 m 256
+ 209 388 238 358 239 330 c 257
+ 239 321 263 309 273 309 c 256
+ 277 309 279 310 279 313 c 256
+ 279 341 274 376 262 391 c 257
+ 252 401 227 414 187 414 c 256
+ 89 414 53 353 53 296 c 256
+ 53 247 101 208 149 174 c 256
+ 193 143 225 119 225 83 c 256
+ 225 43 203 13 155 13 c 256
+ 114 13 69 51 62 85 c 256
+ 61 90 54 92 47 92 c 256
+ 39 92 30 89 30 83 c 257
+ 31 60 36 36 43 22 c 256
+ 49 9 95 -14 149 -14 c 256
+ 260 -14 293 37 293 106 c 256
+ 293 172 228 212 198 231 c 256
+ 166 251 113 282 113 322 c 256
+ 113 362 138 388 176 388 c 256
+EndSplineSet
 Fore
-Refer: 92 780 N 1 0 0 1 37 17 2
-Refer: 17 115 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" scaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" s uni030C
+Refer: 1359 115 N 1 0 0 1 0 0 2
+Refer: 659 711 N 1 0 0 1 26 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" scaron.sc
+Comment: "+AAoA-scaron+AAoA"
 EndChar

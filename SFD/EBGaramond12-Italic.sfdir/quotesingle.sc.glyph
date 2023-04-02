@@ -1,11 +1,25 @@
 StartChar: quotesingle.sc
-Encoding: 66021 -1 1613
-Width: 195
+Encoding: 1283 -1 1282
+GlifName: quotesingle.sc
+Width: 200
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 69 39 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 1279 39 N 1 0 0 1 -41 -133 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vquotesingle
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vquotesingle
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-quotesingle.sc+AAoA"
 EndChar

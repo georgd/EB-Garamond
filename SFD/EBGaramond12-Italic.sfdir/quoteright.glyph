@@ -1,34 +1,25 @@
 StartChar: quoteright
-Encoding: 8217 8217 60
-Width: 212
+Encoding: 1277 8217 1276
+GlifName: quoteright
+Width: 215
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
-Back
-SplineSet
-286 602 m 0
- 260 605 249 622 256 644 c 0
- 264 671 294 690 321 690 c 0
- 366 690 385 649 368 593 c 0
- 337 492 233 428 185 426 c 0
- 184 426 185 426 184 426 c 0
- 163 426 167 445 187 449 c 0
- 230 458 288 488 309 558 c 0
- 314 574 306 600 286 602 c 0
-EndSplineSet
 Fore
-SplineSet
-221 630 m 0
- 218 631 206 640 206 650 c 0
- 206 673 234 690 269 690 c 0
- 303 690 327 654 327 620 c 0
- 327 520 231 441 170 441 c 8
- 160 441 146 442 146 449 c 0
- 146 455 156 458 171 466 c 0
- 229 497 267 545 267 595 c 0
- 267 618 239 626 221 630 c 0
-EndSplineSet
-Validated: 1
-Position2: "Single Positioning lookup 5 subtable" dx=0 dy=0 dh=65 dv=0
-Position2: "Single Positioning lookup 3 subtable" dx=0 dy=0 dh=40 dv=0
+Refer: 684 44 N 1 0 0 1 177 572 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vcomma
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vcomma
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-quoteright+AAoA"
 EndChar

@@ -1,0 +1,52 @@
+StartChar: entail-cy
+Encoding: 796 1226 795
+GlifName: entail-cy
+Width: 588
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 366 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+205 -276 m 256
+ 215 -276 301 -258 343 -233 c 256
+ 403 -197 418 -139 431 -74 c 256
+ 444 -7 460 64 498 103 c 257
+ 406 39 l 257
+ 419 19 l 257
+ 407 12 353 -28 336 -50 c 256
+ 304 -91 288 -124 275 -168 c 256
+ 258 -227 230 -242 199 -253 c 257
+ 193 -256 188 -258 188 -264 c 256
+ 188 -273 197 -276 205 -276 c 256
+EndSplineSet
+Fore
+SplineSet
+121 -276 m 256
+ 131 -276 225 -261 275 -236 c 256
+ 346 -200 381 -146 414 -81 c 256
+ 448 -14 481 61 525 105 c 257
+ 416 39 l 257
+ 426 16 l 257
+ 392 0 340 -27 317 -49 c 256
+ 274 -90 245 -120 219 -164 c 256
+ 184 -223 156 -242 122 -253 c 257
+ 114 -256 109 -258 107 -264 c 256
+ 104 -273 113 -276 121 -276 c 256
+EndSplineSet
+Refer: 1993 1085 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni043D
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni043D
+p4
+sVpublic.markColor
+p5
+V0.97,1,0,1
+p6
+s."
+EndChar

@@ -1,13 +1,41 @@
 StartChar: uni2A76
-Encoding: 10870 10870 943
+Encoding: 3032 10870 3031
 GlifName: uni2A_76
-Width: 1800
+Width: 1764
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 98 61 N 1 0 0 1 1200 0 2
-Refer: 98 61 N 1 0 0 1 600 0 2
-Refer: 98 61 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 816 61 N 1 0 0 1 602 0 2
+Refer: 816 61 N 1 0 0 1 0 0 2
+Refer: 816 61 N 1 0 0 1 1198 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I2
+sVname
+p6
+Vequal
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Vequal
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vequal
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni2A76+AAoA"
 EndChar

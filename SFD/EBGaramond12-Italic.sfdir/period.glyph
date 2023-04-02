@@ -1,20 +1,28 @@
 StartChar: period
-Encoding: 46 46 39
+Encoding: 1223 46 1222
+GlifName: period
 Width: 215
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-90 101 m 16
- 116 101 135 77 135 51 c 8
- 135 15 106 -14 70 -14 c 8
- 44 -14 25 10 25 36 c 8
- 25 72 54 101 90 101 c 16
+49 -14 m 256
+ 85 -14 114 15 114 51 c 256
+ 114 77 95 101 69 101 c 256
+ 33 101 4 72 4 36 c 256
+ 4 10 23 -14 49 -14 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "sups subtable" period.sups
-Substitution2: "sinf subtable" period.sinf
-Substitution2: "ordn subtable" period.ordn
-Substitution2: "subs subtable" period.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" period.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" period.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" period.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" period.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" period.subs
+Comment: "+AAoA-period+AAoA"
 EndChar

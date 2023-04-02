@@ -1,17 +1,53 @@
 StartChar: uni1E1F
-Encoding: 7711 7711 383
+Encoding: 2338 7711 2337
 GlifName: uni1E_1F_
 Width: 318
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+232 798 m 256
+ 232 770 254 748 282 748 c 256
+ 311 748 333 770 333 798 c 256
+ 333 827 311 849 282 849 c 256
+ 254 849 232 827 232 798 c 256
+386 606 m 256
+ 404 606 420 624 420 646 c 256
+ 420 698 359 706 310 706 c 256
+ 223 706 90 633 90 402 c 257
+ 70 392 61 384 31 376 c 257
+ 29 375 24 373 24 370 c 256
+ 24 363 34 353 38 352 c 257
+ 59 350 77 350 90 350 c 257
+ 90 68 l 258
+ 90 41 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 36 -3 44 -3 c 256
+ 84 -3 92 2 127 2 c 256
+ 162 2 166 -3 206 -3 c 256
+ 214 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 42 160 68 c 258
+ 160 335 l 258
+ 160 345 164 352 200 352 c 258
+ 296 352 l 258
+ 303 352 309 375 309 389 c 256
+ 309 395 308 400 305 400 c 258
+ 185 400 l 258
+ 172 400 160 404 160 422 c 258
+ 160 475 l 258
+ 160 610 206 665 268 665 c 256
+ 345 665 359 606 386 606 c 256
+EndSplineSet
 Fore
-Refer: 121 775 N 1 0 0 1 170 255 2
-Refer: 18 102 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Single Substitution lookup 107 subtable" uni1E1F.short
-Substitution2: "Single Substitution lookup 102 subtable" uni1E1F.short
-Substitution2: "Single Substitution lookup 101 subtable" uni1E1F.short
-Substitution2: "Single Substitution lookup 100 subtable" uni1E1F.short
-MultipleSubs2: "CCMP_Precomp subtable" f uni0307
+Refer: 841 102 N 1 0 0 1 0 0 2
+Refer: 744 729 N 1 0 0 1 168 232 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E1F+AAoA"
 EndChar

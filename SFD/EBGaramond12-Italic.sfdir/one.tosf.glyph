@@ -1,0 +1,37 @@
+StartChar: one.tosf
+Encoding: 1168 -1 1167
+GlifName: one.tosf
+Width: 480
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+64 -3 m 256
+ 114 -3 134 2 178 2 c 256
+ 220 2 232 -3 285 -3 c 256
+ 300 -3 308 20 293 22 c 256
+ 254 27 220 29 231 68 c 256
+ 244 115 284 244 312 333 c 256
+ 327 380 366 378 394 384 c 256
+ 404 386 412 406 401 406 c 256
+ 347 406 339 403 300 403 c 256
+ 260 403 254 406 198 406 c 256
+ 190 406 182 385 191 384 c 257
+ 215 380 258 380 244 333 c 258
+ 163 68 l 258
+ 150 27 97 24 71 22 c 256
+ 55 21 53 -3 64 -3 c 256
+EndSplineSet
+Fore
+Refer: 1164 -1 N 1 0 0 1 91 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" one.lf
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 16 subtable" one.osf
+Comment: "+AAoA-one.taboldstyle+AAoA"
+EndChar

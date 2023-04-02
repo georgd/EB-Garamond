@@ -1,11 +1,19 @@
 StartChar: uni217F
-Encoding: 8575 8575 858
+Encoding: 2915 8575 2914
 GlifName: uni217F_
 Width: 778
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 390 -30 basechar 0
+AnchorPoint: "top" 392 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 7 109 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 1120 109 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni217F+AAoA"
 EndChar

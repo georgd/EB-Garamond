@@ -1,10 +1,19 @@
 StartChar: Zcaron.sc
-Encoding: 66322 -1 1914
-Width: 466
+Encoding: 491 -1 490
+GlifName: Z_caron.sc
+Width: 483
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 333 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1915 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 482 -1 N 1 0 0 1 0 0 2
+Refer: 1813 -1 N 1 0 0 1 267 84 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Zcaron.sc+AAoA"
 EndChar

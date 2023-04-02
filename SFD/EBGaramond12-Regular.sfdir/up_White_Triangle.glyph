@@ -1,0 +1,33 @@
+StartChar: upWhiteTriangle
+Encoding: 3126 9651 3125
+GlifName: upW_hiteT_riangle
+Width: 683
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+104 -3 m 256
+ 128 -3 552 1 591 1 c 256
+ 636 1 638 12 628 38 c 256
+ 593 129 453 459 390 637 c 256
+ 371 691 350 701 325 643 c 256
+ 263 498 135 219 59 48 c 256
+ 43 12 49 -2 66 -2 c 258
+ 93 -2 l 257
+ 97 -3 100 -3 104 -3 c 256
+162 47 m 256
+ 145 48 133 51 133 67 c 257
+ 342 560 l 258
+ 347 571 348 577 350 577 c 256
+ 353 577 354 571 359 559 c 256
+ 479 270 546 96 546 67 c 256
+ 546 49 263 50 162 47 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.98,0.36,0.67,1
+p2
+s."
+EndChar

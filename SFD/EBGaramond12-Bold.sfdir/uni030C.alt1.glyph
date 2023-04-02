@@ -1,0 +1,39 @@
+StartChar: uni030C.alt1
+Encoding: 1945 -1 1944
+GlifName: uni030C_.alt1
+Width: 0
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+17 528 m 256
+ 62 528 118 556 118 636 c 256
+ 118 687 83 726 47 726 c 256
+ 14 726 -7 707 -7 684 c 256
+ -7 657 6 646 23 639 c 256
+ 36 632 50 623 50 605 c 256
+ 50 582 40 572 11 558 c 256
+ 2 554 -3 548 -3 541 c 256
+ -3 535 2 528 17 528 c 256
+EndSplineSet
+Fore
+SplineSet
+-30 499 m 257
+ -5 499 58 570 58 644 c 256
+ 58 686 32 724 -7 724 c 256
+ -31 724 -54 708 -54 683 c 256
+ -54 664 -45 654 -32 645 c 257
+ -20 635 -13 620 -13 606 c 256
+ -13 582 -22 567 -35 554 c 256
+ -42 547 -57 532 -57 519 c 256
+ -57 505 -45 499 -30 499 c 257
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni030C.alt1+AAoA"
+EndChar

@@ -1,0 +1,27 @@
+StartChar: uni04E8
+Encoding: 2216 1256 2215
+GlifName: uni04E_8
+Width: 759
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 382 -30 basechar 0
+AnchorPoint: "top.cap" 392 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+125 362 m 257
+ 125 306 l 257
+ 644 306 l 257
+ 644 362 l 257
+ 125 362 l 257
+EndSplineSet
+Refer: 278 79 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni04E8+AAoA"
+EndChar

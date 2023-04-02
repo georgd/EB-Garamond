@@ -1,15 +1,55 @@
 StartChar: uni1E7E
-Encoding: 7806 7806 478
+Encoding: 2437 7806 2436
 GlifName: uni1E_7E_
 Width: 672
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 339 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+297 -95 m 256
+ 267 -95 242 -120 242 -150 c 256
+ 242 -180 267 -205 297 -205 c 256
+ 327 -205 352 -180 352 -150 c 256
+ 352 -120 327 -95 297 -95 c 256
+535 650 m 256
+ 497 650 462 651 436 651 c 256
+ 419 651 407 648 407 640 c 256
+ 407 631 426 624 440 620 c 256
+ 464 613 507 595 507 579 c 256
+ 507 575 501 551 499 547 c 257
+ 358 197 l 258
+ 350 178 345 169 340 169 c 256
+ 335 169 329 178 322 197 c 258
+ 195 533 l 257
+ 192 542 186 572 186 580 c 256
+ 186 598 219 615 249 621 c 256
+ 272 625 282 632 282 641 c 256
+ 282 649 270 652 253 652 c 256
+ 233 652 191 650 151 650 c 256
+ 105 650 60 653 29 653 c 256
+ 12 653 0 650 0 642 c 256
+ 0 633 11 627 33 620 c 256
+ 67 610 89 584 103 547 c 258
+ 286 56 l 258
+ 296 28 311 -15 316 -15 c 256
+ 330 -15 354 66 359 79 c 258
+ 547 535 l 258
+ 562 571 596 611 645 622 c 256
+ 668 627 678 633 678 642 c 256
+ 678 650 666 653 649 653 c 256
+ 623 653 574 650 535 650 c 256
+EndSplineSet
 Fore
-Refer: 2300 -1 N 1 0 0 1 237 0 2
-Refer: 37 86 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" V dotbelowcomb.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-34 dv=0
-Position2: "lfbd subtable" dx=-34 dy=0 dh=-34 dv=0
+Refer: 435 86 N 1 0 0 1 0 0 2
+Refer: 746 -1 N 1 0 0 1 297 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1E7E+AAoA"
 EndChar

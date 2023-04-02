@@ -1,0 +1,38 @@
+StartChar: uni0190
+Encoding: 1595 400 1594
+GlifName: uni0190
+Width: 564
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 320 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+309 -14 m 256
+ 394 -14 461 0 509 24 c 256
+ 521 30 530 39 534 54 c 256
+ 547 102 554 143 554 172 c 256
+ 554 193 522 196 512 172 c 256
+ 474 81 424 43 328 43 c 256
+ 188 43 128 165 128 344 c 256
+ 128 483 199 609 328 609 c 256
+ 393 609 436 588 461 560 c 256
+ 481 538 491 507 499 480 c 256
+ 506 456 543 456 543 480 c 256
+ 543 509 541 553 535 601 c 256
+ 533 616 525 623 514 628 c 256
+ 470 648 397 664 337 664 c 256
+ 88 664 -55 495 -55 315 c 256
+ -55 118 106 -14 309 -14 c 256
+EndSplineSet
+Fore
+Refer: 2231 1296 N 1 0 0 1 0 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni0190+AAoA"
+EndChar

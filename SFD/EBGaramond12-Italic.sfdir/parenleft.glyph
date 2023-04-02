@@ -1,26 +1,44 @@
 StartChar: parenleft
-Encoding: 40 40 108
-Width: 291
+Encoding: 1202 40 1201
+GlifName: parenleft
+Width: 308
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+122 -216 m 256
+ 131 -216 135 -206 131 -194 c 256
+ 100 -100 87 -26 87 48 c 256
+ 87 306 231 513 394 676 c 256
+ 405 687 408 694 408 699 c 256
+ 408 703 403 705 398 705 c 256
+ 390 705 379 701 369 693 c 256
+ 167 532 30 311 30 72 c 256
+ 30 -5 44 -83 80 -177 c 256
+ 90 -203 106 -216 122 -216 c 256
+EndSplineSet
 Fore
 SplineSet
-119 269 m 0
- 171 439 324 623 412 694 c 0
- 419 700 432 705 441 705 c 0
- 448 705 452 703 455 698 c 8
- 457 694 456 686 451 682 c 0
- 363 611 230 451 178 281 c 0
- 126 111 142 -115 186 -186 c 0
- 188 -190 185 -198 179 -204 c 16
- 173 -210 162 -214 154 -214 c 0
- 148 -214 144 -212 141 -207 c 0
- 97 -136 67 99 119 269 c 0
+122 -216 m 256
+ 131 -216 135 -206 131 -194 c 256
+ 100 -100 101 -26 101 89 c 256
+ 101 306 240 513 394 676 c 256
+ 405 687 408 694 408 699 c 256
+ 408 703 403 705 398 705 c 256
+ 390 705 379 701 369 693 c 256
+ 167 532 30 311 30 72 c 256
+ 30 -5 44 -83 80 -177 c 256
+ 90 -203 106 -216 122 -216 c 256
 EndSplineSet
-Validated: 33
-Substitution2: "sups subtable" parenleft.sups
-Substitution2: "sinf subtable" parenleft.sinf
-Substitution2: "ordn subtable" parenleft.ordn
-Substitution2: "subs subtable" parenleft.subs
+Guideline: "" "" -9 40 73 0 0
+Guideline: "" "" 6 -107 73 0 0
+Substitution2: "'ss04' Style Set 4 in Latin lookup 35 subtable" uni2619
+Substitution2: "'ss02' Style Set 2 in Latin lookup 32 subtable" uni261C
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" parenleft.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" parenleft.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" parenleft.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" parenleft.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" parenleft.subs
+Comment: "+AAoA-parenleft+AAoA"
 EndChar

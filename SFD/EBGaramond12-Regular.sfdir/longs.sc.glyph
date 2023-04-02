@@ -1,12 +1,18 @@
 StartChar: longs.sc
-Encoding: 1114913 -1 1912
+Encoding: 1097 -1 1096
 GlifName: longs.sc
-Width: 373
+Width: 440
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 223 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1685 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 1362 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-longs.sc+AAoA"
 EndChar

@@ -1,20 +1,17 @@
 StartChar: uni2010
-Encoding: 8208 8208 775
-Width: 253
+Encoding: 2646 8208 2645
+GlifName: uni2010
+Width: 268
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-88 170 m 0
- 87 170 85 170 84 170 c 0
- 79 170 79 172 80 176 c 8
- 89 198 102 229 112 230 c 0
- 174 239 236 248 298 255 c 0
- 302 255 304 253 303 249 c 0
- 293 224 282 197 267 195 c 0
- 208 186 150 177 88 170 c 0
-EndSplineSet
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" uni2010.cap
+Refer: 955 45 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2010+AAoA"
 EndChar

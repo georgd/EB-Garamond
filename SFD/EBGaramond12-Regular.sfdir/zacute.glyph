@@ -1,14 +1,58 @@
 StartChar: zacute
-Encoding: 378 378 282
+Encoding: 3198 378 3197
 GlifName: zacute
 Width: 377
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 179 -30 basechar 0
+AnchorPoint: "top" 201 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+208 478 m 256
+ 239 511 326 612 326 626 c 256
+ 326 642 302 649 277 649 c 256
+ 267 649 256 641 250 631 c 256
+ 231 598 169 484 169 469 c 256
+ 169 460 169 456 178 456 c 256
+ 186 456 200 469 208 478 c 256
+256 35 m 258
+ 139 35 l 258
+ 133 35 122 42 127 50 c 258
+ 320 343 l 258
+ 334 363 344 376 358 393 c 257
+ 361 397 356 405 351 405 c 256
+ 290 403 234 402 165 402 c 256
+ 156 402 142 401 127 401 c 256
+ 109 401 90 402 84 407 c 256
+ 78 412 72 416 69 416 c 256
+ 65 416 54 408 54 398 c 256
+ 54 373 45 327 37 308 c 257
+ 33 300 34 286 43 286 c 256
+ 53 286 65 305 70 311 c 257
+ 90 337 104 364 122 364 c 258
+ 239 364 l 258
+ 254 364 251 358 248 354 c 257
+ 175 238 129 166 62 70 c 256
+ 48 51 25 17 25 12 c 256
+ 25 7 34 -5 39 -5 c 256
+ 56 -5 91 0 119 0 c 256
+ 228 0 301 -5 330 -5 c 256
+ 336 -5 343 4 344 9 c 257
+ 349 25 372 105 372 113 c 256
+ 372 117 373 136 364 136 c 256
+ 352 136 345 117 342 112 c 257
+ 312 69 286 35 256 35 c 258
+EndSplineSet
 Fore
-Refer: 2705 769 N 1 0 0 1 155 0 2
-Refer: 65 122 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" zacute.sc
-MultipleSubs2: "CCMP_Precomp subtable" z acutecomb
+Refer: 3190 122 N 1 0 0 1 0 0 2
+Refer: 511 769 N 1 0 0 1 247 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" zacute.sc
+Comment: "+AAoA-zacute+AAoA"
 EndChar

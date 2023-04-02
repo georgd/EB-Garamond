@@ -1,0 +1,21 @@
+StartChar: obreve
+Encoding: 1137 335 1136
+GlifName: obreve
+Width: 475
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 170 -30 basechar 0
+AnchorPoint: "top" 359 605 basechar 0
+LayerCount: 2
+Fore
+Refer: 1127 111 N 1 0 0 1 0 0 2
+Refer: 633 728 N 1 0 0 1 60 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" obreve.sc
+Comment: "+AAoA-obreve+AAoA"
+EndChar

@@ -1,0 +1,31 @@
+StartChar: colon
+Encoding: 678 58 677
+GlifName: colon
+Width: 280
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1222 46 N 1 0 0 1 85 276 2
+Refer: 1222 46 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vperiod
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vperiod
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" colon.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" colon.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" colon.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" colon.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" colon.subs
+Comment: "+AAoA-colon+AAoA"
+EndChar

@@ -1,25 +1,21 @@
 StartChar: Iogonek
-Encoding: 302 302 221
-Width: 371
+Encoding: 202 302 202
+GlifName: I_ogonek
+Width: 362
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_accent" 359 710 basechar 0
+Flags: W
+AnchorPoint: "bottom.cap" 118 -30 basechar 0
+AnchorPoint: "top.cap" 331 675 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-28 -286 m 0
- -1 -287 -35 -250 -35 -216 c 0
- -35 -110 73 -32 160 18 c 1
- 187 18 l 17
- 112 -34 47 -92 47 -179 c 0
- 47 -197 58 -222 84 -222 c 0
- 105 -222 136 -197 148 -183 c 0
- 151 -179 175 -160 175 -181 c 0
- 175 -184 168 -197 165 -201 c 0
- 130 -248 83 -285 28 -286 c 0
-EndSplineSet
-Refer: 33 73 N 1 0 0 1 0 0 3
-Validated: 37
-Substitution2: "c2sc subtable" Iogonek.sc
-MultipleSubs2: "CCMP_Precomp subtable" I uni0328.cap
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 1864 -1 N 1 0 0 1 201 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Iogonek.sc
+Comment: "+AAoA-Iogonek+AAoA"
 EndChar

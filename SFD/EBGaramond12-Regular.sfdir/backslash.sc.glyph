@@ -1,22 +1,33 @@
 StartChar: backslash.sc
-Encoding: 1114663 -1 1662
+Encoding: 598 -1 597
 GlifName: backslash.sc
-Width: 399
+Width: 319
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-378 -47 m 18
- 378 -48 379 -49 379 -50 c 0
- 379 -57 370 -62 362 -62 c 8
- 347 -62 332 -61 326 -47 c 26
- 29 648 l 18
- 29 649 28 651 28 652 c 0
- 28 659 35 665 42 665 c 8
- 59 665 74 663 81 648 c 26
- 378 -47 l 18
+282 -57 m 256
+ 295 -57 302 -50 298 -42 c 258
+ 81 463 l 258
+ 75 478 59 480 42 480 c 256
+ 29 480 25 472 29 463 c 258
+ 246 -42 l 258
+ 252 -56 267 -57 282 -57 c 256
 EndSplineSet
-Validated: 1
-Comment: "."
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbackslash
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbackslash
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-backslash.sc+AAoA"
 EndChar

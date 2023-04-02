@@ -1,0 +1,37 @@
+StartChar: whiteSquare
+Encoding: 3163 9633 3162
+GlifName: whiteS_quare
+Width: 655
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+79 -5 m 258
+ 453 -5 l 258
+ 491 -5 520 -5 533 -5 c 258
+ 576 -5 l 258
+ 593 -5 605 0 605 30 c 258
+ 605 625 l 258
+ 605 648 595 653 576 653 c 257
+ 83 653 l 257
+ 63 653 54 648 54 626 c 256
+ 53 185 50 105 50 8 c 256
+ 50 0 62 -5 79 -5 c 258
+169 75 m 256
+ 144 75 133 88 133 115 c 258
+ 133 563 l 258
+ 133 572 137 579 148 579 c 256
+ 208 579 448 579 496 579 c 256
+ 518 579 525 575 525 555 c 258
+ 525 132 l 258
+ 525 84 516 75 460 76 c 256
+ 351 78 176 75 169 75 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.98,0.36,0.67,1
+p2
+s."
+EndChar

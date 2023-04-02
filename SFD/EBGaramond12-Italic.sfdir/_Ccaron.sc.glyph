@@ -1,10 +1,19 @@
 StartChar: Ccaron.sc
-Encoding: 66209 -1 1801
-Width: 429
+Encoding: 55 -1 55
+GlifName: C_caron.sc
+Width: 535
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 413 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1802 -1 N 1 0 0 1 0 0 2
-Comment: "."
+Refer: 46 -1 N 1 0 0 1 0 0 2
+Refer: 1813 -1 N 1 0 0 1 347 84 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Ccaron.sc+AAoA"
 EndChar

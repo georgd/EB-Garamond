@@ -1,45 +1,64 @@
 StartChar: percent
-Encoding: 37 37 105
-Width: 771
+Encoding: 1266 37 1265
+GlifName: percent
+Width: 713
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-570 317 m 0
- 543 317 526 240 526 181 c 0
- 526 112 542 15 573 15 c 0
- 603 15 616 99 616 161 c 2
- 616 166 l 1
- 615 230 598 317 570 317 c 0
-582 350 m 0
- 675 350 723 265 723 178 c 0
- 723 82 668 -14 562 -14 c 0
- 466 -14 419 74 419 167 c 0
- 419 255 480 350 582 350 c 0
-199 598 m 0
- 172 598 155 521 155 462 c 0
- 155 393 171 295 202 295 c 0
- 232 295 245 379 245 441 c 2
- 245 446 l 1
- 244 510 227 598 199 598 c 0
-211 630 m 0
- 304 630 352 544 352 457 c 0
- 352 361 297 265 191 265 c 0
- 95 265 48 353 48 447 c 0
- 48 535 109 630 211 630 c 0
-165 -8 m 1
- 555 638 l 2
- 564 652 577 655 593 655 c 0
- 599 655 607 649 607 640 c 0
- 607 639 606 635 606 635 c 1
- 203 -11 l 1
- 197 -25 189 -26 178 -26 c 0
- 173 -26 165 -22 165 -12 c 0
- 165 -8 l 1
-EndSplineSet
-Substitution2: "sups subtable" percent.sups
-Substitution2: "sinf subtable" percent.sinf
-Substitution2: "ordn subtable" percent.ordn
-Substitution2: "subs subtable" percent.subs
+Refer: 3208 -1 N 1 0 0 1 0 0 2
+Refer: 897 8260 N 1 0 0 1 346 0 2
+Refer: 3208 -1 N 1 0 0 1 362 -280 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vzero.ordn
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vfraction
+p9
+sa(dp10
+g4
+I-1
+sg5
+I2
+sg6
+Vzero.ordn
+p11
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p12
+Vzero.ordn
+p13
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p14
+Vzero.ordn
+p15
+sVpublic.markColor
+p16
+V0.67,0.95,0.38,1
+p17
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" percent.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" percent.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" percent.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" percent.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" percent.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" percent.subs
+Comment: "+AAoA-percent+AAoA"
 EndChar

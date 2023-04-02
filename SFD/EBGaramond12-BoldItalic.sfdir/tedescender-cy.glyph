@@ -1,0 +1,38 @@
+StartChar: tedescender-cy
+Encoding: 1392 1197 1391
+GlifName: tedescender-cy
+Width: 840
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 363 -30 basechar 0
+AnchorPoint: "top" 529 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+489 -276 m 256
+ 499 -276 585 -258 627 -233 c 256
+ 687 -197 702 -139 715 -74 c 256
+ 728 -7 744 64 782 103 c 257
+ 690 39 l 257
+ 703 19 l 257
+ 691 12 637 -28 620 -50 c 256
+ 588 -91 572 -124 559 -168 c 256
+ 541 -227 514 -242 483 -253 c 257
+ 477 -256 472 -258 472 -264 c 256
+ 472 -273 481 -276 489 -276 c 256
+EndSplineSet
+Refer: 1999 1090 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vm
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.97,1,0,1
+p5
+s."
+EndChar

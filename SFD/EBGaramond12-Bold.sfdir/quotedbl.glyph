@@ -1,32 +1,33 @@
 StartChar: quotedbl
-Encoding: 34 34 60
-Width: 365
+Encoding: 1318 34 1317
+GlifName: quotedbl
+Width: 413
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-61 620 m 0
- 61 637 78 651 90 658 c 0
- 114 671 130 679 154 679 c 0
- 170 679 177 662 177 644 c 0
- 177 590 130 502 106 466 c 0
- 98 454 85 440 77 440 c 0
- 68 440 66 457 66 466 c 0
- 67 487 66 505 66 523 c 0
- 66 559 61 618 61 620 c 0
-211 620 m 0
- 211 637 228 651 240 658 c 0
- 264 671 280 679 304 679 c 0
- 320 679 327 662 327 644 c 0
- 327 590 280 502 256 466 c 0
- 248 454 235 440 227 440 c 0
- 218 440 216 457 216 466 c 0
- 217 487 216 505 216 523 c 0
- 216 559 211 618 211 620 c 0
-EndSplineSet
-Substitution2: "sups subtable" quotedbl.sups
-Substitution2: "sinf subtable" quotedbl.sinf
-Substitution2: "ordn subtable" quotedbl.ordn
-Substitution2: "subs subtable" quotedbl.subs
+Refer: 1330 39 N 1 0 0 1 0 0 2
+Refer: 1330 39 N 1 0 0 1 168 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vquotesingle
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vquotesingle
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" quotedbl.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" quotedbl.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" quotedbl.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" quotedbl.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" quotedbl.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" quotedbl.subs
+Comment: "+AAoA-quotedbl+AAoA"
 EndChar

@@ -1,33 +1,32 @@
 StartChar: braceright
-Encoding: 125 125 109
-Width: 337
+Encoding: 619 125 618
+GlifName: braceright
+Width: 372
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-267 281 m 1
- 213 299 129 346 129 414 c 0
- 129 473 148 520 148 587 c 0
- 148 656 101 685 54 685 c 0
- 46 685 34 685 34 700 c 0
- 34 713 44 718 52 718 c 0
- 142 718 248 680 248 582 c 0
- 248 511 229 465 229 404 c 0
- 229 349 260 310 304 290 c 0
- 307 288 313 292 313 282 c 0
- 313 272 307 273 304 271 c 0
- 260 251 229 212 229 157 c 0
- 229 96 248 50 248 -21 c 0
- 248 -119 142 -157 52 -157 c 0
- 44 -157 34 -152 34 -139 c 0
- 34 -124 46 -124 54 -124 c 0
- 101 -124 148 -95 148 -26 c 0
- 148 41 129 88 129 147 c 0
- 129 216 225 272 267 281 c 1
-EndSplineSet
-Substitution2: "sups subtable" braceright.sups
-Substitution2: "sinf subtable" braceright.sinf
-Substitution2: "ordn subtable" braceright.ordn
-Substitution2: "subs subtable" braceright.subs
+Refer: 612 123 N -1 0 0 1 372 0 2
+Validated: 17
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|braceleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|braceleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" braceright.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" braceright.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" braceright.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" braceright.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" braceright.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" braceright.subs
+Comment: "+AAoA-braceright+AAoA"
 EndChar

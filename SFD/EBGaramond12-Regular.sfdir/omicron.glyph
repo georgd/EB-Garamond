@@ -1,37 +1,30 @@
 StartChar: omicron
-Encoding: 959 959 2412
+Encoding: 1204 959 1203
 GlifName: omicron
 Width: 400
-Flags: HMW
-AnchorPoint: "grk_top" 200 530 basechar 0
-AnchorPoint: "grk_bottom" 180 -147 basechar 0
-LayerCount: 3
-Back
-SplineSet
-313 245 m 0
- 313 127 236 -14 138 -14 c 0
- 72.792 -14 35 59 35 140 c 0
- 35 278.24 148 414 234 414 c 0
- 300 414 313 325 313 245 c 0
-275 256 m 0
- 275 293 262.65 327 233 327 c 0
- 146 327 73 185 73 129 c 0
- 73 85 96.1396 64 128 64 c 0
- 193 64 275 193 275 256 c 0
-EndSplineSet
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 217 440 basechar 0
+LayerCount: 2
 Fore
 SplineSet
-175 -14 m 0
- 77 -14 35 97 35 195 c 0
- 35 306 104 414 215 414 c 0
- 319 414 365 299 365 195 c 0
- 365 85 285 -14 175 -14 c 0
-325 235 m 0
- 325 284 289 334 240 334 c 0
- 148 334 75 252 75 160 c 0
- 75 111 106 64 155 64 c 0
- 249 64 325 141 325 235 c 0
+175 -14 m 256
+ 285 -14 365 85 365 195 c 256
+ 365 299 319 414 215 414 c 256
+ 104 414 35 306 35 195 c 256
+ 35 97 77 -14 175 -14 c 256
+155 58 m 256
+ 106 58 75 111 75 160 c 256
+ 75 263 140 339 240 339 c 256
+ 289 339 325 284 325 235 c 256
+ 325 133 253 58 155 58 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Smallcaps1 subtable" omicron.sc
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" omicron.sc
+Comment: "+AAoA-omicron+AAoA"
 EndChar

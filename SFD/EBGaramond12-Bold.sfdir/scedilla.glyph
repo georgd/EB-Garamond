@@ -1,0 +1,22 @@
+StartChar: scedilla
+Encoding: 1372 351 1371
+GlifName: scedilla
+Width: 368
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 188 -30 basechar 0
+AnchorPoint: "top" 202 440 basechar 0
+LayerCount: 2
+Fore
+Refer: 1359 115 N 1 0 0 1 0 0 2
+Refer: 669 184 N 1 0 0 1 37 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" scedilla.sc
+Comment: "+AAoA-scedilla+AAoA"
+EndChar

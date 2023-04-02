@@ -1,14 +1,68 @@
 StartChar: Iotatonos
-Encoding: 906 906 2439
+Encoding: 207 906 207
 GlifName: I_otatonos
-Width: 419
+Width: 480
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 310 -30 basechar 0
+AnchorPoint: "top.cap" 310 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+74 513 m 256
+ 95 549 145 647 145 657 c 256
+ 145 673 126 698 107 698 c 256
+ 99 698 85 692 82 680 c 256
+ 72 644 41 522 41 504 c 256
+ 41 495 41 491 50 491 c 256
+ 58 491 68 503 74 513 c 256
+270 550 m 258
+ 270 98 l 258
+ 270 51 242 33 192 24 c 256
+ 169 20 159 15 159 6 c 256
+ 159 -2 171 -5 188 -5 c 256
+ 242 -5 266 0 316 0 c 256
+ 362 0 379 -5 433 -5 c 256
+ 450 -5 462 -2 462 6 c 256
+ 462 15 452 20 429 24 c 256
+ 379 33 350 51 350 98 c 258
+ 350 550 l 258
+ 350 597 371 613 421 622 c 256
+ 444 626 454 633 454 642 c 256
+ 454 650 442 653 425 653 c 256
+ 371 653 359 650 316 650 c 256
+ 270 650 253 653 199 653 c 256
+ 182 653 170 650 170 642 c 256
+ 170 633 180 626 203 622 c 256
+ 253 613 270 597 270 550 c 258
+EndSplineSet
 Fore
-Refer: 2704 -1 N 1 0 0 1 -34 35 2
-Refer: 634 921 N 1 0 0 1 79 0 2
-Validated: 1
-Substitution2: "c2sc subtable" Iotatonos.sc
-MultipleSubs2: "CCMP_Precomp subtable" Iota acutecomb.grk
+Refer: 203 921 N 1 0 0 1 140 0 2
+Refer: 1476 900 N 1 0 0 1 -31 14 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VIota
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p8
+VIota
+p9
+sVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Iotatonos.sc
+Comment: "+AAoA-Iotatonos+AAoA"
 EndChar

@@ -1,11 +1,39 @@
 StartChar: A.sinf
-Encoding: 65741 -1 1333
-Width: 445
-VWidth: -144
-Flags: MW
+Encoding: 5 -1 5
+GlifName: A_.sinf
+Width: 428
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1231 -1 N 1 0 0 1 -44 -144 2
-Validated: 1
-Comment: "."
+Refer: 2 -1 N 1 0 0 1 -131 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VA.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VA.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VA.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-A.sinf+AAoA"
 EndChar

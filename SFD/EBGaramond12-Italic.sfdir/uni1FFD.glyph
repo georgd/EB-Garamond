@@ -1,12 +1,17 @@
 StartChar: uni1FFD
-Encoding: 8189 8189 757
-Width: 201
+Encoding: 2628 8189 2627
+GlifName: uni1F_F_D_
+Width: 200
 VWidth: 0
-Flags: HMW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 2367 -1 N 1 0 0 1 20 -403 2
-Refer: 2375 -1 N 1 0 0 1 14 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" space.stack acutecomb.grk
+Refer: 1419 900 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FFD+AAoA"
 EndChar

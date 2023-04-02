@@ -1,11 +1,18 @@
 StartChar: uni21A1
-Encoding: 8609 8609 2935
+Encoding: 2925 8609 2924
 GlifName: uni21A_1
 Width: 438
 VWidth: 0
-Flags: MW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 2937 8607 N -1 0 0 -1 438 480 2
-Validated: 1
+Refer: 2922 8607 N -1 0 0 -1 438 480 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Ligature2: "'ss03' Style Set 3 lookup 32 subtable" a r r o w d o w n a r r o w d o w n
+Comment: "+AAoA-uni21A1+AAoA"
 EndChar

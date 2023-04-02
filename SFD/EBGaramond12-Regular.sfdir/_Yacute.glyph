@@ -1,16 +1,70 @@
 StartChar: Yacute
-Encoding: 221 221 154
+Encoding: 471 221 470
 GlifName: Y_acute
 Width: 578
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 305 -30 basechar 0
+AnchorPoint: "top.cap" 320 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+288 685 m 256
+ 291 685 297 687 306 694 c 256
+ 346 724 396 762 436 796 c 256
+ 445 804 449 808 449 815 c 256
+ 449 829 405 838 391 838 c 256
+ 380 838 371 835 364 825 c 256
+ 337 786 311 746 287 706 c 256
+ 284 701 282 695 282 691 c 256
+ 282 688 284 685 288 685 c 256
+264 256 m 258
+ 264 108 l 258
+ 264 60 236 33 186 24 c 256
+ 163 20 153 15 153 6 c 256
+ 153 -2 165 -5 182 -5 c 256
+ 236 -5 260 0 310 0 c 256
+ 356 0 373 -5 427 -5 c 256
+ 444 -5 456 -2 456 6 c 256
+ 456 15 446 20 423 24 c 256
+ 373 33 344 63 344 108 c 258
+ 344 256 l 258
+ 344 295 344 303 369 346 c 256
+ 415 425 426 443 480 526 c 256
+ 516 581 533 607 568 617 c 256
+ 596 625 621 633 621 642 c 256
+ 621 650 609 653 592 653 c 256
+ 569 653 529 650 488 650 c 256
+ 459 650 443 651 413 651 c 256
+ 396 651 384 648 384 640 c 256
+ 384 631 403 622 417 620 c 256
+ 436 617 458 610 458 585 c 256
+ 458 573 453 556 440 534 c 256
+ 406 474 387 442 356 395 c 256
+ 338 367 331 357 323 357 c 256
+ 317 357 310 369 295 395 c 258
+ 203 560 l 258
+ 194 576 190 588 190 596 c 256
+ 190 611 203 616 222 621 c 256
+ 244 626 255 632 255 641 c 256
+ 255 649 243 652 226 652 c 256
+ 205 652 177 650 146 650 c 256
+ 100 650 59 653 29 653 c 256
+ 12 653 0 650 0 642 c 256
+ 0 633 11 627 33 620 c 256
+ 67 610 107 546 122 522 c 258
+ 239 330 l 257
+ 244 321 264 283 264 256 c 258
+EndSplineSet
 Fore
-Refer: 984 -1 N 1 0 0 1 276 0 2
-Refer: 49 89 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Yacute.sc
-MultipleSubs2: "CCMP_Precomp subtable" Y acutecomb.cap
-Position2: "rtbd subtable" dx=0 dy=0 dh=-29 dv=0
-Position2: "lfbd subtable" dx=-29 dy=0 dh=-29 dv=0
+Refer: 463 89 N 1 0 0 1 0 0 2
+Refer: 512 -1 N 1 0 0 1 365 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Yacute.sc
+Comment: "+AAoA-Yacute+AAoA"
 EndChar

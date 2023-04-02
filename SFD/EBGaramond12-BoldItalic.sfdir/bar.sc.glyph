@@ -1,0 +1,25 @@
+StartChar: bar.sc
+Encoding: 603 -1 602
+GlifName: bar.sc
+Width: 279
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+104 -138 m 256
+ 122 -138 199 -132 199 -90 c 258
+ 199 535 l 258
+ 199 549 185 561 171 561 c 256
+ 159 561 80 543 80 500 c 258
+ 80 -110 l 258
+ 80 -124 91 -138 104 -138 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-bar.sc+AAoA"
+EndChar

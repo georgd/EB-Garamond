@@ -1,28 +1,25 @@
 StartChar: semicolon
-Encoding: 59 59 63
-Width: 259
+Encoding: 1383 59 1382
+GlifName: semicolon
+Width: 251
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-42 -150 m 0
- 28 -150 20 -146 20 -136 c 0
- 20 -128 26 -124 35 -122 c 0
- 79 -113 132 -82 132 -15 c 0
- 132 -2 110 24 81 26 c 0
- 43 29 18 46 18 71 c 0
- 18 102 55 120 95 120 c 0
- 161 120 212 79 212 20 c 0
- 212 -85 102 -150 42 -150 c 0
-100 376 m 0
- 144 376 184 351 184 318 c 0
- 184 285 144 260 100 260 c 0
- 56 260 17 285 17 318 c 0
- 17 351 56 376 100 376 c 0
-EndSplineSet
-Substitution2: "sups subtable" semicolon.sups
-Substitution2: "sinf subtable" semicolon.sinf
-Substitution2: "ordn subtable" semicolon.ordn
-Substitution2: "subs subtable" semicolon.subs
+Refer: 1271 46 N 1 0 0 1 -10 277 2
+Refer: 697 44 N 1 0 0 1 0 0 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" semicolon.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" semicolon.sc
+Substitution2: "'ordn' Ordinals lookup 15 subtable" semicolon.ordn
+Substitution2: "'sups' Superscript lookup 9 subtable" semicolon.sups
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" semicolon.sinf
+Substitution2: "'subs' Subscript lookup 7 subtable" semicolon.subs
+Comment: "+AAoA-semicolon+AAoA"
 EndChar

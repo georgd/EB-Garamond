@@ -1,12 +1,20 @@
 StartChar: ydieresis
-Encoding: 255 255 178
-Width: 420
+Encoding: 3024 255 3023
+GlifName: ydieresis
+Width: 405
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "top" 239 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 624 776 N 1 0 0 1 165 0 2
-Refer: 24 121 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" ydieresis.sc
-MultipleSubs2: "CCMP_Precomp subtable" y uni0308
+Refer: 3012 121 N 1 0 0 1 0 0 2
+Refer: 718 168 N 1 0 0 1 17 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" ydieresis.sc
+Comment: "+AAoA-ydieresis+AAoA"
 EndChar

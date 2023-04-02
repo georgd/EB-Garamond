@@ -1,0 +1,33 @@
+StartChar: radical
+Encoding: 1347 8730 1346
+GlifName: radical
+Width: 360
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+193 -102 m 256
+ 197 -102 202 -92 204 -88 c 256
+ 216 -64 226 -21 228 -11 c 258
+ 364 590 l 258
+ 366 601 372 602 380 602 c 258
+ 477 601 l 257
+ 488 631 493 661 490 691 c 257
+ 357 691 l 258
+ 349 691 345 684 342 672 c 258
+ 211 68 l 258
+ 209 59 201 62 200 67 c 257
+ 107 414 l 257
+ 20 411 l 257
+ 159 -34 l 258
+ 165 -52 176 -81 182 -95 c 256
+ 184 -100 189 -102 193 -102 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.98,0.36,0.67,1
+p2
+s."
+EndChar

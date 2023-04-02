@@ -1,13 +1,41 @@
 StartChar: cdotaccent
-Encoding: 267 267 190
-Width: 318
+Encoding: 664 267 663
+GlifName: cdotaccent
+Width: 313
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 107 -30 basechar 0
+AnchorPoint: "top" 231 440 basechar 0
 LayerCount: 2
+Back
+SplineSet
+310 613 m 256
+ 278 613 254 584 254 552 c 256
+ 254 532 269 513 289 513 c 256
+ 319 513 344 540 344 570 c 256
+ 344 591 331 613 310 613 c 256
+347 375 m 256
+ 347 385 330 414 292 414 c 256
+ 122 414 42 204 42 84 c 256
+ 41 8 83 -15 122 -15 c 256
+ 218 -15 278 72 278 84 c 256
+ 278 90 280 98 274 98 c 256
+ 269 98 263 97 257 89 c 257
+ 229 56 203 26 155 26 c 256
+ 123 26 114 66 114 98 c 256
+ 114 208 188 380 252 380 c 256
+ 300 380 294 333 317 333 c 256
+ 331 333 347 362 347 375 c 256
+EndSplineSet
 Fore
-Refer: 122 775 N 1 0 0 1 244 0 2
-Refer: 14 99 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" cdotaccent.sc
-MultipleSubs2: "CCMP_Precomp subtable" c uni0307
+Refer: 644 99 N 1 0 0 1 0 0 2
+Refer: 730 729 N 1 0 0 1 77 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" cdotaccent.sc
+Comment: "+AAoA-cdotaccent+AAoA"
 EndChar

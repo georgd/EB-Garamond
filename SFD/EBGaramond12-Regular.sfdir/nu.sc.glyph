@@ -1,11 +1,13 @@
 StartChar: nu.sc
-Encoding: 1115019 -1 2731
+Encoding: 1166 -1 1165
 GlifName: nu.sc
-Width: 600
+Width: 605
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 320 -30 basechar 0
+AnchorPoint: "top" 328 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1680 -1 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 266 -1 N 1 0 0 1 0 0 2
+Comment: "+AAoA-nu.sc+AAoA"
 EndChar

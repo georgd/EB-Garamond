@@ -1,0 +1,31 @@
+StartChar: uni02A1
+Encoding: 1858 673 1857
+GlifName: uni02A_1
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+97 160 m 258
+ 380 160 l 258
+ 402 160 423 185 423 203 c 256
+ 423 213 413 222 400 222 c 258
+ 102 222 l 258
+ 85 222 73 209 73 191 c 256
+ 73 177 80 160 97 160 c 258
+EndSplineSet
+Refer: 1844 660 N 1 0 0 1 5 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=uni0294+5
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=uni0294+5
+p4
+s."
+Comment: "+AAoA-uni02A1+AAoA"
+EndChar

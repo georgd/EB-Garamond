@@ -1,11 +1,39 @@
 StartChar: Y.sups
-Encoding: 65969 -1 1561
-Width: 402
-VWidth: 440
-Flags: MW
+Encoding: 470 -1 469
+GlifName: Y_.sups
+Width: 362
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1255 -1 N 1 0 0 1 135 440 2
-Validated: 1
-Comment: "."
+Refer: 464 -1 N 1 0 0 1 49 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VY.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VY.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VY.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-Y.sups+AAoA"
 EndChar

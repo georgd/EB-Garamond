@@ -1,35 +1,39 @@
 StartChar: uni2091
-Encoding: 8337 8337 812
+Encoding: 2849 8337 2848
 GlifName: uni2091
-Width: 232
+Width: 259
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-9 -58 m 0
- 9 35 71 78 144 78 c 2
- 146 78 l 2
- 186 78 225 52 225 14 c 0
- 225 0 224 -20 214 -25 c 0
- 205 -29 185 -29 167 -29 c 18
- 73 -31 l 2
- 65 -31 64 -37 64 -47 c 2
- 64 -57 l 1
- 65 -88 94 -136 144 -137 c 0
- 166 -137 180 -128 200 -112 c 0
- 201 -111 202 -111 204 -111 c 0
- 212 -111 225 -123 222 -128 c 0
- 204 -156 175 -179 126 -179 c 0
- 68 -179 9 -130 9 -58 c 0
-75 7 m 0
- 74 5 74 3 74 2 c 0
- 74 -2 78 -2 81 -2 c 2
- 118 -2 l 10
- 136 -2 150 -1 163 3 c 8
- 171 5 171 18 171 23 c 0
- 171 45 154 51 134 51 c 0
- 98 51 85 32 75 7 c 0
-EndSplineSet
-Validated: 1
+Refer: 753 -1 N 1 0 0 1 0 -453 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Ve.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+Ve.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Ve.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-uni2091+AAoA"
 EndChar

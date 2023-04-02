@@ -1,16 +1,63 @@
 StartChar: E.sc
-Encoding: 1114640 -1 1639
+Encoding: 84 -1 84
 GlifName: E_.sc
 Width: 480
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 267 8 basechar 0
-AnchorPoint: "ogonek" 368 18 basechar 0
-AnchorPoint: "below_accent" 258 -100 basechar 0
-AnchorPoint: "top_accent" 247 615 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 247 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1671 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+50 -3 m 256
+ 89 -3 112 2 148 3 c 256
+ 217 3 302 -2 401 -2 c 256
+ 408 -2 417 4 418 10 c 257
+ 424 32 432 67 435 94 c 257
+ 435 100 434 110 425 110 c 256
+ 416 110 413 99 411 95 c 257
+ 398 66 369 37 328 37 c 258
+ 228 37 l 258
+ 198 37 195 42 195 78 c 258
+ 195 192 l 258
+ 195 211 201 210 220 210 c 256
+ 241 210 270 210 290 208 c 256
+ 301 206 316 201 322 180 c 257
+ 324 176 328 156 340 156 c 256
+ 346 156 351 167 350 173 c 257
+ 349 192 346 210 346 228 c 256
+ 346 243 348 267 349 283 c 257
+ 350 289 345 298 337 298 c 256
+ 330 298 324 288 322 281 c 257
+ 314 257 306 242 285 242 c 258
+ 206 242 l 258
+ 200 242 195 259 195 266 c 258
+ 195 399 l 258
+ 195 412 212 417 220 417 c 258
+ 317 417 l 258
+ 352 417 363 391 377 358 c 256
+ 382 346 391 340 396 340 c 256
+ 400 340 404 349 404 353 c 256
+ 404 366 396 394 394 445 c 257
+ 394 450 386 451 382 451 c 256
+ 336 451 239 448 151 448 c 256
+ 116 448 97 453 58 453 c 256
+ 51 453 38 449 38 441 c 256
+ 38 431 50 424 62 422 c 256
+ 104 415 120 393 120 352 c 258
+ 120 79 l 258
+ 120 43 89 32 54 25 c 256
+ 43 23 30 19 30 9 c 256
+ 30 1 43 -3 50 -3 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vh.sc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-E.sc+AAoA"
 EndChar

@@ -1,13 +1,88 @@
 StartChar: lcaron
-Encoding: 318 318 232
-Width: 252
+Encoding: 1037 318 1036
+GlifName: lcaron
+Width: 292
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom" 67 -30 basechar 0
 LayerCount: 2
+Back
+SplineSet
+-150 -14 m 256
+ -78 -14 -15 31 77 147 c 257
+ 81 153 85 147 83 137 c 257
+ 88 160 71 86 65 57 c 256
+ 62 41 61 36 61 31 c 256
+ 61 9 83 -14 105 -14 c 256
+ 148 -14 255 82 255 120 c 257
+ 256 125 254 128 249 128 c 256
+ 246 128 244 127 241 123 c 256
+ 214 86 169 54 143 54 c 256
+ 133 54 129 61 129 76 c 256
+ 129 86 131 96 134 107 c 258
+ 296 668 l 258
+ 299 677 300 684 300 691 c 256
+ 300 700 296 705 288 705 c 256
+ 281 705 236 699 195 693 c 256
+ 171 689 161 684 161 675 c 256
+ 161 671 161 671 191 661 c 256
+ 212 653 219 645 219 631 c 256
+ 219 627 219 627 215 611 c 258
+ 148 386 l 258
+ 147 383 144 379 143 379 c 257
+ 145 379 147 378 119 395 c 256
+ 82 419 79 420 62 420 c 256
+ 19 420 -37 386 -89 327 c 256
+ -162 245 -215 133 -215 58 c 256
+ -215 15 -189 -14 -150 -14 c 256
+-113 33 m 256
+ -139 33 -147 42 -147 71 c 256
+ -147 179 0 388 76 388 c 256
+ 108 388 126 365 126 326 c 256
+ 126 217 -24 33 -113 33 c 256
+346 519 m 256
+ 359 519 449 622 449 689 c 256
+ 449 696 447 704 441 704 c 256
+ 419 704 381 674 377 653 c 256
+ 367 601 359 570 347 542 c 256
+ 344 535 341 530 341 525 c 256
+ 341 521 342 519 346 519 c 256
+EndSplineSet
 Fore
-Refer: 2143 -1 N 1 0 0 1 209 64 2
-Refer: 2 108 N 1 0 0 1 0 0 3
-MultipleSubs2: "cv82_decomp subtable" l uni030C.alt
-Substitution2: "Smallcaps1 subtable" lcaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" l uni030C.alt
+Refer: 1026 108 N 1 0 0 1 0 0 2
+Refer: 1807 -1 N 1 0 0 1 296 90 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vl
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni030C.alt
+p9
+sasVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+Vdcaron
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" lcaron.sc
+Comment: "+AAoA-lcaron+AAoA"
 EndChar

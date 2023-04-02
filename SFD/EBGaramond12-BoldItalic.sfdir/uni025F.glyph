@@ -1,0 +1,27 @@
+StartChar: uni025F
+Encoding: 1727 607 1726
+GlifName: uni025F_
+Width: 303
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 244 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+46 163 m 258
+ 273 163 l 258
+ 296 163 311 184 315 201 c 257
+ 315 203 316 204 316 206 c 256
+ 316 216 306 225 293 225 c 258
+ 51 225 l 258
+ 34 225 22 212 22 194 c 256
+ 22 180 29 163 46 163 c 258
+EndSplineSet
+Refer: 999 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+EndChar

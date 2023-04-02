@@ -1,0 +1,32 @@
+StartChar: brokenbar.ordn
+Encoding: 636 -1 635
+GlifName: brokenbar.ordn
+Width: 185
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+137 170 m 256
+ 148 170 190 174 190 196 c 258
+ 190 399 l 258
+ 190 406 183 413 174 413 c 256
+ 168 413 124 403 124 379 c 258
+ 124 186 l 258
+ 124 178 130 170 137 170 c 256
+136 445 m 256
+ 146 445 188 447 188 470 c 258
+ 188 664 l 258
+ 188 670 181 677 173 677 c 256
+ 167 677 123 668 123 645 c 258
+ 123 459 l 258
+ 123 452 129 445 136 445 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-brokenbar.ordn+AAoA"
+EndChar

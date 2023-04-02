@@ -1,12 +1,25 @@
 StartChar: underscore.ordn
-Encoding: 1114464 -1 1463
+Encoding: 1548 -1 1547
 GlifName: underscore.ordn
 Width: 325
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1261 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+9 211 m 258
+ 305 211 l 258
+ 317 211 325 223 325 234 c 256
+ 325 238 321 247 317 247 c 258
+ 16 247 l 258
+ 5 247 0 229 0 224 c 256
+ 0 220 3 211 9 211 c 258
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-underscore.ordn+AAoA"
 EndChar

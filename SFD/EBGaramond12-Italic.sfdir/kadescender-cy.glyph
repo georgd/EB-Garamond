@@ -1,0 +1,38 @@
+StartChar: kadescender-cy
+Encoding: 1018 1179 1017
+GlifName: kadescender-cy
+Width: 476
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 277 440 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+211 -220 m 256
+ 220 -220 279 -204 314 -180 c 256
+ 364 -146 383 -78 396 0 c 256
+ 400 24 422 61 440 96 c 257
+ 399 66 l 257
+ 403 60 l 257
+ 376 23 356 -6 342 -29 c 256
+ 328 -53 320 -68 309 -100 c 256
+ 285 -170 246 -187 204 -201 c 257
+ 199 -203 195 -205 195 -210 c 256
+ 195 -218 204 -220 211 -220 c 256
+EndSplineSet
+Refer: 1023 312 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vuni043A
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vuni043A
+p4
+sVpublic.markColor
+p5
+V0.98,0.36,0.67,1
+p6
+s."
+EndChar

@@ -1,40 +1,41 @@
 StartChar: seven
-Encoding: 55 55 80
+Encoding: 1390 55 1389
 GlifName: seven
-Width: 460
+Width: 480
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-SplineSet
-344 313 m 2
- 346 318 349 322 334 323 c 0
- 295 324 160 326 128 326 c 2
- 115 326 l 2
- 95 326 71 324 55 303 c 0
- 50 297 38 281 29 281 c 0
- 25 281 24 284 24 289 c 0
- 24 296 27 306 28 311 c 0
- 35 340 40 370 40 395 c 0
- 40 405 47 406 50 406 c 0
- 53 406 88 403 113 402 c 0
- 142 401 180 401 220 401 c 0
- 309 401 407 403 426 407 c 0
- 430 407 433 398 433 393 c 0
- 433 377 405 340 395 323 c 2
- 115 -166 l 10
- 109 -177 100 -193 96 -193 c 0
- 81 -193 68 -182 68 -167 c 0
- 68 -163 80 -142 89 -126 c 18
- 344 313 l 2
-EndSplineSet
-Validated: 1
-Substitution2: "'tnum' Tabular Numbers lookup 35 subtable" seven.taboldstyle
-Substitution2: "'lnum' Lining Figures lookup 33 subtable" seven.lnum
-Substitution2: "Single Substitution lookup 32 subtable" seven.ordn
-Substitution2: "Single Substitution lookup 31 subtable" seven.subs
-Substitution2: "sups subtable" seven.sups
-Substitution2: "sinf subtable" seven.sinf
-Substitution2: "ordn subtable" seven.ordn
-Substitution2: "subs subtable" seven.subs
+Refer: 1391 -1 N 1 0 0 1 16 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+Vseven.lf
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Substitution2: "'case' Case-Sensitive Forms lookup 25 subtable" seven.lf
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" seven.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" seven.sc
+Substitution2: "'onum' Oldstyle Figures lookup 19 subtable" seven.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 17 subtable" seven.lf
+Substitution2: "'ordn' Ordinals lookup 15 subtable" seven.ordn
+Substitution2: "UP subtable" seven.numr
+Substitution2: "'sups' Superscript lookup 9 subtable" sevensuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 8 subtable" seveninferior
+Substitution2: "'subs' Subscript lookup 7 subtable" seven.subs
+Comment: "+AAoA-seven.tablining+AAoA"
 EndChar

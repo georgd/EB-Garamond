@@ -1,12 +1,38 @@
 StartChar: braceleft.ordn
-Encoding: 1114492 -1 1491
+Encoding: 614 -1 613
 GlifName: braceleft.ordn
-Width: 242
-VWidth: 280
-Flags: HMW
-LayerCount: 3
+Width: 259
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1289 -1 N 1 0 0 1 0 280 2
-Validated: 1
-Comment: "."
+SplineSet
+237 188 m 256
+ 243 188 249 192 249 197 c 256
+ 249 206 239 212 232 212 c 256
+ 196 212 163 228 163 272 c 256
+ 163 304 163 336 163 368 c 256
+ 163 410 112 442 91 447 c 257
+ 89 448 87 449 90 450 c 256
+ 117 460 163 486 163 528 c 256
+ 163 563 162 587 162 624 c 256
+ 162 668 196 685 232 685 c 256
+ 239 685 249 691 249 700 c 256
+ 249 705 243 709 237 709 c 256
+ 179 709 112 685 112 629 c 256
+ 112 587 113 559 113 522 c 256
+ 113 488 87 473 52 461 c 257
+ 47 459 45 456 45 449 c 256
+ 45 442 47 438 52 436 c 257
+ 87 424 113 408 113 374 c 256
+ 113 338 113 303 113 267 c 256
+ 113 211 180 188 237 188 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-braceleft.ordn+AAoA"
 EndChar

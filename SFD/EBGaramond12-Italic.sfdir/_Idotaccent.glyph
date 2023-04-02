@@ -1,12 +1,21 @@
 StartChar: Idotaccent
-Encoding: 304 304 114
-Width: 371
+Encoding: 195 304 195
+GlifName: I_dotaccent
+Width: 362
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 118 -30 basechar 0
+AnchorPoint: "top.cap" 331 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 2079 -1 N 1 0 0 1 311 0 2
-Refer: 33 73 N 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Idotaccent.sc
-MultipleSubs2: "CCMP_Precomp subtable" I uni0307.cap
+Refer: 177 73 N 1 0 0 1 0 0 2
+Refer: 1789 -1 N 1 0 0 1 185 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Idotaccent.sc
+Comment: "+AAoA-Idotaccent+AAoA"
 EndChar

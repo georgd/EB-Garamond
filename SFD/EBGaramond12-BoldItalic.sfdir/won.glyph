@@ -1,0 +1,34 @@
+StartChar: won
+Encoding: 3004 8361 3003
+GlifName: won
+Width: 1121
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 437 -30 basechar 0
+AnchorPoint: "top.cap" 720 675 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+85 306 m 258
+ 1020 309 l 257
+ 1041 310 1063 333 1064 343 c 257
+ 1064 350 1056 361 1046 361 c 257
+ 99 359 l 257
+ 81 358 66 336 65 324 c 257
+ 65 315 75 306 85 306 c 258
+EndSplineSet
+Refer: 439 87 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VW
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.98,0.36,0.67,1
+p5
+s."
+EndChar

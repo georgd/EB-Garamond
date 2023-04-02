@@ -1,14 +1,48 @@
 StartChar: igrave
-Encoding: 236 236 164
+Encoding: 1010 236 1009
 GlifName: igrave
 Width: 245
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 116 -30 basechar 0
+AnchorPoint: "top" 124 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+108 478 m 256
+ 116 469 130 456 138 456 c 256
+ 147 456 147 460 147 469 c 256
+ 147 484 85 598 66 631 c 256
+ 60 641 49 649 39 649 c 256
+ 14 649 -10 642 -10 626 c 256
+ -10 612 77 511 108 478 c 256
+162 434 m 256
+ 154 434 109 393 42 377 c 256
+ 38 376 35 370 35 365 c 256
+ 35 359 38 353 43 352 c 256
+ 77 345 90 315 90 279 c 258
+ 90 62 l 258
+ 90 35 67 30 47 24 c 257
+ 36 20 24 16 24 6 c 256
+ 24 -2 36 -3 44 -3 c 256
+ 83 -3 90 2 125 2 c 256
+ 160 2 168 -3 206 -3 c 256
+ 215 -3 226 -2 226 6 c 256
+ 226 16 214 20 203 24 c 257
+ 183 30 160 35 160 62 c 258
+ 160 294 l 258
+ 160 339 165 388 169 429 c 257
+ 169 432 166 434 162 434 c 256
+EndSplineSet
 Fore
-Refer: 968 768 N 1 0 0 1 -18 0 2
-Refer: 76 305 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" igrave.sc
-MultipleSubs2: "CCMP_Precomp subtable" i.dotless gravecomb
+Refer: 747 305 N 1 0 0 1 0 0 2
+Refer: 931 768 N 1 0 0 1 76 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" igrave.sc
+Comment: "+AAoA-igrave+AAoA"
 EndChar

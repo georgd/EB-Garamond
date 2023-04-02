@@ -1,29 +1,52 @@
 StartChar: tcaron
-Encoding: 357 357 263
+Encoding: 1445 357 1444
 GlifName: tcaron
 Width: 314
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 188 -30 basechar 0
+AnchorPoint: "top" 136 440 basechar 0
+LayerCount: 2
 Back
 SplineSet
-215 602 m 0x9e
- 215 628 247 650 268 650 c 0
- 280 650 284 636 284 620 c 0
- 284 615 284 611 283 606 c 0
- 273 537 260 513 245 482 c 0
- 239 470 228 457 223 457 c 0
- 219 457 217 467 217 480 c 0
- 217 499 220 523 220 529 c 0
- 220 546 215 569 215 602 c 0x9e
+219 597 m 256
+ 219 581 224 561 224 524 c 256
+ 224 509 221 480 221 475 c 256
+ 221 462 224 452 228 452 c 256
+ 234 452 241 460 249 477 c 256
+ 267 514 282 578 282 615 c 256
+ 282 631 281 645 269 645 c 256
+ 248 645 219 618 219 597 c 256
+189 -14 m 256
+ 250 -14 306 36 306 47 c 256
+ 306 55 302 64 296 60 c 257
+ 280 48 260 41 221 41 c 256
+ 190 41 155 61 155 135 c 258
+ 155 324 l 258
+ 155 351 161 352 195 352 c 258
+ 294 352 l 258
+ 299 352 304 364 304 376 c 256
+ 304 388 299 400 294 400 c 258
+ 180 400 l 258
+ 167 400 153 405 155 414 c 257
+ 163 458 l 257
+ 164 467 152 468 146 468 c 256
+ 136 468 93 394 40 379 c 257
+ 38 378 35 375 35 372 c 256
+ 35 365 43 352 47 352 c 256
+ 78 352 85 349 85 337 c 258
+ 85 105 l 258
+ 85 22 127 -14 189 -14 c 256
 EndSplineSet
-Refer: 1 116 N 1 0 0 1 0 0 2
 Fore
-Refer: 2926 -1 N 1 0 0 1 214 -60 2
-Refer: 1 116 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" tcaron.sc
-MultipleSubs2: "cv82_decomp subtable" t uni030C.alt
-MultipleSubs2: "CCMP_Precomp subtable" t uni030C.alt
-Position2: "rtbd subtable" dx=0 dy=0 dh=-22 dv=0
+Refer: 1430 116 N 1 0 0 1 0 0 2
+Refer: 1943 -1 N 1 0 0 1 254 -59 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" tcaron.sc
+Comment: "+AAoA-tcaron+AAoA"
 EndChar

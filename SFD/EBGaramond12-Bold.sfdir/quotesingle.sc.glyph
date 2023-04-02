@@ -1,0 +1,38 @@
+StartChar: quotesingle.sc
+Encoding: 1334 -1 1333
+GlifName: quotesingle.sc
+Width: 245
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+81 267 m 256
+ 88 267 105 284 113 299 c 256
+ 137 345 183 449 183 514 c 256
+ 183 534 172 552 156 552 c 256
+ 130 552 115 543 91 527 c 256
+ 78 519 61 504 61 484 c 256
+ 61 449 67 410 67 363 c 256
+ 67 341 70 322 69 296 c 256
+ 69 285 71 267 81 267 c 256
+EndSplineSet
+Fore
+Refer: 1330 39 N 1 0 0 1 0 -131 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vquotesingle
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vquotesingle
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-quotesingle.sc+AAoA"
+EndChar

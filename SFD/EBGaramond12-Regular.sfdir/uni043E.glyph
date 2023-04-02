@@ -1,14 +1,19 @@
 StartChar: uni043E
-Encoding: 1086 1086 664
+Encoding: 2139 1086 2138
 GlifName: uni043E_
 Width: 495
 VWidth: 0
-Flags: HMW
-AnchorPoint: "ogonek" 337 18 basechar 0
-AnchorPoint: "below_accent" 246 -100 basechar 0
-AnchorPoint: "top_accent" 246 550 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -30 basechar 0
+AnchorPoint: "top" 254 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 3 111 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 1172 111 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni043E+AAoA"
 EndChar

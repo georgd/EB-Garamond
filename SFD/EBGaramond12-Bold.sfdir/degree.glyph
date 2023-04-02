@@ -1,20 +1,44 @@
 StartChar: degree
-Encoding: 176 176 104
-Width: 295
+Encoding: 729 176 728
+GlifName: degree
+Width: 359
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+145 402 m 256
+ 208 402 265 464 265 528 c 256
+ 265 592 208 645 145 645 c 256
+ 82 645 25 590 25 526 c 256
+ 25 462 82 402 145 402 c 256
+145 444 m 256
+ 103 444 68 481 68 523 c 256
+ 68 567 103 602 145 602 c 256
+ 187 602 222 567 222 523 c 256
+ 222 481 187 444 145 444 c 256
+EndSplineSet
 Fore
 SplineSet
-148 648 m 0
- 212 648 271 595 271 528 c 0
- 271 461 212 399 148 399 c 0
- 84 399 24 461 24 528 c 0
- 24 595 84 648 148 648 c 0
-97 522 m 0
- 97 485 120 451 148 451 c 0
- 176 451 198 485 198 522 c 0
- 198 560 176 594 148 594 c 0
- 120 594 97 560 97 522 c 0
+181 376 m 256
+ 272 376 334 452 334 531 c 256
+ 334 610 272 675 181 675 c 256
+ 88 675 25 610 25 531 c 256
+ 25 452 88 376 181 376 c 256
+180 436 m 256
+ 133 436 96 473 96 525 c 256
+ 96 577 133 613 180 613 c 256
+ 225 613 263 577 263 525 c 256
+ 263 473 225 436 180 436 c 256
 EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" degree.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" degree.sc
+Comment: "+AAoA-degree+AAoA"
 EndChar

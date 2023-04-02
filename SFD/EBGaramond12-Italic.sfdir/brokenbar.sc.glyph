@@ -1,11 +1,32 @@
 StartChar: brokenbar.sc
-Encoding: 66114 -1 1706
+Encoding: 637 -1 636
+GlifName: brokenbar.sc
 Width: 260
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 107 166 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+SplineSet
+114 -127 m 256
+ 123 -127 162 -124 162 -103 c 258
+ 162 172 l 258
+ 162 182 155 194 148 194 c 256
+ 142 194 102 181 102 171 c 258
+ 102 -113 l 258
+ 102 -120 108 -127 114 -127 c 256
+114 261 m 256
+ 123 261 162 272 162 282 c 258
+ 162 536 l 258
+ 162 543 155 549 148 549 c 256
+ 142 549 102 540 102 518 c 258
+ 102 284 l 258
+ 102 274 108 261 114 261 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-brokenbar.sc+AAoA"
 EndChar

@@ -1,0 +1,62 @@
+StartChar: Eth
+Encoding: 131 208 131
+GlifName: E_th
+Width: 769
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 364 -30 basechar 0
+AnchorPoint: "top.cap" 381 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+31 317 m 257
+ 330 317 l 257
+ 345 317 354 326 361 339 c 257
+ 361 340 362 341 362 342 c 256
+ 362 348 354 353 348 353 c 257
+ 41 353 l 257
+ 29 353 17 344 17 335 c 256
+ 17 329 22 317 31 317 c 257
+342 -7 m 256
+ 533 -7 690 150 690 342 c 256
+ 690 517 582 659 311 659 c 256
+ 284 659 183 651 140 651 c 256
+ 92 651 80 653 29 653 c 256
+ 12 653 0 649 0 640 c 256
+ 0 629 10 626 33 622 c 256
+ 83 613 100 597 100 549 c 258
+ 100 99 l 258
+ 100 51 83 33 33 24 c 256
+ 10 20 0 19 0 8 c 256
+ 0 -2 12 -5 29 -5 c 256
+ 82 -5 94 0 134 0 c 256
+ 213 0 322 -7 342 -7 c 256
+330 28 m 256
+ 255 28 180 40 180 121 c 258
+ 180 567 l 258
+ 180 627 229 628 316 628 c 256
+ 453 628 595 517 595 325 c 256
+ 595 151 486 28 330 28 c 256
+EndSplineSet
+Fore
+SplineSet
+57 304 m 258
+ 342 304 l 258
+ 365 304 380 325 384 342 c 257
+ 384 344 385 345 385 347 c 256
+ 385 357 375 366 362 366 c 258
+ 62 366 l 258
+ 45 366 33 353 33 335 c 256
+ 33 321 40 304 57 304 c 258
+EndSplineSet
+Refer: 69 68 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Eth.sc
+Comment: "+AAoA-Eth+AAoA"
+EndChar

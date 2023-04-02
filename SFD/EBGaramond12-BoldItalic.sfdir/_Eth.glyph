@@ -1,0 +1,68 @@
+StartChar: Eth
+Encoding: 128 208 128
+GlifName: E_th
+Width: 729
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 290 -30 basechar 0
+AnchorPoint: "top.cap" 454 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+100 304 m 258
+ 385 304 l 258
+ 408 304 430 325 439 342 c 257
+ 440 344 441 345 442 347 c 256
+ 447 356 437 366 424 366 c 258
+ 124 366 l 258
+ 107 366 91 353 86 335 c 256
+ 82 321 83 304 100 304 c 258
+332 -7 m 256
+ 566 -7 742 159 797 335 c 256
+ 857 528 733 659 547 659 c 256
+ 493 659 372 650 333 650 c 256
+ 293 650 229 655 185 655 c 256
+ 177 655 165 649 162 640 c 256
+ 158 628 163 621 174 618 c 256
+ 224 604 233 594 220 551 c 258
+ 79 97 l 258
+ 66 56 48 46 -6 34 c 256
+ -19 31 -28 24 -32 12 c 256
+ -35 3 -27 -3 -19 -3 c 256
+ 25 -3 92 0 132 0 c 256
+ 158 0 252 -7 332 -7 c 256
+333 48 m 256
+ 265 48 242 72 261 134 c 258
+ 384 533 l 258
+ 399 580 434 601 494 601 c 256
+ 631 601 659 481 605 306 c 256
+ 557 149 464 48 333 48 c 256
+EndSplineSet
+Fore
+SplineSet
+58 304 m 258
+ 344 304 l 258
+ 363 304 387 322 401 347 c 256
+ 406 356 396 366 383 366 c 258
+ 82 366 l 258
+ 65 366 49 353 44 335 c 256
+ 40 321 41 304 58 304 c 258
+EndSplineSet
+Refer: 68 68 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VD
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VO
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Eth.sc
+Comment: "+AAoA-Eth+AAoA"
+EndChar

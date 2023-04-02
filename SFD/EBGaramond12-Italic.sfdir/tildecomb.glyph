@@ -1,25 +1,50 @@
 StartChar: tildecomb
-Encoding: 771 771 111
+Encoding: 1414 771 1413
+GlifName: tildecomb
 Width: 0
 VWidth: 0
-Flags: MW
-AnchorPoint: "top_stack" 193 644 basemark 0
-AnchorPoint: "top_accent" 165 550 mark 0
+AnchorPoint: "top" 74 440 mark 0
+AnchorPoint: "topstack" 85 440 mark 0
+AnchorPoint: "comb" 103 421 basechar 0
 LayerCount: 2
+Back
+SplineSet
+-11 488 m 256
+ -7 488 2 499 13 509 c 256
+ 23 517 34 525 46 525 c 256
+ 71 525 133 518 158 518 c 256
+ 183 518 243 585 243 595 c 256
+ 243 605 237 612 227 612 c 256
+ 223 612 217 603 208 595 c 256
+ 200 586 187 578 170 578 c 256
+ 145 578 88 586 63 586 c 256
+ 38 586 -25 518 -25 508 c 256
+ -25 498 -21 488 -11 488 c 256
+EndSplineSet
 Fore
 SplineSet
-40 488 m 0
- 30 488 26 498 26 508 c 0
- 26 518 89 586 114 586 c 0
- 139 586 196 578 221 578 c 0
- 256 578 270 612 278 612 c 0
- 288 612 294 605 294 595 c 0
- 294 585 234 518 209 518 c 0
- 184 518 122 525 97 525 c 0
- 72 525 48 488 40 488 c 0
+-18 469 m 256
+ -14 469 -2 483 9 493 c 256
+ 16 499 20 500 29 500 c 256
+ 77 500 132 492 148 492 c 256
+ 152 492 169 496 177 506 c 256
+ 190 522 204 542 220 558 c 256
+ 229 567 238 576 238 580 c 256
+ 238 590 229 597 219 597 c 256
+ 215 597 209 587 195 573 c 256
+ 185 563 175 558 160 558 c 256
+ 142 558 126 560 104 562 c 256
+ 85 564 75 567 53 567 c 256
+ 28 567 -34 494 -34 484 c 256
+ -34 474 -28 469 -18 469 c 256
 EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 16 subtable" tildecomb.stack
-Substitution2: "Single Substitution lookup 14 subtable" tildecomb.stack
-Substitution2: "'case' Case-Sensitive Forms lookup 7 subtable" tildecomb.cap
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" tildecomb.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" tildecomb.sc
+Comment: "+AAoA-tildecomb+AAoA"
 EndChar

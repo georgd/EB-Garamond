@@ -1,12 +1,39 @@
 StartChar: Egrave.sups
-Encoding: 66010 -1 1602
-Width: 369
-VWidth: 439
-Flags: HMW
+Encoding: 106 -1 106
+GlifName: E_grave.sups
+Width: 387
+VWidth: 0
+Flags: W
 LayerCount: 2
 Fore
-Refer: 2074 -1 N 1 0 0 1 245 195 2
-Refer: 1541 -1 N 1 0 0 1 0 0 3
-Validated: 1
-Comment: "."
+Refer: 102 -1 N 1 0 0 1 50 160 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VEgrave.ordn
+p7
+sasVcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p8
+VEgrave.ordn
+p9
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p10
+VEgrave.ordn
+p11
+sVpublic.markColor
+p12
+V0.67,0.95,0.38,1
+p13
+s."
+Comment: "+AAoA-Egrave.sups+AAoA"
 EndChar

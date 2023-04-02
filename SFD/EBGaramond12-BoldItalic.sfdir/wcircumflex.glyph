@@ -1,0 +1,21 @@
+StartChar: wcircumflex
+Encoding: 2998 373 2997
+GlifName: wcircumflex
+Width: 710
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 272 -30 basechar 0
+AnchorPoint: "top" 455 440 basechar 0
+LayerCount: 2
+Fore
+Refer: 2985 119 N 1 0 0 1 0 0 2
+Refer: 676 710 N 1 0 0 1 208 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" wcircumflex.sc
+Comment: "+AAoA-wcircumflex+AAoA"
+EndChar

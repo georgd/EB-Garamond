@@ -1,9 +1,13 @@
 StartChar: j.hist
-Encoding: 66417 -1 2147
-Width: 274
-Flags: MW
+Encoding: 1001 -1 1000
+GlifName: j.hist
+Width: 294
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 88 -30 basechar 0
+AnchorPoint: "top" 220 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 5 105 S 1 0 0 1 0 0 2
-Validated: 1
+Refer: 962 105 N 1 0 0 1 0 0 2
+Comment: "+AAoA-j.hist+AAoA"
 EndChar

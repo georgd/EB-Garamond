@@ -1,0 +1,35 @@
+StartChar: uniA743
+Encoding: 2933 42819 2932
+GlifName: uniA_743
+Width: 455
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 147 -30 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+190 44 m 257
+ 345 130 l 257
+ 358 138 362 149 362 164 c 257
+ 361 165 362 166 362 167 c 256
+ 362 171 350 171 344 168 c 257
+ 183 78 l 257
+ 172 73 166 61 170 52 c 256
+ 172 47 182 40 190 44 c 257
+EndSplineSet
+Refer: 1009 107 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vk
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uniA743+AAoA"
+EndChar

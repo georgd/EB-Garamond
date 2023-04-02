@@ -1,32 +1,25 @@
 StartChar: quotedblleft
-Encoding: 8220 8220 57
-Width: 399
+Encoding: 1274 8220 1273
+GlifName: quotedblleft
+Width: 389
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
-Back
-SplineSet
-278 514 m 4
- 304 511 316 494 309 472 c 4
- 301 445 271 426 244 426 c 4
- 199 426 179 467 196 523 c 4
- 227 624 331 688 379 690 c 4
- 380 690 380 690 381 690 c 4
- 402 690 398 671 378 667 c 4
- 335 658 276 628 255 558 c 4
- 250 542 258 516 278 514 c 4
-444 514 m 4
- 470 511 482 494 475 472 c 4
- 467 445 436 426 409 426 c 4
- 364 426 345 467 362 523 c 4
- 393 624 497 688 545 690 c 4
- 546 690 546 690 547 690 c 4
- 568 690 564 671 544 667 c 4
- 501 658 442 628 421 558 c 4
- 416 542 424 516 444 514 c 4
-EndSplineSet
 Fore
-Refer: 59 8216 N 1 0 0 1 161 0 2
-Refer: 59 8216 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1272 8222 N -1 0 0 -1 440 564 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+V=|comma
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+V=|comma
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-quotedblleft+AAoA"
 EndChar

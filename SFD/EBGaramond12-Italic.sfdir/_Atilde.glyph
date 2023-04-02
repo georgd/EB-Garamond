@@ -1,12 +1,69 @@
 StartChar: Atilde
-Encoding: 195 195 133
-Width: 772
+Encoding: 32 195 32
+GlifName: A_tilde
+Width: 658
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom.cap" 256 -30 basechar 0
+AnchorPoint: "top.cap" 598 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+814 735 m 256
+ 851 735 897 783 897 813 c 256
+ 897 823 895 830 885 830 c 256
+ 873 830 858 792 823 792 c 256
+ 798 792 729 796 704 796 c 256
+ 667 796 614 750 614 717 c 256
+ 614 707 620 700 628 700 c 256
+ 638 700 657 739 691 739 c 256
+ 716 739 789 735 814 735 c 256
+384 310 m 258
+ 582 506 l 258
+ 607 531 621 539 626 539 c 256
+ 632 539 631 521 622 494 c 258
+ 564 324 l 258
+ 557 303 548 297 534 296 c 258
+ 400 288 l 258
+ 364 286 372 298 384 310 c 258
+614 -5 m 256
+ 630 -5 646 -1 646 7 c 256
+ 646 16 640 24 620 28 c 256
+ 585 35 572 67 590 128 c 258
+ 745 644 l 258
+ 750 662 748 676 743 676 c 256
+ 738 676 711 644 694 636 c 256
+ 672 626 661 622 648 622 c 256
+ 640 622 623 592 594 564 c 258
+ 122 108 l 258
+ 78 65 29 42 -6 31 c 256
+ -29 24 -43 18 -43 8 c 256
+ -43 -1 -36 -5 -20 -5 c 256
+ 11 -5 52 1 93 1 c 256
+ 127 1 160 -1 177 -1 c 256
+ 193 -1 208 3 208 12 c 256
+ 208 22 204 27 183 30 c 256
+ 170 32 137 54 182 102 c 258
+ 298 226 l 258
+ 309 238 328 244 333 244 c 257
+ 514 253 l 257
+ 533 253 546 246 542 235 c 258
+ 501 112 l 258
+ 482 56 475 46 407 31 c 256
+ 389 27 370 21 370 12 c 256
+ 370 4 378 0 394 0 c 256
+ 416 0 450 1 486 1 c 256
+ 528 1 588 -5 614 -5 c 256
+EndSplineSet
 Fore
-Refer: 2076 -1 N 1 0 0 1 670 10 2
-Refer: 31 65 N 1 0 0 1 0 0 3
-Substitution2: "c2sc subtable" Atilde.sc
-MultipleSubs2: "CCMP_Precomp subtable" A tildecomb.cap
+Refer: 1 65 N 1 0 0 1 0 0 2
+Refer: 1414 -1 N 1 0 0 1 442 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Atilde.sc
+Comment: "+AAoA-Atilde+AAoA"
 EndChar

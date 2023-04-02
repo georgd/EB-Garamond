@@ -1,0 +1,28 @@
+StartChar: ogonek
+Encoding: 1190 731 1189
+GlifName: ogonek
+Width: 245
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+112 -287 m 256
+ 186 -287 236 -234 236 -184 c 256
+ 236 -160 219 -164 211 -172 c 256
+ 193 -190 178 -198 159 -198 c 256
+ 127 -198 108 -181 108 -145 c 256
+ 108 -82 138 -33 194 18 c 257
+ 149 18 l 257
+ 69 -29 8 -103 8 -179 c 256
+ 8 -242 46 -287 112 -287 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-ogonek+AAoA"
+EndChar

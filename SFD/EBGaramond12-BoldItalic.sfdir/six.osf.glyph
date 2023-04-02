@@ -1,0 +1,54 @@
+StartChar: six.osf
+Encoding: 1361 -1 1360
+GlifName: six.osf
+Width: 463
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+181 -14 m 256
+ 339 -14 442 137 442 273 c 256
+ 442 369 406 429 325 429 c 256
+ 304 429 290 428 264 418 c 256
+ 256 415 258 420 261 423 c 256
+ 328 513 420 588 530 626 c 256
+ 557 635 579 637 579 653 c 256
+ 579 664 553 664 527 662 c 256
+ 284 639 13 388 14 160 c 256
+ 14 54 64 -14 181 -14 c 256
+175 28 m 256
+ 162 28 146 42 146 78 c 256
+ 146 191 192 381 276 381 c 256
+ 300 381 309 356 309 320 c 256
+ 310 197 243 28 175 28 c 256
+EndSplineSet
+Fore
+SplineSet
+151 -14 m 256
+ 333 -14 442 158 442 273 c 256
+ 442 358 407 433 325 433 c 256
+ 304 433 290 428 264 418 c 256
+ 256 415 258 420 261 423 c 256
+ 328 513 420 588 530 626 c 256
+ 557 635 579 637 579 653 c 256
+ 579 664 553 664 527 662 c 256
+ 284 639 13 388 14 160 c 256
+ 14 54 72 -14 151 -14 c 256
+181 28 m 256
+ 168 28 146 42 146 78 c 256
+ 146 191 191 382 275 382 c 256
+ 299 382 309 356 309 320 c 256
+ 310 197 249 28 181 28 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 24 subtable" six.lf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 17 subtable" six.tosf
+Substitution2: "'lnum' Lining Figures in Latin lookup 15 subtable" six.lf
+Comment: "+AAoA-six+AAoA"
+EndChar

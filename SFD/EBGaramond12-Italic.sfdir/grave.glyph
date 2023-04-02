@@ -1,22 +1,22 @@
 StartChar: grave
-Encoding: 96 96 87
-Width: 257
+Encoding: 900 96 899
+GlifName: grave
+Width: 200
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-231 636 m 0
- 235 650 256 664 272 664 c 0
- 293 664 305 655 310 637 c 0
- 319 603 348 477 343 462 c 0
- 340 453 336 449 327 449 c 0
- 319 449 312 464 309 471 c 0
- 269 582 225 617 231 636 c 0
-EndSplineSet
-Validated: 33
-Substitution2: "sups subtable" grave.sups
-Substitution2: "sinf subtable" grave.sinf
-Substitution2: "ordn subtable" grave.ordn
-Substitution2: "subs subtable" grave.subs
+Refer: 905 768 N 1 0 0 1 100 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" grave.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" grave.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" grave.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" grave.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" grave.subs
+Comment: "+AAoA-grave+AAoA"
 EndChar

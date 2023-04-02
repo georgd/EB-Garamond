@@ -1,0 +1,26 @@
+StartChar: hyphen.ordn
+Encoding: 987 -1 986
+GlifName: hyphen.ordn
+Width: 220
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+23 377 m 256
+ 71 384 143 391 193 398 c 256
+ 203 400 205 401 205 432 c 256
+ 205 441 204 447 192 446 c 256
+ 143 442 81 435 32 427 c 256
+ 20 425 15 419 15 386 c 256
+ 15 381 17 376 23 377 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-hyphen.ordn+AAoA"
+EndChar

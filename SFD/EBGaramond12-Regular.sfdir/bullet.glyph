@@ -1,17 +1,24 @@
 StartChar: bullet
-Encoding: 8226 8226 1928
+Encoding: 644 8226 643
 GlifName: bullet
-Width: 270
+Width: 348
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
 SplineSet
-135 450 m 24
- 185 450 225 410 225 360 c 24
- 225 310 185 270 135 270 c 24
- 85 270 45 310 45 360 c 24
- 45 410 85 450 135 450 c 24
+174 231 m 256
+ 246 231 303 288 303 360 c 256
+ 303 432 246 489 174 489 c 256
+ 102 489 45 432 45 360 c 256
+ 45 288 102 231 174 231 c 256
 EndSplineSet
-Validated: 1
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Kerns2: 477 -65 "'kern' Horizontal Kerning lookup 0 subtable"
+Comment: "+AAoA-bullet+AAoA"
 EndChar

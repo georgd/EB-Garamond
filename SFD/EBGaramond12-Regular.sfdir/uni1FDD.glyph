@@ -1,14 +1,46 @@
 StartChar: uni1FDD
-Encoding: 8157 8157 961
+Encoding: 2764 8157 2763
 GlifName: uni1F_D_D_
-Width: 303
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 174 440 mark 0
+LayerCount: 2
+Back
+SplineSet
+240 458 m 256
+ 246 448 256 436 264 436 c 256
+ 273 436 273 440 273 449 c 256
+ 273 467 242 589 232 625 c 256
+ 229 637 215 643 207 643 c 256
+ 188 643 169 618 169 602 c 256
+ 169 592 219 494 240 458 c 256
+108 558 m 256
+ 131 562 150 575 150 598 c 256
+ 150 621 127 636 103 636 c 256
+ 56 636 30 586 30 539 c 256
+ 30 486 73 442 126 442 c 256
+ 139 442 146 447 146 452 c 256
+ 146 459 137 462 129 466 c 256
+ 102 479 82 497 82 526 c 256
+ 82 542 92 555 108 558 c 256
+EndSplineSet
 Fore
-Refer: 2699 -1 N 1 0 0 1 155 -20 2
-Refer: 2697 -1 N 1 0 0 1 30 -20 2
-Refer: 2713 -1 N 1 0 0 1 -5 0 2
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0314.grk gravecomb.grkstack
+SplineSet
+268 440 m 256
+ 277 440 277 444 277 453 c 256
+ 277 471 245 593 236 629 c 256
+ 233 641 219 647 211 647 c 256
+ 192 647 173 622 173 606 c 256
+ 173 596 223 498 244 462 c 256
+ 250 452 260 440 268 440 c 256
+EndSplineSet
+Refer: 2737 8127 N -1 0 0 1 185 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FDD+AAoA"
 EndChar

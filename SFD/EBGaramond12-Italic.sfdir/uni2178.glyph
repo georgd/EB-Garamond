@@ -1,11 +1,21 @@
 StartChar: uni2178
-Encoding: 8568 8568 863
-Width: 613
+Encoding: 2742 8568 2741
+GlifName: uni2178
+Width: 732
 VWidth: 0
-Flags: M
+Flags: W
+AnchorPoint: "bottom" 88 -30 basechar 0
+AnchorPoint: "top_1" 220 440 basechar 0
+AnchorPoint: "top_2" 574 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 53 120 N 1 0 0 1 229 0 2
-Refer: 5 105 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 962 105 N 1 0 0 1 0 0 2
+Refer: 3004 120 N 1 0 0 1 294 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni2178+AAoA"
 EndChar

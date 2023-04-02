@@ -1,20 +1,28 @@
 StartChar: gravecomb.flat
-Encoding: 66404 -1 2103
+Encoding: 909 -1 908
+GlifName: gravecomb.flat
 Width: 0
-Flags: MW
-AnchorPoint: "top_stack" 160 515 mark 0
-AnchorPoint: "top_stack" 123 650 basemark 0
+VWidth: 0
 LayerCount: 2
-Fore
+Back
 SplineSet
-179 504 m 0
- 135 516 26 549 4 561 c 0
- 1 563 0 567 0 570 c 0
- 0 582 16 610 40 610 c 0
- 47 610 54 607 61 604 c 0
- 95 590 198 536 216 517 c 0
- 219 513 220 510 220 507 c 0
- 220 502 213 499 206 499 c 0
- 197 499 187 502 179 504 c 0
+179 504 m 256
+ 187 502 197 499 206 499 c 256
+ 213 499 220 502 220 507 c 256
+ 220 510 219 513 216 517 c 257
+ 198 536 95 590 61 604 c 256
+ 54 607 47 610 40 610 c 256
+ 16 610 0 582 0 570 c 256
+ 0 567 1 563 4 561 c 257
+ 26 549 135 516 179 504 c 256
 EndSplineSet
+Fore
+Refer: 515 -1 N -1 0 0 1 211 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-gravecomb.flat+AAoA"
 EndChar

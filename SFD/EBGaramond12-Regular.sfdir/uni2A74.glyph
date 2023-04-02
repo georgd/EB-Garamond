@@ -1,13 +1,27 @@
 StartChar: uni2A74
-Encoding: 10868 10868 941
+Encoding: 3030 10868 3029
 GlifName: uni2A_74
-Width: 1056
+Width: 1021
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+LayerCount: 2
 Fore
-Refer: 98 61 N 1 0 0 1 456 0 2
-Refer: 70 58 N 1 0 0 1 228 74 2
-Refer: 70 58 N 1 0 0 1 0 74 2
-Validated: 1
+Refer: 816 61 N 1 0 0 1 455 0 2
+Refer: 690 58 N 1 0 0 1 229 77 2
+Refer: 690 58 N 1 0 0 1 0 77 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vcolon
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vequal
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni2A74+AAoA"
 EndChar

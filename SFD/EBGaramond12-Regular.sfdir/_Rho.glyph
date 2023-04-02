@@ -1,16 +1,20 @@
 StartChar: Rho
-Encoding: 929 929 639
+Encoding: 354 929 353
 GlifName: R_ho
 Width: 552
 VWidth: 0
-Flags: HMW
-AnchorPoint: "grk_uc_right" 535 290 basechar 0
-AnchorPoint: "grk_uc_top" 297 720 basechar 0
-AnchorPoint: "grk_uc_top_left" -36 665 basechar 0
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 180 -30 basechar 0
+AnchorPoint: "top.cap" 286 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 26 80 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Rho.sc
-Position2: "Single Positioning lookup 5 subtable" dx=79 dy=0 dh=79 dv=0
+Refer: 316 80 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Rho.sc
+Comment: "+AAoA-Rho+AAoA"
 EndChar

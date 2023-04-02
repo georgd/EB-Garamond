@@ -1,7 +1,30 @@
 StartChar: uni1EFB
-Encoding: 7931 7931 2493
-Width: 1000
+Encoding: 2392 7931 2391
+GlifName: uni1E_F_B_
+Width: 526
 VWidth: 0
 Flags: W
+AnchorPoint: "bottom_1" 67 -30 basechar 0
+AnchorPoint: "bottom_2" 315 -30 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+132 538 m 257
+ 581 538 l 257
+ 596 538 605 546 612 559 c 257
+ 612 560 613 561 613 562 c 256
+ 613 567 605 572 599 572 c 257
+ 142 572 l 257
+ 130 572 118 564 118 555 c 256
+ 118 549 123 538 132 538 c 257
+EndSplineSet
+Refer: 1026 108 N 1 0 0 1 0 0 2
+Refer: 1026 108 N 1 0 0 1 248 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1EFB+AAoA"
 EndChar

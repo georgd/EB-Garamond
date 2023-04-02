@@ -1,18 +1,25 @@
 StartChar: bar.subs
-Encoding: 65698 -1 1290
-Width: 154
+Encoding: 605 -1 604
+GlifName: bar.subs
+Width: 147
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-175 380 m 10
- 179 393 205 399 209 399 c 0
- 214 399 216 395 215 391 c 18
- 67 -94 l 10
- 63 -107 40 -108 34 -108 c 0
- 30 -108 28 -104 29 -100 c 18
- 175 380 l 10
-EndSplineSet
-Validated: 1
+Refer: 601 -1 N 1 0 0 1 -87 -280 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbar.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbar.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-bar.subs+AAoA"
 EndChar

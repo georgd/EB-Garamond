@@ -1,13 +1,59 @@
 StartChar: oslashacute
-Encoding: 511 511 1036
+Encoding: 1233 511 1232
 GlifName: oslashacute
 Width: 485
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 247 -30 basechar 0
+AnchorPoint: "top" 254 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+252 478 m 256
+ 283 511 370 612 370 626 c 256
+ 370 642 346 649 321 649 c 256
+ 311 649 300 641 294 631 c 256
+ 275 598 213 484 213 469 c 256
+ 213 460 213 456 222 456 c 256
+ 230 456 244 469 252 478 c 256
+150 79 m 257
+ 356 281 l 257
+ 367 252 373 221 373 189 c 256
+ 373 150 370 103 354 72 c 256
+ 334 33 296 16 251 16 c 256
+ 210 16 174 41 150 79 c 257
+49 -15 m 256
+ 52 -15 54 -14 56 -12 c 258
+ 103 34 l 257
+ 138 5 182 -14 230 -14 c 256
+ 380 -14 455 96 455 213 c 256
+ 455 258 438 300 411 335 c 257
+ 451 374 l 257
+ 458 380 462 391 462 400 c 256
+ 462 408 458 415 448 415 c 256
+ 444 415 440 414 437 411 c 258
+ 385 361 l 257
+ 348 394 300 414 250 414 c 256
+ 127 414 30 310 30 186 c 256
+ 30 142 47 99 75 63 c 257
+ 35 25 l 257
+ 29 20 25 12 25 5 c 256
+ 25 -4 37 -15 49 -15 c 256
+233 380 m 256
+ 277 380 313 354 338 316 c 257
+ 131 117 l 257
+ 119 145 113 177 113 210 c 256
+ 113 258 120 307 146 340 c 256
+ 165 364 197 380 233 380 c 256
+EndSplineSet
 Fore
-Refer: 2705 769 N 1 0 0 1 199 0 2
-Refer: 1008 248 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" oslash acutecomb
+Refer: 1230 248 N 1 0 0 1 0 0 2
+Refer: 511 769 N 1 0 0 1 300 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-oslashacute+AAoA"
 EndChar

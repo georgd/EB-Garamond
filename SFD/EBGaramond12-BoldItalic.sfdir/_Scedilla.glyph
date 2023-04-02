@@ -1,0 +1,43 @@
+StartChar: Scedilla
+Encoding: 365 350 364
+GlifName: S_cedilla
+Width: 499
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 185 -30 basechar 0
+AnchorPoint: "top.cap" 416 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 352 83 N 1 0 0 1 0 0 2
+Refer: 1861 -1 N 1 0 0 1 262 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VS
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0327.cap
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" Scedilla.sc
+Comment: "+AAoA-Scedilla+AAoA"
+EndChar

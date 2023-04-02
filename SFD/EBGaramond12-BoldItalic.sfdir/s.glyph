@@ -1,0 +1,65 @@
+StartChar: s
+Encoding: 1307 115 1306
+GlifName: s
+Width: 326
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom" 97 -30 basechar 0
+AnchorPoint: "top" 238 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+79 -14 m 256
+ 181 -14 279 86 279 137 c 256
+ 279 171 254 210 217 256 c 256
+ 190 288 163 323 163 339 c 256
+ 163 351 172 366 190 366 c 256
+ 208 366 230 350 243 330 c 256
+ 253 315 269 298 286 298 c 256
+ 311 298 350 344 350 369 c 256
+ 350 395 292 437 237 437 c 256
+ 185 437 64 341 64 273 c 256
+ 64 235 90 191 115 156 c 256
+ 137 126 165 87 164 69 c 256
+ 163 49 157 39 138 39 c 256
+ 113 39 83 70 63 90 c 256
+ 46 108 31 125 21 125 c 256
+ -8 125 -24 95 -24 61 c 256
+ -24 16 16 -14 79 -14 c 256
+EndSplineSet
+Fore
+SplineSet
+79 -14 m 256
+ 181 -14 280 93 280 144 c 256
+ 280 177 264 204 220 259 c 256
+ 194 292 163 323 163 339 c 256
+ 163 351 172 366 190 366 c 256
+ 208 366 230 350 243 330 c 256
+ 253 315 269 298 286 298 c 256
+ 311 298 350 344 350 369 c 256
+ 350 395 292 437 237 437 c 256
+ 185 437 64 341 64 273 c 256
+ 64 232 87 189 112 154 c 256
+ 134 124 162 87 161 69 c 256
+ 160 49 154 39 135 39 c 256
+ 110 39 83 70 63 90 c 256
+ 46 108 31 125 21 125 c 256
+ -8 125 -24 95 -24 61 c 256
+ -24 16 16 -14 79 -14 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'ss07' Style Set 7 in Latin lookup 38 subtable" longs
+Substitution2: "'ss01' Style Set 1 in Latin lookup 31 subtable" S.pc
+Substitution2: "'hist' Historical Forms in Latin lookup 27 subtable" longs
+Substitution2: "'pcap' Lowercase to Petite Capitals in Latin lookup 23 subtable" s.pc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" s.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" s.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" s.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" s.subs
+Comment: "+AAoA-s+AAoA"
+EndChar

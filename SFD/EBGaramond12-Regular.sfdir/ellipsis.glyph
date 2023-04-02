@@ -1,13 +1,45 @@
 StartChar: ellipsis
-Encoding: 8230 8230 770
+Encoding: 794 8230 793
 GlifName: ellipsis
-Width: 684
+Width: 686
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+571 96 m 256
+ 541 96 516 71 516 41 c 256
+ 516 11 541 -14 571 -14 c 256
+ 601 -14 626 11 626 41 c 256
+ 626 71 601 96 571 96 c 256
+343 96 m 256
+ 313 96 288 71 288 41 c 256
+ 288 11 313 -14 343 -14 c 256
+ 373 -14 398 11 398 41 c 256
+ 398 71 373 96 343 96 c 256
+115 96 m 256
+ 85 96 60 71 60 41 c 256
+ 60 11 85 -14 115 -14 c 256
+ 145 -14 170 11 170 41 c 256
+ 170 71 145 96 115 96 c 256
+EndSplineSet
 Fore
-Refer: 39 46 N 1 0 0 1 456 0 2
-Refer: 39 46 N 1 0 0 1 228 0 2
-Refer: 39 46 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1271 46 N 1 0 0 1 0 0 2
+Refer: 1271 46 N 1 0 0 1 228 0 2
+Refer: 1271 46 N 1 0 0 1 456 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vperiod
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vperiod
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-ellipsis+AAoA"
 EndChar

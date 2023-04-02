@@ -1,0 +1,29 @@
+StartChar: asciicircum
+Encoding: 561 94 560
+GlifName: asciicircum
+Width: 518
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+69 242 m 256
+ 89 242 106 259 119 279 c 258
+ 267 500 l 258
+ 270 505 272 507 277 500 c 258
+ 428 279 l 258
+ 441 259 458 242 478 242 c 256
+ 499 242 506 255 500 266 c 257
+ 276 609 l 257
+ 268 609 l 257
+ 47 266 l 257
+ 46 264 45 261 45 259 c 256
+ 45 246 57 242 69 242 c 256
+EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" asciicircum.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" asciicircum.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" asciicircum.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" asciicircum.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" asciicircum.subs
+Comment: "+AAoA-asciicircum+AAoA"
+EndChar

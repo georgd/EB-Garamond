@@ -1,0 +1,44 @@
+StartChar: Eogonek
+Encoding: 119 280 119
+GlifName: E_ogonek
+Width: 571
+VWidth: 0
+Flags: W
+AnchorPoint: "bottom.cap" 296 -30 basechar 0
+AnchorPoint: "top.cap" 299 675 basechar 0
+LayerCount: 2
+Fore
+Refer: 81 69 N 1 0 0 1 0 0 2
+Refer: 2000 -1 N 1 0 0 1 410 0 2
+Validated: 5
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I-1
+sVindex
+p5
+I0
+sVname
+p6
+VE
+p7
+sa(dp8
+g4
+I-1
+sg5
+I1
+sg6
+Vuni0328.cap
+p9
+sasVpublic.markColor
+p10
+V0.67,0.95,0.38,1
+p11
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Eogonek.sc
+Comment: "+AAoA-Eogonek+AAoA"
+EndChar

@@ -1,0 +1,44 @@
+StartChar: bar.sc
+Encoding: 604 -1 603
+GlifName: bar.sc
+Width: 279
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+112 -127 m 256
+ 121 -127 160 -124 160 -103 c 258
+ 160 536 l 258
+ 160 543 153 549 146 549 c 256
+ 140 549 100 540 100 518 c 258
+ 100 -113 l 258
+ 100 -120 106 -127 112 -127 c 256
+EndSplineSet
+Fore
+SplineSet
+104 -138 m 256
+ 122 -138 199 -132 199 -90 c 258
+ 199 535 l 258
+ 199 549 185 561 171 561 c 256
+ 159 561 80 543 80 500 c 258
+ 80 -110 l 258
+ 80 -124 91 -138 104 -138 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vbar
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vbar
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-bar.sc+AAoA"
+EndChar

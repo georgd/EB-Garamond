@@ -1,22 +1,32 @@
 StartChar: o.pc
-Encoding: 1115209 -1 2987
+Encoding: 1175 -1 1174
 GlifName: o.pc
-Width: 616
+Width: 540
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+LayerCount: 2
+Back
 SplineSet
-296 426 m 0
- 202 426 150 332 150 237 c 0
- 150 120 206 22 318 22 c 0
- 433 22 466 138 466 217 c 0
- 466 318 400 426 296 426 c 0
-60 222 m 0
- 60 342 175 458 302 458 c 0
- 433 458 556 360 556 226 c 0
- 556 103 466 -14 302 -14 c 0
- 169 -14 60 93 60 222 c 0
+259 -14 m 256
+ 409 -14 485 96 485 213 c 256
+ 485 321 395 414 279 414 c 256
+ 156 414 60 298 60 187 c 256
+ 60 70 147 -14 259 -14 c 256
+280 16 m 256
+ 200 16 142 111 142 210 c 256
+ 142 258 147 309 174 343 c 256
+ 198 374 226 383 262 383 c 256
+ 347 383 403 284 403 189 c 256
+ 403 150 399 102 383 71 c 256
+ 363 32 325 16 280 16 c 256
 EndSplineSet
-Validated: 1
+Fore
+Refer: 280 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-o.pc+AAoA"
 EndChar

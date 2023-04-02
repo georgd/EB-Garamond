@@ -1,0 +1,80 @@
+StartChar: P
+Encoding: 314 80 313
+GlifName: P_
+Width: 637
+VWidth: 0
+Flags: W
+AnchorPoint: "top.cap" 441 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-27 -3 m 256
+ 17 -3 85 2 125 2 c 256
+ 164 2 250 -2 292 -2 c 256
+ 306 -2 326 3 326 13 c 256
+ 326 26 315 31 304 34 c 256
+ 251 46 229 56 242 98 c 258
+ 376 529 l 258
+ 401 610 413 614 433 614 c 256
+ 482 614 527 588 527 466 c 256
+ 527 383 482 291 390 275 c 256
+ 373 272 364 270 351 268 c 256
+ 339 266 329 261 329 252 c 256
+ 329 236 339 229 375 229 c 256
+ 546 229 672 330 678 467 c 256
+ 682 576 600 657 458 657 c 256
+ 404 657 358 652 326 650 c 256
+ 286 648 223 655 179 655 c 256
+ 167 655 150 648 147 639 c 256
+ 144 631 154 622 169 618 c 256
+ 212 607 225 594 212 551 c 258
+ 71 97 l 258
+ 58 56 40 46 -14 34 c 256
+ -27 31 -45 24 -45 12 c 256
+ -45 3 -35 -3 -27 -3 c 256
+EndSplineSet
+Fore
+SplineSet
+-27 -3 m 256
+ 17 -3 85 2 125 2 c 256
+ 164 2 250 -2 292 -2 c 256
+ 306 -2 326 3 326 13 c 256
+ 326 26 315 31 304 34 c 256
+ 251 46 229 56 242 98 c 258
+ 376 529 l 258
+ 401 610 413 614 433 614 c 256
+ 482 614 528 596 528 474 c 256
+ 528 391 482 291 390 275 c 256
+ 373 272 364 270 351 268 c 256
+ 339 266 329 261 329 252 c 256
+ 329 236 339 229 375 229 c 256
+ 546 229 672 330 678 467 c 256
+ 682 576 600 657 458 657 c 256
+ 404 657 358 652 326 650 c 256
+ 286 648 223 655 179 655 c 256
+ 167 655 150 648 147 639 c 256
+ 144 631 154 622 169 618 c 256
+ 212 607 225 594 212 551 c 258
+ 71 97 l 258
+ 58 56 40 46 -14 34 c 256
+ -27 31 -45 24 -45 12 c 256
+ -45 3 -35 -3 -27 -3 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VH
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Substitution2: "'swsh' Swash in Latin lookup 30 subtable" P.swsh
+Substitution2: "'c2pc' Capitals to Petite Capitals in Latin lookup 22 subtable" P.pc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" P.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" P.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" P.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" P.subs
+Comment: "+AAoA-P+AAoA"
+EndChar

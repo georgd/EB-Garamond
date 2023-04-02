@@ -1,12 +1,21 @@
 StartChar: zdotaccent
-Encoding: 380 380 285
-Width: 381
+Encoding: 3041 380 3040
+GlifName: zdotaccent
+Width: 407
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 165 -30 basechar 0
+AnchorPoint: "top" 257 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 122 775 N 1 0 0 1 231 0 2
-Refer: 65 122 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" zdotaccent.sc
-MultipleSubs2: "CCMP_Precomp subtable" z uni0307
+Refer: 3029 122 N 1 0 0 1 0 0 2
+Refer: 730 729 N 1 0 0 1 103 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" zdotaccent.sc
+Comment: "+AAoA-zdotaccent+AAoA"
 EndChar

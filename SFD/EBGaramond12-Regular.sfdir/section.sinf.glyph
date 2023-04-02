@@ -1,12 +1,25 @@
 StartChar: section.sinf
-Encoding: 1114396 -1 1395
+Encoding: 1380 -1 1379
 GlifName: section.sinf
-Width: 400
-VWidth: -144
-Flags: HMW
-LayerCount: 3
+Width: 297
+VWidth: 0
+Flags: W
+LayerCount: 2
 Fore
-Refer: 1294 -1 N 1 0 0 1 0 -144 2
-Validated: 1
-Comment: "."
+Refer: 1377 -1 N 1 0 0 1 0 -424 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vsection.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vsection.ordn
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-section.sinf+AAoA"
 EndChar

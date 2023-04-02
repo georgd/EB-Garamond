@@ -1,21 +1,43 @@
 StartChar: uni02BD
-Encoding: 701 701 2257
+Encoding: 1886 701 1885
 GlifName: uni02B_D_
-Width: 216
+Width: 200
 VWidth: 0
-Flags: HMW
-LayerCount: 3
-Fore
+Flags: W
+LayerCount: 2
+Back
 SplineSet
-131 568 m 0
- 111 568 84 540 84 518 c 0
- 84 488 111 456 154 447 c 0
- 163 445 168 440 168 436 c 0
- 168 431 161 426 148 426 c 0
- 97 426 32 479 32 549 c 0
- 32 605 83 646 131 646 c 0
- 160 646 178 626 178 610 c 0
- 178 588 160 568 131 568 c 0
+157 426 m 256
+ 71 426 20 516 22 589 c 256
+ 24 648 61 694 125 694 c 256
+ 154 694 178 675 178 648 c 256
+ 178 626 167 612 137 602 c 256
+ 105 591 81 567 81 538 c 256
+ 81 496 107 466 161 448 c 256
+ 170 445 175 441 175 436 c 256
+ 175 430 169 426 157 426 c 256
 EndSplineSet
-Validated: 1
+Fore
+Refer: 1884 700 N -1 0 0 1 200 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.ComponentInfo
+p1
+(lp2
+(dp3
+Valignment
+p4
+I1
+sVindex
+p5
+I0
+sVname
+p6
+Vuni02BC
+p7
+sasVpublic.markColor
+p8
+V0.67,0.95,0.38,1
+p9
+s."
+Comment: "+AAoA-uni02BD+AAoA"
 EndChar

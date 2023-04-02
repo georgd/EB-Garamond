@@ -1,12 +1,21 @@
 StartChar: zcaron
-Encoding: 382 382 287
-Width: 381
+Encoding: 3039 382 3038
+GlifName: zcaron
+Width: 407
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "bottom" 165 -30 basechar 0
+AnchorPoint: "top" 257 440 basechar 0
 LayerCount: 2
 Fore
-Refer: 92 780 N 1 0 0 1 211 0 2
-Refer: 65 122 N 1 0 0 1 0 0 3
-Substitution2: "Smallcaps1 subtable" zcaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" z uni030C
+Refer: 3029 122 N 1 0 0 1 0 0 2
+Refer: 656 711 N 1 0 0 1 87 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" zcaron.sc
+Comment: "+AAoA-zcaron+AAoA"
 EndChar

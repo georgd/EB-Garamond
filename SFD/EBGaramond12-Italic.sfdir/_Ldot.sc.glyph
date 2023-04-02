@@ -1,11 +1,19 @@
 StartChar: Ldot.sc
-Encoding: 66260 -1 1852
-Width: 444
+Encoding: 250 -1 250
+GlifName: L_dot.sc
+Width: 470
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "top" 253 503 basechar 0
 LayerCount: 2
 Fore
-Refer: 1853 -1 N 1 0 0 1 0 0 2
-LCarets2: 1 0
-Comment: "."
+Refer: 238 -1 N 1 0 0 1 0 0 2
+Refer: 1230 -1 N 1 0 0 1 383 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Ldot.sc+AAoA"
 EndChar

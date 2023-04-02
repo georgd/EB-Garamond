@@ -1,15 +1,20 @@
 StartChar: wgrave
-Encoding: 7809 7809 481
+Encoding: 3161 7809 3160
 GlifName: wgrave
 Width: 685
 VWidth: 0
-Flags: HM
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 351 -30 basechar 0
+AnchorPoint: "top" 343 440 basechar 0
+LayerCount: 2
 Fore
-Refer: 968 768 N 1 0 0 1 209 0 2
-Refer: 23 119 N 1 0 0 1 0 0 3
-Validated: 1
-MultipleSubs2: "CCMP_Precomp subtable" w gravecomb
-Position2: "rtbd subtable" dx=0 dy=0 dh=-22 dv=0
-Position2: "lfbd subtable" dx=-22 dy=0 dh=-22 dv=0
+Refer: 3149 119 N 1 0 0 1 0 0 2
+Refer: 931 768 N 1 0 0 1 295 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-wgrave+AAoA"
 EndChar

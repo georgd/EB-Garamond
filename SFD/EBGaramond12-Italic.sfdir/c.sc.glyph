@@ -1,33 +1,22 @@
 StartChar: c.sc
-Encoding: 66081 -1 1673
-Width: 454
+Encoding: 648 -1 647
+GlifName: c.sc
+Width: 535
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 292 8 basechar 0
-AnchorPoint: "below_accent" 240 -100 basechar 0
-AnchorPoint: "top_accent" 405 580 basechar 0
+Flags: W
+AnchorPoint: "top" 413 503 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-269 -10 m 0
- 161 -10 56 58 56 166 c 16
- 56 342 208 459 377 459 c 16
- 437 459 476 435 483 435 c 0
- 492 435 505 451 516 451 c 0
- 527 451 527 438 522 430 c 0
- 508 408 484 359 478 332 c 0
- 475 318 467 307 454 307 c 0
- 442 307 440 323 442 335 c 0
- 447 360 447 387 436 401 c 0
- 425 415 398 424 371 424 c 0
- 237 424 136 296 136 162 c 8
- 136 82 215 27 290 27 c 0
- 334 27 367 62 394 103 c 0
- 398 110 405 114 408 114 c 0
- 412 114 415 109 415 101 c 0
- 415 84 383 -6 373 -9 c 0
- 363 -12 354 4 346 4 c 0
- 340 4 303 -10 269 -10 c 0
-EndSplineSet
-Comment: "."
+Refer: 46 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VO.sc
+p2
+sVpublic.markColor
+p3
+V0.67,0.95,0.38,1
+p4
+s."
+Comment: "+AAoA-c.sc+AAoA"
 EndChar

@@ -1,0 +1,31 @@
+StartChar: dotbelowcomb.cap
+Encoding: 747 -1 746
+GlifName: dotbelowcomb.cap
+Width: 0
+VWidth: 0
+AnchorPoint: "bottom.cap" 0 -30 mark 0
+LayerCount: 2
+Back
+SplineSet
+60 -95 m 256
+ 30 -95 5 -120 5 -150 c 256
+ 5 -180 30 -205 60 -205 c 256
+ 90 -205 115 -180 115 -150 c 256
+ 115 -120 90 -95 60 -95 c 256
+-2 -208 m 256
+ 50 -208 91 -172 91 -128 c 256
+ 91 -82 50 -46 -2 -46 c 256
+ -51 -46 -91 -82 -91 -128 c 256
+ -91 -172 -51 -208 -2 -208 c 256
+EndSplineSet
+Fore
+Refer: 1925 -1 N 1 0 0 1 0 -914 2
+Validated: 9
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-dotbelowcomb.cap+AAoA"
+EndChar

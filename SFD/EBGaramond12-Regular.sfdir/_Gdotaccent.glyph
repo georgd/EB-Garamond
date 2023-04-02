@@ -1,15 +1,59 @@
 StartChar: Gdotaccent
-Encoding: 288 288 208
+Encoding: 155 288 155
 GlifName: G_dotaccent
 Width: 729
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 399 -30 basechar 0
+AnchorPoint: "top" 403 675 basechar 0
+AnchorPoint: "top.cap" 413 675 basechar 0
+LayerCount: 2
+Back
+SplineSet
+400 805 m 256
+ 370 805 345 780 345 750 c 256
+ 345 720 370 695 400 695 c 256
+ 430 695 455 720 455 750 c 256
+ 455 780 430 805 400 805 c 256
+621 624 m 256
+ 619 639 463 663 413 663 c 256
+ 214 663 45 509 45 311 c 256
+ 45 126 207 -14 392 -14 c 256
+ 519 -14 610 50 630 53 c 256
+ 644 55 644 67 644 72 c 256
+ 644 77 635 82 631 89 c 257
+ 628 95 625 98 625 105 c 258
+ 625 132 l 258
+ 625 157 626 178 630 207 c 256
+ 634 234 643 248 672 256 c 257
+ 677 257 693 265 693 274 c 256
+ 693 287 677 290 672 290 c 256
+ 636 290 618 286 583 286 c 256
+ 528 286 506 290 457 290 c 256
+ 452 290 437 283 437 273 c 256
+ 437 263 452 256 457 256 c 256
+ 477 256 538 247 555 225 c 256
+ 559 220 560 209 560 195 c 256
+ 560 177 558 154 558 137 c 256
+ 558 102 543 75 528 60 c 256
+ 516 48 483 23 406 23 c 256
+ 273 23 144 134 144 324 c 256
+ 144 482 249 625 404 625 c 256
+ 499 625 550 588 563 572 c 256
+ 579 553 586 540 594 519 c 257
+ 598 507 603 492 617 492 c 256
+ 625 492 632 502 632 512 c 256
+ 632 538 627 582 621 624 c 256
+EndSplineSet
 Fore
-Refer: 1011 -1 N 1 0 0 1 340 0 2
-Refer: 40 71 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "c2sc subtable" Gdotaccent.sc
-MultipleSubs2: "CCMP_Precomp subtable" G uni0307.cap
-Position2: "lfbd subtable" dx=-36 dy=0 dh=-36 dv=0
+Refer: 141 71 N 1 0 0 1 0 0 2
+Refer: 1925 -1 N 1 0 0 1 413 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 21 subtable" Gdotaccent.sc
+Comment: "+AAoA-Gdotaccent+AAoA"
 EndChar

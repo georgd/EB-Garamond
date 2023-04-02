@@ -1,11 +1,20 @@
 StartChar: uni1EEE
-Encoding: 7918 7918 2010
-Width: 737
+Encoding: 2381 7918 2380
+GlifName: uni1E_E_E_
+Width: 700
 VWidth: 0
-Flags: HM
+Flags: W
+AnchorPoint: "bottom.cap" 308 -30 basechar 0
+AnchorPoint: "top.cap" 504 675 basechar 0
 LayerCount: 2
 Fore
-Refer: 2076 -1 N 1 0 0 1 427 0 2
-Refer: 290 431 N 1 0 0 1 0 0 3
-MultipleSubs2: "CCMP_Precomp subtable" Uhorn tildecomb.cap
+Refer: 413 431 N 1 0 0 1 0 0 2
+Refer: 1414 -1 N 1 0 0 1 348 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1EEE+AAoA"
 EndChar

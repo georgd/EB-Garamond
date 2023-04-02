@@ -1,11 +1,40 @@
 StartChar: uni1FBF
-Encoding: 8127 8127 740
+Encoding: 2573 8127 2572
+GlifName: uni1F_B_F_
 Width: 225
 VWidth: 0
-Flags: HMW
+Flags: W
+AnchorPoint: "topgreek" 191 440 mark 0
 LayerCount: 2
+Back
+SplineSet
+147 448 m 256
+ 200 448 288 503 288 585 c 256
+ 288 620 269 642 237 642 c 256
+ 205 642 180 622 180 601 c 256
+ 180 586 192 576 208 569 c 256
+ 219 564 227 551 227 539 c 256
+ 227 507 188 484 149 471 c 256
+ 140 468 133 464 133 460 c 256
+ 133 456 137 448 147 448 c 256
+EndSplineSet
 Fore
-Refer: 126 787 N 1 0 0 1 -136 131 2
-Refer: 2375 -1 N 1 0 0 1 -85 0 2
-MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0313
+SplineSet
+147 448 m 256
+ 200 448 288 503 288 585 c 256
+ 288 620 269 642 233 642 c 256
+ 201 642 180 623 180 604 c 256
+ 180 588 189 578 203 571 c 256
+ 217 564 227 556 227 538 c 256
+ 227 506 188 484 149 471 c 256
+ 140 468 133 464 133 457 c 256
+ 133 453 137 448 147 448 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni1FBF+AAoA"
 EndChar

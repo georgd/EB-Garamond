@@ -1,14 +1,63 @@
 StartChar: zcaron
-Encoding: 382 382 286
+Encoding: 3200 382 3199
 GlifName: zcaron
 Width: 377
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 179 -30 basechar 0
+AnchorPoint: "top" 201 440 basechar 0
+LayerCount: 2
+Back
+SplineSet
+197 550 m 256
+ 175 580 144 620 131 635 c 256
+ 123 644 109 657 101 657 c 256
+ 92 657 92 653 92 644 c 256
+ 92 631 160 521 180 490 c 256
+ 185 482 192 472 200 472 c 256
+ 208 472 215 482 220 490 c 256
+ 240 521 308 631 308 644 c 256
+ 308 653 308 657 299 657 c 256
+ 291 657 278 644 270 635 c 256
+ 257 620 226 580 204 550 c 256
+ 201 546 200 546 197 550 c 256
+256 35 m 258
+ 139 35 l 258
+ 133 35 122 42 127 50 c 258
+ 320 343 l 258
+ 334 363 344 376 358 393 c 257
+ 361 397 356 405 351 405 c 256
+ 290 403 234 402 165 402 c 256
+ 156 402 142 401 127 401 c 256
+ 109 401 90 402 84 407 c 256
+ 78 412 72 416 69 416 c 256
+ 65 416 54 408 54 398 c 256
+ 54 373 45 327 37 308 c 257
+ 33 300 34 286 43 286 c 256
+ 53 286 65 305 70 311 c 257
+ 90 337 104 364 122 364 c 258
+ 239 364 l 258
+ 254 364 251 358 248 354 c 257
+ 175 238 129 166 62 70 c 256
+ 48 51 25 17 25 12 c 256
+ 25 7 34 -5 39 -5 c 256
+ 56 -5 91 0 119 0 c 256
+ 228 0 301 -5 330 -5 c 256
+ 336 -5 343 4 344 9 c 257
+ 349 25 372 105 372 113 c 256
+ 372 117 373 136 364 136 c 256
+ 352 136 345 117 342 112 c 257
+ 312 69 286 35 256 35 c 258
+EndSplineSet
 Fore
-Refer: 92 780 N 1 0 0 1 62 17 2
-Refer: 65 122 N 1 0 0 1 0 0 3
-Validated: 1
-Substitution2: "Smallcaps1 subtable" zcaron.sc
-MultipleSubs2: "CCMP_Precomp subtable" z uni030C
+Refer: 3190 122 N 1 0 0 1 0 0 2
+Refer: 659 711 N 1 0 0 1 51 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" zcaron.sc
+Comment: "+AAoA-zcaron+AAoA"
 EndChar

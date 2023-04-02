@@ -1,12 +1,19 @@
 StartChar: uni216D
-Encoding: 8557 8557 840
+Encoding: 2897 8557 2896
 GlifName: uni216D_
-Width: 640
+Width: 710
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom.cap" 392 -30 basechar 0
+AnchorPoint: "top.cap" 401 675 basechar 0
+LayerCount: 2
 Fore
-Refer: 32 67 N 1 0 0 1 0 0 3
-Validated: 1
-Position2: "lfbd subtable" dx=-32 dy=0 dh=-32 dv=0
+Refer: 44 67 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-uni216D+AAoA"
 EndChar

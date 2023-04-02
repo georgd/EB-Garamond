@@ -1,30 +1,18 @@
 StartChar: j.sc
-Encoding: 66088 -1 1680
-Width: 278
+Encoding: 1004 -1 1003
+GlifName: j.sc
+Width: 302
 VWidth: 0
-Flags: HMW
-AnchorPoint: "top_accent" 287 580 basechar 0
+Flags: W
+AnchorPoint: "top" 253 503 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-85 9 m 2
- 190 349 l 2
- 205 396 193 412 149 421 c 0
- 129 425 125 432 125 441 c 0
- 125 449 139 452 155 452 c 0
- 205 452 220 449 261 449 c 24
- 296 449 300 452 350 452 c 0
- 366 452 374 449 374 441 c 0
- 374 432 360 425 337 421 c 0
- 288 412 277 396 262 349 c 2
- 184 97 l 2
- 150.2890625 -11.9013671875 97 -102 68 -130 c 0
- 40 -157 4 -176 -43 -176 c 0
- -71 -176 -105 -160 -105 -142 c 0
- -105 -119 -72 -87 -60 -87 c 0
- -43 -87 -38 -92 -34 -104 c 0
- -29 -119 -16 -134 2 -134 c 0
- 41 -134 65 -55 85 9 c 2
-EndSplineSet
-Comment: "."
+Refer: 213 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-j.sc+AAoA"
 EndChar

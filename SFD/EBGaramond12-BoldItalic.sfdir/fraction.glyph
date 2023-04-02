@@ -1,0 +1,37 @@
+StartChar: fraction
+Encoding: 870 8260 869
+GlifName: fraction
+Width: 67
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+338 641 m 258
+ -263 5 l 257
+ -264 4 -265 2 -265 1 c 256
+ -268 -7 -258 -15 -247 -15 c 256
+ -227 -15 -208 -11 -193 5 c 258
+ 408 641 l 257
+ 409 642 410 645 411 646 c 256
+ 413 654 407 664 397 664 c 256
+ 374 664 356 660 338 641 c 258
+EndSplineSet
+Fore
+SplineSet
+-248 -19 m 256
+ -228 -19 -211 -11 -194 8 c 258
+ 412 640 l 258
+ 424 652 414 669 393 669 c 256
+ 376 669 353 664 343 653 c 258
+ -266 17 l 258
+ -280 3 -270 -19 -248 -19 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-fraction+AAoA"
+EndChar

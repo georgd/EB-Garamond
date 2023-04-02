@@ -1,20 +1,41 @@
 StartChar: comma.subs
-Encoding: 65618 -1 1210
-Width: 136
+Encoding: 689 -1 688
+GlifName: comma.subs
+Width: 159
 VWidth: 0
-Flags: MW
+Flags: W
 LayerCount: 2
 Fore
-SplineSet
-59 17 m 0
- 42 19 34 30 38 43 c 0
- 43 59 62 70 80 70 c 0
- 109 70 122 46 112 12 c 0
- 93 -49 27 -87 -4 -88 c 0
- -5 -88 -4 -88 -5 -88 c 0
- -18 -88 -16 -76 -3 -74 c 0
- 25 -69 61 -51 74 -9 c 0
- 77 1 72 16 59 17 c 0
-EndSplineSet
-Validated: 33
+Refer: 685 -1 N 1 0 0 1 -87 -279 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vcomma.ordn
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vcomma.ordn
+p4
+sVcom.schriftgestaltung.annotations
+p5
+(lp6
+(dp7
+Vposition
+p8
+(lp9
+F55.474
+aF141.057
+asVtype
+p10
+VText
+p11
+sVwidth
+p12
+I100
+sasVpublic.markColor
+p13
+V0.67,0.95,0.38,1
+p14
+s."
+Comment: "+AAoA-comma.subs+AAoA"
 EndChar

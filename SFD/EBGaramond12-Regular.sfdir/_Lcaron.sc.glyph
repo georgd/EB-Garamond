@@ -1,12 +1,20 @@
 StartChar: Lcaron.sc
-Encoding: 1114847 -1 1846
+Encoding: 249 -1 249
 GlifName: L_caron.sc
 Width: 470
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "bottom" 233 -30 basechar 0
+AnchorPoint: "top" 158 503 basechar 0
+LayerCount: 2
 Fore
-Refer: 1847 -1 N 1 0 0 1 0 0 2
-Validated: 1
-Comment: "."
+Refer: 239 -1 N 1 0 0 1 0 0 2
+Refer: 1943 -1 N 1 0 0 1 378 -189 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-Lcaron.sc+AAoA"
 EndChar

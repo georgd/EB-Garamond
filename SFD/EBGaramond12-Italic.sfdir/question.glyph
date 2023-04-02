@@ -1,33 +1,68 @@
 StartChar: question
-Encoding: 63 63 86
+Encoding: 1259 63 1258
+GlifName: question
 Width: 316
 VWidth: 0
-Flags: HMW
+Flags: W
 LayerCount: 2
+Back
+SplineSet
+150 176 m 256
+ 154 176 161 177 161 182 c 256
+ 161 189 159 196 156 204 c 256
+ 153 215 150 227 150 241 c 256
+ 150 273 161 291 201 312 c 258
+ 289 357 l 258
+ 337 382 368 424 368 496 c 256
+ 368 588 318 661 238 661 c 256
+ 207 661 170 641 170 607 c 256
+ 170 589 179 580 194 580 c 256
+ 203 580 209 585 221 589 c 256
+ 229 592 239 594 254 594 c 256
+ 304 594 333 561 333 519 c 256
+ 333 460 290 428 240 404 c 256
+ 126 352 110 320 110 268 c 256
+ 110 230 144 176 150 176 c 256
+134 -14 m 256
+ 168 -14 196 14 196 48 c 256
+ 196 72 178 95 153 95 c 256
+ 119 95 92 68 92 33 c 256
+ 92 9 110 -14 134 -14 c 256
+EndSplineSet
 Fore
 SplineSet
-133 97 m 16
- 157 97 173 75 173 51 c 16
- 173 16 145 -14 110 -14 c 8
- 86 -14 70 9 70 33 c 16
- 70 68 98 97 133 97 c 16
-241 661 m 0
- 321 661 368 588 368 496 c 0
- 368 424 337 382 289 357 c 2
- 201 312 l 1
- 169 294 149 262 149 236 c 0
- 149 218 169 202 169 192 c 0
- 169 184 158 178 154 178 c 0
- 144 178 110 213 110 255 c 0
- 110 327 154 364 240 404 c 0
- 289 427 333 460 333 512 c 0
- 333 551 300 591 254 591 c 0
- 216 591 214 577 199 577 c 0
- 184 577 175 592 175 610 c 0
- 175 640 218 661 241 661 c 0
+150 176 m 256
+ 154 176 161 177 161 182 c 256
+ 161 189 159 196 156 204 c 256
+ 153 215 150 227 150 241 c 256
+ 150 273 161 291 201 312 c 258
+ 289 357 l 258
+ 337 382 368 424 368 496 c 256
+ 368 588 318 661 238 661 c 256
+ 202 661 170 634 170 607 c 256
+ 170 589 179 580 194 580 c 256
+ 203 580 209 585 221 589 c 256
+ 229 592 238 597 255 597 c 256
+ 305 597 337 572 337 526 c 256
+ 337 467 290 428 240 404 c 256
+ 126 352 110 320 110 268 c 256
+ 110 230 144 176 150 176 c 256
+134 -14 m 256
+ 168 -14 196 14 196 48 c 256
+ 196 72 178 95 153 95 c 256
+ 119 95 92 68 92 33 c 256
+ 92 9 110 -14 134 -14 c 256
 EndSplineSet
-Substitution2: "sups subtable" question.sups
-Substitution2: "sinf subtable" question.sinf
-Substitution2: "ordn subtable" question.ordn
-Substitution2: "subs subtable" question.subs
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 21 subtable" question.sc
+Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 20 subtable" question.sc
+Substitution2: "'sups' Superscript in Latin lookup 10 subtable" question.sups
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 9 subtable" question.sinf
+Substitution2: "'subs' Subscript in Latin lookup 8 subtable" question.subs
+Comment: "+AAoA-question+AAoA"
 EndChar

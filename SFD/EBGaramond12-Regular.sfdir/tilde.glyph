@@ -1,11 +1,18 @@
 StartChar: tilde
-Encoding: 732 732 349
+Encoding: 1470 732 1469
 GlifName: tilde
-Width: 316
+Width: 300
 VWidth: 0
-Flags: HMW
-LayerCount: 3
+Flags: W
+AnchorPoint: "top" 151 440 mark 0
+LayerCount: 2
 Fore
-Refer: 110 771 N 1 0 0 1 -2 0 2
-Validated: 1
+Refer: 1470 771 N 1 0 0 1 146 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.67,0.95,0.38,1
+p2
+s."
+Comment: "+AAoA-tilde+AAoA"
 EndChar

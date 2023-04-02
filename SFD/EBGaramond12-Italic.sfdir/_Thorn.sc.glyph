@@ -1,10 +1,55 @@
 StartChar: Thorn.sc
-Encoding: 66163 -1 1755
-Width: 559
+Encoding: 391 -1 390
+GlifName: T_horn.sc
+Width: 511
 VWidth: 0
-Flags: HMW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 1787 -1 N 1 0 0 1 0 0 2
-Comment: "."
+SplineSet
+-6 -5 m 256
+ 44 -5 67 0 114 0 c 256
+ 156 0 172 -5 222 -5 c 256
+ 238 -5 252 -2 252 6 c 256
+ 252 15 247 20 227 24 c 256
+ 183 33 160 51 174 97 c 258
+ 232 283 l 258
+ 240 308 267 316 295 316 c 256
+ 347 316 387 273 387 221 c 256
+ 387 147 316 106 243 99 c 256
+ 234 98 225 94 225 86 c 256
+ 225 75 248 73 258 73 c 256
+ 359 73 464 130 464 231 c 256
+ 464 307 387 350 311 350 c 256
+ 278 350 235 345 225 342 c 257
+ 249 328 l 257
+ 257 361 l 257
+ 267 389 291 412 340 421 c 256
+ 363 425 377 432 377 441 c 256
+ 377 449 369 452 353 452 c 256
+ 303 452 291 449 251 449 c 256
+ 210 449 195 452 145 452 c 256
+ 129 452 115 449 115 441 c 256
+ 115 432 119 425 139 421 c 256
+ 183 412 195 396 180 349 c 258
+ 102 97 l 258
+ 88 51 55 33 6 24 c 256
+ -17 20 -30 15 -30 6 c 256
+ -30 -2 -22 -5 -6 -5 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VI.sc
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+VP.sc
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-Thorn.sc+AAoA"
 EndChar

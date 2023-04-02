@@ -1,30 +1,41 @@
 StartChar: uni04E8
-Encoding: 1256 1256 1977
-Width: 707
+Encoding: 2075 1256 2074
+GlifName: uni04E_8
+Width: 694
 VWidth: 0
-Flags: HMW
-AnchorPoint: "cedilla" 412 8 basechar 0
-AnchorPoint: "below_accent" 370 -100 basechar 0
-AnchorPoint: "top_accent" 588 700 basechar 0
+Flags: W
+AnchorPoint: "bottom.cap" 298 -30 basechar 0
+AnchorPoint: "top.cap" 489 675 basechar 0
 LayerCount: 2
+Back
+SplineSet
+138 301 m 257
+ 643 301 l 257
+ 678 371 l 257
+ 156 371 l 257
+ 138 301 l 257
+EndSplineSet
 Fore
 SplineSet
-139 320 m 0
- 194.261546762 500.855971222 354.291972168 664 565 664 c 0
- 727 664 829 532 769 335 c 0
- 714 155 554 -14 350 -14 c 0
- 185 -14 81 130 139 320 c 0
-687 372 m 1
- 717 525 670 625 539 625 c 0
- 409 625 294 504 246 373 c 1
- 249 372 252 371 256 371 c 2
- 678 371 l 2
- 681 371 684 372 687 372 c 1
-664 287 m 1
- 661 295 654 301 643 301 c 2
- 238 301 l 2
- 234 301 230 301 226 301 c 1
- 197 151 250 25 374 25 c 0
- 509 25 610 126 664 287 c 1
+138 316 m 257
+ 643 316 l 257
+ 678 356 l 257
+ 156 356 l 257
+ 138 316 l 257
 EndSplineSet
+Refer: 277 79 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+VO
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+g2
+sVpublic.markColor
+p4
+V0.67,0.95,0.38,1
+p5
+s."
+Comment: "+AAoA-uni04E8+AAoA"
 EndChar

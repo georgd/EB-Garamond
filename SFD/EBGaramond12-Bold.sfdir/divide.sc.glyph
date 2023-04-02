@@ -1,0 +1,44 @@
+StartChar: divide.sc
+Encoding: 737 -1 736
+GlifName: divide.sc
+Width: 502
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+49 259 m 258
+ 435 259 l 258
+ 456 259 472 285 472 302 c 256
+ 472 310 461 317 446 317 c 258
+ 63 317 l 258
+ 39 317 30 284 30 272 c 256
+ 30 267 39 259 49 259 c 258
+256 64 m 256
+ 299 64 332 97 332 137 c 256
+ 332 180 299 213 256 213 c 256
+ 216 213 182 180 182 137 c 256
+ 182 97 216 64 256 64 c 256
+255 349 m 256
+ 298 349 331 382 331 422 c 256
+ 331 465 298 498 255 498 c 256
+ 215 498 181 465 181 422 c 256
+ 181 382 215 349 255 349 c 256
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vdivide
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vdivide
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-divide.sc+AAoA"
+EndChar

@@ -1,0 +1,51 @@
+StartChar: uni300A
+Encoding: 3080 12298 3079
+GlifName: uni300A_
+Width: 490
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+434 -214 m 256
+ 447 -214 461 -206 461 -192 c 256
+ 461 -190 447 -175 446 -173 c 257
+ 385 -102 320 111 320 281 c 256
+ 320 451 388 599 449 670 c 257
+ 451 672 462 687 462 689 c 256
+ 462 698 447 705 440 705 c 256
+ 430 705 419 700 413 694 c 256
+ 342 623 237 439 237 269 c 256
+ 237 99 346 -136 417 -207 c 256
+ 422 -212 428 -214 434 -214 c 256
+237 -214 m 256
+ 250 -214 264 -206 264 -192 c 256
+ 264 -190 250 -175 249 -173 c 257
+ 188 -102 123 111 123 281 c 256
+ 123 451 191 599 252 670 c 257
+ 254 672 265 687 265 689 c 256
+ 265 698 250 705 243 705 c 256
+ 233 705 222 700 216 694 c 256
+ 145 623 40 439 40 269 c 256
+ 40 99 149 -136 220 -207 c 256
+ 225 -212 231 -214 237 -214 c 256
+EndSplineSet
+Fore
+Refer: 3077 12296 N 1 0 0 1 0 0 2
+Refer: 3077 12296 N 1 0 0 1 183 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.glyph.leftMetricsKey
+p1
+Vangleleft
+p2
+sVcom.schriftgestaltung.Glyphs.glyph.rightMetricsKey
+p3
+Vangleleft
+p4
+sVpublic.markColor
+p5
+V0.67,0.95,0.38,1
+p6
+s."
+Comment: "+AAoA-uni300A+AAoA"
+EndChar
