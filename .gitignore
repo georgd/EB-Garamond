@@ -1,3 +1,17 @@
+*~
+venv
+build.stamp
+proof
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 *.log
 *.aux
 *.goutputstream*
@@ -7,9 +21,11 @@
 *.pyc
 *.tuc
 *Glyphs.pdf
+*.ufo/*
 *.ttf
 *.otf
 *.eot
+*.woff2
 *.woff
 *tests.pdf
 *.jar
