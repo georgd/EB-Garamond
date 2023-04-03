@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w.ordn" format="2">
   <advance width="554"/>
+  <guideline x="136" y="921" angle="0"/>
   <note>
 w.ordn
 </note>
-  <guideline x="136" y="921" angle="0"/>
   <outline>
     <contour>
       <point x="170" y="278" type="curve" smooth="yes"/>
@@ -111,9 +111,6 @@ w.ordn
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

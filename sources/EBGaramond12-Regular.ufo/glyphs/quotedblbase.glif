@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblbase" format="2">
   <advance width="418"/>
   <unicode hex="201E"/>
@@ -10,13 +10,6 @@ quotedblbase
     <component base="comma" xOffset="197"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>quotesinglbase</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>quotesinglbase</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

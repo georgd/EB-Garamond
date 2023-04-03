@@ -1,21 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls.alt" format="2">
   <advance width="736"/>
-  <note>
-germandbls.alt
-</note>
   <anchor x="188" y="-30" name="bottom_1"/>
   <anchor x="556" y="-30" name="bottom_2"/>
   <anchor x="202" y="440" name="top_1"/>
   <anchor x="570" y="440" name="top_2"/>
+  <note>
+germandbls.alt
+</note>
   <outline>
     <component base="s"/>
     <component base="s" xOffset="368"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

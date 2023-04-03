@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2C65" format="2">
   <advance width="399"/>
   <unicode hex="2C65"/>
+  <anchor x="193" y="-14" name="bottom"/>
+  <anchor x="201" y="440" name="top"/>
   <note>
 uni2C65
 </note>
-  <anchor x="193" y="-14" name="bottom"/>
-  <anchor x="201" y="440" name="top"/>
   <outline>
     <contour>
       <point x="10" y="-65" type="curve" smooth="yes"/>
@@ -33,9 +33,6 @@ uni2C65
     <component base="a"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03F9" format="2">
   <advance width="709"/>
   <unicode hex="03F9"/>
+  <anchor x="412" y="-30" name="bottom.cap"/>
+  <anchor x="405" y="675" name="top.cap"/>
   <note>
 uni03F9
 </note>
-  <anchor x="412" y="-30" name="bottom.cap"/>
-  <anchor x="405" y="675" name="top.cap"/>
   <outline>
     <component base="C"/>
   </outline>

@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciitilde" format="2">
+  <advance width="555"/>
+  <unicode hex="007E"/>
+  <note>
+asciitilde
+</note>
   <outline>
     <contour>
       <point x="337" y="260" type="curve" smooth="yes"/>

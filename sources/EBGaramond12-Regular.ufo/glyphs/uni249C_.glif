@@ -1,25 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni249C" format="2">
   <advance width="1020"/>
   <unicode hex="249C"/>
+  <anchor x="508" y="-14" name="bottom"/>
+  <anchor x="516" y="440" name="top"/>
   <note>
 uni249C
 </note>
-  <anchor x="508" y="-14" name="bottom"/>
-  <anchor x="516" y="440" name="top"/>
   <outline>
     <component base="parenleft"/>
     <component base="a" xOffset="315"/>
     <component base="parenright" xOffset="705"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>parenleft</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>parenright</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

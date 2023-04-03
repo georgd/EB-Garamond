@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ertick-cy" format="2">
   <advance width="619"/>
   <unicode hex="048E"/>
@@ -93,38 +93,6 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>P</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>P</string>
-      <key>com.schriftgestaltung.annotations</key>
-      <array>
-        <dict>
-          <key>position</key>
-          <array>
-            <real>412.645</real>
-            <real>194.418</real>
-          </array>
-          <key>type</key>
-          <string>Text</string>
-          <key>width</key>
-          <integer>100</integer>
-        </dict>
-        <dict>
-          <key>position</key>
-          <array>
-            <real>484.068</real>
-            <real>181.764</real>
-          </array>
-          <key>type</key>
-          <string>Text</string>
-          <key>width</key>
-          <integer>100</integer>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

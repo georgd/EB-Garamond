@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theta.ipa" format="2">
   <advance width="534"/>
-  <note>
-theta.ipa
-</note>
   <guideline x="525" y="36" angle="0"/>
   <guideline x="606" y="650" angle="0"/>
   <guideline x="181" y="222" angle="90"/>
+  <note>
+theta.ipa
+</note>
   <outline>
     <contour>
       <point x="252" y="-14" type="curve" smooth="yes"/>

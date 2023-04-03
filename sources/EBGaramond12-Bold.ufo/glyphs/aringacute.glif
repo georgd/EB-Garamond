@@ -1,32 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aringacute" format="2">
   <advance width="447"/>
   <unicode hex="01FB"/>
+  <anchor x="199" y="-30" name="bottom"/>
+  <anchor x="227" y="440" name="top"/>
   <note>
 aringacute
 </note>
-  <anchor x="199" y="-30" name="bottom"/>
-  <anchor x="227" y="440" name="top"/>
   <outline>
     <component base="a"/>
     <component base="ring" xOffset="103" yOffset="-25"/>
     <component base="acutecomb.flat" xOffset="247" yOffset="162"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>ring</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

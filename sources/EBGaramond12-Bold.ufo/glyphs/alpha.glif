@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alpha" format="2">
   <advance width="522"/>
   <unicode hex="03B1"/>
+  <anchor x="271" y="-28" name="bottom"/>
+  <anchor x="264" y="440" name="top"/>
   <note>
 alpha
 </note>
-  <anchor x="271" y="-28" name="bottom"/>
-  <anchor x="254" y="440" name="top"/>
   <outline>
     <contour>
       <point x="139" y="-14" type="curve" smooth="yes"/>
@@ -74,9 +74,6 @@ alpha
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

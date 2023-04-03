@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="2">
   <advance width="571"/>
   <unicode hex="0127"/>
+  <anchor x="283" y="-30" name="bottom"/>
   <note>
 hbar
 </note>
-  <anchor x="283" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="38" y="-3" type="curve" smooth="yes"/>
@@ -122,13 +122,6 @@ hbar
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>h</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>h</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

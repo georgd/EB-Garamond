@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordmasculine" format="2">
   <advance width="309"/>
   <unicode hex="00BA"/>
@@ -28,9 +28,6 @@ ordmasculine
     <component base="o.ordn" yOffset="-7"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

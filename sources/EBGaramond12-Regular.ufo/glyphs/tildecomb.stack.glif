@@ -1,9 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb.stack" format="2">
+  <advance width="0"/>
+  <anchor x="-9" y="440" name="_top"/>
   <note>
 tildecomb.stack
 </note>
-  <anchor x="-9" y="440" name="_top"/>
   <outline>
     <contour>
       <point x="-119" y="467" type="curve" smooth="yes"/>
@@ -48,9 +49,6 @@ tildecomb.stack
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

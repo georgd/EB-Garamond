@@ -1,41 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2109" format="2">
   <advance width="763"/>
   <unicode hex="2109"/>
+  <anchor x="436" y="-30" name="bottom.cap"/>
+  <anchor x="531" y="675" name="top.cap"/>
   <note>
 uni2109
 </note>
-  <anchor x="436" y="-30" name="bottom.cap"/>
-  <anchor x="531" y="675" name="top.cap"/>
   <outline>
     <component base="degree"/>
     <component base="F" xOffset="251"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>degree</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>F</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>F</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

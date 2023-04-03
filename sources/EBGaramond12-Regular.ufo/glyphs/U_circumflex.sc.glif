@@ -1,18 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucircumflex.sc" format="2">
   <advance width="600"/>
+  <anchor x="313" y="503" name="top"/>
   <note>
 Ucircumflex.sc
 </note>
-  <anchor x="313" y="503" name="top"/>
   <outline>
     <component base="U.sc"/>
     <component base="circumflex" xOffset="163" yOffset="63"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

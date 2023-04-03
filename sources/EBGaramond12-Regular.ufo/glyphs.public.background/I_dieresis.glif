@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idieresis" format="2">
+  <advance width="340"/>
+  <unicode hex="00CF"/>
+  <note>
+Idieresis
+</note>
   <outline>
     <contour>
       <point x="72" y="795" type="curve" smooth="yes"/>

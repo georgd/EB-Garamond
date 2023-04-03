@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="2">
   <advance width="515"/>
   <unicode hex="0068"/>
-  <note>
-h
-</note>
   <guideline x="284" y="24" angle="0"/>
   <guideline x="261" y="8" angle="0"/>
   <anchor x="252" y="-30" name="bottom"/>
+  <note>
+h
+</note>
   <outline>
     <contour>
       <point x="39" y="-3" type="curve" smooth="yes"/>
@@ -105,11 +105,6 @@ h
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>n</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

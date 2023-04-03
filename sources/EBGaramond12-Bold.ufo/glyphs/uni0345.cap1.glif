@@ -1,25 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0345.cap1" format="2">
+  <advance width="0"/>
+  <anchor x="135" y="440" name="top"/>
   <note>
 uni0345.cap1
 </note>
-  <anchor x="135" y="440" name="top"/>
   <outline>
     <component base="iota"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>iota</string>
-        </dict>
-      </array>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

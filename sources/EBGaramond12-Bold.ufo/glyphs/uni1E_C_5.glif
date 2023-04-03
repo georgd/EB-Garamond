@@ -1,32 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EC5" format="2">
   <advance width="423"/>
   <unicode hex="1EC5"/>
+  <anchor x="226" y="-30" name="bottom"/>
+  <anchor x="238" y="440" name="top"/>
   <note>
 uni1EC5
 </note>
-  <anchor x="226" y="-30" name="bottom"/>
-  <anchor x="238" y="440" name="top"/>
   <outline>
     <component base="e"/>
     <component base="uni0302.stack" xOffset="222" yOffset="-18"/>
     <component base="tildecomb.stack" xOffset="237" yOffset="158"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>tildecomb.stack</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

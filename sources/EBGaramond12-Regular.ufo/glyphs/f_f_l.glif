@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_l" format="2">
   <advance width="761"/>
   <note>
@@ -81,11 +81,6 @@ f_f_l
     <component base="uniFB02" xOffset="255"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>f</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>l</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

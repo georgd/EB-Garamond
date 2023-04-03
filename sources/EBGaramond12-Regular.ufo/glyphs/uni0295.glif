@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0295" format="2">
   <advance width="377"/>
   <unicode hex="0295"/>
@@ -69,25 +69,6 @@ uni0295
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>=|uni0294</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|uni0294</string>
-      <key>com.schriftgestaltung.annotations</key>
-      <array>
-        <dict>
-          <key>position</key>
-          <array>
-            <real>114.801</real>
-            <real>101.835</real>
-          </array>
-          <key>type</key>
-          <string>Text</string>
-          <key>width</key>
-          <integer>100</integer>
-        </dict>
-      </array>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

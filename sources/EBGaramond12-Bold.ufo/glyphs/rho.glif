@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rho" format="2">
   <advance width="426"/>
   <unicode hex="03C1"/>
+  <anchor x="232" y="440" name="top"/>
   <note>
 rho
 </note>
-  <anchor x="232" y="440" name="top"/>
   <outline>
     <contour>
       <point x="155" y="-285" type="curve" smooth="yes"/>
@@ -55,9 +55,6 @@ rho
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sigma1" format="2">
   <advance width="353"/>
   <unicode hex="03C2"/>
+  <guideline x="356" y="222" angle="90"/>
   <note>
 sigma1
 </note>
-  <guideline x="356" y="222" angle="90"/>
   <outline>
     <contour>
       <point x="196" y="-200" type="curve" smooth="yes"/>
@@ -53,11 +53,6 @@ sigma1
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>omicron</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

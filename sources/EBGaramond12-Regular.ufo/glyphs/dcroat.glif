@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat" format="2">
   <advance width="506"/>
   <unicode hex="0111"/>
+  <anchor x="238" y="-30" name="bottom"/>
   <note>
 dcroat
 </note>
-  <anchor x="238" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="352" y="-19" type="curve" smooth="yes"/>
@@ -111,11 +111,6 @@ dcroat
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>d</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

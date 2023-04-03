@@ -1,35 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni24B4" format="2">
   <advance width="1078"/>
   <unicode hex="24B4"/>
+  <anchor x="603" y="440" name="top"/>
   <note>
 uni24B4
 </note>
-  <anchor x="603" y="440" name="top"/>
   <outline>
     <component base="y" xOffset="317"/>
     <component base="parenleft"/>
     <component base="parenright" xOffset="776" yOffset="2"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>y</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>parenleft</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>parenright</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

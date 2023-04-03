@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="2">
   <advance width="496"/>
   <unicode hex="2021"/>
+  <guideline x="253" y="167" angle="0"/>
   <note>
 daggerdbl
 </note>
-  <guideline x="253" y="167" angle="0"/>
   <outline>
     <contour>
       <point x="246" y="-161" type="curve" smooth="yes"/>
@@ -145,9 +145,6 @@ daggerdbl
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

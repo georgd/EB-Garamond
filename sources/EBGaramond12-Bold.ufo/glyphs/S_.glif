@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="S" format="2">
   <advance width="500"/>
   <unicode hex="0053"/>
+  <anchor x="229" y="-30" name="bottom.cap"/>
+  <anchor x="274" y="675" name="top.cap"/>
   <note>
 S
 </note>
-  <anchor x="229" y="-30" name="bottom.cap"/>
-  <anchor x="274" y="675" name="top.cap"/>
   <outline>
     <contour>
       <point x="222" y="-14" type="curve" smooth="yes"/>
@@ -72,9 +72,6 @@ S
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

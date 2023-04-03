@@ -1,19 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F31" format="2">
   <advance width="238"/>
   <unicode hex="1F31"/>
+  <anchor x="130" y="440" name="top"/>
   <note>
 uni1F31
 </note>
-  <anchor x="130" y="440" name="top"/>
   <outline>
     <component base="iota"/>
     <component base="uni1FFE" xOffset="22"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

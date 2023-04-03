@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="2">
+  <advance width="377"/>
+  <unicode hex="017E"/>
+  <note>
+zcaron
+</note>
   <outline>
     <contour>
       <point x="197" y="550" type="curve" smooth="yes"/>

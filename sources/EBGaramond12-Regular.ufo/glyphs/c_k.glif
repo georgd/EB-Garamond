@@ -1,32 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="c_k" format="2">
   <advance width="826"/>
+  <anchor x="591" y="-30" name="bottom"/>
+  <anchor x="237" y="440" name="top"/>
   <note>
 c_k
 </note>
-  <anchor x="591" y="-30" name="bottom"/>
-  <anchor x="237" y="440" name="top"/>
   <outline>
     <component base="c"/>
     <component base="k" xOffset="357"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>k</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>c</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>k</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

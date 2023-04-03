@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus" format="2">
   <advance width="602"/>
   <unicode hex="00B1"/>
+  <guideline x="30" y="370" angle="90"/>
+  <guideline x="570" y="400" angle="90"/>
   <note>
 plusminus
 </note>
-  <guideline x="30" y="370" angle="90"/>
-  <guideline x="570" y="400" angle="90"/>
   <outline>
     <contour>
       <point x="284" y="126" type="curve" smooth="yes"/>
@@ -72,9 +72,6 @@ plusminus
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

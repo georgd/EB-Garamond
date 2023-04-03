@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EFC" format="2">
   <advance width="550"/>
   <unicode hex="1EFC"/>
+  <guideline x="496" y="413" angle="90"/>
   <note>
 uni1EFC
 </note>
-  <guideline x="496" y="413" angle="90"/>
   <outline>
     <contour>
       <point x="275" y="-14" type="curve" smooth="yes"/>
@@ -53,11 +53,6 @@ uni1EFC
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>o</string>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

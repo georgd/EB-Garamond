@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0432" format="2">
   <advance width="424"/>
   <unicode hex="0432"/>
@@ -7,7 +7,7 @@ uni0432
 </note>
   <outline>
     <contour>
-      <point x="47" y="-3" type="curve" smooth="yes"/>
+      <point x="47" y="-3" type="curve"/>
       <point x="15" y="-3"/>
       <point x="79" y="2"/>
       <point x="124" y="3" type="curve" smooth="yes"/>
@@ -86,11 +86,6 @@ uni0432
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>n</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

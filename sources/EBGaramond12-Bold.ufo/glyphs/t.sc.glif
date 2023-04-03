@@ -1,17 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t.sc" format="2">
   <advance width="559"/>
+  <anchor x="287" y="503" name="top"/>
   <note>
 t.sc
 </note>
-  <anchor x="287" y="503" name="top"/>
   <outline>
     <component base="T.sc"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

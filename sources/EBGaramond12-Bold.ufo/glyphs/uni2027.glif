@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2027" format="2">
   <advance width="201"/>
   <unicode hex="2027"/>
@@ -9,9 +9,6 @@ uni2027
     <component base="periodcentered" xScale="0.714" yScale="0.714" xOffset="18" yOffset="213"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

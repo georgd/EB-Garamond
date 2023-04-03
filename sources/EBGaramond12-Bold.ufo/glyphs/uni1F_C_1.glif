@@ -1,30 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FC1" format="2">
   <advance width="367"/>
   <unicode hex="1FC1"/>
+  <anchor x="175" y="440" name="_top"/>
   <note>
 uni1FC1
 </note>
-  <anchor x="175" y="440" name="_top"/>
   <outline>
     <component base="dieresis" xScale="0.9238" yScale="0.8647" xOffset="14" yOffset="73"/>
     <component base="uni1FC0" xOffset="5" yOffset="165"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dieresis</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

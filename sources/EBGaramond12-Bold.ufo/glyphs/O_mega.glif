@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omega" format="2">
   <advance width="834"/>
   <unicode hex="2126"/>
+  <anchor x="419" y="-30" name="bottom"/>
   <note>
 Omega
 </note>
-  <anchor x="419" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="89" y="-4" type="curve" smooth="yes"/>
@@ -103,9 +103,6 @@ Omega
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

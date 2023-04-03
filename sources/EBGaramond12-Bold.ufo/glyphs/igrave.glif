@@ -1,20 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave" format="2">
   <advance width="306"/>
   <unicode hex="00EC"/>
+  <anchor x="150" y="-30" name="bottom"/>
+  <anchor x="152" y="440" name="top"/>
   <note>
 igrave
 </note>
-  <anchor x="150" y="-30" name="bottom"/>
-  <anchor x="152" y="440" name="top"/>
   <outline>
     <component base="dotlessi"/>
     <component base="gravecomb" xOffset="114"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

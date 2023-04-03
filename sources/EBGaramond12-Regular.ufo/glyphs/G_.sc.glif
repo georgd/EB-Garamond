@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G.sc" format="2">
   <advance width="594"/>
+  <anchor x="318" y="-30" name="bottom"/>
+  <anchor x="323" y="503" name="top"/>
   <note>
 G.sc
 </note>
-  <anchor x="318" y="-30" name="bottom"/>
-  <anchor x="323" y="503" name="top"/>
   <outline>
     <contour>
       <point x="327" y="-13" type="curve" smooth="yes"/>
@@ -82,11 +82,6 @@ G.sc
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>o.sc</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

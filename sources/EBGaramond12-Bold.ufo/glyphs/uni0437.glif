@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0437" format="2">
   <advance width="430"/>
   <unicode hex="0437"/>
+  <anchor x="223" y="440" name="top"/>
   <note>
 uni0437
 </note>
-  <anchor x="223" y="440" name="top"/>
   <outline>
     <contour>
       <point x="204" y="-14" type="curve" smooth="yes"/>
@@ -83,13 +83,6 @@ uni0437
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>=c+10</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>uni0299</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

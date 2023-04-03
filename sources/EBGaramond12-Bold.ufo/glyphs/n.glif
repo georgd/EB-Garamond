@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="2">
   <advance width="574"/>
   <unicode hex="006E"/>
+  <anchor x="290" y="-30" name="bottom"/>
+  <anchor x="298" y="440" name="top"/>
   <note>
 n
 </note>
-  <anchor x="290" y="-30" name="bottom"/>
-  <anchor x="298" y="440" name="top"/>
   <outline>
     <contour>
       <point x="40" y="-3" type="curve" smooth="yes"/>
@@ -103,9 +103,6 @@ n
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="chedescenderabkhasian-cy" format="2">
   <advance width="509"/>
   <unicode hex="04BF"/>
@@ -15,11 +15,6 @@
     <component base="dieresis" xOffset="137"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>cheabkhasian-cy</string>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

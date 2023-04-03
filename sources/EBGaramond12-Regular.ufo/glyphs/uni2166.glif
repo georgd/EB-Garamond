@@ -1,24 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2166" format="2">
   <advance width="1332"/>
   <unicode hex="2166"/>
-  <note>
-uni2166
-</note>
   <anchor x="1162" y="-30" name="bottom.cap"/>
   <anchor x="298" y="-30" name="bottom.cap_1"/>
   <anchor x="822" y="-30" name="bottom.cap_2"/>
   <anchor x="1162" y="675" name="top.cap"/>
   <anchor x="339" y="675" name="top.cap_1"/>
   <anchor x="822" y="675" name="top.cap_2"/>
+  <note>
+uni2166
+</note>
   <outline>
     <component base="uni2165"/>
     <component base="I" xOffset="992"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

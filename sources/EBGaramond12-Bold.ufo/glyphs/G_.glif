@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G" format="2">
   <advance width="717"/>
   <unicode hex="0047"/>
-  <note>
-G
-</note>
   <anchor x="388" y="-30" name="bottom.cap"/>
   <anchor x="403" y="675" name="top"/>
   <anchor x="414" y="675" name="top.cap"/>
+  <note>
+G
+</note>
   <outline>
     <contour>
       <point x="376" y="-14" type="curve" smooth="yes"/>
@@ -98,9 +98,6 @@ G
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

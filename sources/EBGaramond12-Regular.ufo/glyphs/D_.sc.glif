@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D.sc" format="2">
   <advance width="603"/>
+  <anchor x="275" y="503" name="top"/>
   <note>
 D.sc
 </note>
-  <anchor x="275" y="503" name="top"/>
   <outline>
     <contour>
       <point x="50" y="-3" type="curve" smooth="yes"/>
@@ -62,13 +62,6 @@ D.sc
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>h.sc</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>o.sc</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

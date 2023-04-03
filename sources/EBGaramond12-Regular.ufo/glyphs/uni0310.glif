@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0310" format="2">
+  <advance width="0"/>
   <unicode hex="0310"/>
   <note>
 uni0310
@@ -34,20 +35,6 @@ uni0310
     <component base="dotaccent" xScale="0.915" yScale="0.915" xOffset="-76" yOffset="87"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dotaccent</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

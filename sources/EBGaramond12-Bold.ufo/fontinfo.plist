@@ -1,80 +1,33 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>ascender</key>
-    <integer>691</integer>
-    <key>capHeight</key>
-    <integer>650</integer>
-    <key>copyright</key>
-    <string>Copyright 2017 The EB Garamond Project Authors (https://github.com/octaviopardo/EBGaramond12)</string>
-    <key>descender</key>
-    <integer>-281</integer>
     <key>familyName</key>
     <string>EB Garamond 12</string>
-    <key>guidelines</key>
-    <array>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>name</key>
-        <string> [locked]</string>
-        <key>x</key>
-        <integer>429</integer>
-        <key>y</key>
-        <integer>436</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>46</integer>
-        <key>y</key>
-        <integer>-14</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>180</integer>
-        <key>x</key>
-        <integer>422</integer>
-        <key>y</key>
-        <integer>664</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>name</key>
-        <string> [locked]</string>
-        <key>x</key>
-        <integer>-100</integer>
-        <key>y</key>
-        <integer>706</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>name</key>
-        <string> [locked]</string>
-        <key>x</key>
-        <integer>831</integer>
-        <key>y</key>
-        <integer>544</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>name</key>
-        <string> [locked]</string>
-        <key>x</key>
-        <integer>58</integer>
-        <key>y</key>
-        <integer>451</integer>
-      </dict>
-    </array>
+    <key>styleName</key>
+    <string>Bold</string>
+    <key>styleMapFamilyName</key>
+    <string>EB Garamond 12 Bold</string>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+    <key>copyright</key>
+    <string>Copyright 2017 The EB Garamond Project Authors (https://github.com/octaviopardo/EBGaramond12)</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>capHeight</key>
+    <integer>650</integer>
+    <key>xHeight</key>
+    <integer>423</integer>
+    <key>ascender</key>
+    <integer>691</integer>
+    <key>descender</key>
+    <integer>-281</integer>
     <key>italicAngle</key>
-    <integer>0</integer>
+    <real>0</real>
     <key>openTypeHeadCreated</key>
-    <string>2017/10/25 16:56:27</string>
+    <string>2023/04/02 22:40:22</string>
     <key>openTypeHheaAscender</key>
     <integer>1007</integer>
     <key>openTypeHheaDescender</key>
@@ -85,17 +38,26 @@
     <string>Georg Duffner and Octavio Pardo</string>
     <key>openTypeNameDesignerURL</key>
     <string>http://georgduffner.at/</string>
-    <key>openTypeNameLicense</key>
-    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
-    <key>openTypeNameLicenseURL</key>
-    <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
     <string>Georg Duffner</string>
     <key>openTypeNameManufacturerURL</key>
     <string>http://georgduffner.at/</string>
-    <key>openTypeOS2Selection</key>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 1.001</string>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>PfEd</string>
+    <key>openTypeOS2FamilyClass</key>
     <array>
-      <integer>7</integer>
+      <integer>0</integer>
+      <integer>0</integer>
     </array>
     <key>openTypeOS2Type</key>
     <array/>
@@ -105,12 +67,20 @@
     <integer>-298</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
-    <key>openTypeOS2VendorID</key>
-    <string>PfEd</string>
     <key>openTypeOS2WinAscent</key>
     <integer>1047</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>390</integer>
+    <key>postscriptFontName</key>
+    <string>EBGaramond12-Bold</string>
+    <key>postscriptFullName</key>
+    <string>EB Garamond 12 Bold</string>
+    <key>postscriptWeightName</key>
+    <string>Bold</string>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-15</integer>
@@ -142,19 +112,64 @@
       <integer>160</integer>
       <integer>182</integer>
     </array>
-    <key>postscriptUnderlinePosition</key>
-    <integer>-100</integer>
-    <key>postscriptUnderlineThickness</key>
-    <integer>50</integer>
-    <key>styleName</key>
-    <string>Bold</string>
-    <key>unitsPerEm</key>
-    <integer>1000</integer>
-    <key>versionMajor</key>
-    <integer>1</integer>
-    <key>versionMinor</key>
-    <integer>1</integer>
-    <key>xHeight</key>
-    <integer>423</integer>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>x</key>
+        <real>429</real>
+        <key>y</key>
+        <real>436</real>
+        <key>angle</key>
+        <real>0</real>
+        <key>name</key>
+        <string> [locked]</string>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>46</real>
+        <key>y</key>
+        <real>-14</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>422</real>
+        <key>y</key>
+        <real>664</real>
+        <key>angle</key>
+        <real>180</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>-100</real>
+        <key>y</key>
+        <real>706</real>
+        <key>angle</key>
+        <real>0</real>
+        <key>name</key>
+        <string> [locked]</string>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>831</real>
+        <key>y</key>
+        <real>544</real>
+        <key>angle</key>
+        <real>0</real>
+        <key>name</key>
+        <string> [locked]</string>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>58</real>
+        <key>y</key>
+        <real>451</real>
+        <key>angle</key>
+        <real>0</real>
+        <key>name</key>
+        <string> [locked]</string>
+      </dict>
+    </array>
   </dict>
 </plist>

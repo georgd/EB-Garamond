@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j.hist" format="2">
   <advance width="245"/>
+  <anchor x="116" y="-30" name="bottom"/>
+  <anchor x="124" y="440" name="top"/>
   <note>
 j.hist
 </note>
-  <anchor x="116" y="-30" name="bottom"/>
-  <anchor x="124" y="440" name="top"/>
   <outline>
     <component base="i"/>
   </outline>

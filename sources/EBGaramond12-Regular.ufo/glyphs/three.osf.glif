@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three.osf" format="2">
   <advance width="372"/>
+  <guideline x="314" y="413" angle="0"/>
   <note>
 three
 </note>
-  <guideline x="314" y="413" angle="0"/>
   <outline>
     <contour>
       <point x="86" y="-190" type="curve" smooth="yes"/>
@@ -73,9 +73,6 @@ three
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

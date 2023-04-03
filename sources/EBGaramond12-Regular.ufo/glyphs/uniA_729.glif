@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA729" format="2">
   <advance width="544"/>
   <unicode hex="A729"/>
+  <guideline x="262" y="354" angle="0"/>
   <note>
 uniA729
 </note>
-  <guideline x="262" y="354" angle="0"/>
   <outline>
     <contour>
       <point x="246" y="-285" type="curve"/>
@@ -122,13 +122,6 @@ uniA729
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>t</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>uni0292</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

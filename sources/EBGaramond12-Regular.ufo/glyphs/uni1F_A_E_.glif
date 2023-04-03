@@ -1,19 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FAE" format="2">
   <advance width="943"/>
   <unicode hex="1FAE"/>
+  <anchor x="528" y="-30" name="bottom"/>
   <note>
 uni1FAE
 </note>
-  <anchor x="528" y="-30" name="bottom"/>
   <outline>
     <component base="uni1F6E"/>
     <component base="uni0345" xOffset="554"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

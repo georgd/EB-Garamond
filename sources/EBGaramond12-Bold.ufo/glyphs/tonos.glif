@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos" format="2">
   <advance width="245"/>
   <unicode hex="0384"/>
+  <anchor x="93" y="439" name="_top"/>
   <note>
 tonos
 </note>
-  <anchor x="93" y="439" name="_top"/>
   <outline>
     <contour>
       <point x="68" y="476" type="curve" smooth="yes"/>
@@ -29,9 +29,6 @@ tonos
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

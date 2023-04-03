@@ -1,18 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni032E" format="2">
+  <advance width="0"/>
   <unicode hex="032E"/>
+  <guideline x="169" y="-89" angle="90"/>
+  <anchor x="-1" y="-30" name="_bottom"/>
   <note>
 uni032E
 </note>
-  <guideline x="169" y="-89" angle="90"/>
-  <anchor x="-1" y="-30" name="_bottom"/>
   <outline>
     <component base="uni0306" yOffset="-692"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

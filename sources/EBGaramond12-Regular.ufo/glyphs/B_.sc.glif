@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="B.sc" format="2">
   <advance width="514"/>
   <note>
@@ -6,7 +6,7 @@ B.sc
 </note>
   <outline>
     <contour>
-      <point x="50" y="-3" type="curve" smooth="yes"/>
+      <point x="50" y="-3" type="curve"/>
       <point x="21" y="-3"/>
       <point x="94" y="2"/>
       <point x="148" y="3" type="curve" smooth="yes"/>
@@ -85,11 +85,6 @@ B.sc
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>h.sc</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

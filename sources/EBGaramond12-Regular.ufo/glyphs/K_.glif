@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
   <advance width="681"/>
   <unicode hex="004B"/>
+  <anchor x="348" y="-30" name="bottom.cap"/>
+  <anchor x="342" y="675" name="top.cap"/>
   <note>
 K
 </note>
-  <anchor x="348" y="-30" name="bottom.cap"/>
-  <anchor x="342" y="675" name="top.cap"/>
   <outline>
     <contour>
       <point x="60" y="-5" type="curve" smooth="yes"/>
@@ -138,9 +138,6 @@ K
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

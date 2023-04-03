@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02AA" format="2">
   <advance width="572"/>
   <unicode hex="02AA"/>
+  <guideline x="333" y="34" angle="0"/>
   <note>
 uni02AA
 </note>
-  <guideline x="333" y="34" angle="0"/>
   <outline>
     <contour>
       <point x="351" y="-14" type="curve" smooth="yes"/>
@@ -94,11 +94,6 @@ uni02AA
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>b</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>s</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

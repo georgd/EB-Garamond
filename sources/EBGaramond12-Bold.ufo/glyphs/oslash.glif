@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="2">
   <advance width="504"/>
   <unicode hex="00F8"/>
-  <note>
-oslash
-</note>
   <guideline x="484" y="318" angle="90"/>
   <guideline x="21" y="299" angle="90"/>
   <anchor x="250" y="-30" name="bottom"/>
   <anchor x="259" y="440" name="top"/>
+  <note>
+oslash
+</note>
   <outline>
     <contour>
       <point x="53" y="-15" type="curve" smooth="yes"/>
@@ -35,9 +35,6 @@ oslash
     <component base="o"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

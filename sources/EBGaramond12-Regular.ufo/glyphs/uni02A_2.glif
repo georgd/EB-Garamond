@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02A2" format="2">
   <advance width="387"/>
   <unicode hex="02A2"/>
@@ -25,11 +25,6 @@ uni02A2
     <component base="uni0295" xOffset="5"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>=uni0295+5</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=uni0295+5</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

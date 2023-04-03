@@ -1,7 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-  <anchor x="364" y="-30" name="bottom.cap"/>
-  <anchor x="360" y="675" name="top.cap"/>
+  <advance width="701"/>
+  <unicode hex="0054"/>
+  <note>
+T
+</note>
   <outline>
     <contour>
       <point x="229" y="-5" type="curve" smooth="yes"/>

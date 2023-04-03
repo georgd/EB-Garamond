@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eta" format="2">
   <advance width="531"/>
   <unicode hex="03B7"/>
+  <anchor x="154" y="-28" name="bottom"/>
+  <anchor x="264" y="440" name="top"/>
   <note>
 eta
 </note>
-  <anchor x="154" y="-28" name="bottom"/>
-  <anchor x="264" y="440" name="top"/>
   <outline>
     <contour>
       <point x="419" y="-285" type="curve" smooth="yes"/>
@@ -75,9 +75,6 @@ eta
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

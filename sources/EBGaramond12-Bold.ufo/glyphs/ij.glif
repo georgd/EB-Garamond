@@ -1,36 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ij" format="2">
   <advance width="567"/>
   <unicode hex="0133"/>
-  <note>
-ij
-</note>
   <anchor x="150" y="-30" name="bottom"/>
   <anchor x="152" y="440" name="top_1"/>
   <anchor x="428" y="440" name="top_2"/>
+  <note>
+ij
+</note>
   <outline>
     <component base="i"/>
     <component base="j" xOffset="292"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>j</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>i</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>j</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

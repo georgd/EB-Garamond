@@ -1,21 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EC3" format="2">
   <advance width="390"/>
   <unicode hex="1EC3"/>
+  <anchor x="214" y="-30" name="bottom"/>
+  <anchor x="222" y="440" name="top"/>
   <note>
 uni1EC3
 </note>
-  <anchor x="214" y="-30" name="bottom"/>
-  <anchor x="222" y="440" name="top"/>
   <outline>
     <component base="e"/>
     <component base="uni0302.stack" xOffset="211" yOffset="-1"/>
     <component base="hookabovecomb.stack" xOffset="303" yOffset="86"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

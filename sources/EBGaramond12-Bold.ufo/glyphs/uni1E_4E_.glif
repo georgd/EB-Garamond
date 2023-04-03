@@ -1,32 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E4E" format="2">
   <advance width="759"/>
   <unicode hex="1E4E"/>
-  <note>
-uni1E4E
-</note>
   <guideline x="144" y="829" angle="0"/>
   <anchor x="382" y="-30" name="bottom.cap"/>
   <anchor x="392" y="675" name="top.cap"/>
+  <note>
+uni1E4E
+</note>
   <outline>
     <component base="Otilde"/>
     <component base="uni0308.cap" xOffset="391" yOffset="159"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni0308.cap</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

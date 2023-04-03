@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilontonos.sc" format="2">
   <advance width="494"/>
+  <anchor x="254" y="503" name="top"/>
   <note>
 Epsilontonos.sc
 </note>
-  <anchor x="254" y="503" name="top"/>
   <outline>
     <component base="E.sc"/>
     <component base="tonos" xOffset="161" yOffset="64"/>

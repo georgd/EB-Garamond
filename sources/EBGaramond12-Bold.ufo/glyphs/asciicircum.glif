@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="2">
   <advance width="517"/>
   <unicode hex="005E"/>
+  <guideline x="256" y="242" angle="0"/>
   <note>
 asciicircum
 </note>
-  <guideline x="256" y="242" angle="0"/>
   <outline>
     <contour>
       <point x="54" y="242" type="curve" smooth="yes"/>
@@ -34,9 +34,6 @@ asciicircum
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

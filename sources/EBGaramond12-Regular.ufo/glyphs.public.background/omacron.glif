@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omacron" format="2">
+  <advance width="495"/>
+  <unicode hex="014D"/>
+  <note>
+omacron
+</note>
   <outline>
     <contour>
       <point x="353" y="555" type="curve" smooth="yes"/>

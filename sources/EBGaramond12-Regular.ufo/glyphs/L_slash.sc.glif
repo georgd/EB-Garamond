@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash.sc" format="2">
   <advance width="470"/>
+  <anchor x="233" y="-30" name="bottom"/>
+  <anchor x="158" y="503" name="top"/>
   <note>
 Lslash.sc
 </note>
-  <anchor x="233" y="-30" name="bottom"/>
-  <anchor x="158" y="503" name="top"/>
   <outline>
     <contour>
       <point x="161" y="217" type="line"/>
@@ -38,11 +38,6 @@ Lslash.sc
     <component base="L.sc"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>l.sc</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

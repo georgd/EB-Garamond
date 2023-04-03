@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB03" format="2">
   <advance width="776"/>
   <unicode hex="FB03"/>
@@ -82,11 +82,6 @@ uniFB03
     <component base="uniFB01" xOffset="258"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>f</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>i</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

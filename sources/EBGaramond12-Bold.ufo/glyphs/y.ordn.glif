@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y.ordn" format="2">
   <advance width="363"/>
+  <guideline x="153" y="921" angle="0"/>
   <note>
 y.ordn
 </note>
-  <guideline x="153" y="921" angle="0"/>
   <outline>
     <contour>
       <point x="71" y="127" type="curve" smooth="yes"/>
@@ -92,11 +92,6 @@ y.ordn
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>v.ordn</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

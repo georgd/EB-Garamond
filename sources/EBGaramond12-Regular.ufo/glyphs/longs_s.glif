@@ -1,32 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_s" format="2">
   <advance width="550"/>
+  <anchor x="395" y="-30" name="bottom"/>
+  <anchor x="403" y="440" name="top"/>
   <note>
 longs_s
 </note>
-  <anchor x="395" y="-30" name="bottom"/>
-  <anchor x="403" y="440" name="top"/>
   <outline>
     <component base="longs"/>
     <component base="s" xOffset="227"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>s</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>longs</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>s</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

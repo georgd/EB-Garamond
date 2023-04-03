@@ -1,16 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb.sc" format="2">
+  <advance width="0"/>
+  <anchor x="-17" y="419" name="_top"/>
   <note>
 tildecomb.sc
 </note>
-  <anchor x="-17" y="419" name="_top"/>
   <outline>
     <component base="tilde" xOffset="-158" yOffset="-4"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

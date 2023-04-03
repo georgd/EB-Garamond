@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni019B" format="2">
-  <advance width="430"/>
+  <advance width="489"/>
   <unicode hex="019B"/>
   <note>
 uni019B
@@ -26,12 +26,9 @@ uni019B
       <point x="26" y="427"/>
       <point x="32" y="420"/>
     </contour>
-    <component base="lambda"/>
+    <component base=".notdef"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

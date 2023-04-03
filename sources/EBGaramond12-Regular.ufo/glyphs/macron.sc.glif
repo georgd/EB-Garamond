@@ -1,17 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron.sc" format="2">
   <advance width="300"/>
+  <anchor x="152" y="419" name="_top"/>
   <note>
 macron.sc
 </note>
-  <anchor x="152" y="419" name="_top"/>
   <outline>
     <component base="macron" yOffset="-20"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

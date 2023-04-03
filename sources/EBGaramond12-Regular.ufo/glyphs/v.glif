@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="2">
   <advance width="438"/>
   <unicode hex="0076"/>
+  <anchor x="220" y="-30" name="bottom"/>
+  <anchor x="218" y="440" name="top"/>
   <note>
 v
 </note>
-  <anchor x="220" y="-30" name="bottom"/>
-  <anchor x="218" y="440" name="top"/>
   <outline>
     <contour>
       <point x="214" y="-21" type="curve"/>
       <point x="220" y="-21" type="line"/>
       <point x="227" y="-12"/>
       <point x="242" y="24"/>
-      <point x="242" y="24" type="curve" smooth="yes"/>
+      <point x="242" y="24" type="curve"/>
       <point x="242" y="24"/>
       <point x="275" y="112"/>
       <point x="280" y="123" type="curve" smooth="yes"/>
@@ -88,9 +88,6 @@ v
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

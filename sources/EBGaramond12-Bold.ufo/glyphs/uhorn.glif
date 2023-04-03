@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorn" format="2">
   <advance width="609"/>
   <unicode hex="01B0"/>
+  <anchor x="277" y="-30" name="bottom"/>
+  <anchor x="289" y="440" name="top"/>
   <note>
 uhorn
 </note>
-  <anchor x="277" y="-30" name="bottom"/>
-  <anchor x="289" y="440" name="top"/>
   <outline>
     <contour>
       <point x="342" y="-21" type="curve" smooth="yes"/>
@@ -107,11 +107,6 @@ uhorn
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>u</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

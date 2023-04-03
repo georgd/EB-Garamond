@@ -1,5 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls.sc1" format="2">
+  <advance width="632"/>
+  <note>
+germandbls.sc1
+</note>
   <outline>
     <contour>
       <point x="400" y="-10" type="curve"/>
@@ -50,7 +54,7 @@
       <point x="242" y="264" type="line" smooth="yes"/>
       <point x="242" y="332"/>
       <point x="272" y="410"/>
-      <point x="343" y="410" type="curve" smooth="yes"/>
+      <point x="343" y="410" type="curve"/>
       <point x="342" y="410"/>
       <point x="359" y="411"/>
       <point x="369" y="407" type="curve" smooth="yes"/>

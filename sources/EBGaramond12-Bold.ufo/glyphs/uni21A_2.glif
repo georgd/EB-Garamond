@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni21A2" format="2">
   <advance width="932"/>
   <unicode hex="21A2"/>
+  <guideline x="155" y="491" angle="0"/>
+  <guideline x="94" y="79" angle="0"/>
   <note>
 uni21A2
 </note>
-  <guideline x="155" y="491" angle="0"/>
-  <guideline x="94" y="79" angle="0"/>
   <outline>
     <contour>
       <point x="318" y="81" type="curve" smooth="yes"/>
@@ -64,13 +64,6 @@ uni21A2
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>arrowleft</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>arrowleft</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

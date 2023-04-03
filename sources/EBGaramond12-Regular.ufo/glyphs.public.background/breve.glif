@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breve" format="2">
+  <advance width="300"/>
+  <unicode hex="02D8"/>
+  <note>
+breve
+</note>
   <outline>
     <contour>
       <point x="114" y="587" type="curve" smooth="yes"/>

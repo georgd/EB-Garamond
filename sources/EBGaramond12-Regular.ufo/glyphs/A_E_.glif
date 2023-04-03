@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="2">
   <advance width="872"/>
   <unicode hex="00C6"/>
+  <anchor x="543" y="675" name="top.cap"/>
   <note>
 AE
 </note>
-  <anchor x="543" y="675" name="top.cap"/>
   <outline>
     <contour>
       <point x="24" y="-5" type="curve" smooth="yes"/>
@@ -180,11 +180,6 @@ AE
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>E</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

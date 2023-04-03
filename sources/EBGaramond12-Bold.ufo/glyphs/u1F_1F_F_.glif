@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u1F1FF" format="2">
   <advance width="1048"/>
   <unicode hex="1F1FF"/>
+  <anchor x="547" y="503" name="top"/>
   <note>
 u1F1FF
 </note>
-  <anchor x="547" y="503" name="top"/>
   <outline>
     <contour>
       <point x="80" y="506" type="line"/>
@@ -138,9 +138,6 @@ u1F1FF
     <component base="Z.sc" xOffset="280"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

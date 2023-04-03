@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0280" format="2">
   <advance width="484"/>
   <unicode hex="0280"/>
+  <anchor x="259.002" y="-26.886" name="bottom"/>
+  <anchor x="224.946" y="450.789" name="top"/>
   <note>
 uni0280
 </note>
-  <anchor x="259.002" y="-26.886" name="bottom"/>
-  <anchor x="224.946" y="450.789" name="top"/>
   <outline>
     <contour>
       <point x="421.214" y="-12.547" type="curve" smooth="yes"/>
@@ -101,9 +101,6 @@ uni0280
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

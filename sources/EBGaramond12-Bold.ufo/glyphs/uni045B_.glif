@@ -1,18 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045B" format="2">
   <advance width="571"/>
   <unicode hex="045B"/>
+  <anchor x="283" y="-30" name="bottom"/>
   <note>
 uni045B
 </note>
-  <anchor x="283" y="-30" name="bottom"/>
   <outline>
     <component base="hbar"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

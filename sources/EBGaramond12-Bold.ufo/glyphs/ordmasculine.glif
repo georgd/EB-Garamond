@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordmasculine" format="2">
   <advance width="331"/>
   <unicode hex="00BA"/>
-  <note>
-ordmasculine
-</note>
   <guideline x="12" y="276" angle="90"/>
   <guideline x="320" y="269" angle="90"/>
   <guideline x="164" y="267" angle="0"/>
+  <note>
+ordmasculine
+</note>
   <outline>
     <contour>
       <point x="301" y="206" type="curve" smooth="yes"/>
@@ -31,9 +31,6 @@ ordmasculine
     <component base="o.ordn" yOffset="-7"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

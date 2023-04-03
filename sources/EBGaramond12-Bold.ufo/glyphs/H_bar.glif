@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="2">
   <advance width="799"/>
   <unicode hex="0126"/>
-  <note>
-Hbar
-</note>
   <guideline x="16" y="267" angle="90"/>
   <anchor x="399" y="-30" name="bottom.cap"/>
   <anchor x="400" y="675" name="top.cap"/>
+  <note>
+Hbar
+</note>
   <outline>
     <contour>
       <point x="44" y="447" type="curve" smooth="yes"/>
@@ -28,9 +28,6 @@ Hbar
     <component base="H"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

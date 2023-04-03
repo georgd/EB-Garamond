@@ -1,16 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0345.sc1" format="2">
+  <advance width="0"/>
+  <anchor x="175" y="503" name="top"/>
   <note>
 uni0345.sc1
 </note>
-  <anchor x="175" y="503" name="top"/>
   <outline>
     <component base="I.sc"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>340</integer>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

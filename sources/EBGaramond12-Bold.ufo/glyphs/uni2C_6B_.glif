@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2C6B" format="2">
   <advance width="595"/>
   <unicode hex="2C6B"/>
+  <guideline x="580" y="205" angle="90"/>
   <note>
 uni2C6B
 </note>
-  <guideline x="580" y="205" angle="90"/>
   <outline>
     <contour>
       <point x="523" y="-221" type="curve" smooth="yes"/>
@@ -106,11 +106,6 @@ uni2C6B
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>Z</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

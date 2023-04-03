@@ -1,16 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0304.sc" format="2">
+  <advance width="0"/>
+  <anchor x="0" y="428" name="_top"/>
   <note>
 uni0304.sc
 </note>
-  <anchor x="0" y="428" name="_top"/>
   <outline>
     <component base="macron" xOffset="-183" yOffset="-10"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

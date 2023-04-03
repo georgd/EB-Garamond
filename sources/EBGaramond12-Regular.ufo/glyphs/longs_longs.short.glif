@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_longs.short" format="2">
   <advance width="490"/>
   <note>
@@ -64,11 +64,6 @@ longs_longs.short
     <component base="longs.short" xOffset="245"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>f</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>longs.short</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

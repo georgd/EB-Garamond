@@ -1,18 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1D21" format="2">
   <advance width="724"/>
   <unicode hex="1D21"/>
+  <anchor x="386.847" y="461.1" name="top"/>
   <note>
 uni1D21
 </note>
-  <anchor x="386.8474" y="461.1001" name="top"/>
   <outline>
     <component base="W.sc" xScale="0.9167" yScale="0.9167"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>
