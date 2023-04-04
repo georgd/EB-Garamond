@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274079135
-ModificationTime: 1679441402
+ModificationTime: 1680642354
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -501,6 +501,42 @@ KernClass2: 4 2 "kern kerning class 3"
  68 Upsilon Upsilondieresis Upsilontonos uni1F59 uni1F5B uni1F5D uni1F5F
  114 alpha chi epsilon eta gamma iota kappa mu nu omega omicron pi rho sigma sigma1 tau uni1FB3 uni1FC3 uni1FF3 upsilon
  0 {} 0 {} 0 {} -100 {} 0 {} -90 {} 0 {} -50 {}
+ChainPos2: glyph "xtex_pos1 contextual 4" 0 0 0 1
+ String: 7 e.xtex1
+ BString: 1 T
+ FString: 1 X
+ 1
+  SeqLookup: 0 "Single Positioning lookup 128"
+EndFPST
+ChainPos2: glyph "xtex_pos1 contextual 3" 0 0 0 1
+ String: 4 a.sc
+ BString: 1 L
+ FString: 11 T e.xtex1 X
+ 1
+  SeqLookup: 0 "Single Positioning lookup 127"
+EndFPST
+ChainPos2: coverage "xtex_pos1 contextual 2" 0 0 0 1
+ 1 2 0
+  Coverage: 7 e.xtex3
+  BCoverage: 42 two two.lnum two.taboldstyle two.tablining
+  BCoverage: 1 X
+ 1
+  SeqLookup: 0 "Single Positioning lookup 126"
+EndFPST
+ChainPos2: glyph "xtex_pos1 contextual 1" 0 0 0 1
+ String: 7 e.xtex2
+ BString: 1 X
+ FString: 1 L
+ 1
+  SeqLookup: 0 "Single Positioning lookup 125"
+EndFPST
+ChainPos2: glyph "xtex_pos1 contextual 0" 0 0 0 1
+ String: 7 e.xtex2
+ BString: 1 X
+ FString: 1 T
+ 1
+  SeqLookup: 0 "Single Positioning lookup 124"
+EndFPST
 ChainSub2: coverage "xtex_sub1 contextual 4" 0 0 0 1
  1 6 0
   Coverage: 1 e
@@ -583,7 +619,7 @@ EndFPST
 ChainSub2: coverage "f_long1 contextual 3" 0 0 0 1
  1 0 1
   Coverage: 41 longs longs_longs uni1E9B uni1E9C uni1E9D
-  FCoverage: 3414 b h i j k l agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute thorn amacron abreve cacute ccircumflex ccaron emacron ebreve ecaron gcircumflex gbreve uni0123 hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex uni0137 lacute uni013C lcaron ldot lslash nacute ncaron omacron obreve ohungarumlaut racute rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent zcaron uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED ygrave uni1EF7 uni1EFB i.TRK exclam quotedbl dollar percent quotesingle parenleft parenright asterisk question bracketleft backslash bracketright braceleft bar braceright registered quoteleft quoteright quotedblleft quotedblright minute second uni2034 exclamdbl uni203D uni2047 uni2048 uni2049 exclam.ordn quotedbl.ordn numbersign.ordn dollar.ordn percent.ordn ampersand.ordn quotesingle.ordn parenleft.ordn parenright.ordn asterisk.ordn plus.ordn comma.ordn hyphen.ordn period.ordn slash.ordn zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn colon.ordn semicolon.ordn less.ordn equal.ordn greater.ordn question.ordn at.ordn A.ordn B.ordn C.ordn D.ordn E.ordn F.ordn G.ordn H.ordn I.ordn J.ordn K.ordn L.ordn M.ordn N.ordn O.ordn P.ordn Q.ordn R.ordn S.ordn T.ordn U.ordn V.ordn W.ordn X.ordn Y.ordn Z.ordn bracketleft.ordn backslash.ordn bracketright.ordn asciicircum.ordn underscore.ordn grave.ordn a.ordn b.ordn c.ordn d.ordn e.ordn f.ordn g.ordn h.ordn i.ordn j.ordn k.ordn l.ordn m.ordn n.ordn o.ordn p.ordn q.ordn r.ordn s.ordn t.ordn u.ordn v.ordn w.ordn x.ordn y.ordn z.ordn braceleft.ordn bar.ordn braceright.ordn asciitilde.ordn brokenbar.ordn section.ordn paragraph.ordn egrave.ordn uni2016.ordn dagger.ordn daggerdbl.ordn f.ordn i.ordn exclam.sups quotedbl.sups numbersign.sups dollar.sups percent.sups ampersand.sups quotesingle.sups parenleft.sups parenright.sups asterisk.sups plus.sups comma.sups hyphen.sups period.sups slash.sups zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups colon.sups semicolon.sups less.sups equal.sups greater.sups question.sups at.sups A.sups B.sups C.sups D.sups E.sups F.sups G.sups H.sups I.sups J.sups K.sups L.sups M.sups N.sups O.sups P.sups Q.sups R.sups S.sups T.sups U.sups V.sups W.sups X.sups Y.sups Z.sups bracketleft.sups backslash.sups bracketright.sups asciicircum.sups underscore.sups grave.sups a.sups b.sups c.sups d.sups e.sups f.sups g.sups h.sups i.sups j.sups k.sups l.sups m.sups n.sups o.sups p.sups q.sups r.sups s.sups t.sups u.sups v.sups w.sups x.sups y.sups z.sups braceleft.sups bar.sups braceright.sups asciitilde.sups brokenbar.sups section.sups paragraph.sups egrave.sups uni2016.sups dagger.sups daggerdbl.sups f.sups i.sups
+  FCoverage: 3430 b h i j k l agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute thorn amacron abreve cacute ccircumflex ccaron emacron ebreve ecaron gcircumflex gbreve uni0123 hcircumflex hbar itilde imacron ibreve iogonek dotlessi ij jcircumflex uni0137 lacute uni013C lcaron ldot lslash nacute ncaron omacron obreve ohungarumlaut racute rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent zcaron uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED ygrave uni1EF7 uni1EFB i.TRK exclam quotedbl dollar percent quotesingle parenleft parenright asterisk question bracketleft backslash bracketright braceleft bar braceright registered quoteleft quoteright quotedblleft quotedblright minute second uni2034 exclamdbl uni203D uni2047 uni2048 uni2049 uni2E22 uni2E23 exclam.ordn quotedbl.ordn numbersign.ordn dollar.ordn percent.ordn ampersand.ordn quotesingle.ordn parenleft.ordn parenright.ordn asterisk.ordn plus.ordn comma.ordn hyphen.ordn period.ordn slash.ordn zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn colon.ordn semicolon.ordn less.ordn equal.ordn greater.ordn question.ordn at.ordn A.ordn B.ordn C.ordn D.ordn E.ordn F.ordn G.ordn H.ordn I.ordn J.ordn K.ordn L.ordn M.ordn N.ordn O.ordn P.ordn Q.ordn R.ordn S.ordn T.ordn U.ordn V.ordn W.ordn X.ordn Y.ordn Z.ordn bracketleft.ordn backslash.ordn bracketright.ordn asciicircum.ordn underscore.ordn grave.ordn a.ordn b.ordn c.ordn d.ordn e.ordn f.ordn g.ordn h.ordn i.ordn j.ordn k.ordn l.ordn m.ordn n.ordn o.ordn p.ordn q.ordn r.ordn s.ordn t.ordn u.ordn v.ordn w.ordn x.ordn y.ordn z.ordn braceleft.ordn bar.ordn braceright.ordn asciitilde.ordn brokenbar.ordn section.ordn paragraph.ordn egrave.ordn uni2016.ordn dagger.ordn daggerdbl.ordn f.ordn i.ordn exclam.sups quotedbl.sups numbersign.sups dollar.sups percent.sups ampersand.sups quotesingle.sups parenleft.sups parenright.sups asterisk.sups plus.sups comma.sups hyphen.sups period.sups slash.sups zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups colon.sups semicolon.sups less.sups equal.sups greater.sups question.sups at.sups A.sups B.sups C.sups D.sups E.sups F.sups G.sups H.sups I.sups J.sups K.sups L.sups M.sups N.sups O.sups P.sups Q.sups R.sups S.sups T.sups U.sups V.sups W.sups X.sups Y.sups Z.sups bracketleft.sups backslash.sups bracketright.sups asciicircum.sups underscore.sups grave.sups a.sups b.sups c.sups d.sups e.sups f.sups g.sups h.sups i.sups j.sups k.sups l.sups m.sups n.sups o.sups p.sups q.sups r.sups s.sups t.sups u.sups v.sups w.sups x.sups y.sups z.sups braceleft.sups bar.sups braceright.sups asciitilde.sups brokenbar.sups section.sups paragraph.sups egrave.sups uni2016.sups dagger.sups daggerdbl.sups f.sups i.sups
  1
   SeqLookup: 0 "Single Substitution lookup 103"
 EndFPST
@@ -606,7 +642,7 @@ EndFPST
 ChainSub2: coverage "f_long1 contextual 0" 0 0 0 1
  1 0 1
   Coverage: 19 f f_f f.DEU uni1E1F
-  FCoverage: 3163 b h i j k l agrave adieresis aring uni01CE abreve egrave edieresis ecaron ebreve igrave iacute icircumflex itilde idieresis uni01D0 imacron ibreve iogonek eth ograve ugrave ygrave thorn germandbls ccaron gcaron gbreve hcircumflex hbar dotlessi ij jcircumflex uni01F0 uni0137 lacute uni013C lcaron ldot lslash rcaron scircumflex scaron uni1E97 uni1E6B uni1E8D zcaron longs uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED ygrave uni1EF7 uni1EFB i.TRK exclam quotedbl dollar percent quotesingle parenleft parenright asterisk question bracketleft backslash bracketright braceleft bar braceright registered quoteleft quoteright quotedblleft quotedblright minute second uni2034 exclamdbl uni203D uni2047 uni2048 uni2049 exclam.ordn quotedbl.ordn numbersign.ordn dollar.ordn percent.ordn ampersand.ordn quotesingle.ordn parenleft.ordn parenright.ordn asterisk.ordn plus.ordn comma.ordn hyphen.ordn period.ordn slash.ordn zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn colon.ordn semicolon.ordn less.ordn equal.ordn greater.ordn question.ordn at.ordn A.ordn B.ordn C.ordn D.ordn E.ordn F.ordn G.ordn H.ordn I.ordn J.ordn K.ordn L.ordn M.ordn N.ordn O.ordn P.ordn Q.ordn R.ordn S.ordn T.ordn U.ordn V.ordn W.ordn X.ordn Y.ordn Z.ordn bracketleft.ordn backslash.ordn bracketright.ordn asciicircum.ordn underscore.ordn grave.ordn a.ordn b.ordn c.ordn d.ordn e.ordn f.ordn g.ordn h.ordn i.ordn j.ordn k.ordn l.ordn m.ordn n.ordn o.ordn p.ordn q.ordn r.ordn s.ordn t.ordn u.ordn v.ordn w.ordn x.ordn y.ordn z.ordn braceleft.ordn bar.ordn braceright.ordn asciitilde.ordn brokenbar.ordn section.ordn paragraph.ordn egrave.ordn uni2016.ordn dagger.ordn daggerdbl.ordn f.ordn i.ordn exclam.sups quotedbl.sups numbersign.sups dollar.sups percent.sups ampersand.sups quotesingle.sups parenleft.sups parenright.sups asterisk.sups plus.sups comma.sups hyphen.sups period.sups slash.sups zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups colon.sups semicolon.sups less.sups equal.sups greater.sups question.sups at.sups A.sups B.sups C.sups D.sups E.sups F.sups G.sups H.sups I.sups J.sups K.sups L.sups M.sups N.sups O.sups P.sups Q.sups R.sups S.sups T.sups U.sups V.sups W.sups X.sups Y.sups Z.sups bracketleft.sups backslash.sups bracketright.sups asciicircum.sups underscore.sups grave.sups a.sups b.sups c.sups d.sups e.sups f.sups g.sups h.sups i.sups j.sups k.sups l.sups m.sups n.sups o.sups p.sups q.sups r.sups s.sups t.sups u.sups v.sups w.sups x.sups y.sups z.sups braceleft.sups bar.sups braceright.sups asciitilde.sups brokenbar.sups section.sups paragraph.sups egrave.sups uni2016.sups dagger.sups daggerdbl.sups f.sups i.sups
+  FCoverage: 3179 b h i j k l agrave adieresis aring uni01CE abreve egrave edieresis ecaron ebreve igrave iacute icircumflex itilde idieresis uni01D0 imacron ibreve iogonek eth ograve ugrave ygrave thorn germandbls ccaron gcaron gbreve hcircumflex hbar dotlessi ij jcircumflex uni01F0 uni0137 lacute uni013C lcaron ldot lslash rcaron scircumflex scaron uni1E97 uni1E6B uni1E8D zcaron longs uni1E03 uni1E05 uni1E07 uni1E15 uni1E17 uni1E1D uni1E1F uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E4F uni1E51 uni1E65 uni1E67 uni1E6B uni1E7B uni1E8D uni1E96 uni1E97 uni1E9A uni1E9B uni1E9C uni1E9D uni1E9F uni1EA3 uni1EA5 uni1EA6 uni1EA7 uni1EA8 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7 uni1EBB uni1EC1 uni1EC5 uni1EC9 uni1ECB uni1ECF uni1ED3 uni1ED7 uni1EDD uni1EDF uni1EE7 uni1EEB uni1EED ygrave uni1EF7 uni1EFB i.TRK exclam quotedbl dollar percent quotesingle parenleft parenright asterisk question bracketleft backslash bracketright braceleft bar braceright registered quoteleft quoteright quotedblleft quotedblright minute second uni2034 exclamdbl uni203D uni2047 uni2048 uni2049 uni2E22 uni2E23 exclam.ordn quotedbl.ordn numbersign.ordn dollar.ordn percent.ordn ampersand.ordn quotesingle.ordn parenleft.ordn parenright.ordn asterisk.ordn plus.ordn comma.ordn hyphen.ordn period.ordn slash.ordn zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn colon.ordn semicolon.ordn less.ordn equal.ordn greater.ordn question.ordn at.ordn A.ordn B.ordn C.ordn D.ordn E.ordn F.ordn G.ordn H.ordn I.ordn J.ordn K.ordn L.ordn M.ordn N.ordn O.ordn P.ordn Q.ordn R.ordn S.ordn T.ordn U.ordn V.ordn W.ordn X.ordn Y.ordn Z.ordn bracketleft.ordn backslash.ordn bracketright.ordn asciicircum.ordn underscore.ordn grave.ordn a.ordn b.ordn c.ordn d.ordn e.ordn f.ordn g.ordn h.ordn i.ordn j.ordn k.ordn l.ordn m.ordn n.ordn o.ordn p.ordn q.ordn r.ordn s.ordn t.ordn u.ordn v.ordn w.ordn x.ordn y.ordn z.ordn braceleft.ordn bar.ordn braceright.ordn asciitilde.ordn brokenbar.ordn section.ordn paragraph.ordn egrave.ordn uni2016.ordn dagger.ordn daggerdbl.ordn f.ordn i.ordn exclam.sups quotedbl.sups numbersign.sups dollar.sups percent.sups ampersand.sups quotesingle.sups parenleft.sups parenright.sups asterisk.sups plus.sups comma.sups hyphen.sups period.sups slash.sups zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups colon.sups semicolon.sups less.sups equal.sups greater.sups question.sups at.sups A.sups B.sups C.sups D.sups E.sups F.sups G.sups H.sups I.sups J.sups K.sups L.sups M.sups N.sups O.sups P.sups Q.sups R.sups S.sups T.sups U.sups V.sups W.sups X.sups Y.sups Z.sups bracketleft.sups backslash.sups bracketright.sups asciicircum.sups underscore.sups grave.sups a.sups b.sups c.sups d.sups e.sups f.sups g.sups h.sups i.sups j.sups k.sups l.sups m.sups n.sups o.sups p.sups q.sups r.sups s.sups t.sups u.sups v.sups w.sups x.sups y.sups z.sups braceleft.sups bar.sups braceright.sups asciitilde.sups brokenbar.sups section.sups paragraph.sups egrave.sups uni2016.sups dagger.sups daggerdbl.sups f.sups i.sups
  1
   SeqLookup: 0 "Single Substitution lookup 100"
 EndFPST
@@ -992,42 +1028,6 @@ ChainSub2: glyph "loclCAT contextual 0" 0 0 0 1
  FString: 1 l
  1
   SeqLookup: 0 "Single Substitution lookup 4"
-EndFPST
-ChainPos2: glyph "xtex_pos1 contextual 4" 0 0 0 1
- String: 7 e.xtex1
- BString: 1 T
- FString: 1 X
- 1
-  SeqLookup: 0 "Single Positioning lookup 128"
-EndFPST
-ChainPos2: glyph "xtex_pos1 contextual 3" 0 0 0 1
- String: 4 a.sc
- BString: 1 L
- FString: 11 T e.xtex1 X
- 1
-  SeqLookup: 0 "Single Positioning lookup 127"
-EndFPST
-ChainPos2: coverage "xtex_pos1 contextual 2" 0 0 0 1
- 1 2 0
-  Coverage: 7 e.xtex3
-  BCoverage: 42 two two.lnum two.taboldstyle two.tablining
-  BCoverage: 1 X
- 1
-  SeqLookup: 0 "Single Positioning lookup 126"
-EndFPST
-ChainPos2: glyph "xtex_pos1 contextual 1" 0 0 0 1
- String: 7 e.xtex2
- BString: 1 X
- FString: 1 L
- 1
-  SeqLookup: 0 "Single Positioning lookup 125"
-EndFPST
-ChainPos2: glyph "xtex_pos1 contextual 0" 0 0 0 1
- String: 7 e.xtex2
- BString: 1 X
- FString: 1 T
- 1
-  SeqLookup: 0 "Single Positioning lookup 124"
 EndFPST
 ChainPos2: coverage "ckern3 contextual 83" 0 0 0 1
  1 0 2
@@ -1943,7 +1943,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 2891 7 5
+WinInfo: 1974 7 5
 BeginPrivate: 9
 BlueValues 55 [-22 0 268 287 400 430 450 464 616 630 650 664 700 705]
 OtherBlues 21 [-290 -285 -181 -167]

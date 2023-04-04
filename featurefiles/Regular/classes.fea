@@ -96,7 +96,7 @@
 @asc_f = [ b h k l thorn ];
 @asc_f1 = [ b.f_ h.f_ k.f_ l.f_ thorn.f_ ];
 
-@HIGH_PUNCT = [ exclam quotedbl dollar percent quotesingle parenleft parenright asterisk question bracketleft backslash bracketright braceleft bar braceright registered quoteleft quoteright quotedblleft quotedblright minute second uni2034 exclamdbl uni203D uni2047 uni2048 uni2049 ];
+@HIGH_PUNCT = [ exclam quotedbl dollar percent quotesingle parenleft parenright asterisk question bracketleft backslash bracketright braceleft bar braceright registered quoteleft quoteright quotedblleft quotedblright minute second uni2034 exclamdbl uni203D uni2047 uni2048 uni2049 uni2E22 uni2E23 ];
 
 @NO_ASC1 = [ a c e g n r s v x z ccedilla aogonek eogonek dotlessi eng uni0157 scedilla uni01DD uni01E5 uni0219 uni0229 uni0237 v.LAT  ];
 
