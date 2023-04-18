@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1339342330
-ModificationTime: 1614047757
+ModificationTime: 1681853400
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -404,13 +404,14 @@ LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2012, Georg
 LangName: 1031 "" "" "Kursiv"
 GaspTable: 1 65535 2 0
 DesignSize: 80 0-94 2 1033 "Italic"
-Encoding: Custom
+Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 2014 19 8
+WinInfo: 360 15 7
 BeginPrivate: 9
 BlueValues 39 [-81 8 396 405 513 555 598 632 661 691]
 OtherBlues 11 [-318 -299]
