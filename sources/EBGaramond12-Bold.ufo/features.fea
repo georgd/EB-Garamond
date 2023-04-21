@@ -2667,7 +2667,11 @@ feature kern {
 	\yusbig-cy \z \z.ordn \z.pc \z.sc \z.sinf \z.subs \z.sups \zacute \zacute.sc 
 	\zcaron \zcaron.sc \zdotaccent \zdotaccent.sc \zedescender-cy \zero \zero.dnom 
 	\zero.lf \zero.numr \zero.ordn \zero.osf \zero.sc \zero.subs \zero.tosf 
-	\zeroinferior \zerosuperior \zeta \zeta.sc \zhedescender-cy ];
+	\zeroinferior \zerosuperior \zeta \zeta.sc \zhedescender-cy \zero.sinf 
+	\zero.sups \one.sinf \one.sups \two.sinf \two.sups \three.sinf \three.sups 
+	\four.sinf \four.sups \five.sinf \five.sups \six.sinf \six.sups \seven.sinf 
+	\seven.sups \eight.sinf \eight.sups \nine.sinf \nine.sups 
+	\periodcentered.CATcase \periodcentered.CATsc ];
 @GDEF_Ligature = [\Q_y \T_h \arrowboth \arrowdbldown \arrowdblleft \arrowdblright 
 	\arrowdblup \arrowdown \arrowleft \arrowright \arrowup \arrowupdn \c_h \c_k \c_t 
 	\f_b \f_f \f_f.long \f_f.short \f_f_b \f_f_h \f_f_i \f_f_j \f_f_k \f_f_l \f_f_t 

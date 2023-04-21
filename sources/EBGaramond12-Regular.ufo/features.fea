@@ -2667,7 +2667,10 @@ feature kern {
 	\z.sinf \z.subs \z.sups \zacute \zacute.sc \zcaron \zcaron.sc \zdotaccent 
 	\zdotaccent.sc \zedescender-cy \zero \zero.dnom \zero.lf \zero.numr \zero.ordn 
 	\zero.osf \zero.sc \zero.subs \zero.tosf \zeroinferior \zerosuperior \zeta 
-	\zeta.sc \zhedescender-cy ];
+	\zeta.sc \zhedescender-cy \zero.sinf \one.sinf \two.sinf \three.sinf 
+	\four.sinf \five.sinf \six.sinf \seven.sinf \eight.sinf \nine.sinf \zero.sups 
+	\one.sups \two.sups \three.sups \four.sups \five.sups \six.sups \seven.sups 
+	\eight.sups \nine.sups \periodcentered.CATcase \periodcentered.CATsc ];
 @GDEF_Ligature = [\Q_y \T_h \arrowboth \arrowdbldown \arrowdblleft \arrowdblright 
 	\arrowdblup \arrowdown \arrowleft \arrowright \arrowup \arrowupdn \c_h \c_k \c_t 
 	\f_b \f_f \f_f.long \f_f.short \f_f_b \f_f_h \f_f_i \f_f_j \f_f_k \f_f_l \f_f_t 
