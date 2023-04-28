@@ -3,7 +3,7 @@ Encoding: 443 87 442
 GlifName: W_
 Width: 1043
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "bottom.cap" 533 -30 basechar 0
 AnchorPoint: "top.cap" 598 675 basechar 0
 LayerCount: 2
@@ -103,8 +103,9 @@ SplineSet
  668 542 644 477 632 451 c 256
  627 440 623 431 614 451 c 256
  601 480 576 550 566 576 c 256
- 559 594 561 612 589 618 c 256
- 613 623 624 628 624 640 c 256
+ 564 582 563 587.001745485 563 592.001745485 c 0
+ 563 604.001745485 575 615 589 618 c 272
+ 605 621 624 628 624 640 c 256
  624 649 611 654 590 654 c 256
  546 654 501 650 461 650 c 256
  422 650 351 654 309 654 c 256
@@ -129,7 +130,6 @@ SplineSet
  355 8 l 258
  361 -5 365 -17 378 -17 c 256
 EndSplineSet
-Validated: 37
 PickledDataWithLists: "(dp0
 Vpublic.markColor
 p1
