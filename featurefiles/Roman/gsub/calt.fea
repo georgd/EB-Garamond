@@ -1,0 +1,69 @@
+# Replace Q by long-tailed Q if no collision occurs
+lookup Q_alts {
+#TODO Can a lookupflag to ignore above diacritics help here?
+    sub Q' @NO_DESCENDER_WIDE @NO_DESCENDER_WIDE by Q.long;
+    sub Q' @NO_DESCENDER_WIDE @DIACRITICS_ABV @NO_DESCENDER_WIDE by Q.long;
+    sub Q' @NO_DESCENDER_WIDE [ @NO_DESCENDER quoteleft quoteright ] [ @DESCENDER_RIGHT @NO_DESCENDER ]  by Q.long;
+    sub Q' @NO_DESCENDER_WIDE @DIACRITICS_ABV [ @NO_DESCENDER quoteleft quoteright ] [ @DESCENDER_RIGHT @NO_DESCENDER ]  by Q.long;
+    sub Q' @NO_DESCENDER_WIDE @DIACRITICS_ABV [ @NO_DESCENDER quoteleft quoteright ] @DIACRITICS_ABV [ @DESCENDER_RIGHT @NO_DESCENDER ]  by Q.long;
+    sub Q' @NO_DESCENDER_WIDE [ @NO_DESCENDER quoteleft quoteright ] @DIACRITICS_ABV [ @DESCENDER_RIGHT @NO_DESCENDER ]  by Q.long;
+    sub Q' @NO_DESCENDER @NO_DESCENDER @NO_DESCENDER by Q.long;
+    sub Q' @NO_DESCENDER @DIACRITICS_ABV @NO_DESCENDER @NO_DESCENDER by Q.long;
+    sub Q' @NO_DESCENDER @DIACRITICS_ABV @NO_DESCENDER @DIACRITICS_ABV @NO_DESCENDER by Q.long;
+    sub Q' @NO_DESCENDER @NO_DESCENDER @DIACRITICS_ABV @NO_DESCENDER by Q.long;
+    sub Q' [ g j p y ] by Q.short;
+    sub Q' [ J comma semicolon parenright bracketright braceright ] by Q.low;
+    sub [ Q.sc q.sc]' @SMALLCAPS by q.longsc;
+} Q_alts;
+
+# Replace f by short bowed f to prevent collision
+lookup f_long {
+    ignore sub @LONG_F' [ @NO_ASCENDER ];
+    sub [@LONG_F f.DEU]' by [@SHORT_F f.short];
+} f_long;
+
+lookup f_long_before_diacritic_above {
+    sub [@LONG_F f.DEU]' @NO_ASCENDER_NARROW @DIACRITICS_ABV by [@SHORT_F f.short];
+} f_long_before_diacritic_above;
+
+# TODO re-evaluate this lookup for inclusion in another feature
+lookup caltLAT {
+    #sub [ space @PUNCT ] u.LAT' by u.LATinit;
+    sub [ @Letters U.LAT u.LAT u.LATmedi v.LATmedi ] [ u.LAT v.LAT]' by [ u.LATmedi v.LATmedi];
+} caltLAT;
+
+lookup UC_hyphen {
+    sub @LETTERS [ hyphen uni2010 uni2011 figuredash endash emdash ]' @LETTERS by [ hyphen.cap uni2010.cap uni2011.cap figuredash.cap endash.cap emdash.cap ];
+} UC_hyphen;
+
+feature calt {
+    lookup Q_alts;
+    lookup f_long;
+    lookup f_long_before_diacritic_above;
+    lookup caltLAT;
+    lookup UC_hyphen;
+} calt;
+
+# TODO re-add e.xtex* to fonts
+lookup xtex_sub1 {
+    sub X e' T e X by e.xtex2;
+    sub X e' L a T e X by e.xtex2;
+    sub L a' T e X by a.sc;
+    sub T e' X by e.xtex1;
+    sub L a.sc T e.xtex1 X [two two.lf two.tosf two.osf] e' by e.xtex3;
+} xtex_sub1;
+
+lookup xtex_pos1 {
+    pos X e.xtex2' <-130 -180 -320 0> T;
+    pos X e.xtex2' <-130 -180 -200 0> L;
+    pos X [two two.lf two.tosf two.osf] e.xtex3' <0 -180 0 0>;
+    pos L a.sc' <-330 210 -490 0> T e.xtex1 X;
+    pos T e.xtex1' <-180 -180 -280 0> X;
+    pos periodcentered.CATcase' <10 10 0 0> L;
+    pos periodcentered.CATsc' <0 15 0 0> l.sc;
+}xtex_pos1;
+
+feature xtex {
+    lookup xtex_sub1;
+    lookup xtex_pos1;
+} xtex;

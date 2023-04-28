@@ -1,0 +1,3 @@
+feature case {
+    sub @CAP_BASE_GLYPHS by @CAP_GLYPHS;
+} case;

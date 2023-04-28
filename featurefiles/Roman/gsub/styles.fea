@@ -43,7 +43,7 @@ feature cv03 {
 } cv03;
 
 lookup historic_apostrophe {
-    sub quoteright' [ @NO_ASC1 @NO_ASC2 ] by quoteright.01;
+    sub quoteright' @NO_ASCENDER by quoteright.01;
 } historic_apostrophe;
 
 feature ss05 {
@@ -68,8 +68,9 @@ feature cv06 {
 } cv06;
 
 lookup one_variants {
-    sub one by one.01;
-    sub one.taboldstyle by one.taboldstyle01;
+    sub one.osf from [one.01 one.tosf one.tosf01 one.lf one];
+    sub one.tosf from [one.tosf01 one.osf one.01 one one.lf];
+    sub one from [ one.lf one.osf one.01 one.tosf one.tosf01];
 } one_variants;
 
 feature cv11 {
@@ -78,7 +79,8 @@ feature cv11 {
 
 lookup alternate_a {
     sub a from [ a.01 ];
-    sub uni0430 from [ uni0430.alt ];
+#TODO re-add alternate cyrillic a to the font
+    #sub uni0430 from [ uni0430.alt ];
 } alternate_a;
 
 feature cv21 {
@@ -96,7 +98,8 @@ feature cv27 {
 } cv27;
 
 lookup germandbls_variants {
-    sub germandbls from [ germandbls.alt1 germandbls.alt2 ];
+    #sub germandbls from [ germandbls.alt1 germandbls.alt2 ];
+    sub germandbls from [ germandbls.alt ];
 } germandbls_variants;
 
 feature cv47 {

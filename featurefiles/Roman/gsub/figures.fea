@@ -1,5 +1,5 @@
 lookup subs {
-    sub @SUBS1 by @SUBS2;
+    sub @DIGITS by @DIGITS_SUBS;
 } subs;
 
 feature subs {
@@ -11,7 +11,7 @@ feature dnom {
 } dnom;
 
 lookup ordn {
-    sub @SUBS1 by @ORDN;
+    sub @DIGITS by @DIGITS_ORDN;
 } ordn;
 
 feature ordn {
@@ -23,7 +23,7 @@ feature numr {
 } numr;
 
 lookup sinf {
-    sub @SUBS1 by @SINF;
+    sub @DIGITS by @DIGITS_SINF;
 } sinf;
 
 feature sinf {
@@ -31,7 +31,7 @@ feature sinf {
 } sinf;
 
 lookup sups {
-    sub @SUBS1 by @SUPS;
+    sub @DIGITS by @DIGITS_SUPS;
     sub registered by registered.sups;
 } sups;
 
@@ -54,22 +54,23 @@ feature frac {
 } frac;
 
 feature lnum {
-    sub @ONUM by @LNUM;
-    sub @ONUM_TNUM by @LNUM_TNUM;
+    sub @OSF by @LF;
+    sub @TOSF by @TF;
 } lnum;
 
 feature onum {
     sub percent by percent.sc;
-    sub @LNUM by @ONUM;
-    sub @LNUM_TNUM by @ONUM_TNUM;
+    sub @LF by @OSF;
+    sub @TF by @TOSF;
 } onum;
 
 feature tnum {
-    sub @ONUM by @ONUM_TNUM;
-    sub @LNUM by @LNUM_TNUM;
+    sub @OSF by @TOSF;
+    sub @LF by @TF;
 } tnum;
 
 feature pnum {
-    sub @ONUM_TNUM by @ONUM;
-    sub @LNUM_TNUM by @LNUM;
+    sub @TOSF by @OSF;
+    sub @TF by @LF;
 } pnum;
+

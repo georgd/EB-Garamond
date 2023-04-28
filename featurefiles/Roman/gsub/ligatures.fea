@@ -1,0 +1,63 @@
+# hlig assembles historically attested ligatures
+feature hlig {
+    sub s t  by s_t;
+    sub c t  by c_t;
+} hlig;
+
+# the following assembles f and longs ligatures
+lookup liga_f {
+    ignore sub f._f [ f f.DEU]' [ f f.DEU]; # never ever produce a fff-ligature!
+    ignore sub longs._longs longs' longs;   # never ever prouce a triple-longs-ligature!
+#    ignore sub f._f f.DEU' l ;     # the sequence ffl almost always needs manual interaction! 
+# It‘s either f_f + l or f + f_l, the latter appearing more frequently. Nevertheless, it’s better seeing an f_f_l ligature than seeing a wrongly composed sequence of single glyphs and ligatures. Professionals will know what to do.
+    ignore sub [ f f.DEU longs ]' uni200C;
+    ignore sub uni200C t';
+    sub [ f f.DEU ]' [ f f.DEU ] by f._f;
+    sub [ f f.DEU ] t' by t.f_;
+    sub [ f f.DEU longs ]' i by [ f._i f._i longs._i ];
+    sub [ f longs ]' j by [ f._i longs._i ];
+    sub [ f.DEU ]' j o r d by f._i;     #german -fjord with ligature
+    sub [ f.DEU ]' j e l l by f._i;     #german -fjell with ligature
+    sub f.DEU' l by f._asc;
+    sub [ f._i longs._i ] [ i j ]' by [ i.dotless j.dotless ];
+    sub [ f longs ]' @asc_f by [ f._asc longs._asc ];
+    sub [K k] a [ f.DEU ]' k a by f._asc;  # kafkaeske Ligatur
+    sub [ f._asc longs._asc ] @asc_f' by @asc_f1;
+    sub longs' longs by longs._longs;
+    sub [ f f.DEU ]'  [ @DIACRITICS_ABV @DIACRITICS_ABV_FLAT @DIACRITICS_BLW ]  [ f f.DEU ] by f._f;
+    sub [ f f.DEU ]  [ @DIACRITICS_ABV @DIACRITICS_ABV_FLAT @DIACRITICS_BLW ]  t' by t.f_;
+    sub [ f f.DEU longs ]'  [ @DIACRITICS_ABV @DIACRITICS_ABV_FLAT @DIACRITICS_BLW ]  [ i j ] by [ f._i f._i longs._i ];
+    sub f.DEU'  [ @DIACRITICS_ABV @DIACRITICS_ABV_FLAT @DIACRITICS_BLW ]  l by f._asc;
+    sub [ f._i longs._i ]  [ @DIACRITICS_ABV @DIACRITICS_ABV_FLAT @DIACRITICS_BLW ]  [ i j ]' by [ i.dotless j.dotless ];
+    sub [ f longs ]'  [ @DIACRITICS_ABV @DIACRITICS_ABV_FLAT @DIACRITICS_BLW ]  @asc_f by [ f._asc longs._asc ];
+    sub [ f._asc longs._asc ]  [ @DIACRITICS_ABV @DIACRITICS_ABV_FLAT @DIACRITICS_BLW ]  @asc_f' by @asc_f1;
+    sub longs'  [ @DIACRITICS_ABV @DIACRITICS_ABV_FLAT @DIACRITICS_BLW ]  longs by longs._longs;
+} liga_f;
+
+lookup liga_standard {
+    sub longs t  by longs_t;
+    sub longs longs t  by longs_longs_t;
+    sub q uniA76B by q_uniA76B;
+} liga_standard;
+
+# liga assembles standard ligatures that are expected in a modern font and
+# historically attested or in analogy to historically attested forms
+feature liga {
+    lookup liga_f;
+    lookup liga_standard;
+    # lookup liga_regionals;
+} liga;
+
+lookup Q_lig {
+    sub Q y by Q_y;
+} Q_lig;
+
+lookup Th_lig {
+    sub T h  by T_h;
+} Th_lig;
+
+# dlig assembles ligatures that aren’t historically attested
+feature dlig {
+    lookup Q_lig;
+    lookup Th_lig;
+} dlig;

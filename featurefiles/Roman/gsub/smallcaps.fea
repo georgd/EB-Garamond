@@ -15,8 +15,18 @@ lookup c2sc {
     sub @GRKLETTERS by @GRKSC;
     sub @GRKACCENTED by @GRKACCENTEDSC;
     sub @capdiacritics1 by @capdiacritics_sc;
-    sub periodcentered.CATuc by periodcentered.CATsc;
+    sub periodcentered.CATcase by periodcentered.CATsc;
 } c2sc;
+
+lookup pcap {
+    sub [a-z] by [a.pc-z.pc];
+} pcap;
+
+lookup c2pc {
+    sub [A-Z] by [A.pc-Z.pc];
+    sub @capdiacritics1 by @capdiacritics_sc;
+    #sub @capdiacritics1 by @DIACRITICS;
+} c2pc;
 
 lookup Smallcaps2 {
     sub [ D.sc d.sc T.sc t.sc ] [ uni030C.alt uni030C.alt1 ]' by uni030C.sc;
@@ -34,3 +44,13 @@ feature c2sc {
     lookup c2sc;
     lookup Smallcaps2;
 } c2sc;
+
+feature pcap {
+    lookup CCMP_Precomp;
+    lookup pcap;
+} pcap;
+
+feature c2pc {
+    lookup CCMP_Precomp;
+    lookup c2pc;
+} c2pc;

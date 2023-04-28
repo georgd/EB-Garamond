@@ -1,0 +1,55 @@
+lookup loclDEU {
+    sub \Adieresis by \Adieresis.deu ;
+    sub \Odieresis by \Odieresis.deu ;
+    sub \Udieresis by \Udieresis.deu ;
+    sub f by f.DEU;
+} loclDEU;
+
+lookup loclDEU_no_fReplacement {
+    sub f.DEU by f;
+} loclDEU_no_fReplacement;
+
+lookup loclTRK {
+# cf. http://typophile.com/node/17787
+    sub i by i.TRK;
+} loclTRK;
+
+lookup loclCAT {
+    sub l periodcentered' l by periodcentered.CAT;
+    sub L periodcentered' [L l] by periodcentered.CATcase;
+} loclCAT;
+
+lookup loclSRB {
+    sub uni0431 by uni0431.SRB;
+} loclSRB;
+
+# lookup  loclBGR {
+# 	 sub [ uni0416 uni041A uni041B uni0432 uni0433 uni0434 uni0436 uni0438 uni0439 uni043A uni043B uni043D uni043F uni0442 uni0446 uni0447 uni0448 uni0449 uni044E ] by [ uni0416.BGR uni041A.BGR uni041B.alt uni0432.BGR uni0433.BGR uni0434.BGR uni0436.BGR uni0438.BGR uni0439.BGR uni043A.BGR uni043B.alt uni043D.BGR uni043F.BGR uni0442.BGR uni0446.BGR uni0447.BGR uni0448.BGR uni0449.BGR uni044E.BGR ];
+# } loclBGR;
+
+feature locl {
+  script latn;
+     language DEU  exclude_dflt;
+      lookup loclDEU;
+     language TRK  exclude_dflt;
+      lookup loclTRK;
+     language AZE  exclude_dflt;
+      lookup loclTRK;
+     language CRT  exclude_dflt;
+      lookup loclTRK;
+     language CAT  exclude_dflt;
+      lookup loclCAT;
+  script cyrl;
+     language SRB  exclude_dflt;
+      lookup loclSRB;
+     language MKD  exclude_dflt;
+      lookup loclSRB;
+} locl;
+
+feature ss10 {
+    lookup loclDEU_no_fReplacement;
+} ss10;
+
+# feature ss08 {
+#       lookup loclBGR;
+#  } ss08;
