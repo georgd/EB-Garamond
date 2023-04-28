@@ -19,7 +19,7 @@ lookup c2sc {
 } c2sc;
 
 lookup pcap {
-    sub [a-z] by [a.pc-z.pc];
+    sub [a-z f.DEU] by [a.pc-z.pc f.pc];
 } pcap;
 
 lookup c2pc {
