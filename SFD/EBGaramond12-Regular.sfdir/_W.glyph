@@ -3,7 +3,7 @@ Encoding: 443 87 442
 GlifName: W_
 Width: 916
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "bottom.cap" 453 -30 basechar 0
 AnchorPoint: "top.cap" 510 675 basechar 0
 LayerCount: 2
@@ -106,7 +106,8 @@ SplineSet
  510 460 507 462 500 478 c 256
  491 497 459 579 455 591 c 256
  454 594 453 596 453 599 c 256
- 453 622 494 624 494 641 c 256
+ 453 609 462 617 473 622 c 16
+ 484 627 494 630 494 641 c 272
  494 649 482 652 465 652 c 256
  445 652 418 650 388 650 c 256
  352 650 325 653 294 653 c 256
