@@ -322,6 +322,8 @@
 @NO_ASCENDER_NARROW = [ a c e g n r s v x z ccedilla aogonek eogonek dotlessi eng uni0157 scedilla uni01DD uni01E5 uni0219 uni0229 uni0237 v.LAT  ];
 @NO_ASCENDER_WIDE = [ m o p q u w ae oe uogonek uni01EB u.LAT u.LATmedi v.LAT germandbls.alt ];
 @NO_ASCENDER = [ @NO_ASCENDER_NARROW @NO_ASCENDER_WIDE ];
+@ALMOST_NO_ASCENDER = [ t t.f_ ];
+@MORE_OR_LESS_NO_ASCENDER = [ @NO_ASCENDER @ALMOST_NO_ASCENDER ];
 
 @SMCP_NO_DESCENDER = [A.sc-I.sc K.sc-P.sc R.sc-Z.sc a.sc-i.sc k.sc-p.sc r.sc-z.sc
 	 agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc ae.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc eth.sc ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc multiply.sc oslash.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc yacute.sc germandbls.sc divide.sc amacron.sc abreve.sc cacute.sc ccircumflex.sc cdotaccent.sc ccaron.sc dcaron.sc dcroat.sc emacron.sc ebreve.sc edotaccent.sc ecaron.sc gcircumflex.sc gbreve.sc gdotaccent.sc uni0123.sc hcircumflex.sc hbar.sc itilde.sc imacron.sc ibreve.sc i.TRKsc dotlessi.sc kgreenlandic.sc lacute.sc lcaron.sc ldot.sc lslash.sc nacute.sc ncaron.sc omacron.sc obreve.sc ohungarumlaut.sc oe.sc racute.sc rcaron.sc sacute.sc scircumflex.sc scaron.sc tcaron.sc tbar.sc utilde.sc umacron.sc ubreve.sc uring.sc uhungarumlaut.sc wcircumflex.sc ycircumflex.sc ydieresis.sc zacute.sc zdotaccent.sc zcaron.sc 

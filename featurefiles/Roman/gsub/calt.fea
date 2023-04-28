@@ -18,7 +18,7 @@ lookup Q_alts {
 
 # Replace f by short bowed f to prevent collision
 lookup f_long {
-    ignore sub [@LONG_F f.DEU]' [ @NO_ASCENDER ];
+    ignore sub [@LONG_F f.DEU]' [ @MORE_OR_LESS_NO_ASCENDER ];
     sub [@LONG_F f.DEU]' by [@SHORT_F f.short];
 } f_long;
 
