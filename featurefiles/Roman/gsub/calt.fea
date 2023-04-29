@@ -1,16 +1,11 @@
 # Replace Q by long-tailed Q if no collision occurs
 lookup Q_alts {
-#TODO Can a lookupflag to ignore above diacritics help here?
+    lookupflag IgnoreMarks;
+    ignore sub Q' @NO_DESCENDER @DIACRITICS_BLW;
+    ignore sub Q' @NO_DESCENDER @NO_DESCENDER @DIACRITICS_BLW;
     sub Q' @NO_DESCENDER_WIDE @NO_DESCENDER_WIDE by Q.long;
-    sub Q' @NO_DESCENDER_WIDE @DIACRITICS_ABV @NO_DESCENDER_WIDE by Q.long;
     sub Q' @NO_DESCENDER_WIDE [ @NO_DESCENDER quoteleft quoteright ] [ @DESCENDER_RIGHT @NO_DESCENDER ]  by Q.long;
-    sub Q' @NO_DESCENDER_WIDE @DIACRITICS_ABV [ @NO_DESCENDER quoteleft quoteright ] [ @DESCENDER_RIGHT @NO_DESCENDER ]  by Q.long;
-    sub Q' @NO_DESCENDER_WIDE @DIACRITICS_ABV [ @NO_DESCENDER quoteleft quoteright ] @DIACRITICS_ABV [ @DESCENDER_RIGHT @NO_DESCENDER ]  by Q.long;
-    sub Q' @NO_DESCENDER_WIDE [ @NO_DESCENDER quoteleft quoteright ] @DIACRITICS_ABV [ @DESCENDER_RIGHT @NO_DESCENDER ]  by Q.long;
     sub Q' @NO_DESCENDER @NO_DESCENDER @NO_DESCENDER by Q.long;
-    sub Q' @NO_DESCENDER @DIACRITICS_ABV @NO_DESCENDER @NO_DESCENDER by Q.long;
-    sub Q' @NO_DESCENDER @DIACRITICS_ABV @NO_DESCENDER @DIACRITICS_ABV @NO_DESCENDER by Q.long;
-    sub Q' @NO_DESCENDER @NO_DESCENDER @DIACRITICS_ABV @NO_DESCENDER by Q.long;
     sub Q' [ g j p y ] by Q.short;
     sub Q' [ J comma semicolon parenright bracketright braceright ] by Q.low;
     sub [ Q.sc q.sc]' @SMALLCAPS by q.longsc;
