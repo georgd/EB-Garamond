@@ -21,9 +21,7 @@ bullet.01
       <point x="744" y="97" type="curve" smooth="yes"/>
       <point x="744" y="99" type="line"/>
       <point x="744" y="100" type="line"/>
-      <point x="744" y="100"/>
-      <point x="744" y="101"/>
-      <point x="744" y="101" type="curve" smooth="yes"/>
+      <point x="744" y="101" type="line" smooth="yes"/>
       <point x="745" y="103"/>
       <point x="745" y="105"/>
       <point x="745" y="108" type="curve" smooth="yes"/>
@@ -320,9 +318,7 @@ bullet.01
       <point x="545" y="83"/>
       <point x="544" y="83"/>
       <point x="543" y="84" type="curve"/>
-      <point x="543" y="84"/>
-      <point x="543" y="84"/>
-      <point x="543" y="84" type="curve"/>
+      <point x="543" y="84" type="line"/>
       <point x="543" y="86"/>
       <point x="543" y="89"/>
       <point x="544" y="91" type="curve" smooth="yes"/>
@@ -413,9 +409,7 @@ bullet.01
       <point x="625" y="217"/>
       <point x="621" y="222"/>
       <point x="612" y="231" type="curve"/>
-      <point x="612" y="231"/>
-      <point x="612" y="231"/>
-      <point x="612" y="231" type="curve"/>
+      <point x="612" y="231" type="line"/>
       <point x="612" y="234"/>
       <point x="612" y="238"/>
       <point x="611" y="242" type="curve" smooth="yes"/>
@@ -716,18 +710,14 @@ bullet.01
       <point x="570" y="351"/>
       <point x="557" y="359"/>
       <point x="541" y="370" type="curve"/>
-      <point x="541" y="370"/>
-      <point x="541" y="370"/>
-      <point x="541" y="370" type="curve"/>
+      <point x="541" y="370" type="line"/>
       <point x="539" y="374"/>
       <point x="534" y="381"/>
       <point x="525" y="383" type="curve" smooth="yes"/>
       <point x="519" y="384"/>
       <point x="510" y="384"/>
       <point x="502" y="373" type="curve"/>
-      <point x="502" y="373"/>
-      <point x="502" y="373"/>
-      <point x="502" y="373" type="curve"/>
+      <point x="502" y="373" type="line"/>
       <point x="498" y="370"/>
       <point x="495" y="367"/>
       <point x="492" y="364" type="curve" smooth="yes"/>
@@ -826,9 +816,7 @@ bullet.01
       <point x="464" y="99"/>
       <point x="466" y="94"/>
       <point x="469" y="89" type="curve"/>
-      <point x="469" y="89"/>
-      <point x="468" y="89"/>
-      <point x="468" y="89" type="curve"/>
+      <point x="468" y="89" type="line"/>
       <point x="464" y="89" type="line"/>
       <point x="463" y="89" type="line" smooth="yes"/>
       <point x="454" y="88"/>

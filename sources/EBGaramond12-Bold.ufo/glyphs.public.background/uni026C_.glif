@@ -56,7 +56,7 @@ uni026C
       <point x="83" y="-3"/>
     </contour>
     <contour>
-      <point x="136" y="461" type="curve"/>
+      <point x="136" y="461" type="line"/>
       <point x="124" y="464"/>
       <point x="109" y="465"/>
       <point x="95" y="465" type="curve" smooth="yes"/>
@@ -66,9 +66,7 @@ uni026C
       <point x="-25" y="283"/>
       <point x="47" y="245"/>
       <point x="136" y="242" type="curve"/>
-      <point x="136" y="242"/>
-      <point x="136" y="294"/>
-      <point x="136" y="294" type="curve"/>
+      <point x="136" y="294" type="line"/>
       <point x="85" y="299"/>
       <point x="61" y="328"/>
       <point x="61" y="377" type="curve" smooth="yes"/>
@@ -78,14 +76,10 @@ uni026C
       <point x="116" y="408"/>
       <point x="136" y="367"/>
       <point x="136" y="322" type="curve"/>
-      <point x="136" y="322"/>
-      <point x="155" y="320"/>
-      <point x="155" y="320" type="curve"/>
-      <point x="155" y="320"/>
-      <point x="136" y="461"/>
+      <point x="155" y="320" type="line"/>
     </contour>
     <contour>
-      <point x="264" y="237" type="curve"/>
+      <point x="264" y="237" type="line"/>
       <point x="330" y="253"/>
       <point x="376" y="277"/>
       <point x="387" y="294" type="curve" smooth="yes"/>
@@ -98,8 +92,6 @@ uni026C
       <point x="312" y="321"/>
       <point x="294" y="314"/>
       <point x="274" y="308" type="curve"/>
-      <point x="274" y="308"/>
-      <point x="264" y="237"/>
     </contour>
   </outline>
 </glyph>

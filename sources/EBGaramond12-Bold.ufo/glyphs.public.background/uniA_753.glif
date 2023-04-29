@@ -87,9 +87,7 @@ uniA753
       <point x="223" y="90"/>
       <point x="249" y="49"/>
       <point x="272" y="22" type="curve"/>
-      <point x="272" y="22"/>
-      <point x="282" y="108"/>
-      <point x="282" y="108" type="curve"/>
+      <point x="282" y="108" type="line"/>
       <point x="244" y="133"/>
       <point x="216" y="145"/>
       <point x="174" y="145" type="curve" smooth="yes"/>
