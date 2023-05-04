@@ -1,20 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alphatonos" format="2">
   <advance width="468"/>
   <unicode hex="03AC"/>
+  <anchor x="187" y="-28" name="bottomgreek"/>
+  <anchor x="312" y="440" name="topgreek"/>
   <note>
 alphatonos
 </note>
-  <anchor x="187" y="-28" name="bottomgreek"/>
-  <anchor x="312" y="440" name="topgreek"/>
   <outline>
     <component base="alpha"/>
     <component base="tonos" xOffset="173" yOffset="-20"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="entail-cy" format="2">
   <advance width="588"/>
   <unicode hex="04CA"/>
@@ -35,13 +35,6 @@
     <component base="uni043D"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>uni043D</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>uni043D</string>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

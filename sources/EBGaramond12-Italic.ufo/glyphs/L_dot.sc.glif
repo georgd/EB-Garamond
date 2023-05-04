@@ -1,18 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot.sc" format="2">
   <advance width="470"/>
+  <anchor x="253" y="503" name="top"/>
   <note>
 Ldot.sc
 </note>
-  <anchor x="253" y="503" name="top"/>
   <outline>
     <component base="L.sc"/>
     <component base="periodcentered.CATsc" xOffset="383"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

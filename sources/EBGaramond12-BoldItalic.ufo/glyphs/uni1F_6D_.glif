@@ -1,33 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F6D" format="2">
   <advance width="1024"/>
   <unicode hex="1F6D"/>
+  <anchor x="547" y="-30" name="bottomgreek"/>
+  <anchor x="246" y="410" name="topgreek"/>
   <note>
 uni1F6D
 </note>
-  <anchor x="547" y="-30" name="bottomgreek"/>
-  <anchor x="246" y="410" name="topgreek"/>
   <outline>
     <component base="Omega" xOffset="210"/>
     <component base="uni1FDE" xOffset="-67" yOffset="-30"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni1FDE</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>Omega</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

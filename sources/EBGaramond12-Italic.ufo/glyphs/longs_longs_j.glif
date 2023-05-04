@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_longs_j" format="2">
   <advance width="790"/>
+  <anchor x="731" y="440" name="top"/>
   <note>
 longs_longs_j
 </note>
-  <anchor x="731" y="440" name="top"/>
   <outline>
     <contour>
       <point x="100" y="-290" type="curve" smooth="yes"/>
@@ -79,13 +79,6 @@ longs_longs_j
     <component base="j.dotless" xOffset="531"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>longs</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>j.dotless</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

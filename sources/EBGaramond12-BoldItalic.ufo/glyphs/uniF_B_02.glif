@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB02" format="2">
   <advance width="702"/>
   <unicode hex="FB02"/>
+  <anchor x="460" y="-30" name="bottom"/>
   <note>
 uniFB02
 </note>
-  <anchor x="460" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="-58" y="-291" type="curve" smooth="yes"/>
@@ -77,13 +77,6 @@ uniFB02
     <component base="l" xOffset="383"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>f</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>l</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

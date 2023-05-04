@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0195" format="2">
+  <advance width="768"/>
+  <unicode hex="0195"/>
+  <note>
+uni0195
+</note>
   <outline>
     <contour>
       <point x="1504" y="-14" type="curve" smooth="yes"/>
@@ -175,7 +180,7 @@
       <point x="489" y="74"/>
       <point x="481" y="93"/>
       <point x="495" y="139" type="curve" smooth="yes"/>
-      <point x="572" y="385" type="line" smooth="yes"/>
+      <point x="572" y="385" type="line"/>
     </contour>
   </outline>
 </glyph>

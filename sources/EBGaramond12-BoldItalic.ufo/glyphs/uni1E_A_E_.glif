@@ -1,39 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EAE" format="2">
   <advance width="805"/>
   <unicode hex="1EAE"/>
+  <anchor x="248" y="-30" name="bottom.cap"/>
+  <anchor x="697" y="832" name="top.cap"/>
   <note>
 uni1EAE
 </note>
-  <anchor x="248" y="-30" name="bottom.cap"/>
-  <anchor x="697" y="832" name="top.cap"/>
   <outline>
     <component base="Abreve"/>
     <component base="acutecomb.capstack" xOffset="568" yOffset="113"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>Abreve</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>acutecomb.capstack</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

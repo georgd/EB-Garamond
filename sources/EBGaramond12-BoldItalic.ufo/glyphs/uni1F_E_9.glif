@@ -1,21 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FE9" format="2">
   <advance width="732"/>
   <unicode hex="1FE9"/>
-  <note>
-uni1FE9
-</note>
   <anchor x="298" y="-30" name="bottomgreek"/>
   <anchor x="518" y="675" name="top.cap"/>
   <anchor x="-31" y="400" name="topgreek"/>
+  <note>
+uni1FE9
+</note>
   <outline>
     <component base="Upsilon"/>
     <component base="uni0304.cap" xOffset="373"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04D8" format="2">
   <advance width="655"/>
   <unicode hex="04D8"/>
+  <anchor x="409" y="675" name="top.cap"/>
   <note>
 uni04D8
 </note>
-  <anchor x="409" y="675" name="top.cap"/>
   <outline>
     <contour>
       <point x="252" y="-15" type="curve" smooth="yes"/>
@@ -56,11 +56,6 @@ uni04D8
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>O</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

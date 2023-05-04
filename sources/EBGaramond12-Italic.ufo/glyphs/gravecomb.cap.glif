@@ -1,9 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb.cap" format="2">
+  <advance width="0"/>
+  <anchor x="217" y="675" name="_top.cap"/>
   <note>
 gravecomb.cap
 </note>
-  <anchor x="217" y="675" name="_top.cap"/>
   <outline>
     <contour>
       <point x="252" y="697" type="curve" smooth="yes"/>
@@ -33,9 +34,6 @@ gravecomb.cap
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,30 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA7FD" format="2">
   <advance width="991"/>
   <unicode hex="A7FD"/>
+  <anchor x="609" y="676" name="bottom.cap"/>
+  <anchor x="354" y="-29" name="top.cap"/>
   <note>
 uniA7FD
 </note>
-  <anchor x="609" y="676" name="bottom.cap"/>
-  <anchor x="354" y="-29" name="top.cap"/>
   <outline>
     <component base="M" xScale="-1" yScale="-1" xOffset="991" yOffset="646"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>M</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

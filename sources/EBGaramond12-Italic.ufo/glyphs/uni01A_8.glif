@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01A8" format="2">
   <advance width="323"/>
   <unicode hex="01A8"/>
@@ -64,21 +64,6 @@ uni01A8
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.annotations</key>
-      <array>
-        <dict>
-          <key>position</key>
-          <array>
-            <real>244.083</real>
-            <real>172.733</real>
-          </array>
-          <key>type</key>
-          <string>Text</string>
-          <key>width</key>
-          <integer>100</integer>
-        </dict>
-      </array>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

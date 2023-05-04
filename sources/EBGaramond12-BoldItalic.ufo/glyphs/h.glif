@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="2">
   <advance width="579"/>
   <unicode hex="0068"/>
+  <anchor x="207" y="-30" name="bottom"/>
   <note>
 h
 </note>
-  <anchor x="207" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="108" y="-14" type="curve" smooth="yes"/>
@@ -79,9 +79,6 @@ h
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

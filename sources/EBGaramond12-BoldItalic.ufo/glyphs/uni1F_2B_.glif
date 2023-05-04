@@ -1,35 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F2B" format="2">
   <advance width="1040"/>
   <unicode hex="1F2B"/>
-  <note>
-uni1F2B
-</note>
   <anchor x="572" y="-30" name="bottom.cap"/>
   <anchor x="574" y="-30" name="bottomgreek"/>
   <anchor x="791" y="675" name="top.cap"/>
   <anchor x="215" y="390" name="topgreek"/>
+  <note>
+uni1F2B
+</note>
   <outline>
     <component base="Eta" xOffset="254"/>
     <component base="uni1FDD" xOffset="-74" yOffset="-50"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>Eta</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>Eta</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

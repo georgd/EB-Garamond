@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04E9" format="2">
   <advance width="475"/>
   <unicode hex="04E9"/>
+  <anchor x="302" y="440" name="top"/>
+  <anchor x="170" y="-30" name="bottom"/>
   <note>
 uni04E9
 </note>
-  <anchor x="302" y="440" name="top"/>
-  <anchor x="170" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="101" y="183" type="line"/>
@@ -17,13 +17,6 @@ uni04E9
     <component base="o"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>o</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

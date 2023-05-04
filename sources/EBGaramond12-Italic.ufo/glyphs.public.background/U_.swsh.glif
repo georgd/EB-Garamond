@@ -1,5 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U.swsh" format="2">
+  <advance width="918"/>
+  <note>
+U.sw
+</note>
   <outline>
     <contour>
       <point x="826" y="254" type="curve" smooth="yes"/>
@@ -20,7 +24,7 @@
       <point x="1104" y="742" type="curve" smooth="yes"/>
       <point x="942" y="742"/>
       <point x="877" y="573"/>
-      <point x="799" y="269" type="curve" smooth="yes"/>
+      <point x="799" y="269" type="curve"/>
       <point x="762" y="143"/>
       <point x="691" y="26"/>
       <point x="545" y="26" type="curve" smooth="yes"/>

@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ebreve" format="2">
+  <advance width="341"/>
+  <unicode hex="0115"/>
+  <note>
+ebreve
+</note>
   <outline>
     <contour>
       <point x="264" y="601" type="curve"/>

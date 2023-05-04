@@ -1,20 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron.sc" format="2">
   <advance width="470"/>
+  <anchor x="253" y="503" name="top"/>
   <note>
 Lcaron.sc
 </note>
-  <anchor x="253" y="503" name="top"/>
   <outline>
     <component base="L.sc"/>
     <component base="uni030C.alt" xOffset="348" yOffset="-110"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>L.sc</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

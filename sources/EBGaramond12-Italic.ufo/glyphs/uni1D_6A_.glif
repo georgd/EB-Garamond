@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1D6A" format="2">
   <advance width="265"/>
   <unicode hex="1D6A"/>
+  <guideline x="254" y="254" angle="0"/>
   <note>
 uni1D6A
 </note>
-  <guideline x="254" y="254" angle="0"/>
   <outline>
     <contour>
       <point x="-44" y="-133" type="curve" smooth="yes"/>
@@ -85,9 +85,6 @@ uni1D6A
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

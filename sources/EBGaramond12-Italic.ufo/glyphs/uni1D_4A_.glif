@@ -1,33 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1D4A" format="2">
   <advance width="264"/>
   <unicode hex="1D4A"/>
+  <guideline x="234" y="272" angle="0"/>
   <note>
 uni1D4A
 </note>
-  <guideline x="234" y="272" angle="0"/>
   <outline>
     <component base="uni2094" xOffset="139" yOffset="451"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>uni2094</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>uni2094</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>uni2094</string>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

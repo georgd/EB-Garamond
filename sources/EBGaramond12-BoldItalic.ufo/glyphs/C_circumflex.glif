@@ -1,19 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccircumflex" format="2">
   <advance width="673"/>
   <unicode hex="0108"/>
+  <anchor x="722" y="823" name="top.cap"/>
   <note>
 Ccircumflex
 </note>
-  <anchor x="722" y="823" name="top.cap"/>
   <outline>
     <component base="C"/>
     <component base="uni0302.cap" xOffset="393"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

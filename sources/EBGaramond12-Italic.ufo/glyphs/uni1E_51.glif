@@ -1,21 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E51" format="2">
   <advance width="380"/>
   <unicode hex="1E51"/>
+  <anchor x="104" y="-30" name="bottom"/>
+  <anchor x="278" y="440" name="top"/>
   <note>
 uni1E51
 </note>
-  <anchor x="104" y="-30" name="bottom"/>
-  <anchor x="278" y="440" name="top"/>
   <outline>
     <component base="o"/>
     <component base="macron" xOffset="48"/>
     <component base="gravecomb.stack" xOffset="175" yOffset="154"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

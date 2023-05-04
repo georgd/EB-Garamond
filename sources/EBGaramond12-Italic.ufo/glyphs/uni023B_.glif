@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni023B" format="2">
   <advance width="623"/>
   <unicode hex="023B"/>
+  <anchor x="488" y="675" name="top.cap"/>
   <note>
 uni023B
 </note>
-  <anchor x="488" y="675" name="top.cap"/>
   <outline>
     <contour>
       <point x="107" y="-150" type="curve" smooth="yes"/>
@@ -32,9 +32,6 @@ uni023B
     <component base="C"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

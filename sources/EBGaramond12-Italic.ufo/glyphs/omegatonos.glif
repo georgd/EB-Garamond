@@ -1,20 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omegatonos" format="2">
   <advance width="560"/>
   <unicode hex="03CE"/>
+  <anchor x="206" y="-30" name="bottomgreek"/>
+  <anchor x="382" y="440" name="topgreek"/>
   <note>
 omegatonos
 </note>
-  <anchor x="206" y="-30" name="bottomgreek"/>
-  <anchor x="382" y="440" name="topgreek"/>
   <outline>
     <component base="omega"/>
     <component base="tonos" xOffset="243" yOffset="-20"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

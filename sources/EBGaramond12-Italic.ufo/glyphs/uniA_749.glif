@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA749" format="2">
   <advance width="316"/>
   <unicode hex="A749"/>
+  <anchor x="87" y="-30" name="bottom"/>
   <note>
 uniA749
 </note>
-  <anchor x="87" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="125" y="448" type="curve" smooth="yes"/>
@@ -33,13 +33,6 @@ uniA749
     <component base="l" xOffset="20"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>lslash</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>lslash</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

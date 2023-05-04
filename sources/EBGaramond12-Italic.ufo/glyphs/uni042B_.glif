@@ -1,24 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni042B" format="2">
   <advance width="948"/>
   <unicode hex="042B"/>
+  <anchor x="604" y="675" name="top.cap"/>
+  <anchor x="704" y="-30" name="bottom.cap"/>
   <note>
 uni042B
 </note>
-  <anchor x="604" y="675" name="top.cap"/>
-  <anchor x="704" y="-30" name="bottom.cap"/>
   <outline>
     <component base="uni042C"/>
     <component base="I" xOffset="586"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

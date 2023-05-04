@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2226" format="2">
   <advance width="450"/>
   <unicode hex="2226"/>
@@ -7,6 +7,6 @@ uni2226
 </note>
   <outline>
     <component base="uni2225"/>
-    <component base="uni2215" xScale="0.978" xyScale="-0.208" yxScale="0.208" yScale="0.978" xOffset="5" yOffset="-11"/>
+    <component base="uni2215" xScale="0.978" yScale="0.978" xyScale="-0.208" yxScale="0.208" xOffset="5" yOffset="-11"/>
   </outline>
 </glyph>

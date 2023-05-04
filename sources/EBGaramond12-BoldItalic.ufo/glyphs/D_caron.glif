@@ -1,20 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcaron" format="2">
   <advance width="729"/>
   <unicode hex="010E"/>
+  <anchor x="290" y="-30" name="bottom.cap"/>
+  <anchor x="454" y="675" name="top.cap"/>
   <note>
 Dcaron
 </note>
-  <anchor x="290" y="-30" name="bottom.cap"/>
-  <anchor x="454" y="675" name="top.cap"/>
   <outline>
     <component base="D"/>
     <component base="uni030C.cap" xOffset="311"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kadescender-cy" format="2">
   <advance width="679"/>
   <unicode hex="049A"/>
@@ -104,7 +104,7 @@
       <point x="282" y="324" type="curve" smooth="yes"/>
       <point x="356" y="324"/>
       <point x="385" y="245"/>
-      <point x="414" y="163" type="curve" smooth="yes"/>
+      <point x="414" y="163" type="curve"/>
       <point x="434" y="83"/>
       <point x="462" y="0"/>
       <point x="508" y="0" type="curve" smooth="yes"/>
@@ -122,13 +122,6 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>uni041A</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

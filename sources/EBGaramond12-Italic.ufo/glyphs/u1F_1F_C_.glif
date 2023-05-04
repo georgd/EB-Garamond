@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u1F1FC" format="2">
   <advance width="1048"/>
   <unicode hex="1F1FC"/>
-  <note>
-u1F1FC
-</note>
   <guideline x="492" y="-48" angle="90"/>
   <guideline x="543" y="-101" angle="0"/>
   <guideline x="1156" y="-119" angle="90"/>
   <guideline x="1062" y="579" angle="0"/>
-  <anchor x="595.4899" y="503" name="top"/>
+  <anchor x="595.49" y="503" name="top"/>
+  <note>
+u1F1FC
+</note>
   <outline>
     <contour>
       <point x="80" y="506" type="line"/>
@@ -142,9 +142,6 @@ u1F1FC
     <component base="W.sc" xScale="0.9227" xOffset="100"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

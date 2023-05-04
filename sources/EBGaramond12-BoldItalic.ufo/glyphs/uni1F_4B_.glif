@@ -1,35 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F4B" format="2">
   <advance width="978"/>
   <unicode hex="1F4B"/>
-  <note>
-uni1F4B
-</note>
   <anchor x="564" y="-30" name="bottom.cap"/>
   <anchor x="562" y="-30" name="bottomgreek"/>
   <anchor x="787" y="675" name="top.cap"/>
   <anchor x="218" y="400" name="topgreek"/>
+  <note>
+uni1F4B
+</note>
   <outline>
     <component base="Omicron" xOffset="286"/>
     <component base="uni1FDD" xOffset="-71" yOffset="-40"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>Omicron</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>Omicron</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

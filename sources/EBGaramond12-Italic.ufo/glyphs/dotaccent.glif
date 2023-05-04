@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="2">
   <advance width="200"/>
   <unicode hex="02D9"/>
+  <anchor x="154" y="440" name="_top"/>
   <note>
 dotaccent
 </note>
-  <anchor x="154" y="440" name="_top"/>
   <outline>
     <contour>
       <point x="202" y="513" type="curve" smooth="yes"/>
@@ -23,9 +23,6 @@ dotaccent
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

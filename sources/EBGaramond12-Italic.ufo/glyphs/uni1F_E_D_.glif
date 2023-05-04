@@ -1,19 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FED" format="2">
   <advance width="300"/>
   <unicode hex="1FED"/>
+  <anchor x="226" y="420" name="_top"/>
   <note>
 uni1FED
 </note>
-  <anchor x="226" y="420" name="_top"/>
   <outline>
     <component base="dieresis" xOffset="3" yOffset="-19"/>
-    <component base="grave" xScale="0.966" xyScale="-0.259" yxScale="0.259" yScale="0.966" xOffset="-121" yOffset="164"/>
+    <component base="grave" xScale="0.966" yScale="0.966" xyScale="-0.259" yxScale="0.259" xOffset="-121" yOffset="164"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

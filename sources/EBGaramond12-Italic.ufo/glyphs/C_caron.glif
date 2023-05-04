@@ -1,19 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccaron" format="2">
   <advance width="631"/>
   <unicode hex="010C"/>
+  <anchor x="488" y="675" name="top.cap"/>
   <note>
 Ccaron
 </note>
-  <anchor x="488" y="675" name="top.cap"/>
   <outline>
     <component base="C"/>
     <component base="uni030C.cap" xOffset="334"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

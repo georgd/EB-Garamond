@@ -1,21 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gdotaccent" format="2">
   <advance width="734"/>
   <unicode hex="0120"/>
-  <note>
-Gdotaccent
-</note>
   <anchor x="307" y="-30" name="bottom.cap"/>
   <anchor x="522" y="675" name="top"/>
   <anchor x="512" y="675" name="top.cap"/>
+  <note>
+Gdotaccent
+</note>
   <outline>
     <component base="G"/>
     <component base="uni0307.cap" xOffset="371"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

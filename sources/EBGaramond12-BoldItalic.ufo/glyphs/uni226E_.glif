@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni226E" format="2">
   <advance width="600"/>
   <unicode hex="226E"/>
@@ -10,11 +10,6 @@ uni226E
     <component base="uni2215" xOffset="110" yOffset="-58"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>less</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>less</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

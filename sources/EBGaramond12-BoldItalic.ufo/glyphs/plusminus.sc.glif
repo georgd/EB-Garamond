@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus.sc" format="2">
   <advance width="504"/>
   <note>
@@ -24,9 +24,6 @@ plusminus.sc
     <component base="plus.sc" xOffset="-5" yOffset="93"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

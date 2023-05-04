@@ -1,20 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F24" format="2">
   <advance width="529"/>
   <unicode hex="1F24"/>
+  <anchor x="61" y="-28" name="bottomgreek"/>
+  <anchor x="322" y="440" name="topgreek"/>
   <note>
 uni1F24
 </note>
-  <anchor x="61" y="-28" name="bottomgreek"/>
-  <anchor x="322" y="440" name="topgreek"/>
   <outline>
     <component base="eta"/>
     <component base="uni1FCE" xOffset="87"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

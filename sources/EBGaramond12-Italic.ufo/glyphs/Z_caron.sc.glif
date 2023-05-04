@@ -1,18 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron.sc" format="2">
   <advance width="483"/>
+  <anchor x="333" y="503" name="top"/>
   <note>
 Zcaron.sc
 </note>
-  <anchor x="333" y="503" name="top"/>
   <outline>
     <component base="Z.sc"/>
     <component base="uni030C.sc" xOffset="267" yOffset="84"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

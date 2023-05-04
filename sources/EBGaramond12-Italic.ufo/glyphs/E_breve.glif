@@ -1,20 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ebreve" format="2">
   <advance width="576"/>
   <unicode hex="0114"/>
+  <anchor x="288" y="-30" name="bottom.cap"/>
+  <anchor x="459" y="815" name="top.cap"/>
   <note>
 Ebreve
 </note>
-  <anchor x="288" y="-30" name="bottom.cap"/>
-  <anchor x="459" y="815" name="top.cap"/>
   <outline>
     <component base="E"/>
     <component base="uni0306.cap" xOffset="271"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

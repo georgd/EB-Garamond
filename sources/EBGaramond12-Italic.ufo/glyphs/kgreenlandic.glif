@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="2">
   <advance width="476"/>
   <unicode hex="0138"/>
+  <anchor x="277" y="440" name="top"/>
   <note>
 kgreenlandic
 </note>
-  <anchor x="277" y="440" name="top"/>
   <outline>
     <contour>
       <point x="88" y="-15" type="curve" smooth="yes"/>
@@ -97,11 +97,6 @@ kgreenlandic
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>n</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

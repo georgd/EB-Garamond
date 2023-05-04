@@ -1,21 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alpha" format="2">
   <advance width="766"/>
   <unicode hex="0391"/>
-  <note>
-Alpha
-</note>
   <anchor x="321" y="-30" name="bottomgreek"/>
   <anchor x="254" y="460" name="topgreek"/>
   <anchor x="248" y="-30" name="bottom.cap"/>
   <anchor x="654" y="675" name="top.cap"/>
+  <note>
+Alpha
+</note>
   <outline>
     <component base="A"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

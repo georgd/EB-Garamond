@@ -1,10 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookabovecomb" format="2">
+  <advance width="0"/>
   <unicode hex="0309"/>
+  <anchor x="82" y="440" name="_top"/>
   <note>
 hookabovecomb
 </note>
-  <anchor x="82" y="440" name="_top"/>
   <outline>
     <contour>
       <point x="100" y="509" type="curve" smooth="yes"/>
@@ -52,9 +53,6 @@ hookabovecomb
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

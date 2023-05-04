@@ -1,48 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EBF" format="2">
   <advance width="336"/>
   <unicode hex="1EBF"/>
+  <anchor x="100" y="-30" name="bottom"/>
+  <anchor x="267" y="440" name="top"/>
   <note>
 uni1EBF
 </note>
-  <anchor x="100" y="-30" name="bottom"/>
-  <anchor x="267" y="440" name="top"/>
   <outline>
     <component base="e"/>
     <component base="uni0302.stack" xOffset="172"/>
     <component base="acutecomb.stack" xOffset="312" yOffset="102"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>e</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni0302.stack</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>acutecomb.stack</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

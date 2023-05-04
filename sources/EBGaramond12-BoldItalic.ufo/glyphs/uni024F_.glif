@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni024F" format="2">
   <advance width="508"/>
   <unicode hex="024F"/>
+  <anchor x="303" y="440" name="top"/>
   <note>
 uni024F
 </note>
-  <anchor x="303" y="440" name="top"/>
   <outline>
     <contour>
       <point x="74" y="170" type="curve" smooth="yes"/>
@@ -29,20 +29,6 @@ uni024F
     <component base="y" xOffset="7"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>y</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

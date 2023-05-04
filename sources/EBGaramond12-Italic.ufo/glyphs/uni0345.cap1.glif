@@ -1,16 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0345.cap1" format="2">
+  <advance width="0"/>
+  <anchor x="192" y="444" name="topgreek"/>
   <note>
 uni0345.cap1
 </note>
-  <anchor x="192" y="444" name="topgreek"/>
   <outline>
     <component base="iota"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>261</integer>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

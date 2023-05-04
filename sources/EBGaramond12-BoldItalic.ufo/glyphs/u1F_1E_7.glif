@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u1F1E7" format="2">
   <advance width="1048"/>
   <unicode hex="1F1E7"/>
@@ -137,9 +137,6 @@ u1F1E7
     <component base="B.sc" xOffset="280"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

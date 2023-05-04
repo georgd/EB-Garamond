@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft" format="2">
   <advance width="298"/>
   <unicode hex="0028"/>
+  <guideline x="-19" y="46" angle="73"/>
+  <guideline x="-30" y="-334" angle="73"/>
   <note>
 parenleft
 </note>
-  <guideline x="-19" y="46" angle="73"/>
-  <guideline x="-30" y="-334" angle="73"/>
   <outline>
     <contour>
       <point x="125" y="-215" type="curve" smooth="yes"/>

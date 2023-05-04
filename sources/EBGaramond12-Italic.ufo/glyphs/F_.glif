@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="2">
   <advance width="509"/>
   <unicode hex="0046"/>
+  <anchor x="118" y="-30" name="bottom.cap"/>
+  <anchor x="435" y="675" name="top.cap"/>
   <note>
 F
 </note>
-  <anchor x="118" y="-30" name="bottom.cap"/>
-  <anchor x="435" y="675" name="top.cap"/>
   <outline>
     <contour>
       <point x="14" y="-5" type="curve" smooth="yes"/>
@@ -113,11 +113,6 @@ F
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

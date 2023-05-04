@@ -1,20 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E6C" format="2">
   <advance width="622"/>
   <unicode hex="1E6C"/>
+  <anchor x="280" y="-30" name="bottom.cap"/>
+  <anchor x="455" y="675" name="top.cap"/>
   <note>
 uni1E6C
 </note>
-  <anchor x="280" y="-30" name="bottom.cap"/>
-  <anchor x="455" y="675" name="top.cap"/>
   <outline>
     <component base="T"/>
     <component base="dotbelowcomb.cap" xOffset="351"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

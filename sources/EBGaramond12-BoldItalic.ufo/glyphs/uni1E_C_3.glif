@@ -1,48 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EC3" format="2">
   <advance width="394"/>
   <unicode hex="1EC3"/>
+  <anchor x="142" y="-30" name="bottom"/>
+  <anchor x="280" y="440" name="top"/>
   <note>
 uni1EC3
 </note>
-  <anchor x="142" y="-30" name="bottom"/>
-  <anchor x="280" y="440" name="top"/>
   <outline>
     <component base="e"/>
     <component base="uni0302.stack" xOffset="201"/>
     <component base="hookabovecomb.stack" xOffset="355" yOffset="61"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>e</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni0302.stack</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>hookabovecomb.stack</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

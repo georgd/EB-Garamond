@@ -1,22 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C5" format="2">
   <advance width="1214"/>
   <unicode hex="01C5"/>
-  <note>
-uni01C5
-</note>
   <anchor x="909" y="-30" name="bottom"/>
   <anchor x="290" y="-30" name="bottom.cap"/>
   <anchor x="1032" y="440" name="top"/>
   <anchor x="454" y="675" name="top.cap"/>
+  <note>
+uni01C5
+</note>
   <outline>
     <component base="D"/>
     <component base="zcaron" xOffset="729"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

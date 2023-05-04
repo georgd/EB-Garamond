@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_h" format="2">
   <advance width="945"/>
+  <anchor x="573" y="-30" name="bottom"/>
   <note>
 f_h
 </note>
-  <anchor x="573" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="-58" y="-291" type="curve" smooth="yes"/>
@@ -76,13 +76,6 @@ f_h
     <component base="h" xOffset="366"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>f</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>h</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

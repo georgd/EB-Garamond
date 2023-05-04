@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_longs_t" format="2">
   <advance width="816"/>
   <note>
@@ -80,7 +80,7 @@ longs_longs_t
       <point x="499" y="705"/>
       <point x="431" y="436"/>
       <point x="394" y="294" type="curve" smooth="yes"/>
-      <point x="294" y="-86" type="line" smooth="yes"/>
+      <point x="294" y="-86" type="line"/>
       <point x="259" y="-201"/>
       <point x="208" y="-248"/>
       <point x="132" y="-248" type="curve" smooth="yes"/>
@@ -128,13 +128,6 @@ longs_longs_t
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>longs</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>t</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

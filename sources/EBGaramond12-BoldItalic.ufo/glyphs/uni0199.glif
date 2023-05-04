@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0199" format="2">
   <advance width="507"/>
   <unicode hex="0199"/>
+  <guideline x="357" y="-3" angle="0"/>
   <note>
 uni0199
 </note>
-  <guideline x="357" y="-3" angle="0"/>
   <outline>
     <contour>
       <point x="296" y="-14" type="curve" smooth="yes"/>
@@ -100,11 +100,6 @@ uni0199
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>k</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

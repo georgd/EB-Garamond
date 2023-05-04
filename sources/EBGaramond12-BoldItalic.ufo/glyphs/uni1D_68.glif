@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1D68" format="2">
   <advance width="454"/>
   <unicode hex="1D68"/>
+  <guideline x="269" y="277" angle="0"/>
+  <guideline x="261" y="-172" angle="0"/>
   <note>
 uni1D68
 </note>
-  <guideline x="269" y="277" angle="0"/>
-  <guideline x="261" y="-172" angle="0"/>
   <outline>
     <contour>
       <point x="-2" y="-172" type="curve" smooth="yes"/>
@@ -56,9 +56,6 @@ uni1D68
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

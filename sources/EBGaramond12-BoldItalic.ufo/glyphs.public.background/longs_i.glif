@@ -1,5 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_i" format="2">
+  <advance width="669"/>
+  <note>
+longs_i
+</note>
   <outline>
     <contour>
       <point x="-58" y="-291" type="curve" smooth="yes"/>
@@ -43,7 +47,7 @@
       <point x="478" y="705" type="curve" smooth="yes"/>
       <point x="371" y="705"/>
       <point x="240" y="637"/>
-      <point x="173" y="459" type="curve" smooth="yes"/>
+      <point x="173" y="459" type="curve"/>
       <point x="165" y="435" type="line" smooth="yes"/>
       <point x="162" y="425"/>
       <point x="161" y="422"/>

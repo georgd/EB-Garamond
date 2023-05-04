@@ -1,20 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ibreve" format="2">
   <advance width="381"/>
   <unicode hex="012C"/>
+  <anchor x="115" y="-30" name="bottom.cap"/>
+  <anchor x="370" y="832" name="top.cap"/>
   <note>
 Ibreve
 </note>
-  <anchor x="115" y="-30" name="bottom.cap"/>
-  <anchor x="370" y="832" name="top.cap"/>
   <outline>
     <component base="I"/>
     <component base="uni0306.cap" xOffset="183"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

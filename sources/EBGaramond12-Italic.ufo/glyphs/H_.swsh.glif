@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H.swsh" format="2">
   <advance width="982"/>
   <note>
@@ -64,7 +64,7 @@ H.sw
       <point x="1095" y="826" type="curve" smooth="yes"/>
       <point x="1025" y="826"/>
       <point x="914" y="760"/>
-      <point x="866" y="570" type="curve" smooth="yes"/>
+      <point x="866" y="570" type="curve"/>
       <point x="798" y="357" type="line" smooth="yes"/>
       <point x="795" y="348"/>
       <point x="793" y="345"/>
@@ -125,13 +125,6 @@ H.sw
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>B.swsh</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>f</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

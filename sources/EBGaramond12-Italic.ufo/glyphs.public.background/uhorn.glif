@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorn" format="2">
+  <advance width="519"/>
+  <unicode hex="01B0"/>
+  <note>
+uhorn
+</note>
   <outline>
     <contour>
       <point x="48" y="-14" type="curve" smooth="yes"/>

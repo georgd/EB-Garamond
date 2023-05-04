@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0418" format="2">
   <advance width="803"/>
   <unicode hex="0418"/>
+  <anchor x="326" y="-30" name="bottom.cap"/>
+  <anchor x="544" y="675" name="top.cap"/>
   <note>
 uni0418
 </note>
-  <anchor x="326" y="-30" name="bottom.cap"/>
-  <anchor x="544" y="675" name="top.cap"/>
   <outline>
     <contour>
       <point x="-33" y="-3" type="curve" smooth="yes"/>
@@ -128,13 +128,6 @@ uni0418
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

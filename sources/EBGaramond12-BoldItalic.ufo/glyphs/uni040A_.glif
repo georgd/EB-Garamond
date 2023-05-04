@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040A" format="2">
   <advance width="1026"/>
   <unicode hex="040A"/>
+  <guideline x="643" y="360" angle="0"/>
+  <guideline x="622" y="311" angle="0"/>
   <note>
 uni040A
 </note>
-  <guideline x="643" y="360" angle="0"/>
-  <guideline x="622" y="311" angle="0"/>
   <outline>
     <contour>
       <point x="-34" y="-6" type="curve" smooth="yes"/>
@@ -148,13 +148,6 @@ uni040A
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>uni042C</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

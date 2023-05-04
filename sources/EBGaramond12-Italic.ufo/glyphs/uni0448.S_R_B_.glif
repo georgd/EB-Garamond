@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0448.SRB" format="2">
   <advance width="701"/>
+  <anchor x="281" y="-30" name="bottom"/>
+  <anchor x="443" y="440" name="top"/>
   <note>
 uni0448.SRB
 </note>
-  <anchor x="281" y="-30" name="bottom"/>
-  <anchor x="443" y="440" name="top"/>
   <outline>
     <contour>
       <point x="62" y="-138" type="curve" smooth="yes"/>
@@ -26,9 +26,6 @@ uni0448.SRB
     <component base="uni0448"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

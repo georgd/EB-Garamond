@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="2">
+  <advance width="335"/>
+  <unicode hex="0119"/>
+  <note>
+eogonek
+</note>
   <outline>
     <contour>
       <point x="67" y="-286" type="curve" smooth="yes"/>

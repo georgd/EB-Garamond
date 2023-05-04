@@ -1,19 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls.sc2" format="2">
   <advance width="892"/>
+  <anchor x="302" y="503" name="top_1"/>
+  <anchor x="748" y="503" name="top_2"/>
   <note>
 germandbls.sc2
 </note>
-  <anchor x="302" y="503" name="top_1"/>
-  <anchor x="748" y="503" name="top_2"/>
   <outline>
     <component base="S.sc"/>
     <component base="S.sc" xOffset="446"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

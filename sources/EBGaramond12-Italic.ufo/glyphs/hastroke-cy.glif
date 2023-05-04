@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hastroke-cy" format="2">
   <advance width="438"/>
   <unicode hex="04FF"/>
@@ -23,13 +23,6 @@
     <component base="x"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>x</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>x</string>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

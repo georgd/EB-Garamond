@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
   <advance width="776"/>
   <unicode hex="004B"/>
+  <anchor x="327" y="-30" name="bottom.cap"/>
+  <anchor x="526" y="675" name="top.cap"/>
   <note>
 K
 </note>
-  <anchor x="327" y="-30" name="bottom.cap"/>
-  <anchor x="526" y="675" name="top.cap"/>
   <outline>
     <contour>
       <point x="-24" y="-6" type="curve" smooth="yes"/>
@@ -135,11 +135,6 @@ K
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

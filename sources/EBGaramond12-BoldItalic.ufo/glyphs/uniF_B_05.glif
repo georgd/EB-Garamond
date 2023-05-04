@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB05" format="2">
   <advance width="724"/>
   <unicode hex="FB05"/>
@@ -11,7 +11,7 @@ uniFB05
       <point x="33" y="-291"/>
       <point x="163" y="-150"/>
       <point x="193" y="-32" type="curve" smooth="yes"/>
-      <point x="259" y="232" type="line" smooth="yes"/>
+      <point x="259" y="232" type="line"/>
       <point x="337" y="567"/>
       <point x="388" y="650"/>
       <point x="489" y="650" type="curve" smooth="yes"/>
@@ -99,13 +99,6 @@ uniFB05
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>longs</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>t</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

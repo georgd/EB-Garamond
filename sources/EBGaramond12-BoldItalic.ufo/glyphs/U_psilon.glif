@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilon" format="2">
   <advance width="732"/>
   <unicode hex="03A5"/>
-  <note>
-Upsilon
-</note>
   <anchor x="298" y="-30" name="bottomgreek"/>
   <anchor x="518" y="675" name="top.cap"/>
   <anchor x="-31" y="400" name="topgreek"/>
+  <note>
+Upsilon
+</note>
   <outline>
     <contour>
       <point x="155" y="-3" type="curve" smooth="yes"/>
@@ -75,9 +75,6 @@ Upsilon
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

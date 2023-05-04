@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni270A" format="2">
   <advance width="477"/>
   <unicode hex="270A"/>
@@ -337,7 +337,7 @@ uni270A
       <point x="214" y="330"/>
     </contour>
     <contour>
-      <point x="278" y="328" type="curve" smooth="yes"/>
+      <point x="278" y="328" type="curve"/>
       <point x="278" y="328"/>
       <point x="252" y="337"/>
       <point x="252" y="339" type="curve" smooth="yes"/>
@@ -403,9 +403,6 @@ uni270A
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

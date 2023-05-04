@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U" format="2">
   <advance width="715"/>
   <unicode hex="0055"/>
+  <anchor x="302" y="-30" name="bottom.cap"/>
+  <anchor x="543" y="675" name="top.cap"/>
   <note>
 U
 </note>
-  <anchor x="302" y="-30" name="bottom.cap"/>
-  <anchor x="543" y="675" name="top.cap"/>
   <outline>
     <contour>
       <point x="318" y="-14" type="curve" smooth="yes"/>
@@ -80,9 +80,6 @@ U
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0364" format="2">
+  <advance width="0"/>
   <unicode hex="0364"/>
   <note>
 uni0364
@@ -8,22 +9,6 @@ uni0364
     <component base="e.ordn" xScale="0.709" yScale="0.709" xOffset="16" yOffset="293"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>e.ordn</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>e.ordn</string>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>139</integer>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

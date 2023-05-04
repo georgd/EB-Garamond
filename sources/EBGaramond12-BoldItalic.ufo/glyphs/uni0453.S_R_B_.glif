@@ -1,31 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0453.SRB" format="2">
   <advance width="332"/>
+  <anchor x="97" y="-30" name="bottom"/>
+  <anchor x="249" y="437" name="top"/>
   <note>
 uni0453.SRB
 </note>
-  <anchor x="97" y="-30" name="bottom"/>
-  <anchor x="249" y="437" name="top"/>
   <outline>
     <component base="dotlessi"/>
     <component base="macron" xOffset="-20" yOffset="-14"/>
     <component base="acutecomb.stack" xOffset="256" yOffset="151"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>macron</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

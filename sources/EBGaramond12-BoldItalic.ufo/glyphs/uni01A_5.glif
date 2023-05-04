@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01A5" format="2">
   <advance width="529"/>
   <unicode hex="01A5"/>
+  <guideline x="218" y="509" angle="90"/>
   <note>
 uni01A5
 </note>
-  <guideline x="218" y="509" angle="90"/>
   <outline>
     <contour>
       <point x="-141" y="-285" type="curve" smooth="yes"/>
@@ -91,11 +91,6 @@ uni01A5
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>p</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

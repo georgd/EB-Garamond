@@ -1,5 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE.sc" format="2">
+  <advance width="754"/>
+  <note>
+AE.sc
+</note>
   <outline>
     <contour>
       <point x="293" y="226" type="curve" smooth="yes"/>
@@ -131,7 +135,7 @@
       <point x="161" y="-1" type="curve" smooth="yes"/>
       <point x="177" y="-1"/>
       <point x="192" y="3"/>
-      <point x="192" y="3" type="curve" smooth="yes"/>
+      <point x="192" y="3" type="curve"/>
       <point x="192" y="20"/>
       <point x="180" y="27"/>
       <point x="159" y="30" type="curve" smooth="yes"/>

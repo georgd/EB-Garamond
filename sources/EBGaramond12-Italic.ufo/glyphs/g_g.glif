@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g_g" format="2">
   <advance width="807"/>
+  <anchor x="269" y="440" name="top"/>
   <note>
 g_g
 </note>
-  <anchor x="269" y="440" name="top"/>
   <outline>
     <contour>
       <point x="545" y="101" type="curve" smooth="yes"/>
@@ -101,13 +101,6 @@ g_g
     <component base="g"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>g</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>g</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

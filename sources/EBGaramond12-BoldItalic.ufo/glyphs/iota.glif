@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iota" format="2">
   <advance width="319"/>
   <unicode hex="03B9"/>
+  <anchor x="226" y="440" name="topgreek"/>
   <note>
 iota
 </note>
-  <anchor x="226" y="440" name="topgreek"/>
   <outline>
     <contour>
       <point x="117" y="-15" type="curve" smooth="yes"/>
@@ -39,9 +39,6 @@ iota
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

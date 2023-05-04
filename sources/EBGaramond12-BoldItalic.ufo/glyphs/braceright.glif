@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="braceright" format="2">
   <advance width="397"/>
   <unicode hex="007D"/>
@@ -9,11 +9,6 @@ braceright
     <component base="braceleft" xScale="-1" yScale="-1" xOffset="440" yOffset="562"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>=|braceleft</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|braceleft</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="s_p" format="2">
   <advance width="715"/>
-  <note>
-s_p
-</note>
   <anchor x="67" y="-30" name="bottom"/>
   <anchor x="223" y="440" name="top_1"/>
   <anchor x="579" y="440" name="top_2"/>
+  <note>
+s_p
+</note>
   <outline>
     <contour>
       <point x="242" y="377" type="curve"/>
@@ -45,13 +45,6 @@ s_p
     <component base="p" xOffset="276"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>s</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>p</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

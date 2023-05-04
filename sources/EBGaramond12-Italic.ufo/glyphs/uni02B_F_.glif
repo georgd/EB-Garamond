@@ -1,29 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02BF" format="2">
   <advance width="200"/>
   <unicode hex="02BF"/>
+  <guideline x="429" y="631" angle="0"/>
   <note>
 uni02BF
 </note>
-  <guideline x="429" y="631" angle="0"/>
   <outline>
     <component base="uni02BE" xScale="-1" yScale="-1" xOffset="399" yOffset="1041"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>uni02BE</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,30 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01B1" format="2">
   <advance width="814"/>
   <unicode hex="01B1"/>
+  <anchor x="547" y="680" name="bottomgreek"/>
+  <anchor x="848" y="240" name="topgreek"/>
   <note>
 uni01B1
 </note>
-  <anchor x="547" y="680" name="bottomgreek"/>
-  <anchor x="848" y="240" name="topgreek"/>
   <outline>
     <component base="Omega" xScale="-1" yScale="-1" xOffset="884" yOffset="650"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>Omega</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

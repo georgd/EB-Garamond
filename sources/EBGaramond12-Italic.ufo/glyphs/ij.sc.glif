@@ -1,18 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ij.sc" format="2">
   <advance width="617"/>
+  <anchor x="252" y="503" name="top_1"/>
+  <anchor x="568" y="503" name="top_2"/>
   <note>
 ij.sc
 </note>
-  <anchor x="252" y="503" name="top_1"/>
-  <anchor x="568" y="503" name="top_2"/>
   <outline>
     <component base="IJ.sc"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

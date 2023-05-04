@@ -1,39 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Adieresis.deu" format="2">
   <advance width="658"/>
+  <anchor x="256" y="-30" name="bottom.cap"/>
+  <anchor x="598" y="675" name="top.cap"/>
   <note>
 Adieresis.deu
 </note>
-  <anchor x="256" y="-30" name="bottom.cap"/>
-  <anchor x="598" y="675" name="top.cap"/>
   <outline>
     <component base="A"/>
     <component base="uni0307.cap" xOffset="515" yOffset="-121"/>
     <component base="uni0307.cap" xOffset="242" yOffset="-121"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni0307.cap</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>uni0307.cap</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

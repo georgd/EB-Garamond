@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft" format="2">
+  <advance width="308"/>
+  <unicode hex="0028"/>
+  <note>
+parenleft
+</note>
   <outline>
     <contour>
       <point x="122" y="-216" type="curve" smooth="yes"/>

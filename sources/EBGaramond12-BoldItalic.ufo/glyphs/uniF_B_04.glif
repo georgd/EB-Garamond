@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB04" format="2">
   <advance width="1037"/>
   <unicode hex="FB04"/>
+  <anchor x="795" y="-30" name="bottom"/>
   <note>
 uniFB04
 </note>
-  <anchor x="795" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="247" y="-291" type="curve" smooth="yes"/>
@@ -76,7 +76,7 @@ uniFB04
       <point x="314" y="438" type="curve" smooth="yes"/>
       <point x="315" y="444"/>
       <point x="320" y="450"/>
-      <point x="335" y="519" type="curve" smooth="yes"/>
+      <point x="335" y="519" type="curve"/>
       <point x="354" y="584"/>
       <point x="380" y="637"/>
       <point x="450" y="637" type="curve" smooth="yes"/>
@@ -124,13 +124,6 @@ uniFB04
     <component base="l" xOffset="718"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>f</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>l</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

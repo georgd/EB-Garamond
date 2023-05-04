@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar.sc" format="2">
   <advance width="647"/>
+  <anchor x="415" y="503" name="top"/>
   <note>
 Hbar.sc
 </note>
-  <anchor x="415" y="503" name="top"/>
   <outline>
     <contour>
       <point x="88" y="317" type="curve" smooth="yes"/>
@@ -25,9 +25,6 @@ Hbar.sc
     <component base="H.sc"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

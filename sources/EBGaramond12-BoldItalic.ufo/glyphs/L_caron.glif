@@ -1,39 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="2">
   <advance width="593"/>
   <unicode hex="013D"/>
+  <anchor x="268" y="-30" name="bottom.cap"/>
+  <anchor x="346" y="675" name="top.cap"/>
   <note>
 Lcaron
 </note>
-  <anchor x="268" y="-30" name="bottom.cap"/>
-  <anchor x="346" y="675" name="top.cap"/>
   <outline>
     <component base="L"/>
     <component base="uni030C.altcap" xOffset="464" yOffset="-46"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>L</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni030C.altcap</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

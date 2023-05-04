@@ -1,48 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EBE" format="2">
   <advance width="599"/>
   <unicode hex="1EBE"/>
+  <anchor x="250" y="-30" name="bottom.cap"/>
+  <anchor x="584" y="823" name="top.cap"/>
   <note>
 uni1EBE
 </note>
-  <anchor x="250" y="-30" name="bottom.cap"/>
-  <anchor x="584" y="823" name="top.cap"/>
   <outline>
     <component base="E"/>
     <component base="uni0302.cap" xOffset="255"/>
     <component base="acutecomb.capstack" xOffset="493" yOffset="69"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>E</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni0302.cap</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>acutecomb.capstack</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered.CATsc" format="2">
+  <advance width="0"/>
   <note>
 periodcentered.CATsc
 </note>
@@ -7,9 +8,6 @@ periodcentered.CATsc
     <component base="period" xScale="0.906" yScale="0.906" xOffset="-35" yOffset="218"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

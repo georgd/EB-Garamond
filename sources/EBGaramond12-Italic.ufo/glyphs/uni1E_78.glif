@@ -1,39 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E78" format="2">
   <advance width="737"/>
   <unicode hex="1E78"/>
+  <anchor x="308" y="-30" name="bottom.cap"/>
+  <anchor x="504" y="675" name="top.cap"/>
   <note>
 uni1E78
 </note>
-  <anchor x="308" y="-30" name="bottom.cap"/>
-  <anchor x="504" y="675" name="top.cap"/>
   <outline>
     <component base="Utilde"/>
     <component base="acutecomb.flat" xOffset="445" yOffset="326"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>Utilde</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>acutecomb.flat</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

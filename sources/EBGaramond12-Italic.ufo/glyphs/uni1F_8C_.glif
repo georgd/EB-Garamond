@@ -1,24 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F8C" format="2">
   <advance width="658"/>
   <unicode hex="1F8C"/>
-  <note>
-uni1F8C
-</note>
   <anchor x="256" y="-30" name="bottom.cap"/>
   <anchor x="275" y="-30" name="bottomgreek"/>
   <anchor x="598" y="675" name="top.cap"/>
   <anchor x="244" y="470" name="topgreek"/>
+  <note>
+uni1F8C
+</note>
   <outline>
     <component base="uni1F0C"/>
     <component base="uni0345" xOffset="370"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>Alpha</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

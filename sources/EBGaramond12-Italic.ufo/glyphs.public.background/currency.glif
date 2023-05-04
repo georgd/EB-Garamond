@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="currency" format="2">
+  <advance width="488"/>
+  <unicode hex="00A4"/>
+  <note>
+currency
+</note>
   <outline>
     <contour>
       <point x="-473" y="67" type="curve" smooth="yes"/>

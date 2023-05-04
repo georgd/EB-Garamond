@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0361" format="2">
+  <advance width="0"/>
   <unicode hex="0361"/>
   <note>
 uni0361
@@ -8,9 +9,6 @@ uni0361
     <component base="uni035D" yScale="-1" yOffset="1529"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,21 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni24A9" format="2">
   <advance width="1134"/>
   <unicode hex="24A9"/>
+  <anchor x="488" y="-30" name="bottom"/>
+  <anchor x="614" y="440" name="top"/>
   <note>
 uni24A9
 </note>
-  <anchor x="488" y="-30" name="bottom"/>
-  <anchor x="614" y="440" name="top"/>
   <outline>
     <component base="parenleft"/>
     <component base="n" xOffset="308"/>
     <component base="parenright" xOffset="825"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

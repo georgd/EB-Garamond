@@ -1,9 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0306.cyrcap" format="2">
+  <advance width="0"/>
+  <anchor x="151" y="675" name="_top.cap"/>
   <note>
 uni0306.cyrcap
 </note>
-  <anchor x="151" y="675" name="_top.cap"/>
   <outline>
     <contour>
       <point x="161" y="693" type="curve" smooth="yes"/>
@@ -36,9 +37,6 @@ uni0306.cyrcap
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,11 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0302.cap" format="2">
-  <note>
-uni0302.cap
-</note>
+  <advance width="0"/>
   <anchor x="146" y="675" name="_top.cap"/>
   <anchor x="299" y="823" name="top.cap"/>
   <anchor x="182" y="812" name="topstack.cap"/>
+  <note>
+uni0302.cap
+</note>
   <outline>
     <contour>
       <point x="22" y="696" type="curve" smooth="yes"/>
@@ -40,9 +41,6 @@ uni0302.cap
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

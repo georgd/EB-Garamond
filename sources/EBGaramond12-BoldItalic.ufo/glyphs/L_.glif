@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
   <advance width="578"/>
   <unicode hex="004C"/>
+  <anchor x="268" y="-30" name="bottom.cap"/>
+  <anchor x="346" y="675" name="top.cap"/>
   <note>
 L
 </note>
-  <anchor x="268" y="-30" name="bottom.cap"/>
-  <anchor x="346" y="675" name="top.cap"/>
   <outline>
     <contour>
       <point x="-28" y="-5" type="curve" smooth="yes"/>
@@ -75,11 +75,6 @@ L
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,48 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E2F" format="2">
   <advance width="310"/>
   <unicode hex="1E2F"/>
+  <anchor x="88" y="-30" name="bottom"/>
+  <anchor x="220" y="440" name="top"/>
   <note>
 uni1E2F
 </note>
-  <anchor x="88" y="-30" name="bottom"/>
-  <anchor x="220" y="440" name="top"/>
   <outline>
     <component base="dotlessi"/>
     <component base="dieresis" xOffset="-2"/>
     <component base="acutecomb.stack" xOffset="202" yOffset="136"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dotlessi</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dieresis</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>acutecomb.stack</string>
-        </dict>
-      </array>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,18 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.dotless" format="2">
   <advance width="340"/>
+  <anchor x="97" y="-30" name="bottom"/>
+  <anchor x="249" y="437" name="top"/>
   <note>
 i.dotless
 </note>
-  <anchor x="97" y="-30" name="bottom"/>
-  <anchor x="249" y="437" name="top"/>
   <outline>
     <component base="dotlessi"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

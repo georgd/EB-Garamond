@@ -1,24 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2161" format="2">
   <advance width="724"/>
   <unicode hex="2161"/>
-  <note>
-uni2161
-</note>
   <anchor x="118" y="-30" name="bottom.cap_1"/>
   <anchor x="480" y="-30" name="bottom.cap_2"/>
   <anchor x="331" y="675" name="top.cap_1"/>
   <anchor x="693" y="675" name="top.cap_2"/>
+  <note>
+uni2161
+</note>
   <outline>
     <component base="I"/>
     <component base="I" xOffset="362"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>I</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDE" format="2">
   <advance width="300"/>
   <unicode hex="1FDE"/>
+  <anchor x="237" y="440" name="_topgreek"/>
   <note>
 uni1FDE
 </note>
-  <anchor x="237" y="440" name="_topgreek"/>
   <outline>
     <contour>
       <point x="300" y="441" type="curve" smooth="yes"/>
@@ -30,9 +30,6 @@ uni1FDE
     <component base="uni1FFE" xOffset="-7" yOffset="1"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

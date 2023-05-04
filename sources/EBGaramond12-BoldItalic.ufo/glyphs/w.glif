@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="2">
   <advance width="710"/>
   <unicode hex="0077"/>
+  <anchor x="272" y="-30" name="bottom"/>
+  <anchor x="455" y="440" name="top"/>
   <note>
 w
 </note>
-  <anchor x="272" y="-30" name="bottom"/>
-  <anchor x="455" y="440" name="top"/>
   <outline>
     <contour>
       <point x="141" y="-14" type="curve" smooth="yes"/>
@@ -93,13 +93,6 @@ w
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>v</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>v</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

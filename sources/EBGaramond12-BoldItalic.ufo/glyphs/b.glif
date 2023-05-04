@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="2">
   <advance width="543"/>
   <unicode hex="0062"/>
+  <anchor x="206" y="-30" name="bottom"/>
   <note>
 b
 </note>
-  <anchor x="206" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="190" y="-14" type="curve" smooth="yes"/>
@@ -74,13 +74,6 @@ b
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>h</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|d</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

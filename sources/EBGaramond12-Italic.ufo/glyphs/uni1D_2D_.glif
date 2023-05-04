@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1D2D" format="2">
   <advance width="560"/>
   <unicode hex="1D2D"/>
@@ -31,7 +31,7 @@ uni1D2D
       <point x="333" y="435"/>
       <point x="342" y="431"/>
       <point x="339" y="420" type="curve"/>
-      <point x="355" y="472" type="line" smooth="yes"/>
+      <point x="355" y="472" type="line"/>
       <point x="351" y="460"/>
       <point x="342" y="456"/>
       <point x="334" y="456" type="curve" smooth="yes"/>
@@ -54,24 +54,6 @@ uni1D2D
     <component base="E.ordn" xOffset="174"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>E.ordn</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>uni1D2C</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>uni1D31</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

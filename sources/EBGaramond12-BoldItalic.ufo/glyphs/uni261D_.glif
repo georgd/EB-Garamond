@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni261D" format="2">
   <advance width="495"/>
   <unicode hex="261D"/>
@@ -31,7 +31,7 @@ uni261D
       <point x="445" y="226" type="curve" smooth="yes"/>
       <point x="444" y="231"/>
       <point x="443" y="235"/>
-      <point x="443" y="240" type="curve" smooth="yes"/>
+      <point x="443" y="240" type="curve"/>
       <point x="442" y="239"/>
       <point x="449" y="248"/>
       <point x="450" y="251" type="curve" smooth="yes"/>
@@ -67,7 +67,7 @@ uni261D
       <point x="348" y="453" type="curve" smooth="yes"/>
       <point x="345" y="453"/>
       <point x="342" y="458"/>
-      <point x="343" y="457" type="curve" smooth="yes"/>
+      <point x="343" y="457" type="curve"/>
       <point x="340" y="462"/>
       <point x="339" y="469"/>
       <point x="325" y="469" type="curve" smooth="yes"/>
@@ -124,7 +124,7 @@ uni261D
       <point x="38" y="237" type="curve" smooth="yes"/>
       <point x="56" y="197"/>
       <point x="90" y="152"/>
-      <point x="103" y="128" type="curve" smooth="yes"/>
+      <point x="103" y="128" type="curve"/>
       <point x="101" y="133"/>
       <point x="115" y="114"/>
       <point x="115" y="111" type="curve"/>
@@ -199,7 +199,7 @@ uni261D
       <point x="143" y="162" type="curve" smooth="yes"/>
       <point x="119" y="188"/>
       <point x="94" y="226"/>
-      <point x="94" y="248" type="curve" smooth="yes"/>
+      <point x="94" y="248" type="curve"/>
       <point x="94" y="243"/>
       <point x="95" y="260"/>
       <point x="95" y="270" type="curve" smooth="yes"/>
@@ -439,9 +439,6 @@ uni261D
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,18 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uogonek.sc" format="2">
   <advance width="563"/>
+  <anchor x="394" y="503" name="top"/>
   <note>
 Uogonek.sc
 </note>
-  <anchor x="394" y="503" name="top"/>
   <outline>
     <component base="U.sc"/>
     <component base="ogonek" xOffset="195"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

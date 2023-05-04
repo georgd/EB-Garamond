@@ -1,18 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron.sc" format="2">
   <advance width="428"/>
+  <anchor x="287" y="503" name="top"/>
   <note>
 Scaron.sc
 </note>
-  <anchor x="287" y="503" name="top"/>
   <outline>
     <component base="S.sc"/>
     <component base="uni030C.sc" xOffset="221" yOffset="84"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

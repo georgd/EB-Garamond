@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="at.ordn" format="2">
   <advance width="563"/>
   <note>
@@ -55,7 +55,7 @@ at.ordn
       <point x="408" y="414" type="curve" smooth="yes"/>
       <point x="414" y="419"/>
       <point x="421" y="424"/>
-      <point x="414" y="409" type="curve" smooth="yes"/>
+      <point x="414" y="409" type="curve"/>
       <point x="415" y="411"/>
       <point x="369" y="331"/>
       <point x="368" y="330" type="curve" smooth="yes"/>
@@ -96,9 +96,6 @@ at.ordn
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

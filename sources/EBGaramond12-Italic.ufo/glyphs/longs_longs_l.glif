@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_longs_l" format="2">
   <advance width="853"/>
+  <anchor x="634" y="-30" name="bottom"/>
   <note>
 longs_longs_l
 </note>
-  <anchor x="634" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="100" y="-290" type="curve" smooth="yes"/>
@@ -74,13 +74,6 @@ longs_longs_l
     <component base="l" xOffset="567"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>longs</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>l</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+    <dict/>
   </lib>
 </glyph>
