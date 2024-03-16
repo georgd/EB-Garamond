@@ -56,7 +56,6 @@ font.version = args.version
 font.encoding = 'UnicodeFull'
 font.selection.all()
 font.removeOverlap()
-font.autoHint()
 
 for svg in glob.glob(args.input + "/*svg"):
     letter = os.path.splitext(os.path.basename(svg))[0]
@@ -79,4 +78,7 @@ if extension == '.ttf':
 #    font.em = 2048
     font.round()
 
-font.generate(args.output) #do somthing about 'old-kern'## should we really?
+if extension == '.ttf':
+    font.generate(args.output, flags=("dummy-dsig", "winkern", "no-hints")) #do somthing about 'old-kern'## should we really?
+else:
+    font.generate(args.output, flags=("dummy-dsig", "winkern", "opentype")) #do somthing about 'old-kern'## should we really?

@@ -59,7 +59,7 @@ $(BLD)/%.ttf: $(SRC)/%.sfdir Makefile $(SCRIPT) | $(BLD)
 	@echo "Generating	$@"
 	@$(PYTHON) $(SCRIPT) $< $@ $(VERSION)
 	@echo "Autohinting	$@"
-	@ttfautohint -x 0 -a sss $@ $@.tmp
+	@ttfautohint -G 25 -r 25 -W -a nnn $@ $@.tmp
 	@mv $@.tmp $@
 
 $(WEB)/%.woff: $(BLD)/%.ttf | $(WEB) $(BLD)
