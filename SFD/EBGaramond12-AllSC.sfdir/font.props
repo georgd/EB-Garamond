@@ -42,6 +42,8 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2FamilyClass: 258
 OS2Vendor: 'PfEd'
+OS2CodePages: 20000111.41000000
+OS2UnicodeRanges: 800000a7.5000004a.00000000.00000000
 Lookup: 1 0 0 "loclDEU"  {"loclDEU subtable"  } ['locl' ('latn' <'DEU ' > ) ]
 Lookup: 1 0 0 "loclTRK"  {"loclTRK subtable"  } ['locl' ('latn' <'TRK ' 'AZE ' 'CRT ' > ) ]
 Lookup: 1 0 0 "loclCAT"  {"loclCAT subtable"  } ['locl' ('latn' <'CAT ' > ) ]
